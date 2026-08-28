@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "title": "2 Timothy — key verses per chapter (King James Version, public domain)",
+    "book": "2 Timothy",
+    "description": "Several curated key verses from each of the 4 chapters of 2 Timothy. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 55 2 Timothy); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "several key verses per chapter (~1-2, scaled to chapter substance)",
+    "keying": "book + chapter + citation; multiple records per chapter",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 7
+  },
+  "verses": [
+    { "book": "2 Timothy", "chapter": 1, "citation": "2 Timothy 1:7", "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.", "plain": "For God has not given us a spirit of fear, but of power, of love, and of a sound mind." },
+    { "book": "2 Timothy", "chapter": 1, "citation": "2 Timothy 1:12", "text": "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.", "plain": "That is why I suffer as I do. Yet I am not ashamed, because I know whom I have believed, and I am convinced that he is able to guard what I have entrusted to him until that day." },
+    { "book": "2 Timothy", "chapter": 2, "citation": "2 Timothy 2:3", "text": "Thou therefore endure hardness, as a good soldier of Jesus Christ.", "plain": "Endure hardship with us like a good soldier of Christ Jesus." },
+    { "book": "2 Timothy", "chapter": 2, "citation": "2 Timothy 2:15", "text": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.", "plain": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth." },
+    { "book": "2 Timothy", "chapter": 3, "citation": "2 Timothy 3:16", "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:", "plain": "All scripture is God-breathed and useful for teaching, for rebuking, for correcting, and for training in righteousness," },
+    { "book": "2 Timothy", "chapter": 3, "citation": "2 Timothy 3:17", "text": "That the man of God may be perfect, throughly furnished unto all good works.", "plain": "so that the person of God may be complete, thoroughly equipped for every good work." },
+    { "book": "2 Timothy", "chapter": 4, "citation": "2 Timothy 4:7", "text": "I have fought a good fight, I have finished my course, I have kept the faith:", "plain": "I have fought the good fight, I have finished the race, I have kept the faith." }
+  ]
+}

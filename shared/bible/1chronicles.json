@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "title": "1 Chronicles — key verses (King James Version, public domain)",
+    "book": "1 Chronicles",
+    "description": "Curated key verses from 1 Chronicles (seek the Lord and his strength, give thanks for he is good, David's doxology). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 13 1 Chronicles); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; genealogy/register chapters omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 3
+  },
+  "verses": [
+    { "book": "1 Chronicles", "chapter": 16, "citation": "1 Chronicles 16:11", "text": "Seek the Lord and his strength, seek his face continually.", "plain": "Seek the Lord and his strength; seek his face continually." },
+    { "book": "1 Chronicles", "chapter": 16, "citation": "1 Chronicles 16:34", "text": "O give thanks unto the Lord; for he is good; for his mercy endureth for ever.", "plain": "Give thanks to the Lord, for he is good; his love endures forever." },
+    { "book": "1 Chronicles", "chapter": 29, "citation": "1 Chronicles 29:11", "text": "Thine, O Lord, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O Lord, and thou art exalted as head above all.", "plain": "Yours, Lord, is the greatness and the power and the glory and the victory and the majesty; for everything in heaven and earth is yours. Yours, Lord, is the kingdom; you are exalted as head over all." }
+  ]
+}

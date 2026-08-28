@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "title": "Job — key verses (King James Version, public domain)",
+    "book": "Job",
+    "description": "Curated key verses from Job (worship in loss, 'I know my redeemer lives,' refined as gold, God's answer from the whirlwind, seeing God). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 18 Job); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the poetic dialogue; the long speech-cycles are represented by their high points",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 6
+  },
+  "verses": [
+    { "book": "Job", "chapter": 1,  "citation": "Job 1:21",  "text": "And said, Naked came I out of my mother's womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; blessed be the name of the Lord.", "plain": "He said: 'Naked I came from my mother's womb, and naked I will depart. The Lord gave and the Lord has taken away; blessed be the name of the Lord.'" },
+    { "book": "Job", "chapter": 19, "citation": "Job 19:25", "text": "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:", "plain": "I know that my redeemer lives, and that in the end he will stand upon the earth." },
+    { "book": "Job", "chapter": 23, "citation": "Job 23:10", "text": "But he knoweth the way that I take: when he hath tried me, I shall come forth as gold.", "plain": "But he knows the way that I take; when he has tested me, I will come out as gold." },
+    { "book": "Job", "chapter": 38, "citation": "Job 38:4",  "text": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.", "plain": "Where were you when I laid the foundations of the earth? Tell me, if you understand." },
+    { "book": "Job", "chapter": 42, "citation": "Job 42:2",  "text": "I know that thou canst do every thing, and that no thought can be withholden from thee.", "plain": "I know that you can do all things; no purpose of yours can be thwarted." },
+    { "book": "Job", "chapter": 42, "citation": "Job 42:5",  "text": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.", "plain": "My ears had heard of you, but now my eyes have seen you." }
+  ]
+}

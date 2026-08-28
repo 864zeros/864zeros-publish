@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "title": "2 Chronicles — key verses (King James Version, public domain)",
+    "book": "2 Chronicles",
+    "description": "Curated key verses from 2 Chronicles (humble prayer and healing, God's eyes seeking the committed heart, 'the battle is God's'). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 14 2 Chronicles); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; reign/register narrative largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 4
+  },
+  "verses": [
+    { "book": "2 Chronicles", "chapter": 7,  "citation": "2 Chronicles 7:14",  "text": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.", "plain": "If my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and heal their land." },
+    { "book": "2 Chronicles", "chapter": 16, "citation": "2 Chronicles 16:9",  "text": "For the eyes of the Lord run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.", "plain": "For the eyes of the Lord range throughout the earth to strengthen those whose hearts are fully committed to him." },
+    { "book": "2 Chronicles", "chapter": 20, "citation": "2 Chronicles 20:15", "text": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the Lord unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God's.", "plain": "He said: Listen, all Judah and people of Jerusalem, and King Jehoshaphat! This is what the Lord says to you: Do not be afraid or discouraged because of this vast army. For the battle is not yours, but God's." },
+    { "book": "2 Chronicles", "chapter": 20, "citation": "2 Chronicles 20:17", "text": "Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the Lord with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the Lord will be with you.", "plain": "You will not have to fight this battle. Take up your positions; stand firm and see the deliverance the Lord will give you. Do not be afraid; do not be discouraged. Go out to face them, and the Lord will be with you." }
+  ]
+}

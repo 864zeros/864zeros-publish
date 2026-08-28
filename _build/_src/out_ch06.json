@@ -1,0 +1,230 @@
+[
+  {
+    "id": "lit_ch06_1",
+    "reader_text": "This is perhaps difficult — especially discussing our patterns with another person. We think we have done well enough in admitting these things to ourselves. There is doubt about that. In actual practice, we usually find a solitary self-appraisal insufficient. Many of us thought it necessary to go much further. We will be more reconciled to talking about ourselves with another person when we see good reasons why we should do so. The best reason first: if we skip this vital step, we may not stay free. Time after time newcomers have tried to keep to themselves certain facts about their lives. Trying to avoid this humbling experience, they turned to easier methods. Almost invariably they went back to using. Having persevered with the rest of the program, they wondered why they fell. We think the reason is that they never completed their housecleaning. They took inventory all right, but hung on to some of the worst items in stock. They only thought they had lost their fear and self-protection. But they had not learned enough honesty, in the sense we find it necessary, until they told someone else their whole story.",
+    "surface_text": "This part is hard — especially telling another person what you found in your honest self-review. It's tempting to think that admitting it to yourself is enough. Be careful there. On its own, a private self-appraisal usually isn't enough, and most of us had to go further. It gets easier once you see why it matters: if you skip this step, you may not stay free. Over and over, people have held back one or two facts about their lives — the parts that felt too humbling to say out loud — and reached for an easier route instead. Almost every time, they went back to using. They'd done the rest of the work and couldn't figure out why they slipped. The reason is they never finished cleaning house. They wrote it all down, then quietly kept the worst items. Saying it out loud to one person is what actually drains its power — thinking it in private doesn't do it.",
+    "faith_optional": null,
+    "labels": { "moment": ["starting-out", "after-a-slip"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "confession → 'saying it out loud to one person drains its power'; 'get drunk' → 'went back to using'; removed moralizing (egoism/humbling kept as plain honesty)",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 84,
+      "paragraph_index": 1,
+      "quote_stub": "This is perhaps difficult–especially discussi"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_2",
+    "reader_text": "More than most people, a person caught in addiction leads a double life. You become very much the actor. To the outer world you present your stage character — the one you like others to see. You want to enjoy a certain reputation, but know in your heart you don't deserve it. The inconsistency is made worse by the things done while using. Coming to your senses, you are sickened by certain episodes you vaguely remember. These memories are a nightmare. You tremble to think someone might have observed you. As fast as you can, you push these memories far inside. You hope they will never see the light of day. You are under constant fear and tension — and that makes for more using.",
+    "surface_text": "Addiction tends to split you into two people. There's the version you perform for everyone else — the reputation you want, the face you like them to see — and underneath, you know you haven't earned it. It gets worse because of the things that happened while you were using. When you come to, there are episodes you can only half remember, and they haunt you. You flinch thinking about who might have seen. So you shove the memories down as fast as you can and hope they never surface. But that costs you: you're carrying constant fear and tension — and that pressure is exactly what pushes you back toward using. Bringing those memories into the light with one safe person is what lets you set the pressure down.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "fear"], "halt": "STRESSED", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'the alcoholic' → 'a person caught in addiction'; gender-neutral (he→you); 'more drinking' → 'more using'; disclosure implied as relief from hidden-tension loop",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 85,
+      "paragraph_index": 3,
+      "quote_stub": "The inconsistency is made worse by the things"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_3",
+    "reader_text": "We must be entirely honest with somebody if we expect to live long or happily in this world. Rightly and naturally, we think well before we choose the person or persons with whom to take this intimate and confidential step. If we cannot, or would rather not turn to a member of the clergy, we search our acquaintance for a close-mouthed, understanding friend. Perhaps our doctor or counselor will be the person. It may be someone in our own family, but we cannot disclose anything to those close to us which will hurt them and make them unhappy. We have no right to save our own skin at another person's expense. Such parts of our story we tell to someone who will understand, yet be unaffected. The rule is we must be hard on ourself, but always considerate of others.",
+    "surface_text": "To live well and for the long haul, you have to be fully honest with at least one person. That's worth being thoughtful about — pick who you tell with care. It can be a member of the clergy if that fits you, or a tight-lipped, understanding friend, or your doctor or counselor. It might even be someone in your family — but don't hand a loved one a detail that will only wound them. You don't get to save yourself at someone else's expense. The parts of your story that would hurt a person close to you, tell instead to someone who will understand but isn't tangled up in it. The rule of thumb: be hard on yourself, and always considerate of others.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others", "family-strain"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "confession → choosing a safe person to say it out loud to; clergy-required-confession detail generalized; 'wives or parents' → 'those close to us / family'; kept religious option as one choice, not mandate",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 86,
+      "paragraph_index": 6,
+      "quote_stub": "If we cannot, or would rather not do this, we"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_4",
+    "reader_text": "We pocket our pride and go to it, illuminating every twist of character, every dark cranny of the past. Once we have taken this step, withholding nothing, we are delighted. We can look the world in the eye. We can be alone at perfect peace and ease. Our fears fall from us. The feeling that the problem has disappeared will often come strongly. We may have had certain beliefs, but now we begin to have a genuine experience of relief.",
+    "surface_text": "You set your pride aside and go through with it — every twist of character, every dark corner of the past, out in the open. Once you've done it and held nothing back, something lifts. You can look the world in the eye. You can sit alone and feel completely at peace. The fear falls away. Often you'll feel, strongly, like the weight of the whole problem has finally come off. It stops being an idea you'd heard about and becomes something you've actually felt.",
+    "faith_optional": "Many people describe this moment as the first time they felt a nearness to something larger than themselves — as if they were no longer walking it alone.",
+    "labels": { "moment": ["after-a-slip", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "action", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "confession → full disclosure that lifts fear; 'nearness of our Creator / spiritual experience / hand in hand with the Spirit of the Universe' → moved to faith_optional; 'drink problem' → 'the problem'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 87,
+      "paragraph_index": 9,
+      "quote_stub": "We pocket our pride and go to it, illuminating"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_5",
+    "reader_text": "Now we need more action. We have a list of all persons we have harmed and to whom we are willing to make repair. We made it when we took inventory. We subjected ourselves to a drastic self-appraisal. Now we go out to our fellows and repair the damage done in the past. We attempt to sweep away the debris which has accumulated out of our effort to live on self-will and run the show ourselves. If we haven't the will to do this, we ask for it until it comes. Remember it was agreed at the beginning we would go to any lengths for our freedom.",
+    "surface_text": "Now comes more action. You already have a list — the people you've harmed and are willing to repair things with — because you made it during your honest self-review. Now you actually go to them and repair the damage from the past. You're clearing away the wreckage that piled up while you were running the show on pure self-will. If you don't feel ready or willing yet, keep at it until the willingness shows up — it does. Remember what you agreed to at the start: you'd go to any length for your freedom.",
+    "faith_optional": null,
+    "labels": { "moment": ["staying-the-course", "helping-others"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "amends → repair; 'Faith without works is dead' framing trimmed to plain action; 'victory over alcohol' → 'our freedom'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 88,
+      "paragraph_index": 13,
+      "quote_stub": "Now we need more action without which we find"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_6",
+    "reader_text": "The question of how to approach the person we resented will arise. It may be they have done us more harm than we have done them, and, though we may have acquired a better attitude toward them, we are still not too keen about admitting our faults. Nevertheless, with a person we dislike, we take the bit in our teeth. It is harder to go to someone we've been at odds with than to a friend, but we find it much more beneficial to us. We go to them in a helpful and forgiving spirit, acknowledging our former ill feeling and expressing our regret. Under no condition do we criticize such a person or argue. Simply we tell them that we will never fully get free until we have done our utmost to straighten out the past. We are there to sweep off our side of the street, never trying to tell them what they should do. Their faults are not discussed. We stick to our own. If our manner is calm, frank, and open, we will be gratified with the result.",
+    "surface_text": "Sooner or later you'll face the harder version: repairing things with someone you resent. Maybe they hurt you more than you hurt them, and even with a better attitude you're still not eager to own your part. Do it anyway. Going to someone you've been at odds with is tougher than going to a friend — and it helps you more. Show up open and without a grudge, name the resentment you carried, and say you're sorry for your part. Don't criticize them and don't argue. Just tell them you won't fully get free until you've done everything you can to set the past right. You're there to clean up your side of the street — not to tell them how to live, and not to catalog their faults. Stick to your own. Stay calm, honest, and open, and you'll be glad you did it.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment", "family-strain"], "halt": "ANGRY", "urge_level": "PASSING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "amends → repair; merged the enemy-approach guidance (para 15–16); 'get over drinking' → 'get free'; 'confessing' → 'acknowledging'",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 89,
+      "paragraph_index": 15,
+      "quote_stub": "We don’t use this as an excuse for shying away"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_7",
+    "reader_text": "Most of us owe money. We do not dodge our creditors. Telling them what we are trying to do, we make no bones about our using; they usually know it anyway, whether we think so or not. Nor are we afraid of disclosing it on the theory it may cause financial harm. Approached in this way, the most ruthless creditor will sometimes surprise us. Arranging the best deal we can, we let these people know we are sorry. Our using has made us slow to pay. We must lose our fear of creditors no matter how far we have to go, for we are liable to relapse if we are afraid to face them.",
+    "surface_text": "Most of us owe money. Don't dodge the people you owe. Tell them what you're working on, and be straight about the using — they've probably guessed already. Don't hide it out of worry that honesty will cost you; approached this way, even a hard-nosed creditor can surprise you. Work out the best arrangement you can and let them know you're sorry — the using is why you fell behind. You have to lose the fear of the people you owe, however far you have to go to do it, because fear you're avoiding is the kind of pressure that talks you back into using.",
+    "faith_optional": null,
+    "labels": { "moment": ["fear", "work-strain"], "halt": "STRESSED", "urge_level": "PASSING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "amends → repair (financial); 'drinking'/'alcoholism' → 'using'; 'liable to drink' → 'liable to relapse'; disclosure of one's situation to creditors kept as facing-fear technique",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 90,
+      "paragraph_index": 18,
+      "quote_stub": "Most alcoholics owe money. We do not dodge our"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_8",
+    "reader_text": "There may be some wrongs we can never fully right. We don't worry about them if we can honestly say to ourselves that we would right them if we could. Some people cannot be seen — we send them an honest letter. And there may be a valid reason for postponement in some cases. But we don't delay if it can be avoided. We should be sensible, tactful, considerate, and humble — without being servile or scraping. We stand on our feet; we don't crawl before anyone.",
+    "surface_text": "Some harms you'll never be able to fully repair. Don't torment yourself over those — if you can honestly say you'd set them right if you could, that's enough. For people you can't reach in person, send an honest letter. Sometimes there's a real reason to wait — but don't drag your feet when you don't have to. Be sensible, tactful, considerate, and humble. Humble doesn't mean groveling. You can own your part while still standing on your own two feet — you don't have to crawl for anyone.",
+    "faith_optional": null,
+    "labels": { "moment": ["after-a-slip", "staying-the-course"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "amends → repair; 'As God's people we stand on our feet' → generalized to 'we stand on our feet' (no faith dependency needed for the dignity point)",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 95,
+      "paragraph_index": 35,
+      "quote_stub": "There may be some wrongs we can never fully ri"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_9",
+    "reader_text": "If we are painstaking about this phase of our development, we will be amazed before we are half through. We are going to know a new freedom and a new happiness. We will not regret the past nor wish to shut the door on it. We will comprehend the word serenity and we will know peace. No matter how far down the scale we have gone, we will see how our experience can benefit others. That feeling of uselessness and self-pity will disappear. We will lose interest in selfish things and gain interest in our fellows. Self-seeking will slip away. Our whole attitude and outlook upon life will change. Fear of people and of economic insecurity will leave us. We will intuitively know how to handle situations which used to baffle us. We will suddenly realize that we are doing for ourselves what we never could alone.",
+    "surface_text": "If you keep at this, honestly, you'll be amazed before you're even halfway. Here's what people describe: a new kind of freedom, and an actual happiness. You stop regretting the past — and you stop wanting to slam the door on it. You start to understand what serenity means, and you feel real peace. No matter how far down you went, you'll see how even that can help someone else. The uselessness and self-pity fade. You get out of your own head and start caring about other people. The constant self-focus loosens its grip. Your whole outlook shifts. The fear of people, and of not having enough, eases off. You start handling situations that used to floor you, almost without thinking. One day you realize you're doing for yourself what you never could on your own.",
+    "faith_optional": "For many people this is the moment they realize it was never just willpower — that a power greater than themselves was doing for them what they couldn't do alone.",
+    "labels": { "moment": ["after-a-slip", "staying-the-course"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "maintenance", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "closing 'God is doing for us' → moved to faith_optional; the Promises themselves kept universal (approved Gold C text, verbatim)",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 96,
+      "paragraph_index": 36,
+      "quote_stub": "If we are painstaking about this phase of our"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_10",
+    "reader_text": "This brings us to the practice of continuing to take personal inventory and continuing to set right any new mistakes as we go along. We vigorously commenced this way of living as we cleaned up the past. Our next task is to grow in understanding and effectiveness. This is not an overnight matter. It should continue for our lifetime. Continue to watch for selfishness, dishonesty, resentment, and fear. When these crop up, we don't let them sit. We discuss them with someone right away and make repair quickly if we have harmed anyone. Then we resolutely turn our thoughts to someone we can help. Love and tolerance of others is our code.",
+    "surface_text": "This is the ongoing part: keep taking honest stock of yourself, and set right any new mistakes as you go. You started this while cleaning up the past — now the job is to keep growing. It's not an overnight thing; it's a lifetime practice. Keep an eye out for the usual culprits — selfishness, dishonesty, resentment, fear. When one shows up, don't let it fester. Say it out loud to someone right away, and if you've hurt someone, repair it fast. Then deliberately turn your attention to someone you can help. Love and tolerance of others is the code to live by.",
+    "faith_optional": "Some people add a quiet request, in whatever way is natural to them, to have these patterns lifted the moment they notice them.",
+    "labels": { "moment": ["staying-the-course", "helping-others"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "maintenance", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "amends → repair; confession → 'say it out loud to someone'; 'ask God at once to remove them' → faith_optional; step-10 label not quoted, framed as a practice",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 96,
+      "paragraph_index": 38,
+      "quote_stub": "This thought brings us to step ten, which sugg"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_11",
+    "reader_text": "It is easy to let up on this program of action and rest on our laurels. We are headed for trouble if we do, for the urge is a subtle foe. We are not cured. What we really have is a daily reprieve, contingent on the maintenance of our condition. Every day is a day when we must carry our purpose into all of our activities. These are thoughts which must go with us constantly. We can exercise our willpower along this line all we wish. It is the proper use of the will.",
+    "surface_text": "It's easy to ease off once things feel steady — to coast. That's when you get into trouble, because the urge is a quiet, patient opponent. You're not cured. What you have is a daily reprieve, and it holds only as long as you keep up the practice. Every single day, you carry your purpose into whatever you're doing — that thought stays with you. This is where willpower actually belongs: not white-knuckling a craving in the moment, but choosing, each day, to keep showing up for the practice. That's the right use of the will.",
+    "faith_optional": "For many, that daily purpose is framed as carrying something larger than themselves — their sense of a greater will — into everything they do.",
+    "labels": { "moment": ["staying-the-course", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'alcohol is a subtle foe' → 'the urge is a subtle foe'; 'not cured of alcoholism' → 'not cured'; 'carry the vision of God's will / Thy will be done' → faith_optional; reframed willpower per doctrine table (can't out-willpower a craving, but can choose the daily practice)",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 97,
+      "paragraph_index": 40,
+      "quote_stub": "It is easy to let up on the spiritual program"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch06_12",
+    "reader_text": "When we retire at night, we constructively review our day. Were we resentful, selfish, dishonest, or afraid? Do we owe an apology? Have we kept something to ourselves which should be discussed with another person at once? Were we kind and loving toward all? What could we have done better? Were we thinking of ourselves most of the time? Or were we thinking of what we could do for others, of what we could pack into the stream of life? But we must be careful not to drift into worry, remorse, or morbid reflection, for that would diminish our usefulness to others. After making our review we consider what corrective measures should be taken. On awakening, let us think about the twenty-four hours ahead. We consider our plans for the day, asking that our thinking be divorced from self-pity, dishonest, or self-seeking motives. As we go through the day, we pause when agitated or doubtful, and ask ourselves for the right thought or action.",
+    "surface_text": "At night, run a calm review of your day. Were you resentful, selfish, dishonest, or afraid? Do you owe anyone an apology? Are you holding something in that you should say out loud to someone soon? Were you kind? What could you have done better? Were you mostly stuck in your own head, or were you thinking about what you could give? One caution: don't let the review slide into worry, guilt, or spiraling — that just wears you down and helps no one. Just note what you'd correct, and let it go. In the morning, look at the next twenty-four hours. Think through your plans, and set an intention to keep self-pity and dishonest motives out of it. Then, all day long, when you feel agitated or unsure, pause — and ask yourself what the right next thought or action is. That nightly-and-morning rhythm is the whole practice, and it steadies you.",
+    "faith_optional": "Many people make these moments a short prayer — asking, at night, for forgiveness and, in the morning, to be directed through the day — in whatever form feels honest to them.",
+    "labels": { "moment": ["staying-the-course", "doubt-higher-power"], "halt": "TIRED", "urge_level": "CLEAR", "stage": "maintenance", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "prayer/meditation content → technique (nightly review + morning intention + midday pause); confession → 'say it out loud to someone'; 'ask God's forgiveness / ask God to direct our thinking' → faith_optional; condensed the meditation paragraphs (43–44, 48) into one technique while preserving full meaning",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch06",
+      "chapter_title": "VI. Into Action",
+      "page": 98,
+      "paragraph_index": 43,
+      "quote_stub": "When we retire at night, we constructively rev"
+    },
+    "needs_clinical_review": true
+  }
+]

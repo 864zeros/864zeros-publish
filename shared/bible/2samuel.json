@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "title": "2 Samuel — key verses (King James Version, public domain)",
+    "book": "2 Samuel",
+    "description": "Curated key verses from 2 Samuel (God's greatness and David's song: the Lord my rock, God's perfect way). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 10 2 Samuel); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; court/battle narrative largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 3
+  },
+  "verses": [
+    { "book": "2 Samuel", "chapter": 7,  "citation": "2 Samuel 7:22",  "text": "Wherefore thou art great, O Lord God: for there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears.", "plain": "How great you are, Sovereign Lord! There is no one like you, and there is no God but you, as we have heard with our own ears." },
+    { "book": "2 Samuel", "chapter": 22, "citation": "2 Samuel 22:2",  "text": "And he said, The Lord is my rock, and my fortress, and my deliverer;", "plain": "He said: The Lord is my rock, my fortress, and my deliverer;" },
+    { "book": "2 Samuel", "chapter": 22, "citation": "2 Samuel 22:31", "text": "As for God, his way is perfect; the word of the Lord is tried: he is a buckler to all them that trust in him.", "plain": "As for God, his way is perfect; the word of the Lord is flawless; he is a shield to all who take refuge in him." }
+  ]
+}

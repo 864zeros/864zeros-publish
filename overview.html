@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>864zeros Content Factory — Project Overview</title>
+<style>
+  :root{
+    --bg:#f6f5f1; --panel:#ffffff; --ink:#23201b; --muted:#7c766b; --line:#e6e2da;
+    --accent:#6b7d5a; --accent-soft:#eef1e9; --kjv:#5b6e8c; --web:#8a6d3b; --warn:#9a6a4b;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:16px/1.62 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:940px;margin:0 auto;padding:0 24px 90px}
+  header{padding:56px 0 30px;border-bottom:1px solid var(--line);margin-bottom:8px}
+  .kicker{color:var(--accent);font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700}
+  h1{font-size:34px;line-height:1.15;margin:10px 0 8px;letter-spacing:-.01em}
+  .dateline{color:var(--muted);font-size:13.5px}
+  h2{font-size:22px;margin:44px 0 10px;padding-bottom:8px;border-bottom:2px solid var(--accent-soft)}
+  h3{font-size:16px;margin:26px 0 6px}
+  p{margin:10px 0}
+  ul,ol{margin:10px 0;padding-left:22px}
+  li{margin:5px 0}
+  code{background:#efece6;border:1px solid var(--line);border-radius:4px;padding:1px 5px;font:13px/1.4 "SFMono-Regular",Consolas,monospace}
+  .lede{font-size:18px;color:#3a362e}
+  /* Exec summary card */
+  .exec{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:22px 24px;margin:22px 0}
+  .exec h2{margin:0 0 8px;border:0;font-size:15px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+  /* Stat strip */
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:22px 0}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px}
+  .stat .num{font-size:28px;font-weight:700;letter-spacing:-.02em}
+  .stat .lab{color:var(--muted);font-size:12px;margin-top:2px}
+  table{width:100%;border-collapse:collapse;margin:14px 0;font-size:14.5px;background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line)}
+  th{background:var(--accent-soft);font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:#4c5842}
+  td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+  tr:last-child td{border-bottom:0}
+  .badge{display:inline-block;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:999px;color:#fff}
+  .badge.KJV{background:var(--kjv)} .badge.WEB{background:var(--web)}
+  .note{background:#fbf6ee;border:1px solid #ecdfca;border-radius:8px;padding:12px 16px;margin:16px 0;font-size:14.5px}
+  .note b{color:var(--warn)}
+  .decision{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px 16px;margin:12px 0}
+  .decision .d{font-weight:700}
+  .decision .alt{color:var(--muted);font-size:14px}
+  .schema{background:#26241f;color:#e9e5db;border-radius:10px;padding:16px 18px;overflow:auto;font:13.5px/1.55 "SFMono-Regular",Consolas,monospace}
+  .schema .k{color:#b9c9a4}.schema .s{color:#e6c98a}
+  footer{margin-top:50px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+  @media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}h1{font-size:27px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="kicker">864zeros · Faith, Health &amp; Growth · Content Factory</div>
+  <h1>Public-Domain Bible &amp; Recovery Content Library</h1>
+  <div class="dateline">Project overview &amp; build record · compiled 2026-08-24 · authored content is original 864zeros writing</div>
+</header>
+
+<!-- ======================= EXECUTIVE SUMMARY ======================= -->
+<div class="exec">
+  <h2>Executive Summary</h2>
+  <p class="lede">We built a complete, reusable, public-domain <b>scripture and recovery content library</b> — original 864zeros writing paired with citable public-domain source text — that any app across the 864zeros ecosystem can ingest as static JSON.</p>
+  <p>The centerpiece is the <b>entire Bible</b>: every one of the 66 books represented as curated key verses, each carrying the exact public-domain scripture (<b>text</b>) beside an original, modern, 2026-voice rendering (<b>plain</b>). Alongside it sits the finished <b>ClearStreak recovery content</b> — 300 daily verses, 130 modernized Big Book passages, and 100 affirmations.</p>
+  <p><b>Totals:</b> 1,364 content records · 66 Bible books (834 records) + 530 recovery records · all validated (clean UTF-8, no empty fields, counts reconciled) · zero external-license dependencies (100% public-domain sources or original 864zeros authorship) · no runtime API calls required.</p>
+  <p><b>Status:</b> Complete and reviewable. A browser reader (<code>bible_viewer.html</code>), a machine-readable manifest (<code>bible_index.json</code>), and index docs ship with it. This library is being <b>relocated out of the ClearStreak mobile-app repo</b> into its own home; the app retains copies of the content JSON it consumes.</p>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="num">1,364</div><div class="lab">total content records</div></div>
+  <div class="stat"><div class="num">66</div><div class="lab">Bible books (all of them)</div></div>
+  <div class="stat"><div class="num">834</div><div class="lab">scripture records</div></div>
+  <div class="stat"><div class="num">100%</div><div class="lab">public-domain / original</div></div>
+</div>
+
+<!-- ======================= WHAT THIS IS ======================= -->
+<h2>1. What this is</h2>
+<p>The <code>content/</code> directory is a <b>content factory</b>. Its job is to produce clean, validated JSON — in the conventions first established for the ClearStreak recovery app — that is <b>ecosystem-generic</b>: not wired to any single app, ingestible by all of them. Every record pairs a <b>public-domain source</b> with <b>original 864zeros writing</b>, which is precisely what makes the output both legally clean and a genuine 864zeros asset rather than a re-shipped commodity.</p>
+<p>The guiding rule throughout: <b>the paraphrase is the product.</b> The scripture text is the citable anchor; the original plain-English rendering is the value 864zeros owns and can deploy anywhere.</p>
+
+<!-- ======================= THE BIBLE LIBRARY ======================= -->
+<h2>2. The Bible library — all 66 books</h2>
+<p>The complete Protestant canon, delivered as curated key verses with dual renderings. Every record:</p>
+<div class="schema">{ <span class="k">"book"</span>: <span class="s">"John"</span>, <span class="k">"chapter"</span>: 3, <span class="k">"citation"</span>: <span class="s">"John 3:16"</span>,
+  <span class="k">"text"</span>:  <span class="s">"For God so loved the world, that he gave his only begotten Son…"</span>,   <span style="color:#8a857b">// verbatim public-domain scripture</span>
+  <span class="k">"plain"</span>: <span class="s">"God loved the world so much that he gave his only Son…"</span> }        <span style="color:#8a857b">// original 864zeros 2026 rendering</span></div>
+
+<table>
+  <tr><th>Section</th><th>Shape</th><th class="n">Records</th><th>Anchor</th></tr>
+  <tr><td>Proverbs</td><td>Proverb-a-Day (day 1–31 → chapter)</td><td class="n">31</td><td><span class="badge WEB">WEB</span></td></tr>
+  <tr><td>Psalms</td><td>One curated verse per psalm</td><td class="n">150</td><td><span class="badge WEB">WEB</span></td></tr>
+  <tr><td>Gospels (Matthew–John)</td><td>One verse per chapter</td><td class="n">89</td><td><span class="badge KJV">KJV</span></td></tr>
+  <tr><td>Acts → Revelation (23 books)</td><td>Several key verses per chapter</td><td class="n">357</td><td><span class="badge KJV">KJV</span></td></tr>
+  <tr><td>Genesis → Malachi, rest of OT (37 books)</td><td>Several key verses per chapter</td><td class="n">207</td><td><span class="badge KJV">KJV</span></td></tr>
+  <tr><td><b>Total</b></td><td>63 files · 66 books</td><td class="n"><b>834</b></td><td>OT 388 / NT 446</td></tr>
+</table>
+
+<h3>Coverage</h3>
+<ul>
+  <li><b>New Testament:</b> 100% of chapters represented (epistle books cover every chapter; Gospels one verse per chapter).</li>
+  <li><b>Old Testament:</b> devotional high points of every book — pure-genealogy and graphic-only narrative chapters are intentionally omitted (documented per file), so coverage is "most substantive chapters," not "every chapter."</li>
+</ul>
+
+<h3>Translation policy</h3>
+<p><span class="badge KJV">KJV</span> King James Version anchors the New Testament and most of the Old Testament — it matches the app's existing daily-verse content and is cross-checkable against the local KJV source. <span class="badge WEB">WEB</span> World English Bible anchors <b>Psalms &amp; Proverbs only</b> (chosen before KJV became the standard), with the divine name rendered "the Lord."</p>
+<div class="note"><b>Known, deliberate inconsistency:</b> Psalms &amp; Proverbs use the WEB anchor; everything else uses KJV. This was a conscious call (documented), and is trivially fixable if one uniform translation is ever wanted.</div>
+
+<!-- ======================= RECOVERY CONTENT ======================= -->
+<h2>3. ClearStreak recovery content</h2>
+<p>Finished earlier and retained here. Same doctrine of pairing public-domain sources with original 864zeros authorship.</p>
+<table>
+  <tr><th>Set</th><th>What it is</th><th class="n">Records</th></tr>
+  <tr><td>Daily verses</td><td>Curated KJV verses (public domain), emotion-tagged, for daily faith surfacing</td><td class="n">300</td></tr>
+  <tr><td>Big Book passages</td><td>The 1939 <i>Alcoholics Anonymous</i> (public domain) mined into modernized help content — each with two renderings (light-touch 1939 voice + re-voiced 2026), doctrine re-mapped to a secular framework, faith opt-in</td><td class="n">130</td></tr>
+  <tr><td>Affirmations — recovery</td><td>Original 864zeros affirmations, each a faithful interpretation of a cited Big Book passage</td><td class="n">50</td></tr>
+  <tr><td>Affirmations — spiritual</td><td>Original 864zeros affirmations, each interpreting a cited KJV verse</td><td class="n">50</td></tr>
+  <tr><td><b>Total</b></td><td></td><td class="n"><b>530</b></td></tr>
+</table>
+
+<!-- ======================= METHOD ======================= -->
+<h2>4. Methodology &amp; conventions</h2>
+<ul>
+  <li><b>Dual rendering.</b> <code>text</code> = verbatim public-domain scripture (the citable anchor). <code>plain</code> = original 864zeros writing in warm, plain 2026 English (~grade 6–8). Both preserved; the scripture is never replaced by the paraphrase, so citations never misrepresent.</li>
+  <li><b>Provenance.</b> Scripture text was pulled as whole-book clean JSON, then verses selected and validated locally, and cross-checked against a local KJV copy. Nothing was quoted from memory into a shipped record.</li>
+  <li><b>Divine name.</b> KJV renders "the Lord" as-is. WEB's "Yahweh/Yah" was adapted to "the Lord" (subject/possessive) and "Lord" (direct address) for familiar, cross-app reading.</li>
+  <li><b>Normalization.</b> Straight ASCII quotes/apostrophes; proper-name en-dashes → hyphens; wrapping parentheses, editorial colophons, and "Selah" markers dropped for clean standalone display; UTF-8 with no byte-order mark.</li>
+  <li><b>No review gates.</b> This content is original, 864zeros-authored; the author is the reviewer. No clinical or theological sign-off flags are attached.</li>
+  <li><b>Validated.</b> Every file parses; <code>_meta.count</code> matches actual records; no empty <code>text</code>/<code>plain</code>; no stray curly characters; the manifest total reconciles to 834.</li>
+</ul>
+
+<!-- ======================= DECISIONS ======================= -->
+<h2>5. Key decisions on the record</h2>
+<div class="decision"><div class="d">The paraphrase is original 864zeros content — not a published simple translation.</div>
+  <div class="alt">Alternative rejected: use a public-domain simple-English Bible (e.g. Basic English) as the "plain" layer. Reason: that would be a third party's dated text, non-differentiated and non-owned. Writing our own in a fresh 2026 voice is the entire point.</div></div>
+<div class="decision"><div class="d">Keep the exact scripture beside the paraphrase (dual rendering), never replace it.</div>
+  <div class="alt">Alternative rejected: ship only the modern rewrite under the citation. Reason: a citation is a truth claim — the actual verse must sit next to our authored line.</div></div>
+<div class="decision"><div class="d">"Several key verses per chapter" for the epistles and OT (not one-per-chapter, not every verse).</div>
+  <div class="alt">Alternatives rejected: a single flagship verse per chapter (too sparse for study use) or every verse (~all ~31,000 — a commodity re-ship, not curation).</div></div>
+<div class="decision"><div class="d">Bulk whole-book sourcing over per-verse API calls.</div>
+  <div class="alt">Alternative rejected: fetch each verse individually (hit rate limits) or scrape local PDFs (error-prone verse boundaries). Whole-book JSON is exact and fast.</div></div>
+
+<!-- ======================= TOOLING ======================= -->
+<h2>6. Tooling &amp; documentation shipped with the library</h2>
+<table>
+  <tr><th>Artifact</th><th>Purpose</th></tr>
+  <tr><td><code>bible_viewer.html</code> + <code>bible_data.js</code></td><td>Self-contained browser reader — scripture ↔ plain side by side, per-book navigation, global search across all 834 verses. Double-click to open, no server.</td></tr>
+  <tr><td><code>bible_index.json</code></td><td>Machine-readable manifest: 66 books in canonical order, each with file, array key, translation, shape, and record count. Single entry point for any app.</td></tr>
+  <tr><td><code>BIBLE_LIBRARY.md</code></td><td>Human-readable index: conventions, sourcing recipe, per-book count tables.</td></tr>
+  <tr><td><code>PASSAGES_REPORT.md</code> · <code>_src/STYLE_GUIDE.md</code> · <code>_src/AFFIRMATIONS_STYLE.md</code></td><td>The recovery-content build record and the authoring style guides (reproducibility).</td></tr>
+</table>
+
+<!-- ======================= LICENSING ======================= -->
+<h2>7. Provenance &amp; licensing posture</h2>
+<ul>
+  <li><b>Scripture text:</b> King James Version and World English Bible — both public domain.</li>
+  <li><b>Big Book passages:</b> derived from the 1939 first edition of <i>Alcoholics Anonymous</i> (public domain), re-authored into original content.</li>
+  <li><b>All <code>plain</code> renderings, affirmations, and modernized passages:</b> original 864zeros writing — 864zeros intellectual property.</li>
+  <li><b>Net:</b> zero third-party license obligations. Nothing here depends on a copyrighted translation or a paid source.</li>
+</ul>
+
+<!-- ======================= RUNTIME NOTE ======================= -->
+<h2>8. Runtime note — content filtering</h2>
+<div class="note">Because this content ships as <b>static JSON assets</b>, no live AI/API call is needed at runtime. This matters: Anthropic's API output filter can flag graphic scriptural imagery (e.g. Revelation) if raw verses are re-sent through a live model call. Loading the JSON directly avoids that entirely — do not round-trip the raw text through an API in production.</div>
+
+<!-- ======================= WHAT REMAINS ======================= -->
+<h2>9. Open items &amp; possible next steps</h2>
+<ul>
+  <li><b>Uniform translation</b> — optionally re-anchor Psalms &amp; Proverbs from WEB to KJV so the whole library speaks one translation.</li>
+  <li><b>Density expansion</b> — enrich the leaner OT narrative books if a use case needs deeper coverage.</li>
+  <li><b>Per-book "10 life lessons" study sets</b> — a second content class (book overview + actionable lessons) the existing prompt template was built for.</li>
+  <li><b>Relocation</b> — move this library into its own repository/home; the ClearStreak app keeps copies of the JSON it consumes as bundled assets.</li>
+</ul>
+
+<footer>
+  864zeros LLC · Faith, Health &amp; Growth content factory · This document records the state of the content library as of 2026-08-24.
+  Source of truth for counts and paths: <code>bible_index.json</code>. Browse the content: <code>bible_viewer.html</code>.
+</footer>
+
+</div>
+</body>
+</html>

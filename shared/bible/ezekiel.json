@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "title": "Ezekiel — key verses (King James Version, public domain)",
+    "book": "Ezekiel",
+    "description": "Curated key verses from Ezekiel (the shepherd who seeks the lost, a new heart and a new spirit, breath into the dry bones). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 26 Ezekiel); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the book's restoration high points; judgment/vision oracles largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 3
+  },
+  "verses": [
+    { "book": "Ezekiel", "chapter": 34, "citation": "Ezekiel 34:16", "text": "I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.", "plain": "I will seek the lost and bring back the strays. I will bind up the injured and strengthen the weak." },
+    { "book": "Ezekiel", "chapter": 36, "citation": "Ezekiel 36:26", "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.", "plain": "I will give you a new heart and put a new spirit in you; I will remove your heart of stone and give you a heart of flesh." },
+    { "book": "Ezekiel", "chapter": 37, "citation": "Ezekiel 37:5", "text": "Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:", "plain": "This is what the Sovereign Lord says to these bones: I will make breath enter you, and you will come to life." }
+  ]
+}

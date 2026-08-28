@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "Ruth — key verses (King James Version, public domain)",
+    "book": "Ruth",
+    "description": "Curated key verses from Ruth (loyal love and refuge under God's wings). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 8 Ruth); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the 4-chapter narrative",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "Ruth", "chapter": 1, "citation": "Ruth 1:16", "text": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:", "plain": "But Ruth replied, 'Don't urge me to leave you or to turn back from you. Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.'" },
+    { "book": "Ruth", "chapter": 2, "citation": "Ruth 2:12", "text": "The Lord recompense thy work, and a full reward be given thee of the Lord God of Israel, under whose wings thou art come to trust.", "plain": "May the Lord repay you for what you have done. May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge." }
+  ]
+}

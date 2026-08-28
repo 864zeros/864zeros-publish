@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "title": "Joshua — key verses (King James Version, public domain)",
+    "book": "Joshua",
+    "description": "Curated key verses from Joshua (courage and God's presence, meditating on the word, God's faithful promises, choosing to serve the Lord). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 6 Joshua); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; battle/land-allotment chapters largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 5
+  },
+  "verses": [
+    { "book": "Joshua", "chapter": 1,  "citation": "Joshua 1:5",   "text": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee.", "plain": "No one will be able to stand against you all the days of your life. As I was with Moses, so I will be with you; I will never leave you nor forsake you." },
+    { "book": "Joshua", "chapter": 1,  "citation": "Joshua 1:8",   "text": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.", "plain": "Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful." },
+    { "book": "Joshua", "chapter": 1,  "citation": "Joshua 1:9",   "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.", "plain": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go." },
+    { "book": "Joshua", "chapter": 21, "citation": "Joshua 21:45", "text": "There failed not ought of any good thing which the Lord had spoken unto the house of Israel; all came to pass.", "plain": "Not one of all the Lord's good promises to the house of Israel failed; every one was fulfilled." },
+    { "book": "Joshua", "chapter": 24, "citation": "Joshua 24:15", "text": "And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the Lord.", "plain": "But if serving the Lord seems undesirable to you, then choose for yourselves this day whom you will serve. But as for me and my household, we will serve the Lord." }
+  ]
+}

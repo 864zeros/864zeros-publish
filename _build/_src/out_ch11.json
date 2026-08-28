@@ -1,0 +1,211 @@
+[
+  {
+    "id": "lit_ch11_1",
+    "reader_text": "For most people, drinking means good company, easy conversation, and a little color in life. It means release from worry and boredom, a warm closeness with friends, a feeling that life is good. But not so for us in the last stretch of heavy use. The old pleasures were gone. They were only memories. We could never recapture the great moments of the past. There was an insistent yearning to enjoy life the way we once did, and a heartbreaking obsession that somehow, this time, we'd find the trick of controlling it and pull it off. There was always one more attempt — and one more failure.",
+    "surface_text": "For most people, drinking or using is just good company and a little color in the evening — a break from worry, a warm closeness with friends. That's not where you are anymore, and you know it. Somewhere along the way the old good feeling left, and now it's only a memory you keep chasing. Underneath it all is an ache to enjoy life the way you once did, plus a stubborn hope that this time you'll finally figure out how to control it. So there's always one more attempt. And one more time it doesn't work. If that loop sounds like your life, you're not weak — you're describing the pattern almost everyone here has lived.",
+    "faith_optional": null,
+    "labels": { "moment": ["starting-out", "is-this-me"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'insistent yearning + obsession that control would work' framed as the chase-loop, not a moral failing; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 165,
+      "paragraph_index": 0,
+      "quote_stub": "FOR most normal folks, drinking means convivial"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_2",
+    "reader_text": "The less people tolerated us, the more we withdrew from society, from life itself. As the drinking took us over, a chilling fog that is loneliness settled down. It thickened, becoming blacker. Some of us sought out sordid places, hoping to find understanding, companionship, and approval. For a moment we did — then would come the blackout, and the awful waking to face the four horsemen: Terror, Bewilderment, Frustration, Despair. If you've lived this, you already understand.",
+    "surface_text": "Here's how the loneliness works: the less patience people had left for you, the more you pulled back — from them, from life itself. As the using took over, a cold fog settled in and only got darker. Maybe you went looking in rough places, hoping to find someone who understood, some company, some sign you were still okay. For a moment, maybe you did — and then came the blackout, and the awful morning waking up to face the four that ride in together: terror, confusion, frustration, and despair. You don't need this explained if you've been there. And here's the part that matters: this fog isn't a life sentence. It lifts.",
+    "faith_optional": null,
+    "labels": { "moment": ["lonely", "is-this-me"], "halt": "LONELY", "urge_level": "PASSING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'King Alcohol / his mad realm' recast as 'the using took over'; kept the four-horsemen imagery as durable self-recognition; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 165,
+      "paragraph_index": 1,
+      "quote_stub": "The less people tolerated us, the more we withd"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_3",
+    "reader_text": "Now and then someone, dry for the moment, says, \"I don't miss it at all. Feel better. Work better. Having a better time.\" Those of us who've been there smile a little at this. We know that person is like a kid whistling in the dark to keep up their courage. They're fooling themselves. Inwardly they'd give anything to have half a dozen and get away with it. Before long they'll try the old game again, because they aren't at peace with being sober — they can't picture life without it. One day they'll be unable to imagine life either with it or without it. Then they'll know a loneliness few ever feel. They'll be at the jumping-off place, wishing for the end.",
+    "surface_text": "You'll hear people, dry for the moment, say: \"I don't even miss it. I feel better, work better, having a better time.\" And maybe you've said it too. There's no shame in it — but be honest with yourself. That's often the sound of someone whistling in the dark to keep their nerve up. Inside, they'd give anything to have a few and get away with it, and pretty soon they'll try the old game again, because they haven't made peace with life without it. There's a place past that where you can't picture life with it OR without it — a loneliness that feels like the edge of everything. If you're near that edge right now, hear this: that place is survivable, and it is not the end of your story. People walk back from exactly there.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "doubt-higher-power", "hopelessness"], "halt": "HOPELESS", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'insidious insanity' avoided; 'jumping-off place / wish for the end' kept but bracketed with a survivability line to avoid leaving a person in crisis; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 165,
+      "paragraph_index": 2,
+      "quote_stub": "Now and then a serious drinker, being dry at the"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_4",
+    "reader_text": "You may say: \"Yes, I'm willing. But am I to be handed a life where I'll be dull, bored, and glum, like some grimly virtuous people I've seen? I know I have to get along without it — but how? Do you have something that actually fills the gap?\" Yes, there is something, and it is far more than a substitute. It is fellowship — real connection with people walking the same road. There you'll find the release from worry and boredom you were chasing in the bottle. Your imagination will catch fire again. Life will mean something at last. The best years of your life may still be ahead of you.",
+    "surface_text": "Maybe your honest worry is this: \"Fine, I'm willing. But is the deal that I trade all my fun for a gray, boring, joyless life like those tight-lipped people I've seen? I know I have to live without it — but what actually fills the hole it leaves?\" Here's the real answer. It's not a boring substitute. It's connection — real relationships with people walking the same road you are. That's where you find the release from worry and boredom you were actually chasing in the drink or the drug. Your spark comes back. Life starts to mean something again. And this is not a consolation prize: the best years of your life can genuinely still be ahead of you.",
+    "faith_optional": null,
+    "labels": { "moment": ["starting-out", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "decision", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'Fellowship in Alcoholics Anonymous' generalized to 'fellowship / real connection with people on the same road' (technique kept, brand/program removed); combines the objection (i=3) with the answer (i=4); gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 166,
+      "paragraph_index": 4,
+      "quote_stub": "Yes, there is a substitute, and it is vastly mor"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_5",
+    "reader_text": "You'll meet these new friends in your own community. Near you, people are going under, helpless, like passengers on a sinking ship. If you live in a big place, there are hundreds. High and low, rich and poor — these are the friends you haven't met yet. Among them you'll make lifelong friends. You'll be bound to them by new and remarkable ties, because you'll escape disaster together and set out, shoulder to shoulder, on a shared journey. Then you'll learn what it means to give of yourself so that others may survive and rediscover life.",
+    "surface_text": "The people who will become your closest friends are already near you — in your own town, your own city. Right now some of them are going under, helpless, and they don't know there's a way out yet. Every kind of person is in that group: high and low, well-off and broke. These are the friends you simply haven't met. And the bond you'll form with them is different from any other, because you'll come through disaster together and then set out side by side on the same road. That's where you learn what it actually feels like to give part of yourself so someone else can survive and get their life back — and it turns out that's one of the things that keeps you standing too.",
+    "faith_optional": "Many people describe this shoulder-to-shoulder giving as living out \"love your neighbor as yourself\" — that caring for another struggling person becomes its own kind of grace.",
+    "labels": { "moment": ["lonely", "helping-others", "starting-out"], "halt": "LONELY", "urge_level": "CLEAR", "stage": "action", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'future Fellows of Alcoholics Anonymous' generalized to 'friends you haven't met'; the 'Love thy neighbor as thyself' scripture line moved to faith_optional; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 166,
+      "paragraph_index": 6,
+      "quote_stub": "You are going to meet these new friends in your"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_6",
+    "reader_text": "It may seem impossible that these people could become happy, respected, and useful again. How could anyone climb out of that much misery, bad reputation, and hopelessness? The plain answer is this: since it has already happened for us, it can happen for you. If you want it more than anything else, and you're willing to use what we've learned, we're sure it will come. The age of small miracles is still here. Our own recovery is the proof.",
+    "surface_text": "It might feel impossible right now that you could ever be happy, respected, and useful again — that anyone could crawl out from under this much wreckage and shame. So here's the plain answer: it has already happened for people who were exactly where you are. That's not a slogan; it's the whole reason this exists. If you want it badly enough, and you're willing to actually use what worked for the people before you, it tends to come. You don't have to believe that yet. You just have to be willing to test it. The proof isn't a promise — it's the people standing here who came back.",
+    "faith_optional": null,
+    "labels": { "moment": ["hopelessness", "starting-out"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'age of miracles' softened to 'small miracles'/'proof is the people'; keeps the durable 'it happened for us, it can happen for you' hope without preaching; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 167,
+      "paragraph_index": 7,
+      "quote_stub": "It may seem incredible that these men are to bec"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_7",
+    "reader_text": "Hopelessness was written large on the man's face as he said: \"That's no use. Nothing would fix me. I'm a goner. The last three times, I got drunk on the way home from here. I'm afraid to go out the door. I can't understand it.\" For an hour, the two friends told him about their own experience. Over and over he said: \"That's me. That's me. I'm like that too.\"",
+    "surface_text": "The man's whole face said hopeless. \"It's no use,\" he told them. \"Nothing fixes me. I'm done. The last three times, I used on the way home from this very place. I'm scared to walk out the door. I don't even understand it.\" So the two of them just talked — for a solid hour, they told him plainly about their own using, the parts nobody says out loud. And something happened. Over and over he kept saying, quietly, \"That's me. That's me. I'm like that too.\" That's the moment a lot of people turn: not being lectured, but hearing someone describe your exact secret life back to you, and realizing you were never the only one.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "hopelessness", "after-a-slip"], "halt": "HOPELESS", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "combines the hopeless self-report (i=25) with the '\"That's me\"' recognition (i=26); 'got drunk' generalized to 'used'; the power of identification kept intact; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 171,
+      "paragraph_index": 25,
+      "quote_stub": "Hopelessness was written large on the man’s face"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_8",
+    "reader_text": "These people had found something brand new in life. Though they knew they had to help others like them if they wanted to stay well, that motive became secondary. It was outgrown by the sheer happiness they found in giving themselves for others. They shared their homes, their slender resources, and gladly gave their spare hours to fellow sufferers. They were willing, day or night, to help place a new person in care and to visit them afterward. They grew in numbers. They had some painful failures — but even then, they made the effort to bring that person's family into a healthier way of living, easing a lot of worry and suffering.",
+    "surface_text": "The people who came through first found something genuinely new. They started out helping others because they knew it kept them well — and that's true, it does. But before long that stopped being the point. What surprised them was the plain happiness of giving themselves to someone else. They shared their homes, split what little money they had, and spent their free hours with people still struggling. Day or night, they'd show up to get a new person into help and come back to visit. Yes, some of it didn't work — people they couldn't reach. Even then they turned toward that person's family, helping them live a little better and carry a little less. If your own recovery ever feels thin, this is the surprising fuel: helping someone else is one of the most reliable ways to stay standing yourself.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others", "staying-the-course"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'spiritual way of living' recast as 'a healthier way of living'; keeps the durable insight that giving to others sustains your own recovery; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 173,
+      "paragraph_index": 37,
+      "quote_stub": "All this time our friend of the hotel lobby inci"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_9",
+    "reader_text": "No one is too discredited, nor has sunk too low, to be welcomed warmly here — if they mean business. Social rank, petty rivalries, old jealousies — these get laughed out of the room. Having been wrecked in the same vessel, restored and pulled back together, with hearts and minds turned toward the good of others, the things that matter so much to some people just stop mattering. How could they? Cleaning up old messes, helping settle family conflicts, explaining the cast-off son to his angry parents, lending a hand with money or a job when it's warranted — these are everyday events.",
+    "surface_text": "Here's what you need to know before you walk in: no one is too far gone, too disgraced, or too low to be welcomed — as long as you actually mean it. The stuff that usually divides people — who's got status, old grudges, petty jealousy — gets laughed right out of the room. When people have gone down in the same wreck and come back up together, with their attention turned toward helping each other, the things that used to feel so important quietly stop counting. And it's not just meetings. It's real life: cleaning up old messes, helping calm a family fight, standing up for the kid whose parents wrote him off, a loan or a job lead when it makes sense. Ordinary, everyday care. You don't have to arrive impressive. You just have to show up meaning it.",
+    "faith_optional": "For many, part of what dissolves those old divisions is the sense of being restored and united by something larger than any of them — a shared reliance beyond themselves.",
+    "labels": { "moment": ["starting-out", "helping-others"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "action", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'restored and united under one God' moved to faith_optional; the belonging/no-one-too-low message kept universal; gender-neutral where feasible (the 'disinherited son / irate parents' image retained as the source's specific example)",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 176,
+      "paragraph_index": 43,
+      "quote_stub": "But life among Alcoholics Anonymous is more than"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_10",
+    "reader_text": "And so you can grow too, even if you are just one person with this book in your hand. We believe it holds all you need to begin. We know what you're thinking. You're saying to yourself: \"I'm jittery and alone. I couldn't do that.\" But you can. You're forgetting that you have just tapped into a source of strength much greater than yourself. To do, with that kind of backing, what we have done, is only a matter of willingness, patience, and steady work.",
+    "surface_text": "You can grow into this too — even if right now you're just one person holding this, with no group, no sponsor, nobody. What you've got is enough to start. And we already know what you're telling yourself: \"I'm shaky and I'm alone. I couldn't do this.\" But you can. Here's what you're forgetting in this moment: you've already reached past yourself and touched something stronger than the urge — call it the people ahead of you, your own values, the future you actually want. With that at your back, doing what others have done isn't about being tough or special. It comes down to three plain things: being willing, being patient, and putting in the work, one day at a time.",
+    "faith_optional": "Some people come to feel that the strength they'd tapped was a Power greater than themselves, quietly doing for them what they couldn't do alone.",
+    "labels": { "moment": ["staying-the-course", "lonely", "starting-out"], "halt": "LONELY", "urge_level": "WHITE_KNUCKLING", "stage": "action", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'source of power greater than yourself' re-mapped to 'something bigger than the urge (people, values, future self)'; the God-specific reading moved to faith_optional; combines i=47 and i=48; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 177,
+      "paragraph_index": 48,
+      "quote_stub": "We know what you are thinking. You are saying to"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch11_11",
+    "reader_text": "Clear away the wreckage of your past. Give freely of what you find, and join us. We will be with you, in this fellowship, and you will surely meet some of us as you trudge the Road of Happy Destiny.",
+    "surface_text": "Here's the whole thing, stripped down. Clear away the wreckage behind you — the messes, the debts, the harm — a piece at a time. Whatever good you find along the way, give it away freely; it grows when you do. And don't do this alone: come in, join the people walking the same road. We're with you. You will meet some of us out there — because this is a long walk, and it's a good one. So keep walking. That's the whole secret. You just keep walking the road toward the life you actually want.",
+    "faith_optional": "The original closing puts it this way: give yourself over to a Power as you understand it, admit your faults to that Power and to the people around you, and walk on knowing you're not carrying it alone.",
+    "labels": { "moment": ["staying-the-course", "hopelessness"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'Abandon yourself to God / Admit your faults to him' moved to faith_optional; 'the wreckage of your past' kept as repair-work; the famous 'Road of Happy Destiny' closing preserved; 'Fellowship of The Spirit' softened to 'fellowship'; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch11",
+      "chapter_title": "XI. A Vision for You",
+      "page": 178,
+      "paragraph_index": 54,
+      "quote_stub": "Abandon yourself to God as you understand God. A"
+    },
+    "needs_clinical_review": true
+  }
+]

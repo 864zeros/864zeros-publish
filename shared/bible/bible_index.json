@@ -1,0 +1,678 @@
+{
+    "_meta":  {
+                  "title":  "864zeros Bible content library — manifest",
+                  "description":  "Canonical index of the complete public-domain Bible key-verse library. One entry per Bible book (66), pointing to the JSON file that holds it and the array key inside that file. Ecosystem-generic 864zeros content.",
+                  "generated":  "2026-08-21",
+                  "total_books":  66,
+                  "total_files":  63,
+                  "total_records":  834,
+                  "ot_records":  388,
+                  "nt_records":  446,
+                  "record_schema":  "{ book, chapter, citation, text, plain }  (text = verbatim PD scripture; plain = original 864zeros 2026 rendering)",
+                  "array_keys":  "per-book files use \"verses\"; gospels_daily.json uses \"gospels\"; psalms_daily.json uses \"psalms\"; proverbs_daily.json uses \"proverbs\"",
+                  "translations":  "KJV for NT + most OT; WEB (rendered \"the Lord\") for Psalms \u0026 Proverbs only",
+                  "notes":  "gospels_daily.json holds Matthew/Mark/Luke/John (one verse per chapter); filter its array by the book field. No review gates. See BIBLE_LIBRARY.md and SESSION_2026-08-21-bible-content.md."
+              },
+    "books":  [
+                  {
+                      "order":  1,
+                      "book":  "Genesis",
+                      "testament":  "OT",
+                      "file":  "genesis.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  55
+                  },
+                  {
+                      "order":  2,
+                      "book":  "Exodus",
+                      "testament":  "OT",
+                      "file":  "exodus.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  27
+                  },
+                  {
+                      "order":  3,
+                      "book":  "Leviticus",
+                      "testament":  "OT",
+                      "file":  "leviticus.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  7
+                  },
+                  {
+                      "order":  4,
+                      "book":  "Numbers",
+                      "testament":  "OT",
+                      "file":  "numbers.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  7
+                  },
+                  {
+                      "order":  5,
+                      "book":  "Deuteronomy",
+                      "testament":  "OT",
+                      "file":  "deuteronomy.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  10
+                  },
+                  {
+                      "order":  6,
+                      "book":  "Joshua",
+                      "testament":  "OT",
+                      "file":  "joshua.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  5
+                  },
+                  {
+                      "order":  7,
+                      "book":  "Judges",
+                      "testament":  "OT",
+                      "file":  "judges.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  8,
+                      "book":  "Ruth",
+                      "testament":  "OT",
+                      "file":  "ruth.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  9,
+                      "book":  "1 Samuel",
+                      "testament":  "OT",
+                      "file":  "1samuel.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  8
+                  },
+                  {
+                      "order":  10,
+                      "book":  "2 Samuel",
+                      "testament":  "OT",
+                      "file":  "2samuel.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  3
+                  },
+                  {
+                      "order":  11,
+                      "book":  "1 Kings",
+                      "testament":  "OT",
+                      "file":  "1kings.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  3
+                  },
+                  {
+                      "order":  12,
+                      "book":  "2 Kings",
+                      "testament":  "OT",
+                      "file":  "2kings.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  13,
+                      "book":  "1 Chronicles",
+                      "testament":  "OT",
+                      "file":  "1chronicles.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  3
+                  },
+                  {
+                      "order":  14,
+                      "book":  "2 Chronicles",
+                      "testament":  "OT",
+                      "file":  "2chronicles.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  4
+                  },
+                  {
+                      "order":  15,
+                      "book":  "Ezra",
+                      "testament":  "OT",
+                      "file":  "ezra.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  16,
+                      "book":  "Nehemiah",
+                      "testament":  "OT",
+                      "file":  "nehemiah.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  17,
+                      "book":  "Esther",
+                      "testament":  "OT",
+                      "file":  "esther.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  18,
+                      "book":  "Job",
+                      "testament":  "OT",
+                      "file":  "job.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  6
+                  },
+                  {
+                      "order":  19,
+                      "book":  "Psalms",
+                      "testament":  "OT",
+                      "file":  "psalms_daily.json",
+                      "arrayKey":  "psalms",
+                      "translation":  "WEB",
+                      "shape":  "one-per-chapter",
+                      "records":  150
+                  },
+                  {
+                      "order":  20,
+                      "book":  "Proverbs",
+                      "testament":  "OT",
+                      "file":  "proverbs_daily.json",
+                      "arrayKey":  "proverbs",
+                      "translation":  "WEB",
+                      "shape":  "day-per-chapter",
+                      "records":  31
+                  },
+                  {
+                      "order":  21,
+                      "book":  "Ecclesiastes",
+                      "testament":  "OT",
+                      "file":  "ecclesiastes.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  3
+                  },
+                  {
+                      "order":  22,
+                      "book":  "Song of Solomon",
+                      "testament":  "OT",
+                      "file":  "songofsolomon.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  23,
+                      "book":  "Isaiah",
+                      "testament":  "OT",
+                      "file":  "isaiah.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  17
+                  },
+                  {
+                      "order":  24,
+                      "book":  "Jeremiah",
+                      "testament":  "OT",
+                      "file":  "jeremiah.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  6
+                  },
+                  {
+                      "order":  25,
+                      "book":  "Lamentations",
+                      "testament":  "OT",
+                      "file":  "lamentations.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  3
+                  },
+                  {
+                      "order":  26,
+                      "book":  "Ezekiel",
+                      "testament":  "OT",
+                      "file":  "ezekiel.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  3
+                  },
+                  {
+                      "order":  27,
+                      "book":  "Daniel",
+                      "testament":  "OT",
+                      "file":  "daniel.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  4
+                  },
+                  {
+                      "order":  28,
+                      "book":  "Hosea",
+                      "testament":  "OT",
+                      "file":  "hosea.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  29,
+                      "book":  "Joel",
+                      "testament":  "OT",
+                      "file":  "joel.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  3
+                  },
+                  {
+                      "order":  30,
+                      "book":  "Amos",
+                      "testament":  "OT",
+                      "file":  "amos.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  31,
+                      "book":  "Obadiah",
+                      "testament":  "OT",
+                      "file":  "obadiah.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  32,
+                      "book":  "Jonah",
+                      "testament":  "OT",
+                      "file":  "jonah.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  33,
+                      "book":  "Micah",
+                      "testament":  "OT",
+                      "file":  "micah.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  3
+                  },
+                  {
+                      "order":  34,
+                      "book":  "Nahum",
+                      "testament":  "OT",
+                      "file":  "nahum.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  35,
+                      "book":  "Habakkuk",
+                      "testament":  "OT",
+                      "file":  "habakkuk.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  4
+                  },
+                  {
+                      "order":  36,
+                      "book":  "Zephaniah",
+                      "testament":  "OT",
+                      "file":  "zephaniah.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  37,
+                      "book":  "Haggai",
+                      "testament":  "OT",
+                      "file":  "haggai.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  38,
+                      "book":  "Zechariah",
+                      "testament":  "OT",
+                      "file":  "zechariah.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  39,
+                      "book":  "Malachi",
+                      "testament":  "OT",
+                      "file":  "malachi.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  40,
+                      "book":  "Matthew",
+                      "testament":  "NT",
+                      "file":  "gospels_daily.json",
+                      "arrayKey":  "gospels",
+                      "translation":  "KJV",
+                      "shape":  "one-per-chapter",
+                      "records":  28
+                  },
+                  {
+                      "order":  41,
+                      "book":  "Mark",
+                      "testament":  "NT",
+                      "file":  "gospels_daily.json",
+                      "arrayKey":  "gospels",
+                      "translation":  "KJV",
+                      "shape":  "one-per-chapter",
+                      "records":  16
+                  },
+                  {
+                      "order":  42,
+                      "book":  "Luke",
+                      "testament":  "NT",
+                      "file":  "gospels_daily.json",
+                      "arrayKey":  "gospels",
+                      "translation":  "KJV",
+                      "shape":  "one-per-chapter",
+                      "records":  24
+                  },
+                  {
+                      "order":  43,
+                      "book":  "John",
+                      "testament":  "NT",
+                      "file":  "gospels_daily.json",
+                      "arrayKey":  "gospels",
+                      "translation":  "KJV",
+                      "shape":  "one-per-chapter",
+                      "records":  21
+                  },
+                  {
+                      "order":  44,
+                      "book":  "Acts",
+                      "testament":  "NT",
+                      "file":  "acts.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  71
+                  },
+                  {
+                      "order":  45,
+                      "book":  "Romans",
+                      "testament":  "NT",
+                      "file":  "romans.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  42
+                  },
+                  {
+                      "order":  46,
+                      "book":  "1 Corinthians",
+                      "testament":  "NT",
+                      "file":  "1corinthians.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  32
+                  },
+                  {
+                      "order":  47,
+                      "book":  "2 Corinthians",
+                      "testament":  "NT",
+                      "file":  "2corinthians.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  25
+                  },
+                  {
+                      "order":  48,
+                      "book":  "Galatians",
+                      "testament":  "NT",
+                      "file":  "galatians.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  13
+                  },
+                  {
+                      "order":  49,
+                      "book":  "Ephesians",
+                      "testament":  "NT",
+                      "file":  "ephesians.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  12
+                  },
+                  {
+                      "order":  50,
+                      "book":  "Philippians",
+                      "testament":  "NT",
+                      "file":  "philippians.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  13
+                  },
+                  {
+                      "order":  51,
+                      "book":  "Colossians",
+                      "testament":  "NT",
+                      "file":  "colossians.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  11
+                  },
+                  {
+                      "order":  52,
+                      "book":  "1 Thessalonians",
+                      "testament":  "NT",
+                      "file":  "1thessalonians.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  10
+                  },
+                  {
+                      "order":  53,
+                      "book":  "2 Thessalonians",
+                      "testament":  "NT",
+                      "file":  "2thessalonians.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  6
+                  },
+                  {
+                      "order":  54,
+                      "book":  "1 Timothy",
+                      "testament":  "NT",
+                      "file":  "1timothy.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  11
+                  },
+                  {
+                      "order":  55,
+                      "book":  "2 Timothy",
+                      "testament":  "NT",
+                      "file":  "2timothy.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  7
+                  },
+                  {
+                      "order":  56,
+                      "book":  "Titus",
+                      "testament":  "NT",
+                      "file":  "titus.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  4
+                  },
+                  {
+                      "order":  57,
+                      "book":  "Philemon",
+                      "testament":  "NT",
+                      "file":  "philemon.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  58,
+                      "book":  "Hebrews",
+                      "testament":  "NT",
+                      "file":  "hebrews.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  22
+                  },
+                  {
+                      "order":  59,
+                      "book":  "James",
+                      "testament":  "NT",
+                      "file":  "james.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  11
+                  },
+                  {
+                      "order":  60,
+                      "book":  "1 Peter",
+                      "testament":  "NT",
+                      "file":  "1peter.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  12
+                  },
+                  {
+                      "order":  61,
+                      "book":  "2 Peter",
+                      "testament":  "NT",
+                      "file":  "2peter.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  5
+                  },
+                  {
+                      "order":  62,
+                      "book":  "1 John",
+                      "testament":  "NT",
+                      "file":  "1john.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  13
+                  },
+                  {
+                      "order":  63,
+                      "book":  "2 John",
+                      "testament":  "NT",
+                      "file":  "2john.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  1
+                  },
+                  {
+                      "order":  64,
+                      "book":  "3 John",
+                      "testament":  "NT",
+                      "file":  "3john.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  65,
+                      "book":  "Jude",
+                      "testament":  "NT",
+                      "file":  "jude.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  2
+                  },
+                  {
+                      "order":  66,
+                      "book":  "Revelation",
+                      "testament":  "NT",
+                      "file":  "revelation.json",
+                      "arrayKey":  "verses",
+                      "translation":  "KJV",
+                      "shape":  "key-verses",
+                      "records":  30
+                  }
+              ]
+}

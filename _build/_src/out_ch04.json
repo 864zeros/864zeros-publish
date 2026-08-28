@@ -1,0 +1,154 @@
+[
+  {
+    "id": "lit_ch04_1",
+    "reader_text": "If a mere code of morals, or a better philosophy of life were sufficient to overcome addiction, many of us would have recovered long ago. But we found that such codes and philosophies did not save us, no matter how much we tried. We could wish to be better, we could wish to be philosophically comforted; in fact, we could will these things with all our might, but the needed power wasn't there. Our human resources, as marshalled by the will, were not sufficient; they failed utterly. Lack of power — that was our dilemma. We had to find a power by which we could live, and it had to be a power greater than ourselves. But where and how were we to find it?",
+    "surface_text": "Here's something a lot of us learned the hard way: a better set of rules, a smarter outlook on life, more willpower — none of it was enough on its own. We wanted to be better. We tried to think our way out. We gritted our teeth and willed it with everything we had, and the power still wasn't there when we needed it. That was the whole problem: not enough power. What worked was finding something bigger than the urge to lean on — something outside the small, tired voice of your own willpower. You can't out-willpower a craving in the moment. But you can find something larger to hold onto while it passes. The only question is where to look for it.",
+    "faith_optional": "For many of us that power greater than ourselves turned out to be God — but at this point all we knew was that our own willpower had run out, and something more had to be found.",
+    "labels": { "moment": ["doubt-higher-power"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "Higher Power / God → 'something bigger than the urge' (larger than your own willpower); God-specific line moved to faith_optional; 'alcoholism' generalized to 'addiction'",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch04",
+      "chapter_title": "IV. We Agnostics",
+      "page": 56,
+      "paragraph_index": 3,
+      "quote_stub": "If a mere code of morals, or a better philosophy"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch04_2",
+    "reader_text": "Much to our relief, we discovered we did not need to consider anyone else's conception of a power greater than ourselves. Our own conception, however inadequate, was enough to make the approach and to make contact. As soon as we admitted the possible existence of something larger than us underlying the totality of things, we began to be possessed of a new sense of power and direction, provided we took other simple steps. We found that this does not make too hard terms with those who seek it. To us, that realm is broad, roomy, all-inclusive; never exclusive or forbidding to those who earnestly seek. It is open, we believe, to everyone.",
+    "surface_text": "Here's the part that surprised us most, and it took a weight off: you don't have to borrow anybody else's idea of what the bigger thing is. Yours counts — even if it feels half-formed or unsure. The moment we were willing to admit there might be something larger than us and the urge — call it your values, your people, the future self you're trying to protect — we started to feel a new steadiness and sense of direction. It doesn't set hard terms. It isn't a club with a bouncer. Whatever you can honestly reach for is broad enough and roomy enough to hold you. It's open to you exactly as you are, no belief test required at the door.",
+    "faith_optional": "For those who want it, this is where God comes in — your own conception of God, however inadequate it feels, is enough to make that first contact. You don't need anyone else's version of God to begin.",
+    "labels": { "moment": ["doubt-higher-power"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "Higher Power / God / 'Creative Intelligence, Spirit of the Universe' → 'something larger than us and the urge' (values, people, future self); all God/Him language moved to faith_optional",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch04",
+      "chapter_title": "IV. We Agnostics",
+      "page": 58,
+      "paragraph_index": 8,
+      "quote_stub": "Much to our relief, we discovered we did not need"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch04_3",
+    "reader_text": "When we speak of a power greater than yourself, we mean your own conception of it. This applies, too, to other spiritual expressions you find in this book. Do not let any prejudice you may have against such terms deter you from honestly asking yourself what they mean to you. At the start, this is all we needed to begin — to make our first honest connection with something larger, as we understood it. Afterward, we found ourselves accepting many things which at first seemed entirely out of reach. That is growth; but if we wished to grow, we had to begin somewhere. So we used our own conception, however limited it was.",
+    "surface_text": "When we talk about something bigger than yourself, we mean your version of it — nobody else's. Same goes for any word in here that sounds too churchy or too much. Don't let a word you flinch at shut you down. Just stop and ask, honestly: what could this mean to me? That's all it took to start. Your first real connection to something larger — your kids, your health, your values, the person you're fighting to become — can be small and unsure and still count. It grows from there. Later, things that felt out of reach start to make sense. But growth has to start somewhere, so start with whatever you've actually got, however limited it feels. That's enough to begin.",
+    "faith_optional": "If faith is part of your path, this is the invitation: don't let old baggage around the word 'God' stop you. Ask what it means to you now, and make your first conscious connection with God as you understand God — not as anyone else defined it for you.",
+    "labels": { "moment": ["doubt-higher-power"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'God as we understood Him' / spiritual terms → 'something bigger than yourself, your version' (people, health, values, future self); God-as-you-understand-God line moved to faith_optional",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch04",
+      "chapter_title": "IV. We Agnostics",
+      "page": 59,
+      "paragraph_index": 9,
+      "quote_stub": "When, therefore, we speak to you of God, we mean y"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch04_4",
+    "reader_text": "We needed to ask ourselves but one short question: \"Do I now believe, or am I even willing to believe, that there is a power greater than myself?\" As soon as a person can say that they do believe, or are willing to believe, we assure you emphatically that they are on their way. It has been proven again and again among us that upon this simple cornerstone a wonderfully effective structure can be built. That was great news to us, for we had assumed we could not make use of these principles unless we accepted many things on faith which seemed difficult to believe. So it was comforting to learn that we could begin at a simpler level.",
+    "surface_text": "There's really just one question to sit with: do I believe — or am I even willing to believe — that there's something bigger than the urge that I can lean on? That's it. The second you can say \"yes, I believe\" or even just \"yes, I'm willing to,\" you're already moving. That small yes is the cornerstone, and a whole steadier life gets built on top of it. And here's the relief: you don't have to swallow a stack of things you can't honestly buy into. You don't need certainty. You just need willingness. You get to start at the simplest possible level — one open, honest \"maybe.\"",
+    "faith_optional": "If your path includes faith, that same one short question can be about God: do I believe, or am I even willing to believe, that there's a Power greater than myself? A simple willingness to believe is all the cornerstone you need to begin.",
+    "labels": { "moment": ["doubt-higher-power"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "decision", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'Power greater than myself' → 'something bigger than the urge you can lean on'; willingness-to-believe technique kept intact; God-specific version moved to faith_optional",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch04",
+      "chapter_title": "IV. We Agnostics",
+      "page": 59,
+      "paragraph_index": 10,
+      "quote_stub": "We needed to ask ourselves but one short question."
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch04_5",
+    "reader_text": "Besides a seeming inability to accept much on faith, we often found ourselves handicapped by obstinacy, sensitiveness, and unreasoning prejudice. Many of us had been so touchy that even a casual reference to spiritual things made us bristle. This sort of thinking had to be set aside. Though some of us resisted, we found no great difficulty in casting aside such feelings. Faced with real destruction, we soon became as open-minded on these matters as we had tried to be on other questions. Sometimes this was a slow process; we hope no one will stay closed as long as some of us did.",
+    "surface_text": "It wasn't only that some of us couldn't take much on faith. A lot of us were just plain stubborn, thin-skinned, and quick to bristle — the moment anything sounded spiritual or soft, we shut the door. That reflex had to go. And honestly, once we were willing, it went easier than we expected. When the stakes got real — when it was this or losing everything — we got open-minded fast, the same way we'd always claimed to be about everything else. It can take a while to drop the armor. We just hope you don't stay closed off as long as some of us did. Being willing to reconsider isn't weakness. It's how the door opens.",
+    "faith_optional": null,
+    "labels": { "moment": ["doubt-higher-power"], "halt": "ANGRY", "urge_level": "PASSING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'alcoholic destruction' generalized to 'real destruction'; validates skeptic's guardedness without preaching; no God content needed",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch04",
+      "chapter_title": "IV. We Agnostics",
+      "page": 60,
+      "paragraph_index": 12,
+      "quote_stub": "Besides a seeming inability to accept much on fait"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch04_6",
+    "reader_text": "We had to ask ourselves why we shouldn't apply to our human problems this same readiness to change our point of view. We were having trouble with personal relationships, we couldn't control our emotional natures, we were a prey to misery and depression, we couldn't make a living, we had a feeling of uselessness, we were full of fear, we were unhappy, we couldn't seem to be of real help to other people — was not a basic solution to these troubles more important than almost anything else? Of course it was. When we saw others solve their problems by simple reliance on something greater than themselves, we had to stop doubting that it worked. Our ideas did not work. But this one did.",
+    "surface_text": "We had to ask ourselves a fair question: if we could change our minds about everything else in life, why not about this? Look honestly at the list. Relationships that kept breaking. Emotions we couldn't steer. Stretches of misery and depression. Money trouble. That hollow feeling of being useless. Fear, all the time. Unhappiness we couldn't shake. Not even able to be much help to the people we loved. A real fix for all of that mattered more than almost anything — of course it did. And when we watched other people steady their lives by leaning on something bigger than themselves and bigger than the urge, we had to quit telling ourselves it was nonsense. Our own approach hadn't worked. Theirs did.",
+    "faith_optional": "For many of us, the 'something greater' that others were leaning on was God — and watching it work in their lives is what finally made us stop doubting.",
+    "labels": { "moment": ["doubt-higher-power", "fear"], "halt": "HOPELESS", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'reliance upon the Spirit of this universe' / 'God idea' → 'something bigger than themselves and bigger than the urge'; restless/never-enough bedevilments kept intact; God line moved to faith_optional",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch04",
+      "chapter_title": "IV. We Agnostics",
+      "page": 64,
+      "paragraph_index": 26,
+      "quote_stub": "We had to ask ourselves why we shouldn’t apply to "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch04_7",
+    "reader_text": "We found, too, that we had already been worshippers. Had we not, in various ways, given ourselves over to people, to feelings, to things, to money, and to ourselves? And then, with a better motive, had we not stood in wonder before a sunset, the sea, or a flower? Who among us had not loved something or somebody? How much did these feelings, these loves, have to do with pure reason? Little or nothing, we saw at last. Were not these the very tissue out of which our lives were made? Did not these feelings, after all, determine the course of our existence? It was impossible to say we had no capacity for faith, or love, or devotion. In one form or another we had been living by them and little else.",
+    "surface_text": "Here's something worth noticing about yourself: you already put your whole heart into things. Maybe it went to people, to money, to a feeling, to your own image — even to the substance itself. But you've also stood quiet in front of a sunset, or the ocean, or something small and alive, and felt awe. You've loved someone. None of that runs on logic. And those things — the loving, the caring, the awe — that's the actual fabric your life is made of. They're what steer you, far more than cold reasoning ever did. So you can't really claim you've got no capacity for faith or love or devotion. You've been living on them the whole time. The capacity is already in you — it's just a question of where you point it.",
+    "faith_optional": "Seen this way, faith isn't foreign to you — it's a capacity you already have. Some of us realized we'd been 'worshipping' all along, just aimed at the wrong things, and that the same capacity could be turned toward God.",
+    "labels": { "moment": ["doubt-higher-power"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'worship / faith in God' reframed as an existing human capacity for love, awe, devotion (values, people, wonder); God-directed application moved to faith_optional; removed no moralizing",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch04",
+      "chapter_title": "IV. We Agnostics",
+      "page": 66,
+      "paragraph_index": 33,
+      "quote_stub": "We found, too, that we had been worshippers. What "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch04_8",
+    "reader_text": "We finally saw that some capacity for faith was a part of our make-up, just as much as the feeling we have for a friend. Sometimes we had to search fearlessly, but it was there. It was as much a fact as we were. We found the great reality deep down within us. In the last analysis it is only there that it may be found. It was so with us. We can only clear the ground a bit. If our testimony helps sweep away prejudice, enables you to think honestly, and encourages you to search diligently within yourself, then, if you wish, you can join us. With this attitude you cannot fail. The awareness of what you believe is sure to come to you.",
+    "surface_text": "In the end we realized the ability to trust in something larger was already built into us — as real and ordinary as caring about a friend. Sometimes you have to look hard and honestly to find it, but it's there. It's as much a fact as you are. And here's where it actually lives: deep down inside you. Not out in some argument you have to win first — inside. All anyone else can do is clear a little brush out of your way. If hearing this helps drop your guard, lets you think honestly, and gets you searching within yourself, that's the whole opening. Come at it that way and you can't get it wrong. What you believe will make itself clear to you in time. You don't have to have the answer today — you just have to keep looking inward, honestly.",
+    "faith_optional": "For those who want it, this is where many of us found God — not out in the arguments, but deep down within, the Great Reality that was there all along. When we honestly searched, it was there; and when we drew near, it disclosed itself to us.",
+    "labels": { "moment": ["doubt-higher-power"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "decision", "function": "spiritual" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'faith in God / the Great Reality within / He disclosed Himself' → 'capacity to trust something larger, already within you'; God-specific closing moved to faith_optional; combines the within-yourself insight and the clearing-the-ground invitation",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch04",
+      "chapter_title": "IV. We Agnostics",
+      "page": 67,
+      "paragraph_index": 38,
+      "quote_stub": "We finally saw that faith in some kind of God was "
+    },
+    "needs_clinical_review": true
+  }
+]

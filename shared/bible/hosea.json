@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "Hosea — key verses (King James Version, public domain)",
+    "book": "Hosea",
+    "description": "Curated key verses from Hosea (pressing on to know the Lord; mercy, not sacrifice). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 28 Hosea); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the book's devotional high points; judgment oracles omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "Hosea", "chapter": 6, "citation": "Hosea 6:3", "text": "Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.", "plain": "Let us press on to know the Lord. As surely as the sun rises, he will appear; he will come to us like the winter rains, like the spring rains that water the earth." },
+    { "book": "Hosea", "chapter": 6, "citation": "Hosea 6:6", "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.", "plain": "For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings." }
+  ]
+}

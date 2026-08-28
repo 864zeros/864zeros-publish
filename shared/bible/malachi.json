@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "Malachi — key verses (King James Version, public domain)",
+    "book": "Malachi",
+    "description": "Curated key verses from Malachi (I the Lord do not change; test me in the tithe and see the floodgates open). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 39 Malachi); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the book's covenant-faithfulness high points",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "Malachi", "chapter": 3, "citation": "Malachi 3:6", "text": "For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.", "plain": "I the Lord do not change. So you, the descendants of Jacob, are not destroyed." },
+    { "book": "Malachi", "chapter": 3, "citation": "Malachi 3:10", "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.", "plain": "Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this, says the Lord Almighty, and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it." }
+  ]
+}

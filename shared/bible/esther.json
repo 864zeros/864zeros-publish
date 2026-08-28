@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "title": "Esther — key verses (King James Version, public domain)",
+    "book": "Esther",
+    "description": "Curated key verse from Esther ('for such a time as this' — providence and courage). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 17 Esther); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verse from the narrative (the book does not name God directly; its theme is providence)",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV verbatim. No review gate — author is reviewer.",
+    "count": 1
+  },
+  "verses": [
+    { "book": "Esther", "chapter": 4, "citation": "Esther 4:14", "text": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?", "plain": "For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father's family will perish. And who knows but that you have come to your royal position for such a time as this?" }
+  ]
+}

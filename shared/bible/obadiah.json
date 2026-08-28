@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "title": "Obadiah — key verses (King James Version, public domain)",
+    "book": "Obadiah",
+    "description": "Curated key verse from Obadiah (the day of the Lord; you reap what you sow). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 31 Obadiah); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "a representative verse from the single chapter",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV verbatim. No review gate — author is reviewer.",
+    "count": 1
+  },
+  "verses": [
+    { "book": "Obadiah", "chapter": 1, "citation": "Obadiah 1:15", "text": "For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.", "plain": "The day of the Lord is near for all nations. As you have done, it will be done to you; your deeds will return upon your own head." }
+  ]
+}

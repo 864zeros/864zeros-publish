@@ -1,0 +1,344 @@
+[
+  {
+    "id": "lit_ch01_1",
+    "reader_text": "Liquor ceased to be a luxury; it became a necessity. Two bottles of gin a day, and often three, got to be routine. This went on endlessly, and I began to waken very early in the morning shaking violently. A tumbler full of gin followed by half a dozen bottles of beer would be required if I were to eat any breakfast. Nevertheless, I still thought I could control the situation, and there were periods of sobriety which renewed the hope of the people close to me.",
+    "surface_text": "There's a line most people cross without noticing: it stops being something you want and becomes something you feel you need just to function. For me it was gin — two bottles a day, sometimes three, just routine. I'd wake up early, shaking, and couldn't even face breakfast without a drink first. And here's the part that kept me stuck: even then, I still told myself I had it under control. There were stretches where I'd stop, and those stretches convinced the people who loved me — and me — that maybe it was fine. If you're reading your own story in this, notice that quiet insistence that you're managing it. That belief is part of the trap, not evidence against it.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "craving-now"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "life unmanageable → 'when it runs the show, life gets unmanageable — that's data, not shame'; the illusion of control named without moralizing",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 14,
+      "paragraph_index": 19,
+      "quote_stub": "Liquor ceased to be a luxury; it became a nec"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_2",
+    "reader_text": "I woke up. This had to be stopped. I saw I could not take so much as one drink. I was through forever. Before then, I had written lots of sweet promises, but this time I meant business. And so I did.",
+    "surface_text": "One morning it landed with total clarity: this had to stop. I saw that I couldn't have even one — not one — and I was done, for good. I'd made plenty of promises before, but this time was different. This time I actually meant it. And I did mean it. Hold onto that, because what comes next matters: meaning it with everything in you is real, and it still isn't the whole answer. A sincere decision is the starting line, not the finish.",
+    "faith_optional": null,
+    "labels": { "moment": ["staying-the-course", "after-a-slip"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "decision", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "powerless over alcohol → 'you can't out-willpower a craving in the moment'; the honest resolve honored, its limits named",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 14,
+      "paragraph_index": 22,
+      "quote_stub": "I woke up. This had to be stopped. I saw I cou"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_3",
+    "reader_text": "Shortly afterward I came home drunk. There had been no fight. Where had been my high resolve? I simply didn't know. It hadn't even come to mind. Someone had pushed a drink my way, and I had taken it. Was I losing my grip? I began to wonder, for such an appalling lack of perspective seemed near being just that.",
+    "surface_text": "Not long after that iron-clad decision, I came home drunk. No fight, no crisis, nothing set it off. So where did my resolve go? I honestly didn't know. It never even crossed my mind. Someone slid a drink toward me, and I took it — automatic, before any of that morning's certainty could speak up. That's the maddening part, and it's not a character flaw: in the moment, the plan you made in a clear-headed hour simply doesn't show up. It isn't that your promise was fake. It's that willpower and a good intention aren't there at the exact second the switch flips. Knowing this isn't defeat — it's why you build supports outside your own head, so you're not relying on a resolve that goes quiet right when you need it.",
+    "faith_optional": null,
+    "labels": { "moment": ["after-a-slip", "craving-now"], "halt": "GENERAL", "urge_level": "CRITICAL", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "allergy/disease → 'the switch flips'; 'crazy' removed and reframed as automatic loss of the plan, not madness",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 14,
+      "paragraph_index": 23,
+      "quote_stub": "Shortly afterward I came home drunk. There had"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_4",
+    "reader_text": "Renewing my resolve, I tried again. Some time passed, and confidence began to be replaced by cock-sureness. I could laugh at the gin mills. Now I had what it takes! One day I walked into a cafe to telephone. In no time I was beating on the bar asking myself how it happened. As the whiskey rose to my head I told myself I would manage better next time, but I might as well get good and drunk then. And I did.",
+    "surface_text": "So I renewed the promise and tried again. Time passed, things went well, and my honest confidence quietly curdled into cockiness. I could laugh at the bars now. I'd figured it out — I had what it took! Then one day I walked into a cafe just to use the phone. Next thing I knew I was pounding on the bar, asking myself how this even happened. And as the drink hit me, I told myself I'd handle it better next time — so I might as well get good and drunk now. And I did. Watch for that shift: the danger isn't only in the bad days. Feeling like you've beaten it, letting your guard drop because you're doing great — that's exactly the ground where it walks back in. Confidence is fine. Cockiness that stops using your supports is the setup for the next slip.",
+    "faith_optional": null,
+    "labels": { "moment": ["staying-the-course", "craving-now"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "maintenance", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "allergy/disease → the moment of overconfidence reframed as a real risk pattern, not a moral lapse; 'you can't out-willpower a craving'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 15,
+      "paragraph_index": 24,
+      "quote_stub": "Renewing my resolve, I tried again. Some time "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_5",
+    "reader_text": "The remorse, horror and hopelessness of the next morning are unforgettable. The courage to do battle was not there. My brain raced uncontrollably and there was a terrible sense of impending calamity. A morning paper told me the market had gone to hell again. Well, so had I. The market would recover, but I wouldn't. That was a hard thought. Then a mental fog settled down.",
+    "surface_text": "The morning after is the part I'll never forget — the remorse, the horror, the flat hopelessness of it. I didn't have any fight left in me. My mind raced and wouldn't stop, and there was this awful sense that something terrible was about to happen. I read that the market had crashed again, and I thought: so have I. The market would come back. I wouldn't. That was a brutal thought to sit with. If you're in that gray, hopeless morning right now, I want you to know that the certainty that you're the one thing that can't recover — that feeling lies. It's the wreckage talking, and it lifts. You are not the exception to every story that turns around.",
+    "faith_optional": null,
+    "labels": { "moment": ["after-a-slip", "starting-out"], "halt": "HOPELESS", "urge_level": "CRITICAL", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — despair named honestly and met with hope; self-attacking 'so had I' reframed as the wreckage talking",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 15,
+      "paragraph_index": 25,
+      "quote_stub": "The remorse, horror and hopelessness of the ne"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_6",
+    "reader_text": "Best of all, I met a kind doctor who explained that though certainly selfish and foolish, I had been seriously ill, bodily and mentally. It relieved me somewhat to learn that in recovery the will is amazingly weakened when it comes to combating liquor, though it often remains strong in other respects. My incredible behavior in the face of a desperate desire to stop was explained. Understanding myself now, I fared forth in high hope. For three or four months the goose hung high. Surely this was the answer — self-knowledge.",
+    "surface_text": "The best thing that happened was meeting a doctor who told me something no one had: I wasn't just weak or foolish — I had been genuinely ill, in body and mind. It was a real relief to learn that with this, your willpower can be strong in every other part of your life and still go strangely limp when it's up against the substance. That finally explained why I kept doing the exact thing I was desperate to stop. Now that I understood myself, I walked out full of hope. And for three or four months, things went great. I was sure I'd found the answer: just understanding it. Here's the catch worth remembering — understanding why you do it is a huge, freeing piece, but insight alone doesn't hold you when the craving arrives. Knowing isn't the same as being protected.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "allergy/disease → 'genuinely ill, it's wiring not willpower'; powerless over alcohol → 'willpower goes limp against the substance'; 'selfish and foolish' softened, insight-alone limit named",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 16,
+      "paragraph_index": 28,
+      "quote_stub": "It relieved me somewhat to learn that in alcoh"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_7",
+    "reader_text": "But it was not, for the frightful day came when I drank once more. The curve of my declining health fell off like a ski-jump. After a time I returned to the hospital. This was the finish, the curtain, it seemed to me.",
+    "surface_text": "But self-knowledge wasn't the answer, because the day came when I drank again anyway. And once I did, everything I'd rebuilt dropped away fast — like the edge of a ski jump. Eventually I ended up back where I started. It felt like the end, the final curtain. If you've done real work, understood yourself, put together a good stretch, and then slipped — I know that free-fall feeling, and I know it can feel like proof that nothing works for you. It isn't. A slip is not the finish. It's a hard chapter, not the last one, and plenty of people write many more chapters after it.",
+    "faith_optional": null,
+    "labels": { "moment": ["after-a-slip", "staying-the-course"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — 'moral health' dropped to just 'health'; the relapse reframed as a chapter not the end",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 16,
+      "paragraph_index": 29,
+      "quote_stub": "But it was not, for the frightful day came whe"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_8",
+    "reader_text": "No words can tell of the loneliness and despair I found in that bitter morass of self-pity. Quicksand stretched around me in all directions. I had met my match. I had been overwhelmed. Alcohol was my master.",
+    "surface_text": "I don't have words for the loneliness and despair down in that pit of self-pity. It felt like quicksand in every direction. I'd met my match. I was overwhelmed. The truth I finally couldn't dodge: this was stronger than me, and it was running my life. Strange as it sounds, that admission — I can't out-muscle this on my own — isn't the bottom of defeat. It's the first honest ground you can stand on. You stop wasting strength on a fight you keep losing alone, and you start reaching for what can actually outlast the urge with you.",
+    "faith_optional": null,
+    "labels": { "moment": ["lonely", "starting-out"], "halt": "HOPELESS", "urge_level": "CRITICAL", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "powerless over alcohol → 'this is stronger than me alone; you can't out-willpower it but you can outlast it'; admission reframed as first honest ground, not shame",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 17,
+      "paragraph_index": 31,
+      "quote_stub": "No words can tell of the loneliness and despai"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_9",
+    "reader_text": "Everyone became resigned to the certainty that I would stumble along to a miserable end. How dark it is before the dawn! In reality that was the beginning of my last debauch. I was soon to be catapulted into what I like to call the fourth dimension of existence. I was to know happiness, peace, and usefulness, in a way of life that is incredibly more wonderful as time passes.",
+    "surface_text": "Everyone around me had given up. They were sure I'd just stumble along to a grim end. But you know how it's darkest right before dawn? That lowest point turned out to be the last of it. From there I was thrown into a whole new way of living — I honestly think of it as a different dimension of being alive. I came to know real happiness, real peace, and the feeling of being useful, in a life that has only gotten better with time. I'm telling you this from the far side of the exact hopelessness you might be in right now: the point where everyone, including you, has counted you out can be the point where it turns. Not because you finally forced it — because the bottom is where the change gets a chance to start.",
+    "faith_optional": null,
+    "labels": { "moment": ["starting-out", "after-a-slip"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — 'catapulted into the fourth dimension' kept as universal hope; no faith framing needed",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 17,
+      "paragraph_index": 32,
+      "quote_stub": "Trembling, I stepped from the hospital a broke"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_10",
+    "reader_text": "But my friend sat before me, making the point-blank declaration that something had done for them what they could not do for themselves. Their own will had failed. Doctors had pronounced them incurable. Society was about to lock them up. Like myself, my friend had admitted complete defeat. Then, in effect, they had been raised from the dead, suddenly taken from the scrap heap to a level of life better than the best they had ever known.",
+    "surface_text": "My friend sat across from me and said it flat out: something had done for them what they could never do for themselves. Their own willpower had failed completely. The doctors had called them a lost cause. They were about to be locked away. Like me, my friend had admitted total defeat — and then, somehow, came all the way back. Pulled off the scrap heap into a life better than their best days ever were. What got me was that my friend wasn't claiming to have finally tried harder. They'd stopped relying only on themselves and leaned on something bigger than the urge — and that was the thing that carried them. If your own effort has failed you over and over, that's not the end of the road. It might be the exact opening where help larger than you finally gets in.",
+    "faith_optional": "For my friend, the 'something bigger' was God — they'd say plainly that God did for them what they couldn't do for themselves. If faith is part of your life, that surrender to a power greater than yourself can be the very thing that carries you.",
+    "labels": { "moment": ["doubt-higher-power", "starting-out"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "decision", "function": "spiritual" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "Higher Power/God → 'something bigger than the urge'; the God-specific declaration moved to faith_optional",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 20,
+      "paragraph_index": 48,
+      "quote_stub": "But my friend sat before me, and he made the p"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_11",
+    "reader_text": "Here was something at work in a human heart which had done the impossible. Never mind the musty past; here sat a living change directly across the kitchen table. My friend was much more than inwardly reorganized, but on a different footing entirely. Those roots grasped a new soil.",
+    "surface_text": "Something had gone to work inside this person and done what I'd sworn was impossible. Forget theories and arguments — the proof was sitting right across the kitchen table from me. My friend wasn't just tidied up on the inside, but standing on completely different ground. Those roots had taken hold in new soil. That's what changed my mind: not a lecture, but a real person who'd been as far gone as me, now clearly, undeniably different. If you can't yet believe change is possible for you, you don't have to argue yourself into it. Find the living proof — someone who's walked out of where you are. Sitting near that does more than any argument.",
+    "faith_optional": null,
+    "labels": { "moment": ["doubt-higher-power", "starting-out"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'miracle' softened to 'living change / real change'; keeps the point that lived proof persuades where argument can't",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 21,
+      "paragraph_index": 50,
+      "quote_stub": "That floored me. It began to look as though re"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_12",
+    "reader_text": "My friend suggested what then seemed a novel idea, asking, \"Why don't you choose your own conception of something greater than yourself?\" That statement hit me hard. It melted the icy intellectual mountain in whose shadow I had lived and shivered many years. I stood in the sunlight at last.",
+    "surface_text": "My friend said something that had honestly never occurred to me, asking: why don't you just pick your own idea of what that something-bigger is? That landed hard. For years I'd been frozen behind a wall of my own objections, arguing myself out of every version of it. And that one question melted the whole thing. For the first time, I felt like I was standing in the sun. If the usual language turns you off, you don't have to accept anyone else's definition. The something bigger than the urge can be whatever is real to you — people who love you, the values you refuse to lose, the future self you're protecting. You get to choose it. That freedom alone can unlock the door.",
+    "faith_optional": "For many, the something greater is God, understood in whatever way is real to them — no one else's definition required. Choosing your own conception can be where a genuine faith begins.",
+    "labels": { "moment": ["doubt-higher-power", "starting-out"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "decision", "function": "spiritual" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "Higher Power/God → 'something greater than yourself' (people, values, future self); the God-as-such option moved to faith_optional",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 21,
+      "paragraph_index": 53,
+      "quote_stub": "My friend suggested what then seemed a novel i"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_13",
+    "reader_text": "It was only a matter of being willing to believe in a power greater than myself. Nothing more was required of me to make my beginning. I saw that growth could start from that point. Upon a foundation of complete willingness I might build what I saw in my friend. Would I have it? Of course I would.",
+    "surface_text": "It turned out the whole thing asked almost nothing of me to start. Just a willingness to believe there could be something stronger than the urge — something bigger than me. That was it. I didn't have to have it all figured out or believe perfectly. From that one small opening, everything else could grow. On a foundation of plain willingness, I could build the kind of life I'd just watched in my friend. Did I want that? Absolutely. If you're stuck at the starting line, you don't need certainty. You need a crack of willingness — just enough to say 'maybe.' That's a real beginning, and everything is built up from there.",
+    "faith_optional": "For some, that power greater than themselves is God — and even here, all that's asked at the start is willingness, not certainty. Belief can grow from a single honest 'maybe.'",
+    "labels": { "moment": ["starting-out", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "decision", "function": "spiritual" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "Higher Power/God → 'a power greater than myself / something stronger than the urge'; the God reading moved to faith_optional; willingness kept as the technique",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 22,
+      "paragraph_index": 55,
+      "quote_stub": "It was only a matter of being willing to belie"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_14",
+    "reader_text": "My friend visited me, and I fully shared my problems and shortcomings. We made a list of people I had hurt or toward whom I felt resentment. I expressed my entire willingness to approach these individuals, admitting my wrong. Never was I to be critical of them. I was to right all such matters to the utmost of my ability.",
+    "surface_text": "My friend came by, and I laid it all out — all my problems, all the patterns in me that weren't serving anyone. Then we did something concrete: we wrote down a list of the people I'd hurt, and the people I still resented. And I got honest that I was willing to go to them, own my part, and not stand there judging them for theirs. My job was to make things right, as far as I actually could. That's the move — not just feeling bad, but writing the names down and being willing to repair what you can. Saying it out loud to one trusted person, and putting it on paper, drains the private power it's been holding over you.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment", "family-strain"], "halt": "ANGRY", "urge_level": "PASSING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "moral inventory → 'honest self-review, written down'; character defects → 'patterns that don't serve you'; confession → 'saying it out loud to one person'; amends → 'repair'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 23,
+      "paragraph_index": 60,
+      "quote_stub": "My school mate visited me, and I fully acquain"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_15",
+    "reader_text": "While I lay in the hospital the thought came that there were thousands of others, feeling hopeless, who might be glad to have what had been so freely given me. Perhaps I could help some of them. They in turn might work with others.",
+    "surface_text": "Lying there in the hospital, a thought came to me: there were thousands of other people out there feeling as hopeless as I had, who might be glad to have what I'd just been given for free. Maybe I could help a few of them. And then they might turn around and help others. That thought is bigger than it looks. The moment you imagine passing on what helped you, you stop being only the one who needs rescue and become part of the answer. You don't have to be fully healed to matter to someone one step behind you. That turning-outward is part of how the thing holds.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others", "staying-the-course"], "halt": "HOPELESS", "urge_level": "CLEAR", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — 'hopeless alcoholics' kept but generalized to 'others feeling hopeless' for multi-journey; helping-others kept intact",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 24,
+      "paragraph_index": 67,
+      "quote_stub": "While I lay in the hospital the thought came t"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_16",
+    "reader_text": "My friend had emphasized the absolute necessity of working with others, just as they had worked with me. For if a person failed to enlarge their new way of living through work and giving to others, they could not survive the certain trials and low spots ahead. If they did not reach out, they would surely use again. With us it is just like that.",
+    "surface_text": "My friend hammered one thing home: I had to work with other people the way they'd worked with me. Because if you don't keep growing this new life by giving it away, you won't make it through the hard stretches and low points that are absolutely coming. They put it bluntly — if you don't reach out to others, you'll almost certainly use again. That's not a threat, it's mechanics. Recovery that only points inward eventually starves. The times you help someone else are also the times you're quietly protecting yourself. Reaching out isn't extra credit; for a lot of us it's the load-bearing wall.",
+    "faith_optional": "My friend framed this as faith needing to prove itself in action — 'faith without works is dead.' If faith is part of your path, living it out by helping others is how it stays alive and real.",
+    "labels": { "moment": ["helping-others", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'spiritual life / faith without works' → 'this new way of living' with the faith-specific 'faith without works is dead' moved to faith_optional; helping-others technique kept",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 24,
+      "paragraph_index": 68,
+      "quote_stub": "My friend had emphasized the absolute necessit"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_17",
+    "reader_text": "For a year and a half I found little work, was not too well, and was plagued by waves of self-pity and resentment. This sometimes nearly drove me back to drink. I soon found that when all other measures failed, work with another person struggling would save the day. Many times I have gone to my old hospital in despair. On talking to someone there, I would be amazingly lifted up and set on my feet. It is a design for living that works in rough going.",
+    "surface_text": "For a year and a half things were hard — little work, my health was shaky, and waves of self-pity and resentment kept crashing over me. More than once they nearly drove me back to using. But I found something that saved me again and again: when nothing else worked, sitting down with another person who was struggling would turn the day around. I'd walk into my old hospital in total despair, talk with someone there, and walk out lifted up and steady on my feet. Remember this for your own low points: when self-pity and resentment are pulling you toward the edge and none of your usual tools are landing, reach for another person who's hurting. Helping them is often what pulls you back from the edge. This is a way of living that actually holds up in the rough stretches.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others", "resentment"], "halt": "ANGRY", "urge_level": "WHITE_KNUCKLING", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — resentment/self-pity → the urge kept plain; 'work with another alcoholic' generalized to 'another person struggling' for multi-journey",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 24,
+      "paragraph_index": 69,
+      "quote_stub": "My wife and I abandoned ourselves with enthusi"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch01_18",
+    "reader_text": "We commenced to make many fast friends and a fellowship has grown up among us of which it is a wonderful thing to feel a part. The joy of living we really have, even under pressure and difficulty. I have seen the most impossible domestic situations righted; feuds and bitterness of all sorts wiped out. I have seen people resume a vital place in the lives of their families and communities. There is scarcely any form of trouble and misery which has not been overcome among us.",
+    "surface_text": "We started making real, lasting friends, and a fellowship grew up among us that it's a genuinely wonderful thing to belong to. And we actually have joy in living — even when life is hard and the pressure is on. I've watched relationships that looked completely hopeless get put right. I've seen old feuds and deep bitterness just dissolve. I've seen people take their place back in their families and their communities. There's almost no kind of trouble or misery I haven't watched get overcome among us. Hold onto this when your own situation looks past saving: you are not the exception. The wreckage that feels permanent right now has been repaired by people who felt exactly the way you do — and you don't do it alone. You do it inside a community that's been through it.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain", "staying-the-course"], "halt": "HOPELESS", "urge_level": "CLEAR", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — 'men' generalized to 'people'; keeps the fellowship-and-hope arc intact",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch01",
+      "chapter_title": "I. Bill's Story",
+      "page": 25,
+      "paragraph_index": 70,
+      "quote_stub": "We commenced to make many fast friends and a f"
+    },
+    "needs_clinical_review": true
+  }
+]

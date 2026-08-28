@@ -1,0 +1,173 @@
+[
+  {
+    "id": "lit_ch07_1",
+    "reader_text": "Practical experience shows that nothing will so much insure immunity from drinking as intensive work with other people in recovery. It works when other activities fail. You can help when no one else can. You can secure their confidence when others fail. Remember they are very ill — and remember, too, that reaching toward them is one of the surest things you can do for yourself.",
+    "surface_text": "Here is something people learn the hard way: almost nothing protects you like putting real effort into helping someone else who is struggling with the same thing. It works even when everything else you've tried has failed. And you can reach a person no one else can reach — because you've been there, you get through where others can't. So when you're the one feeling shaky or alone, turning toward another person who's hurting isn't charity. It's one of the strongest moves you can make to stay well yourself.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others", "lonely", "craving-now"], "halt": "LONELY", "urge_level": "WHITE_KNUCKLING", "stage": "maintenance", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "recast 'carry this message to other alcoholics' (instruction to a prospect) into insight for the user's own benefit — service as protection against relapse; 'immunity from drinking' kept as protective effect",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 101,
+      "paragraph_index": 0,
+      "quote_stub": "PRACTICAL experience shows that nothing will so"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch07_2",
+    "reader_text": "Life will take on new meaning. To watch people recover, to see them help others, to watch loneliness vanish, to see a fellowship grow up about you, to have a host of friends — this is an experience you must not miss. We know you will not want to miss it. Frequent contact with people newer to this than you, and with each other, is the bright spot of our lives.",
+    "surface_text": "Your life starts to mean something again. You get to watch people come back to life, watch them turn around and help someone else, watch your own loneliness quietly disappear as a circle of real friends grows up around you. This is not an experience to skip. Staying in regular contact with people who are newer to this than you are — and with the ones walking beside you — turns out to be the best part of the day. It's the thing that fills the empty space using never actually filled.",
+    "faith_optional": null,
+    "labels": { "moment": ["lonely", "helping-others", "staying-the-course"], "halt": "LONELY", "urge_level": "PASSING", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'newcomers' softened to 'people newer to this than you'; core promise (loneliness vanishes, fellowship, meaning) kept intact and pointed at the user's own experience",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 101,
+      "paragraph_index": 1,
+      "quote_stub": "Life will take on new meaning. To watch people r"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch07_3",
+    "reader_text": "Don't start out as an evangelist or reformer. Unfortunately a lot of prejudice exists, and you will be handicapped if you arouse it. Because of your own experience you can be uniquely useful to others in a way no professional can. So cooperate; never criticize. To be helpful is the only aim.",
+    "surface_text": "When you reach out to someone else, don't show up as a preacher or a fixer here to reform them — that just puts people's guard up, and it works against you. What actually helps is the one thing only you have: you've lived it. That makes you useful in a way no doctor or counselor can be. So meet the person where they are, don't judge them, and keep it simple — being genuinely helpful is the whole point. And notice: the same non-judging, non-lecturing stance is exactly how you learn to treat yourself.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "maintenance", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "removed 'evangelist/reformer/ministers-priests' religious framing to a plain non-judging stance; recast prospect-approach instruction into a transferable posture the user can also apply to self; no moralizing",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 101,
+      "paragraph_index": 2,
+      "quote_stub": "Perhaps you are not acquainted with any drinkers "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch07_4",
+    "reader_text": "It is important to realize that your attempt to pass this on to another person plays a vital part in your own recovery. Actually, they may be helping you more than you are helping them. So make it plain the other person is under no obligation to you. You should not be offended if they want to call it off — because they have helped you more than you have helped them. If your talk has been sane, quiet, and full of human understanding, you have perhaps made a friend.",
+    "surface_text": "Here's the part that flips everything around: reaching out to help someone else isn't a favor you're doing them — it's a vital part of keeping yourself well. In truth, they're probably helping you more than you're helping them, because getting out of your own head is exactly what you needed. So put no strings on it. The other person owes you nothing, and if they walk away, don't take it as a rejection — you already got what you needed from showing up. If you came at it calm, honest, and with real understanding, you may have just made a friend, which is its own reward.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others", "lonely"], "halt": "LONELY", "urge_level": "PASSING", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "recast prospect-handling instruction into insight for the user's own benefit — the giver gains more than the receiver; service as a tool against isolation; dropped 'the more hopeless he feels the better' prospect-manipulation tail as non-transferable",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 106,
+      "paragraph_index": 15,
+      "quote_stub": "Outline the program of action, explaining how you"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch07_5",
+    "reader_text": "Never avoid these responsibilities, but be sure you are doing the right thing if you assume them. Helping others is the foundation stone of your recovery. A kindly act once in a while isn't enough. You have to act the Good Samaritan every day, if need be. It may mean loss of sleep, interference with your pleasures, interruptions to your day. But keeping yourself on that footing is what keeps you well.",
+    "surface_text": "Don't dodge these chances to help — just be honest with yourself that you're stepping up for the right reasons. Helping other people isn't a nice extra on top of your recovery; it's the foundation the whole thing stands on. A random good deed now and then won't do it. Some days it means showing up when it costs you — lost sleep, plans set aside, your own comfort interrupted. That sounds like a burden, but it's actually the thing that steadies you. Getting outside yourself, on a regular basis, is what keeps the ground under your feet.",
+    "faith_optional": "For many, 'act the Good Samaritan' points back to a source of strength beyond themselves — the sense that showing up for others connects you to something larger than the urge.",
+    "labels": { "moment": ["helping-others", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'foundation stone of your recovery' kept; trimmed the graphic 1939 crisis catalog (police courts, asylums, smashed furniture, 'wives') and 'Good Samaritan' religious echo moved to faith_optional; service reframed as self-protective",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 109,
+      "paragraph_index": 24,
+      "quote_stub": "Never avoid these responsibilities, but be sure y"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch07_6",
+    "reader_text": "Ask yourself on each occasion, \"Have I any good social, business, or personal reason for going to this place? Or am I expecting to steal a little vicarious pleasure from the atmosphere of it?\" If you answer honestly, you need have no apprehension. Go or stay away, whatever seems best. But be sure your motive is thoroughly good. Do not think of what you will get out of the occasion. Think of what you can bring to it. But if you are shaky, you had better go help another person instead.",
+    "surface_text": "Before you walk into any situation that's near your old habit, ask yourself straight: do I have a real reason to be here — social, work, personal — or am I secretly hoping to soak up a little of the old feeling from the atmosphere? Answer honestly and you'll know what to do; go or don't, whichever is right. The tell is your motive. Don't walk in asking what you'll get out of it. Walk in asking what you can bring to it — that one flip protects you. And if you're feeling shaky right now, skip it entirely and go be useful to someone else instead. Getting out of your own craving by helping another person is safer ground than testing yourself.",
+    "faith_optional": null,
+    "labels": { "moment": ["craving-now", "helping-others"], "halt": "STRESSED", "urge_level": "WHITE_KNUCKLING", "stage": "maintenance", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'be sure you are on solid spiritual ground' softened to 'motive is thoroughly good'; motive-check technique kept intact; 'work with another alcoholic' recast as a self-protective move when the user is at risk",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 114,
+      "paragraph_index": 41,
+      "quote_stub": "You will note that we made an important qualificat"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch07_7",
+    "reader_text": "Why sit with a long face in places where there is drinking, sighing about the good old days? If it is a happy occasion, try to increase the pleasure of those there; if a business occasion, go and attend to your business. At a proper time and place explain to your friends why alcohol disagrees with you. If you do this thoroughly, few people will ask you to drink. While you were drinking, you were withdrawing from life little by little. Now you are getting back into the social life of this world. Don't start to withdraw again just because your friends still use.",
+    "surface_text": "There's no reason to sit in the corner with a long face, sighing about the good old days. If it's a celebration, add to it — help other people have a good time. If it's work, go do your work. And at the right moment, just tell the people close to you, plainly, why alcohol (or whatever it is) doesn't work for you. Do that honestly and most people will stop offering it. Here's the deeper thing: while you were using, you were slowly pulling away from life, shrinking your world down. Now you're finally getting back into it — real people, real connection. Don't let that reverse. Don't pull back into isolation again just because the people around you still use. Staying in the mix, staying useful, is what keeps the loneliness from creeping back.",
+    "faith_optional": null,
+    "labels": { "moment": ["lonely", "staying-the-course"], "halt": "LONELY", "urge_level": "PASSING", "stage": "maintenance", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'friends drink liquor' generalized to 'friends still use' for multi-journey; core insight (using = withdrawing from life; recovery = rejoining it; don't re-isolate) kept intact",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 114,
+      "paragraph_index": 42,
+      "quote_stub": "Why sit with a long face in places where there is"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch07_8",
+    "reader_text": "Your job now is to be at the place where you may be of maximum helpfulness to others, so never hesitate to go anywhere, if you can be helpful. You should not hesitate to visit the hardest, most sordid spot on earth on such an errand. Keep on the firing line of life with these motives, and you will come through unharmed.",
+    "surface_text": "From here on, your assignment is simple: be wherever you can do the most good for someone else. When helping is the reason, don't hold back — you can walk into the roughest, darkest place there is and be fine, because you're there to lift someone, not to feed anything in yourself. Stay out on the front edge of life with that motive driving you, and it carries you through unharmed. Being of use is armor. It's the opposite of hiding, and it's the opposite of relapse.",
+    "faith_optional": "For many, 'keep on the firing line and you will come through unharmed' carries the sense that when your motive is to help, something greater than the urge is watching over you — you are not doing it on your own strength alone.",
+    "labels": { "moment": ["helping-others", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'God will keep you unharmed' → reader_text neutralized to 'you will come through unharmed', God-specific assurance moved to faith_optional; 'maximum helpfulness' kept as the user's own protective purpose",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 115,
+      "paragraph_index": 43,
+      "quote_stub": "Your job now is to be at the place where you may b"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch07_9",
+    "reader_text": "After all, our problems were of our own making. Bottles were only a symbol. Besides, we have stopped fighting anybody or anything. We have to.",
+    "surface_text": "In the end, the trouble was ours to begin with — the bottle, the pill, the bet, whatever it was, that was only the symbol of it, not the real thing. And here's what changed: we stopped fighting. Fighting people, fighting circumstances, fighting the world. We had to, because the fighting was part of what kept us stuck and kept us alone. Laying the fight down — and turning that freed-up energy toward helping someone else — is what finally let us out of our own heads.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others", "resentment"], "halt": "ANGRY", "urge_level": "PASSING", "stage": "maintenance", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'bottles were only a symbol' generalized across journeys; 'stopped fighting' kept; tied to getting out of self / turning toward others per chapter theme; no moralizing",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch07",
+      "chapter_title": "VII. Working With Others",
+      "page": 116,
+      "paragraph_index": 47,
+      "quote_stub": "After all, our problems were of our own making. Bo"
+    },
+    "needs_clinical_review": true
+  }
+]

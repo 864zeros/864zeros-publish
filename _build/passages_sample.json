@@ -1,0 +1,85 @@
+{
+  "_meta": {
+    "purpose": "Calibration sample — 3 modernized passages for tone review before scaling.",
+    "policy": "Technique-only + optional faith. Doctrine re-mapped, not deleted. 12 Steps never touched. No abbreviation of message.",
+    "renderings": "reader_text = light-touch (keeps 1939 voice). surface_text = re-voiced plain 2026. Both preserve the FULL message.",
+    "needs_clinical_review": true
+  },
+  "passages": [
+    {
+      "id": "lit_p001",
+      "reader_text": "People drink, essentially, because they like the effect produced by alcohol. The sensation is so elusive that, while they admit it is injurious, after a time they cannot tell the true from the false. To them, their drinking life seems the only normal one. They are restless, irritable and discontented unless they can again feel the sense of ease and comfort that comes at once from a few drinks — drinks they see others take with no consequence. Having given in to the craving again, as so many do, they pass through the familiar stages of a binge, emerging remorseful, with a firm resolve never to drink again. This is repeated over and over, and unless the person can undergo an entire inner change there is very little hope of their recovery.",
+      "surface_text": "Here's the trap, in plain terms: you drink because you like how it feels — that fast sense of ease and comfort. The problem is the feeling is slippery. Even knowing it's hurting you, after a while you can't tell what's true anymore, and this life starts to look like the only normal one. So you're restless, on edge, never quite settled until the next few drinks — the same drinks you watch other people have with no fallout. You give in, the craving takes over, and you ride out the binge only to come out the other side full of regret, swearing it off for good. Then it happens again. And again. This isn't weak character — it's a real switch that flips once alcohol is in you. Breaking the loop takes an actual inner change, not just another promise to yourself.",
+      "faith_optional": null,
+      "labels": {
+        "moment": ["is-this-me?", "craving-now"],
+        "halt": "GENERAL",
+        "urge_level": "WHITE_KNUCKLING",
+        "stage": "contemplation",
+        "function": "foundational",
+        "persona": null
+      },
+      "framework_map": "allergy/disease → 'a real switch that flips'; removes moral-weakness framing",
+      "reading_time": "medium",
+      "source": {
+        "book": "AA-1939",
+        "chapter_id": "doctors-opinion",
+        "chapter_title": "The Doctor's Opinion",
+        "page": 5,
+        "paragraph_index": 24,
+        "quote_stub": "Men and women drink essentially because they like the effect…"
+      },
+      "needs_clinical_review": true
+    },
+    {
+      "id": "lit_p002",
+      "reader_text": "Resentment is the “number one” offender. It destroys more people in recovery than almost anything else. Left alone, it keeps you locked in the anger that feeds the urge — you stay off-balance, mentally and physically, until it is dealt with. So we deal with it on paper. We list the people, institutions, or principles we are angry at. We ask ourselves why we are angry. In most cases we find that our self-respect, our security, our ambitions, or our relationships were hurt or threatened. So we were sore. We were “burned up.”",
+      "surface_text": "Anger is the single biggest thing that talks people back into using — it convinces you that you're owed a drink. And it doesn't stay put; it circles in your head and keeps you on edge until you deal with it. So deal with it on paper. Write down who or what you're angry at — people, institutions, even ideas. Then write down why. Be honest: most of the time it's because something you care about got hurt or threatened — your self-respect, your sense of security, your ambitions, your relationships. That's what's really going on underneath the anger. Getting it out of your head and onto the page drains the pressure that pushes you toward a drink.",
+      "faith_optional": null,
+      "labels": {
+        "moment": ["resentment"],
+        "halt": "ANGRY",
+        "urge_level": "WHITE_KNUCKLING",
+        "stage": "action",
+        "function": "instructional",
+        "persona": null
+      },
+      "framework_map": "'spiritual disease/malady' → 'anger that feeds the urge'; moral-inventory → expressive writing (technique kept intact)",
+      "reading_time": "medium",
+      "source": {
+        "book": "AA-1939",
+        "chapter_id": "ch05",
+        "chapter_title": "V. How It Works",
+        "page": 76,
+        "paragraph_index": 36,
+        "quote_stub": "Resentment is the “number one” offender…"
+      },
+      "needs_clinical_review": true
+    },
+    {
+      "id": "lit_p003",
+      "reader_text": "If we are painstaking about this phase of our development, we will be amazed before we are half through. We are going to know a new freedom and a new happiness. We will not regret the past nor wish to shut the door on it. We will comprehend the word serenity and we will know peace. No matter how far down the scale we have gone, we will see how our experience can benefit others. That feeling of uselessness and self-pity will disappear. We will lose interest in selfish things and gain interest in our fellows. Self-seeking will slip away. Our whole attitude and outlook upon life will change. Fear of people and of economic insecurity will leave us. We will intuitively know how to handle situations which used to baffle us. We will suddenly realize that we are doing for ourselves what we never could alone.",
+      "surface_text": "If you keep at this, honestly, you'll be amazed before you're even halfway. Here's what people describe: a new kind of freedom, and an actual happiness. You stop regretting the past — and you stop wanting to slam the door on it. You start to understand what serenity means, and you feel real peace. No matter how far down you went, you'll see how even that can help someone else. The uselessness and self-pity fade. You get out of your own head and start caring about other people. The constant self-focus loosens its grip. Your whole outlook shifts. The fear of people, and of not having enough, eases off. You start handling situations that used to floor you, almost without thinking. One day you realize you're doing for yourself what you never could on your own.",
+      "faith_optional": "For many people this is the moment they realize it was never just willpower — that a power greater than themselves was doing for them what they couldn't do alone.",
+      "labels": {
+        "moment": ["hopelessness", "after-a-slip", "staying-the-course"],
+        "halt": "HOPELESS",
+        "urge_level": "PASSING",
+        "stage": "maintenance",
+        "function": "identification",
+        "persona": null
+      },
+      "framework_map": "closing 'God is doing for us' → moved to faith_optional; the Promises themselves kept universal",
+      "reading_time": "medium",
+      "source": {
+        "book": "AA-1939",
+        "chapter_id": "ch06",
+        "chapter_title": "VI. Into Action",
+        "page": 96,
+        "paragraph_index": 36,
+        "quote_stub": "If we are painstaking about this phase… (“the Promises”)"
+      },
+      "needs_clinical_review": true
+    }
+  ]
+}

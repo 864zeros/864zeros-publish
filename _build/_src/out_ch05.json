@@ -1,0 +1,306 @@
+[
+  {
+    "id": "lit_ch05_1",
+    "reader_text": "Rarely have we seen a person fail who has thoroughly followed our path. Those who do not recover are people who cannot or will not completely give themselves to this simple program — usually people who are unable to be honest with themselves. There are such unfortunates. They are not at fault; they seem to have been born that way. They are naturally incapable of grasping and developing a manner of living which demands rigorous honesty. Their chances are less than average. There are those, too, who struggle with grave emotional and mental difficulties, but many of them do recover if they have the capacity to be honest.",
+    "surface_text": "Here's the one thing that separates the people who make it from the people who don't: honesty with themselves. Almost no one fails who really works this all the way through. The ones who don't recover are usually the ones who can't, or won't, be honest with themselves — and that's not a character flaw, it's just how some folks are wired. Even people carrying heavy emotional or mental struggles recover all the time, as long as they can be honest. So the ask isn't perfection. It's honesty. If you can be honest with yourself, you have a real shot.",
+    "faith_optional": null,
+    "labels": { "moment": ["starting-out", "is-this-me"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "removed 'constitutionally incapable' moralizing edge; kept honesty-as-requirement intact; substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 70,
+      "paragraph_index": 0,
+      "quote_stub": "RARELY have we seen a person fail who has t"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_2",
+    "reader_text": "Our stories disclose in a general way what we used to be like, what happened, and what we are like now. If you have decided you want what we have, and are willing to go to any length to get it — then you are ready to take certain steps.",
+    "surface_text": "Every story here follows the same simple shape: what we used to be like, what happened, and what we're like now. That's it. And here's the only entry requirement: if you've decided you want what these people found, and you're willing to go to real lengths to get it, you're ready. Willingness is the door. You don't have to have it all figured out — you just have to be willing.",
+    "faith_optional": null,
+    "labels": { "moment": ["starting-out", "decision"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none; willingness message kept intact, substance-agnostic",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 70,
+      "paragraph_index": 1,
+      "quote_stub": "Our stories disclose in a general way what w"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_3",
+    "reader_text": "At some of these steps we balked. We thought we could find an easier, softer way. But we could not. With all the earnestness at our command, we beg of you to be fearless and thorough from the very start. Some of us tried to hold on to our old ideas, and the result was nil until we let go absolutely.",
+    "surface_text": "We're not going to pretend some of this is easy — we balked too. We went looking for an easier, softer way around it, and there wasn't one. So here's our honest plea: be brave and thorough right from the start. The people who tried to keep one hand on their old thinking got nowhere until they finally let go all the way. Half-in doesn't work here. All-in does.",
+    "faith_optional": null,
+    "labels": { "moment": ["decision", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none; 'let go absolutely' kept as full-commitment message, substance-agnostic",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 70,
+      "paragraph_index": 2,
+      "quote_stub": "At some of these we balked. We thought we co"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_4",
+    "reader_text": "Many of us exclaimed, \"What an order! I can't go through with it.\" Do not be discouraged. No one among us has been able to maintain anything like perfect adherence to these principles. We are not saints. The point is that we are willing to grow. The principles we have set down are guides to progress. We claim progress rather than perfection.",
+    "surface_text": "If your first reaction is \"there's no way I can do all that\" — good, you're in the right place. That's what most of us said. So hear this clearly: nobody does this perfectly. Not one person here is a saint or gets it all right. The whole point isn't to be flawless — it's to be willing to grow. Think of these as guideposts for progress, not a test you pass or fail. We're going for progress, not perfection. On the hard days, that difference is everything.",
+    "faith_optional": null,
+    "labels": { "moment": ["doubt-higher-power", "after-a-slip", "staying-the-course"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "action", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'willing to grow along spiritual lines' → 'willing to grow'; kept progress-not-perfection intact, substance-agnostic",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 72,
+      "paragraph_index": 18,
+      "quote_stub": "Many of us exclaimed, “What an order! I can’t"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_5",
+    "reader_text": "The first thing we had to see was that a life run entirely on self-will could hardly be a success. On that basis we are almost always in collision with something or somebody, even when our motives are good. Most people try to live by self-propulsion. Each person is like an actor who wants to run the whole show — forever trying to arrange the lights, the scenery, and the rest of the players their own way. If only the arrangements would stay put, if only people would do as we wished, the show would be great. In trying to make these arrangements we may sometimes be quite virtuous — kind, considerate, patient, generous, even self-sacrificing. Other times we may be mean, selfish, and dishonest. Like most people, we are more likely to have a mix of both.",
+    "surface_text": "Here's a pattern worth seeing in yourself: trying to run everything on sheer self-will rarely works out. When you're set on controlling it all, you end up bumping into people and circumstances constantly — even when your intentions are good. Most of us live like an actor who wants to direct the whole play: arranging the lights, the scenery, and everyone else to match our own script. And we tell ourselves that if people would just do it our way, everything would be fine. Sometimes we're genuinely kind and generous while we're at it; sometimes we're not. Mostly we're a mix. The trap isn't being a bad person — it's believing you can arrange the whole world to your liking, and staying frustrated when it won't cooperate.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment", "staying-the-course"], "halt": "STRESSED", "urge_level": "PASSING", "stage": "action", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'self-will' kept as the control-everything pattern (not moralized); gender-neutral (his→their); substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 72,
+      "paragraph_index": 24,
+      "quote_stub": "The first requirement was that we be convinc"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_6",
+    "reader_text": "What usually happens? The show doesn't come off very well. We begin to think life isn't treating us right. We decide to push harder — become more demanding, or more gracious, as the case may be. Still the play doesn't suit us. Admitting we may be somewhat at fault, we are sure that other people are more to blame. We become angry, indignant, full of self-pity. What is the basic trouble? Are we not really self-seekers even when trying to be kind? Are we not caught in the belief that we could wrest satisfaction and happiness out of this world if we only managed it well enough? And don't our efforts to control leave everyone around us wanting to grab back what they can — so that even at our best we produce confusion rather than harmony?",
+    "surface_text": "So what happens when the show doesn't go your way? You start feeling life is treating you unfairly. You push harder — get more demanding, or lay on the charm — and it still doesn't come out right. You'll admit you might be a little at fault, but you're sure everyone else is more to blame. And then come the anger, the indignation, the self-pity. Here's the honest question underneath it all: even when you're trying to be good to people, are you mostly still trying to get something? Are you caught believing you could finally be happy if you just managed everything better? The catch is that all that managing pushes people to push back — so even on your best days you end up making chaos instead of peace. Seeing that clearly is the start of a different way to live.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment", "self-pity", "staying-the-course"], "halt": "ANGRY", "urge_level": "PASSING", "stage": "action", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'self-seeker' kept descriptive, not moralized; gender-neutral (he→we/you); substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 73,
+      "paragraph_index": 25,
+      "quote_stub": "What usually happens? The show doesn’t come "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_7",
+    "reader_text": "Self-centeredness — that, we think, is the root of our troubles. Driven by a hundred forms of fear, self-delusion, self-seeking, and self-pity, we step on the toes of others and they retaliate. Sometimes they hurt us, seemingly without provocation, but we invariably find that at some time in the past we made decisions based on self, which later placed us in a position to be hurt. So our troubles are basically of our own making. They arise out of ourselves. Above everything, we had to be freed from this self-centeredness. Many of us had moral and philosophical convictions galore, but we could not live up to them, even though we would have liked to. Nor could we reduce our self-centeredness much by wishing or simply trying harder on our own. We needed help beyond ourselves.",
+    "surface_text": "If you trace most of your troubles back far enough, a lot of them start with self — being driven by fear, self-deception, chasing what we want, and self-pity. We step on people, they push back. Sometimes it feels like they hurt us out of nowhere, but look closely and you'll often find an earlier choice we made, centered on ourselves, that set us up to get hurt. That's not to beat yourself up — it's actually good news, because it means a lot of this is workable from your side. Here's the hard part, though: you can't just think or white-knuckle your way out of self-centeredness. Plenty of us had all the right values and still couldn't live up to them by willpower alone. That's exactly why this works better with something bigger than you and support outside yourself — not because you're weak, but because no one does this solo.",
+    "faith_optional": "For many of us, the help beyond ourselves that finally loosened self-centeredness was God — the point where we admitted we couldn't do it alone and let a power greater than ourselves do what we couldn't.",
+    "labels": { "moment": ["resentment", "fear", "self-pity"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "action", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'God's help' → 'help beyond ourselves / something bigger' in body, God-specific line moved to faith_optional; 'selfishness kills us' softened, moralizing removed; substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 74,
+      "paragraph_index": 27,
+      "quote_stub": "Selfishness–self-centeredness! That, we think"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_8",
+    "reader_text": "Next we launched out on a course of vigorous action, the first part of which is a personal housecleaning — something many of us had never attempted. Though our decision was a vital and crucial step, it could have little lasting effect unless followed at once by a strenuous effort to face, and to be rid of, the things in ourselves that had been blocking us. The substance was only a symptom. So we had to get down to causes and conditions.",
+    "surface_text": "Here's where it turns into action. Deciding to change matters, but a decision alone doesn't hold — it has to be followed right away by real work: honestly facing the things inside you that have been in the way, and starting to clear them out. Think of it as a personal housecleaning, one most of us had never actually done. And this is the key insight: the using was only a symptom. Underneath it are the real causes and conditions, and that's what we have to get down to. Fix the symptom only, and it comes back. Get to the causes, and things start to change for good.",
+    "faith_optional": null,
+    "labels": { "moment": ["staying-the-course", "decision"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'liquor was but a symptom' → 'the using/substance was only a symptom' (kept substance-agnostic); 'personal housecleaning' kept as expressive self-review",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 76,
+      "paragraph_index": 33,
+      "quote_stub": "Next we launched out on a course of vigorous"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_9",
+    "reader_text": "Therefore we started upon a personal inventory. A business that takes no regular inventory usually goes broke. Taking inventory is a fact-finding and a fact-facing process. It is an effort to discover the truth about what you're really carrying. One object is to disclose the damaged goods, so we can get rid of them promptly and without regret. If the owner of a business is to succeed, they cannot fool themselves about what things are really worth. We did exactly the same thing with our lives. We took stock honestly. First we searched out the patterns in ourselves that had caused our failures — and, being convinced that self, showing up in various forms, was what had defeated us, we considered its common expressions.",
+    "surface_text": "So we take an honest inventory of ourselves — and it helps to think of it exactly like a business taking stock. A business that never checks its inventory goes under. Taking stock is simply a process of finding the facts and facing them, telling the truth about what you're actually carrying. Part of the point is to spot the damaged goods so you can let them go — promptly, and without beating yourself up about it. No successful owner lies to themselves about what things are really worth. Do the same with your own life: take an honest look, and start naming the patterns in you that keep leading to the same wreckage. Not to shame yourself — just to see clearly what's been running the show.",
+    "faith_optional": null,
+    "labels": { "moment": ["staying-the-course", "is-this-me"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "moral-inventory → 'honest self-review / take stock' (expressive writing); 'flaws in our make-up' → 'patterns'; gender-neutral (he→they); substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 76,
+      "paragraph_index": 34,
+      "quote_stub": "Therefore, we started upon a personal invent"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_10",
+    "reader_text": "Resentment is the “number one” offender. It destroys more people in recovery than almost anything else. Left alone, it keeps you locked in the anger that feeds the urge — you stay off-balance, mentally and physically, until it is dealt with. So we deal with it on paper. We list the people, institutions, or principles we are angry at. We ask ourselves why we are angry. In most cases we find that our self-respect, our security, our ambitions, or our relationships were hurt or threatened. So we were sore. We were “burned up.”",
+    "surface_text": "Anger is the single biggest thing that talks people back into using — it convinces you that you're owed a drink. And it doesn't stay put; it circles in your head and keeps you on edge until you deal with it. So deal with it on paper. Write down who or what you're angry at — people, institutions, even ideas. Then write down why. Be honest: most of the time it's because something you care about got hurt or threatened — your self-respect, your sense of security, your ambitions, your relationships. That's what's really going on underneath the anger. Getting it out of your head and onto the page drains the pressure that pushes you toward a drink.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment"], "halt": "ANGRY", "urge_level": "WHITE_KNUCKLING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'spiritual disease/malady' → 'anger that feeds the urge'; moral-inventory → expressive writing (technique kept intact)",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 76,
+      "paragraph_index": 36,
+      "quote_stub": "Resentment is the “number one” offender. It d"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_11",
+    "reader_text": "On our list we set opposite each name our injuries. Was it our self-respect, our security, our ambitions, or our relationships that had been interfered with? We were usually very specific — naming the person, the exact thing they did, and precisely which part of us it hit.",
+    "surface_text": "Now take your anger list one step further. Next to each name, write down exactly what got hurt. Ask: was it my self-respect? My sense of security? My ambitions? My relationships? Get specific — name the person, name the actual thing they did, and name precisely which part of you it landed on. The specificity is what makes this work. Vague anger stays stuck; a clearly named injury can finally be looked at, understood, and set down.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment"], "halt": "ANGRY", "urge_level": "WHITE_KNUCKLING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'pocketbooks/sex relations' → 'security/relationships'; grudge-list technique kept as expressive writing; substance-agnostic",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 77,
+      "paragraph_index": 37,
+      "quote_stub": "On our grudge list we set opposite each name"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_12",
+    "reader_text": "When we were finished we looked it over carefully. The first thing apparent was that the world and its people were often quite wrong. But to conclude that others were wrong was as far as most of us ever got. The usual outcome was that people kept on wronging us and we stayed sore. Sometimes it turned to remorse, and then we were sore at ourselves. But the more we fought and tried to have our way, the worse matters got. As in war, the victor only seemed to win — our moments of triumph were short-lived. It is plain that a life which includes deep resentment leads only to futility and unhappiness. To the exact extent that we let it run us, we squander hours that could have been worthwhile.",
+    "surface_text": "When you look back over your anger list, the first thing you'll notice is that yes — a lot of the time, other people really were in the wrong. But here's the trap: for most of us, \"they were wrong\" is as far as we ever get. And staying there changes nothing. People keep doing what they do, and you stay burned up. Sometimes it flips into being angry at yourself instead. And the harder you fight to force things your way, the worse it tends to get — like a war where even winning costs you, and the victory never lasts. This is the honest bottom line: living with deep resentment just leads to being stuck and unhappy. Every hour you hand over to it is an hour of your life you don't get back. That's the reason to put it down — not because you're wrong to be angry, but because holding it costs you far more than the other person.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment", "staying-the-course"], "halt": "ANGRY", "urge_level": "WHITE_KNUCKLING", "stage": "action", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "merges the futility-of-resentment insight; 'insanity of alcohol returns' fatality framing softened to cost-of-resentment; substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 78,
+      "paragraph_index": 61,
+      "quote_stub": "We went back through our lives. Nothing coun"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_13",
+    "reader_text": "Referring to our list again, we put the wrongs of others out of our minds and resolutely looked for our own mistakes. Where had we been selfish, dishonest, self-seeking, and frightened? Though a situation had not been entirely our fault, we tried to set the other person aside completely and asked only: where were we to blame? The review was ours, not the other person's. When we saw our part, we listed it. We put it before us in black and white, admitted it honestly, and became willing to set matters straight.",
+    "surface_text": "Now go back to that same list and flip it around. Set aside — just for a moment — everything the other people did wrong, and look honestly at your own part. Where were you selfish? Dishonest? Where were you chasing something, or acting out of fear? Even when the situation genuinely wasn't all your fault, try setting the other person completely aside and ask one question: where was I to blame? This review is about you, not them. When you spot your part, write it down. Seeing it in plain black and white — owning it honestly — is what makes it possible to actually set things right. This isn't about piling on shame. It's about reclaiming the part that's actually yours to change.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment", "family-strain", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "moral-inventory → honest self-review (expressive writing); 'the other man's' → 'the other person's' (gender-neutral); 'set matters straight' → repair; substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 79,
+      "paragraph_index": 67,
+      "quote_stub": "Referring to our list again. Putting out of "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_14",
+    "reader_text": "Notice that the word fear runs alongside so many of our difficulties. This short word somehow touches nearly every aspect of our lives. It was an evil and corroding thread; the fabric of our existence was shot through with it. It set in motion chains of events that brought us misfortune we felt we didn't deserve — but hadn't we, ourselves, set the ball rolling? So we reviewed our fears thoroughly. We put them on paper, even the ones with no resentment attached. We asked ourselves why we had them. Wasn't it because self-reliance had failed us? Self-reliance was good as far as it went, but it didn't go far enough. Some of us once had great self-confidence, but it never fully solved the fear problem — and when it made us cocky, it was worse.",
+    "surface_text": "Once you start looking, you'll see fear woven through almost everything. It's a small word that touches nearly every part of life — a kind of corroding thread running through the whole fabric. And it quietly sets things in motion that bring trouble we swear we didn't deserve, even when we were the ones who got the ball rolling. So do with fear exactly what you did with anger: put it on paper. Write down every fear, even the ones that have no resentment attached to them. Then ask why you have each one. For a lot of us, it came down to this: leaning only on ourselves wasn't enough. Self-reliance is good as far as it goes — but it doesn't go far enough, and when it tips into being cocky, it actually makes things worse. Naming your fears on paper is how you start to loosen their grip.",
+    "faith_optional": null,
+    "labels": { "moment": ["fear", "staying-the-course"], "halt": "STRESSED", "urge_level": "WHITE_KNUCKLING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "fear-inventory kept as expressive writing technique; 'self-reliance failed' kept as insight (setup that in source leads to God — God line NOT included here, kept universal); substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 80,
+      "paragraph_index": 68,
+      "quote_stub": "Notice that the word fear is bracketed along"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_15",
+    "reader_text": "Perhaps there is a better way — we think so. For we are now on a different footing: instead of leaning only on our finite selves, we lean on something larger than us. To the extent that we do what we believe is right and rely humbly on that, we are enabled to meet calamity with serenity. We never apologize for depending on something bigger than ourselves. We can even laugh at those who think this is the way of weakness. Paradoxically, it is the way of strength. The verdict of the ages is that this kind of trust means courage. We ask to have our fear removed and our attention turned toward who we would rather be — and at once we begin to outgrow fear.",
+    "surface_text": "There's a better way to carry fear, and it's this: you stop trying to shoulder all of it alone. Instead of relying only on your own limited self, you lean on something bigger than the fear — your values, the people who have your back, the future self you're building toward. And here's the surprising part: to the degree you do what you believe is right and lean on that support humbly, you can actually meet hard things with a kind of calm. Don't let anyone tell you that leaning on something larger is weakness. It's the opposite — it takes real courage, and it's where strength actually comes from. Ask for the fear to ease, point yourself toward who you want to become, and you'll find you start to outgrow the fear itself.",
+    "faith_optional": "For many of us that 'something larger' is God — we lean on our Creator rather than our finite selves, and we never apologize for it. We ask God to remove our fear and turn our attention to what he would have us be, and at once we begin to outgrow fear.",
+    "labels": { "moment": ["fear", "doubt-higher-power", "staying-the-course"], "halt": "STRESSED", "urge_level": "WHITE_KNUCKLING", "stage": "action", "function": "spiritual" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "God/Creator → 'something bigger than the fear' (values, people, future self) in body; God-specific 'trust and rely upon God' moved to faith_optional; 'faith means courage' kept universal; substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 80,
+      "paragraph_index": 70,
+      "quote_stub": "Perhaps there is a better way–we think so. Fo"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch05_16",
+    "reader_text": "If we have been thorough about this personal review, we have written down a lot. We have listed and analyzed our resentments. We have begun to comprehend their futility and their destructiveness. We have begun to learn tolerance, patience, and good will toward everyone — even those we've counted as enemies — for we look on them as people who are struggling too. We have listed the people we have hurt by our conduct, and we have become willing to straighten out the past wherever we can.",
+    "surface_text": "If you've really done this honestly, you've written down a lot — and that's exactly the point. You've listed your resentments and looked at them squarely, and you're starting to see how pointless and corrosive holding onto them really is. Something else starts to shift, too: you begin to find a little more patience and good will toward people — even the ones you'd have called enemies — once you start seeing them as folks who are struggling in their own way. And you've named the people your own actions have hurt, and you're becoming willing to repair what you can. That willingness to repair is huge. It's the turn from carrying the past to actually setting it down.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment", "helping-others", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "action", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "moral-inventory → personal review (expressive writing); amends → repair; 'sick people' → 'people who are struggling'; gender-neutral (all men→everyone); substance-agnostic",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch05",
+      "chapter_title": "V. How It Works",
+      "page": 83,
+      "paragraph_index": 79,
+      "quote_stub": "If we have been thorough about our personal "
+    },
+    "needs_clinical_review": true
+  }
+]

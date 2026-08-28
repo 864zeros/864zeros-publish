@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "title": "Ecclesiastes — key verses (King James Version, public domain)",
+    "book": "Ecclesiastes",
+    "description": "Curated key verses from Ecclesiastes (a time for everything, beauty in its time and eternity in the heart, the conclusion of the matter). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 21 Ecclesiastes); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the book's reflective high points",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV verbatim. No review gate — author is reviewer.",
+    "count": 3
+  },
+  "verses": [
+    { "book": "Ecclesiastes", "chapter": 3,  "citation": "Ecclesiastes 3:1",  "text": "To every thing there is a season, and a time to every purpose under the heaven:", "plain": "There is a time for everything, and a season for every activity under the heavens." },
+    { "book": "Ecclesiastes", "chapter": 3,  "citation": "Ecclesiastes 3:11", "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.", "plain": "He has made everything beautiful in its time. He has also set eternity in the human heart, yet no one can fathom what God has done from beginning to end." },
+    { "book": "Ecclesiastes", "chapter": 12, "citation": "Ecclesiastes 12:13", "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.", "plain": "Here is the conclusion of the matter: Fear God and keep his commandments, for this is the whole duty of humankind." }
+  ]
+}

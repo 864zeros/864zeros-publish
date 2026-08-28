@@ -1,0 +1,439 @@
+[
+  {
+    "id": "lit_ch02_1",
+    "reader_text": "We know a hundred people who were once just as hopeless as anyone reading this. All of them recovered. They solved the drink problem. The most important fact for every one of us is that we discovered a common solution — a way out we can absolutely agree on, and act on together. This is the great news this book carries to anyone who suffers.",
+    "surface_text": "Start here: people who were every bit as hopeless as you feel right now have come all the way back. Not one or two — a whole crowd of them. They found a real way out, and it wasn't luck or willpower. There's a shared path here, one that has actually worked for people who were sure they were finished. That's the news underneath everything else in this book. If you're at the bottom, you are not the exception. There's a solution.",
+    "faith_optional": null,
+    "labels": { "moment": ["starting-out", "is-this-me"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'recovered from hopeless condition' kept as hope; no faith imposed",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 27,
+      "paragraph_index": 0,
+      "quote_stub": "WE, OF ALCOHOLICS ANONYMOUS, know one hundred m"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_2",
+    "reader_text": "The tremendous fact for every one of us is that we have discovered a common solution. We have a way out on which we can absolutely agree, and upon which we can join in harmonious action. This is the great news this book carries to those who suffer.",
+    "surface_text": "The single biggest thing any of us found is this: there's a common solution — a way out. It isn't one person's private trick that might not work for you. It's something people can agree on and move toward together, shoulder to shoulder. If you take nothing else from these pages, take that: a real exit exists, and other people are already walking through it with you.",
+    "faith_optional": null,
+    "labels": { "moment": ["starting-out", "helping-others"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 27,
+      "paragraph_index": 2,
+      "quote_stub": "The tremendous fact for every one of us is that"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_3",
+    "reader_text": "An illness of this sort — and we have come to believe it an illness — involves those around us in a way no other sickness can. If a person has cancer, everyone is sorry and no one is angry or hurt. But not so with this illness, for with it goes the loss of everything worthwhile, and it engulfs everyone whose life touches the person suffering. It brings misunderstanding, fierce resentment, financial insecurity, disgusted friends and employers, and strain on the people closest to us. Anyone can add to the list.",
+    "surface_text": "This is an illness — that matters, because it changes how you see the wreckage. But it's an illness that hits differently than most. If someone has cancer, people gather around them; no one is angry. With this, the people who love you often end up hurt, confused, resentful, worn out — because it doesn't just take you down, it pulls in everyone whose life touches yours. Money, friendships, work, family: all of it takes the hit. Naming that honestly isn't a reason to drown in shame. It's the map of what needs repair.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "family-strain"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'illness' kept as 'it's wiring, not a moral failing'; ripple-onto-others framed as data for repair, not shame",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 28,
+      "paragraph_index": 3,
+      "quote_stub": "An illness of this sort–and we have come to beli"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_4",
+    "reader_text": "Someone who has found this solution, and is honestly armed with the facts about themselves, can usually win the full confidence of another person struggling in a matter of hours. Until that kind of understanding is reached, little or nothing can be accomplished.",
+    "surface_text": "There's a reason talking to someone who has been exactly where you are lands differently than advice from anyone else. They know it from the inside. They're not performing; they've lived it, and it shows. That honesty opens a door that lectures and good intentions never can. If you're trying to help someone, or hoping someone can help you — this is why finding a person who truly gets it matters so much. Until that real understanding clicks, not much moves.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others", "starting-out"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'ex-alcoholic' → gender-neutral 'someone who has found this solution'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 28,
+      "paragraph_index": 6,
+      "quote_stub": "But the ex-alcoholic who has found this solution"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_5",
+    "reader_text": "What we found most effective is this: the person making the approach has had the same difficulty and obviously knows what they're talking about. Their whole manner says they have a real answer — with no holier-than-thou attitude, nothing but a sincere desire to help. There are no fees to pay, no hidden motives, no one to impress, no lectures to endure. After an approach like that, many get up and walk again.",
+    "surface_text": "Here's what actually reaches people: someone who's been through the same thing, who clearly knows it firsthand, and who comes at you with zero superiority — no preaching, no bill to pay, no angle, no lecture. Just one honest person who's been there and genuinely wants to help. Something about that combination gets through when nothing else does. People who looked finished get back up and walk after a conversation like that. If you can be that person for someone — or find that person for yourself — that's the thing that works.",
+    "faith_optional": null,
+    "labels": { "moment": ["helping-others"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "action", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'take up their beds and walk' kept as plain image of recovery; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 28,
+      "paragraph_index": 7,
+      "quote_stub": "That the man who is making the approach has had"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_6",
+    "reader_text": "You may already have asked yourself why we became so very ill from drinking. You may be curious how, against expert opinion, we recovered from a hopeless condition of mind and body. And if you want to get over it, you may already be asking — \"What do I have to do?\"",
+    "surface_text": "You might be circling the same questions: Why did this get so bad for me? How did anyone come back from something the experts called hopeless? And underneath those — the real one — \"So what do I actually have to do?\" That's the right question, and it's a hopeful one, because it means part of you already believes there's an answer worth doing. There is. Keep reading.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "starting-out"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'recovered from a hopeless condition' kept as hope; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 30,
+      "paragraph_index": 12,
+      "quote_stub": "You may already have asked yourself why it is th"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_7",
+    "reader_text": "How many times people have said to us: \"I can take it or leave it alone. Why can't they?\" \"Why don't you drink like everyone else, or just quit?\" \"Their willpower must be weak.\" \"They could stop if they wanted to.\" \"The doctor said one more drink could kill them — and there they are, lit up again.\" These are the everyday things people say about drinkers. Behind them is a whole world of misunderstanding. What we see is that these comments describe people whose reactions are completely different from ours.",
+    "surface_text": "You've probably heard all of it — maybe said it about yourself. \"Just take it or leave it.\" \"Why not drink like a normal person, or quit?\" \"Their willpower's weak.\" \"They'd stop if they really wanted to.\" \"The doctor warned them and they did it anyway.\" People say these things constantly, and behind every one is a deep misunderstanding of what's actually happening. Here's the truth those comments miss: your reaction to this stuff is simply not the same as a casual user's. That's not a character verdict on you — it's a wiring difference. And once you see that, a lot of the self-blame starts to loosen.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'willpower must be weak' framing rebutted → 'it's wiring, not willpower'; removed moralizing, gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 30,
+      "paragraph_index": 14,
+      "quote_stub": "How many times people have said to us: “I can ta"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_8",
+    "reader_text": "Moderate drinkers have little trouble giving up liquor entirely if they have a good reason to. They can take it or leave it alone. There is also a certain kind of hard drinker who may be badly impaired, yet if a strong enough reason becomes real to them — ill health, falling in love, a change of surroundings, a doctor's warning — they can also stop or cut back, though it may be difficult and may even take medical help.",
+    "surface_text": "Some people really can take it or leave it — give them a good reason and they walk away from it clean. Even some heavy users, the ones getting genuinely damaged, can stop or cut back if a big enough reason lands: their health, a new relationship, a fresh start somewhere, a serious warning. It might be hard, they might need help to do it — but they can. This matters because it sets up the next piece: for some of us, none of that is enough, and understanding why is the key that unlocks everything.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["ALCOHOL"],
+    "framework_map": "gender-neutral; sets up the loss-of-control distinction",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 31,
+      "paragraph_index": 16,
+      "quote_stub": "Moderate drinkers have little trouble in giving"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_9",
+    "reader_text": "But what about the real alcoholic? They may start off as a moderate drinker; they may or may not become a continuous hard drinker; but at some stage of their drinking, they begin to lose all control of how much they consume, once they start to drink.",
+    "surface_text": "Then there's the rest of us. Maybe you started out drinking like anyone else. Maybe you never even drank every day. But somewhere along the line something shifted: once you start, you can't reliably stop. The dial that says \"okay, that's enough\" just isn't there anymore once the first drink is in. That single fact — loss of control after the first one — is what separates this from a bad habit. It's not that you want it more than other people. It's that once it's in you, the off-switch is gone.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "craving-now"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["ALCOHOL"],
+    "framework_map": "'real alcoholic / loses control' → 'one use flips a switch; the off-switch is gone'; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 31,
+      "paragraph_index": 18,
+      "quote_stub": "But what about the real alcoholic? He may start"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_10",
+    "reader_text": "Why does someone behave like this? If hundreds of experiences have shown them that one drink means another disaster, with all its suffering and humiliation, why do they take that one drink? Why can't they stay off it? What has become of the common sense and willpower they still sometimes show with everything else in their life?",
+    "surface_text": "Here's the question that torments people: if you've watched one drink turn into a wreck a hundred times — the shame, the fallout, all of it — why on earth do you pick up the first one again? And why can you be so level-headed and disciplined about everything else in your life, but not this? You're not stupid. You're not weak everywhere else. So what's going on? Sit with that question honestly, because the answer is the whole point, and it's not the answer you've been beating yourself up with.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "after-a-slip"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'willpower' question left open to be answered by the mental-obsession insight; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 32,
+      "paragraph_index": 21,
+      "quote_stub": "Why does he behave like this? If hundreds of exp"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_11",
+    "reader_text": "We know that while a person stays away from drink — as they may do for months or years — they react much like anyone else. And we are equally certain that once they take any alcohol at all into their system, something happens, in both body and mind, that makes it virtually impossible to stop. The experience of anyone who has been through this will confirm it.",
+    "surface_text": "Two things are true at once. When you're not using, you're basically like anyone else — clear-headed, in control, yourself. But the moment any of it gets into your system, something changes in your body and your mind that makes stopping nearly impossible. That's not weakness in the moment; it's a switch flipping. This is why \"just have one\" never works for people like us — the one is what starts the reaction. Almost anyone who's lived it will tell you the same. The safest ground is before the first one, not after.",
+    "faith_optional": null,
+    "labels": { "moment": ["craving-now", "is-this-me"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "allergy/loss-of-control → 'a switch flips; the one is what starts the reaction'; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 33,
+      "paragraph_index": 23,
+      "quote_stub": "We know that while the alcoholic keeps away from"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_12",
+    "reader_text": "These observations would be pointless if we never took the first drink and set the terrible cycle in motion. So the main problem centers in the mind, rather than in the body. If you ask someone why they started that last bender, chances are they'll offer you one of a hundred alibis. Sometimes the excuses sound plausible, but none really make sense next to the havoc a binge creates. They sound like the reasoning of a person who, having a headache, beats their head with a hammer so they can't feel the ache. Point out that faulty logic, and they'll laugh it off, or get irritated and stop talking.",
+    "surface_text": "None of this would matter if the first drink never got picked up. Which tells you where the real problem lives: not in your body, but in your mind — the moment before the first one, when your head talks you into it. Ask someone why they started their last binge and you'll get one of a hundred reasons. Some even sound reasonable. But none of them hold up against the damage that follows. It's like nursing a headache by hitting yourself with a hammer so you can't feel it anymore. And if someone gently points out that the logic makes no sense, the usual response is to laugh it off or shut down. That reflex is worth noticing — in yourself, gently. The fight isn't the drink itself. It's the story your mind tells you right before.",
+    "faith_optional": null,
+    "labels": { "moment": ["craving-now", "is-this-me"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'problem centers in the mind' → mental obsession framed as 'the story your mind tells right before'; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 33,
+      "paragraph_index": 24,
+      "quote_stub": "These observations would be academic and pointle"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_13",
+    "reader_text": "Once in a while someone tells the truth. And the truth, strange to say, is usually that they have no more idea why they took that first drink than you do. Some people have excuses they're satisfied with part of the time. But in their hearts they really don't know why they do it. Once this has a real hold, they are a baffled lot. There is the obsession that somehow, some day, they will beat the game. But they often suspect they are down for the count.",
+    "surface_text": "Every so often someone drops the act and tells the truth. And the honest answer is almost always: I don't know why I picked up that first one. Not really. There are excuses that satisfy for a while, but underneath, the person genuinely can't explain it. Once this has hold of you, you're just baffled by your own behavior. And here's the quiet ache of it: part of you keeps believing that someday, somehow, you'll finally beat this thing and control it — while another part quietly suspects you're losing. If that describes you, you're not crazy and you're not alone. That exact split is one of the clearest signs of what you're dealing with — and it's the thing this whole book is about answering.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "craving-now", "doubt-higher-power"], "halt": "HOPELESS", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'obsession they will beat the game / down for the count' kept as the mental-obsession self-recognition; 'malady' removed; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 33,
+      "paragraph_index": 25,
+      "quote_stub": "Once in a while he may tell the truth. And the t"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_14",
+    "reader_text": "The hard truth is that at a certain point in the drinking of someone in this situation, they pass into a state where even the most powerful desire to stop is of no use at all. This has usually already happened long before anyone suspects it. Most of us, for reasons still not fully understood, have lost the power of choice when it comes to drink. Our so-called willpower becomes practically non-existent. At certain times we simply cannot bring the memory of the suffering and humiliation of even a week or a month ago into our minds with enough force to stop us. We are left without defense against the first drink.",
+    "surface_text": "Here's the part that's hard to hear but freeing to understand: past a certain point, wanting to stop — even wanting it desperately, with everything you've got — isn't enough on its own. And that point usually arrives long before anyone realizes it. What's really happened is you've lost the power of choice around this one thing. In the key moment, your willpower is basically offline. You literally can't summon the memory of last week's wreckage with enough force to stop your own hand. That's why \"try harder next time\" keeps failing. It's not that you're not trying. It's that raw willpower was never going to be the tool that beats this — and knowing that is what finally points you toward a tool that can. You can't out-willpower a craving in the moment. But there's another way through.",
+    "faith_optional": null,
+    "labels": { "moment": ["craving-now", "after-a-slip", "doubt-higher-power"], "halt": "HOPELESS", "urge_level": "CRITICAL", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'lost the power of choice / willpower non-existent' → 'you can't out-willpower a craving in the moment'; reframed from doom toward the alternative tool; gender-neutral, combines paras 27-28",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 34,
+      "paragraph_index": 28,
+      "quote_stub": "The fact is that most alcoholics, for reasons yet"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_15",
+    "reader_text": "The almost certain consequences that follow even a glass of beer do not crowd into the mind to stop us. If those thoughts do occur, they're hazy, and easily pushed aside by the same worn-out idea that this time we'll handle ourselves like everyone else. There's a complete failure of the kind of defense that keeps a person from putting their hand on a hot stove.",
+    "surface_text": "You'd think the near-certain wreckage that follows would flood your mind and stop you cold. It doesn't. If the warning thoughts show up at all, they're faint, and they get shoved aside by that same tired lie: this time will be different, this time I'll handle it like a normal person. Think about how automatically you'd pull your hand off a hot stove — no debate, no willpower needed. That built-in protection just isn't firing here. Naming that is powerful, because it tells you exactly where you need outside support: right at the point where your own alarm system goes quiet.",
+    "faith_optional": null,
+    "labels": { "moment": ["craving-now", "after-a-slip"], "halt": "GENERAL", "urge_level": "CRITICAL", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'no defense / hot stove' → 'your alarm system goes quiet; that's where outside support goes'; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 34,
+      "paragraph_index": 29,
+      "quote_stub": "The almost certain consequences that follow taki"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_16",
+    "reader_text": "The mind may say, in the most casual way, \"It won't burn me this time — here goes!\" Or perhaps it doesn't think at all. How often have some of us begun to drink in that offhand way, and after the third or fourth, pounded on the bar and said to ourselves, \"How did I ever get started again?\" — only to have that thought replaced by \"Well, I'll stop at the sixth.\" Or \"What's the use anyhow?\"",
+    "surface_text": "Watch how casual the voice is. \"It won't get me this time — here goes.\" Or there's no thought at all, just the hand moving. Plenty of us have started that offhand, and then a few in, slammed the bar and thought, \"How did I do this again?\" — and before that thought could even land, it got swapped out for \"Fine, I'll stop after the next one,\" or the deadliest one of all: \"What's the use anyway?\" Learn the sound of those lines. They aren't the truth; they're the pattern talking. The moment you can catch that voice and name it — \"that's the old script, not me\" — you've got a half-second of choice you didn't have before. Use it to reach for a person, not a drink.",
+    "faith_optional": null,
+    "labels": { "moment": ["craving-now"], "halt": "GENERAL", "urge_level": "CRITICAL", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "self-talk of the obsession → catch-and-name technique ('that's the old script, not me'); 'For God's sake' rendered secular; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 34,
+      "paragraph_index": 30,
+      "quote_stub": "The alcoholic may say to himself in the most casu"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_17",
+    "reader_text": "There is a solution. Almost none of us liked the self-searching, the leveling of our pride, the honest owning of our shortcomings that the process requires to work. But we saw that it really worked in others, and we had come to believe in the hopelessness and futility of life as we had been living it. So when we were approached by people in whom the problem had been solved, there was nothing left to do but pick up the simple kit of tools laid at our feet. What we found opened up a whole new dimension of living we had not even dreamed of.",
+    "surface_text": "There is a solution. And here's the honest part: almost none of us wanted to do what it takes — the digging around inside, the swallowing of pride, the honest owning-up to the patterns that don't serve us. Nobody signs up for that eagerly. But two things pushed us: we watched it genuinely work in other people, and we'd finally admitted that life the old way was going nowhere. So when someone who'd actually come out the other side reached out, there was nothing left to do but pick up the simple set of tools they set in front of us. And what opened up was a way of living we honestly hadn't known was possible. If you're worn down and out of ideas, that's not the end — for a lot of us, that was the exact doorway in.",
+    "faith_optional": "Many describe what opened up as more than a fresh start — a sense of being lifted into a whole new dimension of living, one they came to see as spiritual and greater than themselves.",
+    "labels": { "moment": ["starting-out", "doubt-higher-power", "after-a-slip"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'confession of shortcomings' → 'honest owning of patterns that don't serve you'; 'spiritual tools / fourth dimension' moved to faith_optional, secular hope kept in body; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 35,
+      "paragraph_index": 32,
+      "quote_stub": "There is a solution. Almost none of us liked the"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_18",
+    "reader_text": "If you are as seriously in this as we were, we believe there is no middle-of-the-road solution. We were in a place where life was becoming impossible, and if we had passed into the region from which there is no return through ordinary help, we had only two alternatives: one was to go on to the bitter end, blotting out the awareness of our unbearable situation as best we could; the other was to accept help and reach for something bigger than the urge. We chose that because we honestly wanted to, and we were willing to make the effort.",
+    "surface_text": "If you're in this as deep as we were, there probably isn't a half-measure that works. We'd reached the point where life was becoming impossible, and it came down to two roads. One: keep going to the bitter end, numbing out the awareness of how unbearable it had gotten. The other: accept help, and reach for something bigger than the urge — the people who care about you, the values you don't want to lose, the version of you that's still up ahead. We took the second road for one simple reason: we honestly wanted to, and we were willing to actually try. That willingness — not perfection, just willingness — is enough to start.",
+    "faith_optional": "For many, the \"something bigger\" they reached for was, or became, a Higher Power — the honest willingness to accept spiritual help was the turning point.",
+    "labels": { "moment": ["starting-out", "doubt-higher-power", "after-a-slip"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'accept spiritual help' → 'reach for something bigger than the urge (people, values, future self)', God-specific line to faith_optional; gender-neutral",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 36,
+      "paragraph_index": 34,
+      "quote_stub": "If you are as seriously alcoholic as we were, we"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_19",
+    "reader_text": "A capable person with real ability, good sense, and strong character had floundered for years from one facility to another. They consulted the best-known specialists, then went abroad to a celebrated physician. They finished treatment with unusual confidence — physically and mentally in unusually good shape — believing they now understood the inner workings of their own mind so well that relapse was unthinkable. Nevertheless, they were using again in a short time. More baffling still, they could give themselves no satisfactory explanation for the fall.",
+    "surface_text": "Picture someone sharp, capable, genuinely strong-willed. They spent years trying everything — the best specialists money could buy, treatment overseas with a famous doctor. They came out feeling great, clear-headed, and so sure they now understood their own mind that going back seemed impossible. And they were using again within weeks. The most unsettling part? They couldn't explain it to themselves at all. This is the whole point: understanding your problem, even brilliantly, is not the same as being safe from it. Insight alone doesn't hold the line. That's not a knock on you — it's exactly why the solution has to be more than just knowing better.",
+    "faith_optional": null,
+    "labels": { "moment": ["after-a-slip", "doubt-higher-power"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'self-knowledge insufficient' insight kept; anecdote de-gendered and generalized; 'business man' → 'capable person'",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 36,
+      "paragraph_index": 35,
+      "quote_stub": "A certain American business man had ability, good"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_20",
+    "reader_text": "That person still lives, and is free. They don't need a guard, and they aren't confined. They can go anywhere on this earth that any free person can go, without disaster — provided they stay willing to maintain a certain simple attitude.",
+    "surface_text": "Here's how that story ends: the person a top doctor called utterly hopeless is alive, free, and going wherever they want without it blowing up their life. No guard, no lockup. The only condition is that they stay willing to keep up one simple, honest attitude — a daily willingness, not a one-time cure. So when you hear \"hopeless,\" hold this next to it: hopeless is exactly the word that got proven wrong. Freedom is real, and it's held in place by something small and daily that anyone can do.",
+    "faith_optional": null,
+    "labels": { "moment": ["staying-the-course", "after-a-slip"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "maintenance", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "hope kept; 'simple attitude' = daily willingness; gender-neutral",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 37,
+      "paragraph_index": 38,
+      "quote_stub": "But this man still lives, and is a free man. He d"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_21",
+    "reader_text": "\"Exceptions to cases like yours have been happening since early times,\" the doctor said. \"Here and there, once in a while, people have had what are called vital spiritual experiences. To me these are real phenomena. They seem to be in the nature of huge emotional shifts and rearrangements. Ideas, emotions, and attitudes that were once the guiding forces of a person's life are suddenly cast aside, and a completely new set of ideas and motives begins to take over.\"",
+    "surface_text": "The doctor told this person there was one kind of exception. Every so often, someone in a spot that looks completely hopeless goes through a deep inner shift — a genuine rearrangement of what drives them. The old ideas, feelings, and attitudes that used to run the show get pushed aside, and a whole new set of motivations takes the wheel. You don't have to call it anything grand. The point is that change this deep is possible, it's real, and it has been happening to people forever. Whatever running your life right now doesn't have to keep running it.",
+    "faith_optional": "The doctor called these turning points \"vital spiritual experiences.\" For many people, that inner rearrangement is exactly where a relationship with a Higher Power begins.",
+    "labels": { "moment": ["doubt-higher-power", "after-a-slip", "starting-out"], "halt": "HOPELESS", "urge_level": "CLEAR", "stage": "decision", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'vital spiritual experience' → secular 'deep inner shift / emotional rearrangement' in body; the spiritual naming moved to faith_optional",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 37,
+      "paragraph_index": 42,
+      "quote_stub": "“Yes,” replied the doctor, “there is. Exceptions"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_22",
+    "reader_text": "We, in our turn, sought the same escape, with all the desperation of drowning people. What seemed at first a flimsy reed has proved to be strong and steadying. A new life has been given to us — or, if you prefer, a design for living that really works.",
+    "surface_text": "We went after that same way out with everything we had — the way a drowning person grabs for anything. And the thing that looked way too flimsy to hold us? It held. What we got wasn't a patch on the old life; it was a new one — or if that sounds too big, call it a way of living that actually works, day after day. If you're grabbing for a reed right now, terrified it won't hold, that's okay. For a lot of us, that desperate reach was the beginning of everything getting better.",
+    "faith_optional": "What first felt like a flimsy reed proved, for many of us, to be the loving and powerful hand of a Higher Power.",
+    "labels": { "moment": ["starting-out", "after-a-slip", "doubt-higher-power"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'loving and powerful hand of God' moved to faith_optional; secular 'design for living that works' kept; 'drowning men' → 'drowning people'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 38,
+      "paragraph_index": 45,
+      "quote_stub": "We, in our turn, sought the same escape, with al"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch02_23",
+    "reader_text": "Many who once considered themselves skeptics or agnostics are now among those who have recovered; surprisingly enough, we find such convictions no great obstacle. Our hope is that many people, desperately in need, will see these pages, and we believe it is only by fully and honestly disclosing ourselves and our problems that they will be moved to say, \"Yes, I am one of them too — I need this thing.\"",
+    "surface_text": "If you consider yourself a skeptic — or you just can't get on board with the God stuff — you are not disqualified. Plenty of people who felt exactly that way recovered anyway; it turned out to be no real obstacle. And here's why we're so honest about our own worst moments in these pages: not to shock anyone, but because that raw honesty is what lets a person finally recognize themselves and say, \"Wait — that's me too. I need this.\" If any of this is landing as your story, that recognition isn't something to fear. It's the door opening.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "doubt-higher-power", "starting-out"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'agnostic no obstacle to spiritual experience' → kept as reassurance that skepticism doesn't disqualify; faith left optional; gender-neutral, combines paras 48 and 51",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch02",
+      "chapter_title": "II. There Is a Solution",
+      "page": 39,
+      "paragraph_index": 51,
+      "quote_stub": "We hope no one will consider these self-revealing"
+    },
+    "needs_clinical_review": true
+  }
+]

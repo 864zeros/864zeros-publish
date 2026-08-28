@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "Ezra — key verses (King James Version, public domain)",
+    "book": "Ezra",
+    "description": "Curated key verses from Ezra (devotion to God's word; the gracious hand of God on those who seek him). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 15 Ezra); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; register/list chapters omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "Ezra", "chapter": 7, "citation": "Ezra 7:10", "text": "For Ezra had prepared his heart to seek the law of the Lord, and to do it, and to teach in Israel statutes and judgments.", "plain": "For Ezra had devoted himself to study and to observe the law of the Lord, and to teach its statutes and judgments in Israel." },
+    { "book": "Ezra", "chapter": 8, "citation": "Ezra 8:22", "text": "For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him.", "plain": "We had told the king, 'The gracious hand of our God is on everyone who looks to him, but his great anger is against all who forsake him.'" }
+  ]
+}

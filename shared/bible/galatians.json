@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "title": "Galatians — key verses per chapter (King James Version, public domain)",
+    "book": "Galatians",
+    "description": "Several curated key verses from each of the 6 chapters of Galatians. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 48 Galatians); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "several key verses per chapter (~1-4, scaled to chapter substance)",
+    "keying": "book + chapter + citation; multiple records per chapter",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 13
+  },
+  "verses": [
+    { "book": "Galatians", "chapter": 1, "citation": "Galatians 1:10", "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.", "plain": "Am I now trying to win people's approval, or God's? If I were still trying to please people, I wouldn't be a servant of Christ." },
+    { "book": "Galatians", "chapter": 2, "citation": "Galatians 2:20", "text": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.", "plain": "I have been crucified with Christ, and I no longer live — but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me." },
+    { "book": "Galatians", "chapter": 3, "citation": "Galatians 3:26", "text": "For ye are all the children of God by faith in Christ Jesus.", "plain": "For you are all children of God through faith in Christ Jesus." },
+    { "book": "Galatians", "chapter": 3, "citation": "Galatians 3:28", "text": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.", "plain": "There is no Jew or Greek, slave or free, male or female — for you are all one in Christ Jesus." },
+    { "book": "Galatians", "chapter": 4, "citation": "Galatians 4:6", "text": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.", "plain": "And because you are his children, God sent the Spirit of his Son into our hearts, crying out, 'Abba, Father.'" },
+    { "book": "Galatians", "chapter": 4, "citation": "Galatians 4:7", "text": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.", "plain": "So you are no longer a slave, but a child; and since you are his child, God has made you an heir." },
+    { "book": "Galatians", "chapter": 5, "citation": "Galatians 5:1", "text": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.", "plain": "It is for freedom that Christ has set us free. So stand firm, and don't let yourselves be burdened again by a yoke of slavery." },
+    { "book": "Galatians", "chapter": 5, "citation": "Galatians 5:13", "text": "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.", "plain": "You were called to freedom, brothers and sisters — only don't use your freedom to indulge the flesh; rather, serve one another in love." },
+    { "book": "Galatians", "chapter": 5, "citation": "Galatians 5:22", "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,", "plain": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness," },
+    { "book": "Galatians", "chapter": 5, "citation": "Galatians 5:23", "text": "Meekness, temperance: against such there is no law.", "plain": "gentleness, and self-control. Against such things there is no law." },
+    { "book": "Galatians", "chapter": 6, "citation": "Galatians 6:2", "text": "Bear ye one another's burdens, and so fulfil the law of Christ.", "plain": "Carry each other's burdens, and in this way you will fulfill the law of Christ." },
+    { "book": "Galatians", "chapter": 6, "citation": "Galatians 6:7", "text": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.", "plain": "Don't be deceived: God is not mocked. A person reaps whatever they sow." },
+    { "book": "Galatians", "chapter": 6, "citation": "Galatians 6:9", "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.", "plain": "Let us not grow weary in doing good, for at the right time we will reap a harvest if we don't give up." }
+  ]
+}

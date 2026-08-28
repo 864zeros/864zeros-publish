@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "Song of Solomon — key verses (King James Version, public domain)",
+    "book": "Song of Solomon",
+    "description": "Curated key verses from the Song of Solomon (his banner over me is love; many waters cannot quench love). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 22 Song of Solomon / Song of Songs); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "the book's two best-known love verses",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV verbatim. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "Song of Solomon", "chapter": 2, "citation": "Song of Solomon 2:4", "text": "He brought me to the banqueting house, and his banner over me was love.", "plain": "He has taken me to the banquet hall, and his banner over me is love." },
+    { "book": "Song of Solomon", "chapter": 8, "citation": "Song of Solomon 8:7", "text": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.", "plain": "Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of their house for love, it would be utterly scorned." }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "title": "Numbers — key verses (King James Version, public domain)",
+    "book": "Numbers",
+    "description": "Curated key verses from Numbers (the Aaronic blessing, God's faithfulness and power, the bronze serpent). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 4 Numbers); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; census/law/travelogue chapters largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 7
+  },
+  "verses": [
+    { "book": "Numbers", "chapter": 6,  "citation": "Numbers 6:24",  "text": "The Lord bless thee, and keep thee:", "plain": "The Lord bless you and keep you;" },
+    { "book": "Numbers", "chapter": 6,  "citation": "Numbers 6:25",  "text": "The Lord make his face shine upon thee, and be gracious unto thee:", "plain": "the Lord make his face shine on you and be gracious to you;" },
+    { "book": "Numbers", "chapter": 6,  "citation": "Numbers 6:26",  "text": "The Lord lift up his countenance upon thee, and give thee peace.", "plain": "the Lord turn his face toward you and give you peace." },
+    { "book": "Numbers", "chapter": 11, "citation": "Numbers 11:23", "text": "And the Lord said unto Moses, Is the Lord's hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.", "plain": "The Lord answered Moses, 'Is the Lord's arm too short? Now you will see whether or not what I say will come true for you.'" },
+    { "book": "Numbers", "chapter": 14, "citation": "Numbers 14:8", "text": "If the Lord delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.", "plain": "If the Lord is pleased with us, he will lead us into that land, a land flowing with milk and honey, and will give it to us." },
+    { "book": "Numbers", "chapter": 21, "citation": "Numbers 21:8", "text": "And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.", "plain": "The Lord said to Moses, 'Make a snake and put it up on a pole; anyone who is bitten can look at it and live.'" },
+    { "book": "Numbers", "chapter": 23, "citation": "Numbers 23:19", "text": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?", "plain": "God is not human, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?" }
+  ]
+}

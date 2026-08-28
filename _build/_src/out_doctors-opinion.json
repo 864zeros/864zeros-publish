@@ -1,0 +1,230 @@
+[
+  {
+    "id": "lit_doctors-opinion_1",
+    "reader_text": "It did not satisfy us to be told that we could not control our drinking just because we were maladjusted to life, that we were in full flight from reality, or were simply not thinking straight. These things were true to some extent, in fact, to a considerable extent with some of us. But we are sure that our bodies were affected as well — that the body of someone caught in addiction is quite as changed as the mind. In our belief, any picture of the person who can't stop that leaves out this physical factor is incomplete.",
+    "surface_text": "It never quite added up to be told that you can't stop because you're 'maladjusted,' or running from reality, or just not thinking straight. Some of that might be true, sometimes a lot of it. But that's not the whole story. Your body is in this too. Something physical changes — it's not only in your head, and it's not only about attitude. Any explanation of why you can't stop that leaves out the body is missing a piece. That matters, because it means the problem was never simply that you weren't trying hard enough.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "allergy/disease → 'it's wiring, not willpower; the body is affected too'; removes 'mental defective' moralizing",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 2,
+      "paragraph_index": 10,
+      "quote_stub": "The physician who, at our request, gave us this"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_2",
+    "reader_text": "The idea that we have a kind of allergy to alcohol interests us. As laypeople, our opinion as to its soundness may, of course, mean little. But as people who have lived it, we can say that this explanation makes good sense. It explains many things for which we cannot otherwise account.",
+    "surface_text": "The idea that your body reacts to this differently — almost like an allergy — is worth sitting with. You don't have to be an expert to weigh it. But if you've lived it, it tends to click. It explains things that never made sense any other way: why you couldn't stop at one when other people could, why 'just use some willpower' never worked for long. It's not a character flaw. It's how you're wired.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "allergy/disease → 'it's wiring, not willpower'; kept as explanatory frame, moral-weakness framing removed",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 2,
+      "paragraph_index": 11,
+      "quote_stub": "The doctor’s theory that we have an allergy to a"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_3",
+    "reader_text": "The reaction to alcohol in this case isn't ordinary — it works like an allergy, and the phenomenon of craving it sets off is limited to this group; it never happens to the average moderate drinker. People wired this way can never safely use alcohol in any form at all. And once the habit is formed and can't be broken, once self-confidence and reliance on things human are lost, the problems pile up and become astonishingly difficult to solve.",
+    "surface_text": "For some people, alcohol doesn't work like it does for everyone else. One use trips a craving switch — a pull the average moderate drinker never feels. If that's you, there's no safe amount and no safe form; it's not about finding the right limit. And here's the harder part: once the pattern locks in and you can't break it, once you've lost faith in yourself and in the usual ways of coping, everything else starts piling up and getting harder to untangle. That pile-up isn't proof you're weak. It's what happens when a craving switch is running the show.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "craving-now"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["ALCOHOL"],
+    "framework_map": "allergy/disease → 'one use trips a craving switch'; life unmanageable → 'problems pile up, that's data'; moral framing removed",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 4,
+      "paragraph_index": 21,
+      "quote_stub": "We believe, and so suggested a few years ago, th"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_4",
+    "reader_text": "People drink, essentially, because they like the effect produced by alcohol. The sensation is so elusive that, while they admit it is injurious, after a time they cannot tell the true from the false. To them, their drinking life seems the only normal one. They are restless, irritable and discontented unless they can again feel the sense of ease and comfort that comes at once from a few drinks — drinks they see others take with no consequence. Having given in to the craving again, as so many do, they pass through the familiar stages of a binge, emerging remorseful, with a firm resolve never to drink again. This is repeated over and over, and unless the person can undergo an entire inner change there is very little hope of their recovery.",
+    "surface_text": "Here's the trap, in plain terms: you drink because you like how it feels — that fast sense of ease and comfort. The problem is the feeling is slippery. Even knowing it's hurting you, after a while you can't tell what's true anymore, and this life starts to look like the only normal one. So you're restless, on edge, never quite settled until the next few drinks — the same drinks you watch other people have with no fallout. You give in, the craving takes over, and you ride out the binge only to come out the other side full of regret, swearing it off for good. Then it happens again. And again. This isn't weak character — it's a real switch that flips once alcohol is in you. Breaking the loop takes an actual inner change, not just another promise to yourself.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "craving-now"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["ALCOHOL"],
+    "framework_map": "allergy/disease → 'a real switch that flips'; removes moral-weakness framing",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 5,
+      "paragraph_index": 24,
+      "quote_stub": "Men and women drink essentially because they like"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_5",
+    "reader_text": "On the other hand — and strange as this may seem to those who do not understand — once that inner change has occurred, the very same person who seemed doomed, who had so many problems they despaired of ever solving, suddenly finds themselves easily able to handle their desire for alcohol, the only effort needed being what it takes to follow a few simple rules.",
+    "surface_text": "Here's the part that sounds too good to be true — until you've seen it. Once that real inner change happens, the same person who looked hopeless, buried under problems they thought they'd never solve, suddenly finds the desire manageable. Not by white-knuckling forever. The only real effort left is following a few simple rules, day by day. The doom wasn't permanent. It was the state before the change, not the whole story.",
+    "faith_optional": null,
+    "labels": { "moment": ["staying-the-course", "craving-now"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "decision", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'psychic change' → 'inner change'; hope kept; no moralizing",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 5,
+      "paragraph_index": 25,
+      "quote_stub": "On the other hand–and strange as this may seem to"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_6",
+    "reader_text": "Faced with this problem, if we are honest with ourselves, we sometimes feel our own inadequacy. Even giving everything we have, it often is not enough. One feels that something more than willpower alone is needed to produce the essential inner change. And many people do not respond to the ordinary approach of just trying harder.",
+    "surface_text": "If you're honest, you've probably hit the wall where your own effort just isn't enough — where you gave it everything and it still wasn't enough. That's not a verdict on you. It's a sign that willpower alone was never going to do it. What actually turns things around is something bigger than gritting your teeth: leaning on people, on your values, on the person you want to become. Plenty of people never get anywhere by 'just trying harder' — and needing more than that is normal, not shameful.",
+    "faith_optional": "For many, this is where they come to feel that a power greater than themselves was doing for them what raw effort never could.",
+    "labels": { "moment": ["doubt-higher-power", "hopelessness"], "halt": "HOPELESS", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "spiritual" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'something more than human power / God' → 'something bigger than the urge (people, values, future self)'; God-specific line moved to faith_optional",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 6,
+      "paragraph_index": 27,
+      "quote_stub": "Faced with this problem, if a doctor is honest wi"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_7",
+    "reader_text": "This is not entirely a problem of mental control. Consider people who had worked for months on some problem or business deal, set to be settled on a certain date in their favor. They took a drink a day or so before the date, and then the phenomenon of craving at once became more important than everything else, so the crucial appointment was missed. They were not drinking to escape; they were drinking to answer a craving beyond their mental control.",
+    "surface_text": "This was never just about mental control. Picture someone who spent months on something that mattered — a deal, a goal — set to pay off on a specific day. One drink a day or two before, and the craving took over everything, and they blew the very thing they'd worked for. They weren't drinking to escape or self-sabotage on purpose. The craving was simply stronger than their control in that moment. If that's happened to you, it doesn't mean you didn't care. It means you were up against something you can't out-willpower in the moment — but you can outlast it.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "craving-now"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "powerless over alcohol → 'you can't out-willpower a craving in the moment, but you can outlast it'; allergy → 'craving beyond control'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 6,
+      "paragraph_index": 28,
+      "quote_stub": "I do not hold with those who believe that alcohol"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_8",
+    "reader_text": "There is the person who always makes many resolutions but never a decision. Over-remorseful, they are forever “going on the wagon for keeps,” yet nothing changes. And there is the person unwilling to admit they cannot take a drink: they plan various ways of drinking, switch brands, change surroundings — always sure that after being free for a time, they can take one without danger.",
+    "surface_text": "There's a pattern worth catching in yourself. One version: endless resolutions, but never an actual decision — swearing off 'for good' again and again, drowning in regret, while nothing really shifts. Another version: not quite admitting you can't take one, so you keep negotiating with it — switch the brand, change the setting, tell yourself that after enough time off you'll handle just one. Both are the same bet, and it keeps not paying off. Naming the pattern out loud, honestly, is the first move that breaks it — a decision is different from a resolution.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "after-a-slip"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "contemplation", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'psychopath/manic-depressive type' clinical labels dropped; kept the transferable self-recognition pattern (resolution vs decision); no moralizing",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 6,
+      "paragraph_index": 30,
+      "quote_stub": "The classification of alcoholics seems most diffi"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_9",
+    "reader_text": "People who react this way can be entirely normal in every respect except in the effect alcohol has upon them. They are often able, intelligent, friendly people. All of them, and many others, have one symptom in common: they cannot start drinking without the phenomenon of craving developing. It has never, by any treatment we know of, been permanently removed. The only relief we have to suggest is entire abstinence.",
+    "surface_text": "People wired this way are usually normal in every other respect — capable, smart, warm, the kind of person you'd never suspect. The one thing they share is this: once they start, the craving kicks in. No treatment anyone knows of erases that switch for good. So the honest relief on offer isn't moderation or a cure — it's stopping entirely. Not because you failed at drinking normally, but because that switch doesn't get uninstalled. Full stop is the thing that actually gives you your life back.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "craving-now"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["ALCOHOL"],
+    "framework_map": "allergy/disease → 'a craving switch that doesn't get uninstalled'; abstinence kept; moral framing removed",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 7,
+      "paragraph_index": 33,
+      "quote_stub": "All these, and many others, have one symptom in c"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_10",
+    "reader_text": "About a year earlier, a man was brought in for chronic alcoholism. He had only partly recovered from a serious internal hemorrhage and seemed a case of deep deterioration. He had lost everything worthwhile in life and was only living, one might say, to drink. He frankly admitted and believed that for him there was no hope. Once the alcohol was gone, there was found to be no permanent damage. He accepted the plan outlined in this book. A year later he came to see me, and I had a very strange sensation. I knew him by name and partly recognized his features, but there all resemblance ended. From a trembling, despairing, nervous wreck had emerged a person brimming over with self-reliance and contentment. More than three years have now passed with no return to alcohol.",
+    "surface_text": "Hold onto this one. A man came in about as far down as it goes — barely recovered from a serious internal bleed, worn to almost nothing, having lost everything that mattered, living only to drink. He was sure, all the way through, that there was no hope for him. Once the alcohol cleared, it turned out nothing was permanently broken. He gave the plan a real try. A year later he walked back in, and the doctor barely recognized him — same name, same face, but the trembling, despairing wreck was gone, replaced by someone steady, self-reliant, at peace. Three-plus years later, still no drink. Wherever you are right now, that starting point was worse than you might think — and it still turned all the way around.",
+    "faith_optional": null,
+    "labels": { "moment": ["hopelessness", "staying-the-course", "after-a-slip"], "halt": "HOPELESS", "urge_level": "PASSING", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none (narrative kept as identification/hope; clinical labels softened)",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 7,
+      "paragraph_index": 36,
+      "quote_stub": "About one year prior to this experience a man was"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_11",
+    "reader_text": "When I need a lift, I often think of another case. The person had made their own diagnosis, and deciding the situation hopeless, had hidden in a deserted barn determined to die. A search party found them and, in desperate condition, brought them to me. After physical recovery, they frankly said they thought the treatment a waste of effort unless I could assure them — which no one ever had — that in the future they would have the “willpower” to resist the impulse to drink. Yet they became convinced of the ideas in this book, and have not had a drink for more than three years.",
+    "surface_text": "Here's another one worth keeping. A person had privately decided they were hopeless, gone off to a deserted barn, and lay down to die. A search party found them and got them help in desperate shape. Once their body recovered, they said flat out that treatment was pointless — unless someone could promise them they'd have the 'willpower' to resist, which no one ever could. And that's the quiet point: it was never going to come down to willpower. What actually took hold was a different way of living, laid out in this book. Three-plus years later, still not a drink. If you've already written yourself off, so had they.",
+    "faith_optional": null,
+    "labels": { "moment": ["hopelessness", "doubt-higher-power"], "halt": "HOPELESS", "urge_level": "CRITICAL", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "powerless / 'willpower' myth → 'it was never going to come down to willpower'; hope kept universal",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 8,
+      "paragraph_index": 37,
+      "quote_stub": "When I need a mental uplift, I often think of anot"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_doctors-opinion_12",
+    "reader_text": "I earnestly encourage anyone caught in this to read this book all the way through. Though you may come to it doubting, you may find something you did not expect to find.",
+    "surface_text": "If any of this sounds like you, read the whole thing through — not just a page. You might show up skeptical, arms crossed, half-expecting nothing. Give it the full read anyway. A lot of people came in exactly that doubtful and found something they weren't looking for.",
+    "faith_optional": "Some come to scoff and stay to pray — arriving as skeptics and leaving having found a faith they didn't expect.",
+    "labels": { "moment": ["starting-out", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "contemplation", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'came to scoff, remain to pray' faith line moved to faith_optional; the encouragement-to-read kept universal",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "doctors-opinion",
+      "chapter_title": "The Doctor's Opinion",
+      "page": 9,
+      "paragraph_index": 40,
+      "quote_stub": "I earnestly advise every alcoholic to read this b"
+    },
+    "needs_clinical_review": true
+  }
+]

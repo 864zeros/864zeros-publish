@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "title": "Nahum — key verses (King James Version, public domain)",
+    "book": "Nahum",
+    "description": "Curated key verse from Nahum (the Lord is good, a stronghold in trouble). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 34 Nahum); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "the book's refuge verse; judgment oracles omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 1
+  },
+  "verses": [
+    { "book": "Nahum", "chapter": 1, "citation": "Nahum 1:7", "text": "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him.", "plain": "The Lord is good, a stronghold in the day of trouble; he knows those who take refuge in him." }
+  ]
+}

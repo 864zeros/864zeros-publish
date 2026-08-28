@@ -1,0 +1,20 @@
+# --- Derived artifacts (rebuild from JSON via _build/build_db.ps1) ---
+/db/*.db
+/db/*.sqlite
+/db/*.sqlite3
+/db/*.sql
+
+# --- Personal / local Claude Code settings (permissions only, no secrets) ---
+/.claude/settings.local.json
+
+# --- Company convention: local-only working memory ---
+IGNORE/
+PRE_COMPACT_*.md
+
+# --- Temp / scratch ---
+_*.tmp
+_psalms_web.json
+
+# --- OS / editor junk ---
+Thumbs.db
+.DS_Store

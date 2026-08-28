@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "title": "Joel — key verses (King James Version, public domain)",
+    "book": "Joel",
+    "description": "Curated key verses from Joel (rend your heart and return, restoration of the lost years, the Spirit poured out on all). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 29 Joel); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the book's devotional high points",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 3
+  },
+  "verses": [
+    { "book": "Joel", "chapter": 2, "citation": "Joel 2:13", "text": "And rend your heart, and not your garments, and turn unto the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.", "plain": "Rend your heart and not your garments. Return to the Lord your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending calamity." },
+    { "book": "Joel", "chapter": 2, "citation": "Joel 2:25", "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.", "plain": "I will restore to you the years the locusts have eaten — the great army I sent among you." },
+    { "book": "Joel", "chapter": 2, "citation": "Joel 2:28", "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:", "plain": "And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions." }
+  ]
+}

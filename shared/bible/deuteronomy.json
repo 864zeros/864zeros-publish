@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "title": "Deuteronomy — key verses (King James Version, public domain)",
+    "book": "Deuteronomy",
+    "description": "Curated key verses from Deuteronomy (the Shema, love and obedience, God's faithfulness, choosing life, courage and God's presence). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 5 Deuteronomy); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive teaching chapters; detailed-law chapters largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 10
+  },
+  "verses": [
+    { "book": "Deuteronomy", "chapter": 4,  "citation": "Deuteronomy 4:29",  "text": "But if from thence thou shalt seek the Lord thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul.", "plain": "But if from there you seek the Lord your God, you will find him if you seek him with all your heart and with all your soul." },
+    { "book": "Deuteronomy", "chapter": 6,  "citation": "Deuteronomy 6:4",   "text": "Hear, O Israel: The Lord our God is one Lord:", "plain": "Hear, O Israel: The Lord our God, the Lord is one." },
+    { "book": "Deuteronomy", "chapter": 6,  "citation": "Deuteronomy 6:5",   "text": "And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might.", "plain": "Love the Lord your God with all your heart and with all your soul and with all your strength." },
+    { "book": "Deuteronomy", "chapter": 7,  "citation": "Deuteronomy 7:9",   "text": "Know therefore that the Lord thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;", "plain": "Know therefore that the Lord your God is God, the faithful God, keeping his covenant of love to a thousand generations of those who love him and keep his commandments." },
+    { "book": "Deuteronomy", "chapter": 8,  "citation": "Deuteronomy 8:3",   "text": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the Lord doth man live.", "plain": "He humbled you and let you hunger, then fed you with manna, to teach you that people do not live on bread alone, but on every word that comes from the mouth of the Lord." },
+    { "book": "Deuteronomy", "chapter": 10, "citation": "Deuteronomy 10:12", "text": "And now, Israel, what doth the Lord thy God require of thee, but to fear the Lord thy God, to walk in all his ways, and to love him, and to serve the Lord thy God with all thy heart and with all thy soul,", "plain": "And now, Israel, what does the Lord your God ask of you but to fear the Lord your God, to walk in all his ways, to love him, and to serve the Lord your God with all your heart and with all your soul," },
+    { "book": "Deuteronomy", "chapter": 30, "citation": "Deuteronomy 30:19", "text": "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:", "plain": "I call heaven and earth as witnesses against you today that I have set before you life and death, blessings and curses. Now choose life, so that you and your children may live," },
+    { "book": "Deuteronomy", "chapter": 31, "citation": "Deuteronomy 31:6",  "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the Lord thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.", "plain": "Be strong and courageous. Do not be afraid or terrified, for the Lord your God goes with you; he will never leave you nor forsake you." },
+    { "book": "Deuteronomy", "chapter": 31, "citation": "Deuteronomy 31:8",  "text": "And the Lord, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.", "plain": "The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged." },
+    { "book": "Deuteronomy", "chapter": 33, "citation": "Deuteronomy 33:27", "text": "The eternal God is thy refuge, and underneath are the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy them.", "plain": "The eternal God is your refuge, and underneath are the everlasting arms; he will drive out your enemy before you." }
+  ]
+}

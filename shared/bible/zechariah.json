@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "title": "Zechariah — key verses (King James Version, public domain)",
+    "book": "Zechariah",
+    "description": "Curated key verse from Zechariah (not by might nor by power, but by my Spirit). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 38 Zechariah); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "the book's signature verse; vision/oracle chapters largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 1
+  },
+  "verses": [
+    { "book": "Zechariah", "chapter": 4, "citation": "Zechariah 4:6", "text": "Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.", "plain": "So he said to me, 'This is the word of the Lord to Zerubbabel: Not by might nor by power, but by my Spirit, says the Lord Almighty.'" }
+  ]
+}

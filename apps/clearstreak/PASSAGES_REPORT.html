@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ClearStreak — Literature Content Pipeline Report</title>
+<meta name="description" content="Modernizing the public-domain 1939 Big Book into help content for the ClearStreak recovery app.">
+<link rel="icon" href="/favicon.svg">
+<style>
+  :root { --blue:#0058ff; --ink:#0f172a; --mut:#64748b; --bg:#f6f8fc; --line:#e2e8f0; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:15px/1.5 -apple-system,"Segoe UI",Roboto,sans-serif; color:var(--ink); background:var(--bg); }
+  .wrap { max-width:1000px; margin:0 auto; padding:20px 20px 60px; }
+  nav { display:flex; gap:6px; margin-bottom:16px; flex-wrap:wrap; }
+  nav a { text-decoration:none; font-size:13px; font-weight:600; color:var(--mut); background:#fff; border:1px solid var(--line); padding:6px 14px; border-radius:999px; }
+  nav a:hover { border-color:var(--blue); color:var(--blue); }
+  .banner { padding:8px 14px; border-radius:8px; font-size:13px; margin-bottom:18px; background:#fff7ed; border:1px solid #fed7aa; color:#9a3412; }
+  .stats { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px; }
+  .stat { background:#fff; border:1px solid var(--line); border-left-width:4px; border-radius:8px; padding:6px 12px; font-size:13px; } .stat b { font-size:15px; }
+  .topbar { background:#fff; padding:14px 24px; border-bottom:1px solid var(--line); }
+  .wordmark { display:inline-block; text-decoration:none; }
+  .wordmark.txt { font-weight:800; font-size:18px; } .wordmark.txt .n { color:var(--blue); } .wordmark.txt .z { color:var(--ink); }
+  .hero-band { background:linear-gradient(160deg,#0b1220 0%,#0f172a 100%); color:#fff; padding:38px 24px; border-bottom:1px solid var(--line); }
+  .hero-band .inner { max-width:1000px; margin:0 auto; }
+  .hero-band h1 { color:#fff; font-size:30px; margin:10px 0 6px; letter-spacing:-.02em; } .hero-band h1 .z { color:#5b9dff; }
+  .hero-band .sub { color:#cbd5e1; font-size:16px; margin:0; }
+  .hpill { display:inline-block; font-size:12px; font-weight:700; color:#5b9dff; background:#1e293b; border:1px solid #334155; border-radius:999px; padding:3px 11px; letter-spacing:.04em; }
+  .foot { margin-top:32px; color:var(--mut); font-size:12px; border-top:1px solid var(--line); padding-top:14px; }
+  /* markdown content */
+  .md h2 { color:var(--ink); font-size:19px; margin:30px 0 10px; padding-top:8px; border-top:1px solid var(--line); }
+  .md h2:first-child { border-top:none; padding-top:0; }
+  .md h3 { font-size:15px; margin:18px 0 8px; color:#334155; }
+  .md table { border-collapse:collapse; width:100%; margin:12px 0; font-size:13px; }
+  .md th, .md td { border:1px solid var(--line); padding:7px 10px; text-align:left; vertical-align:top; } .md th { background:#f1f5f9; }
+  .md blockquote { border-left:3px solid var(--blue); margin:12px 0; padding:6px 14px; background:#f8fafc; color:#334155; }
+  .md ul { margin:8px 0; padding-left:20px; } .md li { margin:3px 0; } .md hr { border:none; border-top:1px solid var(--line); margin:20px 0; }
+  .md code { background:#f1f5f9; padding:1px 5px; border-radius:4px; font-size:12.5px; font-family:ui-monospace,Menlo,monospace; }
+  .md pre { background:#0f172a; color:#e2e8f0; padding:14px 16px; border-radius:10px; overflow-x:auto; font-size:12.5px; line-height:1.5; }
+  .md pre code { background:none; color:inherit; padding:0; }
+  .lock { color:#166534; font-weight:700; }
+</style>
+</head>
+<body>
+<div class="topbar"><a class="wordmark txt" href="/"><span class="n">864</span><span class="z">zeros</span></a></div>
+<div class="hero-band"><div class="inner"><span class="hpill">CONTENT PIPELINE · CLEARSTREAK</span>
+<h1>ClearStreak — Literature Content Pipeline</h1>
+<p class="sub">Modernizing the public-domain 1939 Big Book into help content — a book reader plus moment-of-need surfacing.</p></div></div>
+<div class="wrap">
+<nav>
+  <a href="#overview">Overview</a>
+  <a href="#decisions">Decisions</a>
+  <a href="#deliverable">Deliverable</a>
+  <a href="#taxonomy">Taxonomy</a>
+  <a href="#risks">Risks</a>
+  <a href="#artifacts">Artifacts</a>
+  <a href="#next">Next</a>
+</nav>
+
+<div class="banner">⚠ DRAFT CONTENT — <b>awaiting clinical review.</b> All 130 passages carry <code>needs_clinical_review: true</code>. Nothing ships without a licensed (LCSW/CADC) pass.</div>
+
+<div class="stats">
+  <span class="stat" style="border-color:var(--blue)"><b>130</b> passages</span>
+  <span class="stat" style="border-color:#166534"><b>118</b> Tier 1 (full)</span>
+  <span class="stat" style="border-color:var(--mut)"><b>12</b> Tier 2 (selective)</span>
+  <span class="stat" style="border-color:var(--blue)"><b>31</b> with faith layer</span>
+  <span class="stat" style="border-color:#166534"><b>0</b> user-facing leaks</span>
+  <span class="stat" style="border-color:#9a3412"><b>130</b> need review</span>
+</div>
+
+<div class="md">
+
+<h2 id="overview">1. What this is</h2>
+<p>We extracted the public-domain 1939 first edition of <em>Alcoholics Anonymous</em> (the "Big Book") and mined its most useful passages into <b>modernized, 2026-appropriate help content</b> for the ClearStreak recovery app — both a book reader and a moment-of-need surfacing system. Nothing here ships without a licensed clinical review pass.</p>
+<p>The deliverable is <b><code>content/passages_core.json</code></b> — 130 passages, each with two full-fidelity renderings, rich labels, an optional faith layer, and exact source provenance.</p>
+
+<h2 id="decisions">2. Decisions locked (the working contract)</h2>
+<table>
+<tr><th>Decision</th><th>Choice</th></tr>
+<tr><td><b>Framework stance</b></td><td><b>Technique-only + optional faith.</b> Keep only universally-safe, evidence-aligned techniques (urge-surfing, HALT, delay, expressive writing, reach-out). AA doctrine is <b>re-mapped into our framework, not deleted</b>. Faith is opt-in, never mandatory.</td></tr>
+<tr><td><b>Fidelity over brevity</b></td><td>Never abbreviate the message to fit a UI shape. Preserve the full meaning. <code>reading_time</code> is a surfacing hint only, never a reason to trim.</td></tr>
+<tr><td><b>The Twelve Steps</b></td><td><span class="lock">Untouchable.</span> Never mined, reworded, or labeled. Fenced at Chapter 5, paragraphs 6–17. If shown in the reader, they appear verbatim. (Note: the 1939 Step 12 reads <em>"spiritual experience,"</em> not the later <em>"awakening"</em> — preserved.)</td></tr>
+<tr><td><b>Two renderings</b></td><td><code>reader_text</code> = light-touch (keeps the 1939 voice; only dated/exclusionary words changed + doctrine re-mapped + faith made optional). <code>surface_text</code> = re-voiced plain 2026 (same complete meaning, warm and grounded).</td></tr>
+<tr><td><b>IP posture</b></td><td>Re-authoring from public-domain ideas makes the cards <b>original 864zeros content</b> — which <em>resolves</em> the copyright concern rather than creating one, and matches spec §9.1 ("100% original or properly licensed").</td></tr>
+<tr><td><b>Scope</b></td><td>Tier 1 mined fully; Tier 2 mined selectively; the 29 personal stories <b>dropped</b> for v1 (rewriting testimony destroys authenticity — revisit with real modern voices post-launch).</td></tr>
+</table>
+
+<h3>Doctrine → our framework (re-map, do not delete)</h3>
+<table>
+<tr><th>Source doctrine</th><th>Re-mapped to</th><th>Technique</th><th>Faith layer</th></tr>
+<tr><td>powerless over alcohol</td><td>"you can't out-willpower a craving — but you can outlast it"</td><td>urge-surfing, self-efficacy</td><td>optional</td></tr>
+<tr><td>allergy / disease</td><td>"it's wiring, not willpower; one use flips a craving switch"</td><td>non-moral condition framing</td><td>—</td></tr>
+<tr><td>life unmanageable</td><td>"when it runs the show, life gets unmanageable — that's data, not shame"</td><td>functional analysis</td><td>—</td></tr>
+<tr><td>Higher Power / God</td><td>"something bigger than the urge" (people, values, future self)</td><td>social support / meaning</td><td>← the faith toggle</td></tr>
+<tr><td>moral inventory</td><td>"honest self-review, written down"</td><td>expressive writing</td><td>—</td></tr>
+<tr><td>character defects / sin</td><td>"patterns that don't serve you"</td><td>habit reframing</td><td>—</td></tr>
+<tr><td>confession</td><td>"saying it out loud to one person drains its power"</td><td>shame-reduction / disclosure</td><td>—</td></tr>
+<tr><td>amends</td><td>"repair"</td><td>relational repair</td><td>—</td></tr>
+<tr><td>spiritual malady</td><td>"the restless, never-enough feeling"</td><td>affect regulation</td><td>—</td></tr>
+</table>
+
+<h2 id="deliverable">3. The deliverable — <code>passages_core.json</code> (130 passages)</h2>
+<p>Every passage carries <code>reader_text</code> + <code>surface_text</code> (<b>both full-fidelity, nothing abbreviated</b>), plus <code>faith_optional</code>, labels, <code>framework_map</code>, <code>reading_time</code>, exact <code>source</code> provenance, and <code>needs_clinical_review: true</code>.</p>
+
+<h3>Passage record shape</h3>
+<pre><code>{
+  "id": "lit_ch05_7",
+  "reader_text": "…full light-touch (1939 voice) message…",
+  "surface_text": "…full re-voiced 2026 message…",
+  "faith_optional": "…opt-in faith line, shown only in faith mode, or null…",
+  "labels": {
+    "moment": ["resentment", "fear"],
+    "halt": "GENERAL",
+    "urge_level": "WHITE_KNUCKLING",
+    "stage": "action",
+    "function": "instructional"
+  },
+  "applies_to": ["UNIVERSAL"],
+  "framework_map": "which doctrine was re-mapped",
+  "reading_time": "medium",
+  "source": {
+    "book": "AA-1939",
+    "chapter_id": "ch05",
+    "chapter_title": "V. How It Works",
+    "page": 76,
+    "paragraph_index": 36,
+    "quote_stub": "Resentment is the “number one” offender…"
+  },
+  "needs_clinical_review": true
+}</code></pre>
+
+<h3>Coverage</h3>
+<table>
+<tr><th>Tier</th><th>Chapters</th><th>Passages</th></tr>
+<tr><td>Tier 1 (full)</td><td>The Doctor's Opinion, Chapters I–VII, XI</td><td>118</td></tr>
+<tr><td>Tier 2 (selective)</td><td>Chapters VIII–X (universal nuggets only)</td><td>12</td></tr>
+<tr><td><b>Total</b></td><td></td><td><b>130</b></td></tr>
+</table>
+<p>Per-chapter: Doctor's Opinion 12 · Ch I 18 · Ch II 23 · Ch III 9 · Ch IV 8 · Ch V 16 · Ch VI 12 · Ch VII 9 · Ch VIII 4 · Ch IX 4 · Ch X 4 · Ch XI 11.</p>
+
+<h3>Distribution</h3>
+<ul>
+<li><b>Faith:</b> 31 / 130 have an opt-in <code>faith_optional</code> line; <b>0</b> God/Higher-Power references leaked into user-facing text.</li>
+<li><b>Journeys:</b> 125 <code>UNIVERSAL</code> (serve all journey types), 5 alcohol-specific.</li>
+<li><b>Moment</b> (primary router): staying-the-course 39 · doubt-higher-power 35 · is-this-me 31 · starting-out 29 · after-a-slip 27 · craving-now 21 · helping-others 21 · resentment 15 · family-strain 14 · lonely 8 · hopelessness 7 · fear 7 · work-strain 5.</li>
+<li><b>Urge tier:</b> PASSING 57 · CLEAR 32 · WHITE_KNUCKLING 32 · CRITICAL 9.</li>
+<li><b>HALT:</b> GENERAL 73 · HOPELESS 27 · ANGRY 12 · STRESSED 9 · LONELY 7 · TIRED 2 · HUNGRY 0 <em>(correct — the book doesn't speak to hunger; that stays a pure HALT-basic card).</em></li>
+</ul>
+
+<h3>Guardrails verified programmatically</h3>
+<ul>
+<li><span class="lock">🔒</span> Twelve Steps (ch05 ¶6–17) never mined — 0 leaks.</li>
+<li>Doctrine re-mapped, not deleted (<code>framework_map</code> records each).</li>
+<li>No moralizing terms; gender-neutral throughout.</li>
+<li>0 God/Higher-Power references in user-facing text (faith isolated to <code>faith_optional</code>).</li>
+<li>Provenance exact: page / paragraph-index / quote-stub cross-checked against source; 4 off-by-one pages auto-corrected.</li>
+</ul>
+
+<h2 id="taxonomy">4. How the content is organized (taxonomy)</h2>
+<p>Canonical vocabulary lives in <b><code>content/taxonomy.json</code></b>. Two content layers share one label vocabulary.</p>
+<ul>
+<li><b>Layer 1 — the Reader:</b> <code>big_book.json</code>, the 42 ordered sections (front / main / stories). Full read experience at <code>reader_text</code> fidelity.</li>
+<li><b>Layer 2 — Moment-of-need:</b> the passages, which point back into the reader via <code>source{chapter_id, page, paragraph_index}</code>.</li>
+</ul>
+
+<h3>Label axes</h3>
+<p><b>App-native</b> (reuse code enums verbatim, so the DB queries them directly):</p>
+<ul>
+<li><code>halt</code> → <code>HaltTrigger</code> (incl. <code>GENERAL</code>)</li>
+<li><code>urge_level</code> → <code>UrgeLevel</code></li>
+<li><code>applies_to</code> → <code>JourneyCategory</code> + a <code>UNIVERSAL</code> flag <em>(the axis the multi-journey design required)</em></li>
+</ul>
+<p><b>Content-native</b> (new, for filing + surfacing):</p>
+<ul>
+<li><code>moment</code> — the <b>primary router</b> (13 values incl. <code>hopelessness</code>)</li>
+<li><code>stage</code> — contemplation / decision / action / maintenance / relapse-recovery</li>
+<li><code>function</code> — foundational / instructional / identification / relational / spiritual</li>
+<li><code>reading_time</code> — surfacing hint <b>only</b> (never a trim trigger)</li>
+</ul>
+
+<h3>Surfacing — live state → content</h3>
+<p><code>moment</code> is derived from the two taps the user already makes (urge tier + HALT):</p>
+<table>
+<tr><th>User state (urge × HALT)</th><th>→ moment(s)</th><th>→ example</th></tr>
+<tr><td>🟠 White-Knuckling + 😡 Angry</td><td><code>resentment</code></td><td>How It Works, p.76</td></tr>
+<tr><td>🟠 White-Knuckling + 😞 Hopeless</td><td><code>after-a-slip</code>, <code>staying-the-course</code></td><td>the Promises, p.96</td></tr>
+<tr><td>🟡 Passing + any</td><td><code>craving-now</code>, <code>is-this-me</code></td><td>Doctor's Opinion, p.5</td></tr>
+<tr><td>🔴 Critical + any</td><td>Crisis Intercept <b>first</b>; optional <code>quick</code> grounding passage</td><td>—</td></tr>
+</table>
+
+<h2 id="risks">5. Notes &amp; risks</h2>
+<ol>
+<li><b>ch01 (18) and ch02 (23) are over-mined</b> relative to the rest. Not harmful — more raw material for the clinical reviewer — but a dedupe/quality-rank pass can tighten the set.</li>
+<li><b><code>needs_clinical_review: true</code> on all 130.</b> These are strong drafts; per spec, nothing ships without an LCSW/CADC pass. This file is what the reviewer receives.</li>
+<li><b>Public-domain posture still needs a final legal read before store build.</b> The 1939 first-edition PD basis is real (Dover reprint) but disputed by AA World Services. Re-authoring reduces exposure; a definitive read is still owed before shipping.</li>
+</ol>
+
+<h2 id="artifacts">6. Artifacts on disk</h2>
+<pre><code>content/
+  PASSAGES_REPORT.md      ← this report (markdown)
+  PASSAGES_REPORT.html    ← this page
+  passages_core.json      ← THE DELIVERABLE (130 passages)
+  taxonomy.json           ← controlled vocab + state→content routing
+  big_book.json           ← full 42-section reader text (archive / provenance source)
+  big_book_index.json     ← page-per-paragraph provenance
+  _src/                   ← per-chapter drafts + STYLE_GUIDE.md (reproducibility; gitignore-able)
+  passages_sample.json    ← 3-passage calibration file (superseded — safe to delete)
+  extract_bigbook.ps1     ← re-runnable extractor</code></pre>
+
+<h2 id="next">7. Next steps</h2>
+<ul>
+<li><b>(A) Trim / rank</b> — resolve ch01–ch02 over-mining into a tighter curated set.</li>
+<li><b>(B) Wire into the app</b> — author the <code>BookPassage</code> Kotlin model + a loader (mirroring <code>daily_verses.json</code>), and a first reader / surfacing screen.</li>
+<li><b>(C) Clinical-review handoff</b> — export a reviewer-friendly view (original ↔ reader ↔ surface + provenance) as CSV/HTML for passage-by-passage sign-off.</li>
+</ul>
+<blockquote><b>Recommendation: (C) then (B)</b> — get clinical sign-off before building UI on top of unreviewed content.</blockquote>
+
+</div>
+
+<p class="foot">864zeros LLC · ClearStreak content pipeline · 2026-08-19 · code wins.</p>
+</div></body></html>

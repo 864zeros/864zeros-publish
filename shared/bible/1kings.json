@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "title": "1 Kings — key verses (King James Version, public domain)",
+    "book": "1 Kings",
+    "description": "Curated key verses from 1 Kings (God's unfailing promises, 'the Lord, he is God' at Carmel, the still small voice). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 11 1 Kings); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; reign/temple-construction narrative largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 3
+  },
+  "verses": [
+    { "book": "1 Kings", "chapter": 8,  "citation": "1 Kings 8:56",  "text": "Blessed be the Lord, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant.", "plain": "Blessed be the Lord, who has given rest to his people Israel, just as he promised. Not one word has failed of all the good promises he gave through his servant Moses." },
+    { "book": "1 Kings", "chapter": 18, "citation": "1 Kings 18:39", "text": "And when all the people saw it, they fell on their faces: and they said, The Lord, he is the God; the Lord, he is the God.", "plain": "When all the people saw it, they fell facedown and cried, 'The Lord — he is God! The Lord — he is God!'" },
+    { "book": "1 Kings", "chapter": 19, "citation": "1 Kings 19:12", "text": "And after the earthquake a fire; but the Lord was not in the fire: and after the fire a still small voice.", "plain": "After the earthquake came a fire, but the Lord was not in the fire. And after the fire came a gentle whisper." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "3 John — key verses (King James Version, public domain)",
+    "book": "3 John",
+    "description": "Curated key verses from the single chapter of 3 John. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 64 3 John); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the one chapter",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "3 John", "chapter": 1, "citation": "3 John 1:4", "text": "I have no greater joy than to hear that my children walk in truth.", "plain": "I have no greater joy than to hear that my children are walking in the truth." },
+    { "book": "3 John", "chapter": 1, "citation": "3 John 1:11", "text": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.", "plain": "Dear friend, do not imitate what is evil but what is good. Anyone who does good is from God; anyone who does evil has not seen God." }
+  ]
+}

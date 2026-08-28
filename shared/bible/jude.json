@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "Jude — key verses (King James Version, public domain)",
+    "book": "Jude",
+    "description": "Curated key verses from the single chapter of Jude. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 65 Jude); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the one chapter (the closing doxology)",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "Jude", "chapter": 1, "citation": "Jude 1:24", "text": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,", "plain": "Now to him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy," },
+    { "book": "Jude", "chapter": 1, "citation": "Jude 1:25", "text": "To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.", "plain": "to the only wise God our Savior be glory, majesty, power, and authority, now and forevermore. Amen." }
+  ]
+}

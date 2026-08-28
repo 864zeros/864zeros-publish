@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "title": "2 Thessalonians — key verses per chapter (King James Version, public domain)",
+    "book": "2 Thessalonians",
+    "description": "Several curated key verses from each of the 3 chapters of 2 Thessalonians. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 53 2 Thessalonians); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "several key verses per chapter (~1-3, scaled to chapter substance)",
+    "keying": "book + chapter + citation; multiple records per chapter",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 6
+  },
+  "verses": [
+    { "book": "2 Thessalonians", "chapter": 1, "citation": "2 Thessalonians 1:3", "text": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;", "plain": "We ought always to thank God for you, brothers and sisters, and rightly so, because your faith is growing more and more, and the love all of you have for one another is increasing." },
+    { "book": "2 Thessalonians", "chapter": 2, "citation": "2 Thessalonians 2:16", "text": "Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,", "plain": "Now may our Lord Jesus Christ himself and God our Father, who loved us and by his grace gave us eternal comfort and good hope," },
+    { "book": "2 Thessalonians", "chapter": 2, "citation": "2 Thessalonians 2:17", "text": "Comfort your hearts, and stablish you in every good word and work.", "plain": "encourage your hearts and strengthen you in every good deed and word." },
+    { "book": "2 Thessalonians", "chapter": 3, "citation": "2 Thessalonians 3:3", "text": "But the Lord is faithful, who shall stablish you, and keep you from evil.", "plain": "But the Lord is faithful; he will strengthen you and protect you from the evil one." },
+    { "book": "2 Thessalonians", "chapter": 3, "citation": "2 Thessalonians 3:13", "text": "But ye, brethren, be not weary in well doing.", "plain": "And as for you, brothers and sisters, never tire of doing what is good." },
+    { "book": "2 Thessalonians", "chapter": 3, "citation": "2 Thessalonians 3:16", "text": "Now the Lord of peace himself give you peace always by all means. The Lord be with you all.", "plain": "Now may the Lord of peace himself give you peace at all times and in every way. The Lord be with you all." }
+  ]
+}

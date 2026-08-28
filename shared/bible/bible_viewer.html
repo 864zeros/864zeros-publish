@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>864zeros Bible Library — Reviewer</title>
+<style>
+  :root{
+    --bg:#f6f5f1; --panel:#ffffff; --ink:#23201b; --muted:#8a8378; --line:#e6e2da;
+    --accent:#6b7d5a; --accent-soft:#eef1e9; --scripture:#2b2924; --plain:#3a463b;
+    --badge-kjv:#5b6e8c; --badge-web:#8a6d3b;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+  .app{display:grid;grid-template-columns:290px 1fr;height:100vh}
+  /* Sidebar */
+  aside{background:var(--panel);border-right:1px solid var(--line);overflow-y:auto;padding:0}
+  .brand{padding:18px 18px 12px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--panel);z-index:2}
+  .brand h1{margin:0;font-size:15px;letter-spacing:.02em}
+  .brand .sub{color:var(--muted);font-size:12px;margin-top:3px}
+  .grp{padding:12px 10px 4px 16px;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  .book{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:6px 16px;cursor:pointer;border-left:3px solid transparent;font-size:13.5px}
+  .book:hover{background:var(--accent-soft)}
+  .book.active{background:var(--accent-soft);border-left-color:var(--accent);font-weight:600}
+  .book .n{color:var(--muted);font-size:11.5px;font-variant-numeric:tabular-nums}
+  /* Main */
+  main{overflow-y:auto;padding:0}
+  .topbar{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);padding:14px 26px;display:flex;flex-wrap:wrap;gap:14px;align-items:center;z-index:2}
+  .search{flex:1;min-width:220px;position:relative}
+  .search input{width:100%;padding:9px 12px 9px 34px;border:1px solid var(--line);border-radius:8px;background:#fff;font-size:14px}
+  .search svg{position:absolute;left:10px;top:9px;opacity:.4}
+  .toggle{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff}
+  .toggle button{border:0;background:#fff;padding:8px 12px;font-size:12.5px;cursor:pointer;color:var(--muted)}
+  .toggle button.on{background:var(--accent);color:#fff}
+  .content{padding:22px 26px 80px;max-width:1100px}
+  .bookhead{display:flex;align-items:baseline;gap:12px;margin:4px 0 6px}
+  .bookhead h2{margin:0;font-size:24px}
+  .badge{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:999px;color:#fff}
+  .badge.KJV{background:var(--badge-kjv)} .badge.WEB{background:var(--badge-web)}
+  .bookhead .meta{color:var(--muted);font-size:12.5px}
+  .chapter{margin-top:22px;color:var(--accent);font-size:12px;letter-spacing:.1em;text-transform:uppercase;border-bottom:1px solid var(--line);padding-bottom:6px}
+  .verse{padding:14px 0;border-bottom:1px solid var(--line)}
+  .cite{font-size:12px;font-weight:700;color:var(--accent);letter-spacing:.02em;margin-bottom:7px}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+  .col .lab{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+  .scripture{font-family:Georgia,"Times New Roman",serif;color:var(--scripture);font-size:15.5px;line-height:1.62}
+  .plain{color:var(--plain);font-size:15px;line-height:1.6}
+  /* View modes */
+  body.view-scripture .col.plain-col,body.view-plain .col.scripture-col{display:none}
+  body.view-scripture .cols,body.view-plain .cols{grid-template-columns:1fr;max-width:720px}
+  .reslabel{color:var(--muted);font-size:12.5px;margin:2px 0 14px}
+  .rbook{font-size:11px;color:var(--accent);font-weight:600;margin-bottom:3px}
+  mark{background:#fbe7a1;padding:0 1px;border-radius:2px}
+  .empty{color:var(--muted);padding:40px 4px}
+  @media(max-width:820px){.app{grid-template-columns:1fr}aside{position:fixed;left:0;top:0;bottom:0;width:280px;transform:translateX(-100%);transition:.2s;z-index:5;box-shadow:0 0 40px rgba(0,0,0,.15)}aside.open{transform:none}.cols{grid-template-columns:1fr;gap:12px}.menu-btn{display:inline-flex!important}}
+  .menu-btn{display:none;border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;cursor:pointer}
+</style>
+</head>
+<body class="view-both">
+<div class="app">
+  <aside id="sidebar">
+    <div class="brand">
+      <h1>864zeros Bible Library</h1>
+      <div class="sub" id="stats">loading…</div>
+    </div>
+    <div id="booklist"></div>
+  </aside>
+  <main>
+    <div class="topbar">
+      <button class="menu-btn" onclick="document.getElementById('sidebar').classList.toggle('open')">☰</button>
+      <div class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="Search all 834 verses — scripture, plain, or reference…" autocomplete="off" />
+      </div>
+      <div class="toggle" id="toggle">
+        <button data-v="both" class="on">Both</button>
+        <button data-v="scripture">Scripture</button>
+        <button data-v="plain">Plain</button>
+      </div>
+    </div>
+    <div class="content" id="content"><div class="empty">Loading library…</div></div>
+  </main>
+</div>
+
+<script src="bible_data.js"></script>
+<script>
+(function(){
+  var DATA = (window.BIBLE||{books:[],meta:{}});
+  var books = DATA.books, meta = DATA.meta;
+  var content = document.getElementById('content');
+  var current = 0;
+
+  // stats
+  document.getElementById('stats').textContent =
+    meta.total_books + ' books · ' + meta.total_records + ' records · OT ' + meta.ot_records + ' / NT ' + meta.nt_records;
+
+  // sidebar
+  function buildSidebar(){
+    var html = '';
+    ['OT','NT'].forEach(function(t){
+      html += '<div class="grp">'+(t==='OT'?'Old Testament':'New Testament')+'</div>';
+      books.forEach(function(b,i){
+        if(b.testament!==t) return;
+        html += '<div class="book" data-i="'+i+'"><span>'+esc(b.book)+'</span><span class="n">'+b.records+'</span></div>';
+      });
+    });
+    var bl = document.getElementById('booklist');
+    bl.innerHTML = html;
+    bl.querySelectorAll('.book').forEach(function(el){
+      el.onclick=function(){ selectBook(+el.dataset.i); document.getElementById('sidebar').classList.remove('open'); };
+    });
+  }
+  function markActive(){
+    document.querySelectorAll('.book').forEach(function(el){ el.classList.toggle('active', +el.dataset.i===current && !searching()); });
+  }
+
+  function selectBook(i){ current=i; document.getElementById('q').value=''; renderBook(); markActive(); content.scrollTop=0; window.scrollTo(0,0); }
+
+  function renderBook(){
+    var b = books[current];
+    var h = '<div class="bookhead"><h2>'+esc(b.book)+'</h2>'+
+            '<span class="badge '+b.translation+'">'+b.translation+'</span>'+
+            '<span class="meta">'+b.records+' verses · '+esc(b.shape)+'</span></div>';
+    var lastCh = null;
+    b.verses.forEach(function(v){
+      if(v.chapter!==lastCh){ h+='<div class="chapter">Chapter '+v.chapter+'</div>'; lastCh=v.chapter; }
+      h += verseHTML(v,null);
+    });
+    content.innerHTML = h;
+  }
+
+  function verseHTML(v, term){
+    var s = esc(v.text), p = esc(v.plain), c = esc(v.citation);
+    if(term){ s=hl(s,term); p=hl(p,term); c=hl(c,term); }
+    return '<div class="verse"><div class="cite">'+c+'</div><div class="cols">'+
+      '<div class="col scripture-col"><div class="lab">Scripture</div><div class="scripture">'+s+'</div></div>'+
+      '<div class="col plain-col"><div class="lab">Plain · 864zeros</div><div class="plain">'+p+'</div></div>'+
+      '</div></div>';
+  }
+
+  // search
+  function searching(){ return document.getElementById('q').value.trim().length>0; }
+  function runSearch(){
+    var term = document.getElementById('q').value.trim();
+    if(!term){ renderBook(); markActive(); return; }
+    markActive();
+    var low = term.toLowerCase(), hits=[], cap=400;
+    for(var i=0;i<books.length && hits.length<cap;i++){
+      var b=books[i];
+      for(var j=0;j<b.verses.length;j++){
+        var v=b.verses[j];
+        if(v.text.toLowerCase().indexOf(low)>-1 || v.plain.toLowerCase().indexOf(low)>-1 || v.citation.toLowerCase().indexOf(low)>-1){
+          hits.push({b:b.book,v:v}); if(hits.length>=cap) break;
+        }
+      }
+    }
+    var h='<div class="reslabel">'+hits.length+(hits.length>=cap?'+':'')+' match'+(hits.length===1?'':'es')+' for “'+esc(term)+'”</div>';
+    if(!hits.length){ h+='<div class="empty">No matches.</div>'; }
+    hits.forEach(function(hit){ h+='<div class="rbook">'+esc(hit.b)+'</div>'+verseHTML(hit.v,term); });
+    content.innerHTML=h; content.scrollTop=0;
+  }
+
+  // view toggle
+  document.getElementById('toggle').addEventListener('click',function(e){
+    var btn=e.target.closest('button'); if(!btn) return;
+    document.querySelectorAll('#toggle button').forEach(function(x){x.classList.toggle('on',x===btn);});
+    document.body.className='view-'+btn.dataset.v;
+  });
+
+  var qEl=document.getElementById('q'), t;
+  qEl.addEventListener('input',function(){ clearTimeout(t); t=setTimeout(runSearch,120); });
+
+  function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+  function hl(s,term){ try{ var re=new RegExp('('+term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'); return s.replace(re,'<mark>$1</mark>'); }catch(e){ return s; } }
+
+  if(!books.length){ content.innerHTML='<div class="empty">Could not load <code>bible_data.js</code>. Keep it in the same folder as this file.</div>'; return; }
+  buildSidebar(); selectBook(0);
+})();
+</script>
+</body>
+</html>

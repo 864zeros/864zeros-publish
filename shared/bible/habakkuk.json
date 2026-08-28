@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "title": "Habakkuk — key verses (King James Version, public domain)",
+    "book": "Habakkuk",
+    "description": "Curated key verses from Habakkuk (the just shall live by faith; rejoicing in God though everything fails; God my strength). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 35 Habakkuk); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the book's faith-in-trouble high points",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 4
+  },
+  "verses": [
+    { "book": "Habakkuk", "chapter": 2, "citation": "Habakkuk 2:4", "text": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.", "plain": "See, the enemy is puffed up; his desires are not upright — but the righteous person will live by his faithfulness." },
+    { "book": "Habakkuk", "chapter": 3, "citation": "Habakkuk 3:17", "text": "Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:", "plain": "Though the fig tree does not bud and there are no grapes on the vines, though the olive crop fails and the fields produce no food, though there are no sheep in the pen and no cattle in the stalls," },
+    { "book": "Habakkuk", "chapter": 3, "citation": "Habakkuk 3:18", "text": "Yet I will rejoice in the Lord, I will joy in the God of my salvation.", "plain": "yet I will rejoice in the Lord, I will be joyful in God my Savior." },
+    { "book": "Habakkuk", "chapter": 3, "citation": "Habakkuk 3:19", "text": "The Lord God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.", "plain": "The Sovereign Lord is my strength; he makes my feet like the feet of a deer, and enables me to tread on the heights." }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "repo": "864zeros-publish",
+    "role": "864zeros central content/data store — source-of-truth JSON assets, published to consuming apps.",
+    "version": 1,
+    "generated": "2026-08-27",
+    "principles": [
+      "JSON is the source of truth; any database under db/ is a derived, rebuildable, git-ignored artifact.",
+      "Namespace = ownership boundary: shared/ = ecosystem-generic assets; apps/<name>/ = that app's published content.",
+      "sources/ = raw public-domain inputs kept for provenance (not served); _build/ = extractor scripts, style guides, drafts.",
+      "All content is public-domain-derived, original 864zeros authorship. IP posture documented per namespace."
+    ],
+    "layout": {
+      "shared/": "ecosystem-generic assets any app may consume",
+      "apps/": "per-app content namespaces",
+      "sources/": "raw source texts (PD PDFs / EPUB / docx) — provenance, not served",
+      "_build/": "extractor/build scripts, style guides, per-chapter drafts (reproducibility)",
+      "db/": "generated SQLite, rebuilt from JSON via _build/build_db.ps1 (git-ignored)"
+    }
+  },
+  "namespaces": {
+    "shared/bible": {
+      "kind": "shared",
+      "title": "Public-domain Bible key-verse library",
+      "manifest": "shared/bible/bible_index.json",
+      "docs": "shared/bible/BIBLE_LIBRARY.md",
+      "viewer": "shared/bible/bible_viewer.html",
+      "records": 834,
+      "files": 63,
+      "summary": "66 books. Record: { book, chapter, citation, text, plain } — text = verbatim PD scripture, plain = original 864zeros 2026 rendering. KJV (NT + most OT), WEB rendered 'the Lord' (Psalms & Proverbs). No review gates."
+    },
+    "apps/clearstreak": {
+      "kind": "app",
+      "title": "ClearStreak recovery content (1939 Big Book, PD-derived)",
+      "docs": "apps/clearstreak/PASSAGES_REPORT.md",
+      "taxonomy": "apps/clearstreak/taxonomy.json",
+      "assets": {
+        "passages": "passages_core.json — 130 moment-of-need passages (needs_clinical_review: true)",
+        "affirmations_recovery": "affirmations_recovery.json — 50 secular",
+        "affirmations_spiritual": "affirmations_spiritual.json — 50 faith",
+        "daily_verse": "clearStreak-daily-verse.json.json",
+        "reader": "big_book.json + big_book_index.json (full 42-section reader + page provenance)",
+        "clinical_review": "clinical_review.html / clinical_review.csv (reviewer handoff)"
+      },
+      "gate": "passages_core.json carries needs_clinical_review:true — no ship without an LCSW/CADC pass; final PD legal read still owed before store build."
+    }
+  }
+}

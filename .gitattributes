@@ -1,0 +1,7 @@
+# Content store: keep text/data assets on LF so consuming apps parse them consistently.
+* text=auto eol=lf
+
+# Binary source inputs — never normalize/diff.
+*.pdf   binary
+*.epub  binary
+*.docx  binary

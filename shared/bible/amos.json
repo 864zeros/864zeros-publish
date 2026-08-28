@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "title": "Amos — key verses (King James Version, public domain)",
+    "book": "Amos",
+    "description": "Curated key verse from Amos (let justice roll like a river). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 30 Amos); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "the book's signature justice verse; judgment oracles omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV verbatim. No review gate — author is reviewer.",
+    "count": 1
+  },
+  "verses": [
+    { "book": "Amos", "chapter": 5, "citation": "Amos 5:24", "text": "But let judgment run down as waters, and righteousness as a mighty stream.", "plain": "But let justice roll on like a river, righteousness like a never-failing stream." }
+  ]
+}

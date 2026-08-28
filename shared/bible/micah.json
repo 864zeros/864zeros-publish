@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "title": "Micah — key verses (King James Version, public domain)",
+    "book": "Micah",
+    "description": "Curated key verses from Micah (do justly, love mercy, walk humbly; watch in hope; who is a God like you). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 33 Micah); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the book's devotional high points; judgment oracles omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 3
+  },
+  "verses": [
+    { "book": "Micah", "chapter": 6, "citation": "Micah 6:8", "text": "He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?", "plain": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God." },
+    { "book": "Micah", "chapter": 7, "citation": "Micah 7:7", "text": "Therefore I will look unto the Lord; I will wait for the God of my salvation: my God will hear me.", "plain": "But as for me, I watch in hope for the Lord, I wait for God my Savior; my God will hear me." },
+    { "book": "Micah", "chapter": 7, "citation": "Micah 7:18", "text": "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.", "plain": "Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance? You do not stay angry forever but delight to show mercy." }
+  ]
+}

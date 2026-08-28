@@ -1,0 +1,25 @@
+{
+  "_meta": {
+    "title": "1 Samuel — key verses (King James Version, public domain)",
+    "book": "1 Samuel",
+    "description": "Curated key verses from 1 Samuel (answered prayer, God's holiness, 'speak, your servant hears,' Ebenezer, God looks at the heart, the battle is the Lord's, finding strength in God). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 9 1 Samuel); verses verbatim, curly apostrophes normalized to straight, proper-name en-dashes to hyphens",
+    "selection": "key verses from the substantive chapters; battle/court narrative largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 8
+  },
+  "verses": [
+    { "book": "1 Samuel", "chapter": 1,  "citation": "1 Samuel 1:27",  "text": "For this child I prayed; and the Lord hath given me my petition which I asked of him:", "plain": "I prayed for this child, and the Lord has granted me what I asked of him." },
+    { "book": "1 Samuel", "chapter": 2,  "citation": "1 Samuel 2:2",   "text": "There is none holy as the Lord: for there is none beside thee: neither is there any rock like our God.", "plain": "There is no one holy like the Lord; there is no one besides you; there is no Rock like our God." },
+    { "book": "1 Samuel", "chapter": 3,  "citation": "1 Samuel 3:10",  "text": "And the Lord came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.", "plain": "The Lord came and stood there, calling as at the other times, 'Samuel! Samuel!' Then Samuel said, 'Speak, for your servant is listening.'" },
+    { "book": "1 Samuel", "chapter": 7,  "citation": "1 Samuel 7:12",  "text": "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Eben-ezer, saying, Hitherto hath the Lord helped us.", "plain": "Then Samuel took a stone and set it up, and named it Ebenezer, saying, 'Thus far the Lord has helped us.'" },
+    { "book": "1 Samuel", "chapter": 12, "citation": "1 Samuel 12:24", "text": "Only fear the Lord, and serve him in truth with all your heart: for consider how great things he hath done for you.", "plain": "Only fear the Lord and serve him faithfully with all your heart; consider what great things he has done for you." },
+    { "book": "1 Samuel", "chapter": 16, "citation": "1 Samuel 16:7",  "text": "But the Lord said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the Lord looketh on the heart.", "plain": "But the Lord said to Samuel, 'Do not look on his appearance or his height. The Lord does not see as people see; people look at the outward appearance, but the Lord looks at the heart.'" },
+    { "book": "1 Samuel", "chapter": 17, "citation": "1 Samuel 17:47", "text": "And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord's, and he will give you into our hands.", "plain": "All those gathered here will know that the Lord saves not with sword and spear; for the battle is the Lord's, and he will give you into our hands." },
+    { "book": "1 Samuel", "chapter": 30, "citation": "1 Samuel 30:6",  "text": "And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the Lord his God.", "plain": "David was greatly distressed, for the people spoke of stoning him; each was bitter in spirit because of their sons and daughters. But David found strength in the Lord his God." }
+  ]
+}

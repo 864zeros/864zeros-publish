@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "Judges — key verses (King James Version, public domain)",
+    "book": "Judges",
+    "description": "Curated key verses from Judges (God's call and reassurance to Gideon). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 7 Judges); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; the violent narrative cycles are largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "Judges", "chapter": 6, "citation": "Judges 6:12", "text": "And the angel of the Lord appeared unto him, and said unto him, The Lord is with thee, thou mighty man of valour.", "plain": "The angel of the Lord appeared to him and said, 'The Lord is with you, mighty warrior.'" },
+    { "book": "Judges", "chapter": 6, "citation": "Judges 6:23", "text": "And the Lord said unto him, Peace be unto thee; fear not: thou shalt not die.", "plain": "But the Lord said to him, 'Peace! Do not be afraid. You are not going to die.'" }
+  ]
+}

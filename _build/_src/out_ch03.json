@@ -1,0 +1,173 @@
+[
+  {
+    "id": "lit_ch03_1",
+    "reader_text": "Most of us were unwilling to admit we really had a problem. No one likes to think they are wired differently from everyone around them. So it is not surprising that our drinking was marked by countless attempts to prove we could drink like other people. The idea that somehow, someday we will control and enjoy our drinking is the great obsession of every person whose drinking has turned on them. The persistence of this illusion is astonishing. Many chase it all the way to the end.",
+    "surface_text": "Here is the thing almost nobody wants to admit: that they really have a problem. It is a hard thing to face, because no one wants to believe they are wired differently from the people around them. So you spend a lot of energy trying to prove you can do it like everyone else — a little, in control, no big deal. That hope, that someday you will finally be able to use and enjoy it on your own terms, is the single most persistent idea in a struggle like this. It does not go away on its own, and it can cost people everything. Naming it for what it is — an illusion, not a plan — is where things start to turn.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "starting-out"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'the great obsession... to control and enjoy his drinking' kept as the control illusion; 'bodily and mentally different' → 'wired differently' (allergy/disease de-moralized); gender-neutralized",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 41,
+      "paragraph_index": 0,
+      "quote_stub": "MOST of us have been unwilling to admit we w"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch03_2",
+    "reader_text": "We are people who have lost the ability to control our drinking. We know that no one in our situation ever truly recovered that control. All of us felt at times that we were regaining it, but those intervals — usually brief — were inevitably followed by still less control, which led in time to a demoralization that was painful and hard to make sense of. We became convinced that this is a progressive pattern. Over any real stretch of time we get worse, never better.",
+    "surface_text": "You have probably had stretches where it felt like you had it handled again — cutting back, spacing it out, proving to yourself you were fine. Almost everyone in this has had those stretches. Here is the hard part: they do not last, and they do not build. The brief sense of control is always followed by less control than before, and it tends to leave you lower than where you started, in a way that is confusing and demoralizing. This is not a moral slide, it is a pattern that moves in one direction over time — worse, not better. Knowing that is not meant to crush you. It is meant to stop you from betting on a comeback that the wiring will not give you.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "contemplation", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'lost the ability to control' + brief-control-then-less-control kept as the control illusion; 'progressive illness' → 'a pattern that moves in one direction' (disease framing de-medicalized without denying it); 'demoralization' kept, moralizing tone removed; gender-neutralized",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 41,
+      "paragraph_index": 2,
+      "quote_stub": "We alcoholics are men and women who have lost"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch03_3",
+    "reader_text": "This case holds a powerful lesson. Most of us believed that if we stayed sober for a long stretch, we could afterward drink normally. But here was a person who at fifty-five found himself exactly where he had left off at thirty. We have seen this truth shown again and again: once it has you, it has you. Starting again after a long period of sobriety, we are in a short time as bad as ever. If we are planning to stop, there can be no reservation of any kind, no lurking notion that someday we will be immune.",
+    "surface_text": "There is a trap that catches even people who have put together serious time: the belief that a long clean stretch has finally earned them the right to use normally again. It has not. People who stayed sober for years — decades, even — have picked it back up and found themselves right back where they started within weeks, as if no time had passed at all. The clock does not reset the wiring. So if you are planning to stop, plan to stop for good, with no side door left open — no quiet little idea that someday, once enough time has passed, you will finally be immune. That 'someday' is the exact thought that starts the fall.",
+    "faith_optional": null,
+    "labels": { "moment": ["staying-the-course", "is-this-me"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'once an alcoholic, always an alcoholic' → 'once it has you, it has you'; the durable no-reservation / no-future-immunity insight kept intact (biographical detail of the 25-year man from i=8 compressed to its lesson); gender-neutralized",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 44,
+      "paragraph_index": 9,
+      "quote_stub": "This case contains a powerful lesson. Most of"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch03_4",
+    "reader_text": "For those who cannot use moderately, the question is how to stop altogether. We are assuming the reader wants to stop. Many of us felt that we had plenty of character. There was a tremendous urge to quit forever. Yet we found it impossible. This is the baffling part as we know it — this utter inability to leave it alone, no matter how great the need or the wish.",
+    "surface_text": "If moderation is off the table for you, the only real question left is how to stop completely. And here is the part that makes people feel like they are losing their minds: you can genuinely want to quit — badly, with everything in you — and still find yourself unable to. That does not mean you are weak or gutless. Plenty of people with real backbone have stood exactly where you are, wanting out with their whole heart, and still could not white-knuckle their way free. The wanting is not the problem, and willpower alone is not the fix. You cannot out-willpower a craving in the moment. What you can do is stop relying on willpower as the whole plan, and start using the tools that actually outlast the urge.",
+    "faith_optional": "For many people this is the point where they stop trying to be their own rescue and let something bigger than the urge carry part of the weight — for some, that is a power greater than themselves.",
+    "labels": { "moment": ["craving-now", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'whether such a person can quit upon a non-spiritual basis' God-dependency → moved to faith_optional; 'utter inability to leave it alone' + 'plenty of character' → 'you can't out-willpower a craving in the moment, but you can outlast it'; gender-neutralized",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 45,
+      "paragraph_index": 13,
+      "quote_stub": "For those who are unable to drink moderately "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch03_5",
+    "reader_text": "What sort of thinking takes over a person who repeats, time after time, the desperate experiment of the first drink? Friends who have reasoned with him after a binge that brought him to the point of divorce or bankruptcy are mystified when he walks straight back into the same place. Why does he? What is he thinking?",
+    "surface_text": "Here is the question worth sitting with: what is actually going through your head in the moment you reach for that first one again — after everything it has already cost you? The people around you cannot understand it. They watched it nearly cost you your marriage, your money, your job, and then they watch you walk right back toward it, and it makes no sense to them. It may not even make sense to you the next day. That is not because you are broken. It is because there is a specific kind of thinking that fires right before the first drink — and once you can see it happening, you can catch it. Learning to spot that moment is the whole game.",
+    "faith_optional": null,
+    "labels": { "moment": ["craving-now", "after-a-slip"], "halt": "GENERAL", "urge_level": "WHITE_KNUCKLING", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "sets up the first-drink mental-obsession theme; 'the desperate experiment of the first drink' kept; recast to spotting the pre-use thought as a technique; gender-neutralized, 'divorce or bankruptcy' kept as consequences",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 46,
+      "paragraph_index": 15,
+      "quote_stub": "What sort of thinking dominates an alcoholic "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch03_6",
+    "reader_text": "You may think this an extreme case. To us it is not far-fetched, for this kind of thinking has been true of every single one of us. There was always this curious mental phenomenon: right alongside our sound reasoning there ran some absurdly trivial excuse for taking the first drink. Our sound reasoning failed to hold us in check. The trivial excuse won out. The next day we would ask ourselves, in complete sincerity, how it could have happened.",
+    "surface_text": "You might read a slip like that and think it is extreme — that you would never fall for something so flimsy. But this is exactly how it works for almost everyone. Here is the strange part: your good, clear reasoning does not disappear. It is right there. But running alongside it is some ridiculously small excuse for that first one — 'just this once,' 'it's a special day,' 'I've earned it,' 'this brand doesn't really count.' And too often the flimsy little excuse is the one that wins, while all your good reasons stand there useless. The next morning you honestly cannot understand how it happened. The move is not to argue harder with the excuse in the moment — it is to recognize the excuse the instant it shows up, and treat its arrival itself as the warning sign.",
+    "faith_optional": null,
+    "labels": { "moment": ["craving-now", "after-a-slip"], "halt": "GENERAL", "urge_level": "CRITICAL", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "core first-drink mental-obsession: 'parallel with our sound reasoning there inevitably ran some insanely trivial excuse' kept fully; moralizing 'insanely'/'insane idea' → 'absurdly trivial excuse'; recast to recognizing the excuse as a technique; gender-neutralized",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 48,
+      "paragraph_index": 22,
+      "quote_stub": "You may think this an extreme case. To us it "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch03_7",
+    "reader_text": "In some cases we went out deliberately to get drunk, feeling justified by nervousness, anger, worry, depression, jealousy or the like. But even then we have to admit our justification for a binge was wildly insufficient in light of what always followed. We now see that when we began to drink deliberately, rather than casually, there was little serious or effective thought, during the buildup, about what the consequences might be.",
+    "surface_text": "Sometimes it is not a flimsy excuse — it is a real feeling. You go into it on purpose, and it feels justified: you are wound up, or angry, or worried sick, or low, or jealous, and using seems like the fair response to it. But look at what always comes after. Whatever the feeling was, it was never worth what the binge cost. And here is what is easy to miss: in the stretch of time while you are talking yourself into it, you barely think about the fallout at all. That gap — the buildup where the consequences go quiet — is the moment to catch. When you notice a feeling starting to make the case for you, that is the cue to name the feeling out loud (HALT: are you hungry, angry, lonely, tired?) and deal with the feeling directly, instead of letting it deal with you.",
+    "faith_optional": null,
+    "labels": { "moment": ["resentment", "fear"], "halt": "ANGRY", "urge_level": "WHITE_KNUCKLING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "deliberate-use-justified-by-emotion kept intact; 'insanely insufficient' → 'wildly insufficient'; recast the pre-use buildup into a HALT check-in technique; gender-neutralized",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 48,
+      "paragraph_index": 23,
+      "quote_stub": "In some circumstances we have gone out delibe"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch03_8",
+    "reader_text": "That may be true of certain people who, though drinking heavily right now, are able to stop or moderate, because their bodies and minds have not been affected the way ours were. But the person for whom this is a real problem, with hardly an exception, will be completely unable to stop on the basis of self-knowledge alone. This is a point we want to emphasize and re-emphasize, to drive home, because it was revealed to us out of bitter experience.",
+    "surface_text": "Some people can drink too much for a while and then just... stop, or cut back, because it never got its hooks into them the way it did for you. That is real, and it is worth being honest about which one you are. But if this is a genuine problem for you, then understanding it — knowing all the facts, having read all the right things, seeing your own patterns clearly — will not be enough to keep you stopped by itself. This is worth underlining twice: self-knowledge alone does not hold. People learn everything there is to know about their own using and still pick it back up. That is not a reason to despair — it is the reason the tools, the support, and the plan matter. Insight gets you to the door. It does not walk you through it alone.",
+    "faith_optional": null,
+    "labels": { "moment": ["is-this-me", "doubt-higher-power"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "decision", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'unable to stop on the basis of self-knowledge' kept as the durable insight; no faith content in this paragraph so none added; gender-neutralized",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 50,
+      "paragraph_index": 28,
+      "quote_stub": "That may be true of certain non-alcoholic peo"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch03_9",
+    "reader_text": "As soon as I could think again, I went carefully over that evening. Not only had I been off guard — I had made no fight whatever against that first drink. This time I had not thought of the consequences at all. I began to drink as carelessly as if the cocktails were ginger ale. I remembered what my friends had told me: that if this had really taken hold of me, the time and place would come, and I would drink again. They had said that even if I raised a defense, it would one day give way before some trivial reason for having a drink. That is exactly what happened — and more, because what I had learned did not even occur to me. I knew from that moment that willpower and self-knowledge would not help me in those strange mental blank spots.",
+    "surface_text": "Listen to how this actually happened to someone who thought he had it figured out. When he came back to himself, he went over the whole evening. It was not that he fought the first drink and lost — he did not fight it at all. He never even thought about the consequences. He ordered it as casually as if it were a soft drink. People had warned him: if this really has you, the day will come, and even the defenses you build will quietly give way to some small, dumb reason to have one. And that is precisely what happened — worse, because everything he had learned did not even cross his mind in the moment. There are these strange blank spots where willpower and knowing better simply are not on the field. Realizing that is not defeat. It is the exact reason you build a plan that does not depend on you being sharp and on guard every single second — because no one is.",
+    "faith_optional": null,
+    "labels": { "moment": ["after-a-slip", "craving-now"], "halt": "GENERAL", "urge_level": "CRITICAL", "stage": "relapse-recovery", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "Fred's 'strange mental blank spots' where 'will power and self-knowledge would not help' kept intact as the first-drink-obsession payoff; recast to why a not-willpower-dependent plan matters; 'AA'/nominal-church references excluded; gender-neutralized",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch03",
+      "chapter_title": "III. More About Alcoholism",
+      "page": 53,
+      "paragraph_index": 34,
+      "quote_stub": "“As soon as I regained my ability to think, I"
+    },
+    "needs_clinical_review": true
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "purpose": "Single source of truth for how ClearStreak literature content is organized and labeled.",
+    "consumed_by": ["content pipeline (validates every passage's labels)", "app (builds filters + moment-of-need routing)"],
+    "rules": [
+      "Fidelity over brevity: reading_time is metadata for surfacing, never a reason to trim a message.",
+      "12 Steps are verbatim, never mined, never labeled as passages.",
+      "Every passage must carry: >=1 moment, exactly 1 stage, exactly 1 function, halt, urge_level, applies_to, reading_time, source, needs_clinical_review."
+    ],
+    "scope_v1": "Mine Tier 1 fully (Doctor's Opinion + Ch I-VII + XI) and Tier 2 selectively (Ch VIII-X, universal nuggets only). The 29 personal stories are DROPPED for v1 (rewriting testimony destroys authenticity); revisit with real modern voices post-launch. The persona axis was removed with the stories.",
+    "version": 1
+  },
+
+  "layers": {
+    "reader": "big_book.json — the 42 ordered sections (front/main/stories). Full read experience, reader_text fidelity.",
+    "passages": "passages file — mined moment-of-need units. Each has reader_text + surface_text + labels + provenance, and points back to reader via source{chapter_id,page,paragraph_index}."
+  },
+
+  "axes": {
+    "halt": {
+      "source": "code enum HaltTrigger (reuse verbatim)",
+      "values": ["HUNGRY", "ANGRY", "LONELY", "TIRED", "STRESSED", "HOPELESS", "GENERAL"]
+    },
+    "urge_level": {
+      "source": "code enum UrgeLevel (reuse verbatim)",
+      "values": ["CLEAR", "PASSING", "WHITE_KNUCKLING", "CRITICAL"]
+    },
+    "applies_to": {
+      "source": "code enum JourneyCategory + UNIVERSAL flag",
+      "note": "UNIVERSAL = message is substance-agnostic (resentment, fear, hope). Alcohol-specific wording => [ALCOHOL].",
+      "values": ["UNIVERSAL", "ALCOHOL", "DRUGS", "VAPE", "GAMBLING", "BEHAVIORAL", "CUSTOM"]
+    },
+
+    "moment": {
+      "role": "PRIMARY ROUTER — why surface this now. Derived from the user's live state (halt tap + urge tier).",
+      "values": [
+        {"key": "starting-out",        "desc": "New / needs orientation + hope"},
+        {"key": "is-this-me",           "desc": "Self-recognition; am I actually an alcoholic/addict"},
+        {"key": "craving-now",          "desc": "Acute urge, needs grounding/delay"},
+        {"key": "after-a-slip",         "desc": "Post-slip; data-not-failure, restart"},
+        {"key": "doubt-higher-power",   "desc": "Spiritual resistance / skeptic"},
+        {"key": "resentment",           "desc": "Anger driving the urge"},
+        {"key": "fear",                 "desc": "Fear/anxiety driving the urge"},
+        {"key": "lonely",               "desc": "Isolation; connection/service"},
+        {"key": "family-strain",        "desc": "Partner/family relationships"},
+        {"key": "work-strain",          "desc": "Job / professional identity"},
+        {"key": "helping-others",       "desc": "Service, purpose, staying sober by helping"},
+        {"key": "staying-the-course",   "desc": "Maintenance / complacency guard"},
+        {"key": "hopelessness",         "desc": "Feeling hopeless / needs hope (routes with HALT HOPELESS)"}
+      ]
+    },
+    "stage": {
+      "role": "Recovery arc position (exactly one).",
+      "values": ["contemplation", "decision", "action", "maintenance", "relapse-recovery"]
+    },
+    "function": {
+      "role": "Job the text does (exactly one).",
+      "values": ["foundational", "instructional", "identification", "relational", "spiritual"]
+    },
+    "reading_time": {
+      "role": "Surfacing hint ONLY. quick<=~15 sentences. Never used to shorten a message.",
+      "values": ["quick", "medium", "long"]
+    }
+  },
+
+  "routing": {
+    "_desc": "Default map from live app state (urge_level x halt) -> candidate moments. App picks passages whose labels intersect. CRITICAL routes to Crisis Intercept first; a quick grounding passage is optional secondary.",
+    "CRITICAL":        {"ANY": ["craving-now", "fear"], "_note": "Crisis Intercept is primary; passage is optional + must be reading_time=quick"},
+    "WHITE_KNUCKLING": {
+      "ANGRY": ["resentment"],
+      "LONELY": ["lonely", "helping-others"],
+      "HOPELESS": ["after-a-slip", "staying-the-course"],
+      "STRESSED": ["fear"],
+      "TIRED": ["craving-now"],
+      "HUNGRY": ["craving-now"],
+      "GENERAL": ["craving-now"]
+    },
+    "PASSING":         {"ANY": ["craving-now", "is-this-me"]},
+    "CLEAR":           {"ANY": ["staying-the-course", "starting-out", "helping-others"]}
+  }
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "lit_ch10_1",
+    "reader_text": "The greatest enemies of us in recovery are resentment, jealousy, envy, frustration, and fear. Wherever people are gathered together in business, there will be rivalries, and, arising out of these, a certain amount of office politics. Sometimes we get an idea that people are trying to pull us down. Often this is not so at all. But sometimes our history will be used against us politically. One instance comes to mind in which a malicious individual was always making friendly little jokes about someone's past — and in this way was slyly carrying tales. In another case, a person who had gone away for treatment found that, within a short time, it was bill-boarded throughout the entire company. Naturally this sort of thing decreased that person's chance of recovery.",
+    "surface_text": "At work, the things most likely to talk you back into using are resentment, jealousy, envy, frustration, and fear. Any workplace has rivalries and a certain amount of office politics — that's just people in the same building. And here's a trap to watch for: sometimes you'll get the feeling that everyone's out to pull you down. Often that's not true at all; it's the old thinking twisting what you see. But sometimes it IS real — someone will use your history against you, and it stings. Maybe a person makes little 'friendly' jokes about your past that are really just carrying tales. Maybe word that you went away to get help gets spread around the whole company. That kind of thing genuinely makes staying clean harder. Knowing this ahead of time helps: you can tell the difference between the resentment your own head manufactures and the pressure that's actually coming at you — and neither one is worth a drink or a use.",
+    "faith_optional": null,
+    "labels": { "moment": ["work-strain", "resentment"], "halt": "STRESSED", "urge_level": "WHITE_KNUCKLING", "stage": "maintenance", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "recast third-party employer framing to first-person 'us in recovery'; kept resentment/fear as work-strain triggers intact",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch10",
+      "chapter_title": "X. To Employers",
+      "page": 160,
+      "paragraph_index": 35,
+      "quote_stub": "The greatest enemies of we alcoholics are res"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch10_2",
+    "reader_text": "As a class, people in recovery are energetic. They work hard and they play hard. On returning to work you may be on your mettle to make good. But being somewhat weakened, and faced with physical and mental readjustment to a life which knows no alcohol, you may overdo it. It can be necessary to curb the desire to work sixteen hours a day, and to remember to play once in a while. A reasonable amount of latitude is helpful. And time spent helping others in recovery is not a distraction from the work of staying well — it is necessary to maintain sobriety.",
+    "surface_text": "A lot of people in recovery are high-energy — you work hard and you play hard. Coming back to your job, there's a real pull to prove yourself, to make good, to show everyone you've got it together. Watch that. You're still healing, physically and mentally, and you're learning to live a whole life without the thing you leaned on. It's easy to swing straight into working sixteen-hour days as the new way to escape. Don't let 'proving myself' become the next thing you use to numb out. Curb the urge to overdo it. Actually let yourself rest and play sometimes — that's not laziness, that's part of getting well. And the time you spend helping other people who are struggling isn't stealing from your recovery; it's one of the things that keeps you standing.",
+    "faith_optional": null,
+    "labels": { "moment": ["work-strain", "staying-the-course"], "halt": "TIRED", "urge_level": "PASSING", "stage": "maintenance", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "recast employer 'you may have to curb his desire' into self-directed guidance to the person in recovery; overwork-as-escape kept intact",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch10",
+      "chapter_title": "X. To Employers",
+      "page": 160,
+      "paragraph_index": 37,
+      "quote_stub": "As a class, alcoholics are energetic people. T"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch10_3",
+    "reader_text": "You can be trusted. Long experience with excuses naturally arouses suspicion in others, and if you slip they may jump to conclusions. But if you do slip, and are still trying to recover, you will tell them about it — even if it means the loss of your job. For you know you must be honest if you would live at all. If you are conscientiously following the program of recovery you can go anywhere your work may call you.",
+    "surface_text": "You can be trusted again — but understand that trust takes time to come back. People who spent years hearing your excuses will be suspicious for a while, and if you slip, they may assume the worst. Here's the standard you hold yourself to anyway: if you do slip, and you're still fighting for your recovery, you tell the truth about it — out loud, to the people who need to know — even when it might cost you the job. Not because honesty is a nice virtue, but because for you it's survival. You have to be honest if you want to live at all. Once that kind of honesty is how you operate, you can walk into any situation your work sends you into and be okay.",
+    "faith_optional": null,
+    "labels": { "moment": ["work-strain", "after-a-slip"], "halt": "STRESSED", "urge_level": "WHITE_KNUCKLING", "stage": "maintenance", "function": "foundational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "recast employer's 'your man may be trusted / he will tell you' into second-person to the person in recovery; rigorous honesty at work kept intact",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch10",
+      "chapter_title": "X. To Employers",
+      "page": 161,
+      "paragraph_index": 39,
+      "quote_stub": "Your man may be trusted. Long experience with "
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch10_4",
+    "reader_text": "As you get honest, you may find yourself needing to tell people at work shocking things — that you padded an expense account, or that you once planned to take the best customers away. In fact, honesty in recovery may lead you to say almost anything, because the solution demands rigorous honesty. The hope is that these things can be charged off like a bad account, and a fresh start made. Where you owe, terms can be made and the debt repaired.",
+    "surface_text": "Getting honest for real can mean owning up to things at work that are hard to say out loud — maybe you padded an expense report, maybe you once schemed to poach the best clients, maybe worse. Recovery asks for rigorous honesty, and that sometimes means laying those things on the table instead of carrying them around. It's frightening. But secrets are heavy, and carrying them is part of what keeps the pressure on that pushes you toward using. The goal isn't punishment — it's a clean slate: the wrong gets written off like a bad account, and you start fresh. Where you actually owe something, you work out a way to make it right. Saying it out loud, and then repairing what you can, is how you set the weight down.",
+    "faith_optional": null,
+    "labels": { "moment": ["work-strain"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "action", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "recast employer's 'can you remain undisturbed if he tells you shocking things' into the person's own act of honesty; confession → 'saying it out loud' and amends → 'repair'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch10",
+      "chapter_title": "X. To Employers",
+      "page": 159,
+      "paragraph_index": 33,
+      "quote_stub": "In this connection, can you remain undisturbed"
+    },
+    "needs_clinical_review": true
+  }
+]

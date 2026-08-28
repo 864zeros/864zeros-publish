@@ -1,0 +1,78 @@
+[
+  {
+    "id": "lit_ch08_1",
+    "reader_text": "Some of the snags you will encounter are irritation, hurt feelings, and resentments. The people closest to you will sometimes be unreasonable, and you will want to criticize. Starting from a speck on the domestic horizon, great thunderclouds of dispute may gather. These family tensions are very dangerous, especially to you in early recovery. Often you must carry the burden of avoiding them, or keeping them under control. Never forget that resentment is a deadly hazard — it is the kind of thing that feeds the urge. This does not mean you have to agree with your loved ones wherever there is an honest difference of opinion. Just be careful not to disagree in a resentful or critical spirit.",
+    "surface_text": "As you rebuild, some of the rough spots will be irritation, hurt feelings, and resentment. The people closest to you will sometimes be unreasonable, and you'll want to snap back or criticize. It starts as one small thing on the horizon — and then whole thunderclouds of argument roll in. These family tensions are genuinely dangerous for you right now, because resentment is one of the fastest things to talk you back toward using. So a lot of the time, the job of heading off a blow-up, or keeping it from getting out of hand, is going to fall to you. That doesn't mean rolling over — you're allowed to disagree when there's an honest difference of opinion. Just watch how you do it. Disagree without the resentful, critical edge, because that edge is what puts you at risk.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain", "resentment"], "halt": "ANGRY", "urge_level": "WHITE_KNUCKLING", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'resentment is a deadly hazard to an alcoholic' → 'resentment feeds the urge'; recast third-party wife framing to the person in recovery guarding their own relationships",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch08",
+      "chapter_title": "VIII. To Wives",
+      "page": 131,
+      "paragraph_index": 51,
+      "quote_stub": "Some of the snags you will encounter are irrit"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch08_2",
+    "reader_text": "You will find that you can dispose of serious problems more easily than trivial ones. Next time you and someone you love have a heated discussion, no matter what the subject, it should be the privilege of either of you to smile and say, \"This is getting serious. I'm sorry I got disturbed. Let's talk about it later.\" If you are trying to live on solid footing, you will also be doing everything in your power to avoid needless disagreement and contention.",
+    "surface_text": "Here's something odd but true: the big serious problems are often easier to settle than the small, dumb ones. So try this. The next time a conversation with someone you love gets heated — doesn't matter what it's about — either one of you gets to stop, smile, and say: \"This is getting out of hand. I'm sorry I lost my cool. Let's come back to it later.\" That single move can pull the pressure right out of the room. And if you're serious about staying steady, you'll also be doing what you can, day to day, to sidestep the pointless fights before they start.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain"], "halt": "ANGRY", "urge_level": "PASSING", "stage": "maintenance", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'living on a spiritual basis' → 'living on solid footing'; recast the wife-managing-husband framing to a mutual de-escalation tool the person in recovery can use with any loved one",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch08",
+      "chapter_title": "VIII. To Wives",
+      "page": 131,
+      "paragraph_index": 52,
+      "quote_stub": "You and your husband will find that you can dis"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch08_3",
+    "reader_text": "You owe the people you love more than sobriety. You want to make good with them. Yet you must not expect too much, too soon. Your ways of thinking and doing are the habits of years. Patience, tolerance, understanding, and love are the watchwords. Show these things in yourself and they will be reflected back to you from the people around you. Live and let live is the rule. If everyone shows a willingness to remedy their own patterns, there will be little need to criticize each other.",
+    "surface_text": "Getting sober is not the whole debt you owe the people who love you — and you probably feel that. You want to make things right with them, and that's a good instinct. Just don't expect it all to click back into place overnight. The way you think and react was built over years; it doesn't unlearn itself in a week, and neither do their reactions to you. So the words to live by are patience, tolerance, understanding, and love. Here's the part that actually works: show those things yourself, first, and over time you'll see them come back to you from the people around you. Live and let live. When everyone is quietly working on their own stuff instead of policing each other's, there's a lot less to criticize.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain", "staying-the-course"], "halt": "GENERAL", "urge_level": "CLEAR", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'remedy your own defects' → 'remedy your own patterns' (character-defects re-map); recast the wife-addressing-husband framing to the person in recovery repairing their own relationships",
+    "reading_time": "medium",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch08",
+      "chapter_title": "VIII. To Wives",
+      "page": 132,
+      "paragraph_index": 53,
+      "quote_stub": "Your husband knows he owes you more than sobrie"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch08_4",
+    "reader_text": "Your sincerity, and that of the people rebuilding alongside you, will be put to the test. These work-outs should be regarded as part of your education, for thus you will be learning to live. You will make mistakes, but if you are in earnest, they will not drag you down. Instead, you will make use of them. A better way of life will emerge when they are overcome.",
+    "surface_text": "Your honesty — and the honesty of the people rebuilding right alongside you — is going to get tested. The friction that comes up isn't a sign it's failing; treat it as part of your education, because this is literally how you're learning to live again. You're going to make mistakes. But if you're genuinely trying, those mistakes won't sink you. You'll actually use them — they become the lessons you build on. A better way of living grows out of working through them, not out of avoiding them.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain", "after-a-slip"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "identification" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "'the faith and sincerity of both you and your husband' → 'your sincerity and that of the people rebuilding alongside you' (faith requirement dropped, not made mandatory); recast to the person in recovery",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch08",
+      "chapter_title": "VIII. To Wives",
+      "page": 131,
+      "paragraph_index": 50,
+      "quote_stub": "The faith and sincerity of both you and your hu"
+    },
+    "needs_clinical_review": true
+  }
+]

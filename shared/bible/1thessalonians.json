@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "title": "1 Thessalonians — key verses per chapter (King James Version, public domain)",
+    "book": "1 Thessalonians",
+    "description": "Several curated key verses from each of the 5 chapters of 1 Thessalonians. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 52 1 Thessalonians); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "several key verses per chapter (~1-5, scaled to chapter substance)",
+    "keying": "book + chapter + citation; multiple records per chapter",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 10
+  },
+  "verses": [
+    { "book": "1 Thessalonians", "chapter": 1, "citation": "1 Thessalonians 1:3", "text": "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;", "plain": "We remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus Christ." },
+    { "book": "1 Thessalonians", "chapter": 2, "citation": "1 Thessalonians 2:13", "text": "For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.", "plain": "We also thank God continually because, when you received the word of God from us, you accepted it not as a human message but as what it truly is — the word of God, which is at work in you who believe." },
+    { "book": "1 Thessalonians", "chapter": 3, "citation": "1 Thessalonians 3:12", "text": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:", "plain": "May the Lord make your love increase and overflow for one another and for everyone else, just as ours does for you." },
+    { "book": "1 Thessalonians", "chapter": 4, "citation": "1 Thessalonians 4:11", "text": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;", "plain": "Make it your goal to live quietly, to mind your own affairs, and to work with your hands, just as we told you," },
+    { "book": "1 Thessalonians", "chapter": 4, "citation": "1 Thessalonians 4:17", "text": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.", "plain": "Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we will be with the Lord forever." },
+    { "book": "1 Thessalonians", "chapter": 5, "citation": "1 Thessalonians 5:11", "text": "Wherefore comfort yourselves together, and edify one another, even as also ye do.", "plain": "So encourage one another and build each other up, just as you are already doing." },
+    { "book": "1 Thessalonians", "chapter": 5, "citation": "1 Thessalonians 5:16", "text": "Rejoice evermore.", "plain": "Rejoice always." },
+    { "book": "1 Thessalonians", "chapter": 5, "citation": "1 Thessalonians 5:17", "text": "Pray without ceasing.", "plain": "Pray continually." },
+    { "book": "1 Thessalonians", "chapter": 5, "citation": "1 Thessalonians 5:18", "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.", "plain": "Give thanks in every situation, for this is God's will for you in Christ Jesus." },
+    { "book": "1 Thessalonians", "chapter": 5, "citation": "1 Thessalonians 5:21", "text": "Prove all things; hold fast that which is good.", "plain": "Test everything; hold on to what is good." }
+  ]
+}

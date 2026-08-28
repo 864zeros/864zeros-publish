@@ -1,0 +1,78 @@
+[
+  {
+    "id": "lit_ch09_1",
+    "reader_text": "Family confidence in you is rising high. The good old days will soon be back, they think. Sometimes they may demand that you bring them back instantly! They believe you almost owe this recompense on a long overdue account. But you have spent years pulling down the structures of your life — work, relationships, friendships, health — and these things are now ruined or damaged. It will take time to clear away the wreck. Though the old buildings will eventually be replaced by finer ones, the new structures will take years to complete.",
+    "surface_text": "As you get steadier, the people around you start to hope hard. The good old days are coming back any minute now, they think — and sometimes they'll push you to bring it all back at once, like the world owes them that after everything. But here's the honest truth: it took years to tear down what got torn down — your work, your relationships, your health, your name. You can't rebuild that in a weekend. It takes time to clear away the wreckage. What you build next can end up better than what was there before, but it's a project measured in years, not days. Don't let their impatience — or your own — convince you that slow means broken.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — dated gendered 'father/dad' framing recast to speak to the person in recovery directly; 'God almost owes this recompense' generalized to 'they believe you almost owe'",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch09",
+      "chapter_title": "IX. The Family Afterward",
+      "page": 136,
+      "paragraph_index": 4,
+      "quote_stub": "Family confidence in dad is rising high. The g"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch09_2",
+    "reader_text": "Both you and your family may be mistaken, though each side may have some justification. It is of little use to argue; that only makes the impasse worse. The family must realize that you, though marvelously improved, are still convalescing. Let them remember that the damage wrought may take long to repair. If they sense these things, they will not take so seriously your periods of crankiness, depression, or apathy, which will disappear when there is tolerance, love, and understanding on both sides.",
+    "surface_text": "Early on, you and the people close to you will both get it wrong sometimes — and both of you will have a point. Arguing about who's right just deepens the standoff. The thing to hold onto is this: you're doing far better, and you're still recovering. That's not an excuse; it's a stage. The damage took a long time to happen and it takes a long time to mend. When everyone can feel that, your rough days — the crankiness, the flatness, the low stretches — stop looking like proof that something's wrong. They're passing weather. They ease up as patience and understanding grow on both sides.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — 'dad is still convalescing' recast to second person; 'spiritual understanding' generalized to 'understanding' (faith not made mandatory)",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch09",
+      "chapter_title": "IX. The Family Afterward",
+      "page": 140,
+      "paragraph_index": 15,
+      "quote_stub": "This sort of thing can be avoided. Both father a"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch09_3",
+    "reader_text": "You may find it hard to re-establish friendly relations with your children, or with those who were closest to you while you were using. Their impressions ran deep. Without saying so, they may hold real anger toward you for what they went through. Sometimes this shows up as a pathetic hardness, a cynicism; they cannot seem to forgive and forget. This may hang on for months — long after others in the family have accepted your new way of living and thinking. In time they will see that you are a new person, and in their own way they will let you know it. When that happens, progress can be rapid, and marvelous results often follow such a reunion.",
+    "surface_text": "Some of the people you hurt most may be the slowest to come back — often the kids, or whoever was closest to the worst of it. What they saw stuck. They may carry real anger without ever saying it out loud, and it can come out as a hard, cold, cynical distance, like they just can't let it go. This can last months — long after other people in your life have already accepted the new you. That's not a sign you've failed. Healing runs on its own clock, and theirs may be slower than yours. Keep showing up as the person you're becoming. In their own time and their own way, they'll notice you've changed — and when they do, things can move fast, and the reunion can be better than you dared hope.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain", "staying-the-course"], "halt": "GENERAL", "urge_level": "PASSING", "stage": "maintenance", "function": "relational" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none — merged paras 38-39; 'alcoholic... his children' recast to second person; faith-specific 'morning meditation / daily discussion' reunion mechanics dropped, kept the universal arc of healing at its own pace",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch09",
+      "chapter_title": "IX. The Family Afterward",
+      "page": 148,
+      "paragraph_index": 38,
+      "quote_stub": "The alcoholic may find it hard to re-establish f"
+    },
+    "needs_clinical_review": true
+  },
+  {
+    "id": "lit_ch09_4",
+    "reader_text": "There are three little mottoes which are apropos here. Here they are: “FIRST THINGS FIRST,” “LIVE AND LET LIVE,” and “EASY DOES IT.”",
+    "surface_text": "When family life feels like too much to fix all at once, three old sayings carry a lot: First Things First — handle what matters most today, and let the rest wait. Live and Let Live — you don't have to win every disagreement or fix everyone; give people room to be where they are. And Easy Does It — you're rebuilding at the pace of years, not days, so ease off the throttle. Repeat whichever one you need right now.",
+    "faith_optional": null,
+    "labels": { "moment": ["family-strain", "staying-the-course"], "halt": "STRESSED", "urge_level": "PASSING", "stage": "maintenance", "function": "instructional" },
+    "applies_to": ["UNIVERSAL"],
+    "framework_map": "none",
+    "reading_time": "quick",
+    "source": {
+      "book": "AA-1939",
+      "chapter_id": "ch09",
+      "chapter_title": "IX. The Family Afterward",
+      "page": 149,
+      "paragraph_index": 43,
+      "quote_stub": "We have three little mottoes which are apropos. "
+    },
+    "needs_clinical_review": true
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "title": "Colossians — key verses per chapter (King James Version, public domain)",
+    "book": "Colossians",
+    "description": "Several curated key verses from each of the 4 chapters of Colossians. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 51 Colossians); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "several key verses per chapter (~2-4, scaled to chapter substance)",
+    "keying": "book + chapter + citation; multiple records per chapter",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 11
+  },
+  "verses": [
+    { "book": "Colossians", "chapter": 1, "citation": "Colossians 1:16", "text": "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:", "plain": "For in him all things were created, in heaven and on earth, visible and invisible — whether thrones or dominions or rulers or authorities. All things were created through him and for him." },
+    { "book": "Colossians", "chapter": 1, "citation": "Colossians 1:17", "text": "And he is before all things, and by him all things consist.", "plain": "He is before all things, and in him all things hold together." },
+    { "book": "Colossians", "chapter": 1, "citation": "Colossians 1:27", "text": "To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:", "plain": "God chose to make known among the nations the glorious riches of this mystery, which is Christ in you, the hope of glory." },
+    { "book": "Colossians", "chapter": 2, "citation": "Colossians 2:6", "text": "As ye have therefore received Christ Jesus the Lord, so walk ye in him:", "plain": "So then, just as you received Christ Jesus as Lord, continue to live your lives in him," },
+    { "book": "Colossians", "chapter": 2, "citation": "Colossians 2:7", "text": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.", "plain": "rooted and built up in him, established in the faith as you were taught, and overflowing with thankfulness." },
+    { "book": "Colossians", "chapter": 3, "citation": "Colossians 3:2", "text": "Set your affection on things above, not on things on the earth.", "plain": "Set your mind on things above, not on earthly things." },
+    { "book": "Colossians", "chapter": 3, "citation": "Colossians 3:15", "text": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.", "plain": "Let the peace of God rule in your hearts, since as members of one body you were called to peace. And be thankful." },
+    { "book": "Colossians", "chapter": 3, "citation": "Colossians 3:17", "text": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.", "plain": "And whatever you do, in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him." },
+    { "book": "Colossians", "chapter": 3, "citation": "Colossians 3:23", "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men;", "plain": "Whatever you do, work at it wholeheartedly, as for the Lord and not for people," },
+    { "book": "Colossians", "chapter": 4, "citation": "Colossians 4:2", "text": "Continue in prayer, and watch in the same with thanksgiving;", "plain": "Devote yourselves to prayer, staying alert in it with thanksgiving." },
+    { "book": "Colossians", "chapter": 4, "citation": "Colossians 4:6", "text": "Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.", "plain": "Let your conversation always be full of grace, seasoned with salt, so you'll know how to answer everyone." }
+  ]
+}

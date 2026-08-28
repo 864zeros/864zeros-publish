@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "title": "Nehemiah — key verses (King James Version, public domain)",
+    "book": "Nehemiah",
+    "description": "Curated key verses from Nehemiah (the joy of the Lord is your strength; a forgiving, gracious God). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 16 Nehemiah); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; wall-building/register narrative largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 2
+  },
+  "verses": [
+    { "book": "Nehemiah", "chapter": 8, "citation": "Nehemiah 8:10", "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the Lord is your strength.", "plain": "Then he said to them, 'Go, enjoy good food and sweet drinks, and send some to those who have nothing prepared. This day is holy to our Lord. Do not grieve, for the joy of the Lord is your strength.'" },
+    { "book": "Nehemiah", "chapter": 9, "citation": "Nehemiah 9:17", "text": "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.", "plain": "But you are a forgiving God, gracious and compassionate, slow to anger and abounding in love. Therefore you did not desert them." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "title": "Daniel — key verses (King James Version, public domain)",
+    "book": "Daniel",
+    "description": "Curated key verses from Daniel (praise to the God of wisdom and power, 'our God is able to deliver,' the shut lions' mouths, the wise who shine like stars). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 27 Daniel); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the narrative and vision high points",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV verbatim. No review gate — author is reviewer.",
+    "count": 4
+  },
+  "verses": [
+    { "book": "Daniel", "chapter": 2,  "citation": "Daniel 2:20",  "text": "Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:", "plain": "Daniel said: Praise be to the name of God forever and ever; wisdom and power are his." },
+    { "book": "Daniel", "chapter": 3,  "citation": "Daniel 3:17",  "text": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.", "plain": "If we are thrown into the blazing furnace, the God we serve is able to deliver us from it, and he will deliver us from your hand, O king." },
+    { "book": "Daniel", "chapter": 6,  "citation": "Daniel 6:22",  "text": "My God hath sent his angel, and hath shut the lions' mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.", "plain": "My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight." },
+    { "book": "Daniel", "chapter": 12, "citation": "Daniel 12:3",  "text": "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.", "plain": "Those who are wise will shine like the brightness of the heavens, and those who lead many to righteousness, like the stars forever and ever." }
+  ]
+}

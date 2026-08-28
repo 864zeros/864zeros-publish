@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "title": "Ephesians — key verses per chapter (King James Version, public domain)",
+    "book": "Ephesians",
+    "description": "Several curated key verses from each of the 6 chapters of Ephesians. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 49 Ephesians); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "several key verses per chapter (~1-3, scaled to chapter substance)",
+    "keying": "book + chapter + citation; multiple records per chapter",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 12
+  },
+  "verses": [
+    { "book": "Ephesians", "chapter": 1, "citation": "Ephesians 1:3", "text": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:", "plain": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places." },
+    { "book": "Ephesians", "chapter": 1, "citation": "Ephesians 1:7", "text": "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;", "plain": "In him we have redemption through his blood, the forgiveness of our sins, in keeping with the riches of his grace." },
+    { "book": "Ephesians", "chapter": 2, "citation": "Ephesians 2:8", "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:", "plain": "For it is by grace you have been saved, through faith — and this is not from yourselves; it is the gift of God." },
+    { "book": "Ephesians", "chapter": 2, "citation": "Ephesians 2:10", "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.", "plain": "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do." },
+    { "book": "Ephesians", "chapter": 3, "citation": "Ephesians 3:20", "text": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,", "plain": "Now to him who is able to do far more than we could ever ask or imagine, by the power that is at work within us," },
+    { "book": "Ephesians", "chapter": 4, "citation": "Ephesians 4:2", "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;", "plain": "Be completely humble and gentle; be patient, bearing with one another in love." },
+    { "book": "Ephesians", "chapter": 4, "citation": "Ephesians 4:32", "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.", "plain": "Be kind and tenderhearted to one another, forgiving each other, just as God in Christ forgave you." },
+    { "book": "Ephesians", "chapter": 5, "citation": "Ephesians 5:2", "text": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.", "plain": "And walk in love, just as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God." },
+    { "book": "Ephesians", "chapter": 5, "citation": "Ephesians 5:20", "text": "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;", "plain": "always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ." },
+    { "book": "Ephesians", "chapter": 6, "citation": "Ephesians 6:10", "text": "Finally, my brethren, be strong in the Lord, and in the power of his might.", "plain": "Finally, be strong in the Lord and in his mighty power." },
+    { "book": "Ephesians", "chapter": 6, "citation": "Ephesians 6:11", "text": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.", "plain": "Put on the full armor of God, so you can stand against the devil's schemes." },
+    { "book": "Ephesians", "chapter": 6, "citation": "Ephesians 6:12", "text": "For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.", "plain": "For our struggle is not against flesh and blood, but against the rulers, the authorities, the powers of this dark world, and the spiritual forces of evil in the heavenly places." }
+  ]
+}

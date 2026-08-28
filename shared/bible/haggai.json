@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "title": "Haggai — key verses (King James Version, public domain)",
+    "book": "Haggai",
+    "description": "Curated key verse from Haggai (the glory of the latter house; 'I will give peace'). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 37 Haggai); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "the book's promise of glory and peace",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 1
+  },
+  "verses": [
+    { "book": "Haggai", "chapter": 2, "citation": "Haggai 2:9", "text": "The glory of this latter house shall be greater than of the former, saith the Lord of hosts: and in this place will I give peace, saith the Lord of hosts.", "plain": "The glory of this present house will be greater than the glory of the former house, says the Lord Almighty. And in this place I will grant peace." }
+  ]
+}

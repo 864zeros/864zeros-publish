@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "title": "James — key verses per chapter (King James Version, public domain)",
+    "book": "James",
+    "description": "Several curated key verses from each of the 5 chapters of James. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 59 James); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "several key verses per chapter (~1-5, scaled to chapter substance)",
+    "keying": "book + chapter + citation; multiple records per chapter",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 11
+  },
+  "verses": [
+    { "book": "James", "chapter": 1, "citation": "James 1:2", "text": "My brethren, count it all joy when ye fall into divers temptations;", "plain": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds," },
+    { "book": "James", "chapter": 1, "citation": "James 1:5", "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.", "plain": "If any of you lacks wisdom, ask God, who gives generously to all without finding fault, and it will be given to you." },
+    { "book": "James", "chapter": 1, "citation": "James 1:12", "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.", "plain": "Blessed is the one who perseveres under trial, because having stood the test, they will receive the crown of life that God has promised to those who love him." },
+    { "book": "James", "chapter": 1, "citation": "James 1:17", "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.", "plain": "Every good and perfect gift is from above, coming down from the Father of lights, who does not change like shifting shadows." },
+    { "book": "James", "chapter": 1, "citation": "James 1:22", "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.", "plain": "But be doers of the word, and not hearers only, deceiving yourselves." },
+    { "book": "James", "chapter": 2, "citation": "James 2:17", "text": "Even so faith, if it hath not works, is dead, being alone.", "plain": "In the same way, faith by itself, if it isn't accompanied by action, is dead." },
+    { "book": "James", "chapter": 3, "citation": "James 3:17", "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.", "plain": "But the wisdom that comes from above is first of all pure, then peace-loving, gentle, willing to yield, full of mercy and good fruit, impartial, and sincere." },
+    { "book": "James", "chapter": 4, "citation": "James 4:7", "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.", "plain": "So submit yourselves to God. Resist the devil, and he will flee from you." },
+    { "book": "James", "chapter": 4, "citation": "James 4:8", "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.", "plain": "Come near to God, and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded." },
+    { "book": "James", "chapter": 4, "citation": "James 4:10", "text": "Humble yourselves in the sight of the Lord, and he shall lift you up.", "plain": "Humble yourselves before the Lord, and he will lift you up." },
+    { "book": "James", "chapter": 5, "citation": "James 5:16", "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.", "plain": "So confess your sins to one another and pray for one another, so that you may be healed. The earnest prayer of a righteous person is powerful and effective." }
+  ]
+}

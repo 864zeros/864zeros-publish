@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "title": "2 Peter — key verses per chapter (King James Version, public domain)",
+    "book": "2 Peter",
+    "description": "Several curated key verses from each of the 3 chapters of 2 Peter. Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 61 2 Peter); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "several key verses per chapter (~1-2, scaled to chapter substance)",
+    "keying": "book + chapter + citation; multiple records per chapter",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "KJV New Testament renders the divine name as 'Lord'/'God' (no tetragrammaton); text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 5
+  },
+  "verses": [
+    { "book": "2 Peter", "chapter": 1, "citation": "2 Peter 1:3", "text": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:", "plain": "His divine power has given us everything we need for life and godliness, through our knowledge of him who called us by his own glory and goodness." },
+    { "book": "2 Peter", "chapter": 1, "citation": "2 Peter 1:4", "text": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.", "plain": "Through these he has given us his very great and precious promises, so that through them you may share in the divine nature, having escaped the corruption in the world caused by evil desires." },
+    { "book": "2 Peter", "chapter": 2, "citation": "2 Peter 2:9", "text": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:", "plain": "the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment." },
+    { "book": "2 Peter", "chapter": 3, "citation": "2 Peter 3:9", "text": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.", "plain": "The Lord is not slow in keeping his promise, as some understand slowness. Instead, he is patient with you, not wanting anyone to perish, but everyone to come to repentance." },
+    { "book": "2 Peter", "chapter": 3, "citation": "2 Peter 3:18", "text": "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.", "plain": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever!" }
+  ]
+}

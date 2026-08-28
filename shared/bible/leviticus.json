@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "title": "Leviticus — key verses (King James Version, public domain)",
+    "book": "Leviticus",
+    "description": "Curated key verses from Leviticus (holiness, atonement, love of neighbor, jubilee, God dwelling among his people). Ecosystem-generic 864zeros content. Each record carries the exact scripture plus an original plain-English rendering.",
+    "translation": "KJV (King James Version)",
+    "license": "Public domain (KJV scripture); 'plain' renderings are original 864zeros writing",
+    "source": "getbible.net v2 (KJV, book 3 Leviticus); verses verbatim, curly apostrophes normalized to straight",
+    "selection": "key verses from the substantive chapters; ritual/ceremonial-law chapters largely omitted",
+    "keying": "book + chapter + citation",
+    "renderings": "text = the exact KJV verse; plain = original 864zeros plain-English 2026 rendering, faithful to the verse's meaning (~grade 6-8), authored not quoted.",
+    "note": "getbible's KJV renders the divine name as 'the Lord'; text is verbatim KJV. No review gate — author is reviewer.",
+    "count": 7
+  },
+  "verses": [
+    { "book": "Leviticus", "chapter": 6,  "citation": "Leviticus 6:13",  "text": "The fire shall ever be burning upon the altar; it shall never go out.", "plain": "The fire must be kept burning on the altar continually; it must never go out." },
+    { "book": "Leviticus", "chapter": 11, "citation": "Leviticus 11:44", "text": "For I am the Lord your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.", "plain": "For I am the Lord your God; consecrate yourselves and be holy, because I am holy." },
+    { "book": "Leviticus", "chapter": 16, "citation": "Leviticus 16:30", "text": "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the Lord.", "plain": "For on this day atonement will be made for you, to cleanse you, so that you will be clean from all your sins before the Lord." },
+    { "book": "Leviticus", "chapter": 19, "citation": "Leviticus 19:2",  "text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the Lord your God am holy.", "plain": "Speak to the whole assembly of Israel and say to them: Be holy, because I, the Lord your God, am holy." },
+    { "book": "Leviticus", "chapter": 19, "citation": "Leviticus 19:18", "text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord.", "plain": "Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the Lord." },
+    { "book": "Leviticus", "chapter": 25, "citation": "Leviticus 25:10", "text": "And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.", "plain": "Set apart the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It will be a jubilee for you; each of you is to return to your family property and your own clan." },
+    { "book": "Leviticus", "chapter": 26, "citation": "Leviticus 26:12", "text": "And I will walk among you, and will be your God, and ye shall be my people.", "plain": "I will walk among you and be your God, and you will be my people." }
+  ]
+}
