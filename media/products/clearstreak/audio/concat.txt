@@ -1,0 +1,7 @@
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/scene1_hook.wav'
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/scene2_intro.wav'
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/scene3_journeys.wav'
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/scene4_halt.wav'
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/scene5_grounding.wav'
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/scene6_privacy.wav'
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/scene7_cta.wav'

@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, height=1920, initial-scale=1.0">
+<title>ClearStreak - Master Explainer Video</title>
+<style>
+  :root {
+    --bg: #0d0f12;
+    --surface: #161920;
+    --card: #1f232d;
+    --border: rgba(255, 255, 255, 0.1);
+    --gold: #d4af37;
+    --gold-glow: rgba(212, 175, 55, 0.25);
+    --accent: #2563eb;
+    --green: #10b981;
+    --green-glow: rgba(16, 185, 129, 0.25);
+    --red: #ef4444;
+    --text: #f8fafc;
+    --text-dim: #94a3b8;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    width: 1080px;
+    height: 1920px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font);
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Ambient background aura */
+  .aura {
+    position: absolute;
+    width: 900px;
+    height: 900px;
+    border-radius: 50%;
+    filter: blur(140px);
+    opacity: 0.15;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .aura-top { top: -200px; left: 90px; background: var(--gold); }
+  .aura-bottom { bottom: -200px; right: 90px; background: #3b82f6; }
+
+  /* Header Branding */
+  header {
+    position: absolute;
+    top: 70px;
+    left: 80px;
+    right: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+  }
+  .brand-group {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .brand-logo {
+    width: 68px;
+    height: 68px;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #1e293b, #0f172a);
+    border: 2px solid var(--gold);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 8px 24px var(--gold-glow);
+  }
+  .brand-logo svg {
+    width: 38px;
+    height: 38px;
+    fill: var(--gold);
+  }
+  .brand-name {
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    color: #fff;
+  }
+  .brand-pill {
+    padding: 8px 20px;
+    border-radius: 30px;
+    background: rgba(212, 175, 55, 0.12);
+    border: 1px solid var(--gold);
+    color: var(--gold);
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+
+  /* Stage Container */
+  main {
+    position: absolute;
+    top: 190px;
+    bottom: 240px;
+    width: 920px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+  }
+
+  /* Scene cards */
+  .scene {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0;
+    transform: translateY(30px) scale(0.98);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+    pointer-events: none;
+  }
+  .scene.active {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    pointer-events: auto;
+  }
+
+  /* Phone Mockup Frame */
+  .phone-frame {
+    width: 820px;
+    background: var(--surface);
+    border-radius: 48px;
+    border: 2px solid var(--border);
+    box-shadow: 0 25px 60px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.05);
+    padding: 44px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+
+  .headline-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 28px;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 40px;
+    font-size: 26px;
+    font-weight: 700;
+    color: #e2e8f0;
+    margin-bottom: 24px;
+  }
+
+  .scene-title {
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 1.15;
+    text-align: center;
+    letter-spacing: -1.5px;
+    margin-bottom: 36px;
+  }
+  .highlight-gold { color: var(--gold); }
+  .highlight-green { color: var(--green); }
+  .highlight-red { color: var(--red); }
+
+  /* Scene 1: Shame Comparison */
+  .compare-box {
+    display: flex;
+    gap: 24px;
+    width: 100%;
+  }
+  .compare-card {
+    flex: 1;
+    background: var(--card);
+    border-radius: 28px;
+    padding: 36px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    border: 1px solid var(--border);
+  }
+  .compare-card.bad {
+    border-color: rgba(239, 68, 68, 0.3);
+    background: rgba(239, 68, 68, 0.05);
+  }
+  .compare-card.good {
+    border-color: rgba(16, 185, 129, 0.4);
+    background: rgba(16, 185, 129, 0.06);
+  }
+  .card-icon {
+    font-size: 64px;
+  }
+  .card-title {
+    font-size: 32px;
+    font-weight: 800;
+  }
+  .card-desc {
+    font-size: 24px;
+    color: var(--text-dim);
+    line-height: 1.4;
+  }
+
+  /* Scene 3: Multi-journey Cards */
+  .journey-list {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    width: 100%;
+  }
+  .journey-item {
+    background: var(--card);
+    border-radius: 24px;
+    padding: 24px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid var(--border);
+  }
+  .journey-left {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+  }
+  .journey-emoji {
+    width: 60px;
+    height: 60px;
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+  }
+  .journey-info h4 {
+    font-size: 28px;
+    font-weight: 800;
+  }
+  .journey-info p {
+    font-size: 22px;
+    color: var(--text-dim);
+  }
+  .journey-badge {
+    text-align: right;
+  }
+  .journey-streak {
+    font-size: 32px;
+    font-weight: 900;
+    color: var(--gold);
+  }
+  .journey-saved {
+    font-size: 20px;
+    color: var(--green);
+    font-weight: 700;
+  }
+
+  /* Scene 4: HALT Selector */
+  .halt-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width: 100%;
+  }
+  .halt-btn {
+    background: var(--card);
+    border: 2px solid var(--border);
+    border-radius: 24px;
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    text-align: center;
+  }
+  .halt-btn.active {
+    border-color: var(--gold);
+    background: rgba(212, 175, 55, 0.1);
+  }
+  .halt-letter {
+    font-size: 40px;
+    font-weight: 900;
+    color: var(--gold);
+  }
+  .halt-label {
+    font-size: 24px;
+    font-weight: 700;
+    color: #e2e8f0;
+  }
+
+  /* Scene 5: Grounding Circle */
+  .grounding-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    padding: 30px;
+  }
+  .breath-circle {
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(16, 185, 129, 0.25) 0%, rgba(16, 185, 129, 0.05) 70%, transparent 100%);
+    border: 3px solid var(--green);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 50px var(--green-glow);
+    animation: breathe 5s infinite ease-in-out;
+  }
+  @keyframes breathe {
+    0%, 100% { transform: scale(0.9); }
+    50% { transform: scale(1.15); }
+  }
+  .breath-text {
+    font-size: 32px;
+    font-weight: 900;
+    color: #fff;
+  }
+  .rescue-banner {
+    width: 100%;
+    background: rgba(212, 175, 55, 0.12);
+    border: 1px solid var(--gold);
+    border-radius: 24px;
+    padding: 24px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .rescue-title {
+    font-size: 26px;
+    font-weight: 800;
+    color: var(--gold);
+  }
+  .rescue-lifeline {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    background: var(--gold);
+    color: #000;
+    padding: 8px 20px;
+    border-radius: 20px;
+  }
+
+  /* Scene 6: Privacy Badges */
+  .privacy-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+  }
+  .privacy-row {
+    background: var(--card);
+    border-radius: 24px;
+    padding: 24px 30px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border: 1px solid var(--border);
+  }
+  .privacy-icon {
+    font-size: 40px;
+    width: 68px;
+    height: 68px;
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .privacy-text h4 {
+    font-size: 28px;
+    font-weight: 800;
+  }
+  .privacy-text p {
+    font-size: 22px;
+    color: var(--text-dim);
+  }
+
+  /* Scene 7: CTA */
+  .cta-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+  }
+  .price-pill {
+    padding: 16px 40px;
+    background: rgba(16, 185, 129, 0.15);
+    border: 2px solid var(--green);
+    border-radius: 50px;
+    font-size: 36px;
+    font-weight: 900;
+    color: var(--green);
+  }
+  .btn-store {
+    width: 100%;
+    padding: 32px;
+    background: linear-gradient(135deg, var(--gold), #b89628);
+    border-radius: 30px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #000;
+    text-align: center;
+    box-shadow: 0 15px 40px var(--gold-glow);
+  }
+
+  /* Footer Subtitles */
+  footer {
+    position: absolute;
+    bottom: 60px;
+    left: 80px;
+    right: 80px;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: rgba(22, 25, 32, 0.85);
+    border: 1px solid var(--border);
+    backdrop-filter: blur(20px);
+    border-radius: 30px;
+    padding: 0 40px;
+    z-index: 10;
+  }
+  .subtitle-text {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.35;
+    color: #f1f5f9;
+  }
+</style>
+</head>
+<body>
+
+<div class="aura aura-top"></div>
+<div class="aura aura-bottom"></div>
+
+<header>
+  <div class="brand-group">
+    <div class="brand-logo">
+      <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+    </div>
+    <div class="brand-name">ClearStreak</div>
+  </div>
+  <div class="brand-pill">DATA OVER SHAME</div>
+</header>
+
+<main>
+  <!-- Scene 1: Hook -->
+  <div class="scene" id="scene-hook">
+    <div class="headline-pill">THE HABIT TRACKING PROBLEM</div>
+    <div class="scene-title">Break a streak.<br><span class="highlight-red">Wiped to zero?</span></div>
+    <div class="phone-frame">
+      <div class="compare-box">
+        <div class="compare-card bad">
+          <div class="card-icon">❌</div>
+          <div class="card-title highlight-red">Standard Apps</div>
+          <div class="card-desc">Miss one day = Streak 0.<br>Shame, guilt, and lost history.</div>
+        </div>
+        <div class="compare-card good">
+          <div class="card-icon">🛡️</div>
+          <div class="card-title highlight-green">ClearStreak</div>
+          <div class="card-desc">Data over shame.<br>All milestones & stretches permanent.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scene 2: Intro -->
+  <div class="scene" id="scene-intro">
+    <div class="headline-pill">THE PRIVATE COMPANION</div>
+    <div class="scene-title">The Private Habit &amp; Vice Companion</div>
+    <div class="phone-frame" style="text-align:center; padding: 60px 40px;">
+      <div style="font-size: 80px; margin-bottom: 20px;">🔒</div>
+      <h3 style="font-size: 40px; font-weight: 900; margin-bottom: 16px;">Encrypted. Offline. Dignified.</h3>
+      <p style="font-size: 26px; color: var(--text-dim); line-height: 1.4;">
+        Built on the opposite premise of wellness surveillance apps.<br>Zero cloud. Zero tracking. Zero judgment.
+      </p>
+    </div>
+  </div>
+
+  <!-- Scene 3: Journeys -->
+  <div class="scene" id="scene-journeys">
+    <div class="headline-pill">MULTI-JOURNEY TRACKING</div>
+    <div class="scene-title">Track Every Habit &amp; Vice</div>
+    <div class="phone-frame">
+      <div class="journey-list">
+        <div class="journey-item">
+          <div class="journey-left">
+            <div class="journey-emoji">💨</div>
+            <div class="journey-info">
+              <h4>Quitting Vaping</h4>
+              <p>Started Aug 24</p>
+            </div>
+          </div>
+          <div class="journey-badge">
+            <div class="journey-streak">14 Days</div>
+            <div class="journey-saved">$84 Saved</div>
+          </div>
+        </div>
+        <div class="journey-item">
+          <div class="journey-left">
+            <div class="journey-emoji">🍷</div>
+            <div class="journey-info">
+              <h4>Alcohol Moderation</h4>
+              <p>Personal Best</p>
+            </div>
+          </div>
+          <div class="journey-badge">
+            <div class="journey-streak">42 Days</div>
+            <div class="journey-saved">$315 Saved</div>
+          </div>
+        </div>
+        <div class="journey-item">
+          <div class="journey-left">
+            <div class="journey-emoji">📱</div>
+            <div class="journey-info">
+              <h4>Stop Doomscrolling</h4>
+              <p>Daily Cap: 30m</p>
+            </div>
+          </div>
+          <div class="journey-badge">
+            <div class="journey-streak">7 Days</div>
+            <div class="journey-saved">21 hrs saved</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scene 4: HALT & Data Over Shame -->
+  <div class="scene" id="scene-halt">
+    <div class="headline-pill">DATA OVER SHAME</div>
+    <div class="scene-title">Honest HALT Check-Ins</div>
+    <div class="phone-frame">
+      <div class="halt-grid">
+        <div class="halt-btn active">
+          <div class="halt-letter">H</div>
+          <div class="halt-label">Hungry</div>
+        </div>
+        <div class="halt-btn">
+          <div class="halt-letter">A</div>
+          <div class="halt-label">Angry</div>
+        </div>
+        <div class="halt-btn">
+          <div class="halt-letter">L</div>
+          <div class="halt-label">Lonely</div>
+        </div>
+        <div class="halt-btn active">
+          <div class="halt-letter">T</div>
+          <div class="halt-label">Tired</div>
+        </div>
+      </div>
+      <div style="text-align: center; margin-top: 10px; font-size: 24px; color: var(--gold); font-weight: 700;">
+        An off day resets today's count. Your history stays intact.
+      </div>
+    </div>
+  </div>
+
+  <!-- Scene 5: Grounding & Rescue -->
+  <div class="scene" id="scene-grounding">
+    <div class="headline-pill">FOR THE HARD MOMENTS</div>
+    <div class="scene-title">Grounding &amp; Rescue Hub</div>
+    <div class="phone-frame">
+      <div class="grounding-box">
+        <div class="breath-circle">
+          <div class="breath-text">INHALE</div>
+        </div>
+        <div class="rescue-banner">
+          <div class="rescue-title">One-Tap Rescue Hub</div>
+          <div class="rescue-lifeline">988 Lifeline</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scene 6: Ironclad Privacy -->
+  <div class="scene" id="scene-privacy">
+    <div class="headline-pill">ZERO CLOUD · ZERO SURVEILLANCE</div>
+    <div class="scene-title">Private by Architecture</div>
+    <div class="phone-frame">
+      <div class="privacy-grid">
+        <div class="privacy-row">
+          <div class="privacy-icon">🛡️</div>
+          <div class="privacy-text">
+            <h4>AES-256 Biometric Lock</h4>
+            <p>Sealed on-device with your fingerprint</p>
+          </div>
+        </div>
+        <div class="privacy-row">
+          <div class="privacy-icon">🚫</div>
+          <div class="privacy-text">
+            <h4>Screenshots Blocked</h4>
+            <p>FLAG_SECURE shields your screen</p>
+          </div>
+        </div>
+        <div class="privacy-row">
+          <div class="privacy-icon">☁️❌</div>
+          <div class="privacy-text">
+            <h4>100% Offline</h4>
+            <p>No accounts, no cloud, nothing to breach</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scene 7: CTA -->
+  <div class="scene" id="scene-cta">
+    <div class="headline-pill">YOURS TO KEEP</div>
+    <div class="scene-title">No Subscriptions.<br><span class="highlight-gold">Pay Once Forever.</span></div>
+    <div class="phone-frame">
+      <div class="cta-box">
+        <div class="price-pill">7-Day Free Trial · One-Time Unlock</div>
+        <div style="font-size: 26px; color: var(--text-dim);">
+          Your private habits are yours alone. Keep them that way.
+        </div>
+        <div class="btn-store">Download on Google Play</div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="subtitle-text" id="subtitles">Loading...</div>
+</footer>
+
+<script>
+  const timeline = [
+    { start: 0.0, end: 7.20, scene: "scene-hook", text: "Why does every habit tracker shame you the second you slip up? Break a streak, and they wipe your entire progress to zero. Not here." },
+    { start: 7.20, end: 11.83, scene: "scene-intro", text: "Meet ClearStreak: the private habit and vice companion built on Data Over Shame." },
+    { start: 11.83, end: 23.47, scene: "scene-journeys", text: "Track multiple habits at once — whether you're quitting vaping, cutting back alcohol, stopping doomscrolling, or overcoming late-night spending. Each with its own start date, streaks, and money saved." },
+    { start: 23.47, end: 35.04, scene: "scene-halt", text: "An off day resets today's count, but never wipes your history. Your personal bests and total clear days stay permanent. Check in honestly with HALT: Hungry, Angry, Lonely, or Tired." },
+    { start: 35.04, end: 45.07, scene: "scene-grounding", text: "In hard moments, use eyes-free haptic breathing circles to let an urge crest and pass, or tap the calm Rescue hub for trusted contacts and confidential lifelines." },
+    { start: 45.07, end: 53.33, scene: "scene-privacy", text: "No cloud. No accounts. No servers to breach. Sealed with biometric encryption right on your phone. Screenshots are blocked." },
+    { start: 53.33, end: 62.00, scene: "scene-cta", text: "No recurring subscriptions. Just a one-time unlock for lifetime peace of mind. Download ClearStreak on Google Play." }
+  ];
+
+  const scenes = document.querySelectorAll('.scene');
+  const subEl = document.getElementById('subtitles');
+
+  window.seekTo = function(t) {
+    let current = timeline.find(item => t >= item.start && t < item.end) || timeline[timeline.length - 1];
+    
+    scenes.forEach(s => {
+      if (s.id === current.scene) {
+        s.classList.add('active');
+      } else {
+        s.classList.remove('active');
+      }
+    });
+
+    subEl.textContent = current.text;
+  };
+
+  window.startPlayback = function() {
+    const startTime = performance.now();
+    function loop(now) {
+      const elapsed = (now - startTime) / 1000.0;
+      window.seekTo(elapsed);
+      if (elapsed < 61.5) {
+        requestAnimationFrame(loop);
+      }
+    }
+    requestAnimationFrame(loop);
+  };
+
+  seekTo(0.0);
+</script>
+
+</body>
+</html>

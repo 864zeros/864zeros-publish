@@ -1,0 +1,352 @@
+{
+  "_meta": {
+    "title": "Genesis Chapters 1-10: Real-World Applications & Behavioral Principles",
+    "book": "Genesis",
+    "chapters_covered": "1-10",
+    "license": "Public domain (KJV scripture anchor); original 864zeros writing (plain renderings & real-world applications)",
+    "policy": "Each record pairs exact public-domain KJV scripture with an original 2026 plain-English rendering and an actionable real-world behavioral principle.",
+    "count": 20
+  },
+  "applications": [
+    {
+      "id": "gen_app_01_03",
+      "chapter": 1,
+      "citation": "Genesis 1:3",
+      "verbatim_text": "And God said, Let there be light: and there was light.",
+      "plain_text": "Then God said, 'Let there be light,' and light appeared.",
+      "real_world_function": {
+        "principle": "Clarity before execution",
+        "takeaway": "Before tackling chaos or disorder, prioritize bringing clear light and definition to the situation. Action without clarity only multiplies confusion.",
+        "action_prompt": "Define the single most important reality of your current challenge before taking your next step."
+      },
+      "labels": {
+        "moment": ["confusion", "overwhelm", "starting_fresh"],
+        "domain": "decision_making",
+        "theme": "clarity"
+      }
+    },
+    {
+      "id": "gen_app_01_27",
+      "chapter": 1,
+      "citation": "Genesis 1:27",
+      "verbatim_text": "So God created man in his own image, in the image of God created he him; male and female created he them.",
+      "plain_text": "So God created humankind in his own image; in the image of God he created them; male and female he created them.",
+      "real_world_function": {
+        "principle": "Inherent human dignity & self-worth",
+        "takeaway": "Your core value is fundamental and intrinsic, not earned through external status, performance, or public validation. Treat yourself and others with corresponding respect.",
+        "action_prompt": "Reflect on your baseline dignity today whenever self-criticism or external judgment surfaces."
+      },
+      "labels": {
+        "moment": ["low_self_worth", "imposter_syndrome", "shame"],
+        "domain": "identity",
+        "theme": "human_dignity"
+      }
+    },
+    {
+      "id": "gen_app_01_31",
+      "chapter": 1,
+      "citation": "Genesis 1:31",
+      "verbatim_text": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.",
+      "plain_text": "God saw all that he had made, and it was very good. And there was evening, and there was morning — the sixth day.",
+      "real_world_function": {
+        "principle": "Intentional review and appreciation",
+        "takeaway": "Healthy momentum requires stopping to acknowledge and validate completed progress rather than immediately rushing into the next demand.",
+        "action_prompt": "At the close of your workday, take two minutes to review what went well before making your next to-do list."
+      },
+      "labels": {
+        "moment": ["burnout", "restlessness", "milestone"],
+        "domain": "productivity",
+        "theme": "reflection"
+      }
+    },
+    {
+      "id": "gen_app_02_02",
+      "chapter": 2,
+      "citation": "Genesis 2:2",
+      "verbatim_text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+      "plain_text": "By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work.",
+      "real_world_function": {
+        "principle": "Rest as a planned discipline, not a failure",
+        "takeaway": "Rest is not what you do when you completely collapse; it is an intentional boundary that completes meaningful work and sustains long-term effectiveness.",
+        "action_prompt": "Schedule a firm recovery window in your calendar this week and protect it as rigorously as an appointment."
+      },
+      "labels": {
+        "moment": ["exhaustion", "overwork", "anxiety"],
+        "domain": "sustainable_habits",
+        "theme": "sabbath_rest"
+      }
+    },
+    {
+      "id": "gen_app_02_15",
+      "chapter": 2,
+      "citation": "Genesis 2:15",
+      "verbatim_text": "And the Lord God took the man, and put him into the garden of Eden to dress it and to keep it.",
+      "plain_text": "The Lord God took the man and placed him in the Garden of Eden to cultivate it and take care of it.",
+      "real_world_function": {
+        "principle": "Active stewardship of your present space",
+        "takeaway": "Fulfillment is found by actively cultivating, improving, and guarding the responsibilities already entrusted to you before seeking wider territory.",
+        "action_prompt": "Identify one neglected area in your immediate environment or routine and tend to it today."
+      },
+      "labels": {
+        "moment": ["distraction", "aimlessness", "procrastination"],
+        "domain": "responsibility",
+        "theme": "stewardship"
+      }
+    },
+    {
+      "id": "gen_app_02_18",
+      "chapter": 2,
+      "citation": "Genesis 2:18",
+      "verbatim_text": "And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.",
+      "plain_text": "The Lord God said, 'It is not good for the man to be alone. I will make a helper suitable for him.'",
+      "real_world_function": {
+        "principle": "The hazard of chronic isolation",
+        "takeaway": "Human beings are wired for collaborative partnership and community. Isolation warps perspective, drains resilience, and multiplies stress.",
+        "action_prompt": "Reach out to one trusted friend, peer, or mentor today to share where you are actually at."
+      },
+      "labels": {
+        "moment": ["loneliness", "isolation", "withdrawal"],
+        "domain": "relationships",
+        "theme": "interdependence"
+      }
+    },
+    {
+      "id": "gen_app_02_24",
+      "chapter": 2,
+      "citation": "Genesis 2:24",
+      "verbatim_text": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.",
+      "plain_text": "That is why a man leaves his father and mother and is united to his wife, and the two become one flesh.",
+      "real_world_function": {
+        "principle": "Clear relational priority and healthy boundary separation",
+        "takeaway": "Deep commitment requires clearly leaving old dependencies behind to forge a strong, unified, and aligned primary partnership.",
+        "action_prompt": "Communicate openly with your partner or key stakeholder to ensure your shared goals take priority over outside noise."
+      },
+      "labels": {
+        "moment": ["relational_friction", "transition", "boundary_setting"],
+        "domain": "relationships",
+        "theme": "commitment"
+      }
+    },
+    {
+      "id": "gen_app_03_06",
+      "chapter": 3,
+      "citation": "Genesis 3:6",
+      "verbatim_text": "And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.",
+      "plain_text": "When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.",
+      "real_world_function": {
+        "principle": "Deconstructing the anatomy of rationalization",
+        "takeaway": "Compromise almost always presents itself as harmless, appealing, and seemingly beneficial in the moment. Be wary when you find yourself rationalizing what you know violates your core boundaries.",
+        "action_prompt": "Notice where you are currently telling yourself 'just this once' or 'it doesn't hurt anyone' and pause."
+      },
+      "labels": {
+        "moment": ["temptation", "rationalization", "craving"],
+        "domain": "impulse_control",
+        "theme": "self_awareness"
+      }
+    },
+    {
+      "id": "gen_app_03_09",
+      "chapter": 3,
+      "citation": "Genesis 3:9",
+      "verbatim_text": "And the Lord God called unto Adam, and said unto him, Where art thou?",
+      "plain_text": "But the Lord God called to the man, 'Where are you?'",
+      "real_world_function": {
+        "principle": "Breaking avoidance through honest self-location",
+        "takeaway": "Hiding from mistakes never resolves them; it only deepens anxiety. The first step toward healing or progress is acknowledging honestly where you are standing right now.",
+        "action_prompt": "Answer the question 'Where am I really at?' with unflinching honesty on paper."
+      },
+      "labels": {
+        "moment": ["avoidance", "guilt", "hiding"],
+        "domain": "emotional_honesty",
+        "theme": "accountability"
+      }
+    },
+    {
+      "id": "gen_app_03_12",
+      "chapter": 3,
+      "citation": "Genesis 3:12",
+      "verbatim_text": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat.",
+      "plain_text": "The man said, 'The woman you put here with me — she gave me some fruit from the tree, and I ate it.'",
+      "real_world_function": {
+        "principle": "The victim mindset vs. radical ownership",
+        "takeaway": "Deflecting responsibility onto circumstances or other people surrenders your power to change. Owning your role in an outcome is the prerequisite for transformation.",
+        "action_prompt": "Take full responsibility for one recent misstep without attaching a single excuse or blaming another person."
+      },
+      "labels": {
+        "moment": ["blame", "defensiveness", "conflict"],
+        "domain": "ownership",
+        "theme": "integrity"
+      }
+    },
+    {
+      "id": "gen_app_04_07",
+      "chapter": 4,
+      "citation": "Genesis 4:7",
+      "verbatim_text": "If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.",
+      "plain_text": "If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.",
+      "real_world_function": {
+        "principle": "Early urge interception and self-mastery",
+        "takeaway": "Resentment and destructive impulses start as quiet promptings at the doorway of your mind. Intercepting and naming the urge early gives you the power to outlast it rather than submit to it.",
+        "action_prompt": "When anger or craving begins to surge, stop immediately and remind yourself: 'I have the ability to master this impulse.'"
+      },
+      "labels": {
+        "moment": ["resentment", "anger", "intense_craving"],
+        "domain": "emotional_regulation",
+        "theme": "self_mastery"
+      }
+    },
+    {
+      "id": "gen_app_04_09",
+      "chapter": 4,
+      "citation": "Genesis 4:9",
+      "verbatim_text": "And the Lord said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?",
+      "plain_text": "Then the Lord said to Cain, 'Where is your brother Abel?' 'I don't know,' he replied. 'Am I my brother's keeper?'",
+      "real_world_function": {
+        "principle": "Relational obligation and moral responsibility",
+        "takeaway": "We cannot disclaim responsibility for how our choices affect the people around us. Genuine maturity means caring about the well-being of our community.",
+        "action_prompt": "Check in on someone who may be struggling or impacted by your shared environment."
+      },
+      "labels": {
+        "moment": ["callousness", "indifference", "relational_breakdown"],
+        "domain": "empathy",
+        "theme": "community_care"
+      }
+    },
+    {
+      "id": "gen_app_05_24",
+      "chapter": 5,
+      "citation": "Genesis 5:24",
+      "verbatim_text": "And Enoch walked with God: and he was not; for God took him.",
+      "plain_text": "Enoch walked faithfully with God; then he was no more, because God took him away.",
+      "real_world_function": {
+        "principle": "Quiet consistency over dramatic spectacle",
+        "takeaway": "Lasting legacy is built through daily, sustained faithfulness over decades, not sporadic bursts of enthusiasm. Simple daily alignment produces profound endurance.",
+        "action_prompt": "Focus on executing your basic daily habits with quiet excellence rather than looking for a dramatic shortcut."
+      },
+      "labels": {
+        "moment": ["impatience", "routine_fatigue", "seeking_significance"],
+        "domain": "consistency",
+        "theme": "perseverance"
+      }
+    },
+    {
+      "id": "gen_app_06_09",
+      "chapter": 6,
+      "citation": "Genesis 6:9",
+      "verbatim_text": "These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.",
+      "plain_text": "This is the account of Noah: Noah was a righteous man, blameless among the people of his time, and he walked faithfully with God.",
+      "real_world_function": {
+        "principle": "Moral independence against prevailing trends",
+        "takeaway": "You do not have to adopt the dysfunction of your surrounding culture. It is possible to maintain ethical standards and clear boundaries even when everyone else is drifting.",
+        "action_prompt": "Stand firm on a core principle today even if it is unpopular or counter to the room's consensus."
+      },
+      "labels": {
+        "moment": ["peer_pressure", "moral_compromise", "cultural_drift"],
+        "domain": "ethics",
+        "theme": "integrity"
+      }
+    },
+    {
+      "id": "gen_app_06_22",
+      "chapter": 6,
+      "citation": "Genesis 6:22",
+      "verbatim_text": "Thus did Noah; according to all that God commanded him, so did he.",
+      "plain_text": "Noah did everything just as God commanded him.",
+      "real_world_function": {
+        "principle": "Complete execution on vital preparation",
+        "takeaway": "Preparing for future crises requires painstaking, unglamorous execution before any rain begins to fall. Partial compliance leaves critical vulnerabilities exposed.",
+        "action_prompt": "Complete the unfinished, detail-oriented task you have been putting off before pressure mounts."
+      },
+      "labels": {
+        "moment": ["procrastination", "preparation", "discipline"],
+        "domain": "execution",
+        "theme": "thoroughness"
+      }
+    },
+    {
+      "id": "gen_app_07_16",
+      "chapter": 7,
+      "citation": "Genesis 7:16",
+      "verbatim_text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the Lord shut him in.",
+      "plain_text": "The animals going in were male and female of every living thing, as God had commanded Noah. Then the Lord shut him in.",
+      "real_world_function": {
+        "principle": "Secure boundaries during the crisis",
+        "takeaway": "When you have done the work of preparation and entered a season of protection, accept the closed door. Trust the boundary that keeps you insulated from surrounding turmoil.",
+        "action_prompt": "Set a firm boundary against external chaos today and remain focused inside your circle of control."
+      },
+      "labels": {
+        "moment": ["crisis", "vulnerability", "seeking_security"],
+        "domain": "boundaries",
+        "theme": "protection"
+      }
+    },
+    {
+      "id": "gen_app_08_01",
+      "chapter": 8,
+      "citation": "Genesis 8:1",
+      "verbatim_text": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged.",
+      "plain_text": "But God remembered Noah and all the wild animals and the livestock that were with him in the ark, and he sent a wind over the earth, and the waters receded.",
+      "real_world_function": {
+        "principle": "Hope during long seasons of waiting",
+        "takeaway": "Being confined in a waiting room or uncertain transition does not mean you have been forgotten. The tide eventually turns through steady, invisible processes.",
+        "action_prompt": "Practice patient endurance today, trusting that your current plateau is preparing you for the next phase."
+      },
+      "labels": {
+        "moment": ["waiting", "discouragement", "uncertainty"],
+        "domain": "resilience",
+        "theme": "patience"
+      }
+    },
+    {
+      "id": "gen_app_08_22",
+      "chapter": 8,
+      "citation": "Genesis 8:22",
+      "verbatim_text": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
+      "plain_text": "As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease.",
+      "real_world_function": {
+        "principle": "Trusting natural rhythms and cumulative effort",
+        "takeaway": "Life operates on cycles of sowing and reaping. You cannot harvest what you have not planted, and growth requires honoring the necessary season of cultivation.",
+        "action_prompt": "Plant a constructive habit seed today without obsessing over whether you see an immediate harvest tomorrow."
+      },
+      "labels": {
+        "moment": ["anxiety_about_future", "seeking_quick_fixes", "patience"],
+        "domain": "habit_building",
+        "theme": "sowing_and_reaping"
+      }
+    },
+    {
+      "id": "gen_app_09_13",
+      "chapter": 9,
+      "citation": "Genesis 9:13",
+      "verbatim_text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.",
+      "plain_text": "I have set my rainbow in the clouds, and it will be the sign of the covenant between me and the earth.",
+      "real_world_function": {
+        "principle": "Tangible commitments and fresh starts",
+        "takeaway": "After major disruptions, establish explicit, visual reminders of hope and renewed commitments. Anchoring your mind on concrete promises restores forward vision.",
+        "action_prompt": "Establish a tangible reminder or commitment to mark a fresh start after a setback."
+      },
+      "labels": {
+        "moment": ["recovery_from_failure", "new_beginning", "hope"],
+        "domain": "restoration",
+        "theme": "covenant"
+      }
+    },
+    {
+      "id": "gen_app_09_23",
+      "chapter": 9,
+      "citation": "Genesis 9:23",
+      "verbatim_text": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness.",
+      "plain_text": "But Shem and Japheth took a garment and laid it across their shoulders; then they walked in backward and covered their father's naked body. Their faces were turned the other way so that they would not see their father's nakedness.",
+      "real_world_function": {
+        "principle": "Protecting dignity in moments of human weakness",
+        "takeaway": "When people close to you experience vulnerability or moral failure, choose constructive protection and restoration over gossip, exposure, and public shaming.",
+        "action_prompt": "Protect someone's dignity today by refusing to spread or dwell on an embarrassing error they made."
+      },
+      "labels": {
+        "moment": ["handling_others_mistakes", "gossip", "empathy"],
+        "domain": "relational_integrity",
+        "theme": "covering_weakness"
+      }
+    }
+  ]
+}

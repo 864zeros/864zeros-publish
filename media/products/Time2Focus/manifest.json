@@ -1,0 +1,40 @@
+{
+  "slug": "time2focus",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.412Z",
+  "type": "extension",
+  "name": "Time2Focus",
+  "summary": "A dead-simple focus timer that lives in your browser side panel. Name your focus, pick a time, stay on track. 100% local.",
+  "metaDescription": "A dead-simple focus timer that lives in your browser side panel. Name your focus, pick a time, stay on track. 100% local.",
+  "icon": "time2focus.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "time2focus-1.png",
+      "alt": "Time2Focus — name your focus and pick a preset timer in the side panel",
+      "cap": "Name your focus, pick a time — your intention stays visible while you work."
+    },
+    {
+      "img": "time2focus-2.png",
+      "alt": "Time2Focus — gentle completion alert with sound, color pulse, and optional notification",
+      "cap": "A gentle alert when time's up: soft sound, a slow color pulse, optional notification."
+    },
+    {
+      "img": "time2focus-3.png",
+      "alt": "Time2Focus — free and local, with an optional $2.99 lifetime Data Backup",
+      "cap": "Free, local, and yours. Optional $2.99 lifetime Data Backup — export stays on your device."
+    }
+  ],
+  "jsonld": {
+    "description": "A dead-simple ADHD-friendly focus timer that lives in the browser side panel. Name your focus, start a preset countdown, get a gentle local alert. Local-first, no tracking.",
+    "featureList": [
+      "Preset timers (5, 10, 25, 50 min)",
+      "Persistent focus-topic anchor",
+      "Reliable background countdown",
+      "Gentle sound, color-pulse, and optional notification alerts",
+      "Selectable alert sound and flash color",
+      "Optional $2.99 lifetime local Data Backup export/import"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "tuneout2focusin",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.423Z",
+  "type": "extension",
+  "name": "TuneOut2FocusIn",
+  "summary": "One-click background noise to mask distractions and focus. White, gray, brown noise + rain. 100% local, no accounts, no tracking.",
+  "metaDescription": "One-click background noise to mask distractions and focus. White, gray, brown noise + rain. 100% local, no accounts, no tracking.",
+  "icon": "tuneout2focusin.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "tuneout2focusin-1.png",
+      "alt": "TuneOut2FocusIn — one-click background noise in the Chrome side panel",
+      "cap": "One click. Predictable sound. Distractions masked."
+    },
+    {
+      "img": "tuneout2focusin-2.png",
+      "alt": "TuneOut2FocusIn — white, gray, brown noise and rain with a volume slider",
+      "cap": "Four sounds: white, gray, brown noise, and rain — with a volume slider."
+    },
+    {
+      "img": "tuneout2focusin-3.png",
+      "alt": "TuneOut2FocusIn — free and local, with an optional $2.99 Data Backup unlock",
+      "cap": "Free and local. Optional $2.99 unlock adds Data Backup."
+    }
+  ],
+  "jsonld": {
+    "description": "One-click background-noise player for the Chrome side panel — white, gray, brown noise, and rain to mask distractions and help you focus. Local-first, no tracking.",
+    "featureList": [
+      "White, gray, brown noise and rain",
+      "One-click start/stop toggle",
+      "Volume slider",
+      "Keeps playing across tabs and when the panel is closed",
+      "Local-first, no accounts, no tracking",
+      "Optional $2.99 Data Backup (export/import settings)"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variant": "shame",
+  "total_duration": 21.912041,
+  "scenes": [
+    {
+      "id": "shame_scene1_hook",
+      "start": 0.0,
+      "end": 6.576009,
+      "duration": 6.576009,
+      "text": "Why does every habit tracker make you feel like trash when you slip up? Miss one day, and they wipe your entire streak to zero."
+    },
+    {
+      "id": "shame_scene2_body",
+      "start": 6.576009,
+      "end": 15.168026999999999,
+      "duration": 8.592018,
+      "text": "ClearStreak is built on Data Over Shame. An off day resets today's count, but your milestones, past stretches, and personal bests stay permanent."
+    },
+    {
+      "id": "shame_scene3_cta",
+      "start": 15.168026999999999,
+      "end": 21.912041,
+      "duration": 6.744014,
+      "text": "Encrypted on your phone, no subscriptions. Break habits with dignity. Download ClearStreak on Google Play."
+    }
+  ]
+}

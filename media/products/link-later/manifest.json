@@ -1,0 +1,38 @@
+{
+  "slug": "link-later",
+  "category": "browser-extensions",
+  "pillar": "CMC",
+  "ingested_at": "2026-09-07T02:39:25.340Z",
+  "type": "extension",
+  "name": "LinkLater — local read-later with notes & tags",
+  "summary": "Save the page you're on to a local read-later list with notes & tags. Read later or export to Markdown. 100% local, no account.",
+  "metaDescription": "Save the page you're on to a local read-later list with notes & tags. Read later or export to Markdown. 100% local, no account.",
+  "icon": "link-later.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "link-later-1.png",
+      "alt": "LinkLater — save any page to a local read-later list",
+      "cap": "Read it later without a cloud account — save any page to a local list."
+    },
+    {
+      "img": "link-later-2.png",
+      "alt": "LinkLater — every save carries a note, tags, and read/unread status",
+      "cap": "Every save carries your context — a note, tags, read/unread, and search."
+    },
+    {
+      "img": "link-later-3.png",
+      "alt": "LinkLater — local and exportable to Markdown",
+      "cap": "Local, and yours. Export your whole list to Markdown."
+    }
+  ],
+  "jsonld": {
+    "description": "Save the page you're on to a local read-later list with notes & tags. Read later or export to Markdown. Local-first, no account.",
+    "featureList": [
+      "Local read-later list",
+      "Notes & tags",
+      "Search & filter",
+      "Markdown export"
+    ]
+  }
+}

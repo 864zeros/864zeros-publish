@@ -1,0 +1,41 @@
+{
+  "slug": "omniclip",
+  "category": "desktop-apps",
+  "pillar": "CMM",
+  "ingested_at": "2026-09-07T02:39:25.483Z",
+  "type": "desktop",
+  "name": "OmniClip — local AI video repurposing & viral shorts engine",
+  "summary": "Turn long-form video into viral 9:16 vertical shorts with face tracking and kinetic captions. 100% local video processing — your footage never leaves your machine.",
+  "metaDescription": "OmniClip is a privacy-first desktop app that repurposes long-form videos into vertical 9:16 shorts: word-level transcription, AI hook detection, smart face tracking, and animated kinetic subtitles.",
+  "icon": "omniclip.png",
+  "storeUrl": "",
+  "codeRepo": "jeff0926/supo-c1-p",
+  "shots": [
+    {
+      "img": "omniclip-1.png",
+      "alt": "OmniClip — drag-and-drop video repurposing dashboard",
+      "cap": "Ingest any long-form video. OmniClip extracts audio and pinpoints high-virality hooks."
+    },
+    {
+      "img": "omniclip-2.png",
+      "alt": "OmniClip — word-based clip trimmer and master player",
+      "cap": "Trim and re-cut clips simply by clicking words in the transcript. No timeline scrub required."
+    },
+    {
+      "img": "omniclip-3.png",
+      "alt": "OmniClip — automatic 9:16 reframing and kinetic caption styles",
+      "cap": "Auto-follow face tracking and single-pass FFmpeg kinetic captions ready for Reels, TikTok, and Shorts."
+    }
+  ],
+  "jsonld": {
+    "description": "Local-first AI video repurposing platform: word-level transcription, semantic hook curation, MediaPipe face-tracking reframe, and FFmpeg kinetic captions.",
+    "featureList": [
+      "Word-level audio transcription",
+      "AI viral hook detection & scoring",
+      "Face-tracking 9:16 auto-reframe",
+      "Kinetic animated subtitle burn-in",
+      "Batch variant style templates",
+      "100% local video processing"
+    ]
+  }
+}

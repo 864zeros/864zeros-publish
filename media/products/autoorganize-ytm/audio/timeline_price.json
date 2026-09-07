@@ -1,0 +1,30 @@
+{
+  "variant": "price",
+  "total_duration": 19.954014,
+  "scenes": [
+    {
+      "id": "price_scene1_hook",
+      "text": "Why are music organizers charging ten dollars every month just to sort your playlists?",
+      "duration": 5.08,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\price_scene1_hook.wav",
+      "start": 0.0,
+      "end": 5.08
+    },
+    {
+      "id": "price_scene2_privacy",
+      "text": "AutoOrganize runs locally in your browser. Real MusicBrainz genre tags, zero passwords uploaded, no subscriptions ever.",
+      "duration": 8.128005,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\price_scene2_privacy.wav",
+      "start": 5.08,
+      "end": 13.208005
+    },
+    {
+      "id": "price_scene3_cta",
+      "text": "Just two ninety-nine one-time forever. Create your first playlist free at eight sixty-four zeros dot com.",
+      "duration": 6.746009,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\price_scene3_cta.wav",
+      "start": 13.208005,
+      "end": 19.954014
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+file 'scene1_hook.wav'
+file 'scene2_intro.wav'
+file 'scene3_scan.wav'
+file 'scene4_split.wav'
+file 'scene5_create.wav'
+file 'scene6_pricing.wav'
+file 'scene7_cta.wav'

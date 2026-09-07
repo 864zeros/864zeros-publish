@@ -2,7 +2,7 @@
 
 Affirmations are the app's **universal, always-safe encouragement layer** — distinct from the
 moment-routed literature passages (`passages_core.json`) and the scripture verses
-(`clearStreak-daily-verse.json.json`). Two pillars, two files:
+(`clearStreak-daily-verse.json`). Two pillars, two files:
 
 - `affirmations_recovery.json` — secular, technique-aligned; derived from the 1939 Big Book (PD).
 - `affirmations_spiritual.json` — faith-centered; derived from the KJV Bible (PD).
@@ -36,7 +36,7 @@ light labels then — don't retrofit the whole set.)
   "source": { "book": "AA-1939", "chapter_id": "…", "chapter_title": "…",
               "page": 0, "paragraph_index": 0, "quote_stub": "first ~48 chars of original" } }
 
-// spiritual — source mirrors clearStreak-daily-verse.json.json
+// spiritual — source mirrors clearStreak-daily-verse.json
 { "id": "aff_spiritual_NNN", "text": "…", "pillar": "spiritual",
   "source": { "citation": "Book C:V", "verse_text": "exact KJV text" } }
 ```

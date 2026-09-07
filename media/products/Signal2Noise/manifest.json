@@ -1,0 +1,40 @@
+{
+  "slug": "signal2noise",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.397Z",
+  "type": "extension",
+  "name": "Signal2Noise — capture today's signal, quiet the noise",
+  "summary": "Capture up to 10 daily signals, mark 2–4 as priority, and see them in one pill. Copy or download anytime. 100% local.",
+  "metaDescription": "Capture up to 10 daily signals, mark 2–4 as priority, and see them in one pill. Copy or download anytime. 100% local.",
+  "icon": "signal2noise.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "signal2noise-1.png",
+      "alt": "Signal2Noise — capture today's signal in the side panel",
+      "cap": "What is today's signal? Capture it in the side panel."
+    },
+    {
+      "img": "signal2noise-2.png",
+      "alt": "Signal2Noise — mark 2 to 4 priorities that rise to the top as a pill",
+      "cap": "Mark 2–4 priorities — they rise to the top as one pill."
+    },
+    {
+      "img": "signal2noise-3.png",
+      "alt": "Signal2Noise — free, local, with copy, download, and backup",
+      "cap": "Free and local. Copy, download, or back up your signals."
+    }
+  ],
+  "jsonld": {
+    "description": "Capture up to 10 daily signal notes, mark 2–4 as priorities in a pill, and copy or download them. Local-first, built for ADHD focus.",
+    "featureList": [
+      "Capture up to 10 daily signals",
+      "Mark 2–4 priorities into a pill",
+      "Signal-to-noise ratio preference",
+      "Copy all to clipboard",
+      "Download signals to .txt",
+      "Optional $3.99 data backup unlock"
+    ]
+  }
+}

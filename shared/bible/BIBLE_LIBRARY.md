@@ -1,6 +1,6 @@
 # Bible Content Library — index & conventions
 
-**What this is:** a complete, public-domain **Bible key-verse library** produced by the `content/` factory
+**What this is:** a complete, public-domain **Bible key-verse library** curated for the 864zeros central content store
 for reuse across the whole 864zeros ecosystem (not tied to any one app). Every one of the 66 books is
 represented. Total: **834 records** across **63 files**.
 
@@ -34,7 +34,7 @@ Every scripture record is:
 ## Sourcing recipe (to add/verify verses)
 `curl https://api.getbible.net/v2/kjv/<n>.json` — n = book number 1–66 (Genesis=1 … Malachi=39,
 Matthew=40 … Revelation=66) — returns the whole book as clean JSON. Select verses locally; cross-check
-against `content/The-Holy-Bible-King-James-Version.pdf`. Note: `bible-api.com` rate-limits (~16/window) — prefer bulk getbible.
+against `sources/The-Holy-Bible-King-James-Version.pdf`. Note: `bible-api.com` rate-limits (~16/window) — prefer bulk getbible.
 
 ## Content-filter note
 Anthropic's API output filter (`400 Output blocked by content filtering policy`) can fire on Revelation's
@@ -91,5 +91,4 @@ assets at runtime** avoids it entirely.
 (Gospels = one verse per chapter; all other NT books = several key verses per chapter.)
 
 ---
-*Living index. Full session rationale: `SESSION_2026-08-21-bible-content.md` (repo root). Mission &
-constraints: memory `content-factory-mission.md`.*
+*Living index. Full historical session rationale: `IGNORE/SESSION_2026-08-31-content-history.md`. Content factory principles & constraints documented in `README.md` and `index.json`.*

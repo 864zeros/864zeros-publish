@@ -4,7 +4,8 @@
 #   - clinical_review.csv  : same data for spreadsheet review (blank decision columns)
 # Pulls the ORIGINAL 1939 text for each passage via its source provenance.
 
-$contentDir = "C:\dev\864zeros-publish\apps\clearstreak"
+$root = Split-Path $PSScriptRoot -Parent
+$contentDir = Join-Path $root "apps\clearstreak"
 $passages = Get-Content (Join-Path $contentDir "passages_core.json") -Raw -Encoding UTF8 | ConvertFrom-Json
 $book     = Get-Content (Join-Path $contentDir "big_book.json")      -Raw -Encoding UTF8 | ConvertFrom-Json
 

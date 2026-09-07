@@ -14,7 +14,29 @@ PRE_COMPACT_*.md
 # --- Temp / scratch ---
 _*.tmp
 _psalms_web.json
+media/**/temp*
+
+# --- Raw image inboxes & large camera RAW dropboxes ---
+sources/google_photos_inbox/*
+!sources/google_photos_inbox/.gitkeep
+sources/raw_writings_inbox/*
+!sources/raw_writings_inbox/.gitkeep
+*.CR3
+*.CR2
+*.tiff
+*.tif
+*.HEIC
 
 # --- OS / editor junk ---
 Thumbs.db
 .DS_Store
+
+# --- Environment & Secrets ---
+.env
+.env.local
+.env.*
+
+# --- Large AI Model Weights & Training Archives (>100MB) ---
+media/visuals/lora_weights/*.safetensors
+media/visuals/training_pools/*.zip
+*.safetensors

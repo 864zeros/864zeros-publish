@@ -1,0 +1,3 @@
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/shame_scene1_hook.wav'
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/shame_scene2_body.wav'
+file 'C:/dev/864zeros-publish/media/products/clearstreak/stage/../audio/shame_scene3_cta.wav'

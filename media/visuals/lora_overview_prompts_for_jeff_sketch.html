@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>864zeros Media House — LoRA Style &amp; Prompt Engineering Guide (jeff_sketch style)</title>
+<style>
+  :root {
+    --bg: #f7f6f2; --panel: #ffffff; --ink: #1e2229; --muted: #626a73; --line: #e3ded6;
+    --accent: #2e6245; --accent-light: #eaf2ec; --accent-dark: #1b3d2b;
+    --gold: #b38600; --gold-soft: #fef8e7; --code-bg: #1c2128; --code-ink: #adbac7;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6; -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1150px; margin: 0 auto; padding: 40px 24px 100px; }
+  
+  header { margin-bottom: 40px; border-bottom: 1px solid var(--line); padding-bottom: 24px; }
+  .tag { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; color: var(--accent); }
+  h1 { font-size: 32px; font-weight: 800; margin: 6px 0 10px; color: var(--ink); }
+  .lead { font-size: 16px; color: var(--muted); max-width: 850px; margin: 0; }
+  
+  .meta-bar {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px;
+    margin-top: 24px; padding: 18px 22px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+  }
+  .meta-item .num { font-size: 18px; font-weight: 700; color: var(--accent-dark); }
+  .meta-item .lbl { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+
+  h2 { font-size: 22px; font-weight: 700; margin: 52px 0 18px; border-bottom: 2px solid var(--accent); padding-bottom: 6px; display: flex; align-items: center; justify-content: space-between; }
+  h3 { font-size: 18px; font-weight: 700; margin: 24px 0 10px; }
+  p { margin: 0 0 16px; font-size: 15px; }
+
+  /* Grid Layouts */
+  .preset-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px; margin: 24px 0 36px; }
+  .preset-card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; box-shadow: 0 2px 8px rgba(0,0,0,0.03); }
+  .preset-img-wrap { width: 100%; height: 380px; background: #fff; overflow: hidden; border-bottom: 1px solid var(--line); display: flex; align-items: center; justify-content: center; }
+  .preset-img-wrap img { width: 100%; height: 100%; object-fit: contain; }
+  .preset-body { padding: 22px; flex: 1; display: flex; flex-direction: column; }
+  
+  .preset-badge { display: inline-block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; padding: 3px 10px; border-radius: 999px; margin-bottom: 10px; width: fit-content; }
+  .badge-low { background: #eef7ee; color: #2e7d32; }
+  .badge-med { background: #eef3fc; color: #1565c0; }
+  .badge-high { background: #fdf2e9; color: #d84315; }
+  .badge-color { background: #fdf0f8; color: #ad1457; }
+  .badge-spot { background: #fff8e1; color: #b78103; }
+  .badge-orig { background: #f3e5f5; color: #6a1b9a; }
+  
+  .preset-title { font-size: 18px; font-weight: 700; margin: 0 0 8px; }
+  .preset-desc { font-size: 13.5px; color: var(--muted); margin-bottom: 14px; }
+  .prompt-box { background: var(--code-bg); color: var(--code-ink); padding: 12px 14px; border-radius: 6px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; line-height: 1.5; margin-top: auto; word-break: break-word; }
+
+  /* Comparison Side by Side */
+  .comparison-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin: 24px 0 36px; }
+  .comp-col { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; }
+  .comp-col .img-box { height: 440px; background: #faf9f6; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--line); overflow: hidden; }
+  .comp-col .img-box img { width: 100%; height: 100%; object-fit: contain; }
+  .comp-col .info { padding: 18px 20px; flex: 1; display: flex; flex-direction: column; }
+  .comp-col .info h4 { margin: 0 0 6px; font-size: 16px; font-weight: 700; }
+  .comp-col .info p { margin: 0; font-size: 13.5px; color: var(--muted); }
+
+  /* Parameter Tables */
+  .table-wrap { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; margin: 20px 0 36px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th { background: #faf9f6; text-align: left; padding: 12px 16px; font-weight: 700; border-bottom: 1px solid var(--line); font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+  td { padding: 14px 16px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr:last-child td { border-bottom: 0; }
+  .code-token { background: #f0eee6; padding: 2px 6px; border-radius: 4px; font-family: monospace; font-size: 12.5px; color: var(--accent-dark); font-weight: 600; }
+  .neg-token { background: #fde8e8; padding: 2px 6px; border-radius: 4px; font-family: monospace; font-size: 12.5px; color: #c53030; }
+
+  .callout { background: var(--accent-light); border-left: 4px solid var(--accent); padding: 16px 20px; border-radius: 0 8px 8px 0; margin: 24px 0; }
+  .callout h4 { margin: 0 0 6px; font-size: 15px; color: var(--accent-dark); }
+  .callout p { margin: 0; font-size: 14px; color: #2c4435; }
+
+  /* 4-col Gallery Grid for Samples */
+  .gallery-grid-4 { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; margin: 20px 0 32px; }
+  .gallery-card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; }
+  .gallery-img-box { height: 260px; background: #fff; display: flex; align-items: center; justify-content: center; border-bottom: 1px solid var(--line); overflow: hidden; padding: 10px; }
+  .gallery-img-box img { max-width: 100%; max-height: 100%; object-fit: contain; }
+  .gallery-info { padding: 14px 16px; flex: 1; display: flex; flex-direction: column; }
+  .gallery-info h5 { margin: 0 0 4px; font-size: 14px; font-weight: 700; color: var(--ink); }
+  .gallery-info p { margin: 0; font-size: 12.5px; color: var(--muted); }
+
+  footer { margin-top: 60px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 13px; color: var(--muted); text-align: center; }
+
+  @media (max-width: 768px) {
+    .comparison-grid { grid-template-columns: 1fr; }
+    .comp-col .img-box { height: 320px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="tag">864zeros Media House · Technical Reference</div>
+    <h1>LoRA Style &amp; Prompt Control Guide</h1>
+    <p class="lead">Complete operational manual for generating custom artwork with the <b><code>jeff_sketch style</code></b> LoRA model weight. Covers density calibration, photo-to-sketch transformation, original drawing colorization, and exact prompt vocabulary.</p>
+    
+    <div class="meta-bar">
+      <div class="meta-item">
+        <div class="num">864z_jeff_sketch_v1</div>
+        <div class="lbl">Trained Model (.safetensors)</div>
+      </div>
+      <div class="meta-item">
+        <div class="num">jeff_sketch style</div>
+        <div class="lbl">Mandatory Trigger Word</div>
+      </div>
+      <div class="meta-item">
+        <div class="num">136 Curated Artworks</div>
+        <div class="lbl">Training Pool Volume</div>
+      </div>
+      <div class="meta-item">
+        <div class="num">SDXL 1.0 (1024×1024)</div>
+        <div class="lbl">Base Model Architecture</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ======================= LINE ARCHITECTURE & MASTER BLUEPRINT ======================= -->
+  <h2>Signature Master Blueprint: Geometric Coif &amp; Stark Minimal Line Art</h2>
+
+  <div class="callout" style="background:#fdfaf3; border-left-color:#b8860b;">
+    <h4 style="color:#7a5800;">The Exact Signature Style Definition:</h4>
+    <p style="font-size:15px; color:#3d331a; line-height:1.7;">
+      <b>"A minimalist line-art illustration of a [SUBJECT] against a pure white background. The features of the central subject are stark white, defined only by clean, minimal black outlines and solid black features, with zero shading or grey tones. A massive, elaborate coif or head-piece is formed by interwoven, interlocking, zig-zagging geometric bands or ribbons. These bands are filled with flat, solid, unshaded colors of red, blue, green, and yellow. There are no outlines on the interior colored shapes. The entire image is high-contrast, clean, and flat-design."</b>
+    </p>
+  </div>
+
+  <div class="comparison-grid" style="margin-top:20px;">
+    <div class="comp-col">
+      <div class="img-box">
+        <img src="rendered_art/test_jeff_geometric_coif.jpg" alt="Master Signature Blueprint: Geometric Coif" />
+      </div>
+      <div class="info">
+        <span class="preset-badge badge-spot" style="margin-bottom:8px;">Signature Master Blueprint</span>
+        <h4>Interlocking Geometric Coif &amp; Stark White Line Art</h4>
+        <p style="margin-bottom:12px;">Stark white facial features with zero gray tones, crowned with flat-color interlocking geometric ribbon bands (red, blue, green, yellow) with no interior outlines.</p>
+        <div class="prompt-box">
+          <b>Master Prompt:</b> jeff_sketch style, A minimalist line-art illustration of a contemplative figure against a pure white background. The features of the central subject are stark white, defined only by clean, minimal black outlines and solid black features, with zero shading or grey tones. A massive, elaborate coif or head-piece is formed by interwoven, interlocking, zig-zagging geometric bands or ribbons. These bands are filled with flat, solid, unshaded colors of red, blue, green, and yellow. There are no outlines on the interior colored shapes. The entire image is high-contrast, clean, and flat-design.
+        </div>
+      </div>
+    </div>
+
+    <div class="comp-col">
+      <div class="img-box">
+        <img src="rendered_art/test_line_style_directional_hatch.jpg" alt="Disciplined Directional Hatching" />
+      </div>
+      <div class="info">
+        <span class="preset-badge badge-orig" style="margin-bottom:8px;">Hatching &amp; Landscape Blueprint</span>
+        <h4>Disciplined Directional Parallel Hatching</h4>
+        <p style="margin-bottom:12px;">Sharp draftsmanship with clean parallel hatching reserved strictly for shadow planes, crisp white lit surfaces, and zero muddy smudging.</p>
+        <div class="prompt-box">
+          <b>Master Prompt:</b> jeff_sketch style, solitary mountain peak and pine trees, clean black ink linework, disciplined directional parallel hatching, selective shadow planes, stark contrast, sharp draftsmanship, crisp white paper background, no muddy smudge or photorealistic shading
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PART 1 -->
+  <h3>1. Line Weight, Thickness Modulation &amp; Stroke Dynamics</h3>
+  <p>The authentic <b><code>jeff_sketch style</code></b> is defined by its <b>mark-making methodology</b>:</p>
+
+  <div class="callout" style="background:#f4f9f5; border-left-color:#2e6245;">
+    <p>
+      <b>1. Line Hierarchy &amp; Thickness Modulation:</b><br>
+      • <i>Primary Boundary Contours (Bold / Heavy):</i> Thick, confident black ink strokes that ground the silhouette and define primary structural boundaries.<br>
+      • <i>Internal Structural Lines (Medium):</i> Fluid, unbroken single-stroke paths defining internal planes without over-drawing.<br>
+      • <i>Hairline Accents (Fine / Delicate):</i> Extremely sparse, light pen marks used strictly where necessary.<br><br>
+
+      <b>2. Line Economy ("Less is More"):</b> Forms are resolved with the absolute minimum number of strokes needed. Unbroken, sweeping continuous contours with decisive angles and organic transitions replace cluttered scratching.<br><br>
+
+      <b>3. Negative Space as Active Form:</b> Stark, clean, unshaded white paper. Unfilled white space carries equal compositional weight as the black ink marks.<br><br>
+
+      <b>4. Hatching &amp; Shadowing Discipline:</b><br>
+      • <i>Directional Parallel Hatching:</i> Clean, evenly spaced parallel linework for shadow planes—never smudged, smeared, or blended into photorealistic graphite gradients.<br>
+      • <i>Solid Black Blocking:</i> High-contrast flat black fill blocks placed strategically for structural anchor and graphic punch.<br>
+      • <i>Unshaded Planes:</i> Lit surfaces and primary feature planes remain pristine white paper with zero internal cross-hatching.
+    </p>
+  </div>
+
+  <p style="font-size:13.5px; color:var(--muted); margin-top:16px;"><b>Corpus Training Pool References (Examining Stroke &amp; Color Dynamics):</b></p>
+  <div class="gallery-grid-4">
+    <!-- Sample 1 -->
+    <div class="gallery-card">
+      <div class="gallery-img-box">
+        <img src="training_pools/sketches/018c2e0d-4ccc-4728-8b18-4aaf91f3bf62.jpg" alt="Contour Flow vs Scribble Dynamics" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-orig" style="margin-bottom:6px;">Original Sketch</span>
+        <h5>Contour Flow vs. Energetic Line</h5>
+        <p>Juxtaposition of clean single-stroke outer contour with high-velocity expressive scribble linework.</p>
+      </div>
+    </div>
+
+    <!-- Sample 2 -->
+    <div class="gallery-card">
+      <div class="gallery-img-box">
+        <img src="training_pools/sketches/20190203_095926.jpg" alt="Continuous Line & Solid Blocking" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-orig" style="margin-bottom:6px;">Original Sketch</span>
+        <h5>Continuous Line &amp; Solid Blocks</h5>
+        <p>Heavy black boundary strokes, unbroken continuous line flow, and flat black geometric contrast blocks.</p>
+      </div>
+    </div>
+
+    <!-- Sample 3 -->
+    <div class="gallery-card">
+      <div class="gallery-img-box">
+        <img src="training_pools/sketches/1aeea58f-31fe-426a-8361-48f80a8d43d0.jpg" alt="High Line Economy" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-orig" style="margin-bottom:6px;">Original Sketch</span>
+        <h5>Extreme Line Economy</h5>
+        <p>Sweeping fluid contours, minimalist single-line features, and 85%+ untouched clean white paper.</p>
+      </div>
+    </div>
+
+    <!-- Sample 4 -->
+    <div class="gallery-card">
+      <div class="gallery-img-box">
+        <img src="training_pools/sketches/20191225_185517.jpg" alt="Directional Hatching" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-orig" style="margin-bottom:6px;">Original Sketch</span>
+        <h5>Directional Parallel Hatching</h5>
+        <p>Selective parallel pencil hatching used strictly on shadow planes while primary forms remain pristine white.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- PART 2 -->
+  <h3>2. Prompt Engineering Vocabulary: Mark-Making &amp; Line Control</h3>
+  <p>To control the line architecture across any subject (objects, nature, architecture, figures), use these line-specific positive and negative keyword sets:</p>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th style="width:25%;">Category</th>
+          <th style="width:75%;">Recommended Token Set</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>Line &amp; Stroke Tokens (Positive)</b></td>
+          <td>
+            <span class="code-token">bold clean black ink contour lines</span>
+            <span class="code-token">stark white features</span>
+            <span class="code-token">zero shading or grey tones</span>
+            <span class="code-token">solid black features</span>
+            <span class="code-token">interwoven interlocking zig-zagging geometric bands</span>
+            <span class="code-token">flat solid unshaded colors of red blue green and yellow</span>
+            <span class="code-token">no outlines on interior colored shapes</span>
+            <span class="code-token">disciplined directional parallel hatching</span>
+            <span class="code-token">pure white negative space</span>
+            <span class="code-token">high contrast flat-design line art</span>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Mark-Making Errors to Suppress (Negative)</b></td>
+          <td>
+            <span class="neg-token">photorealistic 3D shading</span>
+            <span class="neg-token">blended graphite smudging</span>
+            <span class="neg-token">grey gradients</span>
+            <span class="neg-token">muddy tones</span>
+            <span class="neg-token">hyper-dense cross-hatching across lit surfaces</span>
+            <span class="neg-token">clutter</span>
+            <span class="neg-token">micro-stippling</span>
+            <span class="neg-token">comic book muscular anatomy</span>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- PART 3 -->
+  <h3>3. Subject-Agnostic Line &amp; Hatching Formulas</h3>
+  <p>Apply these formulas to <b>any subject</b> by inserting your desired subject or metaphor into the prompt:</p>
+
+  <div class="preset-grid">
+    <!-- FORMULA 1 -->
+    <div class="preset-card">
+      <div class="preset-img-wrap">
+        <img src="rendered_art/test_line_style_contour_waves.jpg" alt="Formula 1: Ultra-Minimal Continuous Contour" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-low">Formula 1 · Pure Line Economy</span>
+        <div class="preset-title">Ultra-Minimal Continuous Contour</div>
+        <div class="preset-desc">Continuous ink contour flow, stark unshaded white planes, zero interior cross-hatching, and vast negative space. Ideal for organic motion, water, winds, and minimalist forms.</div>
+        <div class="prompt-box">
+          <b>Template:</b> jeff_sketch style, [YOUR SUBJECT HERE], bold clean black ink contour lines, strict line economy with very few strokes, continuous single-line drawing flow, unshaded white planes with zero internal cross-hatching, vast clean negative space, high contrast, modernist fine art ink illustration on pure white background
+        </div>
+      </div>
+    </div>
+
+    <!-- FORMULA 2 -->
+    <div class="preset-card">
+      <div class="preset-img-wrap">
+        <img src="rendered_art/test_line_style_graphic_arch.jpg" alt="Formula 2: Graphic High-Contrast & Solid Black Blocking" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-med">Formula 2 · Graphic Contrast</span>
+        <div class="preset-title">Bold Contours &amp; Solid Black Blocks</div>
+        <div class="preset-desc">Crisp angular and curved line intersections paired with strategic flat black fill blocks for deep structural contrast. Ideal for architecture, gates, tools, and monuments.</div>
+        <div class="prompt-box">
+          <b>Template:</b> jeff_sketch style, [YOUR SUBJECT HERE], bold graphic black contour lines, strategic solid black fill blocks, crisp angular and curved line intersections, clean unshaded negative white space, high contrast minimalist ink drawing
+        </div>
+      </div>
+    </div>
+
+    <!-- FORMULA 3 -->
+    <div class="preset-card">
+      <div class="preset-img-wrap">
+        <img src="rendered_art/test_line_style_directional_hatch.jpg" alt="Formula 3: Directional Parallel Hatching" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-orig">Formula 3 · Directional Hatching</span>
+        <div class="preset-title">Disciplined Parallel Shadow Hatching</div>
+        <div class="preset-desc">Clean linework accented with disciplined, one-directional parallel hatching strictly on shadow planes. Sharp draftsmanship without muddy blending. Ideal for landscapes, cliffs, and trees.</div>
+        <div class="prompt-box">
+          <b>Template:</b> jeff_sketch style, [YOUR SUBJECT HERE], clean black ink linework, disciplined directional parallel hatching, selective shadow planes, stark contrast, sharp draftsmanship, crisp white paper background, no muddy smudge or photorealistic shading
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PART 4: VISUAL-DAGR ARCHITECTURE & 4-PASS PROGRESSION -->
+  <h3>4. Visual-DAGR Architecture (Distillation &middot; Augment &middot; Generation &middot; Review/Refine)</h3>
+  <p>To eliminate single-pass AI prompt compression and achieve 100% reproducible authentic line economy across any foundation model, we operationalize the <b>DAGR runtime architecture</b> from the AETHER/AEC specification (<code>S06_DAGR_METHOD.md</code>) for visual media generation:</p>
+
+  <div class="callout" style="background:#f0f7f4; border-left-color:#2e6245; margin-bottom:20px;">
+    <h4 style="color:#1b4d32;">Visual-DAGR Stage-by-Stage Operational Map</h4>
+    <p style="color:#22382c; font-size:14.5px; line-height:1.7;">
+      <b>1. Distill (Deterministic &middot; &lt;0.1ms):</b> Extracts core structure from source lesson JSON (behavioral intent, physical metaphor, anchor entities, format constraints) without LLM calls.<br>
+      <b>2. Augment (Mechanical Grammar &amp; Staging):</b> Injects mark-making rules (fountain pen ink, zero shading, 40% asymmetric line weight), negative suppression tokens, and multi-tier spatial depth staging.<br>
+      <b>3. Generate (Base Structural Canvas):</b> Executes the single generative call to establish subject silhouette and composition (Pass 1).<br>
+      <b>4. Review / Refine (Accountability &amp; Distillation Loops):</b> Chains deterministic image-to-image refinement passes to strip interior clutter (Loop A) and calibrate line-weight asymmetry (Loop B).
+    </p>
+  </div>
+
+  <div class="callout" style="background:#eef4fb; border-left-color:#1565c0; margin-bottom:20px;">
+    <h4 style="color:#0d47a1;">Universal Model Portability:</h4>
+    <p style="color:#1b3d68;">
+      A fresh foundation model session (e.g. Gemini outside this local environment) does not inherently know the fine-tuned token <code>jeff_sketch style</code>. This Visual-DAGR sequence relies purely on <b>explicit mechanical line physics</b>, ensuring 100% reproducible results on any AI model.
+    </p>
+  </div>
+
+  <div class="gallery-grid-4">
+    <!-- Pass 1: DAGR Generation (Base Composition) -->
+    <div class="gallery-card">
+      <div class="gallery-img-box" style="height:220px;">
+        <img src="rendered_art/test-1.jpg" alt="Pass 1: Initial Subject Draft" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low" style="margin-bottom:6px;">Stage 3 · Generation</span>
+        <h5>1. Base Composition</h5>
+        <p style="margin-bottom:8px;">Establishes main subject and foreground anchor with clean fountain pen strokes.</p>
+        <div class="prompt-box" style="font-size:11px; padding:8px 10px;">
+          <b>Prompt:</b> [jeff_sketch style,] an impressionistic minimalist pen and ink illustration of [SUBJECT] on a pure stark white background. Extreme economy of line executed with fluid black fountain pen strokes. Zero shading, zero cross-hatching, no gray tones, no color, and vast clean negative space.
+        </div>
+      </div>
+    </div>
+
+    <!-- Pass 2: DAGR Augment (Environmental Depth) -->
+    <div class="gallery-card">
+      <div class="gallery-img-box" style="height:220px;">
+        <img src="rendered_art/test-1-2.jpg" alt="Pass 2: Staging & Depth Expansion" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-med" style="margin-bottom:6px;">Stage 2 · Staging Augment</span>
+        <h5>2. Environmental Depth</h5>
+        <p style="margin-bottom:8px;">Introduces multi-tiered background landscape elements while strictly forbidding shading.</p>
+        <div class="prompt-box" style="font-size:11px; padding:8px 10px;">
+          <b>Prompt:</b> add a 2 level depth hill and mountain range into the middle and background using the same exact styling. NO shading!
+        </div>
+      </div>
+    </div>
+
+    <!-- Pass 3: DAGR Review Loop A (Radical Clutter Strip) -->
+    <div class="gallery-card">
+      <div class="gallery-img-box" style="height:220px;">
+        <img src="rendered_art/test-2-3.jpg" alt="Pass 3: Radical Line Reduction" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-high" style="margin-bottom:6px;">Stage 4 · Review Loop A</span>
+        <h5>3. Strip Interior Lines</h5>
+        <p style="margin-bottom:8px;">Carves away micro-hatching and interior clutter, locking down pure perimeter contours.</p>
+        <div class="prompt-box" style="font-size:11px; padding:8px 10px;">
+          <b>Prompt:</b> remove all interior lines - meaning only keep the darker thicker black ink lines.
+        </div>
+      </div>
+    </div>
+
+    <!-- Pass 4: DAGR Review Loop B (Asymmetric Line Weight Calibration) -->
+    <div class="gallery-card">
+      <div class="gallery-img-box" style="height:220px;">
+        <img src="rendered_art/test-3-4.jpg" alt="Pass 4: Master Line-Weight Asymmetry" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-orig" style="margin-bottom:6px;">Stage 4 · Review Loop B</span>
+        <h5>4. Line Weight Asymmetry</h5>
+        <p style="margin-bottom:8px;">Selectively thins secondary lines by 50% to produce natural calligraphic hand variation.</p>
+        <div class="prompt-box" style="font-size:11px; padding:8px 10px;">
+          <b>Prompt:</b> now make 40% of the lines 50% thinner. select what lines to affect randomly.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- COMPANION GALLERY: 3-STEP LANDSCAPE PROCEDURAL STYLING -->
+  <h4 style="margin-top:28px; margin-bottom:10px; color:#2c3e50;">3-Step Landscape Procedural Line-Styling Chain</h4>
+  <p style="font-size:14px; color:var(--muted); margin-bottom:16px;">
+    Demonstrating the exact 3-step Review/Refine sequence applied to natural landscape forms (mountain &amp; pine trees), transforming dense graphite sketches into calligraphic ink masters:
+  </p>
+
+  <div class="preset-grid">
+    <!-- Step 1 -->
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:210px;">
+        <img src="rendered_art/step 1.jpg" alt="Step 1: Strip Interior Lines" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-low">Step 1 · Interior Line Strip</span>
+        <div class="preset-title">1. Pure Boundary Contours</div>
+        <div class="preset-desc">Eliminates all cross-hatching, mountain shading, and bark scribbles down to clean outer contours.</div>
+        <div class="prompt-box">
+          <b>Prompt:</b> remove all interior lines from the attached image on a pure stark white background. NO shading, zero color, zero gray tones!
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 2 -->
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:210px;">
+        <img src="rendered_art/step 2.jpg" alt="Step 2: 40% Thinner Lines" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-med">Step 2 · Secondary Thinning</span>
+        <div class="preset-title">2. 40% Lines 50% Thinner</div>
+        <div class="preset-desc">Selectively thins secondary ridges, ground slopes, and inner pine branches for aerial depth.</div>
+        <div class="prompt-box">
+          <b>Prompt:</b> Make 40% of the lines 50% thinner to complete the procedural styling steps. Keep lines clean and sharp on pure white paper.
+        </div>
+      </div>
+    </div>
+
+    <!-- Step 3 -->
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:210px;">
+        <img src="rendered_art/step 3.jpg" alt="Step 3: 60% Thicker Outer Silhouette" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-orig">Step 3 · Calligraphic Weight</span>
+        <div class="preset-title">3. Bold 60% Silhouette Weight</div>
+        <div class="preset-desc">Applies heavy fountain pen deposit to primary mountain peaks, trunk bases, and foreground ledge contours.</div>
+        <div class="prompt-box">
+          <b>Prompt:</b> Thicken specific outer silhouette strokes for 60% of the image using a black fountain pen tip and strokes &rarr; randomly select which lines to give the outline a bolder calligraphic weight on pure white paper.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PART 5: UNIVERSAL RASTER-TO-INK HUMANIZER ENGINE -->
+  <h3>5. Universal Raster-to-Ink "Humanizer" Stylization Engine (The Imperfection Engine)</h3>
+  <p>To convert <b>any base raster image</b> (photo, 3D render, structural sketch, or base AI generation) into an authentic hand-drawn fountain pen illustration, we execute this universal single-pass distillation prompt:</p>
+
+  <div class="callout" style="background:#fefbf3; border-left-color:#c98a2c; margin-bottom:20px;">
+    <h4 style="color:#8a560c;">The Universal Humanizer Prompt:</h4>
+    <p style="font-size:14.5px; color:#3d2807; line-height:1.7;">
+      <b>"minimalist, hand-drawn black fountain pen illustration on a stark white canvas. Use variable line weights with expressive, imperfect calligraphic strokes to give it a raw, human-drawn quality. Simplify the [SUBJECT/PORTRAIT] by removing 75% of the detailed interior linework, leaving a clean silhouette with stylized features. randomly select 20% of the black ink lines and increase their thickness by 30%. Ensure the final canvas is perfectly clean with no ink splatters, splotches, or background textures. Increase the imperfection and skew the entire canvas to make the entire drawing look fully hand-inked. Imperfection is key."</b>
+    </p>
+  </div>
+
+  <div class="comparison-grid">
+    <div class="comp-col">
+      <div class="img-box">
+        <img src="rendered_art/test_universal_hand_inked_portrait.jpg" alt="Universal Stylizer: Portrait Test" />
+      </div>
+      <div class="info">
+        <span class="preset-badge badge-orig" style="margin-bottom:8px;">Humanizer Engine · Portrait</span>
+        <h4>Hand-Inked Human Portrait</h4>
+        <p style="margin-bottom:12px;">75% interior lines stripped, +30% thickness on 20% random contours, subtle organic canvas skew, zero gray smudging, and raw fountain pen line imperfection.</p>
+      </div>
+    </div>
+
+    <div class="comp-col">
+      <div class="img-box">
+        <img src="rendered_art/test_universal_hand_inked_waves.jpg" alt="Universal Stylizer: Wave Landscape Test" />
+      </div>
+      <div class="info">
+        <span class="preset-badge badge-med" style="margin-bottom:8px;">Humanizer Engine · Wave Dynamic</span>
+        <h4>Minimalist Wave Contours</h4>
+        <p style="margin-bottom:12px;">Applied to dynamic marine landscape: isolates primary perimeter wave crests while stripping interior water texture and maintaining pure stark white paper.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======================= 1. DENSITY CALIBRATION PRESETS ======================= -->
+  <h2>1. Density Calibration Presets</h2>
+  <p>Our core test case is <b>Genesis 1:3</b> (<i>"Speak order and light into chaotic situations"</i>). Depending on the publishing medium (mobile UI headers, print book chapters, or dramatic video reels), we calibrate line density and cross-hatching across three primary presets:</p>
+
+  <div class="preset-grid">
+    <!-- PRESET 1: LOW DENSITY -->
+    <div class="preset-card">
+      <div class="preset-img-wrap">
+        <img src="rendered_art/genesis_light_clean_density1.jpg" alt="Low Density Preset" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-low">Preset 1 · Low Density</span>
+        <div class="preset-title">Minimalist &amp; Open Space</div>
+        <div class="preset-desc">Airy, delicate contour lines, light pencil pressure, sparse hatching, with 70%+ clean white paper background. Ideal for mobile app headers, poem page backgrounds, and clean modern UI.</div>
+        <div class="prompt-box">
+          <b>Positive Tokens:</b> jeff_sketch style, minimalist open-space sketch, delicate contour linework, sparse light cross-hatching, airy composition, ample white negative paper space, light pencil pressure.<br><br>
+          <b>Negative Tokens:</b> dense cross-hatching, heavy scribbles, overworked lines, dark shading, clutter.
+        </div>
+      </div>
+    </div>
+
+    <!-- PRESET 2: BALANCED DENSITY -->
+    <div class="preset-card">
+      <div class="preset-img-wrap">
+        <img src="rendered_art/genesis_light_clean_density2.jpg" alt="Balanced Medium Density Preset" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-med">Preset 2 · Balanced Medium</span>
+        <div class="preset-title">Refined Narrative Line</div>
+        <div class="preset-desc">Crisp anatomical/environmental outlines, controlled cross-hatching focused strictly on shadow edges, balanced paper space. Ideal for 66-book study cards, print chapters, and book illustrations.</div>
+        <div class="prompt-box">
+          <b>Positive Tokens:</b> jeff_sketch style, clean graphite study, sharp distinct contour outlines, refined draftsmanship, delicate cross-hatching on shadow accents only, uncluttered paper space.<br><br>
+          <b>Negative Tokens:</b> pitch black, muddy shading, chaotic scribbles, over-rendered.
+        </div>
+      </div>
+    </div>
+
+    <!-- PRESET 3: HIGH DENSITY -->
+    <div class="preset-card">
+      <div class="preset-img-wrap">
+        <img src="rendered_art/genesis_light_var3.jpg" alt="Dramatic High Density Preset" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-high">Preset 3 · High Density</span>
+        <div class="preset-title">Dramatic Chiaroscuro</div>
+        <div class="preset-desc">Deep velvety graphite blacks, multi-layered cross-hatching, intense tonal contrast, dynamic storm clouds and valleys. Ideal for dramatic narrative climaxes, grief/crisis poetry, and intense reels.</div>
+        <div class="prompt-box">
+          <b>Positive Tokens:</b> jeff_sketch style, expressive chiaroscuro graphite sketch, layered heavy cross-hatching, deep dark graphite values, rich tonal shadow gradients, dramatic high contrast.<br><br>
+          <b>Negative Tokens:</b> washed out, flat lighting, digital vector, cartoon.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======================= 2. PHOTO-TO-SKETCH TRANSFORMATION ======================= -->
+  <h2>2. Photo-to-Sketch (Img2Img) Transformation</h2>
+  <p>You can drop any reference photo (landscape, portrait, architecture, or object) into <code>media/photography/references/</code> and convert it into a 100% hand-drawn <code>jeff_sketch style</code> drawing while preserving the original composition:</p>
+
+  <div class="comparison-grid">
+    <div class="comp-col">
+      <div class="img-box">
+        <img src="../photography/references/istockphoto-1389125093-612x612.jpg" alt="Original Stock Photo" />
+      </div>
+      <div class="info">
+        <h4>Source Photo Reference</h4>
+        <p>Original aerial photograph of a winding country road through rolling green hills toward a morning sunrise.</p>
+      </div>
+    </div>
+    <div class="comp-col">
+      <div class="img-box">
+        <img src="rendered_art/winding_road_sketch.jpg" alt="Transformed Sketch" />
+      </div>
+      <div class="info">
+        <h4>Transformed Hand-Drawn Sketch (<code>jeff_sketch style</code>)</h4>
+        <p>Exact geometry preserved: wooden fence contours, rolling hill slopes translated into graphite cross-hatching, radiating pencil sunbeams, and swirling cloud draftsmanship.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======================= 3. COLORIZATION OF ORIGINAL DRAWINGS ======================= -->
+  <h2>3. Colorizing Original Drawings (100% Line Preservation)</h2>
+  <p>We can take any original black-and-white ink drawing or sketch from your 136-piece dataset and infuse it with rich contemporary palettes while keeping <b>every single original contour line, face, and stroke intact</b>:</p>
+
+  <div class="comparison-grid">
+    <div class="comp-col">
+      <div class="img-box">
+        <img src="training_pools/sketches/20190203_095926.jpg" alt="Original Black Ink Drawing" />
+      </div>
+      <div class="info">
+        <span class="preset-badge badge-orig">Original Dataset Artwork</span>
+        <h4>Original Black Ink / Marker Drawing (<code>20190203_095926.jpg</code>)</h4>
+        <p>Authentic hand-drawn abstract figurative composition with interconnected faces, bold black contour lines, and raw draftsmanship.</p>
+      </div>
+    </div>
+    <div class="comp-col">
+      <div class="img-box">
+        <img src="rendered_art/original_drawing_20190203_colorized.jpg" alt="Colorized Original Artwork" />
+      </div>
+      <div class="info">
+        <span class="preset-badge badge-color">Colorized Masterpiece</span>
+        <h4>Colorized Contemporary Fine Art</h4>
+        <p>Zero line loss. Filled the segmented figurative zones with a sophisticated matte palette: terracotta, cobalt blue, warm mustard ochre, and soft sage green.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======================= 4. COLORIZATION TECHNIQUES ON NEW SKETCHES ======================= -->
+  <h2>4. Colorization Treatments on Generated Sketches</h2>
+  <p>Even though the training model is rooted in monochrome sketches, the base diffusion engine can inject color washes, tints, and spot accents on top of your structural linework:</p>
+
+  <div class="preset-grid">
+    <!-- COLOR 1: LINE & WATERCOLOR WASH -->
+    <div class="preset-card">
+      <div class="preset-img-wrap">
+        <img src="rendered_art/winding_road_color_watercolor.jpg" alt="Line & Watercolor Wash" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-color">Technique A · Mixed Media</span>
+        <div class="preset-title">Line &amp; Watercolor Wash</div>
+        <div class="preset-desc">Retains full graphite linework, cross-hatching, and paper grain, enhanced with soft translucent watercolor washes of golden sunrise sunlight, sage meadow greens, and pastel sky bleeds.</div>
+        <div class="prompt-box">
+          <b>Positive Tokens:</b> jeff_sketch style, detailed graphite pencil linework, expressive cross-hatching, soft translucent watercolor wash, golden amber sunlight, sage green meadow, mixed media line and wash on cold-press paper.
+        </div>
+      </div>
+    </div>
+
+    <!-- COLOR 2: SELECTIVE SPOT COLOR -->
+    <div class="preset-card">
+      <div class="preset-img-wrap">
+        <img src="rendered_art/winding_road_color_spot.jpg" alt="Selective Spot Color" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-spot">Technique B · Graphic Accent</span>
+        <div class="preset-title">Selective Spot Color</div>
+        <div class="preset-desc">100% black-and-white graphite pencil cross-hatching across the entire landscape and clouds, with a single luminous golden amber color glow isolating the rising sun and rays.</div>
+        <div class="prompt-box">
+          <b>Positive Tokens:</b> jeff_sketch style, monochrome graphite pencil drawing, pure black and white cross-hatching, selective spot color, luminous golden amber sun and rays, high contrast chiaroscuro.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======================= 5. PARAMETER LEVERS & PROMPT VOCABULARY ======================= -->
+  <h2>5. Complete Parameter Levers &amp; Prompt Vocabulary</h2>
+  <p>Use these exact prompt keywords to control texture, shading, composition, and media behavior:</p>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Control Parameter</th>
+          <th>Target Effect</th>
+          <th>Key Positive Prompt Tokens</th>
+          <th>Negative Prompt Tokens</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>1. Pencil Weight &amp; Texture</b></td>
+          <td>Controls stroke hardness, grain, and graphite texture</td>
+          <td>
+            <span class="code-token">fine 2H graphite pencil</span>, 
+            <span class="code-token">soft 4B dark graphite</span>, 
+            <span class="code-token">textured cold-press paper grain</span>, 
+            <span class="code-token">tactile pencil friction</span>, 
+            <span class="code-token">charcoal smudge accents</span>
+          </td>
+          <td>
+            <span class="neg-token">smooth digital gradient</span>, 
+            <span class="neg-token">vector lines</span>, 
+            <span class="neg-token">plastic look</span>
+          </td>
+        </tr>
+        <tr>
+          <td><b>2. Shading &amp; Stroke Technique</b></td>
+          <td>Defines how shadows and values are rendered</td>
+          <td>
+            <span class="code-token">parallel diagonal hatching</span>, 
+            <span class="code-token">intricate 90-degree cross-hatching</span>, 
+            <span class="code-token">gestural scribbled texture</span>, 
+            <span class="code-token">stippled graphite dots</span>, 
+            <span class="code-token">blended stump shading</span>
+          </td>
+          <td>
+            <span class="neg-token">airbrush</span>, 
+            <span class="neg-token">color fill</span>, 
+            <span class="neg-token">cell shaded</span>
+          </td>
+        </tr>
+        <tr>
+          <td><b>3. Colorization &amp; Wash</b></td>
+          <td>Injects watercolor, spot accents, or gouache tones</td>
+          <td>
+            <span class="code-token">soft translucent watercolor wash</span>, 
+            <span class="code-token">line and wash mixed media</span>, 
+            <span class="code-token">matte modern gouache palette (terracotta, cobalt, mustard)</span>, 
+            <span class="code-token">selective spot color glow</span>, 
+            <span class="code-token">warm vintage sepia parchment</span>
+          </td>
+          <td>
+            <span class="neg-token">neon saturation</span>, 
+            <span class="neg-token">muddy bleed</span>, 
+            <span class="neg-token">oily texture</span>
+          </td>
+        </tr>
+        <tr>
+          <td><b>4. Composition &amp; Negative Space</b></td>
+          <td>Governs subject placement, framing, and breathing room</td>
+          <td>
+            <span class="code-token">isolated central subject</span>, 
+            <span class="code-token">spacious paper border margin</span>, 
+            <span class="code-token">minimalist vignette</span>, 
+            <span class="code-token">expansive panoramic landscape</span>, 
+            <span class="code-token">dramatic Dutch angle</span>
+          </td>
+          <td>
+            <span class="neg-token">edge-to-edge clutter</span>, 
+            <span class="neg-token">cropped subject</span>, 
+            <span class="neg-token">crowded frame</span>
+          </td>
+        </tr>
+        <tr>
+          <td><b>5. Lighting &amp; Chiaroscuro</b></td>
+          <td>Directs light source, beam intensity, and shadow depth</td>
+          <td>
+            <span class="code-token">single radiant beam of light</span>, 
+            <span class="code-token">dramatic rim lighting</span>, 
+            <span class="code-token">stark volumetric light shaft</span>, 
+            <span class="code-token">soft ambient morning glow</span>, 
+            <span class="code-token">pure white paper highlight core</span>
+          </td>
+          <td>
+            <span class="neg-token">flat lighting</span>, 
+            <span class="neg-token">no shadows</span>, 
+            <span class="neg-token">overexposed whiteout</span>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ======================= 6. MASTER PROMPT TEMPLATE ======================= -->
+  <h2>6. Universal Production Prompt Template</h2>
+  <p>Whenever you request an illustration for a poem, prayer, or study lesson, use this standardized 4-part modular formula:</p>
+
+  <div class="callout">
+    <h4>Standard Master Formula</h4>
+    <p><b>[TRIGGER WORD]</b> + <b>[SUBJECT &amp; ACTION]</b> + <b>[DENSITY / COLOR PRESET]</b> + <b>[COMPOSITION &amp; LIGHTING]</b> + <b>[TRADITIONAL MEDIUM ANCHORS]</b></p>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Use Case</th>
+          <th>Example Prompt Blueprint</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>For Poems / Prayers (Clean Minimalist)</b></td>
+          <td><code>jeff_sketch style, an old weathered wooden chair beside a rain-streaked window, minimalist open-space sketch, delicate 2H contour linework, sparse hatching, ample white paper background, soft morning reflection, traditional graphite sketch.</code></td>
+        </tr>
+        <tr>
+          <td><b>For Bible Lessons (Balanced Line &amp; Wash)</b></td>
+          <td><code>jeff_sketch style with soft watercolor wash, an ancient shepherd staff resting against a rocky mountain stone under a radiant sunbeam, clean graphite linework, delicate golden amber and sage watercolor bleeds, uncluttered composition, line and wash on paper.</code></td>
+        </tr>
+        <tr>
+          <td><b>For Dramatic Themes / Reels (Spot Color Chiaroscuro)</b></td>
+          <td><code>jeff_sketch style with selective spot color, a powerful wave crashing against a dark cliff under swirling tempest clouds, monochrome black and white cross-hatching, luminous golden amber beam slicing through storm, dramatic high contrast draftsmanship.</code></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ======================= 7. ASSET PIPELINE MAPPING ======================= -->
+  <h2>7. Production Pipeline &amp; File Routing</h2>
+  <p>All assets flow through the official <code>864zeros-publish</code> Media House structure:</p>
+
+  <ul>
+    <li><b>Training Pool:</b> <code>media/visuals/training_pools/sketches/</code> (136 captioned image pairs)</li>
+    <li><b>Trained LoRA Model:</b> <code>media/visuals/lora_weights/864z_jeff_sketch_v1.safetensors</code></li>
+    <li><b>Reference Photography:</b> <code>media/photography/references/</code> (Source photos for Img2Img conversion)</li>
+    <li><b>Production Artwork:</b> <code>media/visuals/rendered_art/</code> (All generated PNG/JPG assets)</li>
+    <li><b>Poem/Lesson Linkage:</b> Every JSON record in <code>shared/creative/</code> or <code>shared/bible/</code> can link directly to its corresponding image path.</li>
+  </ul>
+
+  <footer>
+    864zeros Media House · Published Asset &amp; Style Architecture · Updated 2026-09-01
+  </footer>
+</div>
+
+</body>
+</html>

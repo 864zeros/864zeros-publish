@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Foundations of Resilience: 10 Essential Life Lessons — Interactive Practice Book</title>
+<style>
+  :root {
+    --bg: #f5f4ef;
+    --panel: #ffffff;
+    --ink: #1a1e24;
+    --muted: #5e6670;
+    --line: #e2ddd5;
+    --accent: #2e6245;
+    --accent-light: #eaf2ec;
+    --accent-dark: #1b3d2b;
+    --gold: #b38600;
+    --gold-soft: #fef8e7;
+    --card-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6; -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 30px 24px 80px; }
+
+  header {
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 24px; margin-bottom: 30px;
+    display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 20px;
+  }
+  .tag { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; color: var(--accent); }
+  h1 { font-size: 32px; font-weight: 800; margin: 6px 0 8px; color: var(--ink); }
+  .lead { font-size: 15.5px; color: var(--muted); max-width: 800px; margin: 0; }
+
+  .header-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 9px 16px; border-radius: 8px; font-size: 13.5px; font-weight: 600;
+    cursor: pointer; border: 1px solid var(--line); background: var(--panel); color: var(--ink);
+    transition: all 0.15s ease;
+  }
+  .btn:hover { background: #f0eee8; border-color: #cdc7be; }
+  .btn-primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .btn-primary:hover { background: var(--accent-dark); }
+
+  /* Navigation Bar */
+  .nav-bar {
+    display: flex; gap: 8px; overflow-x: auto; padding-bottom: 12px; margin-bottom: 26px;
+    border-bottom: 1px solid var(--line); scrollbar-width: thin;
+  }
+  .nav-chip {
+    padding: 6px 14px; border-radius: 20px; font-size: 13px; font-weight: 600;
+    white-space: nowrap; cursor: pointer; border: 1px solid var(--line); background: var(--panel); color: var(--muted);
+    transition: all 0.15s;
+  }
+  .nav-chip:hover { border-color: var(--accent); color: var(--ink); }
+  .nav-chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+  /* Controls Strip */
+  .controls-strip {
+    display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 14px;
+    background: var(--panel); padding: 14px 20px; border-radius: 10px; border: 1px solid var(--line);
+    margin-bottom: 30px;
+  }
+  .control-group { display: flex; align-items: center; gap: 12px; font-size: 13px; font-weight: 600; color: var(--muted); }
+  select, input[type="text"] {
+    padding: 6px 12px; border-radius: 6px; border: 1px solid var(--line); background: #fff; font-size: 13px;
+  }
+
+  /* Main Lesson Container */
+  .lesson-card {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 14px;
+    box-shadow: var(--card-shadow); overflow: hidden; margin-bottom: 40px;
+    display: grid; grid-template-columns: 1fr 1fr;
+  }
+
+  @media (max-width: 960px) {
+    .lesson-card { grid-template-columns: 1fr; }
+  }
+
+  /* Left Column: Visual Canvas / Superimposed Plate */
+  .visual-col {
+    background: #14171a; display: flex; flex-direction: column; position: relative;
+    border-right: 1px solid var(--line); overflow: hidden; min-height: 520px;
+  }
+  
+  .superimposed-container {
+    position: relative; width: 100%; height: 100%; flex: 1; display: flex; align-items: center; justify-content: center;
+    background: #0f1115; overflow: hidden;
+  }
+
+  .sketch-image {
+    width: 100%; height: 100%; object-fit: cover; display: block;
+    transition: transform 0.3s ease;
+  }
+
+  /* Overlay Modes */
+  .overlay-layer {
+    position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end;
+    padding: 30px 28px; background: linear-gradient(to top, rgba(10,12,16,0.92) 0%, rgba(10,12,16,0.6) 50%, rgba(10,12,16,0.15) 100%);
+    color: #ffffff; transition: opacity 0.25s ease;
+  }
+
+  .overlay-layer.layout-center {
+    justify-content: center; text-align: center;
+    background: rgba(10,12,16,0.78); backdrop-filter: blur(2px);
+  }
+
+  .overlay-layer.layout-top {
+    justify-content: flex-start;
+    background: linear-gradient(to bottom, rgba(10,12,16,0.92) 0%, rgba(10,12,16,0.6) 50%, rgba(10,12,16,0.15) 100%);
+  }
+
+  .overlay-layer.overlay-hidden {
+    opacity: 0; pointer-events: none;
+  }
+
+  .ov-theme-badge {
+    align-self: flex-start; font-size: 10.5px; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 0.14em; padding: 4px 10px; border-radius: 4px; background: rgba(255,255,255,0.18);
+    backdrop-filter: blur(4px); margin-bottom: 12px; border-left: 3px solid #ffcc00;
+  }
+  .overlay-layer.layout-center .ov-theme-badge { align-self: center; }
+
+  .ov-title {
+    font-size: 24px; font-weight: 800; letter-spacing: -0.01em; margin: 0 0 12px;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.6);
+  }
+
+  .ov-quote {
+    font-size: 16px; font-style: italic; line-height: 1.5; color: #f0f2f5; margin: 0 0 8px;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.7); font-family: Georgia, serif;
+  }
+
+  .ov-citation {
+    font-size: 13px; font-weight: 700; color: #ffcc00; letter-spacing: 0.06em;
+    text-transform: uppercase; margin-bottom: 16px;
+  }
+
+  .ov-intent {
+    font-size: 13.5px; color: #d0d6e0; border-top: 1px solid rgba(255,255,255,0.2);
+    padding-top: 12px; margin: 0; line-height: 1.5;
+  }
+
+  .visual-toolbar {
+    display: flex; justify-content: space-between; align-items: center;
+    background: #1c2128; padding: 10px 16px; border-top: 1px solid #2d333b; color: #adbac7; font-size: 12px;
+  }
+  .visual-toolbar .btn-sm {
+    padding: 4px 10px; font-size: 12px; background: #2d333b; color: #fff; border: 1px solid #444c56;
+    border-radius: 4px; cursor: pointer;
+  }
+  .visual-toolbar .btn-sm:hover { background: #373e47; }
+
+  /* Right Column: Devotional, Intent & Practice */
+  .content-col { padding: 32px 34px; display: flex; flex-direction: column; gap: 22px; }
+
+  .lesson-meta { display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); padding-bottom: 14px; }
+  .lesson-num { font-size: 12px; font-weight: 700; text-transform: uppercase; color: var(--accent); letter-spacing: 0.1em; }
+  .lesson-ref-badge { font-size: 12px; font-weight: 700; background: var(--accent-light); color: var(--accent-dark); padding: 3px 10px; border-radius: 999px; }
+
+  .lesson-heading { font-size: 24px; font-weight: 800; margin: 0; color: var(--ink); }
+
+  .section-box { background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; }
+  .section-title { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 8px; }
+  
+  .dual-scripture { display: flex; flex-direction: column; gap: 10px; }
+  .scripture-row { font-size: 14px; line-height: 1.5; }
+  .scripture-row .ver-label { font-weight: 700; color: var(--accent); font-size: 11px; text-transform: uppercase; margin-right: 6px; }
+  .scripture-row.plain-ver { background: #fff; padding: 10px 14px; border-radius: 6px; border-left: 3px solid var(--accent); font-weight: 500; }
+
+  .intent-text { font-size: 14.5px; color: #2d333b; line-height: 1.6; margin: 0; }
+
+  .journal-box { display: flex; flex-direction: column; gap: 10px; }
+  .journal-prompt { font-size: 14px; font-weight: 600; color: var(--ink); margin: 0; }
+  .journal-textarea {
+    width: 100%; min-height: 80px; padding: 12px; border-radius: 8px; border: 1px solid var(--line);
+    background: #fff; font-family: inherit; font-size: 14px; resize: vertical; line-height: 1.5;
+  }
+  .journal-textarea:focus { outline: 2px solid var(--accent); border-color: transparent; }
+
+  .practice-strip {
+    background: var(--gold-soft); border: 1px solid #f0dfa8; border-radius: 8px; padding: 14px 16px;
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  .practice-check { margin-top: 3px; cursor: pointer; width: 18px; height: 18px; accent-color: var(--accent); }
+  .practice-content { font-size: 13.5px; color: #5c4400; line-height: 1.5; }
+  .practice-content strong { color: #3a2b00; }
+
+  .prompt-expand {
+    font-size: 12px; color: var(--muted); cursor: pointer; text-decoration: underline; margin-top: 4px; display: inline-block;
+  }
+  .prompt-details {
+    display: none; background: #1c2128; color: #adbac7; padding: 12px; border-radius: 6px;
+    font-family: monospace; font-size: 11.5px; line-height: 1.4; margin-top: 8px; word-break: break-word;
+  }
+
+  /* Printable View Styles */
+  @media print {
+    body { background: #fff; color: #000; }
+    .controls-strip, .nav-bar, .header-actions, .visual-toolbar, .prompt-expand { display: none !important; }
+    .wrap { max-width: 100%; padding: 0; margin: 0; }
+    .lesson-card {
+      page-break-after: always; break-after: page;
+      border: 1px solid #ccc; box-shadow: none; margin-bottom: 0;
+      grid-template-columns: 1fr 1fr; height: 9.8in;
+    }
+    .visual-col { min-height: unset; height: 100%; }
+    .content-col { padding: 20px; height: 100%; }
+    .journal-textarea { border: 1px solid #ccc; min-height: 90px; background: transparent; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header>
+    <div>
+      <div class="tag">864zeros Media &amp; Content House · Practice Book Series</div>
+      <h1>Foundations of Resilience: 10 Life Lessons</h1>
+      <p class="lead">A dual-lens daily practice workbook pairing public-domain scripture, extracted behavioral intent, guided reflection, and master graphite sketch art in the <code>jeff_sketch</code> style.</p>
+    </div>
+    <div class="header-actions">
+      <button class="btn" onclick="toggleAllOverlays()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><line x1="9" y1="3" x2="9" y2="21"/></svg>
+        Toggle Overlay Cards
+      </button>
+      <button class="btn btn-primary" onclick="window.print()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
+        Print / PDF Workbook
+      </button>
+    </div>
+  </header>
+
+  <!-- Navigation Bar -->
+  <div class="nav-bar" id="navBar">
+    <div class="nav-chip active" onclick="filterLesson('all', this)">All 10 Lessons</div>
+    <div class="nav-chip" onclick="filterLesson(1, this)">1. Speak Light</div>
+    <div class="nav-chip" onclick="filterLesson(2, this)">2. Guard Gates</div>
+    <div class="nav-chip" onclick="filterLesson(3, this)">3. Lay Down Burden</div>
+    <div class="nav-chip" onclick="filterLesson(4, this)">4. Through Waters</div>
+    <div class="nav-chip" onclick="filterLesson(5, this)">5. Unshakable Refuge</div>
+    <div class="nav-chip" onclick="filterLesson(6, this)">6. Pruned to Bear Fruit</div>
+    <div class="nav-chip" onclick="filterLesson(7, this)">7. One Step at a Time</div>
+    <div class="nav-chip" onclick="filterLesson(8, this)">8. Release Grievance</div>
+    <div class="nav-chip" onclick="filterLesson(9, this)">9. Steadfast in Quiet</div>
+    <div class="nav-chip" onclick="filterLesson(10, this)">10. Run with Endurance</div>
+  </div>
+
+  <!-- Global Controls -->
+  <div class="controls-strip">
+    <div class="control-group">
+      <span>Overlay Layout:</span>
+      <select id="overlayLayoutSelect" onchange="changeOverlayLayout(this.value)">
+        <option value="layout-bottom">Bottom Banner (Classic)</option>
+        <option value="layout-center">Center Glassmorphism Card</option>
+        <option value="layout-top">Top Editorial Header</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <span>Scripture Display:</span>
+      <select id="scriptureVersionSelect" onchange="changeScriptureVersion(this.value)">
+        <option value="both">Both (KJV + 2026 Plain)</option>
+        <option value="plain">2026 Plain Language Only</option>
+        <option value="kjv">KJV Original Only</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <span>Completed Practices: <span id="completedCount" style="color:var(--accent); font-weight:bold;">0</span>/10</span>
+    </div>
+  </div>
+
+  <!-- Lessons List -->
+  <div id="lessonsContainer"></div>
+
+</div>
+
+<!-- Data File Script Inclusion (Works across all protocols) -->
+<script src="practice_book_data.js"></script>
+
+<script>
+// Inline fallback dataset ensures 100% guarantee even without web server
+const DEFAULT_BOOK_DATA = {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "book_id": "practice_book_resilience_10",
+  "title": "Foundations of Resilience: 10 Essential Life Lessons",
+  "subtitle": "Daily Practice Workbook — Scripture, Intent, Reflection & Visual Meditation",
+  "version": "2.0.0",
+  "published_date": "2026-09-02",
+  "author": "864zeros Media & Content House",
+  "license": "CC-BY-4.0 / 864zeros Original Content",
+  "art_style": {
+    "lora_name": "864z_jeff_sketch_v1.safetensors",
+    "trigger_phrase": "jeff_sketch style",
+    "recipe": "Universal Humanizer + jeff_sketch Refinement (Two-Pass Visual-DAGR Pipeline)",
+    "description": "Minimalist, hand-drawn black fountain pen illustrations with expressive variable line weights, 75% interior linework reduction, 20% random contours thickened by 30%, organic calligraphic imperfection on stark white canvas, and authentic jeff_sketch LoRA mark-making."
+  },
+  "lessons": [
+    {
+      "lesson_num": 1,
+      "id": "lesson-01-order-over-chaos",
+      "title": "Speak Light into Your Chaos",
+      "theme": "Creation & Mindset",
+      "extracted_intent": "Conscious initiation of order over emotional disorder. When circumstances feel dark, formless, and turbulent, do not react in fear or panic—deliberately speak truth, clarity, and constructive purpose into the void.",
+      "scripture": {
+        "reference": "Genesis 1:3",
+        "testament": "OT",
+        "text_kjv": "And God said, Let there be light: and there was light.",
+        "text_web": "God said, 'Let there be light,' and there was light.",
+        "plain": "When everything around you feels pitch dark and chaotic, don't retreat. Speak clarity and purpose into the situation, and watch the darkness yield."
+      },
+      "reflection_prompt": "Where in your personal life or mindset are you currently experiencing formless chaos or anxiety? What is one truthful, clarifying statement you need to speak over that situation today?",
+      "actionable_practice": "Pause before responding to any chaotic circumstance today. Take three deep breaths and voice one clear, grounded solution instead of venting the problem.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a figure commanding light over swirling turbulent waves. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A solitary figure rising above turbulent swirling ocean waves, reaching outward as a radiant starburst of light breaks the chaos into order.",
+      "overlay_config": {
+        "headline": "SPEAK LIGHT INTO CHAOS",
+        "scripture_quote": "\"And God said, Let there be light: and there was light.\"",
+        "citation": "Genesis 1:3",
+        "intent_callout": "Order begins the moment you speak truth over confusion.",
+        "theme_tag": "MINDSET & CLARITY",
+        "accent_color": "#b8860b",
+        "image_file": "images/lesson_01.jpg"
+      }
+    },
+    {
+      "lesson_num": 2,
+      "id": "lesson-02-guard-the-gates",
+      "title": "Guard the Gates of Your Mind",
+      "theme": "Focus & Discernment",
+      "extracted_intent": "Vigilant cognitive boundary setting. Your attention is your most precious currency. Be ruthless about the media, gossip, and toxic narratives you allow to breach your mental walls.",
+      "scripture": {
+        "reference": "Proverbs 4:23",
+        "testament": "OT",
+        "text_kjv": "Keep thy heart with all diligence; for out of it are the issues of life.",
+        "text_web": "Keep your heart with all diligence, for out of it follow the springs of life.",
+        "plain": "Guard what enters your mind with extreme vigilance. The quality of your thoughts directly determines the quality of your entire life."
+      },
+      "reflection_prompt": "What inputs (digital media, conversations, environments) have been draining your mental energy or introducing cynicism into your heart this week?",
+      "actionable_practice": "Institute a 60-minute digital media fast today. Replace scrolling with 15 minutes of silent journaling or reading uplifting text.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a resolute figure stepping forward across stone ledges towards an open horizon. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A resolute, calm figure stepping forward across rugged stone cliff ledges toward the open sea horizon, unbothered by the heights.",
+      "overlay_config": {
+        "headline": "GUARD THE GATES",
+        "scripture_quote": "\"Keep thy heart with all diligence; for out of it are the issues of life.\"",
+        "citation": "Proverbs 4:23",
+        "intent_callout": "What you tolerate at the gate will soon occupy the throne.",
+        "theme_tag": "BOUNDARY & DISCERNMENT",
+        "accent_color": "#2e6245",
+        "image_file": "images/lesson_02.jpg"
+      }
+    },
+    {
+      "lesson_num": 3,
+      "id": "lesson-03-surrender-the-burden",
+      "title": "Surrender the Heavy Burden",
+      "theme": "Relief & Humility",
+      "extracted_intent": "Relinquishing exhausting hyper-independence and false control. Acknowledging limits is not defeat; it is the prerequisite for sustainable strength and peace.",
+      "scripture": {
+        "reference": "Matthew 11:28",
+        "testament": "NT",
+        "text_kjv": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+        "text_web": "Come to me, all you who labor and are heavily burdened, and I will give you rest.",
+        "plain": "You were never built to carry every outcome alone. Set down the exhausting burden of trying to control what isn't yours to fix."
+      },
+      "reflection_prompt": "What specific burden are you currently carrying that belongs in God's hands rather than on your shoulders?",
+      "actionable_practice": "Write down the single heaviest worry on your mind today, then physically set the paper down and declare aloud: 'I release control of this outcome today.'",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a solitary traveler setting down a heavy pack at the roots of an ancient oak tree. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A solitary traveler setting down a heavy worn leather pack beside the expansive roots of an ancient sheltering oak tree.",
+      "overlay_config": {
+        "headline": "LAY DOWN THE BURDEN",
+        "scripture_quote": "\"Come unto me, all ye that labour and are heavy laden, and I will give you rest.\"",
+        "citation": "Matthew 11:28",
+        "intent_callout": "Rest begins where your illusion of control ends.",
+        "theme_tag": "SURRENDER & PEACE",
+        "accent_color": "#385b7a",
+        "image_file": "images/lesson_03.jpg"
+      }
+    },
+    {
+      "lesson_num": 4,
+      "id": "lesson-04-walk-through-the-waters",
+      "title": "Walk Through the Storm, Not Around It",
+      "theme": "Endurance & Courage",
+      "extracted_intent": "Facing adversity directly without escapism or denial. Hardship is not an error in your route; it is the forge where resilience and character are tempered.",
+      "scripture": {
+        "reference": "Isaiah 43:2",
+        "testament": "OT",
+        "text_kjv": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee.",
+        "text_web": "When you pass through the waters, I will be with you; and through the rivers, they will not overflow you.",
+        "plain": "When you must walk through deep and turbulent waters, you will not drown. You are not walking alone."
+      },
+      "reflection_prompt": "What hard conversation or challenging obstacle have you been trying to avoid? How would approaching it directly change your sense of self-respect?",
+      "actionable_practice": "Take one concrete action toward your most intimidating task today instead of postponing it to tomorrow.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a steady helmsman at the bow of a small boat facing curling ocean waves. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A steady helmsman standing tall at the bow of a wooden skiff, steering calmly into towering, curling ocean waves.",
+      "overlay_config": {
+        "headline": "THROUGH THE WATERS",
+        "scripture_quote": "\"When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee.\"",
+        "citation": "Isaiah 43:2",
+        "intent_callout": "The current is strong, but your anchor is stronger.",
+        "theme_tag": "COURAGE & RESILIENCE",
+        "accent_color": "#2c6c72",
+        "image_file": "images/lesson_04.jpg"
+      }
+    },
+    {
+      "lesson_num": 5,
+      "id": "lesson-05-anchor-in-the-unshakable",
+      "title": "Anchor in What Cannot Be Shaken",
+      "theme": "Identity & Stability",
+      "extracted_intent": "Decoupling self-worth from transient outcomes. Build your foundation on eternal truth and steadfast character rather than social approval or shifting fortunes.",
+      "scripture": {
+        "reference": "Psalm 46:1-2",
+        "testament": "OT",
+        "text_kjv": "God is our refuge and strength, a very present help in trouble. Therefore will not we fear, though the earth be removed.",
+        "text_web": "God is our refuge and strength, a very present help in trouble. Therefore we won't be afraid, though the earth changes.",
+        "plain": "When the ground beneath you seems to shift, your true foundation remains solid. You don't have to fear the shaking of the world."
+      },
+      "reflection_prompt": "When everything around you changes or fails to meet expectations, what principles or truths keep you rooted and calm?",
+      "actionable_practice": "Identify one area where you've sought validation from others, and recommit to judging your success solely by your effort, integrity, and faith.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a farmer kneeling in soil tending a small sprout. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A humble farmer kneeling in freshly furrowed soil, gently cupping and nurturing a single resilient green sprout.",
+      "overlay_config": {
+        "headline": "AN UNSHAKABLE REFUGE",
+        "scripture_quote": "\"God is our refuge and strength, a very present help in trouble. Therefore will not we fear.\"",
+        "citation": "Psalm 46:1-2",
+        "intent_callout": "When external circumstances shake, internal anchor holds.",
+        "theme_tag": "STABILITY & REFUGE",
+        "accent_color": "#7c4a27",
+        "image_file": "images/lesson_05.jpg"
+      }
+    },
+    {
+      "lesson_num": 6,
+      "id": "lesson-06-prune-to-bear-fruit",
+      "title": "Prune What Drains Life to Bear Real Fruit",
+      "theme": "Growth & Simplification",
+      "extracted_intent": "Strategic elimination of the unnecessary. True growth requires pruning away habits, commitments, and relationships that sap vitality without producing real value.",
+      "scripture": {
+        "reference": "John 15:2",
+        "testament": "NT",
+        "text_kjv": "Every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.",
+        "text_web": "Every branch that bears fruit, he prunes, that it may bear more fruit.",
+        "plain": "Pruning feels like cutting away good things, but it is the essential discipline that makes extraordinary growth possible."
+      },
+      "reflection_prompt": "What good project or activity is currently cluttering your schedule and preventing you from focusing on your true calling?",
+      "actionable_practice": "Say 'no' to one non-essential demand or habit today to protect space for deep, meaningful work.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a calm watchful guardian standing at a stone gatehouse archway. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A calm, watchful guardian in a flowing cloak standing before an ancient stone masonry archway under open skies.",
+      "overlay_config": {
+        "headline": "PRUNED FOR ABUNDANCE",
+        "scripture_quote": "\"Every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.\"",
+        "citation": "John 15:2",
+        "intent_callout": "Simplicity is not deprivation; it is focus.",
+        "theme_tag": "SIMPLIFICATION & FOCUS",
+        "accent_color": "#43683a",
+        "image_file": "images/lesson_06.jpg"
+      }
+    },
+    {
+      "lesson_num": 7,
+      "id": "lesson-07-win-today",
+      "title": "Win the Battle One Day at a Time",
+      "theme": "Presence & Daily Discipline",
+      "extracted_intent": "Compartmentalization of anxiety into manageable 24-hour cycles. Chronic worry about tomorrow destroys your capacity to execute well today.",
+      "scripture": {
+        "reference": "Matthew 6:34",
+        "testament": "NT",
+        "text_kjv": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.",
+        "text_web": "Therefore don't be anxious for tomorrow, for tomorrow will be anxious for itself. Each day has enough trouble of its own.",
+        "plain": "Don't poison today by borrowing worries from tomorrow. Pour all your strength into the single step right in front of you."
+      },
+      "reflection_prompt": "Are you spending precious emotional energy trying to solve a problem that isn't scheduled to happen until weeks or months from now?",
+      "actionable_practice": "Write down only the top 3 critical priorities for today. Refuse to let future anxieties dictate your schedule today.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a figure watching the morning sun rise over gentle hills along a quiet path. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A solitary figure with hands in pockets walking a quiet winding path, looking out toward a brilliant morning sun rising over rolling hills.",
+      "overlay_config": {
+        "headline": "ONE STEP AT A TIME",
+        "scripture_quote": "\"Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself.\"",
+        "citation": "Matthew 6:34",
+        "intent_callout": "Power lives in the present; anxiety lives in the future.",
+        "theme_tag": "PRESENCE & DISCIPLINE",
+        "accent_color": "#516d56",
+        "image_file": "images/lesson_07.jpg"
+      }
+    },
+    {
+      "lesson_num": 8,
+      "id": "lesson-08-untie-the-chains",
+      "title": "Let Forgiveness Untie Your Chains",
+      "theme": "Release & Healing",
+      "extracted_intent": "Release of toxic grievance and resentment. Holding bitterness gives the offender ongoing rent-free control over your peace. Forgiveness is your act of self-emancipation.",
+      "scripture": {
+        "reference": "Colossians 3:13",
+        "testament": "NT",
+        "text_kjv": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+        "text_web": "bearing with one another, and forgiving each other, if anyone has a complaint against any; even as Christ forgave you, so you also do.",
+        "plain": "Release grudges immediately. Forgiveness is not about declaring wrong deeds right; it is about cutting the cord that binds your spirit to old wounds."
+      },
+      "reflection_prompt": "Who is one person whose actions or words you still rehearse in your mind with anger? What would it feel like to permanently put down that grudge?",
+      "actionable_practice": "Silently offer a blessing or prayer for the well-being of someone you have resented, wishing them genuine peace.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a solid stone house built upon a high bedrock cliff above ocean waves. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A solid, steadfast stone house anchored firmly atop a steep granite bedrock cliff while turbulent ocean waves crash peacefully below.",
+      "overlay_config": {
+        "headline": "RELEASE THE GRIEVANCE",
+        "scripture_quote": "\"Forbearing one another, and forgiving one another... even as Christ forgave you, so also do ye.\"",
+        "citation": "Colossians 3:13",
+        "intent_callout": "Forgiveness unbinds the prisoner, and reveals the prisoner was you.",
+        "theme_tag": "FORGIVENESS & FREEDOM",
+        "accent_color": "#8c4456",
+        "image_file": "images/lesson_08.jpg"
+      }
+    },
+    {
+      "lesson_num": 9,
+      "id": "lesson-09-serve-in-quiet",
+      "title": "Serve in Secret, Build in Quiet",
+      "theme": "Humility & Authenticity",
+      "extracted_intent": "Steadfast dedication without hunger for applause. Deep work, genuine kindness, and true character are forged in the quiet hours when nobody is cheering.",
+      "scripture": {
+        "reference": "Galatians 6:9",
+        "testament": "NT",
+        "text_kjv": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+        "text_web": "Let's not be weary in doing good, for we will reap in due season, if we don't give up.",
+        "plain": "Never grow tired of doing honest, uncelebrated good. Consistent faithful action always bears fruit when the right season arrives."
+      },
+      "reflection_prompt": "What quiet habit or discipline have you felt tempted to abandon because you haven't seen immediate recognition or rapid results?",
+      "actionable_practice": "Perform one helpful act of service or contribution today completely anonymously, without telling anyone.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a traveler with a lantern at a fork in a mountain path. Bold calligraphic black ink contour lines, pure stark white negative space, zero shading, zero hatching, zero gray tones, clean fine art print.",
+      "visual_concept": "A solitary traveler holding an ancient lantern aloft at a fork in a mountain path, pausing in quiet wisdom before choosing the upward trail.",
+      "overlay_config": {
+        "headline": "STEADFAST IN QUIET",
+        "scripture_quote": "\"And let us not be weary in well doing: for in due season we shall reap, if we faint not.\"",
+        "citation": "Galatians 6:9",
+        "intent_callout": "Quiet consistency outlasts noisy ambition every single time.",
+        "theme_tag": "HUMILITY & CONSISTENCY",
+        "accent_color": "#6e583b",
+        "image_file": "images/lesson_09.jpg"
+      }
+    },
+    {
+      "lesson_num": 10,
+      "id": "lesson-10-run-with-endurance",
+      "title": "Run Your Race with Eyes Fixed Forward",
+      "theme": "Perseverance & Vision",
+      "extracted_intent": "Single-minded perseverance along your personal trajectory. Stop comparing your mile markers to others; focus wholly on your ultimate purpose with steady endurance.",
+      "scripture": {
+        "reference": "Hebrews 12:1-2",
+        "testament": "NT",
+        "text_kjv": "Let us run with patience the race that is set before us, Looking unto Jesus the author and finisher of our faith.",
+        "text_web": "Let us run with perseverance the race that is set before us, looking to Jesus, the author and finisher of our faith.",
+        "plain": "Cast off the distractions that trip you up, stop looking sideways at other runners, and run your own assigned course with steady, patient endurance."
+      },
+      "reflection_prompt": "Where have you fallen into the trap of comparing your journey to someone else's timeline or accomplishments?",
+      "actionable_practice": "Define your single personal metric of success for the upcoming month, and disregard all external social comparisons.",
+      "jeff_sketch_prompt": "jeff_sketch style, refined minimalist pen and ink master illustration of a figure stepping across a threshold line from cracked barren earth onto a flowering meadow path. Flat 2D ink drawing on a pure stark white paper background, bold calligraphic black ink contour lines, vast negative space, zero 3D rendering, zero shading, zero gray tones, clean fine art print.",
+      "visual_concept": "A purposeful traveler stepping across a threshold line from dry, cracked desert ground onto a blossoming path winding through a vibrant open meadow.",
+      "overlay_config": {
+        "headline": "RUN WITH ENDURANCE",
+        "scripture_quote": "\"Let us run with patience the race that is set before us, Looking unto the author and finisher of our faith.\"",
+        "citation": "Hebrews 12:1-2",
+        "intent_callout": "Fix your eyes on the horizon; run your own lane.",
+        "theme_tag": "PERSEVERANCE & VISION",
+        "accent_color": "#2c4868",
+        "image_file": "images/lesson_10.jpg"
+      }
+    }
+  ]
+}
+;
+
+let bookData = (typeof window.PRACTICE_BOOK_DATA !== 'undefined') ? window.PRACTICE_BOOK_DATA : DEFAULT_BOOK_DATA;
+let overlaysVisible = true;
+
+function init() {
+  renderLessons();
+  loadPersistedProgress();
+}
+
+function renderLessons() {
+  const container = document.getElementById('lessonsContainer');
+  container.innerHTML = '';
+
+  bookData.lessons.forEach(l => {
+    const card = document.createElement('div');
+    card.className = 'lesson-card';
+    card.id = `lesson-card-${l.lesson_num}`;
+    card.setAttribute('data-lesson-num', l.lesson_num);
+
+    const imagePath = `images/lesson_${String(l.lesson_num).padStart(2, '0')}.jpg`;
+
+    card.innerHTML = `
+      <!-- Visual Column -->
+      <div class="visual-col">
+        <div class="superimposed-container" id="container-${l.lesson_num}">
+          <img class="sketch-image" src="${imagePath}" alt="${l.title}" id="img-${l.lesson_num}" onerror="this.src='../../../media/visuals/practice_book/lesson_${String(l.lesson_num).padStart(2, '0')}.jpg'" />
+          
+          <div class="overlay-layer layout-bottom" id="overlay-${l.lesson_num}">
+            <div class="ov-theme-badge" style="border-left-color: ${l.overlay_config.accent_color};">${l.overlay_config.theme_tag}</div>
+            <div class="ov-title">${l.overlay_config.headline}</div>
+            <div class="ov-quote">${l.overlay_config.scripture_quote}</div>
+            <div class="ov-citation">— ${l.overlay_config.citation}</div>
+            <div class="ov-intent">${l.overlay_config.intent_callout}</div>
+          </div>
+        </div>
+
+        <div class="visual-toolbar">
+          <span>Art: <code>jeff_sketch style</code></span>
+          <div style="display:flex; gap:6px;">
+            <button class="btn-sm" onclick="toggleOverlaySingle(${l.lesson_num})">Toggle Overlay</button>
+            <button class="btn-sm" onclick="downloadCard(${l.lesson_num})">Export Card</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Devotional & Practice Column -->
+      <div class="content-col">
+        <div class="lesson-meta">
+          <span class="lesson-num">Lesson ${l.lesson_num} of 10 · ${l.theme}</span>
+          <span class="lesson-ref-badge">${l.scripture.reference}</span>
+        </div>
+
+        <h2 class="lesson-heading">${l.title}</h2>
+
+        <!-- Scripture Section -->
+        <div class="section-box">
+          <div class="section-title">Scripture &amp; Modern Translation</div>
+          <div class="dual-scripture">
+            <div class="scripture-row kjv-row">
+              <span class="ver-label">KJV:</span> "${l.scripture.text_kjv}"
+            </div>
+            <div class="scripture-row plain-ver plain-row">
+              <span class="ver-label">2026 Plain:</span> ${l.scripture.plain}
+            </div>
+          </div>
+        </div>
+
+        <!-- Extracted Intent -->
+        <div class="section-box" style="background:#fff; border-left:4px solid var(--accent);">
+          <div class="section-title" style="color:var(--accent);">Extracted Behavioral Intent</div>
+          <p class="intent-text">${l.extracted_intent}</p>
+        </div>
+
+        <!-- Daily Reflection Journal -->
+        <div class="journal-box">
+          <p class="journal-prompt"><strong>Daily Reflection:</strong> ${l.reflection_prompt}</p>
+          <textarea class="journal-textarea" id="journal-${l.lesson_num}" placeholder="Write your personal reflection, prayer, or decision here..." oninput="saveJournal(${l.lesson_num}, this.value)"></textarea>
+        </div>
+
+        <!-- Micro Practice -->
+        <div class="practice-strip">
+          <input type="checkbox" class="practice-check" id="check-${l.lesson_num}" onchange="togglePracticeComplete(${l.lesson_num}, this.checked)" />
+          <div class="practice-content">
+            <strong>Daily Action:</strong> ${l.actionable_practice}
+          </div>
+        </div>
+
+        <div>
+          <span class="prompt-expand" onclick="togglePrompt(${l.lesson_num})">View LoRA Generation Prompt</span>
+          <div class="prompt-details" id="prompt-box-${l.lesson_num}">
+            ${l.jeff_sketch_prompt}
+          </div>
+        </div>
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+function filterLesson(num, chip) {
+  document.querySelectorAll('.nav-chip').forEach(c => c.classList.remove('active'));
+  chip.classList.add('active');
+
+  const cards = document.querySelectorAll('.lesson-card');
+  if (num === 'all') {
+    cards.forEach(c => c.style.display = 'grid');
+  } else {
+    cards.forEach(c => {
+      c.style.display = (c.getAttribute('data-lesson-num') == num) ? 'grid' : 'none';
+    });
+  }
+}
+
+function toggleAllOverlays() {
+  overlaysVisible = !overlaysVisible;
+  document.querySelectorAll('.overlay-layer').forEach(ov => {
+    if (overlaysVisible) {
+      ov.classList.remove('overlay-hidden');
+    } else {
+      ov.classList.add('overlay-hidden');
+    }
+  });
+}
+
+function toggleOverlaySingle(num) {
+  const ov = document.getElementById(`overlay-${num}`);
+  ov.classList.toggle('overlay-hidden');
+}
+
+function changeOverlayLayout(layoutClass) {
+  document.querySelectorAll('.overlay-layer').forEach(ov => {
+    ov.classList.remove('layout-bottom', 'layout-center', 'layout-top');
+    ov.classList.add(layoutClass);
+  });
+}
+
+function changeScriptureVersion(mode) {
+  document.querySelectorAll('.kjv-row').forEach(r => r.style.display = (mode === 'plain') ? 'none' : 'block');
+  document.querySelectorAll('.plain-row').forEach(r => r.style.display = (mode === 'kjv') ? 'none' : 'block');
+}
+
+function togglePrompt(num) {
+  const box = document.getElementById(`prompt-box-${num}`);
+  box.style.display = (box.style.display === 'block') ? 'none' : 'block';
+}
+
+function saveJournal(num, text) {
+  try { localStorage.setItem(`864z_practice_journal_${num}`, text); } catch(e) {}
+}
+
+function togglePracticeComplete(num, checked) {
+  try { localStorage.setItem(`864z_practice_check_${num}`, checked ? 'true' : 'false'); } catch(e) {}
+  updateCompletedCount();
+}
+
+function loadPersistedProgress() {
+  if (!bookData) return;
+  bookData.lessons.forEach(l => {
+    try {
+      const savedText = localStorage.getItem(`864z_practice_journal_${l.lesson_num}`);
+      if (savedText) {
+        const el = document.getElementById(`journal-${l.lesson_num}`);
+        if (el) el.value = savedText;
+      }
+      const savedCheck = localStorage.getItem(`864z_practice_check_${l.lesson_num}`);
+      if (savedCheck === 'true') {
+        const chk = document.getElementById(`check-${l.lesson_num}`);
+        if (chk) chk.checked = true;
+      }
+    } catch(e) {}
+  });
+  updateCompletedCount();
+}
+
+function updateCompletedCount() {
+  if (!bookData) return;
+  let count = 0;
+  bookData.lessons.forEach(l => {
+    try {
+      if (localStorage.getItem(`864z_practice_check_${l.lesson_num}`) === 'true') {
+        count++;
+      }
+    } catch(e) {}
+  });
+  const el = document.getElementById('completedCount');
+  if (el) el.innerText = count;
+}
+
+// Canvas-based card exporter
+function downloadCard(num) {
+  const l = bookData.lessons.find(item => item.lesson_num === num);
+  if (!l) return;
+
+  const canvas = document.createElement('canvas');
+  const ctx = canvas.getContext('2d');
+  canvas.width = 1200;
+  canvas.height = 900;
+
+  const img = new Image();
+  img.crossOrigin = 'anonymous';
+  img.src = `images/lesson_${String(num).padStart(2, '0')}.jpg`;
+
+  img.onload = () => {
+    ctx.drawImage(img, 0, 0, 1200, 900);
+
+    const gradient = ctx.createLinearGradient(0, 450, 0, 900);
+    gradient.addColorStop(0, 'rgba(10, 14, 20, 0.0)');
+    gradient.addColorStop(0.3, 'rgba(10, 14, 20, 0.7)');
+    gradient.addColorStop(1, 'rgba(10, 14, 20, 0.95)');
+    ctx.fillStyle = gradient;
+    ctx.fillRect(0, 0, 1200, 900);
+
+    ctx.fillStyle = l.overlay_config.accent_color || '#ffcc00';
+    ctx.fillRect(60, 620, 8, 26);
+    ctx.fillStyle = '#ffffff';
+    ctx.font = 'bold 16px -apple-system, sans-serif';
+    ctx.fillText(l.overlay_config.theme_tag, 78, 640);
+
+    ctx.fillStyle = '#ffffff';
+    ctx.font = 'bold 36px -apple-system, sans-serif';
+    ctx.fillText(l.overlay_config.headline, 60, 690);
+
+    ctx.font = 'italic 22px Georgia, serif';
+    ctx.fillStyle = '#f0f2f5';
+    ctx.fillText(l.overlay_config.scripture_quote, 60, 735);
+
+    ctx.font = 'bold 18px -apple-system, sans-serif';
+    ctx.fillStyle = '#ffcc00';
+    ctx.fillText('— ' + l.overlay_config.citation, 60, 770);
+
+    ctx.strokeStyle = 'rgba(255, 255, 255, 0.25)';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(60, 795);
+    ctx.lineTo(1140, 795);
+    ctx.stroke();
+
+    ctx.font = '18px -apple-system, sans-serif';
+    ctx.fillStyle = '#d0d6e0';
+    ctx.fillText(l.overlay_config.intent_callout, 60, 830);
+
+    const link = document.createElement('a');
+    link.download = `864z_practice_lesson_${num}_card.png`;
+    link.href = canvas.toDataURL('image/png');
+    link.click();
+  };
+}
+
+// Run immediately & on DOM load
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
+}
+</script>
+
+</body>
+</html>

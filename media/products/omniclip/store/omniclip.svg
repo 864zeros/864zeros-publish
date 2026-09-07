@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0b0e14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0058ff"/>
+      <stop offset="1" stop-color="#0040cc"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="url(#g)" stroke="#334155" stroke-width="3"/>
+  <!-- Film cut marks / clapper motif -->
+  <rect x="22" y="24" width="84" height="20" rx="5" fill="url(#accent)"/>
+  <path d="M36 24 l8 20 M56 24 l8 20 M76 24 l8 20" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <!-- 9:16 vertical crop outline -->
+  <rect x="44" y="52" width="40" height="52" rx="6" fill="#0f172a" stroke="#0058ff" stroke-width="3"/>
+  <!-- Play triangle centered in 9:16 frame -->
+  <polygon points="58,68 58,88 75,78" fill="#ffffff"/>
+</svg>

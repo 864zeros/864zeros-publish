@@ -1,0 +1,39 @@
+{
+  "slug": "864z-chronicle",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.374Z",
+  "type": "extension",
+  "name": "Chronicle",
+  "summary": "Silently records your Gemini, Claude & ChatGPT chats to a local database. Search, star, and export to Markdown or JSON. 100% local.",
+  "metaDescription": "Silently records your Gemini, Claude & ChatGPT chats to a local database. Search, star, and export to Markdown or JSON. 100% local.",
+  "icon": "chronicle.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "chronicle-1.png",
+      "alt": "Chronicle — every AI chat captured automatically to a local database",
+      "cap": "Every AI chat, captured for you — no copy-paste, no save button."
+    },
+    {
+      "img": "chronicle-2.png",
+      "alt": "Chronicle — search, star, and filter by Gemini, Claude, or ChatGPT",
+      "cap": "Search, star, and filter by Gemini, Claude, or ChatGPT."
+    },
+    {
+      "img": "chronicle-3.png",
+      "alt": "Chronicle — export a conversation to Markdown or your whole vault to JSON",
+      "cap": "Take any conversation with you — Markdown per chat, or your whole vault as JSON."
+    }
+  ],
+  "jsonld": {
+    "description": "Silently records your Gemini, Claude, and ChatGPT conversations to a local on-device database. Search, star, filter, and export to Markdown or JSON. Local-first, never transmitted.",
+    "featureList": [
+      "Silent capture from Gemini, Claude, and ChatGPT",
+      "Search, star, and filter by source",
+      "Per-conversation and single-message Markdown export",
+      "Full-vault JSON export",
+      "100% local, never transmitted"
+    ]
+  }
+}

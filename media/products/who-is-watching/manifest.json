@@ -1,0 +1,38 @@
+{
+  "slug": "who-is-watching",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.435Z",
+  "type": "extension",
+  "name": "Who Is Watching",
+  "summary": "See who is tracking you on any page — analytics, ad-tech, and identity vendors, with the IDs they set. 100% local. No account.",
+  "metaDescription": "See who is tracking you on any page — analytics, ad-tech, and identity vendors, with the IDs they set. 100% local. No account.",
+  "icon": "who-is-watching.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "who-is-watching-1.png",
+      "alt": "Who Is Watching — live map of the trackers firing on the current page",
+      "cap": "See who's tracking you on this page — in plain language."
+    },
+    {
+      "img": "who-is-watching-2.png",
+      "alt": "Who Is Watching — the identifiers vendors set on you, from requests and cookies",
+      "cap": "The IDs vendors set on you, pulled from requests and cookies."
+    },
+    {
+      "img": "who-is-watching-3.png",
+      "alt": "Who Is Watching — local HTML and Markdown report export",
+      "cap": "Local by design. Export an HTML or Markdown report — nothing leaves your device."
+    }
+  ],
+  "jsonld": {
+    "description": "See who is tracking you on any page — analytics, ad-tech, and identity vendors, plus the IDs they set. Local-first; no account, no server.",
+    "featureList": [
+      "Live vendor detection on the current page",
+      "Surfaces tracking IDs from requests and cookies",
+      "Activity timeline and identity graph",
+      "HTML and Markdown report export"
+    ]
+  }
+}

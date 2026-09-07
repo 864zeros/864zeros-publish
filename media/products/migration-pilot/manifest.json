@@ -1,0 +1,55 @@
+{
+  "slug": "vaultpilot",
+  "category": "browser-extensions",
+  "pillar": "864F",
+  "ingested_at": "2026-09-07T02:39:25.361Z",
+  "type": "extension",
+  "pageFile": "vaultpilot.html",
+  "name": "VaultPilot — web clipper for your Obsidian vault",
+  "summary": "Clip any page or selection to clean Markdown — straight into your local Obsidian, Logseq, or Capacities vault. 100% local, no account.",
+  "metaDescription": "Clip any page or selection to clean Markdown — straight into your local Obsidian, Logseq, or Capacities vault. 100% local, no account. One-time $3.99 Direct-to-Vault.",
+  "icon": "vaultpilot.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "vaultpilot-1.png",
+      "alt": "VaultPilot — clip any page to clean Markdown in your own vault",
+      "cap": "Clip any page to clean Markdown — into your own vault, not a cloud."
+    },
+    {
+      "img": "vaultpilot-2.png",
+      "alt": "VaultPilot — every capture keeps its source, tags, and notes",
+      "cap": "Every capture keeps its context — source, tags, and a note field."
+    },
+    {
+      "img": "vaultpilot-3.png",
+      "alt": "VaultPilot — Direct-to-Vault writes straight into your Obsidian folder",
+      "cap": "Direct-to-Vault: write .md straight into your Obsidian folder. No Downloads shuffle."
+    }
+  ],
+  "jsonld": {
+    "description": "Clip any web page or selection to clean Markdown, straight into your local Obsidian, Logseq, or Capacities vault. Local-first, no account.",
+    "featureList": [
+      "Marquee / selection / full-page capture",
+      "Clean Markdown + YAML frontmatter",
+      "Liberate to Markdown (free)",
+      "Direct-to-Vault write (File System Access API)"
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Free",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Capture + individual Markdown export, forever."
+      },
+      {
+        "@type": "Offer",
+        "name": "Direct-to-Vault",
+        "price": "3.99",
+        "priceCurrency": "USD",
+        "description": "One-time unlock: write .md straight into your vault folder."
+      }
+    ]
+  }
+}

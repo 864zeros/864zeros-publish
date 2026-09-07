@@ -1,0 +1,78 @@
+{
+  "slug": "autoorganize-ytm",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.325Z",
+  "type": "extension",
+  "name": "AutoOrganize — smart playlists for YouTube Music",
+  "summary": "Auto-sort your YouTube Music Liked Songs into real genre playlists, created in your own account. Local-first, no subscription.",
+  "metaDescription": "Organize your YouTube Music Liked Songs into real genre playlists automatically. Local-first — only an anonymous MusicBrainz genre lookup reaches the network. No subscription.",
+  "icon": "autoorganize-ytm.png",
+  "storeUrl": "",
+  "video": {
+    "src": "autoorganize-ytm-short.mp4",
+    "poster": "autoorganize-ytm-thumbnail.png",
+    "tag": "⚡ 57s Product Demo",
+    "title": "Watch AutoOrganize in Action",
+    "desc": "Turn a 1,000-track Liked Songs graveyard into organized, smart genre playlists in your YouTube Music account. Scanned privately on-device, sorted with MusicBrainz data, synced everywhere by Google.",
+    "sub": "<b>No subscriptions</b> · $2.99 one-time unlock forever · First playlist free"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "autoorganize-ytm-social-pain.mp4",
+      "poster": "thumbnail-autoorganize-ytm-social-pain.png",
+      "angle": "pain_graveyard",
+      "duration": 19.67
+    },
+    {
+      "id": "social-hook-price",
+      "src": "autoorganize-ytm-social-price.mp4",
+      "poster": "thumbnail-autoorganize-ytm-social-price.png",
+      "angle": "anti_subscription_impulse",
+      "duration": 19.95
+    }
+  ],
+  "shots": [
+    {
+      "img": "autoorganize-ytm-1.png",
+      "alt": "AutoOrganize — scan your YouTube Music Liked Songs privately on device",
+      "cap": "Your Liked Songs, scanned privately on your device — nothing is uploaded."
+    },
+    {
+      "img": "autoorganize-ytm-2.png",
+      "alt": "AutoOrganize — auto-split Liked Songs into genre playlists, preview before creating",
+      "cap": "Auto-split by genre in one click. Preview every playlist before it's created."
+    },
+    {
+      "img": "autoorganize-ytm-3.png",
+      "alt": "AutoOrganize — playlists created in your own YouTube Music, synced by Google",
+      "cap": "Created in your own YouTube Music — synced to every device by Google."
+    }
+  ],
+  "jsonld": {
+    "description": "Organize your YouTube Music Liked Songs into real genre playlists automatically. Local-first and private — your library stays on your device; the only thing that ever leaves the browser is an anonymous artist-genre lookup on MusicBrainz. No account, no subscription.",
+    "featureList": [
+      "Scan Liked Songs privately (on-device cache)",
+      "Sort into real genre playlists (genres from MusicBrainz)",
+      "Preview & tristate-select playlists before creating",
+      "Merge selected genres into one custom-named playlist",
+      "Create playlists in your own YouTube Music",
+      "Export the plan to Markdown or JSON"
+    ],
+    "offers": [
+      {
+        "name": "Free",
+        "price": "0.00",
+        "priceCurrency": "USD",
+        "description": "Preview everything + create your first playlist free"
+      },
+      {
+        "name": "Unlimited",
+        "price": "2.99",
+        "priceCurrency": "USD",
+        "description": "One-time unlock — create unlimited playlists, forever. No subscription."
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "total_duration": 60.600068,
+  "scenes": [
+    {
+      "id": "scene1_hook",
+      "start": 0.0,
+      "end": 7.2,
+      "duration": 7.2,
+      "text": "Why does every habit tracker shame you the second you slip up? Break a streak, and they wipe your entire progress to zero. Not here."
+    },
+    {
+      "id": "scene2_intro",
+      "start": 7.2,
+      "end": 11.832018000000001,
+      "duration": 4.632018,
+      "text": "Meet ClearStreak: the private habit and vice companion built on Data Over Shame."
+    },
+    {
+      "id": "scene3_journeys",
+      "start": 11.832018000000001,
+      "end": 23.472018000000002,
+      "duration": 11.64,
+      "text": "Track multiple habits at once \u2014 whether you're quitting vaping, cutting back alcohol, stopping doomscrolling, or overcoming late-night spending. Each with its own start date, streaks, and money saved."
+    },
+    {
+      "id": "scene4_halt",
+      "start": 23.472018000000002,
+      "end": 35.040023000000005,
+      "duration": 11.568005,
+      "text": "An off day resets today's count, but never wipes your history. Your personal bests and total clear days stay permanent. Check in honestly with HALT: Hungry, Angry, Lonely, or Tired."
+    },
+    {
+      "id": "scene5_grounding",
+      "start": 35.040023000000005,
+      "end": 45.072041000000006,
+      "duration": 10.032018,
+      "text": "In hard moments, use eyes-free haptic breathing circles to let an urge crest and pass, or tap the calm Rescue hub for trusted contacts and confidential lifelines."
+    },
+    {
+      "id": "scene6_privacy",
+      "start": 45.072041000000006,
+      "end": 53.328050000000005,
+      "duration": 8.256009,
+      "text": "No cloud. No accounts. No servers to breach. Sealed with biometric encryption right on your phone. Screenshots are blocked."
+    },
+    {
+      "id": "scene7_cta",
+      "start": 53.328050000000005,
+      "end": 60.60006800000001,
+      "duration": 7.272018,
+      "text": "No recurring subscriptions. Just a one-time unlock for lifetime peace of mind. Download ClearStreak on Google Play."
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     "pillar": "spiritual",
     "policy": "Each affirmation is original 864zeros writing — authored, not quoted — but is a faithful interpretation of one specific KJV verse and carries that verse's exact citation and text. Overtly faith-centered (this is the faith pillar, unlike the secular recovery set).",
     "voice": "Devotional, warm, second-person, poet's economy. Abstracted: each statement stands alone with only its own context plus its scripture reference. See _src/AFFIRMATIONS_STYLE.md.",
-    "source_format": "Mirrors clearStreak-daily-verse.json.json: citation + verse_text (KJV, public domain).",
+    "source_format": "Mirrors clearStreak-daily-verse.json: citation + verse_text (KJV, public domain).",
     "count": 50
   },
   "affirmations": [

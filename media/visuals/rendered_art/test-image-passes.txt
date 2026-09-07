@@ -1,0 +1,15 @@
+Test-1 prompt <<>>
+jeff_sketch style, an impressionistic minimalist pen and ink illustration of a solitary figure setting down a heavy worn traveler bag beside an ancient oak tree on a pure stark white background. Extreme economy of line executed with fluid black fountain pen strokes. The subject is defined solely by sparse outer perimeter contour lines with all interior detail lines and interior hair textures stripped away into empty white paper. Approximately 40% of the outer contour strokes feature heavier, calligraphic fountain pen line weight for dynamic asymmetry. Zero shading, zero cross-hatching, no gray tones, no color, and vast clean negative space.
+
+<<>> NOTE --> a new gemini session outside of our 864zero environment does NOT understand 'jeff_sketch style" 
+
+Test-1-2 prompt <<>>
+add a 2 level deth hill and mountain range int the middle and background using the same exact styling. NO shading!
+
+
+Test 2-3
+remove all interior lines - meaning only keep the darker thicker black ink lines.
+
+
+Test 3-4
+now make 40% of the lines 50% thinner. select what lines to affect randomly

@@ -1,0 +1,39 @@
+{
+  "slug": "datanap",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.390Z",
+  "type": "extension",
+  "name": "DataNap — vault your tabs & deep-sleep the rest",
+  "summary": "Vault open tabs to a local list you can reopen, and deep-sleep idle tabs to free RAM. 100% local. A OneTab-style tab manager.",
+  "metaDescription": "Vault open tabs to a local list you can reopen, and deep-sleep idle tabs to free RAM. 100% local. A OneTab-style tab manager.",
+  "icon": "datanap.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "datanap-1.png",
+      "alt": "DataNap — vault a window of tabs as a saved session (placeholder, real capture needed)",
+      "cap": "Close the pile without losing your place — vault a window in one click."
+    },
+    {
+      "img": "datanap-2.png",
+      "alt": "DataNap — deep-sleep idle tabs to free RAM (placeholder, real capture needed)",
+      "cap": "Deep-sleep idle tabs to reclaim ~95% of their RAM. They stay in your tab bar."
+    },
+    {
+      "img": "datanap-3.png",
+      "alt": "DataNap — options: Deep Sleep settings, OneTab import, local backup (placeholder, real capture needed)",
+      "cap": "Local by design — import from OneTab, back up your vault, no account needed."
+    }
+  ],
+  "jsonld": {
+    "description": "Vault open tabs to a local, reopenable list and deep-sleep idle tabs to free RAM. Local-first, IndexedDB-backed, OneTab-style tab manager.",
+    "featureList": [
+      "Vault a tab or a whole window as a session",
+      "Restore all or one, at the right scroll position",
+      "Deep Sleep — manual and auto tab discard",
+      "Import from OneTab",
+      "Local JSON backup"
+    ]
+  }
+}

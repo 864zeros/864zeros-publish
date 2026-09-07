@@ -1,0 +1,77 @@
+{
+  "avatar_id": "kate-zefore",
+  "name": "Kate Zefore",
+  "role": "Chief of Staff",
+  "organization": "864zeros LLC",
+  "version": "1.0.0",
+  "rig_type": "3DGS_NEURAL_HEAD",
+  "pipeline_compatibility": ["simli-trinity-1", "livekit-agents", "pipecat-webrtc", "tavus-phoenix"],
+  "anchors": {
+    "default_warm": {
+      "file": "kate-portrait-warm.jpg",
+      "description": "Primary portrait in warm mode with cardigan. Default executive register.",
+      "aspect_ratio": "4:5",
+      "lighting": "Soft natural indoor diffuse"
+    },
+    "formal_boardroom": {
+      "file": "kate-portrait-formal.jpg",
+      "description": "Formal boardroom mode in navy blazer. High-stakes presentation register.",
+      "aspect_ratio": "4:5",
+      "lighting": "Studio key light with rim"
+    }
+  },
+  "rigging_sheets": {
+    "visemes_phonemes": {
+      "file": "kate-rig-lipsync-frontal.jpg",
+      "type": "viseme_matrix",
+      "calibrated_shapes": [
+        "RESTING_NEUTRAL",
+        "PROFESSIONAL_SMILE",
+        "VISEME_A",
+        "VISEME_E",
+        "VISEME_O",
+        "VISEME_U",
+        "BILABIAL_BMP"
+      ],
+      "purpose": "Ground truth deformation for speech synthesis and phoneme alignment."
+    },
+    "pitch_and_tilt": {
+      "file": "kate-rig-pitch-tilt.jpg",
+      "type": "vertical_rotation",
+      "calibrated_angles": [
+        "PITCH_UP_LOOKING_UP_15DEG",
+        "PITCH_DOWN_LOOKING_DOWN_15DEG"
+      ],
+      "purpose": "Ground truth for active listening nods, reading posture, and vertical attention."
+    },
+    "yaw_three_quarter": {
+      "file": "kate-rig-three-quarter-45.jpg",
+      "type": "horizontal_yaw_45",
+      "calibrated_angles": [
+        "YAW_LEFT_45DEG",
+        "YAW_RIGHT_45DEG"
+      ],
+      "alignment_guides": "center_crosshair_and_degree_markers",
+      "purpose": "3D cheekbone, nasal bridge, and temple depth reconstruction."
+    },
+    "profile_silhouette": {
+      "file": "kate-rig-full-profile-90.jpg",
+      "type": "horizontal_profile_90",
+      "calibrated_angles": [
+        "PROFILE_LEFT_90DEG",
+        "PROFILE_RIGHT_90DEG"
+      ],
+      "purpose": "Full jawline perimeter, ear anchor, and hair contour boundary."
+    }
+  },
+  "voice_profile": {
+    "engine_recommendation": "Cartesia Sonic / ElevenLabs Conversational WebSocket",
+    "voice_name": "Kate Zefore (Executive Warmth)",
+    "pitch": "Natural female alto-soprano register, grounded",
+    "pace": "1.04x brisk executive cadence, zero hesitation, clean diction",
+    "emotional_range": "Supportive, sharp, high-tempo, pragmatic",
+    "interruptibility_ms": 120
+  },
+  "system_persona_source": "C:\\dev\\864zero-AOE\\PERSONA_kate-zefore.html",
+  "created_at": "2026-09-03"
+}

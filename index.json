@@ -25,9 +25,13 @@
       "manifest": "shared/bible/bible_index.json",
       "docs": "shared/bible/BIBLE_LIBRARY.md",
       "viewer": "shared/bible/bible_viewer.html",
+      "study_viewer": "shared/bible/bible_study_viewer.html",
       "records": 834,
       "files": 63,
-      "summary": "66 books. Record: { book, chapter, citation, text, plain } — text = verbatim PD scripture, plain = original 864zeros 2026 rendering. KJV (NT + most OT), WEB rendered 'the Lord' (Psalms & Proverbs). No review gates."
+      "applications": "shared/bible/genesis_applications.json — 20 Genesis 1-10 real-world behavioral principles",
+      "study_lessons": "shared/bible/bible_study_lessons.json — 66 books, 660 actionable life lessons with book overviews & theological themes",
+      "study_docs": "shared/bible/BIBLE_STUDY_LESSONS.md",
+      "summary": "66 books. Record: { book, chapter, citation, text, plain } — text = verbatim PD scripture, plain = original 864zeros 2026 rendering. KJV (NT + most OT), WEB rendered 'the Lord' (Psalms & Proverbs). Plus real-world application layer (genesis_applications.json) and complete 66-book study lesson sets (bible_study_lessons.json). No review gates."
     },
     "apps/clearstreak": {
       "kind": "app",
@@ -38,11 +42,165 @@
         "passages": "passages_core.json — 130 moment-of-need passages (needs_clinical_review: true)",
         "affirmations_recovery": "affirmations_recovery.json — 50 secular",
         "affirmations_spiritual": "affirmations_spiritual.json — 50 faith",
-        "daily_verse": "clearStreak-daily-verse.json.json",
+        "daily_verse": "clearStreak-daily-verse.json",
         "reader": "big_book.json + big_book_index.json (full 42-section reader + page provenance)",
         "clinical_review": "clinical_review.html / clinical_review.csv (reviewer handoff)"
       },
       "gate": "passages_core.json carries needs_clinical_review:true — no ship without an LCSW/CADC pass; final PD legal read still owed before store build."
+    },
+    "shared/creative": {
+      "kind": "shared",
+      "title": "Original 864zeros Literary IP (Poems, Prayers & Reflections)",
+      "folders": {
+        "poems": "shared/creative/poems/",
+        "prayers": "shared/creative/prayers/",
+        "reflections": "shared/creative/reflections/"
+      },
+      "summary": "150+ original authored poems and prayers with emotional/moment taxonomy, paired illustration links, and narration metadata."
+    },
+    "shared/practice_books": {
+      "kind": "shared",
+      "title": "864zeros Practice Books & Workbooks Series",
+      "folder": "shared/practice_books/foundations_of_resilience/",
+      "manifest": "shared/practice_books/foundations_of_resilience/practice_book_10_lessons.json",
+      "manuscript": "shared/practice_books/foundations_of_resilience/PRACTICE_BOOK_10_LESSONS.md",
+      "viewer": "shared/practice_books/foundations_of_resilience/practice_book_viewer.html",
+      "summary": "10-Lesson daily practice workbook combining public-domain scripture (KJV/WEB), modern plain-language renderings, extracted behavioral intent, daily reflection journaling, and jeff_sketch style master graphite illustrations with superimposed card overlays."
+    },
+    "media": {
+      "kind": "media_house",
+      "title": "864zeros Central Multimedia Asset Vault",
+      "docs": "media/MEDIA_HOUSE.md",
+      "lora_guide": "media/visuals/lora_overview_prompts_for_jeff_sketch.html",
+      "departments": {
+        "audio": "media/audio/ (voices, music, sfx, masters)",
+        "visuals": "media/visuals/ (training_pools, lora_weights, rendered_art)",
+        "graphics": "media/graphics/ (branding, templates, covers)",
+        "photography": "media/photography/ (references, textures)",
+        "video": "media/video/ (b_roll_loops, storyboards, rendered_reels, kate_live_call.html live briefing room, kate_avatar_rig)",
+        "products": "media/products/ (canonical icons, store screenshots, promo tiles, 9:16 video shorts)"
+      }
+    },
+    "media/products": {
+      "kind": "dam_products",
+      "title": "864zeros Central Product Asset Vault (DAM)",
+      "docs": "media/MEDIA_HOUSE.md",
+      "taxonomy": "PRODUCT_TAXONOMY.json",
+      "total_products": 16,
+      "products_seeded": [
+        {
+          "slug": "autoorganize-ytm",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "VIDEO_COMPLETE",
+          "vault": "media/products/autoorganize-ytm/"
+        },
+        {
+          "slug": "link-later",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/link-later/"
+        },
+        {
+          "slug": "tab-stasher",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/tab-stasher/"
+        },
+        {
+          "slug": "migration-pilot",
+          "category": "browser-extensions",
+          "pillar": "864-Flux",
+          "status": "MEDIA_READY",
+          "vault": "media/products/migration-pilot/"
+        },
+        {
+          "slug": "864z-chronicle",
+          "category": "browser-extensions",
+          "pillar": "864-Flux",
+          "status": "MEDIA_READY",
+          "vault": "media/products/864z-chronicle/"
+        },
+        {
+          "slug": "DataNap",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/DataNap/"
+        },
+        {
+          "slug": "Signal2Noise",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/Signal2Noise/"
+        },
+        {
+          "slug": "Time2Focus",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/Time2Focus/"
+        },
+        {
+          "slug": "TuneOut2FocusIn",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/TuneOut2FocusIn/"
+        },
+        {
+          "slug": "who-is-watching",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/who-is-watching/"
+        },
+        {
+          "slug": "oia-focus-note",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/oia-focus-note/"
+        },
+        {
+          "slug": "oia-focus-wall",
+          "category": "browser-extensions",
+          "pillar": "OIA",
+          "status": "MEDIA_READY",
+          "vault": "media/products/oia-focus-wall/"
+        },
+        {
+          "slug": "clipboard",
+          "category": "browser-extensions",
+          "pillar": "864-Flux",
+          "status": "PARTIAL",
+          "vault": "media/products/clipboard/"
+        },
+        {
+          "slug": "Bible-Insight",
+          "category": "browser-extensions",
+          "pillar": "FHG",
+          "status": "PARTIAL",
+          "vault": "media/products/Bible-Insight/"
+        },
+        {
+          "slug": "omniclip",
+          "category": "desktop-apps",
+          "pillar": "CMM",
+          "status": "MEDIA_READY",
+          "vault": "media/products/omniclip/"
+        },
+        {
+          "slug": "clearstreak",
+          "category": "mobile-apps",
+          "pillar": "FHG",
+          "status": "VIDEO_COMPLETE",
+          "vault": "media/products/clearstreak/"
+        }
+      ]
     }
   }
 }

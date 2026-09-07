@@ -1,0 +1,39 @@
+{
+  "slug": "oia-focus-note",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.447Z",
+  "type": "extension",
+  "name": "Focus Note — a single note that clears itself",
+  "summary": "One calm note for ADHD minds. Dump what you need to remember — it auto-clears after 24 hours. Copy or download to keep it. 100% local.",
+  "metaDescription": "One calm note for ADHD minds. Dump what you need to remember — it auto-clears after 24 hours. Copy or download to keep it. 100% local.",
+  "icon": "focus-note.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "focus-note-1.png",
+      "alt": "Focus Note — one calm note for one task",
+      "cap": "One calm note for one task — dump the thought and save it."
+    },
+    {
+      "img": "focus-note-2.png",
+      "alt": "Focus Note — notes auto-clear after 24 hours; copy or download to keep them",
+      "cap": "Notes auto-clear after 24 hours. Copy or download to keep anything."
+    },
+    {
+      "img": "focus-note-3.png",
+      "alt": "Focus Note — free, local, and yours with no account or tracking",
+      "cap": "Free, local, and yours — no account, no cloud, no tracking."
+    }
+  ],
+  "jsonld": {
+    "description": "A single-note ADHD scratchpad whose notes auto-clear after 24 hours by design. Copy or download to keep them. Local-first, no server, no tracking.",
+    "featureList": [
+      "Single-note quick capture",
+      "Auto-clear after 24 hours (ephemeral by design)",
+      "Copy all notes to clipboard",
+      "Download notes as a .txt file",
+      "100% local, no network calls"
+    ]
+  }
+}

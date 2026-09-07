@@ -3,9 +3,10 @@
 # Deliberately EXCLUDES Dover's modern (copyrighted) additions:
 #   Introduction to the Dover Edition, About Bill W, cover/title/copyright/contents/dividers.
 
-# Store paths (864zeros-publish). $outApp is the downstream consuming app (clearStreak repo) — deploy target.
-$epub    = "C:\dev\864zeros-publish\sources\aa-bigbook-1939-full-PD.epub"
-$outMain = "C:\dev\864zeros-publish\apps\clearstreak\big_book.json"
+# Store paths (864zeros-publish). $outApp is optional downstream consuming app deploy target.
+$root    = Split-Path $PSScriptRoot -Parent
+$epub    = Join-Path $root "sources\aa-bigbook-1939-full-PD.epub"
+$outMain = Join-Path $root "apps\clearstreak\big_book.json"
 $outApp  = "C:\dev\clearStreak\app\src\main\assets\big_book.json"
 
 Add-Type -AssemblyName System.IO.Compression.FileSystem
@@ -114,9 +115,11 @@ $doc = [ordered]@{
 $json = $doc | ConvertTo-Json -Depth 6
 $utf8 = New-Object System.Text.UTF8Encoding($false)   # no BOM
 [System.IO.File]::WriteAllText($outMain, $json, $utf8)
-[System.IO.File]::WriteAllText($outApp,  $json, $utf8)
+if (Test-Path (Split-Path $outApp -Parent)) {
+    [System.IO.File]::WriteAllText($outApp,  $json, $utf8)
+    "Wrote: $outApp" | Write-Output
+}
 
 "`n--- DONE ---" | Write-Output
 "Chapters: $($chapters.Count)   Paragraphs: $totalParas" | Write-Output
 "Wrote: $outMain  ($([Math]::Round((Get-Item $outMain).Length/1KB,1)) KB)" | Write-Output
-"Wrote: $outApp" | Write-Output

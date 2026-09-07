@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, height=1920, initial-scale=1.0">
+<title>ClearStreak - Social Short B: The Privacy Hook</title>
+<style>
+  :root {
+    --bg: #0b0d10;
+    --surface: #14171d;
+    --card: #1c2028;
+    --border: rgba(255, 255, 255, 0.12);
+    --gold: #d4af37;
+    --gold-glow: rgba(212, 175, 55, 0.35);
+    --blue: #3b82f6;
+    --blue-glow: rgba(59, 130, 246, 0.35);
+    --green: #10b981;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 1080px;
+    height: 1920px;
+    background: var(--bg);
+    color: #fff;
+    font-family: var(--font);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .glow {
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    border-radius: 50%;
+    filter: blur(140px);
+    opacity: 0.2;
+    pointer-events: none;
+  }
+  .glow-top { top: 100px; background: var(--blue); transition: background 0.6s ease; }
+
+  .content-box {
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    z-index: 5;
+  }
+
+  .badge-hook {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 32px;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 30px;
+    letter-spacing: 0.5px;
+  }
+
+  .title-main {
+    font-size: 76px;
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: -2px;
+    margin-bottom: 40px;
+  }
+  .highlight-blue { color: var(--blue); }
+  .highlight-gold { color: var(--gold); }
+  .highlight-green { color: var(--green); }
+
+  .stage-card {
+    width: 100%;
+    background: var(--surface);
+    border: 2px solid var(--border);
+    border-radius: 44px;
+    padding: 48px;
+    box-shadow: 0 30px 70px rgba(0,0,0,0.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+  }
+
+  .scene {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+  .scene.active { display: flex; }
+
+  /* Scene 1: Surveillance */
+  .cloud-breach {
+    font-size: 110px;
+    margin: 20px 0;
+  }
+  .breach-label {
+    font-size: 36px;
+    font-weight: 900;
+    color: #ef4444;
+  }
+
+  /* Scene 2: Biometric Shield */
+  .shield-box {
+    background: var(--card);
+    border-radius: 28px;
+    border: 2px solid var(--gold);
+    padding: 32px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    box-shadow: 0 0 40px var(--gold-glow);
+  }
+  .shield-icon { font-size: 80px; }
+  .shield-title { font-size: 34px; font-weight: 900; color: #fff; }
+  .shield-desc { font-size: 24px; color: #94a3b8; }
+
+  /* Scene 3: CTA */
+  .store-pill {
+    padding: 20px 48px;
+    background: linear-gradient(135deg, var(--gold), #b3922e);
+    border-radius: 35px;
+    font-size: 38px;
+    font-weight: 900;
+    color: #000;
+    box-shadow: 0 15px 40px var(--gold-glow);
+    margin-top: 20px;
+  }
+
+  footer {
+    position: absolute;
+    bottom: 80px;
+    width: 900px;
+    height: 140px;
+    background: rgba(20, 23, 29, 0.85);
+    border: 1px solid var(--border);
+    backdrop-filter: blur(20px);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 40px;
+    z-index: 10;
+  }
+  .sub-text {
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 1.35;
+    color: #f8fafc;
+  }
+</style>
+</head>
+<body>
+
+<div class="glow glow-top" id="bg-glow"></div>
+
+<div class="content-box">
+  <div class="badge-hook" id="badge-pill">🔒 PRIVACY BY ARCHITECTURE</div>
+  <div class="title-main" id="title-main">Who Has Access To<br><span class="highlight-blue">YOUR DEEPEST HABITS?</span></div>
+
+  <div class="stage-card">
+    <!-- Scene 1: Surveillance -->
+    <div class="scene active" id="sc1">
+      <div class="cloud-breach">☁️📡</div>
+      <div class="breach-label">Cloud Servers &amp; Data Miners</div>
+      <p style="font-size: 26px; color: #94a3b8; line-height: 1.4;">
+        Most wellness apps store your struggles on remote servers. ClearStreak doesn't.
+      </p>
+    </div>
+
+    <!-- Scene 2: Biometrics -->
+    <div class="scene" id="sc2">
+      <div class="shield-box">
+        <div class="shield-icon">🛡️</div>
+        <div class="shield-title">AES-256 Encrypted on Device</div>
+        <div class="shield-desc">Unlocked only by your fingerprint. Screenshots blocked.</div>
+      </div>
+      <p style="font-size: 26px; color: #e2e8f0; font-weight: 700;">
+        Zero cloud. Zero accounts. Zero tracking.
+      </p>
+    </div>
+
+    <!-- Scene 3: CTA -->
+    <div class="scene" id="sc3">
+      <div style="font-size: 72px;">✨</div>
+      <h3 style="font-size: 38px; font-weight: 900;">Your Habits Are Yours Alone</h3>
+      <p style="font-size: 26px; color: #94a3b8;">
+        ClearStreak: The Private Habit &amp; Vice Companion.
+      </p>
+      <div class="store-pill">Download on Google Play</div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="sub-text" id="subs">Loading...</div>
+</footer>
+
+<script>
+  const timeline = [
+    { start: 0.0, end: 5.98, scene: "sc1", badge: "⚠️ THE SURVEILLANCE RISK", title: "Who Has Access To<br><span class='highlight-blue'>YOUR DEEPEST HABITS?</span>", glow: "#3b82f6", text: "Who has access to the habits you're secretly trying to break? Most wellness apps upload your struggles to cloud servers." },
+    { start: 5.98, end: 14.40, scene: "sc2", badge: "🛡️ PRIVATE BY ARCHITECTURE", title: "Sealed With<br><span class='highlight-gold'>YOUR FINGERPRINT</span>", glow: "#d4af37", text: "ClearStreak is private by architecture. No accounts, no servers, no tracking. Encrypted on your device and unlocked only by your fingerprint." },
+    { start: 14.40, end: 22.0, scene: "sc3", badge: "✨ DATA OVER SHAME", title: "Your Habits<br><span class='highlight-green'>ARE YOURS ALONE</span>", glow: "#10b981", text: "Your habits are yours alone. ClearStreak: the private habit and vice companion." }
+  ];
+
+  const scenes = document.querySelectorAll('.scene');
+  const subs = document.getElementById('subs');
+  const badgePill = document.getElementById('badge-pill');
+  const titleMain = document.getElementById('title-main');
+  const bgGlow = document.getElementById('bg-glow');
+
+  window.seekTo = function(t) {
+    const cur = timeline.find(item => t >= item.start && t < item.end) || timeline[timeline.length - 1];
+
+    scenes.forEach(s => {
+      if (s.id === cur.scene) s.classList.add('active');
+      else s.classList.remove('active');
+    });
+
+    subs.textContent = cur.text;
+    badgePill.innerHTML = cur.badge;
+    titleMain.innerHTML = cur.title;
+    bgGlow.style.background = cur.glow;
+  };
+
+  window.startPlayback = function() {
+    const startTime = performance.now();
+    function loop(now) {
+      const elapsed = (now - startTime) / 1000.0;
+      window.seekTo(elapsed);
+      if (elapsed < 20.0) {
+        requestAnimationFrame(loop);
+      }
+    }
+    requestAnimationFrame(loop);
+  };
+
+  seekTo(0.0);
+</script>
+
+</body>
+</html>

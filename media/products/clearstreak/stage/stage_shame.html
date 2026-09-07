@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, height=1920, initial-scale=1.0">
+<title>ClearStreak - Social Short A: The Shame Hook</title>
+<style>
+  :root {
+    --bg: #0b0d10;
+    --surface: #14171d;
+    --card: #1c2028;
+    --border: rgba(255, 255, 255, 0.12);
+    --gold: #d4af37;
+    --gold-glow: rgba(212, 175, 55, 0.35);
+    --green: #10b981;
+    --green-glow: rgba(16, 185, 129, 0.3);
+    --red: #ef4444;
+    --red-glow: rgba(239, 68, 68, 0.3);
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    width: 1080px;
+    height: 1920px;
+    background: var(--bg);
+    color: #fff;
+    font-family: var(--font);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .glow {
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    border-radius: 50%;
+    filter: blur(140px);
+    opacity: 0.2;
+    pointer-events: none;
+  }
+  .glow-top { top: 100px; background: var(--red); transition: background 0.6s ease; }
+
+  .content-box {
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    z-index: 5;
+  }
+
+  .badge-hook {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 32px;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 30px;
+    letter-spacing: 0.5px;
+  }
+
+  .title-main {
+    font-size: 76px;
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: -2px;
+    margin-bottom: 40px;
+  }
+  .highlight-red { color: var(--red); }
+  .highlight-gold { color: var(--gold); }
+  .highlight-green { color: var(--green); }
+
+  .stage-card {
+    width: 100%;
+    background: var(--surface);
+    border: 2px solid var(--border);
+    border-radius: 44px;
+    padding: 48px;
+    box-shadow: 0 30px 70px rgba(0,0,0,0.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+  }
+
+  .scene {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+  .scene.active { display: flex; }
+
+  /* Scene 1: Shattered Streak */
+  .broken-meter {
+    font-size: 110px;
+    margin: 20px 0;
+    animation: shake 0.5s ease-in-out;
+  }
+  @keyframes shake {
+    0%, 100% { transform: rotate(0); }
+    25% { transform: rotate(-8deg); }
+    75% { transform: rotate(8deg); }
+  }
+  .broken-label {
+    font-size: 38px;
+    font-weight: 900;
+    color: var(--red);
+  }
+
+  /* Scene 2: Data Over Shame */
+  .dignity-meter {
+    background: var(--card);
+    border-radius: 28px;
+    border: 2px solid var(--green);
+    padding: 32px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 0 40px var(--green-glow);
+  }
+  .stat-col h3 {
+    font-size: 56px;
+    font-weight: 900;
+    color: var(--gold);
+  }
+  .stat-col p {
+    font-size: 22px;
+    color: #94a3b8;
+    font-weight: 700;
+  }
+
+  /* Scene 3: Store */
+  .store-pill {
+    padding: 20px 48px;
+    background: linear-gradient(135deg, var(--gold), #b3922e);
+    border-radius: 35px;
+    font-size: 38px;
+    font-weight: 900;
+    color: #000;
+    box-shadow: 0 15px 40px var(--gold-glow);
+    margin-top: 20px;
+  }
+
+  footer {
+    position: absolute;
+    bottom: 80px;
+    width: 900px;
+    height: 140px;
+    background: rgba(20, 23, 29, 0.85);
+    border: 1px solid var(--border);
+    backdrop-filter: blur(20px);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 40px;
+    z-index: 10;
+  }
+  .sub-text {
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 1.35;
+    color: #f8fafc;
+  }
+</style>
+</head>
+<body>
+
+<div class="glow glow-top" id="bg-glow"></div>
+
+<div class="content-box">
+  <div class="badge-hook" id="badge-pill">⚠️ THE HABIT TRACKING TRAP</div>
+  <div class="title-main" id="title-main">Break a streak...<br><span class="highlight-red">WIPED TO ZERO?</span></div>
+
+  <div class="stage-card">
+    <!-- Scene 1: Shame -->
+    <div class="scene active" id="sc1">
+      <div class="broken-meter">💥 0</div>
+      <div class="broken-label">"Day 1: Failure"</div>
+      <p style="font-size: 26px; color: #94a3b8; line-height: 1.4;">
+        Standard habit apps shame you into quitting the moment you slip up.
+      </p>
+    </div>
+
+    <!-- Scene 2: Data Over Shame -->
+    <div class="scene" id="sc2">
+      <div class="dignity-meter">
+        <div class="stat-col">
+          <h3>42</h3>
+          <p>CLEAN DAYS KEPT</p>
+        </div>
+        <div class="stat-col">
+          <h3>$315</h3>
+          <p>MONEY SAVED</p>
+        </div>
+      </div>
+      <p style="font-size: 28px; color: #e2e8f0; font-weight: 700; line-height: 1.4;">
+        ClearStreak resets today's count — but your milestones, history, and personal bests stay permanent.
+      </p>
+    </div>
+
+    <!-- Scene 3: CTA -->
+    <div class="scene" id="sc3">
+      <div style="font-size: 72px;">🛡️</div>
+      <h3 style="font-size: 38px; font-weight: 900;">Data Over Shame</h3>
+      <p style="font-size: 26px; color: #94a3b8;">
+        Encrypted on your phone. No accounts. No subscriptions.
+      </p>
+      <div class="store-pill">Download on Google Play</div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="sub-text" id="subs">Loading...</div>
+</footer>
+
+<script>
+  const timeline = [
+    { start: 0.0, end: 6.58, scene: "sc1", badge: "⚠️ THE HABIT TRACKING TRAP", title: "Break a streak...<br><span class='highlight-red'>WIPED TO ZERO?</span>", glow: "#ef4444", text: "Why does every habit tracker make you feel like trash when you slip up? Miss one day, and they wipe your entire streak to zero." },
+    { start: 6.58, end: 15.17, scene: "sc2", badge: "🛡️ DATA OVER SHAME", title: "Your Progress<br><span class='highlight-green'>NEVER ERASED</span>", glow: "#10b981", text: "ClearStreak is built on Data Over Shame. An off day resets today's count, but your milestones, past stretches, and personal bests stay permanent." },
+    { start: 15.17, end: 25.0, scene: "sc3", badge: "🔒 100% PRIVATE", title: "Break Habits<br><span class='highlight-gold'>WITH DIGNITY</span>", glow: "#d4af37", text: "Encrypted on your phone, no subscriptions. Break habits with dignity. Download ClearStreak on Google Play." }
+  ];
+
+  const scenes = document.querySelectorAll('.scene');
+  const subs = document.getElementById('subs');
+  const badgePill = document.getElementById('badge-pill');
+  const titleMain = document.getElementById('title-main');
+  const bgGlow = document.getElementById('bg-glow');
+
+  window.seekTo = function(t) {
+    const cur = timeline.find(item => t >= item.start && t < item.end) || timeline[timeline.length - 1];
+
+    scenes.forEach(s => {
+      if (s.id === cur.scene) s.classList.add('active');
+      else s.classList.remove('active');
+    });
+
+    subs.textContent = cur.text;
+    badgePill.innerHTML = cur.badge;
+    titleMain.innerHTML = cur.title;
+    bgGlow.style.background = cur.glow;
+  };
+
+  window.startPlayback = function() {
+    const startTime = performance.now();
+    function loop(now) {
+      const elapsed = (now - startTime) / 1000.0;
+      window.seekTo(elapsed);
+      if (elapsed < 22.5) {
+        requestAnimationFrame(loop);
+      }
+    }
+    requestAnimationFrame(loop);
+  };
+
+  seekTo(0.0);
+</script>
+
+</body>
+</html>

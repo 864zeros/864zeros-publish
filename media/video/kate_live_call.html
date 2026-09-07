@@ -1,0 +1,2778 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Executive Briefing — Kate Zefore (Chief of Staff) · 864zeros</title>
+  <style>
+    :root {
+      --bg-dark: #07090e;
+      --surface-1: #0d121d;
+      --surface-2: #151d2d;
+      --surface-border: #212c42;
+      --accent: #3b82f6;
+      --accent-glow: rgba(59, 130, 246, 0.45);
+      --accent-green: #10b981;
+      --accent-red: #ef4444;
+      --accent-amber: #f59e0b;
+      --text-main: #f8fafc;
+      --text-dim: #94a3b8;
+      --text-muted: #64748b;
+      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      background: var(--bg-dark);
+      color: var(--text-main);
+      font-family: var(--font-sans);
+      height: 100vh;
+      height: 100dvh;
+      height: -webkit-fill-available;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+    }
+
+    /* TOP HEADER */
+    header {
+      height: 52px;
+      flex-shrink: 0;
+      background: var(--surface-1);
+      border-bottom: 1px solid var(--surface-border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 16px;
+      z-index: 25;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+
+    .brand-tag {
+      background: rgba(59, 130, 246, 0.15);
+      color: var(--accent);
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-family: var(--font-mono);
+      text-transform: uppercase;
+    }
+
+    .call-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 13px;
+    }
+
+    .status-pill {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      background: rgba(16, 185, 129, 0.12);
+      color: var(--accent-green);
+      font-size: 12px;
+      font-weight: 500;
+      user-select: none;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: currentColor;
+      animation: pulse 2s infinite ease-in-out;
+    }
+
+    .status-pill.clickable {
+      cursor: pointer;
+      transition: background 0.15s ease, border-color 0.15s ease;
+      border: 1px solid transparent;
+    }
+
+    .status-pill.clickable:hover {
+      border-color: currentColor;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.85); }
+    }
+
+    /* MAIN VIEWPORT */
+    .viewport {
+      flex: 1;
+      min-height: 0;
+      display: flex;
+      position: relative;
+      background: #000;
+      overflow: hidden;
+    }
+
+    /* AVATAR STAGE */
+    .stage {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at center, #111827 0%, #030712 100%);
+    }
+
+    .avatar-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .avatar-video {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      z-index: 2;
+    }
+
+    .avatar-poster {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      max-height: 88vh;
+      max-width: 90%;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7);
+      transition: transform 0.15s ease-out, box-shadow 0.15s ease-out;
+      z-index: 1;
+    }
+
+    .avatar-poster.speaking {
+      box-shadow: 0 0 35px var(--accent-glow), 0 25px 50px -12px rgba(0, 0, 0, 0.7);
+    }
+
+    .avatar-poster.thinking {
+      animation: thinkingPulse 1.4s ease-in-out infinite alternate;
+    }
+
+    @keyframes thinkingPulse {
+      0% {
+        box-shadow: 0 0 15px rgba(245, 158, 11, 0.35), 0 25px 50px -12px rgba(0, 0, 0, 0.7);
+        filter: brightness(0.97);
+      }
+      100% {
+        box-shadow: 0 0 45px rgba(245, 158, 11, 0.8), 0 25px 50px -12px rgba(0, 0, 0, 0.7);
+        filter: brightness(1.06);
+      }
+    }
+
+    .status-dot.thinking {
+      background: var(--accent-amber) !important;
+      animation: dotPulse 1s infinite alternate;
+    }
+
+    @keyframes dotPulse {
+      0% { opacity: 0.4; transform: scale(0.85); }
+      100% { opacity: 1; transform: scale(1.25); }
+    }
+
+    /* AVATAR HUD OVERLAY */
+    .avatar-hud {
+      position: absolute;
+      bottom: 24px;
+      left: 24px;
+      background: rgba(13, 18, 29, 0.85);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--surface-border);
+      border-radius: 8px;
+      padding: 10px 14px;
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .hud-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-main);
+    }
+
+    .hud-role {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+      letter-spacing: 0.3px;
+    }
+
+    .hud-rig-select {
+      display: flex;
+      gap: 6px;
+      margin-top: 4px;
+    }
+
+    .rig-btn {
+      background: var(--surface-2);
+      border: 1px solid var(--surface-border);
+      color: var(--text-dim);
+      font-size: 11px;
+      padding: 3px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .rig-btn:hover, .rig-btn.active {
+      background: rgba(59, 130, 246, 0.2);
+      border-color: var(--accent);
+      color: var(--text-main);
+    }
+
+    /* LIVE CLOSED CAPTIONS OVERLAY (STAGE) */
+    .caption-overlay {
+      position: absolute;
+      bottom: 32px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(13, 18, 29, 0.88);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--surface-border);
+      border-radius: 9999px;
+      padding: 10px 22px;
+      font-size: 14px;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      max-width: 82%;
+      box-shadow: 0 16px 32px -4px rgba(0,0,0,0.7);
+      z-index: 14;
+      pointer-events: none;
+      transition: opacity 0.25s ease, transform 0.25s ease;
+    }
+
+    .caption-speaker {
+      font-weight: 700;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      white-space: nowrap;
+    }
+
+    .caption-speaker.user { color: var(--accent-green); }
+    .caption-speaker.kate { color: var(--accent); }
+
+    .caption-text {
+      color: var(--text-main);
+      line-height: 1.4;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    /* USER PIP CAMERA */
+    .user-pip {
+      position: absolute;
+      top: 24px;
+      right: 24px;
+      width: 250px;
+      height: 170px;
+      background: var(--surface-1);
+      border: 1px solid var(--surface-border);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+      z-index: 15;
+    }
+
+    .user-pip video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transform: scaleX(-1); /* mirror */
+    }
+
+    .pip-header-bar {
+      position: absolute;
+      top: 6px;
+      left: 8px;
+      right: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 4px;
+      cursor: pointer;
+    }
+
+    .pip-label {
+      background: rgba(0,0,0,0.65);
+      backdrop-filter: blur(4px);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 10px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .pip-mic-badge {
+      background: rgba(59, 130, 246, 0.25);
+      backdrop-filter: blur(4px);
+      border: 1px solid rgba(59, 130, 246, 0.4);
+      color: #93c5fd;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 9px;
+      font-family: var(--font-mono);
+      max-width: 135px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .pip-audio-meter {
+      position: absolute;
+      bottom: 8px;
+      left: 8px;
+      right: 8px;
+      height: 5px;
+      background: rgba(255,255,255,0.2);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    .meter-fill {
+      height: 100%;
+      width: 0%;
+      background: var(--accent-green);
+      transition: width 0.05s ease;
+    }
+
+    /* TRANSCRIPT & NOTES DRAWER */
+    .sidebar {
+      width: 380px;
+      background: var(--surface-1);
+      border-left: 1px solid var(--surface-border);
+      display: flex;
+      flex-direction: column;
+      z-index: 18;
+      transition: transform 0.25s ease;
+    }
+
+    .sidebar.collapsed {
+      display: none;
+    }
+
+    .sidebar-header {
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--surface-border);
+      font-size: 13px;
+      font-weight: 600;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .transcript-feed {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .msg {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .msg-author {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-dim);
+    }
+
+    .msg.kate .msg-author { color: var(--accent); }
+    .msg.user .msg-author { color: var(--accent-green); }
+
+    .msg-bubble {
+      padding: 10px 14px;
+      border-radius: 8px;
+      background: var(--surface-2);
+      border: 1px solid var(--surface-border);
+      white-space: pre-wrap;
+    }
+
+    .msg.user .msg-bubble {
+      background: rgba(16, 185, 129, 0.08);
+      border-color: rgba(16, 185, 129, 0.2);
+    }
+
+    .msg-bubble.live-transcribing {
+      border-color: rgba(16, 185, 129, 0.45);
+      background: rgba(16, 185, 129, 0.12);
+    }
+
+    .msg-bubble.live-transcribing::after {
+      content: ' ...';
+      color: var(--accent-green);
+      animation: blink 1.2s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.2; }
+    }
+
+    .sidebar-tab {
+      flex: 1;
+      padding: 6px 8px;
+      font-size: 11px;
+      font-weight: 600;
+      background: var(--surface-2);
+      border: 1px solid var(--surface-border);
+      color: var(--text-dim);
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      text-align: center;
+    }
+
+    .sidebar-tab.active {
+      background: rgba(59, 130, 246, 0.2);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .todo-card {
+      background: var(--surface-2);
+      border: 1px solid var(--surface-border);
+      border-radius: 6px;
+      padding: 8px 10px;
+      font-size: 11px;
+      line-height: 1.4;
+      color: var(--text-main);
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .todo-card .todo-meta {
+      font-size: 10px;
+      font-family: var(--font-mono);
+      color: var(--accent-amber);
+    }
+
+    .hud-toast {
+      position: fixed;
+      top: 64px;
+      left: 50%;
+      transform: translateX(-50%) translateY(-20px);
+      background: #10b981;
+      color: #022c22;
+      font-weight: 700;
+      font-size: 12px;
+      padding: 8px 16px;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.6);
+      z-index: 99999;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      opacity: 0;
+      pointer-events: none;
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .hud-toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    .chips-shelf {
+      padding: 12px 16px;
+      border-top: 1px solid var(--surface-border);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      background: rgba(0,0,0,0.15);
+    }
+
+    .chips-label {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .chip-btn {
+      background: var(--surface-2);
+      border: 1px solid var(--surface-border);
+      color: var(--text-dim);
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      text-align: left;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .chip-btn:hover {
+      background: rgba(59, 130, 246, 0.15);
+      border-color: var(--accent);
+      color: var(--text-main);
+    }
+
+    /* CONTROL DOCK */
+    .dock {
+      height: 68px;
+      flex-shrink: 0;
+      background: var(--surface-1);
+      border-top: 1px solid var(--surface-border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      padding: 0 16px;
+      padding-bottom: max(6px, env(safe-area-inset-bottom));
+      z-index: 30;
+    }
+
+    .dock-btn {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: var(--surface-2);
+      border: 1px solid var(--surface-border);
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    .dock-btn:hover {
+      background: var(--surface-border);
+      transform: translateY(-2px);
+    }
+
+    .dock-btn.active {
+      background: rgba(59, 130, 246, 0.2);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .dock-btn.active-off {
+      background: rgba(239, 68, 68, 0.15);
+      border-color: var(--accent-red);
+      color: var(--accent-red);
+    }
+
+    .dock-btn.end-call {
+      background: var(--accent-red);
+      border-color: var(--accent-red);
+      color: #fff;
+      width: 54px;
+      height: 54px;
+    }
+
+    .dock-btn.end-call:hover {
+      background: #dc2626;
+      box-shadow: 0 0 20px rgba(239, 68, 68, 0.5);
+    }
+
+    /* SETTINGS MODAL */
+    .modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.7);
+      backdrop-filter: blur(8px);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal.open { display: flex; }
+
+    .modal-card {
+      background: var(--surface-1);
+      border: 1px solid var(--surface-border);
+      border-radius: 12px;
+      width: 580px;
+      max-width: 94vw;
+      max-height: 90vh;
+      overflow-y: auto;
+      padding: 24px;
+      box-shadow: 0 25px 50px -12px rgba(0,0,0,0.8);
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 18px;
+    }
+
+    .modal-title { font-size: 16px; font-weight: 600; }
+    .close-btn { background: none; border: none; color: var(--text-dim); font-size: 20px; cursor: pointer; }
+
+    .safeguard-banner {
+      background: rgba(16, 185, 129, 0.1);
+      border: 1px solid rgba(16, 185, 129, 0.25);
+      border-radius: 8px;
+      padding: 10px 14px;
+      margin-bottom: 18px;
+      font-size: 12px;
+      line-height: 1.45;
+      color: #a7f3d0;
+    }
+
+    .safeguard-banner strong {
+      color: #34d399;
+      display: block;
+      margin-bottom: 2px;
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      margin-bottom: 14px;
+    }
+
+    .form-group label {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-dim);
+    }
+
+    .form-input {
+      background: var(--surface-2);
+      border: 1px solid var(--surface-border);
+      color: var(--text-main);
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-family: var(--font-mono);
+    }
+
+    .form-input:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+
+    .checkbox-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 4px;
+      margin-bottom: 14px;
+      font-size: 12.5px;
+      color: var(--text-dim);
+      cursor: pointer;
+    }
+
+    .checkbox-group input {
+      accent-color: var(--accent);
+      cursor: pointer;
+    }
+
+    .save-btn {
+      width: 100%;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      padding: 10px;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 13px;
+      cursor: pointer;
+      margin-top: 8px;
+      transition: background 0.15s ease;
+    }
+
+    .save-btn:hover {
+      background: #2563eb;
+    }
+
+    /* MOBILE PHONE VIEWPORT OPTIMIZATIONS */
+    @media (max-width: 768px) {
+      header {
+        padding: 0 12px;
+        height: 50px;
+      }
+      .brand span:last-child {
+        display: none;
+      }
+      .user-pip {
+        width: 110px;
+        height: 150px;
+        top: 12px;
+        right: 12px;
+        border-radius: 8px;
+      }
+      .pip-header-bar {
+        top: 4px;
+        left: 4px;
+        right: 4px;
+      }
+      .pip-mic-badge {
+        display: none;
+      }
+      .avatar-poster {
+        max-height: 80vh;
+        max-width: 96%;
+      }
+      .avatar-hud {
+        bottom: 14px;
+        left: 14px;
+        padding: 8px 10px;
+      }
+      .caption-overlay {
+        bottom: 14px;
+        max-width: 90%;
+        padding: 6px 14px;
+        font-size: 12px;
+      }
+      .sidebar {
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+        max-width: 100%;
+        box-shadow: -10px 0 25px rgba(0,0,0,0.85);
+      }
+      .dock {
+        height: 64px;
+        gap: 8px;
+        padding: 0 12px;
+      }
+      .dock-btn {
+        width: 42px;
+        height: 42px;
+        font-size: 16px;
+      }
+      .dock-btn.end-call {
+        width: 48px;
+        height: 48px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- BUILD VERIFICATION STRIP -->
+  <div id="buildBanner" style="background: #10b981; color: #022c22; font-weight: 800; font-size: 11px; text-align: center; padding: 5px; letter-spacing: 0.5px; z-index: 9999; flex-shrink: 0; box-shadow: 0 2px 8px rgba(0,0,0,0.5);">
+    🟢 BUILD 3.3: Visual Thinking State &amp; Auto-Reconnect Active
+  </div>
+
+  <!-- HEADER -->
+  <header>
+    <div class="brand">
+      <span class="brand-tag">864zeros AOE</span>
+      <span>Executive Briefing Room</span>
+      <span class="brand-tag" style="background: rgba(16,185,129,0.25); color: #34d399; font-weight: 700;">v3.3</span>
+    </div>
+    <div class="call-meta">
+      <!-- Agent speaking/listening status -->
+      <div class="status-pill" id="agentStatePill">
+        <span class="status-dot"></span>
+        <span id="agentStateText">Listening</span>
+      </div>
+
+      <!-- Live Connection Indicator -->
+      <div class="status-pill clickable" id="connStatusPill" onclick="handleConnPillClick()" title="Click to reconnect or change settings">
+        <span class="status-dot" id="connDot" style="background: var(--accent-amber);"></span>
+        <span id="connText">Local Simulation</span>
+      </div>
+
+      <!-- Quick Header Buttons -->
+      <button onclick="openSettings()" style="background: var(--surface-2); border: 1px solid var(--surface-border); color: var(--text-main); width: 32px; height: 32px; border-radius: 50%; font-size: 15px; cursor: pointer; display: flex; align-items: center; justify-content: center;" title="Settings &amp; API Key">⚙️</button>
+      <button onclick="toggleSidebar()" style="background: var(--surface-2); border: 1px solid var(--surface-border); color: var(--text-main); width: 32px; height: 32px; border-radius: 50%; font-size: 14px; cursor: pointer; display: flex; align-items: center; justify-content: center;" title="Meeting Notes &amp; Chat">💬</button>
+      <button onclick="openLogsModal()" style="background: rgba(245, 158, 11, 0.15); border: 1px solid var(--accent-amber); color: var(--accent-amber); padding: 2px 8px; border-radius: 6px; font-size: 11px; font-weight: 700; cursor: pointer;" title="View and Copy Error Logs">📋 Logs</button>
+
+      <span style="font-family: var(--font-mono); color: var(--text-muted); font-size: 12px;" id="callTimer">00:00</span>
+    </div>
+  </header>
+
+  <!-- VIEWPORT -->
+  <div class="viewport">
+    
+    <!-- STAGE: KATE ZEFORE -->
+    <div class="stage" onclick="onStageTap(event)">
+      <!-- SETUP BANNER (shown if no API key entered yet) -->
+      <div id="setupBanner" style="position: absolute; top: 12px; left: 12px; right: 125px; background: rgba(13, 18, 29, 0.94); backdrop-filter: blur(12px); border: 1.5px solid var(--accent); border-radius: 8px; padding: 10px 14px; z-index: 25; box-shadow: 0 10px 25px rgba(0,0,0,0.8); display: none;">
+        <div style="font-size: 12px; font-weight: 700; color: #fff; margin-bottom: 2px;">⚡ Connect Gemini Live</div>
+        <div style="font-size: 10px; color: var(--text-dim); margin-bottom: 8px;">Tap below to paste your Google AI Studio key &amp; talk with Kate.</div>
+        <button onclick="openSettings()" style="background: var(--accent); color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 11px; font-weight: 600; cursor: pointer; width: 100%;">⚙️ Enter API Key &amp; Connect</button>
+      </div>
+
+      <div class="avatar-container">
+        <!-- Live WebRTC video feed (for Simli / LiveKit if enabled) -->
+        <video id="avatarVideo" class="avatar-video" autoplay playsinline style="display: none;"></video>
+        
+        <!-- Master Rig Anchor Poster -->
+        <img id="avatarPoster" class="avatar-poster" src="kate_avatar_rig/kate-portrait-warm.jpg" alt="Kate Zefore">
+
+        <!-- Avatar HUD Badge with Rig Selectors -->
+        <div class="avatar-hud">
+          <div class="hud-name">Kate Zefore</div>
+          <div class="hud-role">Chief of Staff · 864zeros LLC</div>
+          <div class="hud-rig-select">
+            <button class="rig-btn active" id="rigBtnWarm" onclick="switchRig('warm')">Warm</button>
+            <button class="rig-btn" id="rigBtnFormal" onclick="switchRig('formal')">Boardroom</button>
+            <button class="rig-btn" id="rigBtnVisemes" onclick="switchRig('visemes')">Visemes</button>
+          </div>
+        </div>
+
+        <!-- ON-STAGE LIVE CLOSED CAPTIONS BAR -->
+        <div class="caption-overlay" id="liveCaptionBar" style="display: none;">
+          <span class="caption-speaker user" id="captionSpeaker">You:</span>
+          <span class="caption-text" id="captionText">Listening...</span>
+        </div>
+      </div>
+
+      <!-- USER PIP -->
+      <div class="user-pip">
+        <video id="userVideo" autoplay playsinline muted></video>
+        <div class="pip-header-bar" onclick="openSettings()" title="Click to change or test microphone">
+          <span class="pip-label">You (Jeff)</span>
+          <span class="pip-mic-badge" id="pipMicTag">Scanning Mics...</span>
+        </div>
+        <div class="pip-audio-meter">
+          <div class="meter-fill" id="micMeterFill"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SIDEBAR: TRANSCRIPT & DURABLE TO-DOS -->
+    <div class="sidebar collapsed" id="sidebar">
+      <div class="sidebar-header" style="flex-direction: column; align-items: stretch; gap: 8px; padding-bottom: 8px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <span style="font-weight: 700; font-size: 13px;">Executive Briefing Hub</span>
+          <div style="display: flex; gap: 8px; align-items: center;">
+            <span style="font-size: 10px; color: var(--accent-green); background: rgba(16,185,129,0.15); padding: 2px 6px; border-radius: 4px;" id="syncIndicator">Live Sync</span>
+            <button class="close-btn" onclick="toggleSidebar()" title="Close notes">&times;</button>
+          </div>
+        </div>
+        <div style="display: flex; gap: 6px;">
+          <button id="tabBtnTranscript" class="sidebar-tab active" onclick="switchSidebarTab('transcript')">💬 Meeting Record</button>
+          <button id="tabBtnTodos" class="sidebar-tab" onclick="switchSidebarTab('todos')">📋 To-Dos &amp; Notes</button>
+        </div>
+      </div>
+
+      <!-- TAB 1: TRANSCRIPT FEED -->
+      <div class="transcript-feed" id="transcriptFeed">
+        <div class="msg kate">
+          <span class="msg-author">Kate Zefore</span>
+          <div class="msg-bubble">Good afternoon, Jeff. Kate here. I have the fleet status, portfolio boards, and your durable to-do list loaded. What would you like to review first?</div>
+        </div>
+      </div>
+
+      <!-- TAB 2: TO-DOS FEED (KATE_TODO.md) -->
+      <div class="todos-feed" id="todosFeed" style="display: none; flex: 1; overflow-y: auto; padding: 14px; flex-direction: column; gap: 10px;">
+        <div style="background: var(--surface-2); border: 1px solid var(--surface-border); border-radius: 8px; padding: 10px;">
+          <div style="font-size: 11px; font-weight: 700; color: var(--accent); margin-bottom: 6px; display: flex; justify-content: space-between; align-items: center;">
+            <span>📝 Quick Note to Capture File:</span>
+            <span style="font-size: 10px; color: var(--text-muted); font-family: var(--font-mono);">KATE_TODO.md</span>
+          </div>
+          <div style="display: flex; gap: 6px;">
+            <input type="text" id="quickNoteInput" class="form-input" placeholder="Type a note (/note)..." style="flex: 1; padding: 6px 8px; font-size: 11px;" onkeydown="if(event.key==='Enter') submitQuickNote()">
+            <button type="button" onclick="submitQuickNote()" style="background: var(--accent); color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 11px; font-weight: 600; cursor: pointer;">Save</button>
+          </div>
+        </div>
+
+        <div style="font-size: 11px; font-weight: 700; color: var(--text-dim); margin-top: 4px;">Active Fleet To-Dos &amp; Notes:</div>
+        <div id="todosListContainer" style="display: flex; flex-direction: column; gap: 6px;">
+          <div style="font-size: 11px; color: var(--text-muted); font-style: italic;">Loading KATE_TODO.md...</div>
+        </div>
+      </div>
+
+      <!-- CHIPS SHELF -->
+      <div class="chips-shelf">
+        <span class="chips-label">Direct Briefing Inquiries</span>
+        <button class="chip-btn" onclick="sendPrompt('What is on my to-do list right now?')">📋 "What's on my to-do list?"</button>
+        <button class="chip-btn" onclick="sendPrompt('What are my top priorities across the fleet today?')">⚡ "What are my top priorities today?"</button>
+        <button class="chip-btn" onclick="sendPrompt('Give me a quick status check on the 16 extensions.')">📦 "Status check on the 16 extensions."</button>
+        <button class="chip-btn" onclick="sendPrompt('Take a note: confirm the ExtPay fee percentage before noon')">📝 "Take a note: ExtPay fee %"</button>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- CONTROL DOCK -->
+  <div class="dock">
+    <button class="dock-btn" id="btnMic" onclick="toggleMic()" title="Mute/Unmute (M)">🎙️</button>
+    <button class="dock-btn" id="btnCam" onclick="toggleCam()" title="Camera On/Off (V)">📷</button>
+    <button class="dock-btn" id="btnShare" onclick="toggleScreenShare()" title="Share Screen">🖥️</button>
+    <button class="dock-btn active" id="btnCaptions" onclick="toggleCaptions()" title="Toggle On-Screen Captions (C)">CC</button>
+    <button class="dock-btn" id="btnChat" onclick="toggleSidebar()" title="Toggle Meeting Notes">💬</button>
+    <button class="dock-btn" onclick="openSettings()" title="Audio Devices &amp; Engine Settings">⚙️</button>
+    <button class="dock-btn end-call" onclick="endCall()" title="End Session">📞</button>
+  </div>
+
+  <!-- SETTINGS MODAL -->
+  <div class="modal" id="settingsModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title">Live Audio Devices &amp; Gemini 2.0 Engine</div>
+        <button class="close-btn" onclick="closeSettings()">&times;</button>
+      </div>
+
+      <!-- DEDICATED HARDWARE PROBE & MIC TEST BENCH -->
+      <div style="background: var(--surface-2); border: 1px solid var(--surface-border); border-radius: 8px; padding: 16px; margin-bottom: 18px;">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
+          <span style="font-size: 13px; font-weight: 700; color: var(--text-main);">🎙️ Microphone Selector &amp; Live Test</span>
+          <span style="font-size: 10px; font-family: var(--font-mono); color: var(--accent-green); background: rgba(16,185,129,0.15); padding: 2px 6px; border-radius: 4px;">Live Signal Monitor</span>
+        </div>
+
+        <div class="form-group" style="margin-bottom: 10px;">
+          <label>Select Microphone to Use:</label>
+          <select class="form-input" id="cfgAudioInput" onchange="onAudioDeviceSelect(this.value)">
+            <option value="">Scanning connected audio devices...</option>
+          </select>
+        </div>
+
+        <!-- LIVE VU TEST METER -->
+        <div style="margin-bottom: 12px;">
+          <div style="display: flex; justify-content: space-between; font-size: 11px; color: var(--text-dim); margin-bottom: 5px;">
+            <span>Microphone Audio Level (Speak or tap to test):</span>
+            <span id="testMeterPct" style="font-family: var(--font-mono); font-weight: 700; color: var(--accent-green);">0%</span>
+          </div>
+          <div style="height: 12px; background: rgba(0,0,0,0.5); border-radius: 6px; overflow: hidden; border: 1px solid var(--surface-border); display: flex;">
+            <div id="testMeterFill" style="height: 100%; width: 0%; background: linear-gradient(to right, #10b981 0%, #10b981 65%, #f59e0b 80%, #ef4444 100%); transition: width 0.05s ease;"></div>
+          </div>
+          <div style="font-size: 11px; color: var(--text-muted); margin-top: 4px;">
+            Watch the bar above. If it dances when you speak, this is your working microphone!
+          </div>
+        </div>
+
+        <!-- HEAR YOURSELF TEST BUTTON -->
+        <div style="display: flex; gap: 8px; align-items: center;">
+          <button type="button" id="btnTestPlayback" onclick="runMicPlaybackTest()" style="flex: 1; background: rgba(59,130,246,0.15); border: 1px solid var(--accent); color: var(--text-main); padding: 8px 12px; border-radius: 6px; font-size: 12px; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px;">
+            <span>🔊 Test Mic (Hear Yourself · 3s)</span>
+          </button>
+          <button type="button" onclick="refreshDeviceList()" style="background: var(--surface-1); border: 1px solid var(--surface-border); color: var(--text-dim); padding: 8px 12px; border-radius: 6px; font-size: 12px; cursor: pointer;" title="Rescan connected audio devices">
+            🔄 Rescan Devices
+          </button>
+        </div>
+        <div id="testPlaybackStatus" style="font-size: 11px; color: var(--accent-amber); margin-top: 8px; font-weight: 500; display: none;"></div>
+
+        <!-- CAMERA SELECTOR -->
+        <div class="form-group" style="margin-top: 14px; margin-bottom: 0;">
+          <label>Camera Device (Phone or Webcam):</label>
+          <select class="form-input" id="cfgVideoInput" onchange="onVideoDeviceSelect(this.value)">
+            <option value="">Scanning video cameras...</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- SAFEGUARD BANNER -->
+      <div class="safeguard-banner">
+        <strong>🛡️ Zero Metered Billing Safeguard (Google AI Ultra Rule)</strong>
+        Using Google AI Studio Free-of-Charge tier keys with a hard ceiling ($0/mo bill). Never metered or billed to credit cards.
+      </div>
+
+      <div class="form-group">
+        <label>Engine Connection Mode</label>
+        <select class="form-input" id="cfgEngine" onchange="onEngineChange()">
+          <option value="gemini_live" selected>Google Gemini 2.0 Multimodal Live (Direct WebSocket)</option>
+          <option value="mock">Local Simulation Mode (SpeechSynthesis)</option>
+          <option value="simli">Simli Trinity-1 WebRTC</option>
+        </select>
+      </div>
+
+      <div class="form-group" id="geminiKeyGroup">
+        <label>Google Gemini API Key (AI Studio Free-of-Charge Tier)</label>
+        <input type="password" class="form-input" id="cfgGeminiKey" placeholder="AIzaSy..." autocomplete="off">
+        <span style="font-size: 11px; color: var(--text-muted); margin-top: 3px;">
+          Stored locally in browser localStorage. Get one at <a href="https://aistudio.google.com/apikey" target="_blank" style="color: var(--accent);">aistudio.google.com/apikey</a>.
+        </span>
+      </div>
+
+      <div class="form-group" id="geminiVoiceGroup">
+        <label>Gemini Prebuilt Voice</label>
+        <select class="form-input" id="cfgGeminiVoice">
+          <option value="Kore" selected>Kore (Firm, thoughtful female alto — Recommended)</option>
+          <option value="Aoede">Aoede (Warm, expressive female soprano)</option>
+          <option value="Puck">Puck (Upbeat, conversational)</option>
+          <option value="Charon">Charon (Deep, steady)</option>
+          <option value="Fenrir">Fenrir (Authoritative)</option>
+        </select>
+      </div>
+
+      <div class="form-group" id="geminiModelGroup">
+        <label>Gemini Realtime Model Name</label>
+        <select class="form-input" id="cfgGeminiModel">
+          <option value="models/gemini-2.0-flash-exp" selected>models/gemini-2.0-flash-exp (Gemini 2.0 Live)</option>
+        </select>
+      </div>
+
+      <label class="checkbox-group">
+        <input type="checkbox" id="cfgPitchShift" checked>
+        <span>Apply Persona Subtle Shift (1.02x pitch / 1.04x pace per Kate spec)</span>
+      </label>
+
+      <label class="checkbox-group">
+        <input type="checkbox" id="cfgMultimodalVision" checked>
+        <span>Stream Camera &amp; Screen Frames to Gemini (Multimodal Vision 0.5 fps)</span>
+      </label>
+
+      <div class="form-group">
+        <label>System Persona Directives</label>
+        <textarea class="form-input" id="cfgSystemPrompt" rows="4" style="font-family: var(--font-sans); font-size: 12px; resize: vertical;">You are Kate Zefore, Chief of Staff at 864zeros LLC, on a live video/audio executive call with Jeff, the operator and founder. Your motto is 'Calm hands, quick reads, and a bias toward go.' You give bottom-line first, the rationale right behind it, and a recommendation Jeff can act on immediately. Speak naturally, crisply, and concisely (1-3 sentences) suitable for real-time voice conversation. If Jeff interrupts, immediately yield the floor.</textarea>
+      </div>
+
+      <div style="background: rgba(0,0,0,0.4); border: 1px solid var(--surface-border); border-radius: 8px; padding: 10px; margin-top: 14px; margin-bottom: 12px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+          <span style="font-size: 11px; font-weight: 700; color: var(--accent-amber);">📋 Live Connection &amp; Error Log:</span>
+          <button type="button" onclick="copyDebugLogs()" id="btnCopyLogsSettings" style="background: var(--accent); color: #fff; border: none; padding: 4px 10px; border-radius: 4px; font-size: 10px; font-weight: 700; cursor: pointer;">📋 Copy Error Log</button>
+        </div>
+        <textarea id="debugLogAreaSettings" rows="4" readonly style="width: 100%; background: #07090e; border: 1px solid var(--surface-border); color: #34d399; font-family: var(--font-mono); font-size: 10px; padding: 6px; border-radius: 4px; resize: vertical; box-sizing: border-box; line-height: 1.35;"></textarea>
+      </div>
+
+      <button class="save-btn" onclick="saveSettings()">Save &amp; Connect Gemini Live</button>
+    </div>
+  </div>
+
+  <!-- DIAGNOSTICS & ERROR LOG MODAL -->
+  <div class="modal" id="logsModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title" style="color: #f59e0b; display: flex; align-items: center; gap: 8px;">
+          <span>📋 Live Error &amp; Diagnostics Log</span>
+        </div>
+        <button class="close-btn" onclick="closeLogsModal()">&times;</button>
+      </div>
+
+      <div style="margin-bottom: 10px; font-size: 12px; color: var(--text-dim);">
+        All WebSocket connection events, errors, and Google responses are captured below. Tap "Copy Entire Log" to paste and send.
+      </div>
+
+      <textarea id="debugLogArea" rows="12" readonly style="width: 100%; background: #07090e; border: 1px solid var(--surface-border); color: #34d399; font-family: var(--font-mono); font-size: 11px; padding: 10px; border-radius: 6px; resize: vertical; box-sizing: border-box; line-height: 1.45; white-space: pre;"></textarea>
+
+      <div style="display: flex; gap: 10px; margin-top: 14px;">
+        <button type="button" id="btnCopyLogs" onclick="copyDebugLogs()" style="flex: 1; background: var(--accent); color: #fff; border: none; padding: 10px 16px; border-radius: 6px; font-weight: 700; font-size: 13px; cursor: pointer;">
+          📋 Copy Entire Log to Clipboard
+        </button>
+        <button type="button" onclick="clearDebugLogs()" style="background: var(--surface-2); border: 1px solid var(--surface-border); color: var(--text-dim); padding: 10px 14px; border-radius: 6px; font-size: 12px; cursor: pointer;">
+          Clear
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Purge any stale realtime-exp model string from localStorage
+    try {
+      localStorage.removeItem('gemini_live_model');
+      localStorage.setItem('gemini_live_model', 'models/gemini-2.0-flash-exp');
+    } catch(e) {}
+
+    // Live Event & Diagnostics Logger
+    const debugLogs = [
+      '[BUILD] v3.3 ACTIVE',
+      '[BUILD] Endpoint: v1beta.GenerativeService.BidiGenerateContent',
+      '[BUILD] Target Model: models/gemini-2.5-flash-native-audio-preview-09-2025',
+      '[BUILD] Durable Capture: KATE_TODO.md connected via /api/todos & /api/note',
+      '[BUILD] Gemini Tool: take_note registered in BidiGenerateContent setup',
+      '[BUILD] Zero-Chirp & Anti-Cutoff: fully active'
+    ];
+    function logEvent(cat, msg, data = null) {
+      const ts = new Date().toISOString().split('T')[1].slice(0, 8);
+      let entry = `[${ts}] [${cat}] ${msg}`;
+      if (data !== null && data !== undefined) {
+        if (typeof data === 'object') {
+          try { entry += ' -> ' + JSON.stringify(data); } catch(e) { entry += ' -> ' + String(data); }
+        } else {
+          entry += ' -> ' + data;
+        }
+      }
+      debugLogs.push(entry);
+      if (debugLogs.length > 150) debugLogs.shift();
+      console.log(entry);
+
+      const area = document.getElementById('debugLogArea');
+      if (area) {
+        area.value = debugLogs.join('\n');
+        area.scrollTop = area.scrollHeight;
+      }
+      const areaSettings = document.getElementById('debugLogAreaSettings');
+      if (areaSettings) {
+        areaSettings.value = debugLogs.slice(-15).join('\n');
+        areaSettings.scrollTop = areaSettings.scrollHeight;
+      }
+    }
+
+    function openLogsModal() {
+      document.getElementById('logsModal').classList.add('open');
+      const area = document.getElementById('debugLogArea');
+      if (area) {
+        area.value = debugLogs.join('\n');
+        area.scrollTop = area.scrollHeight;
+      }
+    }
+
+    function closeLogsModal() {
+      document.getElementById('logsModal').classList.remove('open');
+    }
+
+    function copyDebugLogs() {
+      const area = document.getElementById('debugLogArea');
+      const fullText = debugLogs.join('\n') || (area ? area.value : '');
+      if (!fullText) {
+        alert('Log is currently empty.');
+        return;
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(fullText).then(() => {
+          showCopySuccess();
+        }).catch(() => fallbackCopy(fullText));
+      } else {
+        fallbackCopy(fullText);
+      }
+    }
+
+    function fallbackCopy(text) {
+      const temp = document.createElement('textarea');
+      temp.value = text;
+      document.body.appendChild(temp);
+      temp.select();
+      document.execCommand('copy');
+      document.body.removeChild(temp);
+      showCopySuccess();
+    }
+
+    function showCopySuccess() {
+      const b1 = document.getElementById('btnCopyLogs');
+      const b2 = document.getElementById('btnCopyLogsSettings');
+      if (b1) {
+        const orig = b1.innerText;
+        b1.innerText = '✅ Copied to Clipboard!';
+        setTimeout(() => b1.innerText = orig, 2500);
+      }
+      if (b2) {
+        const orig = b2.innerText;
+        b2.innerText = '✅ Copied!';
+        setTimeout(() => b2.innerText = orig, 2500);
+      }
+    }
+
+    function clearDebugLogs() {
+      debugLogs.length = 0;
+      const a1 = document.getElementById('debugLogArea');
+      const a2 = document.getElementById('debugLogAreaSettings');
+      if (a1) a1.value = '';
+      if (a2) a2.value = '';
+      logEvent('SYSTEM', 'Log cleared.');
+    }
+
+    // Configuration & State
+    let isMicOn = true;
+    let isCamOn = true;
+    let showCaptions = true;
+    let callTimerInterval = null;
+    let callSeconds = 0;
+    let micStream = null;
+    let isSpeaking = false;
+    let activeAudioDeviceId = localStorage.getItem('selected_audio_device_id') || '';
+    let activeVideoDeviceId = localStorage.getItem('selected_video_device_id') || '';
+
+    // Voice Activity Detection (VAD) for natural offline turns
+    let isUserTalking = false;
+    let userSpeechStartTime = 0;
+    let userSilenceStartTime = 0;
+
+    // Web Speech Recognition (Real-Time On-Screen Transcription)
+    let recognition = null;
+    let currentUserBubble = null;
+    let captionFadeTimeout = null;
+
+    // Web Audio Input (Microphone to PCM 16kHz)
+    let micAudioContext = null;
+    let micSourceNode = null;
+    let micProcessorNode = null;
+    let micAnalyserNode = null;
+
+    // Web Audio Playback (PCM 24kHz from Gemini)
+    let playbackContext = null;
+    let outputAnalyser = null;
+    let nextPlayTime = 0;
+    let activeAudioSources = [];
+    let voiceDataArray = null;
+
+    // Gemini Live WebSocket State
+    let geminiWs = null;
+    let isGeminiSetupComplete = false;
+    let currentKateBubble = null;
+    let visionFrameInterval = null;
+
+    // Durable Operator To-Dos & Captured Notes (KATE_TODO.md)
+    let liveTodosText = '';
+    let liveTodosRaw = '';
+
+    // Load to-dos from backend (KATE_TODO.md)
+    async function loadTodos() {
+      try {
+        const res = await fetch('/api/todos');
+        const data = await res.json();
+        if (data.ok) {
+          liveTodosText = data.todos || '';
+          liveTodosRaw = data.raw || '';
+          renderTodosView(data.todos || '');
+          logEvent('TODOS_LOADED', `Loaded ${liveTodosText ? liveTodosText.split('\n').length : 0} to-do items from KATE_TODO.md`);
+        }
+      } catch (err) {
+        console.warn('Failed to load todos from /api/todos:', err);
+      }
+    }
+
+    function renderTodosView(todosStr) {
+      const container = document.getElementById('todosListContainer');
+      if (!container) return;
+      if (!todosStr || !todosStr.trim()) {
+        container.innerHTML = '<div style="font-size: 11px; color: var(--text-muted); font-style: italic;">No to-dos recorded yet in KATE_TODO.md</div>';
+        return;
+      }
+
+      const lines = todosStr.split('\n').filter(l => l.trim().startsWith('- '));
+      container.innerHTML = '';
+      lines.reverse().forEach(line => {
+        const card = document.createElement('div');
+        card.className = 'todo-card';
+        const match = line.match(/^- \[([^\]]+)\]\s*(.*)$/);
+        if (match) {
+          card.innerHTML = `
+            <div class="todo-meta">🕒 ${escapeHtml(match[1])}</div>
+            <div>${escapeHtml(match[2])}</div>
+          `;
+        } else {
+          card.innerHTML = `<div>${escapeHtml(line.replace(/^- /, ''))}</div>`;
+        }
+        container.appendChild(card);
+      });
+    }
+
+    function switchSidebarTab(tab) {
+      const tabTranscript = document.getElementById('tabBtnTranscript');
+      const tabTodos = document.getElementById('tabBtnTodos');
+      const feedTranscript = document.getElementById('transcriptFeed');
+      const feedTodos = document.getElementById('todosFeed');
+
+      if (tab === 'todos') {
+        tabTodos.classList.add('active');
+        tabTranscript.classList.remove('active');
+        feedTodos.style.display = 'flex';
+        feedTranscript.style.display = 'none';
+        loadTodos();
+      } else {
+        tabTranscript.classList.add('active');
+        tabTodos.classList.remove('active');
+        feedTranscript.style.display = 'flex';
+        feedTodos.style.display = 'none';
+      }
+    }
+
+    async function submitQuickNote() {
+      const input = document.getElementById('quickNoteInput');
+      const text = input.value.trim().replace(/^\/note\s*/i, '');
+      if (!text) return;
+      input.value = '';
+      await saveNoteToDisk(text);
+      appendMessage('user', `/note ${text}`);
+    }
+
+    async function saveNoteToDisk(text) {
+      if (!text || !text.trim()) return;
+      const cleanText = text.trim();
+      try {
+        const res = await fetch('/api/note', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ text: cleanText })
+        });
+        const data = await res.json();
+        logEvent('NOTE_SAVED', `Note recorded in KATE_TODO.md: "${cleanText}"`);
+        showToast(`🗂 Noted: "${cleanText}"`);
+        appendNoteRecord(cleanText);
+        await loadTodos();
+        return data;
+      } catch (err) {
+        logEvent('NOTE_ERR', 'Failed to save note to disk: ' + err.message);
+      }
+    }
+
+    function showToast(msg) {
+      let toast = document.getElementById('hudToast');
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'hudToast';
+        toast.className = 'hud-toast';
+        document.body.appendChild(toast);
+      }
+      toast.innerHTML = `<span>🗂</span> <span>${escapeHtml(msg.replace(/^🗂\s*/, ''))}</span>`;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 3500);
+    }
+
+    function appendNoteRecord(text) {
+      const feed = document.getElementById('transcriptFeed');
+      if (!feed) return;
+      const msg = document.createElement('div');
+      msg.className = 'msg kate';
+      msg.innerHTML = `
+        <span class="msg-author">Kate Zefore · Capture Action</span>
+        <div class="msg-bubble" style="border-left: 3px solid var(--accent-green); background: rgba(16, 185, 129, 0.08);">
+          🗂 <strong>Captured to KATE_TODO.md:</strong><br>${escapeHtml(text)}
+        </div>
+      `;
+      feed.appendChild(msg);
+      feed.scrollTop = feed.scrollHeight;
+    }
+
+    // Offscreen canvas for frame capture
+    const captureCanvas = document.createElement('canvas');
+    captureCanvas.width = 640;
+    captureCanvas.height = 360;
+    const captureCtx = captureCanvas.getContext('2d');
+
+    // Rig anchor switching
+    const rigFiles = {
+      warm: 'kate_avatar_rig/kate-portrait-warm.jpg',
+      formal: 'kate_avatar_rig/kate-portrait-formal.jpg',
+      visemes: 'kate_avatar_rig/kate-rig-lipsync-frontal.jpg'
+    };
+
+    function switchRig(key) {
+      const poster = document.getElementById('avatarPoster');
+      if (rigFiles[key]) {
+        poster.src = rigFiles[key];
+        document.getElementById('rigBtnWarm').classList.toggle('active', key === 'warm');
+        document.getElementById('rigBtnFormal').classList.toggle('active', key === 'formal');
+        document.getElementById('rigBtnVisemes').classList.toggle('active', key === 'visemes');
+      }
+    }
+
+    // Load saved settings
+    function loadSavedSettings() {
+      // Allow URL query parameter for easy mobile link setup: ?key=AIzaSy...
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.has('key') && urlParams.get('key')) {
+        localStorage.setItem('gemini_live_api_key', urlParams.get('key').trim());
+      }
+
+      const savedKey = localStorage.getItem('gemini_live_api_key') || '';
+      const savedVoice = localStorage.getItem('gemini_live_voice') || 'Kore';
+      const savedEngine = localStorage.getItem('gemini_live_engine') || (savedKey ? 'gemini_live' : 'mock');
+      let savedModel = localStorage.getItem('gemini_live_model') || 'models/gemini-2.0-flash-exp';
+      if (savedModel.includes('realtime')) {
+        savedModel = 'models/gemini-2.0-flash-exp';
+        localStorage.setItem('gemini_live_model', savedModel);
+      }
+
+      document.getElementById('cfgGeminiKey').value = savedKey;
+      document.getElementById('cfgGeminiVoice').value = savedVoice;
+      document.getElementById('cfgEngine').value = savedEngine;
+      if (document.getElementById('cfgGeminiModel')) {
+        document.getElementById('cfgGeminiModel').value = savedModel;
+      }
+      onEngineChange();
+
+      const banner = document.getElementById('setupBanner');
+      if (banner) {
+        banner.style.display = savedKey ? 'none' : 'block';
+      }
+    }
+
+    function handleConnPillClick() {
+      const key = localStorage.getItem('gemini_live_api_key');
+      const engine = document.getElementById('cfgEngine').value;
+      if (key && engine === 'gemini_live') {
+        connectGeminiLive(key);
+      } else {
+        openSettings();
+      }
+    }
+
+    function onStageTap(e) {
+      if (e.target.closest('button') || e.target.closest('select') || e.target.closest('input')) return;
+      if (isSpeaking) {
+        logEvent('TAP_INTERRUPT', 'User tapped stage to yield floor/interrupt Kate.');
+        stopKateAudio();
+        setAgentState('listening');
+        return;
+      }
+      const key = localStorage.getItem('gemini_live_api_key');
+      if (!key) {
+        openSettings();
+      }
+    }
+
+    function onEngineChange() {
+      const engine = document.getElementById('cfgEngine').value;
+      const isGemini = engine === 'gemini_live';
+      document.getElementById('geminiKeyGroup').style.display = isGemini ? 'flex' : 'none';
+      document.getElementById('geminiVoiceGroup').style.display = isGemini ? 'flex' : 'none';
+      const mg = document.getElementById('geminiModelGroup');
+      if (mg) mg.style.display = isGemini ? 'flex' : 'none';
+    }
+
+    // Device Enumeration (Microphones & Cameras)
+    async function refreshDeviceList() {
+      try {
+        const devices = await navigator.mediaDevices.enumerateDevices();
+        const audioSelect = document.getElementById('cfgAudioInput');
+        const videoSelect = document.getElementById('cfgVideoInput');
+
+        audioSelect.innerHTML = '';
+        videoSelect.innerHTML = '';
+
+        let audioCount = 0;
+        let videoCount = 0;
+
+        devices.forEach(device => {
+          if (device.kind === 'audioinput') {
+            audioCount++;
+            const opt = document.createElement('option');
+            opt.value = device.deviceId;
+            opt.text = device.label || `Microphone ${audioCount} (${device.deviceId.substring(0, 8)}...)`;
+            if (activeAudioDeviceId && device.deviceId === activeAudioDeviceId) {
+              opt.selected = true;
+            }
+            audioSelect.appendChild(opt);
+          } else if (device.kind === 'videoinput') {
+            videoCount++;
+            const opt = document.createElement('option');
+            opt.value = device.deviceId;
+            opt.text = device.label || `Camera ${videoCount} (${device.deviceId.substring(0, 8)}...)`;
+            if (activeVideoDeviceId && device.deviceId === activeVideoDeviceId) {
+              opt.selected = true;
+            }
+            videoSelect.appendChild(opt);
+          }
+        });
+
+        if (audioCount === 0) {
+          audioSelect.innerHTML = '<option value="">No microphones detected</option>';
+        }
+        if (videoCount === 0) {
+          videoSelect.innerHTML = '<option value="">No cameras detected</option>';
+        }
+
+        updatePipDeviceLabel();
+      } catch (err) {
+        console.error('Failed to enumerate devices:', err);
+      }
+    }
+
+    function updatePipDeviceLabel() {
+      const pipBadge = document.getElementById('pipMicTag');
+      if (!micStream) {
+        pipBadge.innerText = 'Mic Off';
+        return;
+      }
+      const audioTrack = micStream.getAudioTracks()[0];
+      if (audioTrack && audioTrack.label) {
+        pipBadge.innerText = audioTrack.label.replace(/^Default - /, '');
+        pipBadge.title = 'Active Mic: ' + audioTrack.label + ' (Click to test/change)';
+      } else {
+        pipBadge.innerText = 'Active Mic';
+      }
+    }
+
+    // Switch active microphone without restarting call
+    async function onAudioDeviceSelect(deviceId) {
+      activeAudioDeviceId = deviceId;
+      localStorage.setItem('selected_audio_device_id', deviceId);
+
+      try {
+        if (micStream) {
+          micStream.getAudioTracks().forEach(t => t.stop());
+        }
+
+        const newAudioStream = await navigator.mediaDevices.getUserMedia({
+          audio: {
+            deviceId: deviceId ? { exact: deviceId } : undefined,
+            echoCancellation: true,
+            noiseSuppression: true,
+            autoGainControl: true
+          }
+        });
+
+        const newTrack = newAudioStream.getAudioTracks()[0];
+        if (micStream) {
+          const oldTracks = micStream.getAudioTracks();
+          oldTracks.forEach(t => micStream.removeTrack(t));
+          micStream.addTrack(newTrack);
+        } else {
+          micStream = newAudioStream;
+        }
+
+        setupAudioPipeline(micStream);
+        updatePipDeviceLabel();
+
+        // Restart speech recognition on new mic only if mock mode active
+        const curEngine = (document.getElementById('cfgEngine') && document.getElementById('cfgEngine').value) || 'gemini_live';
+        if (recognition && isMicOn && curEngine === 'mock') {
+          try { recognition.abort(); recognition.start(); } catch(e) {}
+        }
+
+        console.log('[Audio Device Switched]:', newTrack.label);
+      } catch (err) {
+        console.error('Failed to switch audio input device:', err);
+        alert('Could not switch to that microphone. It may be currently in use by another application.');
+      }
+    }
+
+    // Switch active camera
+    async function onVideoDeviceSelect(deviceId) {
+      activeVideoDeviceId = deviceId;
+      localStorage.setItem('selected_video_device_id', deviceId);
+
+      try {
+        if (micStream) {
+          micStream.getVideoTracks().forEach(t => t.stop());
+        }
+
+        const newVideoStream = await navigator.mediaDevices.getUserMedia({
+          video: {
+            deviceId: deviceId ? { exact: deviceId } : undefined,
+            width: 640,
+            height: 480
+          }
+        });
+
+        const newTrack = newVideoStream.getVideoTracks()[0];
+        if (micStream) {
+          const oldTracks = micStream.getVideoTracks();
+          oldTracks.forEach(t => micStream.removeTrack(t));
+          micStream.addTrack(newTrack);
+        }
+        document.getElementById('userVideo').srcObject = micStream;
+        console.log('[Video Device Switched]:', newTrack.label);
+      } catch (err) {
+        console.error('Failed to switch camera:', err);
+      }
+    }
+
+    // "Hear Yourself" 3-Second Microphone Record & Playback Test
+    let mediaRecorder = null;
+    let recordedAudioChunks = [];
+
+    function runMicPlaybackTest() {
+      const btn = document.getElementById('btnTestPlayback');
+      const status = document.getElementById('testPlaybackStatus');
+
+      if (!micStream || micStream.getAudioTracks().length === 0) {
+        alert('Microphone is not active. Please grant microphone access first.');
+        return;
+      }
+
+      try {
+        recordedAudioChunks = [];
+        mediaRecorder = new MediaRecorder(micStream);
+
+        mediaRecorder.ondataavailable = (e) => {
+          if (e.data.size > 0) recordedAudioChunks.push(e.data);
+        };
+
+        mediaRecorder.onstop = () => {
+          status.style.display = 'block';
+          status.style.color = 'var(--accent)';
+          status.innerText = '🔊 Playing back your test recording now...';
+
+          const audioBlob = new Blob(recordedAudioChunks, { type: 'audio/webm' });
+          const audioUrl = URL.createObjectURL(audioBlob);
+          const playbackAudio = new Audio(audioUrl);
+
+          playbackAudio.onended = () => {
+            status.style.color = 'var(--accent-green)';
+            status.innerText = '✅ Test complete! If you heard your voice clearly, your microphone is set up correctly.';
+            btn.innerHTML = '<span>🔊 Test Mic (Hear Yourself · 3s)</span>';
+            btn.disabled = false;
+          };
+
+          playbackAudio.onerror = () => {
+            status.style.color = 'var(--accent-red)';
+            status.innerText = '❌ Playback failed. Check computer speakers.';
+            btn.innerHTML = '<span>🔊 Test Mic (Hear Yourself · 3s)</span>';
+            btn.disabled = false;
+          };
+
+          playbackAudio.play();
+        };
+
+        mediaRecorder.start();
+        btn.disabled = true;
+        btn.innerHTML = '<span style="color: var(--accent-red);">🔴 Recording (3s)... speak now!</span>';
+        status.style.display = 'block';
+        status.style.color = 'var(--accent-amber)';
+        status.innerText = 'Speak into your microphone now: "Testing 1, 2, 3..."';
+
+        setTimeout(() => {
+          if (mediaRecorder && mediaRecorder.state === 'recording') {
+            mediaRecorder.stop();
+          }
+        }, 3200);
+
+      } catch (err) {
+        console.error('MediaRecorder error:', err);
+        status.style.display = 'block';
+        status.style.color = 'var(--accent-red)';
+        status.innerText = 'Test error: ' + err.message;
+        btn.disabled = false;
+      }
+    }
+
+    // Initialize media feeds (Webcam + Microphone)
+    async function initMedia() {
+      try {
+        const audioConstraints = {
+          echoCancellation: { ideal: true },
+          noiseSuppression: { ideal: true },
+          autoGainControl: { ideal: true }
+        };
+        if (activeAudioDeviceId) {
+          audioConstraints.deviceId = { exact: activeAudioDeviceId };
+        }
+
+        const constraints = {
+          video: activeVideoDeviceId ? { deviceId: { exact: activeVideoDeviceId } } : { facingMode: 'user', width: { ideal: 640 }, height: { ideal: 480 } },
+          audio: audioConstraints
+        };
+
+        const stream = await navigator.mediaDevices.getUserMedia(constraints);
+        micStream = stream;
+        const uVid = document.getElementById('userVideo');
+        uVid.srcObject = stream;
+        uVid.play().catch(e => console.log('Video autoplay handled:', e));
+        setupAudioPipeline(stream);
+        setupSpeechRecognition();
+        await refreshDeviceList();
+      } catch (err) {
+        console.warn('Full camera/mic access failed, attempting audio only:', err);
+        try {
+          const audioStream = await navigator.mediaDevices.getUserMedia({
+            audio: {
+              echoCancellation: true,
+              noiseSuppression: true,
+              autoGainControl: true,
+              ...(activeAudioDeviceId ? { deviceId: { exact: activeAudioDeviceId } } : {})
+            }
+          });
+          micStream = audioStream;
+          setupAudioPipeline(audioStream);
+          setupSpeechRecognition();
+          await refreshDeviceList();
+        } catch (e) {
+          console.error('No audio input devices available:', e);
+        }
+      }
+
+      // Auto-connect to Gemini if key exists
+      const key = localStorage.getItem('gemini_live_api_key');
+      const engine = localStorage.getItem('gemini_live_engine') || 'gemini_live';
+      if (key && engine === 'gemini_live') {
+        connectGeminiLive(key);
+      } else {
+        updateConnStatus('mock', 'Local Simulation');
+      }
+
+      startVisionStreamingLoop();
+    }
+
+    // Setup Real-Time Web Speech Recognition for Live On-Screen Transcription
+    function setupSpeechRecognition() {
+      const engine = (document.getElementById('cfgEngine') && document.getElementById('cfgEngine').value) || localStorage.getItem('gemini_live_engine') || 'gemini_live';
+      if (engine === 'gemini_live') {
+        // In Gemini Live mode, audio is handled directly by Google's native bidirectional audio engine.
+        // Starting webkitSpeechRecognition on Android Chrome plays continuous OS voice search chirps and steals audio focus!
+        if (recognition) {
+          try { recognition.abort(); } catch(e) {}
+          recognition = null;
+        }
+        console.log('[SpeechRecognition] Completely disabled in Gemini Live mode to eliminate Android OS chirping.');
+        return;
+      }
+
+      const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
+      if (!SpeechRec) {
+        console.warn('SpeechRecognition API not available in this browser.');
+        return;
+      }
+
+      try {
+        recognition = new SpeechRec();
+        recognition.continuous = true;
+        recognition.interimResults = true;
+        recognition.lang = 'en-US';
+
+        recognition.onresult = (event) => {
+          if (!isMicOn) return;
+
+          let interim = '';
+          let final = '';
+
+          for (let i = event.resultIndex; i < event.results.length; ++i) {
+            if (event.results[i].isFinal) {
+              final += event.results[i][0].transcript;
+            } else {
+              interim += event.results[i][0].transcript;
+            }
+          }
+
+          const text = (final || interim).trim();
+          if (!text) return;
+
+          const isFinal = event.results[event.results.length - 1].isFinal;
+          handleLiveUserTranscription(text, isFinal);
+        };
+
+        recognition.onerror = (e) => {
+          if (e.error !== 'no-speech' && e.error !== 'aborted') {
+            console.warn('Speech recognition notice:', e.error);
+          }
+        };
+
+        recognition.onend = () => {
+          const curEngine = (document.getElementById('cfgEngine') && document.getElementById('cfgEngine').value) || 'gemini_live';
+          if (isMicOn && curEngine === 'mock') {
+            try { recognition.start(); } catch (e) {}
+          }
+        };
+
+        recognition.start();
+        console.log('[SpeechRecognition] Real-time live speech transcription active (mock mode).');
+      } catch (err) {
+        console.warn('Speech recognition init error:', err);
+      }
+    }
+
+    // Handle real-time speech transcription (live captions + meeting record)
+    function handleLiveUserTranscription(text, isFinal) {
+      showLiveCaption('You', text);
+
+      const feed = document.getElementById('transcriptFeed');
+      if (!currentUserBubble) {
+        const msg = document.createElement('div');
+        msg.className = 'msg user';
+        msg.innerHTML = `
+          <span class="msg-author">Jeff (You)</span>
+          <div class="msg-bubble live-transcribing"></div>
+        `;
+        feed.appendChild(msg);
+        currentUserBubble = msg.querySelector('.msg-bubble');
+      }
+
+      currentUserBubble.innerText = text;
+      feed.scrollTop = feed.scrollHeight;
+
+      if (isFinal) {
+        currentUserBubble.classList.remove('live-transcribing');
+        currentUserBubble = null;
+
+        const engine = document.getElementById('cfgEngine').value;
+        if (engine === 'mock') {
+          triggerSimulationResponse(text);
+        }
+      }
+    }
+
+    // Show on-screen stage closed caption bar
+    function showLiveCaption(speaker, text) {
+      if (!showCaptions) return;
+      const bar = document.getElementById('liveCaptionBar');
+      const spk = document.getElementById('captionSpeaker');
+      const txt = document.getElementById('captionText');
+
+      bar.style.display = 'flex';
+      bar.style.opacity = '1';
+      spk.innerText = speaker + ':';
+      spk.className = speaker === 'Kate' ? 'caption-speaker kate' : 'caption-speaker user';
+      txt.innerText = text;
+
+      if (captionFadeTimeout) clearTimeout(captionFadeTimeout);
+      captionFadeTimeout = setTimeout(() => {
+        bar.style.opacity = '0';
+        setTimeout(() => {
+          if (bar.style.opacity === '0') bar.style.display = 'none';
+        }, 300);
+      }, 3500);
+    }
+
+    function toggleCaptions() {
+      showCaptions = !showCaptions;
+      const btn = document.getElementById('btnCaptions');
+      btn.classList.toggle('active', showCaptions);
+      const bar = document.getElementById('liveCaptionBar');
+      if (!showCaptions) {
+        bar.style.display = 'none';
+      } else {
+        showLiveCaption('System', 'Live captions enabled');
+      }
+    }
+
+    // Setup Web Audio recording and playback chains
+    function setupAudioPipeline(stream) {
+      try {
+        if (micAudioContext) {
+          try { micAudioContext.close(); } catch(e) {}
+        }
+
+        micAudioContext = new (window.AudioContext || window.webkitAudioContext)();
+        micSourceNode = micAudioContext.createMediaStreamSource(stream);
+
+        // Analyser for user PIP microphone meter
+        micAnalyserNode = micAudioContext.createAnalyser();
+        micAnalyserNode.fftSize = 64;
+        micSourceNode.connect(micAnalyserNode);
+
+        // Audio processor for PCM conversion (4096 samples ≈ 90-250ms chunks)
+        micProcessorNode = micAudioContext.createScriptProcessor(4096, 1, 1);
+        micSourceNode.connect(micProcessorNode);
+
+        // Connect to an in-memory MediaStreamAudioDestinationNode.
+        // This provides an active sink for the Web Audio graph to pull buffers,
+        // with 0% connection to physical hardware DAC (micAudioContext.destination).
+        // Completely eliminates hardware speaker loopback, phase clicks, and AEC calibration chirps.
+        const virtualSink = micAudioContext.createMediaStreamDestination();
+        micProcessorNode.connect(virtualSink);
+        logEvent('AUDIO', 'Audio pipeline active (sampleRate: ' + micAudioContext.sampleRate + 'Hz, zero-loopback virtual sink connected)');
+
+        const meterFill = document.getElementById('micMeterFill');
+        const testMeterFill = document.getElementById('testMeterFill');
+        const testMeterPct = document.getElementById('testMeterPct');
+        const freqData = new Uint8Array(micAnalyserNode.frequencyBinCount);
+        let pcmStreamCounter = 0;
+
+        micProcessorNode.onaudioprocess = (e) => {
+          // Digital zero out of output buffer to prevent any speaker feedback
+          const outBuffer = e.outputBuffer.getChannelData(0);
+          outBuffer.fill(0);
+
+          if (!isMicOn) {
+            meterFill.style.width = '0%';
+            if (testMeterFill) testMeterFill.style.width = '0%';
+            return;
+          }
+
+          // Compute volume meter
+          micAnalyserNode.getByteFrequencyData(freqData);
+          let sum = 0;
+          for (let i = 0; i < freqData.length; i++) sum += freqData[i];
+          const avg = sum / freqData.length;
+          const pct = Math.min(100, Math.round((avg / 128) * 100));
+
+          meterFill.style.width = pct + '%';
+          if (testMeterFill) {
+            testMeterFill.style.width = pct + '%';
+            testMeterPct.innerText = pct + '%';
+          }
+
+          // User Barge-In Interruption Detection:
+          // In Gemini Live mode, we rely strictly on Gemini's server-side content.interrupted signal,
+          // which has neural voice activity detection and acoustic echo cancellation.
+          // Client-side volume thresholds falsely trigger on Kate's voice from phone speakers, violently cutting her off.
+          const currentEngine = (document.getElementById('cfgEngine') && document.getElementById('cfgEngine').value) || 'gemini_live';
+          if (currentEngine === 'mock' && pct > 55 && isSpeaking) {
+            logEvent('BARGE_IN', 'User spoke over Kate (mock mode). Stopping speech output.');
+            stopKateAudio();
+            setAgentState('listening');
+          }
+
+          // Voice Activity Detection & Live visual feedback:
+          if (pct > 18) {
+            if (!isUserTalking) {
+              isUserTalking = true;
+              userSpeechStartTime = Date.now();
+            }
+            userSilenceStartTime = 0;
+            if (!isSpeaking) {
+              showLiveCaption('You', 'Hearing your voice...');
+            }
+          } else if (isUserTalking) {
+            if (!userSilenceStartTime) {
+              userSilenceStartTime = Date.now();
+            } else if (Date.now() - userSilenceStartTime > 650) {
+              const speechDuration = userSilenceStartTime - userSpeechStartTime;
+              isUserTalking = false;
+              userSilenceStartTime = 0;
+
+              if (speechDuration > 350 && !isSpeaking) {
+                // Instantly indicate Kate is thinking / processing!
+                setAgentState('thinking');
+                showLiveCaption('Kate', 'Processing & thinking...');
+              }
+
+              const engine = document.getElementById('cfgEngine').value;
+              if (speechDuration > 600 && engine === 'mock' && !isSpeaking) {
+                console.log('[Local VAD] User speech turn completed. Kate responding...');
+                triggerSimulationVoiceTurn();
+              }
+            }
+          }
+
+          // If Gemini WebSocket is live and setup completed, stream raw PCM audio chunk
+          if (geminiWs && geminiWs.readyState === WebSocket.OPEN && isGeminiSetupComplete) {
+            const inputChannel = e.inputBuffer.getChannelData(0);
+            const downsampled = downsampleBuffer(inputChannel, micAudioContext.sampleRate, 16000);
+            const pcmBuffer = floatTo16BitPCM(downsampled);
+            const base64Pcm = arrayBufferToBase64(pcmBuffer);
+
+            const msg = {
+              realtimeInput: {
+                mediaChunks: [
+                  {
+                    mimeType: "audio/pcm;rate=16000",
+                    data: base64Pcm
+                  }
+                ]
+              }
+            };
+            geminiWs.send(JSON.stringify(msg));
+            pcmStreamCounter++;
+            if (pcmStreamCounter % 30 === 0) {
+              logEvent('MIC_STREAM', `Streaming voice to Gemini: ${pcmStreamCounter} chunks sent (level: ${pct}%)`);
+            }
+          }
+        };
+
+        // Initialize output playback context
+        initPlaybackContext();
+      } catch (err) {
+        console.error('Audio pipeline initialization error:', err);
+      }
+    }
+
+    function initPlaybackContext() {
+      if (!playbackContext) {
+        playbackContext = new (window.AudioContext || window.webkitAudioContext)({ sampleRate: 24000 });
+        outputAnalyser = playbackContext.createAnalyser();
+        outputAnalyser.fftSize = 64;
+        outputAnalyser.connect(playbackContext.destination);
+        voiceDataArray = new Uint8Array(outputAnalyser.frequencyBinCount);
+        requestAnimationFrame(updateAvatarVoiceAnimation);
+      }
+      if (playbackContext.state === 'suspended') {
+        playbackContext.resume();
+      }
+    }
+
+    // Audio-reactive avatar glow and scale animation
+    function updateAvatarVoiceAnimation() {
+      const poster = document.getElementById('avatarPoster');
+      if (isSpeaking && outputAnalyser && voiceDataArray) {
+        outputAnalyser.getByteFrequencyData(voiceDataArray);
+        let sum = 0;
+        for (let i = 0; i < voiceDataArray.length; i++) sum += voiceDataArray[i];
+        const avg = sum / voiceDataArray.length;
+        const scale = 1.0 + (avg / 255) * 0.035;
+        const glowPx = Math.round((avg / 255) * 40);
+        poster.style.transform = `translate(-50%, -50%) scale(${scale})`;
+        poster.style.boxShadow = `0 0 ${glowPx}px var(--accent-glow), 0 25px 50px -12px rgba(0,0,0,0.7)`;
+      } else {
+        poster.style.transform = 'translate(-50%, -50%) scale(1)';
+        poster.style.boxShadow = '0 25px 50px -12px rgba(0,0,0,0.7)';
+      }
+      requestAnimationFrame(updateAvatarVoiceAnimation);
+    }
+
+    // PCM Helper Functions
+    function downsampleBuffer(buffer, inputRate, outputRate) {
+      if (inputRate === outputRate) return buffer;
+      const sampleRateRatio = inputRate / outputRate;
+      const newLength = Math.round(buffer.length / sampleRateRatio);
+      const result = new Float32Array(newLength);
+      let offsetResult = 0;
+      let offsetBuffer = 0;
+      while (offsetResult < result.length) {
+        const nextOffsetBuffer = Math.round((offsetResult + 1) * sampleRateRatio);
+        let accum = 0, count = 0;
+        for (let i = offsetBuffer; i < nextOffsetBuffer && i < buffer.length; i++) {
+          accum += buffer[i];
+          count++;
+        }
+        result[offsetResult] = count > 0 ? accum / count : 0;
+        offsetResult++;
+        offsetBuffer = nextOffsetBuffer;
+      }
+      return result;
+    }
+
+    function floatTo16BitPCM(float32Array) {
+      const buffer = new ArrayBuffer(float32Array.length * 2);
+      const view = new DataView(buffer);
+      let offset = 0;
+      for (let i = 0; i < float32Array.length; i++, offset += 2) {
+        const s = Math.max(-1, Math.min(1, float32Array[i]));
+        view.setInt16(offset, s < 0 ? s * 0x8000 : s * 0x7fff, true);
+      }
+      return buffer;
+    }
+
+    function arrayBufferToBase64(buffer) {
+      let binary = '';
+      const bytes = new Uint8Array(buffer);
+      for (let i = 0; i < bytes.byteLength; i++) {
+        binary += String.fromCharCode(bytes[i]);
+      }
+      return btoa(binary);
+    }
+
+    // Candidate live models cascade for Gemini Live (Native Two-Way Audio)
+    const candidateModels = [
+      'models/gemini-2.5-flash-native-audio-preview-09-2025',
+      'models/gemini-2.5-flash-native-audio-latest'
+    ];
+    let candidateModelIndex = 0;
+
+    async function discoverLiveModels(apiKey) {
+      if (hasDiscoveredModels) return discoveredBidiModels;
+      logEvent('DISCOVER', 'Calling ModelService.ListModels for your project...');
+      try {
+        const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?key=${apiKey}`);
+        const data = await res.json();
+        if (data.error) {
+          logEvent('LIST_ERR', 'ModelService error: ' + JSON.stringify(data.error));
+          return [];
+        }
+        if (!data.models) {
+          logEvent('LIST_WARN', 'No models array returned by Google.');
+          return [];
+        }
+
+        hasDiscoveredModels = true;
+        const bidi = [];
+        const all = [];
+        data.models.forEach(m => {
+          all.push(m.name);
+          if (m.supportedGenerationMethods && m.supportedGenerationMethods.includes('bidiGenerateContent')) {
+            // Prioritize the proven preview-09-2025 model first, then native-audio, transcribe-only last
+            if (m.name.includes('preview-09-2025')) {
+              bidi.unshift(m.name);
+            } else if (m.name.includes('native-audio')) {
+              bidi.splice(bidi.length > 0 && bidi[0].includes('preview') ? 1 : 0, 0, m.name);
+            } else {
+              bidi.push(m.name);
+            }
+          }
+        });
+
+        discoveredBidiModels = bidi;
+        logEvent('PROJECT_MODELS', `Total models: ${all.length}. Bidi models: [${bidi.join(', ') || 'NONE'}]`);
+        logEvent('AVAILABLE_MODELS', all.filter(n => n.includes('2') || n.includes('flash') || n.includes('live')).join(', ') || all.slice(0, 10).join(', '));
+        return bidi;
+      } catch (e) {
+        logEvent('DISCOVER_ERR', 'Error contacting ModelService: ' + e.message);
+        return [];
+      }
+    }
+
+    // Connect to Google Gemini 2.0 Multimodal Live WebSocket
+    async function connectGeminiLive(apiKey) {
+      if (!apiKey) {
+        logEvent('AUTH_ERR', 'Connect attempted but API key is empty.');
+        openSettings();
+        return;
+      }
+
+      if (!hasDiscoveredModels) {
+        const bidiModels = await discoverLiveModels(apiKey);
+        if (bidiModels && bidiModels.length > 0) {
+          // Prepend Google-verified bidi models
+          candidateModels.length = 0;
+          bidiModels.forEach(m => candidateModels.push(m));
+          candidateModels.push('models/gemini-2.0-flash-realtime-exp', 'models/gemini-2.0-flash', 'models/gemini-2.0-flash-exp');
+          candidateModelIndex = 0;
+        }
+      }
+
+      const activeModel = candidateModels[candidateModelIndex] || 'models/gemini-2.0-flash-realtime-exp';
+      logEvent('KEY_CHECK', `Connecting with key: ${apiKey.substring(0, 6)}... (len: ${apiKey.length}), targetModel: ${activeModel}`);
+
+      if (geminiWs) {
+        try { geminiWs.close(); } catch(e) {}
+      }
+
+      updateConnStatus('connecting', `Connecting (${activeModel.replace('models/', '')})...`);
+
+      const wsUrl = `wss://generativelanguage.googleapis.com/ws/google.ai.generativelanguage.v1beta.GenerativeService.BidiGenerateContent?key=${apiKey}`;
+      logEvent('WS_INIT', 'Connecting to Gemini Live v1beta WebSocket endpoint...');
+
+      try {
+        geminiWs = new WebSocket(wsUrl);
+      } catch (err) {
+        logEvent('WS_CREATE_ERR', 'WebSocket creation failed: ' + (err ? err.message : String(err)));
+        console.error('WebSocket creation error:', err);
+        updateConnStatus('error', 'Connection Failed');
+        return;
+      }
+
+      geminiWs.onopen = async () => {
+        logEvent('WS_OPEN', `WebSocket connected! Sending Setup handshake with ${activeModel}...`);
+        updateConnStatus('setup', 'Negotiating Setup...');
+
+        // Always fetch freshest to-dos into prompt on connection
+        try { await loadTodos(); } catch(e) {}
+
+        const voiceName = document.getElementById('cfgGeminiVoice').value || 'Kore';
+        const baseSystemPrompt = document.getElementById('cfgSystemPrompt').value;
+
+        // Ground Kate with live to-dos and priorities from KATE_TODO.md
+        let fullSystemPrompt = baseSystemPrompt;
+        if (liveTodosText) {
+          fullSystemPrompt += `\n\n=== OPERATOR TO-DO LIST (captured via /note — read-only) ===\n${liveTodosText}\n=== END TO-DO LIST ===\n\nYou CAN read the operator's captured to-do list above and reference, summarize, or prioritize it when asked (e.g. 'what\\'s on my list?', 'what are our top priorities?'). Only use what's written there; never invent items. When Jeff asks you to take a note, add to his to-do list, or record an action item, you MUST call the 'take_note' function to persist it to disk.`;
+        }
+
+        const setupMsg = {
+          setup: {
+            model: activeModel,
+            generationConfig: {
+              responseModalities: ["AUDIO"],
+              speechConfig: {
+                voiceConfig: {
+                  prebuiltVoiceConfig: {
+                    voiceName: voiceName
+                  }
+                }
+              }
+            },
+            tools: [
+              {
+                functionDeclarations: [
+                  {
+                    name: "take_note",
+                    description: "Log an operator note or to-do to Kate's durable capture file (KATE_TODO.md). Call this whenever Jeff says 'take a note', 'add to my to-dos', 'note that down', 'remember to', or gives an action item.",
+                    parameters: {
+                      type: "OBJECT",
+                      properties: {
+                        text: {
+                          type: "STRING",
+                          description: "The exact note or to-do text to capture."
+                        }
+                      },
+                      required: ["text"]
+                    }
+                  }
+                ]
+              }
+            ],
+            systemInstruction: {
+              parts: [
+                { text: fullSystemPrompt }
+              ]
+            }
+          }
+        };
+
+        logEvent('SETUP_PAYLOAD', `Model: ${activeModel}, Voice: ${voiceName}, Tools: [take_note]`);
+        geminiWs.send(JSON.stringify(setupMsg));
+      };
+
+      geminiWs.onmessage = async (event) => {
+        let msg;
+        try {
+          if (event.data instanceof Blob) {
+            const text = await event.data.text();
+            msg = JSON.parse(text);
+          } else {
+            msg = JSON.parse(event.data);
+          }
+        } catch (e) {
+          logEvent('PARSE_ERR', 'Failed to parse incoming WebSocket message: ' + e.message);
+          console.error('Failed to parse incoming WebSocket message:', e);
+          return;
+        }
+
+        // Handle Gemini Tool Calling (take_note)
+        if (msg.toolCall && msg.toolCall.functionCalls) {
+          for (const call of msg.toolCall.functionCalls) {
+            if (call.name === 'take_note') {
+              const noteText = (call.args && call.args.text) || '';
+              logEvent('TOOL_CALL', `Kate calling take_note: "${noteText}"`);
+              await saveNoteToDisk(noteText);
+              const toolResp = {
+                toolResponse: {
+                  functionResponses: [
+                    {
+                      id: call.id,
+                      name: call.name,
+                      response: {
+                        result: `Note recorded to KATE_TODO.md: "${noteText}"`
+                      }
+                    }
+                  ]
+                }
+              };
+              geminiWs.send(JSON.stringify(toolResp));
+              logEvent('TOOL_RESP', `Sent toolResponse for ID: ${call.id}`);
+            }
+          }
+          return;
+        }
+
+        if (msg.setupComplete) {
+          logEvent('SETUP_SUCCESS', `Setup handshake ACCEPTED! Active model: ${activeModel}`);
+          console.log('[Gemini Live] Handshake complete! Ready for real-time two-way voice.');
+          isGeminiSetupComplete = true;
+          localStorage.setItem('gemini_live_model', activeModel);
+          updateConnStatus('connected', `Live: ${activeModel.replace('models/', '')}`);
+          const banner = document.getElementById('setupBanner');
+          if (banner) banner.style.display = 'none';
+
+          // Kickoff greeting request to Gemini so Kate speaks immediately
+          logEvent('KICKOFF', 'Requesting greeting from Kate over Gemini Live...');
+          const kickoffMsg = {
+            clientContent: {
+              turns: [
+                {
+                  role: "user",
+                  parts: [
+                    { text: "Hello Kate, our executive briefing link is established. Please introduce yourself in 1-2 crisp sentences and ask me for our first agenda topic." }
+                  ]
+                }
+              ],
+              turnComplete: true
+            }
+          };
+          geminiWs.send(JSON.stringify(kickoffMsg));
+          return;
+        }
+
+        if (msg.serverContent) {
+          const content = msg.serverContent;
+
+          if (content.interrupted) {
+            logEvent('BARGE_IN', 'Server detected user barge-in.');
+            console.log('[Gemini Live] Server detected user barge-in. Interrupting output.');
+            stopKateAudio();
+            setAgentState('listening');
+            return;
+          }
+
+          if (content.modelTurn && content.modelTurn.parts) {
+            for (const part of content.modelTurn.parts) {
+              if (part.text) {
+                appendKateText(part.text);
+              }
+              if (part.inlineData && part.inlineData.mimeType && part.inlineData.mimeType.startsWith('audio/pcm')) {
+                logEvent('AUDIO_CHUNK', `Received audio chunk (${part.inlineData.data.length} bytes base64)`);
+                queueIncomingAudioChunk(part.inlineData.data);
+              }
+            }
+          }
+
+          if (content.turnComplete) {
+            currentKateBubble = null;
+          }
+        }
+      };
+
+      geminiWs.onerror = (err) => {
+        logEvent('WS_ERR', 'WebSocket error event occurred', err ? err.message : null);
+        console.error('[Gemini Live] WebSocket Error:', err);
+        updateConnStatus('error', 'Connection Error');
+      };
+
+      geminiWs.onclose = (e) => {
+        logEvent('WS_CLOSE', `Closed: code=${e.code}, reason="${e.reason || 'none'}", clean=${e.wasClean}`);
+        console.warn('[Gemini Live] WebSocket Closed:', e.code, e.reason);
+        isGeminiSetupComplete = false;
+
+        // Automatic Model Cascade Fallback on code 1008 OR code 1007 modality mismatch
+        const isModelOrModalityMismatch = e.code === 1008 || (e.code === 1007 && (e.reason.includes('modalities') || e.reason.includes('not supported') || e.reason.includes('not found')));
+        if (isModelOrModalityMismatch && candidateModelIndex < candidateModels.length - 1) {
+          const rejectedModel = candidateModels[candidateModelIndex];
+          candidateModelIndex++;
+          const nextModel = candidateModels[candidateModelIndex];
+          logEvent('MODEL_CASCADE', `Model ${rejectedModel} was rejected (${e.reason || e.code}). Auto-retrying with ${nextModel}...`);
+          updateConnStatus('connecting', `Retrying ${nextModel.replace('models/', '')}...`);
+          setTimeout(() => {
+            connectGeminiLive(apiKey);
+          }, 350);
+          return;
+        }
+
+        // Automatic Auto-Reconnect on code 1011 (Internal Error) or unexpected drop
+        if (e.code === 1011 || (!e.wasClean && e.code !== 1000 && e.code !== 1008)) {
+          logEvent('AUTO_RECONNECT', `Server closed (${e.code}: ${e.reason || 'Internal error'}). Reconnecting link in 800ms...`);
+          updateConnStatus('connecting', 'Reconnecting to Kate...');
+          showToast('⚡ Reconnecting to Kate...');
+          setTimeout(() => {
+            if (document.getElementById('cfgEngine').value === 'gemini_live') {
+              connectGeminiLive(apiKey);
+            }
+          }, 800);
+          return;
+        }
+
+        if (document.getElementById('cfgEngine').value === 'gemini_live') {
+          const detail = e.reason || (e.code === 1007 ? 'API Key not valid' : `Code ${e.code}`);
+          updateConnStatus('disconnected', `Disconnected: ${detail}`);
+          const banner = document.getElementById('setupBanner');
+          if (banner) {
+            banner.style.display = 'block';
+            banner.innerHTML = `
+              <div style="font-size: 12px; font-weight: 700; color: #ef4444; margin-bottom: 2px;">⚠️ Gemini Connection Closed (${e.code})</div>
+              <div style="font-size: 11px; color: var(--text-dim); margin-bottom: 8px;">${escapeHtml(detail)}</div>
+              <button onclick="openLogsModal()" style="background: var(--accent); color: #fff; border: none; padding: 6px 12px; border-radius: 6px; font-size: 11px; font-weight: 600; cursor: pointer; width: 100%; margin-bottom: 6px;">📋 View &amp; Copy Error Log</button>
+              <button onclick="openSettings()" style="background: var(--surface-2); color: #fff; border: 1px solid var(--surface-border); padding: 6px 12px; border-radius: 6px; font-size: 11px; cursor: pointer; width: 100%;">Check Settings</button>
+            `;
+          }
+        }
+      };
+    }
+
+    // Queue and schedule PCM 24kHz incoming audio chunks
+    function queueIncomingAudioChunk(base64Data) {
+      initPlaybackContext();
+      setAgentState('speaking');
+
+      const binaryStr = atob(base64Data);
+      const len = binaryStr.length;
+      const bytes = new Uint8Array(len);
+      for (let i = 0; i < len; i++) {
+        bytes[i] = binaryStr.charCodeAt(i);
+      }
+
+      const int16Array = new Int16Array(bytes.buffer);
+      const float32Array = new Float32Array(int16Array.length);
+      for (let i = 0; i < int16Array.length; i++) {
+        float32Array[i] = int16Array[i] / (int16Array[i] < 0 ? 32768 : 32767);
+      }
+
+      const audioBuffer = playbackContext.createBuffer(1, float32Array.length, 24000);
+      audioBuffer.getChannelData(0).set(float32Array);
+
+      const source = playbackContext.createBufferSource();
+      source.buffer = audioBuffer;
+
+      const pitchShiftEnabled = document.getElementById('cfgPitchShift').checked;
+      if (pitchShiftEnabled) {
+        source.playbackRate.value = 1.02;
+      }
+
+      source.connect(outputAnalyser);
+
+      const now = playbackContext.currentTime;
+      const startTime = Math.max(now, nextPlayTime);
+      source.start(startTime);
+      nextPlayTime = startTime + (audioBuffer.duration / source.playbackRate.value);
+
+      activeAudioSources.push(source);
+
+      source.onended = () => {
+        const idx = activeAudioSources.indexOf(source);
+        if (idx !== -1) activeAudioSources.splice(idx, 1);
+        if (activeAudioSources.length === 0 && playbackContext.currentTime >= nextPlayTime - 0.05) {
+          setAgentState('listening');
+        }
+      };
+    }
+
+    function stopKateAudio() {
+      for (const src of activeAudioSources) {
+        try { src.stop(); } catch(e) {}
+      }
+      activeAudioSources = [];
+      if (playbackContext) {
+        nextPlayTime = playbackContext.currentTime;
+      }
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+      }
+    }
+
+    // Vision frame streaming loop (0.5 fps)
+    function startVisionStreamingLoop() {
+      if (visionFrameInterval) clearInterval(visionFrameInterval);
+      visionFrameInterval = setInterval(() => {
+        const visionEnabled = document.getElementById('cfgMultimodalVision').checked;
+        if (!visionEnabled || !isCamOn) return;
+        if (!geminiWs || geminiWs.readyState !== WebSocket.OPEN || !isGeminiSetupComplete) return;
+
+        const video = document.getElementById('userVideo');
+        if (video.videoWidth > 0 && video.videoHeight > 0) {
+          captureCtx.drawImage(video, 0, 0, captureCanvas.width, captureCanvas.height);
+          const dataUrl = captureCanvas.toDataURL('image/jpeg', 0.5);
+          const base64Jpeg = dataUrl.split(',')[1];
+
+          const msg = {
+            realtimeInput: {
+              mediaChunks: [
+                {
+                  mimeType: "image/jpeg",
+                  data: base64Jpeg
+                }
+              ]
+            }
+          };
+          geminiWs.send(JSON.stringify(msg));
+        }
+      }, 2000);
+    }
+
+    // Send text prompts (either manual typed prompt or quick chips)
+    async function sendPrompt(text) {
+      if (text.toLowerCase().startsWith('/note')) {
+        const noteBody = text.substring(5).trim();
+        if (noteBody) {
+          appendMessage('user', text);
+          await saveNoteToDisk(noteBody);
+          return;
+        }
+      }
+
+      appendMessage('user', text);
+      showLiveCaption('You', text);
+      setAgentState('thinking');
+
+      const engine = document.getElementById('cfgEngine').value;
+      if (engine === 'gemini_live' && geminiWs && geminiWs.readyState === WebSocket.OPEN && isGeminiSetupComplete) {
+        const msg = {
+          clientContent: {
+            turns: [
+              {
+                role: "user",
+                parts: [{ text: text }]
+              }
+            ],
+            turnComplete: true
+          }
+        };
+        geminiWs.send(JSON.stringify(msg));
+      } else {
+        triggerSimulationResponse(text);
+      }
+    }
+
+    let simulationIndex = 0;
+    const simulationBriefings = [
+      "Across the fleet, your top items are: generating the audio reflections for Foundations of Resilience in 864zeros-publish, confirming the ExtPay fee percentage to unblock the 4 wired extensions, and concluding the debrand release in cli2cli-mcp.",
+      "All 16 extensions are reconciled across the catalog. LinkLater is live in the Chrome Web Store. VaultPilot, Clipboard, Signal2Noise, and Chronicle are wired for revenue pending your ExtPay merchant slug. Five others are free-ready.",
+      "Foundations of Resilience Volume 1 is 100% complete with all 10 illustrated ink plates, JSON datasets, and the viewer. The immediate next action is generating the audio reflection meditations in the audio directory.",
+      "Fleet telemetry is clean across all 39 nodes. Zero unmapped repos, 27 described. We are ready to execute your next production directive whenever you say the word."
+    ];
+
+    function triggerSimulationVoiceTurn(text) {
+      if (isSpeaking) return;
+      setAgentState('thinking');
+
+      let response = "";
+      if (text) {
+        const lower = text.toLowerCase();
+        if (lower.includes('priority') || lower.includes('priorities')) {
+          response = simulationBriefings[0];
+        } else if (lower.includes('extension') || lower.includes('16')) {
+          response = simulationBriefings[1];
+        } else if (lower.includes('resilience') || lower.includes('volume')) {
+          response = simulationBriefings[2];
+        } else {
+          response = `Understood, Jeff. I noted: "${text}". What would you like to review next?`;
+        }
+      } else {
+        response = simulationBriefings[simulationIndex % simulationBriefings.length];
+        simulationIndex++;
+      }
+
+      setTimeout(() => {
+        speakFallback(response);
+      }, 500);
+    }
+
+    function triggerSimulationResponse(text) {
+      triggerSimulationVoiceTurn(text);
+    }
+
+    // Fallback browser speech synthesis
+    function speakFallback(text) {
+      appendMessage('kate', text);
+      showLiveCaption('Kate', text);
+      setAgentState('speaking');
+
+      if ('speechSynthesis' in window) {
+        window.speechSynthesis.cancel();
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.rate = 1.05;
+        utterance.pitch = 1.02;
+
+        const voices = window.speechSynthesis.getVoices();
+        const femaleVoice = voices.find(v => v.name.includes('Samantha') || v.name.includes('Zira') || v.name.includes('Female') || v.name.includes('Google US English'));
+        if (femaleVoice) utterance.voice = femaleVoice;
+
+        utterance.onend = () => setAgentState('listening');
+        utterance.onerror = () => setAgentState('listening');
+        window.speechSynthesis.speak(utterance);
+      } else {
+        setTimeout(() => setAgentState('listening'), 3000);
+      }
+    }
+
+    // UI Updates & Message Logging
+    function appendKateText(chunk) {
+      const feed = document.getElementById('transcriptFeed');
+      if (!currentKateBubble) {
+        const msg = document.createElement('div');
+        msg.className = 'msg kate';
+        msg.innerHTML = `
+          <span class="msg-author">Kate Zefore</span>
+          <div class="msg-bubble"></div>
+        `;
+        feed.appendChild(msg);
+        currentKateBubble = msg.querySelector('.msg-bubble');
+      }
+      currentKateBubble.innerText += chunk;
+      feed.scrollTop = feed.scrollHeight;
+      showLiveCaption('Kate', currentKateBubble.innerText);
+    }
+
+    function appendMessage(sender, text) {
+      const feed = document.getElementById('transcriptFeed');
+      const msg = document.createElement('div');
+      msg.className = `msg ${sender}`;
+      msg.innerHTML = `
+        <span class="msg-author">${sender === 'kate' ? 'Kate Zefore' : 'Jeff'}</span>
+        <div class="msg-bubble">${escapeHtml(text)}</div>
+      `;
+      feed.appendChild(msg);
+      feed.scrollTop = feed.scrollHeight;
+    }
+
+    function updateConnStatus(status, label) {
+      const dot = document.getElementById('connDot');
+      const text = document.getElementById('connText');
+      text.innerText = label;
+
+      if (status === 'connected') {
+        dot.style.background = 'var(--accent-green)';
+      } else if (status === 'connecting' || status === 'setup') {
+        dot.style.background = 'var(--accent-amber)';
+      } else if (status === 'error' || status === 'disconnected') {
+        dot.style.background = 'var(--accent-red)';
+      } else {
+        dot.style.background = 'var(--accent)';
+      }
+    }
+
+    function setAgentState(state) {
+      const pill = document.getElementById('agentStatePill');
+      const text = document.getElementById('agentStateText');
+      const poster = document.getElementById('avatarPoster');
+      const dot = pill ? pill.querySelector('.status-dot') : null;
+
+      if (state === 'speaking') {
+        isSpeaking = true;
+        pill.style.background = 'rgba(59, 130, 246, 0.15)';
+        pill.style.color = 'var(--accent)';
+        text.innerText = 'Speaking';
+        poster.classList.add('speaking');
+        poster.classList.remove('thinking');
+        if (dot) dot.classList.remove('thinking');
+      } else if (state === 'thinking') {
+        isSpeaking = false;
+        pill.style.background = 'rgba(245, 158, 11, 0.15)';
+        pill.style.color = 'var(--accent-amber)';
+        text.innerText = 'Thinking...';
+        poster.classList.remove('speaking');
+        poster.classList.add('thinking');
+        if (dot) dot.classList.add('thinking');
+      } else {
+        isSpeaking = false;
+        pill.style.background = 'rgba(16, 185, 129, 0.12)';
+        pill.style.color = 'var(--accent-green)';
+        text.innerText = 'Listening';
+        poster.classList.remove('speaking');
+        poster.classList.remove('thinking');
+        if (dot) dot.classList.remove('thinking');
+      }
+    }
+
+    // Call Controls
+    function toggleMic() {
+      isMicOn = !isMicOn;
+      const btn = document.getElementById('btnMic');
+      btn.classList.toggle('active-off', !isMicOn);
+      btn.innerHTML = isMicOn ? '🎙️' : '🔇';
+
+      if (micStream) {
+        micStream.getAudioTracks().forEach(t => t.enabled = isMicOn);
+      }
+
+      if (recognition) {
+        const curEngine = (document.getElementById('cfgEngine') && document.getElementById('cfgEngine').value) || 'gemini_live';
+        if (isMicOn && curEngine === 'mock') {
+          try { recognition.start(); } catch(e) {}
+        } else {
+          try { recognition.abort(); } catch(e) {}
+        }
+      }
+    }
+
+    function toggleCam() {
+      isCamOn = !isCamOn;
+      const btn = document.getElementById('btnCam');
+      btn.classList.toggle('active-off', !isCamOn);
+      btn.innerHTML = isCamOn ? '📷' : '🚫';
+      if (micStream) {
+        micStream.getVideoTracks().forEach(t => t.enabled = isCamOn);
+      }
+    }
+
+    async function toggleScreenShare() {
+      try {
+        const screenStream = await navigator.mediaDevices.getDisplayMedia({ video: true });
+        document.getElementById('userVideo').srcObject = screenStream;
+        appendMessage('user', '[Started Screen Share]');
+        sendPrompt("I am sharing my screen now. Can you see what I have open?");
+        screenStream.getVideoTracks()[0].onended = () => {
+          document.getElementById('userVideo').srcObject = micStream;
+          appendMessage('user', '[Ended Screen Share]');
+        };
+      } catch (e) {
+        console.log('Screen share cancelled');
+      }
+    }
+
+    function toggleSidebar() {
+      document.getElementById('sidebar').classList.toggle('collapsed');
+    }
+
+    function openSettings() {
+      document.getElementById('settingsModal').classList.add('open');
+      refreshDeviceList();
+    }
+
+    function closeSettings() {
+      document.getElementById('settingsModal').classList.remove('open');
+    }
+
+    function saveSettings() {
+      const rawKey = document.getElementById('cfgGeminiKey').value;
+      const apiKey = rawKey.trim().replace(/[\r\n\t ]+/g, '');
+      const voice = document.getElementById('cfgGeminiVoice').value;
+      const engine = document.getElementById('cfgEngine').value;
+      const model = 'models/gemini-2.0-flash-exp';
+
+      hasDiscoveredModels = false;
+      candidateModelIndex = 0;
+      logEvent('SAVE_SETTINGS', `engine=${engine}, voice=${voice}, keyLength=${apiKey.length}, keyPrefix=${apiKey ? apiKey.substring(0, 6) + '...' : 'NONE'}`);
+
+      localStorage.setItem('gemini_live_api_key', apiKey);
+      localStorage.setItem('gemini_live_voice', voice);
+      localStorage.setItem('gemini_live_engine', engine);
+      localStorage.setItem('gemini_live_model', model);
+
+      closeSettings();
+
+      if (engine === 'gemini_live') {
+        if (recognition) {
+          try { recognition.abort(); } catch(e) {}
+          recognition = null;
+        }
+        if (apiKey) {
+          connectGeminiLive(apiKey);
+        } else {
+          logEvent('AUTH_ERR', 'User saved with empty API key.');
+          alert('Please enter your Google AI Studio Free-of-Charge API key to connect to Gemini 2.0 Live.');
+        }
+      } else {
+        if (geminiWs) try { geminiWs.close(); } catch(e) {}
+        setupSpeechRecognition();
+        updateConnStatus('mock', 'Local Simulation Mode');
+        appendMessage('kate', 'Switched to local offline simulation mode.');
+      }
+    }
+
+    function endCall() {
+      if (confirm('End briefing session with Kate Zefore?')) {
+        stopKateAudio();
+        if (micStream) micStream.getTracks().forEach(t => t.stop());
+        if (geminiWs) try { geminiWs.close(); } catch(e) {}
+        if (recognition) try { recognition.abort(); } catch(e) {}
+        clearInterval(callTimerInterval);
+        if (visionFrameInterval) clearInterval(visionFrameInterval);
+        document.body.innerHTML = `
+          <div style="height:100vh; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:16px; background:#07090e; color:#f8fafc;">
+            <h2>Executive Briefing Concluded</h2>
+            <p style="color:#94a3b8; font-size:14px;">All meeting notes and agenda items have been recorded.</p>
+            <button onclick="location.reload()" style="background:#3b82f6; color:#fff; border:none; padding:10px 20px; border-radius:6px; font-weight:600; cursor:pointer;">Re-enter Briefing Room</button>
+          </div>
+        `;
+      }
+    }
+
+    function startTimer() {
+      callTimerInterval = setInterval(() => {
+        callSeconds++;
+        const mins = String(Math.floor(callSeconds / 60)).padStart(2, '0');
+        const secs = String(callSeconds % 60).padStart(2, '0');
+        document.getElementById('callTimer').innerText = `${mins}:${secs}`;
+      }, 1000);
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    }
+
+    // Keyboard Shortcuts
+    window.addEventListener('keydown', (e) => {
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT' || e.target.tagName === 'TEXTAREA') return;
+      if (e.key === 'm' || e.key === 'M') toggleMic();
+      if (e.key === 'v' || e.key === 'V') toggleCam();
+      if (e.key === 'c' || e.key === 'C') toggleCaptions();
+    });
+
+    // Mobile Audio & Speech Unlocker on first user touch/tap
+    function unlockMobileAudio() {
+      if (playbackContext && playbackContext.state === 'suspended') {
+        playbackContext.resume();
+      }
+      if (micAudioContext && micAudioContext.state === 'suspended') {
+        micAudioContext.resume();
+      }
+      const curEngine = (document.getElementById('cfgEngine') && document.getElementById('cfgEngine').value) || 'gemini_live';
+      if (curEngine === 'mock') {
+        if (!recognition) {
+          setupSpeechRecognition();
+        } else {
+          try { recognition.start(); } catch(e) {}
+        }
+      }
+    }
+    window.addEventListener('touchstart', unlockMobileAudio, { passive: true });
+    window.addEventListener('click', unlockMobileAudio, { passive: true });
+
+    window.onload = () => {
+      loadSavedSettings();
+      loadTodos();
+      initMedia();
+      startTimer();
+    };
+  </script>
+</body>
+</html>

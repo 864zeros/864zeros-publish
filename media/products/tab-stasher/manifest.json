@@ -1,0 +1,38 @@
+{
+  "slug": "tab-stasher",
+  "category": "browser-extensions",
+  "pillar": "CMC",
+  "ingested_at": "2026-09-07T02:39:25.349Z",
+  "type": "extension",
+  "name": "Tab Stasher — park, annotate & export your tabs",
+  "summary": "Park a window of tabs as one labeled set — annotate each, then reopen or export to Markdown. 100% local. Not a tab suspender.",
+  "metaDescription": "Park a window of tabs as one labeled set — annotate each, then reopen or export to Markdown. 100% local. Not a tab suspender.",
+  "icon": "tab-stasher.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "tab-stasher-1.png",
+      "alt": "Tab Stasher — park a window of tabs in one click",
+      "cap": "Close the pile without losing the thread — park a window of tabs in one click."
+    },
+    {
+      "img": "tab-stasher-2.png",
+      "alt": "Tab Stasher — every tab carries its title, description, link, and your notes",
+      "cap": "Every tab carries its context — title, description, link, and your notes."
+    },
+    {
+      "img": "tab-stasher-3.png",
+      "alt": "Tab Stasher — local and exportable to Markdown",
+      "cap": "Local, and yours. Export any window to Markdown."
+    }
+  ],
+  "jsonld": {
+    "description": "Park a window of tabs as one labeled set — annotate each, then reopen or export to Markdown. Local-first, not a tab suspender.",
+    "featureList": [
+      "Stash a window of tabs",
+      "Per-tab and per-window notes",
+      "Restore all or one",
+      "Markdown export"
+    ]
+  }
+}

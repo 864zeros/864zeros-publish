@@ -1,0 +1,27 @@
+{
+  "variant": "privacy",
+  "total_duration": 19.296032,
+  "scenes": [
+    {
+      "id": "privacy_scene1_hook",
+      "start": 0.0,
+      "end": 5.976009,
+      "duration": 5.976009,
+      "text": "Who has access to the habits you're secretly trying to break? Most wellness apps upload your struggles to cloud servers."
+    },
+    {
+      "id": "privacy_scene2_body",
+      "start": 5.976009,
+      "end": 14.400023000000001,
+      "duration": 8.424014,
+      "text": "ClearStreak is private by architecture. No accounts, no servers, no tracking. Encrypted on your device and unlocked only by your fingerprint."
+    },
+    {
+      "id": "privacy_scene3_cta",
+      "start": 14.400023000000001,
+      "end": 19.296032,
+      "duration": 4.896009,
+      "text": "Your habits are yours alone. ClearStreak: the private habit and vice companion."
+    }
+  ]
+}

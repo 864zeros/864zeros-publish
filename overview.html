@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>864zeros Content Factory — Project Overview</title>
+<title>864zeros Central Content Store — Project Overview</title>
 <style>
   :root{
     --bg:#f6f5f1; --panel:#ffffff; --ink:#23201b; --muted:#7c766b; --line:#e6e2da;
@@ -54,35 +54,41 @@
 <div class="wrap">
 
 <header>
-  <div class="kicker">864zeros · Faith, Health &amp; Growth · Content Factory</div>
+  <div class="kicker">864zeros · Central Content Store · Published Assets</div>
   <h1>Public-Domain Bible &amp; Recovery Content Library</h1>
-  <div class="dateline">Project overview &amp; build record · compiled 2026-08-24 · authored content is original 864zeros writing</div>
+  <div class="dateline">Project overview &amp; build record · updated 2026-09-01 · authored content is original 864zeros writing</div>
 </header>
 
 <!-- ======================= EXECUTIVE SUMMARY ======================= -->
 <div class="exec">
   <h2>Executive Summary</h2>
   <p class="lede">We built a complete, reusable, public-domain <b>scripture and recovery content library</b> — original 864zeros writing paired with citable public-domain source text — that any app across the 864zeros ecosystem can ingest as static JSON.</p>
-  <p>The centerpiece is the <b>entire Bible</b>: every one of the 66 books represented as curated key verses, each carrying the exact public-domain scripture (<b>text</b>) beside an original, modern, 2026-voice rendering (<b>plain</b>). Alongside it sits the finished <b>ClearStreak recovery content</b> — 300 daily verses, 130 modernized Big Book passages, and 100 affirmations.</p>
-  <p><b>Totals:</b> 1,364 content records · 66 Bible books (834 records) + 530 recovery records · all validated (clean UTF-8, no empty fields, counts reconciled) · zero external-license dependencies (100% public-domain sources or original 864zeros authorship) · no runtime API calls required.</p>
-  <p><b>Status:</b> Complete and reviewable. A browser reader (<code>bible_viewer.html</code>), a machine-readable manifest (<code>bible_index.json</code>), and index docs ship with it. This library is being <b>relocated out of the ClearStreak mobile-app repo</b> into its own home; the app retains copies of the content JSON it consumes.</p>
+  <p>The centerpiece is the <b>entire Bible</b>: every one of the 66 books represented as curated key verses, each carrying the exact public-domain scripture (<b>text</b>) beside an original, modern, 2026-voice rendering (<b>plain</b>). Alongside it sits the finished <b>ClearStreak recovery content</b> — daily verses, 130 modernized Big Book passages, and 100 affirmations.</p>
+  <p><b>Totals:</b> 2,044 total published records · 66 Bible books (834 key-verse records + 660 66-book study lessons + 20 Genesis behavioral applications) + 530 recovery records · all validated (clean UTF-8, no empty fields, counts reconciled) · zero external-license dependencies (100% public-domain sources or original 864zeros authorship) · no runtime API calls required.</p>
+  <p><b>Status:</b> Complete and organized in <code>864zeros-publish</code>. Browser readers (<code>shared/bible/bible_viewer.html</code>), study references (<code>shared/bible/BIBLE_STUDY_LESSONS.md</code>), machine-readable manifests (<code>index.json</code>, <code>shared/bible/bible_index.json</code>), and index documentation ship with it. This repository serves as the central content publisher for client applications across the 864zeros properties.</p>
 </div>
 
 <div class="stats">
-  <div class="stat"><div class="num">1,364</div><div class="lab">total content records</div></div>
+  <div class="stat"><div class="num">2,044</div><div class="lab">total content records</div></div>
   <div class="stat"><div class="num">66</div><div class="lab">Bible books (all of them)</div></div>
-  <div class="stat"><div class="num">834</div><div class="lab">scripture records</div></div>
-  <div class="stat"><div class="num">100%</div><div class="lab">public-domain / original</div></div>
+  <div class="stat"><div class="num">660</div><div class="lab">66-book actionable lessons</div></div>
+  <div class="stat"><div class="num">834</div><div class="lab">key-verse scripture records</div></div>
 </div>
 
 <!-- ======================= WHAT THIS IS ======================= -->
 <h2>1. What this is</h2>
-<p>The <code>content/</code> directory is a <b>content factory</b>. Its job is to produce clean, validated JSON — in the conventions first established for the ClearStreak recovery app — that is <b>ecosystem-generic</b>: not wired to any single app, ingestible by all of them. Every record pairs a <b>public-domain source</b> with <b>original 864zeros writing</b>, which is precisely what makes the output both legally clean and a genuine 864zeros asset rather than a re-shipped commodity.</p>
+<p>The <b>864zeros-publish</b> repository is the <b>central content and data store</b> for the 864zeros ecosystem. Its job is to author, structure, and publish clean, validated JSON assets — organized into namespaces (<code>shared/</code> for ecosystem-generic content and <code>apps/&lt;name&gt;/</code> for app-specific suites) — that can be consumed by any property across the 864zeros umbrella. Every record pairs a <b>public-domain source</b> with <b>original 864zeros writing</b>, which is precisely what makes the output legally clean, defensible, and a genuine 864zeros intellectual asset rather than a re-shipped commodity.</p>
 <p>The guiding rule throughout: <b>the paraphrase is the product.</b> The scripture text is the citable anchor; the original plain-English rendering is the value 864zeros owns and can deploy anywhere.</p>
 
 <!-- ======================= THE BIBLE LIBRARY ======================= -->
 <h2>2. The Bible library — all 66 books</h2>
-<p>The complete Protestant canon, delivered as curated key verses with dual renderings. Every record:</p>
+<p>The complete Protestant canon, delivered across three major layers:</p>
+<ul>
+  <li><b>Dual-Rendering Key Verses (834 records):</b> Exact public-domain scripture beside an original, modern 2026 rendering.</li>
+  <li><b>66-Book Study Lessons (66 books · 660 lessons):</b> Each book features a comprehensive theological overview, core themes, and 10 actionable life lessons / behavioral rules with citations, verbatim KJV anchors, principles, and practical application prompts (<code>shared/bible/bible_study_lessons.json</code> &amp; <code>shared/bible/BIBLE_STUDY_LESSONS.md</code>).</li>
+  <li><b>Real-World Applications Layer:</b> Granular behavioral principles, takeaways, and situational prompts (e.g. <code>shared/bible/genesis_applications.json</code>).</li>
+</ul>
+
 <div class="schema">{ <span class="k">"book"</span>: <span class="s">"John"</span>, <span class="k">"chapter"</span>: 3, <span class="k">"citation"</span>: <span class="s">"John 3:16"</span>,
   <span class="k">"text"</span>:  <span class="s">"For God so loved the world, that he gave his only begotten Son…"</span>,   <span style="color:#8a857b">// verbatim public-domain scripture</span>
   <span class="k">"plain"</span>: <span class="s">"God loved the world so much that he gave his only Son…"</span> }        <span style="color:#8a857b">// original 864zeros 2026 rendering</span></div>
@@ -94,7 +100,9 @@
   <tr><td>Gospels (Matthew–John)</td><td>One verse per chapter</td><td class="n">89</td><td><span class="badge KJV">KJV</span></td></tr>
   <tr><td>Acts → Revelation (23 books)</td><td>Several key verses per chapter</td><td class="n">357</td><td><span class="badge KJV">KJV</span></td></tr>
   <tr><td>Genesis → Malachi, rest of OT (37 books)</td><td>Several key verses per chapter</td><td class="n">207</td><td><span class="badge KJV">KJV</span></td></tr>
-  <tr><td><b>Total</b></td><td>63 files · 66 books</td><td class="n"><b>834</b></td><td>OT 388 / NT 446</td></tr>
+  <tr><td>66-Book Life Lessons Library</td><td>Overview + 10 actionable lessons per book</td><td class="n">660</td><td><span class="badge KJV">KJV</span></td></tr>
+  <tr><td>Genesis 1–10 Applications</td><td>Behavioral principles &amp; action prompts</td><td class="n">20</td><td><span class="badge KJV">KJV</span></td></tr>
+  <tr><td><b>Total Bible Library</b></td><td>65 files · 66 books</td><td class="n"><b>1,514</b></td><td>OT 847 / NT 667</td></tr>
 </table>
 
 <h3>Coverage</h3>
@@ -119,8 +127,25 @@
   <tr><td><b>Total</b></td><td></td><td class="n"><b>530</b></td></tr>
 </table>
 
+<!-- ======================= MEDIA-DAGR PUBLISHING ENGINE ======================= -->
+<h2>4. The 864zeros Media-DAGR Publishing Engine</h2>
+<p class="lede">Every asset in the 864zeros publishing ecosystem is authored and processed through the <b>DAGR Pipeline</b> (<i>Distillation &rarr; Augment &rarr; Generation &rarr; Review/Refine</i>) — adapted from the AETHER/AEC flagship architecture (<code>S06_DAGR_METHOD.md</code>).</p>
+
+<div class="exec" style="border-left-color:var(--kjv); margin:18px 0;">
+  <h2 style="color:var(--kjv);">DAGR Core Architecture</h2>
+  <p><b>1. Distill (Deterministic &middot; &lt;0.1ms):</b> Extracts core structure from source scripture, recovery passages, or study lessons (intent, concrete physical metaphors, entities, constraints) using standard library regex and JSON parsers — zero LLM cost, zero hallucinations.</p>
+  <p><b>2. Augment (Knowledge &amp; Style Grounding):</b> Injects domain grounding rules: the <i>Dual-Rendering Translation Trinity</i> (KJV + WEB + 2026 Plain Language), authentic <i>pen &amp; ink mark-making grammar</i> (fountain pen strokes, zero shading, 40% asymmetric line weight), negative suppression tokens, and multi-tiered spatial staging.</p>
+  <p><b>3. Generate (The Non-Deterministic Call):</b> Executes the single generative call to create the base asset: visual structural line draft, spoken meditation audio synthesis, or reflection journal prompts.</p>
+  <p><b>4. Review / Refine (Accountability &amp; Distillation Loops):</b> Closes the loop through deterministic verification passes:
+    <br>&bull; <i>Visual Loop A (Clutter Stripping):</i> Removes interior scratches and micro-hatching down to pure perimeter contour lines.
+    <br>&bull; <i>Visual Loop B (Line-Weight Calibration):</i> Selectively thins 40% of secondary lines by 50% for dynamic calligraphic stroke variation.
+    <br>&bull; <i>Card Superimposition:</i> Assembles 1200&times;900 high-resolution typographic cards with zero third-party runtime dependencies.
+    <br>&bull; <i>Legal &amp; Clinical QA:</i> Enforces 100% public-domain provenance and clean commercial licensing.
+  </p>
+</div>
+
 <!-- ======================= METHOD ======================= -->
-<h2>4. Methodology &amp; conventions</h2>
+<h2>5. Methodology &amp; conventions</h2>
 <ul>
   <li><b>Dual rendering.</b> <code>text</code> = verbatim public-domain scripture (the citable anchor). <code>plain</code> = original 864zeros writing in warm, plain 2026 English (~grade 6–8). Both preserved; the scripture is never replaced by the paraphrase, so citations never misrepresent.</li>
   <li><b>Provenance.</b> Scripture text was pulled as whole-book clean JSON, then verses selected and validated locally, and cross-checked against a local KJV copy. Nothing was quoted from memory into a shipped record.</li>
@@ -142,13 +167,15 @@
   <div class="alt">Alternative rejected: fetch each verse individually (hit rate limits) or scrape local PDFs (error-prone verse boundaries). Whole-book JSON is exact and fast.</div></div>
 
 <!-- ======================= TOOLING ======================= -->
-<h2>6. Tooling &amp; documentation shipped with the library</h2>
+<h2>6. Tooling &amp; documentation in this repository</h2>
 <table>
   <tr><th>Artifact</th><th>Purpose</th></tr>
-  <tr><td><code>bible_viewer.html</code> + <code>bible_data.js</code></td><td>Self-contained browser reader — scripture ↔ plain side by side, per-book navigation, global search across all 834 verses. Double-click to open, no server.</td></tr>
-  <tr><td><code>bible_index.json</code></td><td>Machine-readable manifest: 66 books in canonical order, each with file, array key, translation, shape, and record count. Single entry point for any app.</td></tr>
-  <tr><td><code>BIBLE_LIBRARY.md</code></td><td>Human-readable index: conventions, sourcing recipe, per-book count tables.</td></tr>
-  <tr><td><code>PASSAGES_REPORT.md</code> · <code>_src/STYLE_GUIDE.md</code> · <code>_src/AFFIRMATIONS_STYLE.md</code></td><td>The recovery-content build record and the authoring style guides (reproducibility).</td></tr>
+  <tr><td><code>shared/bible/bible_viewer.html</code> + <code>bible_data.js</code></td><td>Self-contained browser reader — scripture ↔ plain side by side, per-book navigation, global search across all 834 verses. Double-click to open, no server.</td></tr>
+  <tr><td><code>index.json</code></td><td>Top-level master manifest: defines all content namespaces (<code>shared/</code> and <code>apps/</code>) and published assets. Single entry point.</td></tr>
+  <tr><td><code>shared/bible/bible_index.json</code></td><td>Machine-readable Bible manifest: 66 books in canonical order, each with file, array key, translation, shape, and record count.</td></tr>
+  <tr><td><code>shared/bible/BIBLE_LIBRARY.md</code></td><td>Human-readable Bible index: conventions, sourcing recipe, per-book count tables.</td></tr>
+  <tr><td><code>apps/clearstreak/PASSAGES_REPORT.md</code> · <code>_build/_src/STYLE_GUIDE.md</code> · <code>_build/_src/AFFIRMATIONS_STYLE.md</code></td><td>The recovery-content build record and authoring style guides (reproducibility).</td></tr>
+  <tr><td><code>_build/build_db.ps1</code></td><td>Build script to compile all JSON sources of truth into a derived SQLite database (<code>db/store.sql</code> / <code>db/store.db</code>).</td></tr>
 </table>
 
 <!-- ======================= LICENSING ======================= -->
@@ -165,17 +192,17 @@
 <div class="note">Because this content ships as <b>static JSON assets</b>, no live AI/API call is needed at runtime. This matters: Anthropic's API output filter can flag graphic scriptural imagery (e.g. Revelation) if raw verses are re-sent through a live model call. Loading the JSON directly avoids that entirely — do not round-trip the raw text through an API in production.</div>
 
 <!-- ======================= WHAT REMAINS ======================= -->
-<h2>9. Open items &amp; possible next steps</h2>
+<h2>9. Open items &amp; roadmap</h2>
 <ul>
   <li><b>Uniform translation</b> — optionally re-anchor Psalms &amp; Proverbs from WEB to KJV so the whole library speaks one translation.</li>
   <li><b>Density expansion</b> — enrich the leaner OT narrative books if a use case needs deeper coverage.</li>
-  <li><b>Per-book "10 life lessons" study sets</b> — a second content class (book overview + actionable lessons) the existing prompt template was built for.</li>
-  <li><b>Relocation</b> — move this library into its own repository/home; the ClearStreak app keeps copies of the JSON it consumes as bundled assets.</li>
+  <li><b>Per-book "10 life lessons" study sets</b> — a second content class (book overview + actionable lessons) using the prompt template in <code>sources/</code>.</li>
+  <li><b>New app namespaces</b> — easily extendable by adding new directories under <code>apps/</code> for future apps in the 864zeros ecosystem.</li>
 </ul>
 
 <footer>
-  864zeros LLC · Faith, Health &amp; Growth content factory · This document records the state of the content library as of 2026-08-24.
-  Source of truth for counts and paths: <code>bible_index.json</code>. Browse the content: <code>bible_viewer.html</code>.
+  864zeros LLC · Central content store · Published assets for the 864zeros umbrella.
+  Source of truth for namespaces: <code>index.json</code>. Browse the Bible library: <code>shared/bible/bible_viewer.html</code>.
 </footer>
 
 </div>

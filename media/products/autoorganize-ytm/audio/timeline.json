@@ -1,0 +1,61 @@
+{
+  "total_duration": 56.88607799999999,
+  "scenes": [
+    {
+      "id": "scene1_hook",
+      "text": "Be honest: is your YouTube Music Liked Songs a chaotic graveyard of thousands of tracks you never actually listen to?",
+      "duration": 6.568005,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene1_hook.wav",
+      "start": 0.0,
+      "end": 6.568005
+    },
+    {
+      "id": "scene2_intro",
+      "text": "Meet AutoOrganize. It automatically sorts your Liked Songs into clean, smart genre playlists, right inside your Chrome side panel.",
+      "duration": 8.272018,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene2_intro.wav",
+      "start": 6.568005,
+      "end": 14.840022999999999
+    },
+    {
+      "id": "scene3_scan",
+      "text": "It scans your library privately on your device. Zero passwords, no cookies lifted, and nothing is uploaded to the cloud.",
+      "duration": 7.552018,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene3_scan.wav",
+      "start": 14.840022999999999,
+      "end": 22.392041
+    },
+    {
+      "id": "scene4_split",
+      "text": "Then, it auto-splits your music into real genre playlists using MusicBrainz. Unknowns stay uncategorized instead of guessed wrong.",
+      "duration": 7.96,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene4_split.wav",
+      "start": 22.392041,
+      "end": 30.352041
+    },
+    {
+      "id": "scene5_create",
+      "text": "Preview every track before anything happens. With one click, AutoOrganize creates the playlists right in your YouTube Music, and Google syncs them everywhere.",
+      "duration": 9.592018,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene5_create.wav",
+      "start": 30.352041,
+      "end": 39.944058999999996
+    },
+    {
+      "id": "scene6_pricing",
+      "text": "Best of all, no monthly subscriptions! Other tools charge ten dollars every month. AutoOrganize gives you a free preview, and a one-time two ninety-nine unlock forever.",
+      "duration": 10.648005,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene6_pricing.wav",
+      "start": 39.944058999999996,
+      "end": 50.59206399999999
+    },
+    {
+      "id": "scene7_cta",
+      "text": "Turn your chaotic Liked Songs into your favorite playlists today at eight sixty-four zeros dot com.",
+      "duration": 6.294014,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene7_cta.wav",
+      "start": 50.59206399999999,
+      "end": 56.88607799999999
+    }
+  ]
+}

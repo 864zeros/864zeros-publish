@@ -1,0 +1,39 @@
+{
+  "slug": "oia-focus-wall",
+  "category": "browser-extensions",
+  "pillar": "OIA",
+  "ingested_at": "2026-09-07T02:39:25.461Z",
+  "type": "extension",
+  "name": "Focus Wall — quick sticky notes for what matters now",
+  "summary": "Jot quick sticky notes in the side panel, arrange them on a board, copy or download them. 100% local. Made for ADHD minds.",
+  "metaDescription": "Jot quick sticky notes in the side panel, arrange them on a board, copy or download them. 100% local. Made for ADHD minds.",
+  "icon": "focus-wall.png",
+  "storeUrl": "",
+  "shots": [
+    {
+      "img": "focus-wall-1.png",
+      "alt": "Focus Wall — jot a quick sticky note in the side panel",
+      "cap": "Get the thought out of your head — jot a sticky in the side panel."
+    },
+    {
+      "img": "focus-wall-2.png",
+      "alt": "Focus Wall — up to 10 color-coded stickies you can expand, edit, and drag",
+      "cap": "Up to 10 color-coded stickies you can expand, edit, and drag on the board."
+    },
+    {
+      "img": "focus-wall-3.png",
+      "alt": "Focus Wall — copy all or download your notes, all local",
+      "cap": "Free, local, and yours — copy all or download your notes any time."
+    }
+  ],
+  "jsonld": {
+    "description": "Quick sticky notes in the Chrome side panel that auto-clear after 24 hours. Write, arrange on a board, copy, or download to .txt. Local-first, made for ADHD minds.",
+    "featureList": [
+      "Quick sticky-note capture in the side panel",
+      "Up to 10 color-coded notes with a draggable board",
+      "Copy all notes to clipboard",
+      "Download notes as .txt",
+      "Notes auto-clear after 24 hours"
+    ]
+  }
+}

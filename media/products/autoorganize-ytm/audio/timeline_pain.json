@@ -1,0 +1,30 @@
+{
+  "variant": "pain",
+  "total_duration": 19.666032,
+  "scenes": [
+    {
+      "id": "pain_scene1_hook",
+      "text": "Be honest: is your YouTube Music Liked Songs a chaotic graveyard of tracks you never actually listen to?",
+      "duration": 6.112018,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene1_hook.wav",
+      "start": 0.0,
+      "end": 6.112018
+    },
+    {
+      "id": "pain_scene2_split",
+      "text": "AutoOrganize scans your library privately on-device and auto-splits it into real genre playlists right in your own account.",
+      "duration": 7.096009,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene2_split.wav",
+      "start": 6.112018,
+      "end": 13.208027
+    },
+    {
+      "id": "pain_scene3_cta",
+      "text": "Synced to every device by Google. Try your first playlist free at eight sixty-four zeros dot com.",
+      "duration": 6.458005,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene3_cta.wav",
+      "start": 13.208027,
+      "end": 19.666032
+    }
+  ]
+}
