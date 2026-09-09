@@ -1,0 +1,64 @@
+{
+  "slug": "approvalworkflow",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T01:30:00.000Z",
+  "type": "google-add-ons",
+  "name": "ApprovalWorkflow Local — Dynamic Form & Sheet Approval Engine",
+  "summary": "Multi-step form approval router with tokenized email action buttons and dynamic Sheet logging. 100% local-first in Apps Script — zero external data relays.",
+  "metaDescription": "ApprovalWorkflow Local routes Google Forms submissions to managers with one-click email approval buttons and dynamic Sheet status tracking. One-time lifetime license with zero subscriptions.",
+  "icon": "approvalworkflow.png",
+  "storeUrl": "",
+  "video": {
+    "src": "approvalworkflow-master.mp4",
+    "poster": "approvalworkflow-thumbnail.png",
+    "tag": "⚡ 50s Product Demo",
+    "title": "Watch ApprovalWorkflow Local in Action",
+    "desc": "Automate multi-step approval decisions in Google Forms and Sheets. Tokenized email buttons allow managers to approve requests directly from their inbox, writing decisions straight to your tracking spreadsheet in real time.",
+    "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "approvalworkflow-social-pain.mp4",
+      "poster": "thumbnail-approvalworkflow-social-pain.png",
+      "angle": "lost_approvals_and_email_forwarding_delays",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "approvalworkflow-social-price.mp4",
+      "poster": "thumbnail-approvalworkflow-social-price.png",
+      "angle": "paying_36_quarterly_for_form_approval_buttons",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "approvalworkflow-1.png",
+      "alt": "ApprovalWorkflow Local — automated manager email routing with tokenized action buttons",
+      "cap": "Automatically route Google Forms submissions to managers with one-click Approve and Reject buttons."
+    },
+    {
+      "img": "approvalworkflow-2.png",
+      "alt": "ApprovalWorkflow Local — real-time decision logging to Google Sheets",
+      "cap": "Cryptographic tokens securely record manager decisions, timestamps, and notes directly into your Sheet."
+    },
+    {
+      "img": "approvalworkflow-3.png",
+      "alt": "ApprovalWorkflow Local — one-time lifetime license vs subscription rent",
+      "cap": "Pay once, own forever. Run unlimited approval cycles with zero monthly or annual SaaS subscriptions."
+    }
+  ],
+  "jsonld": {
+    "description": "Multi-step form approval router with tokenized email action buttons and dynamic Sheet logging. 100% local-first in Apps Script with zero external data relays.",
+    "featureList": [
+      "Automated onFormSubmit trigger listener",
+      "Cryptographically signed tokenized approval email buttons",
+      "Direct Google Sheets decision and timestamp logging",
+      "LockService mutex concurrency protection against race conditions",
+      "100% in-account execution via non-restricted scopes",
+      "One-time lifetime license — zero recurring SaaS subscriptions"
+    ]
+  }
+}
