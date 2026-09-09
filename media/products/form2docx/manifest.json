@@ -12,7 +12,7 @@
   "video": {
     "src": "form2docx-master.mp4",
     "poster": "form2docx-thumbnail.png",
-    "tag": "⚡ 54s Product Demo",
+    "tag": "⏱️ 43s Product Demo",
     "title": "Watch Form2Docx Local in Action",
     "desc": "Automatically turn Google Forms responses into polished Google Docs and direct-to-Drive PDFs. Replaces expensive document automation subscriptions with 100% local Apps Script.",
     "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "form2docx-social-pain.mp4",
       "poster": "thumbnail-form2docx-social-pain.png",
       "angle": "retyping_form_responses_into_invoices",
-      "duration": 18.5
+      "duration": 23.5
     },
     {
       "id": "social-hook-price",
       "src": "form2docx-social-price.mp4",
       "poster": "thumbnail-form2docx-social-price.png",
       "angle": "document_studio_monthly_subscription_trap",
-      "duration": 18.5
+      "duration": 24.5
     }
   ],
   "shots": [
