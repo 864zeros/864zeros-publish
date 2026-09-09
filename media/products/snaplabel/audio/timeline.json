@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 6.15,
+    "duration": 6.15,
+    "text": "Ever printed 30 address labels only to watch every single one drift completely off the stickers?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 6.15,
+    "end": 13.56,
+    "duration": 7.42,
+    "text": "Meet SnapLabel. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 13.56,
+    "end": 24.05,
+    "duration": 10.49,
+    "text": "Merge Google Sheets into millimeter-calibrated Avery labels, envelopes, and barcodes. 100% local-first in Apps Script \u2014 zero external data transfer."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 24.05,
+    "end": 32.92,
+    "duration": 8.87,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. SnapLabel is a one-time twenty-nine dollars unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 32.92,
+    "end": 40.82,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]
