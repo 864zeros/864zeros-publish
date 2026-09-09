@@ -12,7 +12,7 @@
   "video": {
     "src": "drivedrop-master.mp4",
     "poster": "drivedrop-thumbnail.png",
-    "tag": "⚡ 50s Product Demo",
+    "tag": "⏱️ 42s Product Demo",
     "title": "Watch DriveDrop Portal in Action",
     "desc": "Create branded, password-protected file upload portals that save client submissions directly into your designated Google Drive folder. External submitters never need a Google account.",
     "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "drivedrop-social-pain.mp4",
       "poster": "thumbnail-drivedrop-social-pain.png",
       "angle": "client_google_sign_in_walls_and_lost_email_attachments",
-      "duration": 18.5
+      "duration": 18.6
     },
     {
       "id": "social-hook-price",
       "src": "drivedrop-social-price.mp4",
       "poster": "thumbnail-drivedrop-social-price.png",
       "angle": "paying_20_per_month_for_file_request_portals",
-      "duration": 18.5
+      "duration": 24.0
     }
   ],
   "shots": [
