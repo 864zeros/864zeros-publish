@@ -12,7 +12,7 @@
   "video": {
     "src": "drivesweep-master.mp4",
     "poster": "drivesweep-thumbnail.png",
-    "tag": "⚡ 55s Product Demo",
+    "tag": "⏱️ 44s Product Demo",
     "title": "Watch DriveSweep Local in Action",
     "desc": "Reclaim gigabytes of wasted Google Drive storage without handing full account keys to external cloud services. Scan target folders, inspect duplicate clusters, and trash redundant files with one click.",
     "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "drivesweep-social-pain.mp4",
       "poster": "thumbnail-drivesweep-social-pain.png",
       "angle": "google_storage_full_warnings_and_privacy_fears",
-      "duration": 18.5
+      "duration": 24.4
     },
     {
       "id": "social-hook-price",
       "src": "drivesweep-social-price.mp4",
       "poster": "thumbnail-drivesweep-social-price.png",
       "angle": "paying_annual_subscriptions_for_drive_cleanup_scanners",
-      "duration": 18.5
+      "duration": 26.1
     }
   ],
   "shots": [
