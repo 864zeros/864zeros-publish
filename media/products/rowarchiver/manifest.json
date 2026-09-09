@@ -12,7 +12,7 @@
   "video": {
     "src": "rowarchiver-master.mp4",
     "poster": "rowarchiver-thumbnail.png",
-    "tag": "⚡ 50s Product Demo",
+    "tag": "⏱️ 40s Product Demo",
     "title": "Watch RowArchiver in Action",
     "desc": "Clean bloated, sluggish Google Sheets by automatically shifting completed or dated rows to archive tabs bottom-up. Zero formula lag, zero external network hops.",
     "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "rowarchiver-social-pain.mp4",
       "poster": "thumbnail-rowarchiver-social-pain.png",
       "angle": "10000_row_sheet_freezing_and_lag",
-      "duration": 18.5
+      "duration": 21.2
     },
     {
       "id": "social-hook-price",
       "src": "rowarchiver-social-price.mp4",
       "poster": "thumbnail-rowarchiver-social-price.png",
       "angle": "spreadsheet_pipeline_tools_overcharging",
-      "duration": 18.5
+      "duration": 23.9
     }
   ],
   "shots": [
