@@ -12,7 +12,7 @@
   "video": {
     "src": "formtimer-master.mp4",
     "poster": "formtimer-thumbnail.png",
-    "tag": "⚡ 52s Product Demo",
+    "tag": "⏱️ 42s Product Demo",
     "title": "Watch FormTimer Pro in Action",
     "desc": "Run timed quizzes, classroom tests, and hiring assessments in Google Forms. Native Apps Script time triggers automatically close form submissions the exact second time expires.",
     "sub": "<b>No subscriptions</b> · $9.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "formtimer-social-pain.mp4",
       "poster": "thumbnail-formtimer-social-pain.png",
       "angle": "late_exam_submissions_manual_cutoffs",
-      "duration": 18.5
+      "duration": 21.3
     },
     {
       "id": "social-hook-price",
       "src": "formtimer-social-price.mp4",
       "poster": "thumbnail-formtimer-social-price.png",
       "angle": "stop_paying_per_teacher_monthly_rent",
-      "duration": 18.5
+      "duration": 23.2
     }
   ],
   "shots": [
