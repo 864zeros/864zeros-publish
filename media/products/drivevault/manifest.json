@@ -1,0 +1,64 @@
+{
+  "slug": "drivevault",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T00:54:03.359Z",
+  "type": "google-add-ons",
+  "name": "DriveVault — Sovereign Local Backup & Encrypted Vault for Google Drive",
+  "summary": "Browse Google Drive and package folders into client-side AES-256 encrypted snapshots for instant local backup. Zero third-party cloud servers in the loop.",
+  "metaDescription": "DriveVault is a privacy-first Google Drive add-on for sovereign custody: client-side AES-256 encrypted backups, zero SaaS intermediaries, and permanent one-time licensing.",
+  "icon": "drivevault.png",
+  "storeUrl": "",
+  "video": {
+    "src": "drivevault-master.mp4",
+    "poster": "drivevault-thumbnail.png",
+    "tag": "⚡ 58s Product Demo",
+    "title": "Watch DriveVault in Action",
+    "desc": "Sovereign local backup and client-side AES-256-GCM encrypted vault for Google Drive files. Protect your vital assets from account lockouts with air-gapped recovery keys.",
+    "sub": "<b>No subscriptions</b> · $29.00 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "drivevault-social-pain.mp4",
+      "poster": "thumbnail-drivevault-social-pain.png",
+      "angle": "google_account_lockout_paranoia",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "drivevault-social-price.mp4",
+      "poster": "thumbnail-drivevault-social-price.png",
+      "angle": "cloud_backup_monthly_storage_tax",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "drivevault-1.png",
+      "alt": "DriveVault — browse Drive and create encrypted snapshots",
+      "cap": "Browse your Google Drive and export client-side encrypted backup containers directly from the CardService sidebar."
+    },
+    {
+      "img": "drivevault-2.png",
+      "alt": "DriveVault — client-side AES-256-GCM encryption",
+      "cap": "Military-grade AES-256-GCM encryption computed in browser memory. Passphrase never leaves your physical device."
+    },
+    {
+      "img": "drivevault-3.png",
+      "alt": "DriveVault — one-time lifetime license vs recurring SaaS subscriptions",
+      "cap": "One-time lifetime license. Permanent sovereign custody of your Drive data without recurring SaaS rent."
+    }
+  ],
+  "jsonld": {
+    "description": "Sovereign local backup and encrypted vault for Google Drive: client-side AES-256-GCM encryption, CardService sidebar integration, and zero external proxy servers.",
+    "featureList": [
+      "Client-side AES-256-GCM encrypted snapshot packaging",
+      "Native Google Workspace CardService sidebar interface",
+      "Multi-file and folder selection backup",
+      "Zero SaaS proxy servers — 100% in-account execution",
+      "PBKDF2 key derivation from user passphrase",
+      "One-time lifetime license — zero recurring subscriptions"
+    ]
+  }
+}

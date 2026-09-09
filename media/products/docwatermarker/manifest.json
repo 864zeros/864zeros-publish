@@ -1,0 +1,64 @@
+{
+  "slug": "docwatermarker",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T00:54:03.359Z",
+  "type": "google-add-ons",
+  "name": "DocWatermarker Pro — Dynamic Watermarks & Date Stamps in Google Docs",
+  "summary": "Inject confidentiality stamps, draft notices, and dynamic timestamps into Google Docs headers and footers entirely client-side. Zero external server routing.",
+  "metaDescription": "DocWatermarker Pro stamps confidentiality notices and dynamic dates across Google Docs directly in your browser. Local-first, zero third-party routing, and one-time licensing.",
+  "icon": "docwatermarker.png",
+  "storeUrl": "",
+  "video": {
+    "src": "docwatermarker-master.mp4",
+    "poster": "docwatermarker-thumbnail.png",
+    "tag": "⚡ 48s Product Demo",
+    "title": "Watch DocWatermarker Pro in Action",
+    "desc": "Stamp dynamic confidentiality notices, draft status banners, and localized timestamps across Google Docs headers and footers with one-click clean removal. Zero external document servers.",
+    "sub": "<b>No subscriptions</b> · $9.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "docwatermarker-social-pain.mp4",
+      "poster": "thumbnail-docwatermarker-social-pain.png",
+      "angle": "manual_watermarking_formatting_damage",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "docwatermarker-social-price.mp4",
+      "poster": "thumbnail-docwatermarker-social-price.png",
+      "angle": "no_monthly_fees_for_simple_stamps",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "docwatermarker-1.png",
+      "alt": "DocWatermarker Pro — dynamic confidentiality stamps in Google Docs",
+      "cap": "Apply professional confidentiality, draft, and client-copy stamps to Google Docs with one click."
+    },
+    {
+      "img": "docwatermarker-2.png",
+      "alt": "DocWatermarker Pro — dynamic date and timestamp injection",
+      "cap": "Dynamic date stamping loops through headers and footers across multi-page contracts and drafts."
+    },
+    {
+      "img": "docwatermarker-3.png",
+      "alt": "DocWatermarker Pro — one-time lifetime license vs subscription rent",
+      "cap": "One-time lifetime license. Permanent sovereign document stamping without recurring SaaS rent."
+    }
+  ],
+  "jsonld": {
+    "description": "Dynamic text and date watermark stamp injector for Google Docs: client-side header and footer stamping, local-first Apps Script architecture, and zero SaaS rent.",
+    "featureList": [
+      "Preset and custom confidentiality stamps (CONFIDENTIAL, DRAFT, CLIENT COPY)",
+      "Dynamic date and timestamp injection formatted to your timezone",
+      "Multi-page header and footer positioning with color and opacity controls",
+      "One-click complete watermark removal without touching body text",
+      "100% in-account execution via non-sensitive documents.currentonly scope",
+      "One-time lifetime license — zero recurring subscriptions"
+    ]
+  }
+}

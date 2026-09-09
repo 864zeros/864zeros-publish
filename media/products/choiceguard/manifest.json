@@ -1,0 +1,64 @@
+{
+  "slug": "choiceguard",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T00:54:03.359Z",
+  "type": "google-add-ons",
+  "name": "ChoiceGuard — Dynamic Form Choice Limiter & Gatekeeper",
+  "summary": "Dynamically eliminate options in Google Forms as capacity fills. Concurrency-safe, local-first inventory and sign-up limits with zero monthly subscriptions.",
+  "metaDescription": "ChoiceGuard limits choices and caps inventory in Google Forms directly in your browser. Local-first, zero third-party cloud servers, and one-time lifetime licensing.",
+  "icon": "choiceguard.png",
+  "storeUrl": "",
+  "video": {
+    "src": "choiceguard-master.mp4",
+    "poster": "choiceguard-thumbnail.png",
+    "tag": "⚡ 50s Product Demo",
+    "title": "Watch ChoiceGuard in Action",
+    "desc": "Dynamically eliminate choices and cap seat limits in Google Forms as responses arrive. LockService mutex ensures zero race condition double-bookings during simultaneous sign-ups. 100% in-account processing.",
+    "sub": "<b>No subscriptions</b> · $7.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "choiceguard-social-pain.mp4",
+      "poster": "thumbnail-choiceguard-social-pain.png",
+      "angle": "form_double_booking_race_conditions",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "choiceguard-social-price.mp4",
+      "poster": "thumbnail-choiceguard-social-price.png",
+      "angle": "zero_subscription_choice_eliminator",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "choiceguard-1.png",
+      "alt": "ChoiceGuard — dynamic choice limits in Google Forms",
+      "cap": "Assign headcount and seating caps to Google Forms questions with real-time choice elimination."
+    },
+    {
+      "img": "choiceguard-2.png",
+      "alt": "ChoiceGuard — concurrency-safe mutex locking",
+      "cap": "LockService mutex prevents double-booking and race conditions during simultaneous form submissions."
+    },
+    {
+      "img": "choiceguard-3.png",
+      "alt": "ChoiceGuard — one-time lifetime license vs subscription competitors",
+      "cap": "One-time lifetime license. Permanent sovereign capacity control without recurring SaaS rent."
+    }
+  ],
+  "jsonld": {
+    "description": "Dynamic choice limiter and capacity gatekeeper for Google Forms: concurrency-safe option elimination, local-first Apps Script architecture, and zero SaaS rent.",
+    "featureList": [
+      "Dynamic option elimination for Multiple Choice, Dropdowns, and Checkboxes",
+      "Concurrency-safe submission locking via native LockService",
+      "Auto-closing trigger when all event or product capacity is exhausted",
+      "One-click original choice and inventory restoration",
+      "100% in-account execution via non-sensitive forms.currentonly scope",
+      "One-time lifetime license — zero recurring subscriptions"
+    ]
+  }
+}

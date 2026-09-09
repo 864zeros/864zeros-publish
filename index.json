@@ -86,7 +86,7 @@
       "title": "864zeros Central Product Asset Vault (DAM)",
       "docs": "media/MEDIA_HOUSE.md",
       "taxonomy": "PRODUCT_TAXONOMY.json",
-      "total_products": 16,
+      "total_products": 26,
       "products_seeded": [
         {
           "slug": "autoorganize-ytm",
@@ -199,6 +199,76 @@
           "pillar": "FHG",
           "status": "VIDEO_COMPLETE",
           "vault": "media/products/clearstreak/"
+        },
+        {
+          "slug": "snaplabel",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/snaplabel/"
+        },
+        {
+          "slug": "choiceguard",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/choiceguard/"
+        },
+        {
+          "slug": "docwatermarker",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/docwatermarker/"
+        },
+        {
+          "slug": "formtimer",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/formtimer/"
+        },
+        {
+          "slug": "rowarchiver",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/rowarchiver/"
+        },
+        {
+          "slug": "mailsyncshield",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/mailsyncshield/"
+        },
+        {
+          "slug": "form2docx",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/form2docx/"
+        },
+        {
+          "slug": "slidebuilder",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/slidebuilder/"
+        },
+        {
+          "slug": "sheetsync",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/sheetsync/"
+        },
+        {
+          "slug": "drivevault",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/drivevault/"
         }
       ]
     }

@@ -1,0 +1,64 @@
+{
+  "slug": "slidebuilder",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T00:54:03.359Z",
+  "type": "google-add-ons",
+  "name": "SlideBuilder Local — Sheet-to-Slide Layout Generator",
+  "summary": "Inject spreadsheet data directly into master Google Slides presentations without breaking layout geometry or corporate branding. Zero AI hallucinations and zero recurring subscriptions.",
+  "metaDescription": "SlideBuilder Local generates Google Slides from Sheets data deterministically. 100% in-account execution, zero design distortion, and one-time licensing.",
+  "icon": "slidebuilder.png",
+  "storeUrl": "",
+  "video": {
+    "src": "slidebuilder-master.mp4",
+    "poster": "slidebuilder-thumbnail.png",
+    "tag": "⚡ 53s Product Demo",
+    "title": "Watch SlideBuilder Local in Action",
+    "desc": "Inject Google Sheets data into branded Google Slides templates deterministically. Generate dozens of client decks or report cards without AI hallucinating or breaking master layouts.",
+    "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "slidebuilder-social-pain.mp4",
+      "poster": "thumbnail-slidebuilder-social-pain.png",
+      "angle": "copy_pasting_table_cells_into_50_slides",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "slidebuilder-social-price.mp4",
+      "poster": "thumbnail-slidebuilder-social-price.png",
+      "angle": "ai_slide_tools_charging_monthly_per_user",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "slidebuilder-1.png",
+      "alt": "SlideBuilder Local — master slide token mapping and sheet connector",
+      "cap": "Connect Google Sheets and map data columns to {{Token}} placeholders in your master deck."
+    },
+    {
+      "img": "slidebuilder-2.png",
+      "alt": "SlideBuilder Local — format-preserving slide duplication",
+      "cap": "Generates calibrated slides preserving master fonts, brand colors, and alignments perfectly."
+    },
+    {
+      "img": "slidebuilder-3.png",
+      "alt": "SlideBuilder Local — sovereign ownership vs monthly subscription rent",
+      "cap": "One-time lifetime license. Build presentation decks from spreadsheet data forever without SaaS rent."
+    }
+  ],
+  "jsonld": {
+    "description": "Deterministic Sheet-to-Slide layout generator for Google Slides: master template preservation, local Drive data injection, and zero SaaS rent.",
+    "featureList": [
+      "Master slide token scanner identifying {{Placeholders}} across text and tables",
+      "Direct Google Sheets data connector reading headers and records locally",
+      "Layout and style preservation maintaining fonts, colors, and margins",
+      "Batch slide duplication producing presentation decks in seconds",
+      "100% in-account execution via non-restricted drive.file scope",
+      "One-time lifetime license — zero recurring subscriptions"
+    ]
+  }
+}

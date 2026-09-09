@@ -1,0 +1,64 @@
+{
+  "slug": "form2docx",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T00:54:03.359Z",
+  "type": "google-add-ons",
+  "name": "Form2Docx Local — Form to Docs & PDF Merge Engine",
+  "summary": "Merge Google Forms submissions into customized Google Docs and downloadable PDFs stored in your Drive. Zero third-party conversion servers, zero submission caps, and zero recurring subscriptions.",
+  "metaDescription": "Form2Docx Local maps form responses into Docs and PDFs natively. 100% in-account execution, zero external conversion servers, and one-time licensing.",
+  "icon": "form2docx.png",
+  "storeUrl": "",
+  "video": {
+    "src": "form2docx-master.mp4",
+    "poster": "form2docx-thumbnail.png",
+    "tag": "⚡ 54s Product Demo",
+    "title": "Watch Form2Docx Local in Action",
+    "desc": "Automatically turn Google Forms responses into polished Google Docs and direct-to-Drive PDFs. Replaces expensive document automation subscriptions with 100% local Apps Script.",
+    "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "form2docx-social-pain.mp4",
+      "poster": "thumbnail-form2docx-social-pain.png",
+      "angle": "retyping_form_responses_into_invoices",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "form2docx-social-price.mp4",
+      "poster": "thumbnail-form2docx-social-price.png",
+      "angle": "document_studio_monthly_subscription_trap",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "form2docx-1.png",
+      "alt": "Form2Docx Local — template doc mapping and token tags",
+      "cap": "Connect any Google Doc template and map form questions to {{Token}} placeholders in one click."
+    },
+    {
+      "img": "form2docx-2.png",
+      "alt": "Form2Docx Local — automated PDF generation and Drive storage",
+      "cap": "Automatically converts submissions into direct PDFs and stores them organized in Google Drive."
+    },
+    {
+      "img": "form2docx-3.png",
+      "alt": "Form2Docx Local — sovereign ownership vs monthly subscription rent",
+      "cap": "One-time lifetime license. Merge unlimited form submissions to Docs and PDFs without recurring SaaS fees."
+    }
+  ],
+  "jsonld": {
+    "description": "Template-driven document merge engine for Google Forms: direct Google Docs and PDF generation, local Drive storage, and zero SaaS rent.",
+    "featureList": [
+      "Custom Google Doc template mapping with {{Question Title}} tokens",
+      "Direct-to-PDF, Google Doc, or dual-format document generation",
+      "Custom file naming patterns based on dynamic submission timestamps and names",
+      "Automated execution on form submission via native onFormSubmit triggers",
+      "100% in-account execution via non-restricted drive.file scope",
+      "One-time lifetime license — zero recurring subscriptions"
+    ]
+  }
+}

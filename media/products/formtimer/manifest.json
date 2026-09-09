@@ -1,0 +1,64 @@
+{
+  "slug": "formtimer",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T00:54:03.359Z",
+  "type": "google-add-ons",
+  "name": "FormTimer Pro — Exam & Assessment Session Timer for Google Forms",
+  "summary": "Turn Google Forms into timed exams and quizzes with automated submission cutoff. 100% native Apps Script execution, zero external redirects, and zero recurring subscriptions.",
+  "metaDescription": "FormTimer Pro sets countdown timers and automatically closes submissions for Google Forms assessments. Local-first, zero external redirects, and one-time licensing.",
+  "icon": "formtimer.png",
+  "storeUrl": "",
+  "video": {
+    "src": "formtimer-master.mp4",
+    "poster": "formtimer-thumbnail.png",
+    "tag": "⚡ 52s Product Demo",
+    "title": "Watch FormTimer Pro in Action",
+    "desc": "Run timed quizzes, classroom tests, and hiring assessments in Google Forms. Native Apps Script time triggers automatically close form submissions the exact second time expires.",
+    "sub": "<b>No subscriptions</b> · $9.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "formtimer-social-pain.mp4",
+      "poster": "thumbnail-formtimer-social-pain.png",
+      "angle": "late_exam_submissions_manual_cutoffs",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "formtimer-social-price.mp4",
+      "poster": "thumbnail-formtimer-social-price.png",
+      "angle": "stop_paying_per_teacher_monthly_rent",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "formtimer-1.png",
+      "alt": "FormTimer Pro — exam duration countdown in Google Forms",
+      "cap": "Configure precise assessment durations with instant preset chips and live countdown monitor."
+    },
+    {
+      "img": "formtimer-2.png",
+      "alt": "FormTimer Pro — automated submission closing and custom messages",
+      "cap": "Automatic submission cutoff shuts down the form immediately when the exam timer expires."
+    },
+    {
+      "img": "formtimer-3.png",
+      "alt": "FormTimer Pro — sovereign ownership vs monthly subscription rent",
+      "cap": "One-time lifetime license. Conduct timed tests in Google Forms without monthly SaaS rent."
+    }
+  ],
+  "jsonld": {
+    "description": "Exam and assessment session timer for Google Forms: automated response closing, local-first Apps Script architecture, and zero SaaS rent.",
+    "featureList": [
+      "Precision exam session countdown timer (1 to 1,440 minutes)",
+      "Instant duration preset chips (15m, 30m, 45m, 60m, 90m, 120m)",
+      "Automated response closing via native Apps Script time-driven triggers",
+      "Customizable closed assessment notice displayed directly to examinees",
+      "100% in-account execution via non-sensitive forms.currentonly scope",
+      "One-time lifetime license — zero recurring subscriptions"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "mailsyncshield",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T00:54:03.359Z",
+  "type": "google-add-ons",
+  "name": "MailSync Shield — Direct-from-Sheets Sovereign Mail Merge",
+  "summary": "Personalized email merge engine operating directly from Google Sheets via native Gmail quotas. Zero external mail-relay servers, zero inbox snooping, and zero recurring subscriptions.",
+  "metaDescription": "MailSync Shield merges Google Sheets contacts into personalized emails natively. 100% in-account execution, zero external mail relays, and one-time licensing.",
+  "icon": "mailsyncshield.png",
+  "storeUrl": "",
+  "video": {
+    "src": "mailsyncshield-master.mp4",
+    "poster": "mailsyncshield-thumbnail.png",
+    "tag": "⚡ 55s Product Demo",
+    "title": "Watch MailSync Shield in Action",
+    "desc": "Personalized mail merge directly from Google Sheets using native Gmail quotas. Zero external mail-relay servers, zero contact scraping, zero recurring subscription fees.",
+    "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "mailsyncshield-social-pain.mp4",
+      "poster": "thumbnail-mailsyncshield-social-pain.png",
+      "angle": "third_party_servers_reading_client_emails",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "mailsyncshield-social-price.mp4",
+      "poster": "thumbnail-mailsyncshield-social-price.png",
+      "angle": "stop_paying_40_per_year_for_mail_merge",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "mailsyncshield-1.png",
+      "alt": "MailSync Shield — personalized template builder and token tags",
+      "cap": "Design personalized email templates with dynamic {{Column}} tags and live contact previews."
+    },
+    {
+      "img": "mailsyncshield-2.png",
+      "alt": "MailSync Shield — in-sheet status tracking and quota monitor",
+      "cap": "Batch dispatches track delivery timestamps directly in your sheet to prevent duplicate sends."
+    },
+    {
+      "img": "mailsyncshield-3.png",
+      "alt": "MailSync Shield — sovereign ownership vs monthly subscription rent",
+      "cap": "One-time lifetime license. Send mail merges from Google Sheets forever without recurring SaaS fees."
+    }
+  ],
+  "jsonld": {
+    "description": "Direct-from-Sheets mail merge engine for Google Workspace: native Gmail quota execution, zero external relay servers, and zero SaaS rent.",
+    "featureList": [
+      "Dynamic token placeholder substitution ({{First Name}}, {{Company}}, custom fields)",
+      "Single-click test email dispatches to verify layout before sending",
+      "In-sheet dispatch timestamp logging preventing duplicate sends",
+      "Native Google daily quota awareness (100–1,500 sends/day)",
+      "100% in-account execution — zero third-party mail relay servers",
+      "One-time lifetime license — zero recurring subscriptions"
+    ]
+  }
+}

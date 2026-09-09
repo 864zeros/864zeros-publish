@@ -1,0 +1,64 @@
+{
+  "slug": "rowarchiver",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T00:54:03.359Z",
+  "type": "google-add-ons",
+  "name": "RowArchiver — Conditional Row Archiving & Sheet Optimizer",
+  "summary": "Automatically move completed, dated, or inactive rows to archive tabs. Speed up lagging Google Sheets, prevent bloat, and eliminate recurring sync tool subscriptions.",
+  "metaDescription": "RowArchiver cleans and archives Google Sheets rows based on custom rules. 100% local-first, zero third-party routing, and one-time licensing.",
+  "icon": "rowarchiver.png",
+  "storeUrl": "",
+  "video": {
+    "src": "rowarchiver-master.mp4",
+    "poster": "rowarchiver-thumbnail.png",
+    "tag": "⚡ 50s Product Demo",
+    "title": "Watch RowArchiver in Action",
+    "desc": "Clean bloated, sluggish Google Sheets by automatically shifting completed or dated rows to archive tabs bottom-up. Zero formula lag, zero external network hops.",
+    "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "rowarchiver-social-pain.mp4",
+      "poster": "thumbnail-rowarchiver-social-pain.png",
+      "angle": "10000_row_sheet_freezing_and_lag",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "rowarchiver-social-price.mp4",
+      "poster": "thumbnail-rowarchiver-social-price.png",
+      "angle": "spreadsheet_pipeline_tools_overcharging",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "rowarchiver-1.png",
+      "alt": "RowArchiver — conditional row archiving rule builder",
+      "cap": "Define custom archive rules by status, text content, or date thresholds with live row previews."
+    },
+    {
+      "img": "rowarchiver-2.png",
+      "alt": "RowArchiver — automated archive tab creation and timestamps",
+      "cap": "Automated transfer moves matching records to dedicated archive tabs with optional timestamps."
+    },
+    {
+      "img": "rowarchiver-3.png",
+      "alt": "RowArchiver — sovereign ownership vs monthly subscription rent",
+      "cap": "One-time lifetime license. Optimize and archive Google Sheets forever without monthly SaaS rent."
+    }
+  ],
+  "jsonld": {
+    "description": "Conditional row archiving and sheet performance optimizer for Google Sheets: local-first Apps Script execution, atomic LockService transfers, and zero SaaS rent.",
+    "featureList": [
+      "Rule-based row archiving (equals, contains, older than X days, empty)",
+      "Live pre-scan preview showing exact matching row counts and sample data",
+      "Automatic archive tab creation with copied header column schemas",
+      "Atomic LockService mutex protection preventing row index corruption",
+      "100% in-account execution via non-sensitive spreadsheets.currentonly scope",
+      "One-time lifetime license — zero recurring subscriptions"
+    ]
+  }
+}
