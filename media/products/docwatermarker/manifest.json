@@ -12,7 +12,7 @@
   "video": {
     "src": "docwatermarker-master.mp4",
     "poster": "docwatermarker-thumbnail.png",
-    "tag": "⚡ 48s Product Demo",
+    "tag": "⚡ 43s Product Demo",
     "title": "Watch DocWatermarker Pro in Action",
     "desc": "Stamp dynamic confidentiality notices, draft status banners, and localized timestamps across Google Docs headers and footers with one-click clean removal. Zero external document servers.",
     "sub": "<b>No subscriptions</b> · $9.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "docwatermarker-social-pain.mp4",
       "poster": "thumbnail-docwatermarker-social-pain.png",
       "angle": "manual_watermarking_formatting_damage",
-      "duration": 18.5
+      "duration": 23.29
     },
     {
       "id": "social-hook-price",
       "src": "docwatermarker-social-price.mp4",
       "poster": "thumbnail-docwatermarker-social-price.png",
       "angle": "no_monthly_fees_for_simple_stamps",
-      "duration": 18.5
+      "duration": 23.94
     }
   ],
   "shots": [
