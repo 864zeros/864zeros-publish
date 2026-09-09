@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 23.458005,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Still manually copy-pasting Google Form responses into contract and invoice templates every single afternoon?",
+        "duration": 6.52,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\form2docx\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.52
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "Form2Docx Local automatically merges new submissions into customized Google Docs and downloadable Drive PDFs. Zero conversion servers and zero manual retyping.",
+        "duration": 10.288005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\form2docx\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 6.52,
+        "end": 16.808005
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\form2docx\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 16.808005,
+        "end": 23.458005
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\form2docx\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 24.490023,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay 30 or 50 dollars a month for document automation add-ons that cap how many PDFs you can generate?",
+        "duration": 6.4,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\form2docx\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.4
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "Form2Docx Local runs 100% locally inside Google Workspace with unlimited document generation and zero recurring monthly fees.",
+        "duration": 9.424014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\form2docx\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 6.4,
+        "end": 15.824014
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time fourteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.666009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\form2docx\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 15.824014,
+        "end": 24.490023
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\form2docx\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

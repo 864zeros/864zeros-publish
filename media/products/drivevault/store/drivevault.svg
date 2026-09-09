@@ -1,0 +1,38 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 864zeros Obsidian/Cobalt App Tile -->
+  <rect width="128" height="128" rx="28" fill="url(#bg_grad)"/>
+  <rect x="0.5" y="0.5" width="127" height="127" rx="27.5" stroke="url(#border_grad)" stroke-width="1"/>
+  
+  <!-- Outer Shield Silhouette -->
+  <path d="M64 22L94 34V60C94 79.5 81.2 97.4 64 102C46.8 97.4 34 79.5 34 60V34L64 22Z" fill="#141c2b" stroke="#38bdf8" stroke-width="2.5" stroke-linejoin="round"/>
+  
+  <!-- Drive Triangular Segment Yellow (Top Right) -->
+  <path d="M64 36L82 43V58L64 48V36Z" fill="#FBBC04"/>
+  
+  <!-- Drive Triangular Segment Green (Bottom Right & Base) -->
+  <path d="M64 48L82 58L72 82L54 72L64 48Z" fill="#0F9D58"/>
+  
+  <!-- Drive Triangular Segment Blue (Left) -->
+  <path d="M64 36L46 43V68L54 72L64 48V36Z" fill="#4285F4"/>
+  
+  <!-- Inner Vault Lock & Keyhole -->
+  <circle cx="64" cy="58" r="10" fill="#0b0f19" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M62 55H66V62L67 65H61L62 62V55Z" fill="#38bdf8"/>
+  <circle cx="64" cy="56" r="2" fill="#ffffff"/>
+
+  <!-- Hardware Calibrated Dots -->
+  <circle cx="64" cy="90" r="2.5" fill="#38bdf8"/>
+  <circle cx="56" cy="90" r="1.5" fill="#64748b"/>
+  <circle cx="72" cy="90" r="1.5" fill="#64748b"/>
+
+  <defs>
+    <linearGradient id="bg_grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b0f17"/>
+      <stop offset="1" stop-color="#162032"/>
+    </linearGradient>
+    <linearGradient id="border_grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#0066ff" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+</svg>

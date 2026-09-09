@@ -3,7 +3,7 @@
     "repo": "864zeros-publish",
     "role": "864zeros central content/data store — source-of-truth JSON assets, published to consuming apps.",
     "version": 1,
-    "generated": "2026-08-27",
+    "generated": "2026-09-09",
     "principles": [
       "JSON is the source of truth; any database under db/ is a derived, rebuildable, git-ignored artifact.",
       "Namespace = ownership boundary: shared/ = ecosystem-generic assets; apps/<name>/ = that app's published content.",
@@ -211,119 +211,119 @@
           "slug": "choiceguard",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/choiceguard/"
         },
         {
           "slug": "docwatermarker",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/docwatermarker/"
         },
         {
           "slug": "formtimer",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/formtimer/"
         },
         {
           "slug": "rowarchiver",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/rowarchiver/"
         },
         {
           "slug": "mailsyncshield",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/mailsyncshield/"
         },
         {
           "slug": "form2docx",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/form2docx/"
         },
         {
           "slug": "slidebuilder",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/slidebuilder/"
         },
         {
           "slug": "sheetsync",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/sheetsync/"
         },
         {
           "slug": "drivevault",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/drivevault/"
         },
         {
           "slug": "approvalworkflow",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/approvalworkflow/"
         },
         {
           "slug": "formnotifier",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/formnotifier/"
         },
         {
           "slug": "drivesweep",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/drivesweep/"
         },
         {
           "slug": "sheet2calendar",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/sheet2calendar/"
         },
         {
           "slug": "drivedrop",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/drivedrop/"
         },
         {
           "slug": "formqr",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/formqr/"
         },
         {
           "slug": "sheet2webhook",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/sheet2webhook/"
         },
         {
           "slug": "signroute",
           "category": "google-workspace-addons",
           "pillar": "864F",
-          "status": "VIDEO_QUEUED",
+          "status": "VIDEO_COMPLETE",
           "vault": "media/products/signroute/"
         }
       ]

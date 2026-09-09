@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 24.434013999999998,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Google Drive is 99% full, but you're terrified of letting random cloud cleaning apps touch your files.",
+        "duration": 6.936009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivesweep\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.936009
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "DriveSweep Local scans for duplicate uploads, zero-byte documents, and stale orphans 100% locally. Safe, reversible Google Drive Trash integration.",
+        "duration": 10.848005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivesweep\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 6.936009,
+        "end": 17.784014
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivesweep\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 17.784014,
+        "end": 24.434013999999998
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivesweep\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 26.138027,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay thirty to sixty dollars every single year just to find and clean duplicate files in your own Google Drive?",
+        "duration": 6.696009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivesweep\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.696009
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "DriveSweep Local executes 100% locally inside Google Workspace with unlimited duplicate clustering, zero cloud servers, and zero recurring fees.",
+        "duration": 10.776009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivesweep\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 6.696009,
+        "end": 17.472018
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time fourteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.666009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivesweep\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 17.472018,
+        "end": 26.138027
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivesweep\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

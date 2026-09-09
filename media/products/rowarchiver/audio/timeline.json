@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 5.38,
+    "duration": 5.38,
+    "text": "Every time you open your team tracker, your browser completely locks up for 30 seconds."
+  },
+  {
+    "id": "scene2_intro",
+    "start": 5.38,
+    "end": 12.75,
+    "duration": 7.37,
+    "text": "Meet RowArchiver. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 12.75,
+    "end": 23.52,
+    "duration": 10.78,
+    "text": "Automatically move completed, dated, or inactive rows to archive tabs. Speed up lagging Google Sheets, prevent bloat, and eliminate recurring sync tool subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 23.52,
+    "end": 32.4,
+    "duration": 8.87,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. RowArchiver is a one-time twelve ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 32.4,
+    "end": 40.29,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

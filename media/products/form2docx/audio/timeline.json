@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 5.52,
+    "duration": 5.52,
+    "text": "Still manually re-typing form responses into contract templates every single afternoon?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 5.52,
+    "end": 13.49,
+    "duration": 7.97,
+    "text": "Meet Form2Docx Local. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 13.49,
+    "end": 25.59,
+    "duration": 12.1,
+    "text": "Merge Google Forms submissions into customized Google Docs and downloadable PDFs stored in your Drive. Zero third-party conversion servers, zero submission caps, and zero recurring subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 25.59,
+    "end": 35.32,
+    "duration": 9.74,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. Form2Docx Local is a one-time fourteen ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 35.32,
+    "end": 43.22,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

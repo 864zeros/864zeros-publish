@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 21.058028,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Two parents clicked the exact same volunteer slot at 8:01 AM. Who gets the seat?",
+        "duration": 5.704014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.704014
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "ChoiceGuard locks Google Forms with atomic LockService mutex protection. Exhausted choices disappear in real time with zero race conditions.",
+        "duration": 8.704014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 5.704014,
+        "end": 14.408028000000002
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 14.408028000000002,
+        "end": 21.058028
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 23.890023,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Stop paying monthly subscription fees just to count how many times an option was chosen in Google Forms.",
+        "duration": 5.896009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.896009
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "ChoiceGuard runs 100% locally inside Google Apps Script. Limit seats, workshop signups, and inventory forever with zero cloud rent.",
+        "duration": 9.688005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 5.896009,
+        "end": 15.584014
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "Just a one-time seven ninety-nine unlock. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.306009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 15.584014,
+        "end": 23.890023
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

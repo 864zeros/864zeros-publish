@@ -1,0 +1,41 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 864zeros Obsidian/Docs-Blue App Tile -->
+  <rect width="128" height="128" rx="28" fill="url(#bg_grad)"/>
+  <rect x="0.5" y="0.5" width="127" height="127" rx="27.5" stroke="url(#border_grad)" stroke-width="1"/>
+  
+  <!-- Document Sheet Background -->
+  <rect x="36" y="24" width="56" height="80" rx="6" fill="#131d31" stroke="#3b82f6" stroke-width="2"/>
+  
+  <!-- Document Folded Corner (Top Right) -->
+  <path d="M76 24V38H92L76 24Z" fill="#1e293b"/>
+  <path d="M76 24L92 40" stroke="#3b82f6" stroke-width="1.5"/>
+
+  <!-- Document Text Lines -->
+  <rect x="44" y="44" width="40" height="3" rx="1.5" fill="#475569"/>
+  <rect x="44" y="52" width="34" height="3" rx="1.5" fill="#475569"/>
+  <rect x="44" y="60" width="38" height="3" rx="1.5" fill="#475569"/>
+  <rect x="44" y="68" width="28" height="3" rx="1.5" fill="#475569"/>
+  <rect x="44" y="76" width="36" height="3" rx="1.5" fill="#475569"/>
+  <rect x="44" y="84" width="30" height="3" rx="1.5" fill="#475569"/>
+
+  <!-- Confidential Stamp Ribbon / Watermark (Diagonal Across Document) -->
+  <g transform="rotate(-25 64 64)">
+    <rect x="24" y="56" width="80" height="18" rx="3" fill="#1e1b4b" stroke="#818cf8" stroke-width="1.5" stroke-dasharray="3 2"/>
+    <text x="64" y="69" fill="#c7d2fe" font-family="-apple-system, sans-serif" font-size="9" font-weight="900" letter-spacing="1.5" text-anchor="middle">CONFIDENTIAL</text>
+  </g>
+
+  <!-- Security Seal at Bottom Right of Doc -->
+  <circle cx="82" cy="92" r="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M79 92L81 94L85 90" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <defs>
+    <linearGradient id="bg_grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090d16"/>
+      <stop offset="1" stop-color="#141f36"/>
+    </linearGradient>
+    <linearGradient id="border_grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3b82f6" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+</svg>

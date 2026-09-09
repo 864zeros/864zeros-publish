@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141820" />
+      <stop offset="100%" stop-color="#0B0E14" />
+    </linearGradient>
+    <linearGradient id="sage-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A2BFA0" />
+      <stop offset="100%" stop-color="#7A9A77" />
+    </linearGradient>
+    <linearGradient id="sweep-beam" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8BA888" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#8BA888" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Base -->
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="url(#bg-grad)" stroke="#1F2937" stroke-width="2.5" />
+
+  <!-- Storage Drive / Folder Silhouette -->
+  <path d="M 28 42 L 48 42 L 56 50 L 96 50 C 100 50 102 52 102 56 L 102 88 C 102 92 100 94 96 94 L 28 94 C 24 94 22 92 22 88 L 22 48 C 22 44 24 42 28 42 Z" fill="#1F2937" stroke="#374151" stroke-width="2" />
+
+  <!-- Overlapping Duplicate Document Cards -->
+  <!-- Document 1 (Behind) -->
+  <rect x="42" y="34" width="30" height="40" rx="4" fill="#283241" stroke="#4B5563" stroke-width="1.5" />
+  <line x1="48" y1="42" x2="64" y2="42" stroke="#6B7280" stroke-width="2" stroke-linecap="round" />
+  <line x1="48" y1="50" x2="60" y2="50" stroke="#6B7280" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Document 2 (Duplicate in foreground with sage accent) -->
+  <rect x="52" y="40" width="30" height="40" rx="4" fill="#1B242D" stroke="url(#sage-grad)" stroke-width="2" />
+  <line x1="58" y1="48" x2="74" y2="48" stroke="#8BA888" stroke-width="2" stroke-linecap="round" />
+  <line x1="58" y1="56" x2="70" y2="56" stroke="#8BA888" stroke-width="2" stroke-linecap="round" />
+  <line x1="58" y1="64" x2="66" y2="64" stroke="#8BA888" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Dynamic Sweep Radar / Broom Arc -->
+  <path d="M 30 84 C 44 98 84 98 98 84" fill="none" stroke="url(#sage-grad)" stroke-width="3" stroke-linecap="round" />
+  <path d="M 40 76 C 50 86 78 86 88 76" fill="none" stroke="#8BA888" stroke-width="2" stroke-dasharray="3 3" stroke-linecap="round" />
+
+  <!-- Storage Sparkle / Reclaimed Star -->
+  <path d="M 88 32 Q 92 36 96 36 Q 92 36 88 40 Q 88 36 84 36 Q 88 36 88 32 Z" fill="#8BA888" />
+  <circle cx="98" cy="46" r="2.5" fill="#A2BFA0" />
+</svg>

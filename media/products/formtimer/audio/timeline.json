@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 6.12,
+    "duration": 6.12,
+    "text": "You set a 60-minute test, but three students managed to submit their Google Form at midnight."
+  },
+  {
+    "id": "scene2_intro",
+    "start": 6.12,
+    "end": 13.59,
+    "duration": 7.46,
+    "text": "Meet FormTimer Pro. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 13.59,
+    "end": 25.2,
+    "duration": 11.62,
+    "text": "Turn Google Forms into timed exams and quizzes with automated submission cutoff. 100% native Apps Script execution, zero external redirects, and zero recurring subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 25.2,
+    "end": 34.34,
+    "duration": 9.14,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. FormTimer Pro is a one-time nine ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 34.34,
+    "end": 42.24,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

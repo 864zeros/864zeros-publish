@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 6.8,
+    "duration": 6.8,
+    "text": "Ever spent 20 minutes manually removing 'DRAFT' watermarks from 40 pages and ruined every table?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 6.8,
+    "end": 14.67,
+    "duration": 7.87,
+    "text": "Meet DocWatermarker Pro. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 14.67,
+    "end": 25.06,
+    "duration": 10.39,
+    "text": "Inject confidentiality stamps, draft notices, and dynamic timestamps into Google Docs headers and footers entirely client-side. Zero external server routing."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 25.06,
+    "end": 34.6,
+    "duration": 9.54,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. DocWatermarker Pro is a one-time nine ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 34.6,
+    "end": 42.5,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

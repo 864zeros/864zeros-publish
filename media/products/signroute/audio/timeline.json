@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 6.6,
+    "duration": 6.6,
+    "text": "Tired of paying forty dollars every month just to collect simple internal signatures on standard agreements?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 6.6,
+    "end": 14.19,
+    "duration": 7.58,
+    "text": "Meet SignRoute Local. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 14.19,
+    "end": 27.44,
+    "duration": 13.25,
+    "text": "Capture digital signatures via HTML5 canvas, embed verified signature stamps into Google Docs, and export signed PDFs directly to Google Drive. Zero per-envelope fees or monthly subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 27.44,
+    "end": 36.72,
+    "duration": 9.28,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. SignRoute Local is a one-time nineteen ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 36.72,
+    "end": 44.61,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

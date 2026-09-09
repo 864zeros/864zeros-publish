@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 23.738027,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Printed 500 brochures with free QR codes only to discover the links expire in 14 days?",
+        "duration": 6.024014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\formqr\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.024
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "FormQR & Barcode generates permanent, non-expiring QR codes and Code-128 barcodes directly in Google Sheets and Drive. Zero tracking redirects.",
+        "duration": 11.064014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\formqr\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 6.024,
+        "end": 17.088
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\formqr\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 17.088,
+        "end": 23.738
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\formqr\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 24.794014,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay twelve dollars every single month to QR generator SaaS tools just for static codes?",
+        "duration": 5.904014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\formqr\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.904
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "FormQR & Barcode runs 100% locally in your Google Workspace account with unlimited permanent codes, zero middleman relays, and zero recurring fees.",
+        "duration": 10.248005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\formqr\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 5.904,
+        "end": 16.152
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time seven ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.641995,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\formqr\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 16.152,
+        "end": 24.794
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\formqr\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

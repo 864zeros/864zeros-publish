@@ -1,0 +1,42 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 864zeros Obsidian/Gmail App Tile -->
+  <rect width="128" height="128" rx="28" fill="url(#bg_grad)"/>
+  <rect x="0.5" y="0.5" width="127" height="127" rx="27.5" stroke="url(#border_grad)" stroke-width="1"/>
+
+  <!-- Google Sheets Contact Card Behind Envelope -->
+  <rect x="36" y="24" width="56" height="34" rx="4" fill="#0d1f14" stroke="#0f9d58" stroke-width="1.5"/>
+  <line x1="36" y1="34" x2="92" y2="34" stroke="#1b3d2b" stroke-width="1.2"/>
+  <rect x="42" y="28" width="12" height="2" rx="1" fill="#34d399"/>
+  <rect x="60" y="28" width="16" height="2" rx="1" fill="#34d399"/>
+  <rect x="42" y="40" width="10" height="2" rx="1" fill="#475569"/>
+  <rect x="60" y="40" width="18" height="2" rx="1" fill="#475569"/>
+
+  <!-- Mail Envelope Body -->
+  <rect x="24" y="46" width="80" height="52" rx="6" fill="#181c26" stroke="#475569" stroke-width="1.5"/>
+
+  <!-- Envelope Interior Flap Folds -->
+  <path d="M25 48L64 76L103 48" stroke="#ea4335" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M25 96L54 70" stroke="#334155" stroke-width="1.5"/>
+  <path d="M103 96L74 70" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Central Security Shield (Air-Gapped & Sovereign) -->
+  <path d="M64 54C75 54 82 58 82 66C82 82 64 92 64 92C64 92 46 82 46 66C46 58 53 54 64 54Z" fill="#0b1320" stroke="#38bdf8" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- Verification Checkmark Inside Shield -->
+  <path d="M56 71L62 77L72 65" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Little Emerald Sovereign Beacon Bottom Right -->
+  <circle cx="94" cy="98" r="11" fill="#06090e" stroke="#10b981" stroke-width="1.5"/>
+  <path d="M90 98L93 101L98 95" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <defs>
+    <linearGradient id="bg_grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12080a"/>
+      <stop offset="1" stop-color="#1e1114"/>
+    </linearGradient>
+    <linearGradient id="border_grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ea4335" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+</svg>

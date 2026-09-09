@@ -1,0 +1,3 @@
+file 'price_scene1_hook.wav'
+file 'price_scene2_solution.wav'
+file 'price_scene3_cta.wav'

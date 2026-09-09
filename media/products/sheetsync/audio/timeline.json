@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 6.27,
+    "duration": 6.27,
+    "text": "Nothing kills client trust faster than an executive dashboard covered in red #REF errors."
+  },
+  {
+    "id": "scene2_intro",
+    "start": 6.27,
+    "end": 13.88,
+    "duration": 7.61,
+    "text": "Meet SheetSync Local. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 13.88,
+    "end": 27.12,
+    "duration": 13.25,
+    "text": "Synchronize, roll up, and consolidate master spreadsheets across tabs and workbooks using native Google Sheets triggers. Zero SaaS middleware, zero third-party relays, and zero recurring monthly fees."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 27.12,
+    "end": 36.48,
+    "duration": 9.35,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. SheetSync Local is a one-time nineteen ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 36.48,
+    "end": 44.37,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

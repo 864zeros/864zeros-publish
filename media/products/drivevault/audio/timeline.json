@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 4.97,
+    "duration": 4.97,
+    "text": "What happens to your business tomorrow if your Google account gets unexpectedly suspended?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 4.97,
+    "end": 12.24,
+    "duration": 7.27,
+    "text": "Meet DriveVault. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 12.24,
+    "end": 22.95,
+    "duration": 10.7,
+    "text": "Browse Google Drive and package folders into client-side AES-256 encrypted snapshots for instant local backup. Zero third-party cloud servers in the loop."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 22.95,
+    "end": 31.75,
+    "duration": 8.8,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. DriveVault is a one-time twenty-nine dollars unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 31.75,
+    "end": 39.65,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

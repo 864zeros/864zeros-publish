@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 21.386009,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "How many expense requests get permanently lost in endless email forwarding chains every month?",
+        "duration": 5.616009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\approvalworkflow\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.616009
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "ApprovalWorkflow Local routes form requests with cryptographic one-click email buttons and instant Sheet tracking. Zero external servers in the loop.",
+        "duration": 9.12,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\approvalworkflow\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 5.616009,
+        "end": 14.736009
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\approvalworkflow\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 14.736009,
+        "end": 21.386009
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\approvalworkflow\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 23.426009,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay recurring quarterly subscriptions just for approval buttons in form emails?",
+        "duration": 5.16,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\approvalworkflow\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.16
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "ApprovalWorkflow Local executes 100% locally inside Google Workspace with unlimited multi-step routing and zero recurring fees.",
+        "duration": 9.6,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\approvalworkflow\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 5.16,
+        "end": 14.76
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time fourteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.666009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\approvalworkflow\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 14.76,
+        "end": 23.426009
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\approvalworkflow\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

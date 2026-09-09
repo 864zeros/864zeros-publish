@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 21.34601,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Ever printed 30 address labels only to watch every single one drift completely off the stickers?",
+        "duration": 5.848005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\snaplabel\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.848005
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "SnapLabel merges Google Sheets directly into millimeter-calibrated Avery labels right inside your account. Zero drift, zero data upload.",
+        "duration": 8.848005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\snaplabel\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 5.848005,
+        "end": 14.696010000000001
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\snaplabel\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 14.696010000000001,
+        "end": 21.34601
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\snaplabel\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 23.62601,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why are cloud services charging 50 dollars a year just to align text boxes into Avery grids?",
+        "duration": 5.728005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\snaplabel\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.728005
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "SnapLabel runs 100% locally in Google Apps Script. Print calibrated labels, envelopes, and barcodes forever with zero subscriptions.",
+        "duration": 9.64,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\snaplabel\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 5.728005,
+        "end": 15.368005
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "Just a one-time twenty-nine dollar unlock. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.258005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\snaplabel\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 15.368005,
+        "end": 23.62601
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\snaplabel\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

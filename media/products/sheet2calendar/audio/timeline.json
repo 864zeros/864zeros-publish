@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 5.33,
+    "duration": 5.33,
+    "text": "Typing 60 project milestones from a spreadsheet into Google Calendar one by one?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 5.33,
+    "end": 13.3,
+    "duration": 7.97,
+    "text": "Meet Sheet2Calendar Sync. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 13.3,
+    "end": 24.51,
+    "duration": 11.21,
+    "text": "Turn Google Sheets rows into synchronized Google Calendar events with dynamic two-way updates and scheduled background triggers. Zero third-party servers, zero recurring subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 24.51,
+    "end": 34.05,
+    "duration": 9.54,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. Sheet2Calendar Sync is a one-time twelve ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 34.05,
+    "end": 41.95,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

@@ -1,0 +1,3 @@
+file 'C:\dev\864zeros-llc\LLC-DIV-4-GTM\videos\drivevault\social_shorts\audio\pain_scene1_hook.wav'
+file 'C:\dev\864zeros-llc\LLC-DIV-4-GTM\videos\drivevault\social_shorts\audio\pain_scene2_solution.wav'
+file 'C:\dev\864zeros-llc\LLC-DIV-4-GTM\videos\drivevault\social_shorts\audio\pain_scene3_cta.wav'

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 5.72,
+    "duration": 5.72,
+    "text": "How many expense requests get permanently lost in endless email forwarding chains every month?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 5.72,
+    "end": 13.76,
+    "duration": 8.04,
+    "text": "Meet ApprovalWorkflow Local. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 13.76,
+    "end": 24.29,
+    "duration": 10.54,
+    "text": "Multi-step form approval router with tokenized email action buttons and dynamic Sheet logging. 100% local-first in Apps Script \u2014 zero external data relays."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 24.29,
+    "end": 34.15,
+    "duration": 9.86,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. ApprovalWorkflow Local is a one-time fourteen ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 34.15,
+    "end": 42.05,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

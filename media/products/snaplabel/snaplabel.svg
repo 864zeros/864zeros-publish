@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="sheetGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0066ff"/>
+      <stop offset="100%" stop-color="#0047cc"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Container Surface -->
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="url(#bgGrad)" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
+
+  <!-- Avery Sheet Backdrop -->
+  <g filter="url(#cardShadow)">
+    <rect x="22" y="20" width="84" height="88" rx="8" fill="url(#sheetGrad)" stroke="#cbd5e1" stroke-width="1.2"/>
+  </g>
+
+  <!-- Peel-and-Stick Fold Corner (Top Right) -->
+  <path d="M96 20 L106 30 L96 30 Z" fill="#e2e8f0"/>
+  <path d="M96 20 L106 30 L96 30 Z" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+
+  <!-- Grid Labels (Avery 5160 Matrix) -->
+  <!-- Label 1 (Top Left) -->
+  <rect x="28" y="28" width="34" height="22" rx="3" fill="#f1f5f9" stroke="rgba(0,102,255,0.2)" stroke-width="1"/>
+  <!-- Label 2 (Top Right) -->
+  <rect x="66" y="28" width="34" height="22" rx="3" fill="url(#accentGrad)"/>
+  <!-- Label 3 (Middle Left) -->
+  <rect x="28" y="54" width="34" height="22" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+  <!-- Label 4 (Middle Right) -->
+  <rect x="66" y="54" width="34" height="22" rx="3" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+  <!-- Label 5 (Bottom Left) -->
+  <rect x="28" y="80" width="34" height="22" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+  <!-- Label 6 (Bottom Right) -->
+  <rect x="66" y="80" width="34" height="22" rx="3" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+
+  <!-- Code-128 Barcode on Label 2 (Active Peel) -->
+  <g fill="#ffffff">
+    <rect x="71" y="33" width="2" height="12"/>
+    <rect x="74" y="33" width="1" height="12"/>
+    <rect x="76" y="33" width="3" height="12"/>
+    <rect x="81" y="33" width="1.5" height="12"/>
+    <rect x="84" y="33" width="2.5" height="12"/>
+    <rect x="88" y="33" width="1" height="12"/>
+    <rect x="91" y="33" width="3" height="12"/>
+    <rect x="95" y="33" width="1.5" height="12"/>
+  </g>
+
+  <!-- Calibrated Address Lines on Label 3 -->
+  <rect x="32" y="59" width="24" height="2" rx="1" fill="#475569"/>
+  <rect x="32" y="64" width="18" height="2" rx="1" fill="#64748b"/>
+  <rect x="32" y="69" width="12" height="2" rx="1" fill="#94a3b8"/>
+
+  <!-- Precision Calibration Reticle / Alignment Crosshair (Center) -->
+  <circle cx="64" cy="53" r="2.5" fill="#0066ff"/>
+  <line x1="60" y1="53" x2="68" y2="53" stroke="#0066ff" stroke-width="1"/>
+  <line x1="64" y1="49" x2="64" y2="57" stroke="#0066ff" stroke-width="1"/>
+</svg>

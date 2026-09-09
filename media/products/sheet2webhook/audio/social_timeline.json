@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 23.690023,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Still paying twenty dollars a month to third-party middleware just to send Google Sheets rows to a webhook?",
+        "duration": 5.976009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2webhook\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.976
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "Sheet2Webhook triggers instant real-time HTTP POST requests directly from your spreadsheet to Slack, Discord, Zapier, or your own API on every edit or form submission.",
+        "duration": 11.064014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2webhook\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 5.976,
+        "end": 17.04
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2webhook\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 17.04,
+        "end": 23.69
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2webhook\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 25.538027,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay monthly subscription fees and deal with task run limits just to connect Google Sheets to your webhooks?",
+        "duration": 6.264014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2webhook\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.264
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "Sheet2Webhook runs entirely inside your Google Workspace account with unlimited triggers, zero per-task limits, zero data relays, and complete payload control.",
+        "duration": 10.608005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2webhook\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 6.264,
+        "end": 16.872
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time fourteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.666009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2webhook\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 16.872,
+        "end": 25.538
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2webhook\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

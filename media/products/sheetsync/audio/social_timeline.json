@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 24.370022999999996,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Nothing kills client trust faster than an executive dashboard covered in red #REF errors.",
+        "duration": 5.968005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.968005
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "SheetSync Local synchronizes and consolidates master spreadsheets reliably across tabs and workbooks with zero formula breakage. Automatic background updates without calculation limits.",
+        "duration": 11.752018,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 5.968005,
+        "end": 17.720022999999998
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 17.720022999999998,
+        "end": 24.370022999999996
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 24.106032,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay 40 or 80 dollars a month for enterprise database sync middleware just to merge numbers across sheets?",
+        "duration": 6.592018,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.592018
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "SheetSync Local runs 100% locally inside Google Workspace with unlimited multi-sheet syncing and zero recurring subscriptions.",
+        "duration": 8.92,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 6.592018,
+        "end": 15.512018000000001
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time nineteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.594014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 15.512018000000001,
+        "end": 24.106032
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

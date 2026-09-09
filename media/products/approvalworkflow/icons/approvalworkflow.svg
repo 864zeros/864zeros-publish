@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <linearGradient id="checkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect x="6" y="6" width="116" height="116" rx="26" fill="url(#bgGrad)" stroke="#334155" stroke-width="2" />
+
+  <!-- Flow Circuit Paths -->
+  <path d="M 28 42 L 56 42 C 66 42 74 50 74 60 L 74 88" fill="none" stroke="#334155" stroke-width="3" stroke-linecap="round" />
+  <path d="M 28 64 L 46 64 C 52 64 58 68 58 74 L 58 88" fill="none" stroke="#334155" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Animated Node Circles -->
+  <circle cx="28" cy="42" r="5" fill="#6366F1" />
+  <circle cx="28" cy="64" r="5" fill="#38BDF8" />
+
+  <!-- Main Approval Decision Shield -->
+  <path d="M 64 24 L 98 38 L 98 68 C 98 88 82 102 64 108 C 46 102 30 88 30 68 L 30 38 Z" fill="#0B1120" stroke="url(#accentGrad)" stroke-width="3.5" stroke-linejoin="round" />
+
+  <!-- Internal Shield Accent Fill -->
+  <path d="M 64 30 L 92 42 L 92 68 C 92 84 78 96 64 102 C 50 96 36 84 36 68 L 36 42 Z" fill="#1E293B" opacity="0.6" />
+
+  <!-- Glowing Checkmark / Decision Glyph -->
+  <path d="M 50 64 L 60 74 L 80 50" fill="none" stroke="url(#checkGrad)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" />
+</svg>

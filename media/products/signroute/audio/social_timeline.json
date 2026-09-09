@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 23.233991,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Paying forty dollars every single month to DocuSign just to get a signature on a Google Doc?",
+        "duration": 5.471995,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\signroute\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.472
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "SignRoute Local lets you draw signatures on an HTML5 canvas, stamp verified signer metadata directly into Google Docs, and export sealed PDFs straight to Google Drive.",
+        "duration": 11.111995,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\signroute\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 5.472,
+        "end": 16.584
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\signroute\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 16.584,
+        "end": 23.234
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\signroute\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 25.370023,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay monthly subscriptions and per-envelope fees just to sign your own internal documents?",
+        "duration": 5.616009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\signroute\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.616
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "SignRoute Local runs 100% locally in your Google Workspace account with unlimited signatures, zero per-envelope caps, zero cloud relays, and complete document custody.",
+        "duration": 11.16,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\signroute\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 5.616,
+        "end": 16.776
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time nineteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.594014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\signroute\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 16.776,
+        "end": 25.37
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\signroute\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

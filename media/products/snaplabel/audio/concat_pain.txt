@@ -1,0 +1,3 @@
+file 'pain_scene1_hook.wav'
+file 'pain_scene2_solution.wav'
+file 'pain_scene3_cta.wav'

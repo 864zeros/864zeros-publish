@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 5.14,
+    "duration": 5.14,
+    "text": "Clients complaining they can't upload tax documents because they don't have a Google account?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 5.14,
+    "end": 12.72,
+    "duration": 7.58,
+    "text": "Meet DriveDrop Portal. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 12.72,
+    "end": 24.32,
+    "duration": 11.59,
+    "text": "Collect files from external clients and contractors directly into your private Google Drive folder without requiring Google sign-in. Zero third-party servers, zero recurring subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 24.32,
+    "end": 33.57,
+    "duration": 9.26,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. DriveDrop Portal is a one-time twelve ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 33.57,
+    "end": 41.47,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

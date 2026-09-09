@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 5.45,
+    "duration": 5.45,
+    "text": "Did you know most mail merge add-ons route your confidential client list through unknown external servers?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 5.45,
+    "end": 13.18,
+    "duration": 7.73,
+    "text": "Meet MailSync Shield. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 13.18,
+    "end": 25.01,
+    "duration": 11.83,
+    "text": "Personalized email merge engine operating directly from Google Sheets via native Gmail quotas. Zero external mail-relay servers, zero inbox snooping, and zero recurring subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 25.01,
+    "end": 34.29,
+    "duration": 9.28,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. MailSync Shield is a one-time twelve ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 34.29,
+    "end": 42.19,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

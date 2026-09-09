@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>SnapLabel — Social Short: Pain Hook (1080×1920)</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg-dark: #070a11;
+    --bg-card: #0e1526;
+    --border: #1e293b;
+    --ink: #f8fafc;
+    --muted: #94a3b8;
+    --blue: #38bdf8;
+    --blue-glow: rgba(56, 189, 248, 0.4);
+    --danger: #f43f5e;
+    --danger-glow: rgba(244, 63, 94, 0.35);
+    --emerald: #10b981;
+    --emerald-glow: rgba(16, 185, 129, 0.35);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  
+  body {
+    width: 1080px;
+    height: 1920px;
+    overflow: hidden;
+    background: radial-gradient(circle at 50% 20%, #111a33 0%, var(--bg-dark) 75%);
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+    color: var(--ink);
+    position: relative;
+    user-select: none;
+  }
+
+  .top-progress-bar {
+    position: absolute;
+    top: 0; left: 0;
+    height: 12px;
+    width: 0%;
+    background: linear-gradient(90deg, var(--danger), var(--blue));
+    z-index: 100;
+    box-shadow: 0 0 24px var(--blue);
+  }
+
+  .top-header {
+    position: absolute;
+    top: 70px; left: 80px; right: 80px;
+    display: flex; justify-content: space-between; align-items: center;
+    z-index: 90;
+  }
+  .brand-logo {
+    display: flex; align-items: center; gap: 18px;
+  }
+  .brand-logo img {
+    width: 64px; height: 64px; border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.6);
+  }
+  .brand-text {
+    font-size: 36px; font-weight: 900; color: #fff;
+    letter-spacing: -0.5px;
+  }
+  .brand-text span { color: var(--blue); }
+
+  .pill-badge {
+    background: rgba(56, 189, 248, 0.15);
+    border: 2px solid rgba(56, 189, 248, 0.4);
+    color: var(--blue);
+    padding: 10px 24px;
+    border-radius: 999px;
+    font-size: 22px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .stage-container {
+    position: absolute;
+    top: 200px; bottom: 320px; left: 80px; right: 80px;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    z-index: 50;
+  }
+
+  .scene {
+    position: absolute;
+    width: 100%;
+    display: flex; flex-direction: column; align-items: center; text-align: center;
+    opacity: 0;
+    transform: translateY(40px) scale(0.96);
+    transition: opacity 0.4s cubic-bezier(0.16, 1, 0.3, 1), transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    pointer-events: none;
+  }
+  .scene.active {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    pointer-events: auto;
+  }
+
+  /* Scene 1: Pain Hook */
+  .pain-pill {
+    background: rgba(244, 63, 94, 0.18);
+    border: 2px solid var(--danger);
+    color: var(--danger);
+    padding: 12px 30px;
+    border-radius: 999px;
+    font-size: 24px; font-weight: 900;
+    letter-spacing: 0.08em;
+    margin-bottom: 28px;
+    box-shadow: 0 0 30px var(--danger-glow);
+  }
+  .pain-title {
+    font-size: 72px; font-weight: 900; line-height: 1.1;
+    margin-bottom: 36px;
+  }
+  .pain-title span { color: var(--danger); }
+
+  .sheet-mock {
+    width: 820px;
+    background: var(--bg-card);
+    border: 3px solid #334155;
+    border-radius: 28px;
+    padding: 40px;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.7);
+    display: flex; flex-direction: column; gap: 20px;
+  }
+  .drift-card {
+    background: rgba(244, 63, 94, 0.12);
+    border: 2px dashed var(--danger);
+    border-radius: 16px;
+    padding: 24px;
+    font-size: 28px;
+    color: #fecdd3;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+
+  /* Scene 2: Solution */
+  .sol-pill {
+    background: rgba(16, 185, 129, 0.18);
+    border: 2px solid var(--emerald);
+    color: var(--emerald);
+    padding: 12px 30px;
+    border-radius: 999px;
+    font-size: 24px; font-weight: 900;
+    margin-bottom: 24px;
+    box-shadow: 0 0 30px var(--emerald-glow);
+  }
+  .sol-title {
+    font-size: 68px; font-weight: 900; line-height: 1.15;
+    margin-bottom: 32px;
+  }
+  .sol-title span { color: var(--blue); }
+
+  .label-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;
+    width: 820px;
+  }
+  .label-cell {
+    background: #1e293b;
+    border: 2px solid #3b82f6;
+    border-radius: 20px;
+    padding: 28px;
+    text-align: left;
+    display: flex; flex-direction: column; gap: 12px;
+  }
+  .label-cell h4 { font-size: 26px; color: #fff; font-weight: 800; }
+  .label-cell p { font-size: 20px; color: #94a3b8; line-height: 1.4; }
+  .label-tag {
+    font-size: 16px; font-weight: 800; color: var(--emerald);
+    background: rgba(16, 185, 129, 0.15); padding: 4px 10px; border-radius: 6px;
+    align-self: flex-start;
+  }
+
+  /* Scene 3: CTA Outro */
+  .cta-badge {
+    background: rgba(56, 189, 248, 0.18);
+    border: 2px solid var(--blue);
+    color: var(--blue);
+    padding: 14px 36px;
+    border-radius: 999px;
+    font-size: 26px; font-weight: 900;
+    margin-bottom: 24px;
+  }
+  .cta-title {
+    font-size: 68px; font-weight: 900; line-height: 1.15;
+    margin-bottom: 30px;
+  }
+  .cta-title span { color: var(--emerald); }
+  .cta-card {
+    width: 820px;
+    background: var(--bg-card);
+    border: 3px solid var(--border);
+    border-radius: 32px;
+    padding: 50px;
+    display: flex; flex-direction: column; align-items: center; gap: 24px;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.8);
+  }
+  .store-pill {
+    background: rgba(16, 185, 129, 0.15);
+    border: 2px solid var(--emerald);
+    color: var(--emerald);
+    font-size: 26px; font-weight: 800;
+    padding: 12px 28px; border-radius: 16px;
+  }
+  .url-text {
+    font-size: 48px; font-weight: 900; color: var(--blue);
+    letter-spacing: -0.5px;
+  }
+  .tagline {
+    font-size: 24px; color: var(--muted);
+  }
+
+  /* Bottom Kinetic Subtitles */
+  .subtitles-container {
+    position: absolute;
+    bottom: 90px; left: 80px; right: 80px;
+    display: flex; justify-content: center;
+    z-index: 100;
+  }
+  .sub-pill {
+    background: rgba(15, 23, 42, 0.85);
+    backdrop-filter: blur(16px);
+    border: 2px solid rgba(56, 189, 248, 0.35);
+    border-radius: 999px;
+    padding: 20px 48px;
+    max-width: 920px;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.6);
+  }
+  .sub-text {
+    font-size: 36px; font-weight: 800; color: #fff;
+    line-height: 1.35;
+    text-align: center;
+  }
+  .sub-text span {
+    color: var(--blue);
+    font-weight: 900;
+  }
+</style>
+</head>
+<body>
+  <div class="top-progress-bar" id="progressBar"></div>
+
+  <div class="top-header">
+    <div class="brand-logo">
+      <img src="../assets/snaplabel.png" alt="SnapLabel" />
+      <div class="brand-text">Snap<span>Label</span></div>
+    </div>
+    <div class="pill-badge">Google Workspace Add-On</div>
+  </div>
+
+  <div class="stage-container">
+    <!-- Scene 1: Pain Hook (0.0s - 5.85s) -->
+    <div class="scene active" id="scene1">
+      <div class="pain-pill">PRINTER ALIGNMENT DRIFT</div>
+      <h1 class="pain-title">Wasting Entire<br /><span>Sticker Sheets?</span></h1>
+      <div class="sheet-mock">
+        <div class="drift-card">
+          <span>Row 1 · Avery 5160</span>
+          <span style="color:#f43f5e; font-weight:800;">ALIGNMENT DRIFT ERROR</span>
+        </div>
+        <div class="drift-card">
+          <span>Row 2 · Return Address</span>
+          <span style="color:#f43f5e; font-weight:800;">CLIPPED MARGIN (-4mm)</span>
+        </div>
+        <div class="drift-card">
+          <span>Row 3 · Barcode 128</span>
+          <span style="color:#f43f5e; font-weight:800;">FAILED OPTICAL SCAN</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Scene 2: Solution (5.85s - 14.70s) -->
+    <div class="scene" id="scene2">
+      <div class="sol-pill">MILLIMETER CALIBRATED</div>
+      <h1 class="sol-title">100% Zero-Drift<br /><span>Avery Merge</span></h1>
+      <div class="label-grid">
+        <div class="label-cell">
+          <span class="label-tag">Avery 5160 / 8160</span>
+          <h4>30-Up Address Labels</h4>
+          <p>Zero drift from top to bottom margin across 5,000 rows.</p>
+        </div>
+        <div class="label-cell">
+          <span class="label-tag">Code-128 &amp; QR</span>
+          <h4>Hardware-Verified</h4>
+          <p>Instant barcode tags for inventory and warehouse SKUs.</p>
+        </div>
+        <div class="label-cell">
+          <span class="label-tag">Direct to PDF</span>
+          <h4>Native Apps Script</h4>
+          <p>Vectors rendered directly inside your Google session.</p>
+        </div>
+        <div class="label-cell">
+          <span class="label-tag">Sovereign Custody</span>
+          <h4>Zero Cloud Upload</h4>
+          <p>Customer contact rows never leave your Google account.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Scene 3: CTA Outro (14.70s - 21.35s) -->
+    <div class="scene" id="scene3">
+      <div class="cta-badge">AVAILABLE NOW</div>
+      <h1 class="cta-title">Stop Wasting Paper.<br /><span>Take Control.</span></h1>
+      <div class="cta-card">
+        <div class="store-pill">Google Workspace Marketplace for Add-Ons</div>
+        <div class="url-text">864zeros.com/products/snaplabel</div>
+        <div class="tagline">Sovereign Software &middot; Pay Once, Keep Forever</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="subtitles-container">
+    <div class="sub-pill">
+      <div class="sub-text" id="subText">Ever printed 30 address labels only to watch them drift?</div>
+    </div>
+  </div>
+
+  <script>
+    const TIMINGS = [
+      { start: 0.0, end: 5.85, scene: 1, text: "Ever printed 30 address labels only to watch them <span>drift off the stickers?</span>" },
+      { start: 5.85, end: 14.70, scene: 2, text: "SnapLabel merges Google Sheets into <span>calibrated Avery labels</span> with zero drift." },
+      { start: 14.70, end: 21.35, scene: 3, text: "Get it on the <span>Google Workspace Marketplace</span> at eight sixty-four zeros dot com." }
+    ];
+    const TOTAL_DUR = 21.35;
+
+    let startTime = null;
+    let animId = null;
+
+    window.startPlayback = function() {
+      startTime = performance.now();
+      requestAnimationFrame(tick);
+    };
+
+    function tick(now) {
+      const elapsed = (now - startTime) / 1000;
+      const progress = Math.min(100, (elapsed / TOTAL_DUR) * 100);
+      document.getElementById('progressBar').style.width = progress + '%';
+
+      for (const t of TIMINGS) {
+        if (elapsed >= t.start && elapsed < t.end) {
+          switchScene(t.scene);
+          document.getElementById('subText').innerHTML = t.text;
+          break;
+        }
+      }
+
+      if (elapsed < TOTAL_DUR + 0.5) {
+        requestAnimationFrame(tick);
+      }
+    }
+
+    function switchScene(sceneNum) {
+      document.getElementById('scene1').classList.toggle('active', sceneNum === 1);
+      document.getElementById('scene2').classList.toggle('active', sceneNum === 2);
+      document.getElementById('scene3').classList.toggle('active', sceneNum === 3);
+    }
+  </script>
+</body>
+</html>

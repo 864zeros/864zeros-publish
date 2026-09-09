@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 7.04,
+    "duration": 7.04,
+    "text": "Google Drive is 99% full, but you're terrified of letting random cloud cleaning apps touch your files."
+  },
+  {
+    "id": "scene2_intro",
+    "start": 7.04,
+    "end": 14.72,
+    "duration": 7.68,
+    "text": "Meet DriveSweep Local. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 14.72,
+    "end": 26.79,
+    "duration": 12.07,
+    "text": "Local-first Google Drive storage cleaner that finds and removes duplicate files, zero-byte empty documents, and stale orphans. Zero third-party servers, zero recurring subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 26.79,
+    "end": 36.28,
+    "duration": 9.5,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. DriveSweep Local is a one-time fourteen ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 36.28,
+    "end": 44.18,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141820" />
+      <stop offset="100%" stop-color="#0B0E14" />
+    </linearGradient>
+    <linearGradient id="sage-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A2BFA0" />
+      <stop offset="100%" stop-color="#7A9A77" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Base -->
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="url(#bg-grad)" stroke="#1F2937" stroke-width="2.5" />
+
+  <!-- Spreadsheet Table Shape (Left) -->
+  <rect x="20" y="32" width="40" height="64" rx="6" fill="#161C26" stroke="#2B3648" stroke-width="1.8" />
+  <!-- Header row -->
+  <rect x="20" y="32" width="40" height="14" rx="6" fill="#1F2937" />
+  <line x1="26" y1="39" x2="38" y2="39" stroke="#8BA888" stroke-width="2" stroke-linecap="round" />
+  <line x1="44" y1="39" x2="54" y2="39" stroke="#9CA3AF" stroke-width="2" stroke-linecap="round" />
+  <!-- Table rows -->
+  <line x1="20" y1="46" x2="60" y2="46" stroke="#2B3648" stroke-width="1.2" />
+  <line x1="20" y1="62" x2="60" y2="62" stroke="#2B3648" stroke-width="1.2" />
+  <line x1="20" y1="78" x2="60" y2="78" stroke="#2B3648" stroke-width="1.2" />
+  <!-- Row 1 data -->
+  <line x1="26" y1="54" x2="48" y2="54" stroke="#8BA888" stroke-width="2" stroke-linecap="round" />
+  <!-- Row 2 data -->
+  <line x1="26" y1="70" x2="52" y2="70" stroke="#9CA3AF" stroke-width="1.8" stroke-linecap="round" />
+  <!-- Row 3 data -->
+  <line x1="26" y1="86" x2="42" y2="86" stroke="#9CA3AF" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Dynamic Sync Flow Arrows (Middle) -->
+  <path d="M 58 54 Q 68 50 72 58" fill="none" stroke="url(#sage-grad)" stroke-width="2.5" stroke-linecap="round" />
+  <polygon points="73,53 76,60 69,59" fill="#8BA888" />
+  <path d="M 72 74 Q 68 82 58 78" fill="none" stroke="#6B7280" stroke-width="2" stroke-dasharray="2 2" stroke-linecap="round" />
+
+  <!-- Google Calendar Card Shape (Right) -->
+  <rect x="68" y="32" width="42" height="64" rx="8" fill="#1C2430" stroke="url(#sage-grad)" stroke-width="2" />
+  <!-- Calendar Header Band -->
+  <path d="M 68 38 C 68 34.6 70.6 32 74 32 L 104 32 C 107.4 32 110 34.6 110 38 L 110 46 L 68 46 Z" fill="#8BA888" />
+  <!-- Calendar Top Rings -->
+  <rect x="76" y="27" width="4" height="8" rx="2" fill="#E5E7EB" />
+  <rect x="98" y="27" width="4" height="8" rx="2" fill="#E5E7EB" />
+
+  <!-- Event Dot Grid & Checkmark in Calendar -->
+  <circle cx="78" cy="56" r="2.5" fill="#9CA3AF" />
+  <circle cx="89" cy="56" r="2.5" fill="#9CA3AF" />
+  <circle cx="100" cy="56" r="2.5" fill="#8BA888" />
+
+  <!-- Active Event Block -->
+  <rect x="76" y="66" width="26" height="18" rx="4" fill="#2A3848" stroke="#8BA888" stroke-width="1.2" />
+  <path d="M 82 75 L 86 79 L 96 69" fill="none" stroke="#8BA888" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

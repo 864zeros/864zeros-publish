@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 22.930023,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Ever spent your entire Sunday evening copy-pasting numbers into 50 presentation slides?",
+        "duration": 5.416009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\slidebuilder\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.416009
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "SlideBuilder Local automatically maps spreadsheet rows into branded Google Slides templates with pixel-perfect layouts. Zero manual retyping and zero broken corporate styling.",
+        "duration": 10.864014,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\slidebuilder\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 5.416009,
+        "end": 16.280023
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\slidebuilder\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 16.280023,
+        "end": 22.930023
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\slidebuilder\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 24.802018000000004,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay 20 or 30 dollars a month for AI presentation tools that hallucinate data and wreck your corporate fonts?",
+        "duration": 6.88,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\slidebuilder\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.88
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "SlideBuilder Local runs 100% locally inside Google Workspace with unlimited slide generation and zero recurring monthly fees.",
+        "duration": 9.256009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\slidebuilder\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 6.88,
+        "end": 16.136009
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time fourteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.666009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\slidebuilder\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 16.136009,
+        "end": 24.802018000000004
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\slidebuilder\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

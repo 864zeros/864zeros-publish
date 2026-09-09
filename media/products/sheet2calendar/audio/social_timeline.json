@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 20.306009000000003,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "Typing sixty project milestones or duty rosters from a spreadsheet into Google Calendar one by one?",
+        "duration": 6.12,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2calendar\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 6.12
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "Sheet2Calendar Sync turns Google Sheets rows into synced calendar events with two-way updates and zero duplicate clutter.",
+        "duration": 7.536009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2calendar\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 6.12,
+        "end": 13.656009000000001
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2calendar\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 13.656009000000001,
+        "end": 20.306009000000003
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2calendar\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 25.586054,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay ninety-nine to two hundred ninety-nine dollars every single year just to sync spreadsheet rows to Google Calendar?",
+        "duration": 7.032018,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2calendar\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 7.032018
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "Sheet2Calendar Sync executes 100% locally inside Google Workspace with unlimited syncs, zero cloud servers, and zero subscriptions.",
+        "duration": 10.032018,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2calendar\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 7.032018,
+        "end": 17.064036
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time twelve ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.522018,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2calendar\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 17.064036,
+        "end": 25.586054
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheet2calendar\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

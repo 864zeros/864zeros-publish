@@ -1,0 +1,42 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 864zeros Obsidian/Slides-Amber App Tile -->
+  <rect width="128" height="128" rx="28" fill="url(#bg_grad)"/>
+  <rect x="0.5" y="0.5" width="127" height="127" rx="27.5" stroke="url(#border_grad)" stroke-width="1"/>
+
+  <!-- Master Presentation Slide Screen (16:9) -->
+  <rect x="22" y="30" width="84" height="54" rx="6" fill="#181512" stroke="#e37400" stroke-width="2"/>
+
+  <!-- Slide Top Bar / Title Placeholders -->
+  <rect x="28" y="38" width="34" height="4" rx="2" fill="#fbbf24"/>
+  <rect x="28" y="46" width="22" height="2.5" rx="1" fill="#78716c"/>
+
+  <!-- Metric Card 1 (Left Box) -->
+  <rect x="28" y="54" width="32" height="22" rx="3" fill="#292524" stroke="#d97706" stroke-width="1"/>
+  <rect x="32" y="58" width="16" height="2" rx="1" fill="#a8a29e"/>
+  <rect x="32" y="64" width="24" height="4" rx="1.5" fill="#f59e0b"/>
+
+  <!-- Metric Card 2 (Right Box) -->
+  <rect x="66" y="54" width="34" height="22" rx="3" fill="#292524" stroke="#0f9d58" stroke-width="1"/>
+  <rect x="70" y="58" width="18" height="2" rx="1" fill="#a8a29e"/>
+  <!-- Growth Sparkline Chart in Card 2 -->
+  <path d="M70 70L76 66L82 68L92 60" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Slide Stand Base -->
+  <path d="M56 84L52 94H76L72 84" fill="#44403c"/>
+  <line x1="48" y1="94" x2="80" y2="94" stroke="#78716c" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Sovereign Shield Badge Bottom Right -->
+  <circle cx="94" cy="98" r="11" fill="#06090e" stroke="#e37400" stroke-width="1.5"/>
+  <path d="M90 98L93 101L98 95" stroke="#fbbf24" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <defs>
+    <linearGradient id="bg_grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#140f08"/>
+      <stop offset="1" stop-color="#24190c"/>
+    </linearGradient>
+    <linearGradient id="border_grad" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f59e0b" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+</svg>

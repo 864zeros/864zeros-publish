@@ -1,0 +1,62 @@
+{
+  "pain": {
+    "total_duration": 22.394036,
+    "scenes": [
+      {
+        "id": "pain_scene1_hook",
+        "text": "What happens to your business tomorrow if your Google account gets unexpectedly suspended?",
+        "duration": 4.872018,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivevault\\social_shorts\\audio\\pain_scene1_hook.wav",
+        "start": 0.0,
+        "end": 4.872018
+      },
+      {
+        "id": "pain_scene2_solution",
+        "text": "DriveVault creates client-side AES-256 encrypted backup snapshots of your Google Drive files directly on your local hardware. Zero third-party servers in custody.",
+        "duration": 10.872018,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivevault\\social_shorts\\audio\\pain_scene2_solution.wav",
+        "start": 4.872018,
+        "end": 15.744036000000001
+      },
+      {
+        "id": "pain_scene3_cta",
+        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
+        "duration": 6.65,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivevault\\social_shorts\\audio\\pain_scene3_cta.wav",
+        "start": 15.744036000000001,
+        "end": 22.394036
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivevault\\social_shorts\\audio\\soundtrack_pain.wav"
+  },
+  "price": {
+    "total_duration": 23.330022999999997,
+    "scenes": [
+      {
+        "id": "price_scene1_hook",
+        "text": "Why pay recurring monthly storage rent to a cloud backup company for files you already own?",
+        "duration": 5.616009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivevault\\social_shorts\\audio\\price_scene1_hook.wav",
+        "start": 0.0,
+        "end": 5.616009
+      },
+      {
+        "id": "price_scene2_solution",
+        "text": "DriveVault executes 100% locally inside your Google Workspace account with unlimited encrypted backups and zero monthly subscriptions.",
+        "duration": 9.216009,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivevault\\social_shorts\\audio\\price_scene2_solution.wav",
+        "start": 5.616009,
+        "end": 14.832018
+      },
+      {
+        "id": "price_scene3_cta",
+        "text": "A one-time twenty-nine dollars unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+        "duration": 8.498005,
+        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivevault\\social_shorts\\audio\\price_scene3_cta.wav",
+        "start": 14.832018,
+        "end": 23.330022999999997
+      }
+    ],
+    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\drivevault\\social_shorts\\audio\\soundtrack_price.wav"
+  }
+}

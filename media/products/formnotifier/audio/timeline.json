@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 6.65,
+    "duration": 6.65,
+    "text": "An enterprise lead submitted your contact form, and nobody received an alert until Monday morning."
+  },
+  {
+    "id": "scene2_intro",
+    "start": 6.65,
+    "end": 14.4,
+    "duration": 7.75,
+    "text": "Meet FormNotifier Pro. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 14.4,
+    "end": 24.65,
+    "duration": 10.25,
+    "text": "Conditional HTML email notifications and autoresponders for Google Forms. Zero watermarks, zero third-party relays, sovereign lifetime license."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 24.65,
+    "end": 34.05,
+    "duration": 9.4,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. FormNotifier Pro is a one-time nine ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 34.05,
+    "end": 41.95,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

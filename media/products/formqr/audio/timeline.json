@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 6.12,
+    "duration": 6.12,
+    "text": "Printed 500 brochures with free QR codes only to discover the links expire in 14 days?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 6.12,
+    "end": 14.16,
+    "duration": 8.04,
+    "text": "Meet FormQR & Barcode. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 14.16,
+    "end": 28.3,
+    "duration": 14.14,
+    "text": "Generate permanent, non-expiring QR codes and Code-128 barcodes from spreadsheet data and save high-resolution graphics directly to Google Drive. Zero tracking redirects, zero subscription fees."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 28.3,
+    "end": 37.94,
+    "duration": 9.64,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. FormQR & Barcode is a one-time seven ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 37.94,
+    "end": 45.84,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]
