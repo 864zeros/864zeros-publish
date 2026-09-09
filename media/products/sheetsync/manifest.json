@@ -12,7 +12,7 @@
   "video": {
     "src": "sheetsync-master.mp4",
     "poster": "sheetsync-thumbnail.png",
-    "tag": "⚡ 56s Product Demo",
+    "tag": "⏱️ 44s Product Demo",
     "title": "Watch SheetSync Local in Action",
     "desc": "Consolidate, map, and synchronize Google Sheets cross-workbook ranges locally. Three conflict resolution modes, automatic background sync triggers, and zero external database middlemen.",
     "sub": "<b>No subscriptions</b> · $19.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "sheetsync-social-pain.mp4",
       "poster": "thumbnail-sheetsync-social-pain.png",
       "angle": "broken_importrange_ref_errors",
-      "duration": 18.5
+      "duration": 24.4
     },
     {
       "id": "social-hook-price",
       "src": "sheetsync-social-price.mp4",
       "poster": "thumbnail-sheetsync-social-price.png",
       "angle": "paying_35_per_month_for_sheet_connectors",
-      "duration": 18.5
+      "duration": 24.1
     }
   ],
   "shots": [
