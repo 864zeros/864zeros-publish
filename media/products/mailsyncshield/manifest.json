@@ -12,7 +12,7 @@
   "video": {
     "src": "mailsyncshield-master.mp4",
     "poster": "mailsyncshield-thumbnail.png",
-    "tag": "⚡ 55s Product Demo",
+    "tag": "⏱️ 42s Product Demo",
     "title": "Watch MailSync Shield in Action",
     "desc": "Personalized mail merge directly from Google Sheets using native Gmail quotas. Zero external mail-relay servers, zero contact scraping, zero recurring subscription fees.",
     "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "mailsyncshield-social-pain.mp4",
       "poster": "thumbnail-mailsyncshield-social-pain.png",
       "angle": "third_party_servers_reading_client_emails",
-      "duration": 18.5
+      "duration": 23.3
     },
     {
       "id": "social-hook-price",
       "src": "mailsyncshield-social-price.mp4",
       "poster": "thumbnail-mailsyncshield-social-price.png",
       "angle": "stop_paying_40_per_year_for_mail_merge",
-      "duration": 18.5
+      "duration": 21.4
     }
   ],
   "shots": [
