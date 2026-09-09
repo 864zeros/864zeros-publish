@@ -12,7 +12,7 @@
   "video": {
     "src": "formnotifier-master.mp4",
     "poster": "formnotifier-thumbnail.png",
-    "tag": "⚡ 45s Product Demo",
+    "tag": "⏱️ 42s Product Demo",
     "title": "Watch FormNotifier Pro in Action",
     "desc": "Set up conditional rules to notify specific stakeholders based on form answers, and dispatch clean HTML confirmation receipts to respondents with zero branding watermarks.",
     "sub": "<b>No subscriptions</b> · $9.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "formnotifier-social-pain.mp4",
       "poster": "thumbnail-formnotifier-social-pain.png",
       "angle": "missed_lead_notifications_and_clunky_form_receipts",
-      "duration": 18.5
+      "duration": 22.0
     },
     {
       "id": "social-hook-price",
       "src": "formnotifier-social-price.mp4",
       "poster": "thumbnail-formnotifier-social-price.png",
       "angle": "paying_monthly_sub_for_simple_form_email_notifications",
-      "duration": 18.5
+      "duration": 24.8
     }
   ],
   "shots": [
