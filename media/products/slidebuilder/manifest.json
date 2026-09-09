@@ -12,7 +12,7 @@
   "video": {
     "src": "slidebuilder-master.mp4",
     "poster": "slidebuilder-thumbnail.png",
-    "tag": "⚡ 53s Product Demo",
+    "tag": "⏱️ 43s Product Demo",
     "title": "Watch SlideBuilder Local in Action",
     "desc": "Inject Google Sheets data into branded Google Slides templates deterministically. Generate dozens of client decks or report cards without AI hallucinating or breaking master layouts.",
     "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "slidebuilder-social-pain.mp4",
       "poster": "thumbnail-slidebuilder-social-pain.png",
       "angle": "copy_pasting_table_cells_into_50_slides",
-      "duration": 18.5
+      "duration": 22.9
     },
     {
       "id": "social-hook-price",
       "src": "slidebuilder-social-price.mp4",
       "poster": "thumbnail-slidebuilder-social-price.png",
       "angle": "ai_slide_tools_charging_monthly_per_user",
-      "duration": 18.5
+      "duration": 24.8
     }
   ],
   "shots": [
