@@ -12,7 +12,7 @@
   "video": {
     "src": "drivevault-master.mp4",
     "poster": "drivevault-thumbnail.png",
-    "tag": "⚡ 58s Product Demo",
+    "tag": "⏱️ 40s Product Demo",
     "title": "Watch DriveVault in Action",
     "desc": "Sovereign local backup and client-side AES-256-GCM encrypted vault for Google Drive files. Protect your vital assets from account lockouts with air-gapped recovery keys.",
     "sub": "<b>No subscriptions</b> · $29.00 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "drivevault-social-pain.mp4",
       "poster": "thumbnail-drivevault-social-pain.png",
       "angle": "google_account_lockout_paranoia",
-      "duration": 18.5
+      "duration": 22.4
     },
     {
       "id": "social-hook-price",
       "src": "drivevault-social-price.mp4",
       "poster": "thumbnail-drivevault-social-price.png",
       "angle": "cloud_backup_monthly_storage_tax",
-      "duration": 18.5
+      "duration": 23.3
     }
   ],
   "shots": [
