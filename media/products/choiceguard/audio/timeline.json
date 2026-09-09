@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_hook",
+    "start": 0.0,
+    "end": 6.0,
+    "duration": 6.0,
+    "text": "Two parents clicked the exact same volunteer slot at 8:01 AM. Who gets the seat?"
+  },
+  {
+    "id": "scene2_intro",
+    "start": 6.0,
+    "end": 13.32,
+    "duration": 7.32,
+    "text": "Meet ChoiceGuard. 100% sovereign, local-first execution right inside your Google Workspace account."
+  },
+  {
+    "id": "scene3_feature",
+    "start": 13.32,
+    "end": 23.76,
+    "duration": 10.44,
+    "text": "Dynamically eliminate options in Google Forms as capacity fills. Concurrency-safe, local-first inventory and sign-up limits with zero monthly subscriptions."
+  },
+  {
+    "id": "scene4_pricing",
+    "start": 23.76,
+    "end": 32.71,
+    "duration": 8.94,
+    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. ChoiceGuard is a one-time seven ninety-nine unlock forever."
+  },
+  {
+    "id": "scene5_cta",
+    "start": 32.71,
+    "end": 40.61,
+    "duration": 7.9,
+    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+  }
+]

@@ -12,7 +12,7 @@
   "video": {
     "src": "choiceguard-master.mp4",
     "poster": "choiceguard-thumbnail.png",
-    "tag": "⚡ 50s Product Demo",
+    "tag": "⚡ 41s Product Demo",
     "title": "Watch ChoiceGuard in Action",
     "desc": "Dynamically eliminate choices and cap seat limits in Google Forms as responses arrive. LockService mutex ensures zero race condition double-bookings during simultaneous sign-ups. 100% in-account processing.",
     "sub": "<b>No subscriptions</b> · $7.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "choiceguard-social-pain.mp4",
       "poster": "thumbnail-choiceguard-social-pain.png",
       "angle": "form_double_booking_race_conditions",
-      "duration": 18.5
+      "duration": 21.06
     },
     {
       "id": "social-hook-price",
       "src": "choiceguard-social-price.mp4",
       "poster": "thumbnail-choiceguard-social-price.png",
       "angle": "zero_subscription_choice_eliminator",
-      "duration": 18.5
+      "duration": 23.89
     }
   ],
   "shots": [
