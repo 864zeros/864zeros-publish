@@ -1,0 +1,66 @@
+{
+  "slug": "drivesweep",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T02:00:00.000Z",
+  "type": "google-add-ons",
+  "name": "DriveSweep Local — Sovereign Drive Duplicate Finder & Storage Cleaner",
+  "summary": "Local-first Google Drive storage cleaner that finds and removes duplicate files, zero-byte empty documents, and stale orphans. Zero third-party servers, zero recurring subscriptions.",
+  "metaDescription": "DriveSweep Local scans Google Drive folders to detect duplicate files, zero-byte orphans, and reclaim storage natively. One-time lifetime license with zero subscriptions.",
+  "icon": "drivesweep.png",
+  "storeUrl": "",
+  "video": {
+    "src": "drivesweep-master.mp4",
+    "poster": "drivesweep-thumbnail.png",
+    "tag": "⚡ 55s Product Demo",
+    "title": "Watch DriveSweep Local in Action",
+    "desc": "Reclaim gigabytes of wasted Google Drive storage without handing full account keys to external cloud services. Scan target folders, inspect duplicate clusters, and trash redundant files with one click.",
+    "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "drivesweep-social-pain.mp4",
+      "poster": "thumbnail-drivesweep-social-pain.png",
+      "angle": "google_storage_full_warnings_and_privacy_fears",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "drivesweep-social-price.mp4",
+      "poster": "thumbnail-drivesweep-social-price.png",
+      "angle": "paying_annual_subscriptions_for_drive_cleanup_scanners",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "drivesweep-1.png",
+      "alt": "DriveSweep Local — folder duplicate scanning and storage audit metrics",
+      "cap": "Scan any Google Drive folder to discover duplicate files, zero-byte documents, and recoverable storage."
+    },
+    {
+      "img": "drivesweep-2.png",
+      "alt": "DriveSweep Local — duplicate clustering and safe batch trash execution",
+      "cap": "Inspect duplicate clusters with smart keep preferences and move redundant copies safely to Drive Trash."
+    },
+    {
+      "img": "drivesweep-3.png",
+      "alt": "DriveSweep Local — detailed Google Sheets audit ledger and lifetime ownership",
+      "cap": "Export comprehensive item-by-item audit ledgers directly to Google Sheets with zero recurring SaaS fees."
+    }
+  ],
+  "jsonld": {
+    "description": "Sovereign Google Drive duplicate finder and storage cleaner executing 100% locally in Apps Script without third-party servers.",
+    "featureList": [
+      "Targeted folder and subfolder recursive scanning",
+      "Duplicate file detection by exact name and byte-size signatures",
+      "Zero-byte empty file and stale document identification",
+      "Configurable keep rules (Keep Newest vs Keep Oldest)",
+      "Safe Drive Trash integration with 30-day restore guarantee",
+      "Automated Google Sheets audit ledger export",
+      "100% private in-account execution via non-restricted scopes",
+      "One-time lifetime license — zero recurring SaaS subscriptions"
+    ]
+  }
+}
