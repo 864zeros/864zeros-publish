@@ -86,7 +86,7 @@
       "title": "864zeros Central Product Asset Vault (DAM)",
       "docs": "media/MEDIA_HOUSE.md",
       "taxonomy": "PRODUCT_TAXONOMY.json",
-      "total_products": 27,
+      "total_products": 28,
       "products_seeded": [
         {
           "slug": "autoorganize-ytm",
@@ -276,6 +276,13 @@
           "pillar": "864F",
           "status": "VIDEO_QUEUED",
           "vault": "media/products/approvalworkflow/"
+        },
+        {
+          "slug": "formnotifier",
+          "category": "google-workspace-addons",
+          "pillar": "864F",
+          "status": "VIDEO_QUEUED",
+          "vault": "media/products/formnotifier/"
         }
       ]
     }

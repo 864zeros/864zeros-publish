@@ -1,0 +1,64 @@
+{
+  "slug": "formnotifier",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T01:45:00.000Z",
+  "type": "google-add-ons",
+  "name": "FormNotifier Pro — Smart Conditional Form Alerts & Respondent Autoresponder",
+  "summary": "Send instant formatted email alerts and conditional respondent confirmations on Google Forms submission. 100% private in Apps Script — zero watermarks, zero subscription fees.",
+  "metaDescription": "FormNotifier Pro triggers instant dynamic email alerts to team members and customized confirmations to respondents on Google Forms submission. One-time lifetime license.",
+  "icon": "formnotifier.png",
+  "storeUrl": "",
+  "video": {
+    "src": "formnotifier-master.mp4",
+    "poster": "formnotifier-thumbnail.png",
+    "tag": "⚡ 45s Product Demo",
+    "title": "Watch FormNotifier Pro in Action",
+    "desc": "Set up conditional rules to notify specific stakeholders based on form answers, and dispatch clean HTML confirmation receipts to respondents with zero branding watermarks.",
+    "sub": "<b>No subscriptions</b> · $9.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "formnotifier-social-pain.mp4",
+      "poster": "thumbnail-formnotifier-social-pain.png",
+      "angle": "missed_lead_notifications_and_clunky_form_receipts",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "formnotifier-social-price.mp4",
+      "poster": "thumbnail-formnotifier-social-price.png",
+      "angle": "paying_monthly_sub_for_simple_form_email_notifications",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "formnotifier-1.png",
+      "alt": "FormNotifier Pro — conditional stakeholder routing and notification rules",
+      "cap": "Route submission alerts to targeted department emails based on specific user responses."
+    },
+    {
+      "img": "formnotifier-2.png",
+      "alt": "FormNotifier Pro — dynamic token replacement and custom HTML receipts",
+      "cap": "Insert form responses into personalized email templates with dynamic {{Question}} tokens."
+    },
+    {
+      "img": "formnotifier-3.png",
+      "alt": "FormNotifier Pro — one-time lifetime license vs subscription fees",
+      "cap": "Pay once, own forever. Unlimited form notifications with zero recurring monthly subscription costs."
+    }
+  ],
+  "jsonld": {
+    "description": "Smart conditional form alerts and dynamic autoresponders with dynamic tokens and clean HTML receipts. 100% local Apps Script execution with zero external servers.",
+    "featureList": [
+      "Automated onFormSubmit instant email trigger",
+      "Dynamic token replacement ({{RespondentEmail}}, {{SubmissionId}}, question answers)",
+      "Zero third-party watermarks or branding badges",
+      "Built-in Gmail daily sending quota monitor",
+      "100% client-side configuration with non-restricted scopes",
+      "One-time lifetime license — zero recurring SaaS subscriptions"
+    ]
+  }
+}
