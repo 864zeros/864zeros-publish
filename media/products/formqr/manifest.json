@@ -1,0 +1,66 @@
+{
+  "slug": "formqr",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T02:45:00.000Z",
+  "type": "google-add-ons",
+  "name": "FormQR & Barcode — Permanent Static QR & Barcode Generator for Sheets & Drive",
+  "summary": "Generate permanent, non-expiring QR codes and Code-128 barcodes from spreadsheet data and save high-resolution graphics directly to Google Drive. Zero tracking redirects, zero subscription fees.",
+  "metaDescription": "FormQR & Barcode generates permanent, scannable QR codes and Code-128 barcodes in Google Sheets and saves them directly to Google Drive. One-time lifetime license.",
+  "icon": "formqr.png",
+  "storeUrl": "",
+  "video": {
+    "src": "formqr-master.mp4",
+    "poster": "formqr-thumbnail.png",
+    "tag": "⚡ 45s Product Demo",
+    "title": "Watch FormQR & Barcode in Action",
+    "desc": "Batch generate permanent static QR codes and Code-128 barcodes directly from spreadsheet rows. Save image files into your own Google Drive folder or embed formulas directly into cells.",
+    "sub": "<b>No subscriptions</b> · $7.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "formqr-social-pain.mp4",
+      "poster": "thumbnail-formqr-social-pain.png",
+      "angle": "expiring_qr_codes_and_ad_tracking_redirects",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "formqr-social-price.mp4",
+      "poster": "thumbnail-formqr-social-price.png",
+      "angle": "paying_monthly_saas_fees_for_static_qr_generation",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "formqr-1.png",
+      "alt": "FormQR & Barcode — spreadsheet column selection and format controls",
+      "cap": "Select any spreadsheet column and generate high-resolution QR codes or Code-128 barcodes in bulk."
+    },
+    {
+      "img": "formqr-2.png",
+      "alt": "FormQR & Barcode — Google Drive vault storage and in-cell previews",
+      "cap": "Save permanent image assets directly into Google Drive with automatic thumbnail previews in your sheet."
+    },
+    {
+      "img": "formqr-3.png",
+      "alt": "FormQR & Barcode — non-expiring static codes and lifetime license",
+      "cap": "Static codes that never expire, break, or inject third-party ads. One-time license with zero subscriptions."
+    }
+  ],
+  "jsonld": {
+    "description": "Permanent QR code and Code-128 barcode generation utility executing 100% locally in Google Sheets and Drive without expiring redirect servers.",
+    "featureList": [
+      "Bulk QR code and Code-128 barcode generation from spreadsheet columns",
+      "Permanent, static destination encoding that never expires or breaks",
+      "Direct saving of high-resolution images to designated Google Drive folders",
+      "In-cell spreadsheet thumbnail previews via native =IMAGE() formulas",
+      "Multiple resolution presets (150px, 300px, 600px)",
+      "LockService mutex concurrency protection against race conditions",
+      "100% private in-account execution via non-restricted scopes",
+      "One-time lifetime license — zero recurring SaaS subscriptions"
+    ]
+  }
+}
