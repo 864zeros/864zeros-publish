@@ -1,0 +1,66 @@
+{
+  "slug": "drivedrop",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T02:30:00.000Z",
+  "type": "google-add-ons",
+  "name": "DriveDrop Portal — Sovereign Client File Request & Direct Drive Upload Portal",
+  "summary": "Collect files from external clients and contractors directly into your private Google Drive folder without requiring Google sign-in. Zero third-party servers, zero recurring subscriptions.",
+  "metaDescription": "DriveDrop Portal lets external clients drop files directly into your Google Drive folder without Google sign-in. One-time lifetime license.",
+  "icon": "drivedrop.png",
+  "storeUrl": "",
+  "video": {
+    "src": "drivedrop-master.mp4",
+    "poster": "drivedrop-thumbnail.png",
+    "tag": "⚡ 50s Product Demo",
+    "title": "Watch DriveDrop Portal in Action",
+    "desc": "Create branded, password-protected file upload portals that save client submissions directly into your designated Google Drive folder. External submitters never need a Google account.",
+    "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "drivedrop-social-pain.mp4",
+      "poster": "thumbnail-drivedrop-social-pain.png",
+      "angle": "client_google_sign_in_walls_and_lost_email_attachments",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "drivedrop-social-price.mp4",
+      "poster": "thumbnail-drivedrop-social-price.png",
+      "angle": "paying_20_per_month_for_file_request_portals",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "drivedrop-1.png",
+      "alt": "DriveDrop Portal — destination folder setup and portal link generator",
+      "cap": "Designate any Google Drive folder as a secure drop destination and generate shareable portal links."
+    },
+    {
+      "img": "drivedrop-2.png",
+      "alt": "DriveDrop Portal — client-facing drag-and-drop file upload interface",
+      "cap": "External clients upload files with custom notes without requiring Google sign-in or account creation."
+    },
+    {
+      "img": "drivedrop-3.png",
+      "alt": "DriveDrop Portal — direct-to-Drive deposit and lifetime license",
+      "cap": "Files land directly in your private Drive folder with upload metadata and zero recurring monthly fees."
+    }
+  ],
+  "jsonld": {
+    "description": "Sovereign client file request and upload portal depositing external submissions directly into Google Drive without third-party servers.",
+    "featureList": [
+      "Zero Google sign-in requirement for external client submitters",
+      "Direct-to-Drive file creation via Apps Script web app endpoint",
+      "Customizable portal titles, prompts, and file extension filters",
+      "Optional security PIN protection for restricted uploads",
+      "Automatic submission metadata tagging (name, email, note, timestamp)",
+      "LockService mutex concurrency protection against upload collisions",
+      "100% private in-account execution via non-restricted scopes",
+      "One-time lifetime license — zero recurring SaaS subscriptions"
+    ]
+  }
+}
