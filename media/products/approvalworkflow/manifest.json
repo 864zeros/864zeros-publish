@@ -12,7 +12,7 @@
   "video": {
     "src": "approvalworkflow-master.mp4",
     "poster": "approvalworkflow-thumbnail.png",
-    "tag": "⚡ 50s Product Demo",
+    "tag": "⏱️ 42s Product Demo",
     "title": "Watch ApprovalWorkflow Local in Action",
     "desc": "Automate multi-step approval decisions in Google Forms and Sheets. Tokenized email buttons allow managers to approve requests directly from their inbox, writing decisions straight to your tracking spreadsheet in real time.",
     "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "approvalworkflow-social-pain.mp4",
       "poster": "thumbnail-approvalworkflow-social-pain.png",
       "angle": "lost_approvals_and_email_forwarding_delays",
-      "duration": 18.5
+      "duration": 21.4
     },
     {
       "id": "social-hook-price",
       "src": "approvalworkflow-social-price.mp4",
       "poster": "thumbnail-approvalworkflow-social-price.png",
       "angle": "paying_36_quarterly_for_form_approval_buttons",
-      "duration": 18.5
+      "duration": 23.4
     }
   ],
   "shots": [
