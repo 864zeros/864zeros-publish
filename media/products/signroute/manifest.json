@@ -1,0 +1,67 @@
+{
+  "slug": "signroute",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-09-09T03:15:00.000Z",
+  "type": "google-add-ons",
+  "name": "SignRoute Local — Sovereign Digital Signatures & PDF Routing for Docs & Drive",
+  "summary": "Capture digital signatures via HTML5 canvas, embed verified signature stamps into Google Docs, and export signed PDFs directly to Google Drive. Zero per-envelope fees or monthly subscriptions.",
+  "metaDescription": "SignRoute Local captures digital signatures in Google Docs and routes signed PDFs to Google Drive. One-time lifetime license with zero per-envelope fees.",
+  "icon": "signroute.png",
+  "storeUrl": "",
+  "video": {
+    "src": "signroute-master.mp4",
+    "poster": "signroute-thumbnail.png",
+    "tag": "⚡ 45s Product Demo",
+    "title": "Watch SignRoute Local in Action",
+    "desc": "Draw or upload handwritten digital signatures, place them precisely at {{Signature}} tokens, and automatically archive finalized PDF documents into your private Google Drive vault.",
+    "sub": "<b>No subscriptions</b> · $19.99 one-time lifetime license · Pay once, keep forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "signroute-social-pain.mp4",
+      "poster": "thumbnail-signroute-social-pain.png",
+      "angle": "paying_per_envelope_fees_and_monthly_minimums_for_simple_signoffs",
+      "duration": 18.5
+    },
+    {
+      "id": "social-hook-price",
+      "src": "signroute-social-price.mp4",
+      "poster": "thumbnail-signroute-social-price.png",
+      "angle": "docusign_subscription_creep_vs_sovereign_lifetime_local_signing",
+      "duration": 18.5
+    }
+  ],
+  "shots": [
+    {
+      "img": "signroute-1.png",
+      "alt": "SignRoute Local — HTML5 signature capture canvas and token placement",
+      "cap": "Draw your signature directly with touch or mouse and place it automatically at {{Signature}} tokens."
+    },
+    {
+      "img": "signroute-2.png",
+      "alt": "SignRoute Local — signer metadata stamping and direct Drive PDF generation",
+      "cap": "Stamp verifiable signer name, title, and timestamp, then export a sealed PDF directly to Google Drive."
+    },
+    {
+      "img": "signroute-3.png",
+      "alt": "SignRoute Local — zero envelope fees and sovereign custody vs SaaS e-signature platforms",
+      "cap": "Unlimited signatures across all your documents with zero per-envelope transaction charges or monthly SaaS rent."
+    }
+  ],
+  "jsonld": {
+    "description": "Sovereign digital signature capture and PDF routing engine running 100% locally in Google Docs and Google Drive.",
+    "featureList": [
+      "HTML5 responsive signature canvas with touch and mouse drawing",
+      "Automatic token detection and replacement for {{Signature}} and {{Date}}",
+      "Cursor-based and document-footer signature placement modes",
+      "Signer name, role, and localized timestamp audit stamping",
+      "Automated sealed PDF generation and archiving into Google Drive folders",
+      "LockService mutex concurrency protection against overlapping signing jobs",
+      "Non-restricted OAuth scopes — zero CASA Tier 2 audit fees",
+      "100% private in-account Apps Script execution — no document data leaves Google",
+      "One-time lifetime license — zero per-envelope transaction fees"
+    ]
+  }
+}
