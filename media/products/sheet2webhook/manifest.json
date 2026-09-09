@@ -12,7 +12,7 @@
   "video": {
     "src": "sheet2webhook-master.mp4",
     "poster": "sheet2webhook-thumbnail.png",
-    "tag": "⚡ 45s Product Demo",
+    "tag": "⏱️ 44s Product Demo",
     "title": "Watch Sheet2Webhook in Action",
     "desc": "Trigger instant HTTP POST webhooks to Slack channels, Discord servers, and external REST APIs whenever Google Sheet rows update or on manual batch dispatch.",
     "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "sheet2webhook-social-pain.mp4",
       "poster": "thumbnail-sheet2webhook-social-pain.png",
       "angle": "paying_monthly_zapier_make_fees_for_simple_sheet_triggers",
-      "duration": 18.5
+      "duration": 23.69
     },
     {
       "id": "social-hook-price",
       "src": "sheet2webhook-social-price.mp4",
       "poster": "thumbnail-sheet2webhook-social-price.png",
       "angle": "zapier_task_limits_and_overage_costs_vs_lifetime_sheet_webhook",
-      "duration": 18.5
+      "duration": 25.54
     }
   ],
   "shots": [
