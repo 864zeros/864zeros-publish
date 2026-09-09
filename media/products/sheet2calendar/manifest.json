@@ -12,7 +12,7 @@
   "video": {
     "src": "sheet2calendar-master.mp4",
     "poster": "sheet2calendar-thumbnail.png",
-    "tag": "⚡ 50s Product Demo",
+    "tag": "⏱️ 42s Product Demo",
     "title": "Watch Sheet2Calendar Sync in Action",
     "desc": "Map spreadsheet columns directly to Google Calendar event properties. Automatically generate calendar events, write back unique event IDs, and keep scheduled meetings in sync when sheet rows are edited.",
     "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "sheet2calendar-social-pain.mp4",
       "poster": "thumbnail-sheet2calendar-social-pain.png",
       "angle": "manual_calendar_entry_fatigue_and_duplicate_events",
-      "duration": 18.5
+      "duration": 20.3
     },
     {
       "id": "social-hook-price",
       "src": "sheet2calendar-social-price.mp4",
       "poster": "thumbnail-sheet2calendar-social-price.png",
       "angle": "paying_299_annual_subscriptions_for_team_calendar_sync",
-      "duration": 18.5
+      "duration": 25.6
     }
   ],
   "shots": [
