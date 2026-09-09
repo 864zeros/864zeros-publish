@@ -12,7 +12,7 @@
   "video": {
     "src": "formqr-master.mp4",
     "poster": "formqr-thumbnail.png",
-    "tag": "⚡ 45s Product Demo",
+    "tag": "⏱️ 46s Product Demo",
     "title": "Watch FormQR & Barcode in Action",
     "desc": "Batch generate permanent static QR codes and Code-128 barcodes directly from spreadsheet rows. Save image files into your own Google Drive folder or embed formulas directly into cells.",
     "sub": "<b>No subscriptions</b> · $7.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "formqr-social-pain.mp4",
       "poster": "thumbnail-formqr-social-pain.png",
       "angle": "expiring_qr_codes_and_ad_tracking_redirects",
-      "duration": 18.5
+      "duration": 23.7
     },
     {
       "id": "social-hook-price",
       "src": "formqr-social-price.mp4",
       "poster": "thumbnail-formqr-social-price.png",
       "angle": "paying_monthly_saas_fees_for_static_qr_generation",
-      "duration": 18.5
+      "duration": 24.8
     }
   ],
   "shots": [
