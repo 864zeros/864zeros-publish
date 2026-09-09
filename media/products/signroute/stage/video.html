@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>SignRoute Local — Master Explainer (1080×1920)</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg-dark: #07090e;
+    --card-bg: #0f1626;
+    --card-border: #1e293b;
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --blue: #38bdf8;
+    --blue-glow: rgba(56, 189, 248, 0.4);
+    --coral: #f43f5e;
+    --coral-glow: rgba(244, 63, 94, 0.35);
+    --emerald: #10b981;
+    --emerald-glow: rgba(16, 185, 129, 0.35);
+    --amber: #f59e0b;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  
+  body {
+    width: 1080px;
+    height: 1920px;
+    overflow: hidden;
+    background: radial-gradient(circle at 50% 18%, #161e38 0%, var(--bg-dark) 70%);
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+    color: var(--text-main);
+    position: relative;
+    user-select: none;
+  }
+
+  /* Top Progress Bar */
+  .top-progress-bar {
+    position: absolute;
+    top: 0; left: 0;
+    height: 12px;
+    width: 0%;
+    background: linear-gradient(90deg, var(--coral), var(--blue), var(--emerald));
+    z-index: 100;
+    box-shadow: 0 0 24px var(--blue);
+  }
+
+  /* Header */
+  .top-header {
+    position: absolute;
+    top: 60px; left: 70px; right: 70px;
+    display: flex; justify-content: space-between; align-items: center;
+    z-index: 90;
+  }
+  .brand-logo {
+    display: flex; align-items: center; gap: 20px;
+  }
+  .brand-logo img {
+    width: 72px; height: 72px; border-radius: 18px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.6);
+  }
+  .brand-text {
+    font-size: 38px; font-weight: 900; color: #fff;
+    letter-spacing: -0.5px;
+  }
+  .brand-tag {
+    font-size: 16px; font-weight: 700; color: var(--blue);
+    text-transform: uppercase; letter-spacing: 1.5px;
+  }
+  .platform-pill {
+    background: rgba(56, 189, 248, 0.15);
+    border: 2px solid rgba(56, 189, 248, 0.4);
+    color: var(--blue);
+    padding: 10px 24px;
+    border-radius: 999px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  /* Main Stage Container */
+  .stage-viewport {
+    position: absolute;
+    top: 170px; bottom: 200px;
+    left: 70px; right: 70px;
+    display: flex; flex-direction: column;
+    justify-content: center; align-items: center;
+  }
+
+  .scene {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transform: scale(0.98) translateY(10px);
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    pointer-events: none;
+  }
+  .scene.active {
+    display: flex;
+    opacity: 1;
+    transform: scale(1) translateY(0);
+    pointer-events: auto;
+  }
+
+  /* Scene 1: Problem Hook */
+  .hook-badge {
+    background: rgba(244, 63, 94, 0.15);
+    border: 2px solid var(--coral);
+    color: var(--coral);
+    padding: 12px 32px;
+    border-radius: 999px;
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 32px;
+    box-shadow: 0 0 30px var(--coral-glow);
+  }
+  .hook-title {
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 1.15;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .hook-title span {
+    color: var(--coral);
+  }
+  .problem-card {
+    background: var(--card-bg);
+    border: 2px solid var(--card-border);
+    border-radius: 32px;
+    padding: 50px;
+    width: 100%;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.6);
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+  .problem-lead {
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 1.35;
+    color: #fff;
+  }
+  .problem-sub {
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1.45;
+    color: var(--text-muted);
+  }
+
+  /* Scene 2 & 3: Feature Reveal */
+  .scene-title {
+    font-size: 54px;
+    font-weight: 900;
+    margin-bottom: 32px;
+    text-align: center;
+  }
+  .scene-title span {
+    color: var(--blue);
+  }
+  .screenshot-frame {
+    width: 100%;
+    background: #090e18;
+    border: 2px solid var(--card-border);
+    border-radius: 28px;
+    padding: 16px;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.7);
+    margin-bottom: 36px;
+  }
+  .screenshot-frame img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    display: block;
+  }
+  .feature-pill-row {
+    display: flex;
+    gap: 18px;
+    justify-content: center;
+    width: 100%;
+  }
+  .feature-pill {
+    background: rgba(56, 189, 248, 0.12);
+    border: 1.5px solid var(--blue);
+    color: var(--blue);
+    padding: 14px 28px;
+    border-radius: 999px;
+    font-size: 22px;
+    font-weight: 700;
+  }
+
+  /* Scene 4: Comparison Table */
+  .comparison-card {
+    background: var(--card-bg);
+    border: 2px solid var(--card-border);
+    border-radius: 32px;
+    padding: 44px;
+    width: 100%;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.6);
+  }
+  .comp-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .comp-table th {
+    font-size: 28px;
+    font-weight: 800;
+    padding-bottom: 24px;
+    text-align: left;
+  }
+  .comp-table th.right-col {
+    color: var(--emerald);
+    text-align: right;
+  }
+  .comp-table td {
+    padding: 18px 0;
+    font-size: 24px;
+    font-weight: 600;
+    border-top: 1px solid rgba(255,255,255,0.08);
+  }
+  .comp-table td.bad {
+    color: var(--coral);
+  }
+  .comp-table td.good {
+    color: var(--emerald);
+    text-align: right;
+  }
+
+  /* Scene 5: CTA Outro */
+  .cta-badge {
+    background: rgba(16, 185, 129, 0.15);
+    border: 2px solid var(--emerald);
+    color: var(--emerald);
+    padding: 12px 32px;
+    border-radius: 999px;
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 32px;
+    box-shadow: 0 0 30px var(--emerald-glow);
+  }
+  .cta-title {
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 1.15;
+    text-align: center;
+    margin-bottom: 44px;
+  }
+  .cta-title span {
+    color: var(--blue);
+  }
+  .cta-card {
+    background: var(--card-bg);
+    border: 2px solid var(--card-border);
+    border-radius: 32px;
+    padding: 56px 44px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 30px 80px rgba(0,0,0,0.6);
+  }
+  .store-pill {
+    background: rgba(16, 185, 129, 0.15);
+    border: 2px solid var(--emerald);
+    color: var(--emerald);
+    padding: 14px 36px;
+    border-radius: 999px;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 28px;
+  }
+  .price-highlight {
+    font-size: 46px;
+    font-weight: 900;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  .price-highlight span {
+    color: var(--emerald);
+  }
+  .url-text {
+    font-size: 42px;
+    font-weight: 900;
+    color: var(--blue);
+    margin-bottom: 16px;
+    letter-spacing: 0.5px;
+  }
+  .tagline {
+    font-size: 24px;
+    font-weight: 600;
+    color: var(--text-muted);
+  }
+
+  /* Subtitles Pill */
+  .subtitles-container {
+    position: absolute;
+    bottom: 50px;
+    left: 70px;
+    right: 70px;
+    display: flex;
+    justify-content: center;
+    z-index: 90;
+  }
+  .sub-pill {
+    background: rgba(10, 15, 29, 0.92);
+    border: 1.5px solid rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(16px);
+    border-radius: 22px;
+    padding: 20px 40px;
+    max-width: 940px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7);
+  }
+  .sub-text {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.35;
+  }
+  .sub-text span {
+    color: var(--blue);
+  }
+</style>
+</head>
+<body>
+
+  <div class="top-progress-bar" id="progressBar"></div>
+
+  <div class="top-header">
+    <div class="brand-logo">
+      <img src="assets/signroute.png" onerror="this.src='assets/store-icon.png'" alt="SignRoute Local" />
+      <div>
+        <div class="brand-text">SignRoute Local</div>
+        <div class="brand-tag">Sovereign Workspace Tool</div>
+      </div>
+    </div>
+    <div class="platform-pill">Google Workspace Add-On</div>
+  </div>
+
+  <div class="stage-viewport">
+    <!-- Scene 1: Problem Hook -->
+    <div class="scene active" id="scene1">
+      <div class="hook-badge">EXPENSIVE E-SIGN RENT</div>
+      <h1 class="hook-title">Tired of $40/Month?<br /><span>For Simple Signatures?</span></h1>
+      <div class="problem-card">
+        <div class="problem-lead">Tired of paying forty dollars every month just to collect simple internal signatures on standard agreements?</div>
+        <div class="problem-sub">Enterprise e-sign platforms charge per envelope and per seat for basic signoffs. Sign documents directly in Google Docs with zero vendor lock-in.</div>
+      </div>
+    </div>
+
+    <!-- Scene 2: Solution Reveal -->
+    <div class="scene" id="scene2">
+      <h2 class="scene-title">Meet SignRoute Local — <span>100% Sovereign</span></h2>
+      <div class="screenshot-frame">
+        <img src="assets/signroute-1.png" alt="SignRoute Local Interface" />
+      </div>
+      <div class="feature-pill-row">
+        <div class="feature-pill">HTML5 Canvas</div>
+        <div class="feature-pill">Token Placement</div>
+        <div class="feature-pill">Local Apps Script</div>
+      </div>
+    </div>
+
+    <!-- Scene 3: Core Feature Demo -->
+    <div class="scene" id="scene3">
+      <h2 class="scene-title">Draw Signatures &amp; <span>Export Sealed PDFs</span></h2>
+      <div class="screenshot-frame">
+        <img src="assets/signroute-2.png" alt="SignRoute Local Stamping &amp; PDF Export" />
+      </div>
+      <div class="feature-pill-row">
+        <div class="feature-pill">Signer Metadata</div>
+        <div class="feature-pill">Auto PDF Export</div>
+        <div class="feature-pill">Zero Envelope Fees</div>
+      </div>
+    </div>
+
+    <!-- Scene 4: Pricing Contrast -->
+    <div class="scene" id="scene4">
+      <h2 class="scene-title">Own Your Signatures — <span>Zero Subscriptions</span></h2>
+      <div class="comparison-card">
+        <table class="comp-table">
+          <thead>
+            <tr>
+              <th style="color:var(--coral);">Traditional E-Sign SaaS</th>
+              <th class="right-col">SignRoute Local</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="bad">&times; $40/mo per-user subscription</td>
+              <td class="good">&check; One-Time Lifetime License</td>
+            </tr>
+            <tr>
+              <td class="bad">&times; Per-envelope transaction caps</td>
+              <td class="good">&check; Unlimited Signatures &amp; Docs</td>
+            </tr>
+            <tr>
+              <td class="bad">&times; External cloud custodian servers</td>
+              <td class="good">&check; 100% In-Account Google Drive</td>
+            </tr>
+            <tr>
+              <td class="bad">&times; Restricted third-party audits</td>
+              <td class="good">&check; Non-Restricted Safe Scopes</td>
+            </tr>
+            <tr>
+              <td class="bad">&times; Recurring vendor hostage risk</td>
+              <td class="good">&check; Pay once, keep forever</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Scene 5: CTA Outro -->
+    <div class="scene" id="scene5">
+      <div class="cta-badge">AVAILABLE NOW</div>
+      <h1 class="cta-title">Stop Renting Software.<br /><span>Own Your Workspace.</span></h1>
+      <div class="cta-card">
+        <div class="store-pill">Google Workspace Marketplace for Add-Ons</div>
+        <div class="price-highlight">One-Time <span>$19.99</span> Lifetime Unlock</div>
+        <div class="url-text">864zeros.com/products/signroute</div>
+        <div class="tagline">Sovereign Software &middot; Pay Once, Keep Forever</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="subtitles-container">
+    <div class="sub-pill">
+      <div class="sub-text" id="subText">Tired of paying forty dollars every month just to collect simple internal signatures?</div>
+    </div>
+  </div>
+
+  <script>
+    const TIMINGS = [
+      { start: 0.0, end: 6.60, scene: 1, text: "Tired of paying <span>forty dollars every month</span> just to collect simple internal signatures?" },
+      { start: 6.60, end: 14.19, scene: 2, text: "Meet SignRoute Local. <span>100% sovereign, local-first execution</span> right inside your Google Workspace account." },
+      { start: 14.19, end: 27.44, scene: 3, text: "Capture digital signatures, embed verified stamps into Docs, and <span>export signed PDFs directly to Drive</span> with zero per-envelope fees." },
+      { start: 27.44, end: 36.72, scene: 4, text: "Best of all, <span>zero recurring subscriptions</span>! SignRoute Local is a one-time nineteen ninety-nine unlock forever." },
+      { start: 36.72, end: 44.61, scene: 5, text: "Get it on the <span>Google Workspace Marketplace for add-ons</span> at eight sixty-four zeros dot com." }
+    ];
+    const TOTAL_DUR = 44.61;
+
+    let startTime = null;
+
+    window.startPlayback = function() {
+      startTime = performance.now();
+      requestAnimationFrame(tick);
+    };
+
+    function tick(now) {
+      const elapsed = (now - startTime) / 1000;
+      const progress = Math.min(100, (elapsed / TOTAL_DUR) * 100);
+      document.getElementById('progressBar').style.width = progress + '%';
+
+      for (const t of TIMINGS) {
+        if (elapsed >= t.start && elapsed < t.end) {
+          switchScene(t.scene);
+          document.getElementById('subText').innerHTML = t.text;
+          break;
+        }
+      }
+
+      if (elapsed < TOTAL_DUR + 0.5) {
+        requestAnimationFrame(tick);
+      }
+    }
+
+    function switchScene(sceneNum) {
+      document.getElementById('scene1').classList.toggle('active', sceneNum === 1);
+      document.getElementById('scene2').classList.toggle('active', sceneNum === 2);
+      document.getElementById('scene3').classList.toggle('active', sceneNum === 3);
+      document.getElementById('scene4').classList.toggle('active', sceneNum === 4);
+      document.getElementById('scene5').classList.toggle('active', sceneNum === 5);
+    }
+  </script>
+</body>
+</html>

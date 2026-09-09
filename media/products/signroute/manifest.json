@@ -12,7 +12,7 @@
   "video": {
     "src": "signroute-master.mp4",
     "poster": "signroute-thumbnail.png",
-    "tag": "⚡ 45s Product Demo",
+    "tag": "⏱️ 45s Product Demo",
     "title": "Watch SignRoute Local in Action",
     "desc": "Draw or upload handwritten digital signatures, place them precisely at {{Signature}} tokens, and automatically archive finalized PDF documents into your private Google Drive vault.",
     "sub": "<b>No subscriptions</b> · $19.99 one-time lifetime license · Pay once, keep forever"
@@ -23,14 +23,14 @@
       "src": "signroute-social-pain.mp4",
       "poster": "thumbnail-signroute-social-pain.png",
       "angle": "paying_per_envelope_fees_and_monthly_minimums_for_simple_signoffs",
-      "duration": 18.5
+      "duration": 23.23
     },
     {
       "id": "social-hook-price",
       "src": "signroute-social-price.mp4",
       "poster": "thumbnail-signroute-social-price.png",
       "angle": "docusign_subscription_creep_vs_sovereign_lifetime_local_signing",
-      "duration": 18.5
+      "duration": 25.37
     }
   ],
   "shots": [
