@@ -1,7 +1,7 @@
 # Sheet2Webhook — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/sheet2webhook/`  
 **Web Product Page:** https://864zeros.com/products/sheet2webhook  
-**Pricing Model:** $14.99 lifetime (No subscriptions)  
+**Pricing Model:** $14.99 lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -9,19 +9,22 @@
 * **Suggested Thumbnail:** `media/products/sheet2webhook/video/thumbnail.png` (or `sheet2webhook-thumbnail.png`)
 * **YouTube Title:**
 ```
-Sheet2Webhook Master Explainer: Real-Time HTTP POST Webhooks from Sheets #Shorts
+Real-Time HTTP POST Webhooks from Sheets — Sheet2Webhook #Shorts
 ```
 * **YouTube Description:**
 ```
 Fire formatted HTTP POST webhooks to Slack, Discord, Zapier, Make, and REST endpoints instantly when spreadsheet rows change. 100% private in-account Apps Script execution.
 
-🔗 Get Sheet2Webhook: https://864zeros.com/products/sheet2webhook
-🛡️ 100% Local-First & Private: Runs on your device — no cloud lock-in, no tracking.
-💰 Fair Pricing: $14.99 lifetime (No monthly subscription fees).
+👉 Try Sheet2Webhook: https://864zeros.com/products/sheet2webhook
 
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #864zeros
+🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
+💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
+
+🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
+
+#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
 ```
-* **Tags:** `sheet2webhook, sheet2webhook, productivity, local first, 864zeros, google workspace, software demo, no subscription`
+* **Tags:** `sheet2webhook, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---
 ### 2. Tier 1 Social Short A (Pain Hook)
@@ -29,21 +32,24 @@ Fire formatted HTTP POST webhooks to Slack, Discord, Zapier, Make, and REST endp
 * **Suggested Thumbnail:** `media/products/sheet2webhook/video/thumbnail-sheet2webhook-social-pain.png`
 * **YouTube Title:**
 ```
-Sheet2Webhook Pain Hook — Middleware Task Limits & 15-Minute Sync Delays #Shorts
+Middleware Task Limits & 15-Minute Sync Delays — Sheet2Webhook #Shorts
 ```
 * **YouTube Description:**
 ```
 Your automation middleware reached its monthly task limit, and new orders stopped syncing entirely.
 
-Meet Sheet2Webhook — the fast, local-first solution that solves this without messy cloud tools.
+Meet Sheet2Webhook — the fast, local-first solution that solves this without messy cloud tools or broken exports.
 
-🔗 Try it here: https://864zeros.com/products/sheet2webhook
-🛡️ Zero tracking, zero cloud dependency.
-💰 $14.99 lifetime
+👉 Get Sheet2Webhook: https://864zeros.com/products/sheet2webhook
 
-#Shorts #ProductivityHacks #TechTips #Workflow #864zeros
+🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
+💰 $14.99 lifetime (No monthly subscription fees).
+
+🌐 Explore the full fleet: https://864zeros.com
+
+#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
 ```
-* **Tags:** `sheet2webhook, sheet2webhook, productivity hack, workflow tips, local first, 864zeros`
+* **Tags:** `sheet2webhook, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---
 ### 3. Tier 1 Social Short B (Price Hook)
@@ -51,7 +57,7 @@ Meet Sheet2Webhook — the fast, local-first solution that solves this without m
 * **Suggested Thumbnail:** `media/products/sheet2webhook/video/thumbnail-sheet2webhook-social-price.png`
 * **YouTube Title:**
 ```
-Sheet2Webhook Price Hook — Paying $20–$50/Month for Simple Row Webhooks #Shorts
+Paying $20–$50/Month for Simple Row Webhooks — Sheet2Webhook #Shorts
 ```
 * **YouTube Description:**
 ```
@@ -59,11 +65,13 @@ Stop paying $20 to $50 every month just to fire an HTTP POST request when a row 
 
 Sheet2Webhook gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
 
-🔗 Full details: https://864zeros.com/products/sheet2webhook
-🛡️ Privacy-first by design — your data stays yours.
+👉 Get Sheet2Webhook: https://864zeros.com/products/sheet2webhook
 
-#Shorts #AntiSaaS #NoSubscription #Productivity #864zeros
+🛡️ Privacy-first by design — your data stays yours.
+🌐 Explore all tools: https://864zeros.com
+
+#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
 ```
-* **Tags:** `sheet2webhook, sheet2webhook, anti saas, no subscription, lifetime license, productivity, 864zeros`
+* **Tags:** `sheet2webhook, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---

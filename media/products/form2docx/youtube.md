@@ -1,7 +1,7 @@
 # Form2Docx Local — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/form2docx/`  
 **Web Product Page:** https://864zeros.com/products/form2docx  
-**Pricing Model:** $14.99 lifetime (No subscriptions)  
+**Pricing Model:** $14.99 lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -9,19 +9,22 @@
 * **Suggested Thumbnail:** `media/products/form2docx/video/thumbnail.png` (or `form2docx-thumbnail.png`)
 * **YouTube Title:**
 ```
-Form2Docx Master Explainer: Automated Form-to-Doc Document Assembly #Shorts
+Automated Form-to-Doc Document Assembly — Form2Docx Local #Shorts
 ```
 * **YouTube Description:**
 ```
 Merge Google Forms submissions into customized Google Docs and downloadable PDFs stored in your Drive. Zero third-party conversion servers, zero submission caps, and zero recurring subscriptions.
 
-🔗 Get Form2Docx Local: https://864zeros.com/products/form2docx
-🛡️ 100% Local-First & Private: Runs on your device — no cloud lock-in, no tracking.
-💰 Fair Pricing: $14.99 lifetime (No monthly subscription fees).
+👉 Try Form2Docx Local: https://864zeros.com/products/form2docx
 
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #864zeros
+🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
+💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
+
+🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
+
+#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
 ```
-* **Tags:** `form2docx, form2docx local, productivity, local first, 864zeros, google workspace, software demo, no subscription`
+* **Tags:** `form2docx, form2docx local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---
 ### 2. Tier 1 Social Short A (Pain Hook)
@@ -29,21 +32,24 @@ Merge Google Forms submissions into customized Google Docs and downloadable PDFs
 * **Suggested Thumbnail:** `media/products/form2docx/video/thumbnail-form2docx-social-pain.png`
 * **YouTube Title:**
 ```
-Form2Docx Pain Hook — Manually Copy-Pasting Form Data into Invoices #Shorts
+Manually Copy-Pasting Form Data into Invoices — Form2Docx Local #Shorts
 ```
 * **YouTube Description:**
 ```
 Still manually re-typing form responses into contract templates every single afternoon?
 
-Meet Form2Docx Local — the fast, local-first solution that solves this without messy cloud tools.
+Meet Form2Docx Local — the fast, local-first solution that solves this without messy cloud tools or broken exports.
 
-🔗 Try it here: https://864zeros.com/products/form2docx
-🛡️ Zero tracking, zero cloud dependency.
-💰 $14.99 lifetime
+👉 Get Form2Docx Local: https://864zeros.com/products/form2docx
 
-#Shorts #ProductivityHacks #TechTips #Workflow #864zeros
+🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
+💰 $14.99 lifetime (No monthly subscription fees).
+
+🌐 Explore the full fleet: https://864zeros.com
+
+#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
 ```
-* **Tags:** `form2docx, form2docx local, productivity hack, workflow tips, local first, 864zeros`
+* **Tags:** `form2docx, form2docx local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---
 ### 3. Tier 1 Social Short B (Price Hook)
@@ -51,7 +57,7 @@ Meet Form2Docx Local — the fast, local-first solution that solves this without
 * **Suggested Thumbnail:** `media/products/form2docx/video/thumbnail-form2docx-social-price.png`
 * **YouTube Title:**
 ```
-Form2Docx Price Hook — Document Generation SaaS Charging Monthly Per Seat #Shorts
+Document Generation SaaS Charging Monthly Per Seat — Form2Docx Local #Shorts
 ```
 * **YouTube Description:**
 ```
@@ -59,11 +65,13 @@ Document generation tools charging $20/month per seat? Generate infinite documen
 
 Form2Docx Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
 
-🔗 Full details: https://864zeros.com/products/form2docx
-🛡️ Privacy-first by design — your data stays yours.
+👉 Get Form2Docx Local: https://864zeros.com/products/form2docx
 
-#Shorts #AntiSaaS #NoSubscription #Productivity #864zeros
+🛡️ Privacy-first by design — your data stays yours.
+🌐 Explore all tools: https://864zeros.com
+
+#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
 ```
-* **Tags:** `form2docx, form2docx local, anti saas, no subscription, lifetime license, productivity, 864zeros`
+* **Tags:** `form2docx, form2docx local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---

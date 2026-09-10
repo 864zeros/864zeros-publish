@@ -7,6 +7,32 @@ const MASTER_DOCKET_PATH = 'C:/dev/864zeros-publish/YOUTUBE_UPLOAD_DOCKET.md';
 
 const queueData = JSON.parse(fs.readFileSync(QUEUE_PATH, 'utf8'));
 
+function formatShortTitle(raw, name) {
+  let t = raw
+    .replace(/^[A-Za-z0-9\s]+ Pain Hook\s*[-—:]\s*/i, '')
+    .replace(/^[A-Za-z0-9\s]+ Price Hook\s*[-—:]\s*/i, '')
+    .replace(/^[A-Za-z0-9\s]+ Master Explainer\s*[-—:]\s*/i, '')
+    .replace(/ — /g, ': ')
+    .trim();
+  
+  if (!t.toLowerCase().includes(name.toLowerCase())) {
+    t = `${t} — ${name}`;
+  }
+  return (t.length > 80 ? t.substring(0, 78) + '...' : t) + ' #Shorts';
+}
+
+function generateCleanTags(slug, name, category) {
+  const baseTags = [slug, name.toLowerCase(), 'productivity', 'local first', '864zeros', 'no subscription'];
+  if (category === 'google-workspace-addons') {
+    baseTags.push('google workspace', 'google sheets', 'google forms', 'google docs', 'productivity hacks', 'office tips');
+  } else if (category === 'browser-extensions') {
+    baseTags.push('chrome extension', 'edge add-on', 'browser extension', 'productivity hacks');
+  } else if (category === 'mobile-apps') {
+    baseTags.push('android app', 'mobile app', 'privacy app', 'habit tracker');
+  }
+  return Array.from(new Set(baseTags));
+}
+
 let masterMd = `# 864zeros — YouTube Shorts Upload Docket (All 60 Deliverables)
 **Generated:** ${new Date().toISOString()}  
 **Authority:** LLC-DIV-4-GTM & Central DAM (864zeros-publish)  
@@ -19,9 +45,9 @@ let masterMd = `# 864zeros — YouTube Shorts Upload Docket (All 60 Deliverables
 2. Click **Create** → **Upload videos**.
 3. Select the target \`.mp4\` from the DAM path indicated below.
 4. Copy-paste the **Title** and **Description** directly into YouTube Studio.
-5. Upload the matching **Thumbnail PNG** (if desired; YouTube mobile Shorts feeds will also generate an automatic frame preview).
+5. Upload the matching **Thumbnail PNG**.
 6. Audience: Select **"No, it's not made for kids"**.
-7. Visibility: Set to **Public**.
+7. Visibility: Set to **Unlisted** (for initial QA) or **Public** (for immediate release).
 
 ---
 `;
@@ -47,64 +73,64 @@ for (const item of queueData.queue) {
 
   const webUrl = `https://864zeros.com/products/${slug}`;
   const summary = manifest.summary || item.summary || `${name} — local-first productivity tool by 864zeros.`;
-  
+  const cleanTags = generateCleanTags(slug, name, category);
+
   let prodMd = `# ${name} — YouTube Upload Metadata
 **DAM Product Folder:** \`media/products/${slug}/\`  
 **Web Product Page:** ${webUrl}  
-**Pricing Model:** ${price} (No subscriptions)  
+**Pricing Model:** ${price} (No recurring subscriptions)  
 
 ---
 `;
 
-  // Deliverables
   const deliverables = item.deliverables || {};
 
-  // Custom overrides for flagship champions
+  // Custom overrides for champions
   if (slug === 'autoorganize-ytm') {
     if (deliverables.tier2Master) {
-      deliverables.tier2Master.title = "AutoOrganize YTM: Auto-Sort Liked Songs into Genre Playlists";
+      deliverables.tier2Master.title = "Auto-Sort Liked Songs into Genre Playlists — AutoOrganize YTM";
     }
     if (deliverables.tier1ShortA_Pain) {
-      deliverables.tier1ShortA_Pain.title = "Is Your YouTube Music Liked Songs a Graveyard?";
+      deliverables.tier1ShortA_Pain.title = "Is Your YouTube Music Liked Songs a Graveyard? — AutoOrganize";
       deliverables.tier1ShortA_Pain.hook = "Be honest: is your YouTube Music Liked Songs a chaotic graveyard of tracks you never actually listen to?";
     }
     if (deliverables.tier1ShortB_Price) {
-      deliverables.tier1ShortB_Price.title = "Why Pay $10/Month Just to Sort Music Playlists?";
+      deliverables.tier1ShortB_Price.title = "Stop Paying $10/Month Just to Sort Music Playlists — AutoOrganize";
       deliverables.tier1ShortB_Price.hook = "Why are music organizers charging ten dollars every month just to sort your playlists?";
     }
   } else if (slug === 'clearstreak') {
     if (deliverables.tier2Master) {
-      deliverables.tier2Master.title = "ClearStreak: Private Habit & Vice Tracker (Data Over Shame)";
+      deliverables.tier2Master.title = "Private Habit & Vice Companion (Data Over Shame) — ClearStreak";
     }
     if (deliverables.tier1ShortA_Pain) {
-      deliverables.tier1ShortA_Pain.title = "Why Habit Trackers Make You Feel Like Trash";
+      deliverables.tier1ShortA_Pain.title = "Why Habit Trackers Make You Feel Like Trash — ClearStreak";
       deliverables.tier1ShortA_Pain.hook = "Why does every habit tracker make you feel like trash when you slip up? Miss one day, and they wipe your entire streak to zero.";
     }
     if (deliverables.tier1ShortB_Price) {
-      deliverables.tier1ShortB_Price.title = "Who Else Has Access to Habits You Want to Break?";
+      deliverables.tier1ShortB_Price.title = "Who Else Has Access to Habits You Want to Break? — ClearStreak";
       deliverables.tier1ShortB_Price.hook = "Who has access to the habits you're secretly trying to break? Most wellness apps upload your struggles to cloud servers.";
     }
   }
 
   // 1. Tier 2 Master
-
   const t2 = deliverables.tier2Master;
   if (t2) {
     totalVideos++;
     const videoFile = t2.file || `${slug}-short.mp4`;
     const damVideoPath = `media/products/${slug}/video/${videoFile}`;
-    const t2Title = (t2.title || `${name} Demo: ${summary.split('.')[0]}`).replace(/ — /g, ': ');
-    const safeTitle = (t2Title.length > 80 ? t2Title.substring(0, 78) + '...' : t2Title) + ' #Shorts';
+    const rawTitle = t2.title || `${name} Demo: ${summary.split('.')[0]}`;
+    const safeTitle = formatShortTitle(rawTitle, name);
     
     const desc = `${summary}
 
-🔗 Get ${name}: ${webUrl}
-🛡️ 100% Local-First & Private: Runs on your device — no cloud lock-in, no tracking.
-💰 Fair Pricing: ${price} (No monthly subscription fees).
+👉 Try ${name}: ${webUrl}
 
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #864zeros`;
+🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
+💰 Fair Ownership: ${price} (No recurring monthly subscriptions).
 
-    const tags = `${slug}, ${name.toLowerCase()}, productivity, local first, 864zeros, google workspace, software demo, no subscription`;
+🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
+
+#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros`;
 
     const block = `### 1. Tier 2 Master Explainer
 * **Video File:** \`${damVideoPath}\`
@@ -117,7 +143,7 @@ ${safeTitle}
 \`\`\`
 ${desc}
 \`\`\`
-* **Tags:** \`${tags}\`
+* **Tags:** \`${cleanTags.join(', ')}\`
 
 ---
 `;
@@ -132,20 +158,21 @@ ${desc}
     const videoFile = t1a.file || `social_shorts/${slug}-social-pain.mp4`;
     const damVideoPath = `media/products/${slug}/video/${path.basename(videoFile)}`;
     const hook = t1a.hook || `Tired of broken workflows with ${name}?`;
-    const rawTitle = t1a.title || `${hook.substring(0, 70)}`;
-    const safeTitle = (rawTitle.length > 80 ? rawTitle.substring(0, 78) + '...' : rawTitle) + ' #Shorts';
+    const rawTitle = t1a.title || `${hook.substring(0, 65)}`;
+    const safeTitle = formatShortTitle(rawTitle, name);
 
     const desc = `${hook}
 
-Meet ${name} — the fast, local-first solution that solves this without messy cloud tools.
+Meet ${name} — the fast, local-first solution that solves this without messy cloud tools or broken exports.
 
-🔗 Try it here: ${webUrl}
-🛡️ Zero tracking, zero cloud dependency.
-💰 ${price}
+👉 Get ${name}: ${webUrl}
 
-#Shorts #ProductivityHacks #TechTips #Workflow #864zeros`;
+🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
+💰 ${price} (No monthly subscription fees).
 
-    const tags = `${slug}, ${name.toLowerCase()}, productivity hack, workflow tips, local first, 864zeros`;
+🌐 Explore the full fleet: https://864zeros.com
+
+#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros`;
 
     const block = `### 2. Tier 1 Social Short A (Pain Hook)
 * **Video File:** \`${damVideoPath}\`
@@ -158,7 +185,7 @@ ${safeTitle}
 \`\`\`
 ${desc}
 \`\`\`
-* **Tags:** \`${tags}\`
+* **Tags:** \`${cleanTags.join(', ')}\`
 
 ---
 `;
@@ -173,19 +200,19 @@ ${desc}
     const videoFile = t1b.file || `social_shorts/${slug}-social-price.mp4`;
     const damVideoPath = `media/products/${slug}/video/${path.basename(videoFile)}`;
     const hook = t1b.hook || `Stop paying recurring subscriptions for simple tools.`;
-    const rawTitle = t1b.title || `${hook.substring(0, 70)}`;
-    const safeTitle = (rawTitle.length > 80 ? rawTitle.substring(0, 78) + '...' : rawTitle) + ' #Shorts';
+    const rawTitle = t1b.title || `${hook.substring(0, 65)}`;
+    const safeTitle = formatShortTitle(rawTitle, name);
 
     const desc = `${hook}
 
 ${name} gives you complete control with a single ${price} (no recurring monthly subscriptions).
 
-🔗 Full details: ${webUrl}
+👉 Get ${name}: ${webUrl}
+
 🛡️ Privacy-first by design — your data stays yours.
+🌐 Explore all tools: https://864zeros.com
 
-#Shorts #AntiSaaS #NoSubscription #Productivity #864zeros`;
-
-    const tags = `${slug}, ${name.toLowerCase()}, anti saas, no subscription, lifetime license, productivity, 864zeros`;
+#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros`;
 
     const block = `### 3. Tier 1 Social Short B (Price Hook)
 * **Video File:** \`${damVideoPath}\`
@@ -198,7 +225,7 @@ ${safeTitle}
 \`\`\`
 ${desc}
 \`\`\`
-* **Tags:** \`${tags}\`
+* **Tags:** \`${cleanTags.join(', ')}\`
 
 ---
 `;

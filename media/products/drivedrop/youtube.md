@@ -1,7 +1,7 @@
 # DriveDrop Portal — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/drivedrop/`  
 **Web Product Page:** https://864zeros.com/products/drivedrop  
-**Pricing Model:** $12.99 lifetime (No subscriptions)  
+**Pricing Model:** $12.99 lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -9,19 +9,22 @@
 * **Suggested Thumbnail:** `media/products/drivedrop/video/thumbnail.png` (or `drivedrop-thumbnail.png`)
 * **YouTube Title:**
 ```
-DriveDrop Master Explainer: External Client Upload Dropzone Direct to Drive #Shorts
+External Client Upload Dropzone Direct to Drive — DriveDrop Portal #Shorts
 ```
 * **YouTube Description:**
 ```
 Collect files from external clients and contractors directly into your private Google Drive folder without requiring Google sign-in. Zero third-party servers, zero recurring subscriptions.
 
-🔗 Get DriveDrop Portal: https://864zeros.com/products/drivedrop
-🛡️ 100% Local-First & Private: Runs on your device — no cloud lock-in, no tracking.
-💰 Fair Pricing: $12.99 lifetime (No monthly subscription fees).
+👉 Try DriveDrop Portal: https://864zeros.com/products/drivedrop
 
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #864zeros
+🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
+💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
+
+🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
+
+#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
 ```
-* **Tags:** `drivedrop, drivedrop portal, productivity, local first, 864zeros, google workspace, software demo, no subscription`
+* **Tags:** `drivedrop, drivedrop portal, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---
 ### 2. Tier 1 Social Short A (Pain Hook)
@@ -29,21 +32,24 @@ Collect files from external clients and contractors directly into your private G
 * **Suggested Thumbnail:** `media/products/drivedrop/video/thumbnail-drivedrop-social-pain.png`
 * **YouTube Title:**
 ```
-DriveDrop Pain Hook — Client Google Sign-In Walls & Lost Email Attachments #Shorts
+Client Google Sign-In Walls & Lost Email Attachments — DriveDrop Portal #Shorts
 ```
 * **YouTube Description:**
 ```
 Clients complaining they can't upload tax documents because they don't have a Google account?
 
-Meet DriveDrop Portal — the fast, local-first solution that solves this without messy cloud tools.
+Meet DriveDrop Portal — the fast, local-first solution that solves this without messy cloud tools or broken exports.
 
-🔗 Try it here: https://864zeros.com/products/drivedrop
-🛡️ Zero tracking, zero cloud dependency.
-💰 $12.99 lifetime
+👉 Get DriveDrop Portal: https://864zeros.com/products/drivedrop
 
-#Shorts #ProductivityHacks #TechTips #Workflow #864zeros
+🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
+💰 $12.99 lifetime (No monthly subscription fees).
+
+🌐 Explore the full fleet: https://864zeros.com
+
+#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
 ```
-* **Tags:** `drivedrop, drivedrop portal, productivity hack, workflow tips, local first, 864zeros`
+* **Tags:** `drivedrop, drivedrop portal, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---
 ### 3. Tier 1 Social Short B (Price Hook)
@@ -51,7 +57,7 @@ Meet DriveDrop Portal — the fast, local-first solution that solves this withou
 * **Suggested Thumbnail:** `media/products/drivedrop/video/thumbnail-drivedrop-social-price.png`
 * **YouTube Title:**
 ```
-DriveDrop Price Hook — Paying $20/Month for File Request Portals #Shorts
+Paying $20/Month for File Request Portals — DriveDrop Portal #Shorts
 ```
 * **YouTube Description:**
 ```
@@ -59,11 +65,13 @@ Client portal services charging $20 every single month just for a file upload fo
 
 DriveDrop Portal gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
 
-🔗 Full details: https://864zeros.com/products/drivedrop
-🛡️ Privacy-first by design — your data stays yours.
+👉 Get DriveDrop Portal: https://864zeros.com/products/drivedrop
 
-#Shorts #AntiSaaS #NoSubscription #Productivity #864zeros
+🛡️ Privacy-first by design — your data stays yours.
+🌐 Explore all tools: https://864zeros.com
+
+#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
 ```
-* **Tags:** `drivedrop, drivedrop portal, anti saas, no subscription, lifetime license, productivity, 864zeros`
+* **Tags:** `drivedrop, drivedrop portal, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
 
 ---
