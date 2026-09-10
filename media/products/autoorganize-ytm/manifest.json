@@ -24,14 +24,16 @@
       "src": "autoorganize-ytm-social-pain.mp4",
       "poster": "thumbnail-autoorganize-ytm-social-pain.png",
       "angle": "pain_graveyard",
-      "duration": 19.67
+      "duration": 19.67,
+      "youtubeUrl": "https://www.youtube.com/watch?v=zrNi9jxOJ5M"
     },
     {
       "id": "social-hook-price",
       "src": "autoorganize-ytm-social-price.mp4",
       "poster": "thumbnail-autoorganize-ytm-social-price.png",
       "angle": "anti_subscription_impulse",
-      "duration": 19.95
+      "duration": 19.95,
+      "youtubeUrl": "https://www.youtube.com/watch?v=ENy0nQGEyt0"
     }
   ],
   "shots": [
