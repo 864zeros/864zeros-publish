@@ -61,11 +61,26 @@
     "shared/practice_books": {
       "kind": "shared",
       "title": "864zeros Practice Books & Workbooks Series",
-      "folder": "shared/practice_books/foundations_of_resilience/",
-      "manifest": "shared/practice_books/foundations_of_resilience/practice_book_10_lessons.json",
-      "manuscript": "shared/practice_books/foundations_of_resilience/PRACTICE_BOOK_10_LESSONS.md",
-      "viewer": "shared/practice_books/foundations_of_resilience/practice_book_viewer.html",
-      "summary": "10-Lesson daily practice workbook combining public-domain scripture (KJV/WEB), modern plain-language renderings, extracted behavioral intent, daily reflection journaling, and jeff_sketch style master graphite illustrations with superimposed card overlays."
+      "summary": "Daily practice workbooks combining public-domain scripture, modern plain-language renderings, extracted behavioral intent, daily reflection journaling, and fine-art master draftsmanship illustrations with superimposed card overlays.",
+      "books": {
+        "foundations_of_resilience": {
+          "title": "Foundations of Resilience: 10 Life Lessons",
+          "folder": "shared/practice_books/foundations_of_resilience/",
+          "manifest": "shared/practice_books/foundations_of_resilience/practice_book_10_lessons.json",
+          "manuscript": "shared/practice_books/foundations_of_resilience/PRACTICE_BOOK_10_LESSONS.md",
+          "viewer": "shared/practice_books/foundations_of_resilience/practice_book_viewer.html",
+          "art_style": "jeff_sketch"
+        },
+        "five_plain_language_meditations": {
+          "title": "Words in the Negative Space: 5 Poems in Ink & Resilience",
+          "folder": "shared/practice_books/five_plain_language_meditations/",
+          "manifest": "shared/practice_books/five_plain_language_meditations/five_meditations.json",
+          "data_wrapper": "shared/practice_books/five_plain_language_meditations/data.js",
+          "manuscript": "shared/practice_books/five_plain_language_meditations/FIVE_PLAIN_LANGUAGE_MEDITATIONS.md",
+          "viewer": "shared/practice_books/five_plain_language_meditations/ebook_viewer.html",
+          "art_style": "jeff_geometric style"
+        }
+      }
     },
     "media": {
       "kind": "media_house",

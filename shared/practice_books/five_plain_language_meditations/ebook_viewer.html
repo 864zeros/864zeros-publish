@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Words in the Negative Space: 5 Poems in Ink & Resilience</title>
+<style>
+  :root {
+    --bg: #f8f7f4;
+    --paper: #ffffff;
+    --ink: #14171a;
+    --ink-muted: #5e6670;
+    --ink-faint: #8c96a3;
+    --line: #e6e2da;
+    --line-subtle: #f0ece5;
+    --card-shadow: 0 12px 36px rgba(16, 24, 40, 0.07);
+    --gold: #b8860b;
+    --gold-soft: #fef9e8;
+    --accent: #b8860b;
+    --accent-light: #fef8e7;
+    --radius: 12px;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6; -webkit-font-smoothing: antialiased;
+  }
+
+  /* Progress Bar */
+  .progress-bar-container {
+    position: fixed; top: 0; left: 0; width: 100%; height: 3px;
+    background: transparent; z-index: 1000;
+  }
+  .progress-bar {
+    height: 100%; width: 0%; background: var(--accent);
+    transition: width 0.2s ease, background 0.3s ease;
+  }
+
+  /* Main Wrapper */
+  .wrap { max-width: 1320px; margin: 0 auto; padding: 24px 24px 80px; }
+
+  /* Header */
+  header {
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 20px; margin-bottom: 24px;
+    display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 16px;
+  }
+  .tag { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; color: var(--gold); }
+  h1 { font-size: 28px; font-weight: 850; margin: 4px 0 6px; color: var(--ink); letter-spacing: -0.02em; }
+  .lead { font-size: 14.5px; color: var(--ink-muted); max-width: 840px; margin: 0; }
+
+  .header-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 8px 14px; border-radius: 8px; font-size: 13px; font-weight: 600;
+    cursor: pointer; border: 1px solid var(--line); background: var(--paper); color: var(--ink);
+    transition: all 0.15s ease;
+  }
+  .btn:hover { background: #f0eee8; border-color: #cdc7be; }
+  .btn-primary { background: #14171a; color: #fff; border-color: #14171a; }
+  .btn-primary:hover { background: #2c333a; }
+
+  /* Navigation Bar */
+  .nav-bar {
+    display: flex; gap: 8px; overflow-x: auto; padding-bottom: 10px; margin-bottom: 22px;
+    border-bottom: 1px solid var(--line); scrollbar-width: thin;
+  }
+  .nav-chip {
+    padding: 7px 15px; border-radius: 20px; font-size: 13px; font-weight: 600;
+    white-space: nowrap; cursor: pointer; border: 1px solid var(--line); background: var(--paper); color: var(--ink-muted);
+    transition: all 0.15s ease; user-select: none;
+  }
+  .nav-chip:hover { border-color: var(--ink-muted); color: var(--ink); }
+  .nav-chip.active { background: #14171a; color: #fff; border-color: #14171a; }
+
+  /* Controls Strip */
+  .controls-strip {
+    display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;
+    background: var(--paper); padding: 12px 18px; border-radius: 10px; border: 1px solid var(--line);
+    margin-bottom: 26px; box-shadow: 0 2px 8px rgba(0,0,0,0.02);
+  }
+  .control-group { display: flex; align-items: center; gap: 10px; font-size: 13px; font-weight: 600; color: var(--ink-muted); }
+  select {
+    padding: 6px 10px; border-radius: 6px; border: 1px solid var(--line); background: #fff; font-size: 13px;
+    font-weight: 500; color: var(--ink); cursor: pointer;
+  }
+  .reader-controls { display: flex; align-items: center; gap: 8px; }
+
+  /* Cover Card Section */
+  .cover-card {
+    background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius);
+    box-shadow: var(--card-shadow); overflow: hidden; margin-bottom: 34px;
+    display: grid; grid-template-columns: 1fr 1fr;
+  }
+  .cover-visual {
+    background: #0d0f12; display: flex; align-items: center; justify-content: center;
+    position: relative; min-height: 480px; overflow: hidden;
+  }
+  .cover-img { width: 100%; height: 100%; object-fit: contain; max-height: 580px; cursor: zoom-in; }
+  .cover-info {
+    padding: 44px 40px; display: flex; flex-direction: column; justify-content: center;
+    border-left: 1px solid var(--line);
+  }
+  .cover-badge {
+    align-self: flex-start; font-size: 11px; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 0.15em; color: var(--gold); background: var(--gold-soft);
+    padding: 4px 10px; border-radius: 4px; margin-bottom: 16px; border: 1px solid #fae8a4;
+  }
+  .cover-title { font-size: 34px; font-weight: 850; letter-spacing: -0.03em; margin: 0 0 10px; line-height: 1.15; }
+  .cover-subtitle { font-size: 18px; color: var(--ink-muted); margin: 0 0 24px; font-weight: 450; line-height: 1.4; }
+  .cover-desc { font-size: 14.5px; line-height: 1.65; color: #404852; margin: 0 0 28px; }
+  .cover-meta-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 14px; padding-top: 20px;
+    border-top: 1px solid var(--line-subtle); margin-bottom: 28px; font-size: 12.5px;
+  }
+  .cover-meta-item strong { display: block; color: var(--ink); font-size: 13px; margin-bottom: 2px; }
+  .cover-meta-item span { color: var(--ink-muted); }
+
+  /* Main Lesson/Poem Container */
+  .lesson-card {
+    background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius);
+    box-shadow: var(--card-shadow); overflow: hidden; margin-bottom: 34px;
+    display: grid; grid-template-columns: 1.1fr 0.9fr; transition: border-color 0.2s;
+  }
+
+  @media (max-width: 980px) {
+    .cover-card, .lesson-card { grid-template-columns: 1fr; }
+    .cover-info { border-left: none; border-top: 1px solid var(--line); padding: 28px 22px; }
+  }
+
+  /* Left Column: Visual Plate & Overlay */
+  .visual-col {
+    background: #0d0f12; display: flex; flex-direction: column; position: relative;
+    border-right: 1px solid var(--line); overflow: hidden; min-height: 520px;
+  }
+  @media (max-width: 980px) { .visual-col { border-right: none; border-bottom: 1px solid var(--line); } }
+
+  .plate-container {
+    position: relative; width: 100%; height: 100%; flex: 1; display: flex; align-items: center; justify-content: center;
+    background: #0a0b0e; overflow: hidden; cursor: zoom-in;
+  }
+
+  .plate-image {
+    width: 100%; height: 100%; object-fit: contain; display: block;
+    transition: transform 0.3s ease;
+  }
+  .plate-container:hover .plate-image { transform: scale(1.02); }
+
+  /* Superimposed Overlay Modes */
+  .overlay-layer {
+    position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end;
+    padding: 32px 30px; background: linear-gradient(to top, rgba(10,12,16,0.92) 0%, rgba(10,12,16,0.55) 45%, rgba(10,12,16,0.05) 100%);
+    color: #ffffff; transition: opacity 0.25s ease; pointer-events: none;
+  }
+  .overlay-layer > * { pointer-events: auto; }
+
+  .overlay-layer.layout-center {
+    justify-content: center; text-align: center;
+    background: rgba(10,12,16,0.78); backdrop-filter: blur(3px);
+  }
+  .overlay-layer.layout-top {
+    justify-content: flex-start;
+    background: linear-gradient(to bottom, rgba(10,12,16,0.92) 0%, rgba(10,12,16,0.55) 45%, rgba(10,12,16,0.05) 100%);
+  }
+  .overlay-layer.overlay-hidden { opacity: 0; pointer-events: none; }
+
+  .ov-theme-badge {
+    align-self: flex-start; font-size: 10.5px; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 0.14em; padding: 4px 10px; border-radius: 4px; background: rgba(255,255,255,0.18);
+    backdrop-filter: blur(4px); margin-bottom: 12px; border-left: 3px solid var(--accent);
+  }
+  .overlay-layer.layout-center .ov-theme-badge { align-self: center; }
+
+  .ov-title {
+    font-size: 22px; font-weight: 800; letter-spacing: -0.01em; margin: 0 0 10px;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.7);
+  }
+  .ov-poem-lines {
+    font-size: 14.5px; font-style: italic; line-height: 1.5; color: #f0f2f5; margin: 0 0 8px;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.8); font-family: Georgia, serif; white-space: pre-line;
+  }
+
+  .visual-toolbar {
+    display: flex; justify-content: space-between; align-items: center;
+    background: #14171c; padding: 8px 16px; border-top: 1px solid #232830; color: #a4b0be; font-size: 12px;
+  }
+  .visual-toolbar .btn-sm {
+    padding: 4px 10px; font-size: 11.5px; background: #232830; color: #fff; border: 1px solid #363d49;
+    border-radius: 4px; cursor: pointer; transition: background 0.15s;
+  }
+  .visual-toolbar .btn-sm:hover { background: #323a46; }
+
+  /* Right Column: Poem & Guided Practice */
+  .content-col { padding: 32px 34px; display: flex; flex-direction: column; gap: 20px; }
+  @media (max-width: 600px) { .content-col { padding: 22px 18px; } }
+
+  .lesson-meta {
+    display: flex; align-items: center; justify-content: space-between;
+    border-bottom: 1px solid var(--line); padding-bottom: 12px;
+  }
+  .lesson-num { font-size: 12px; font-weight: 800; text-transform: uppercase; color: var(--accent); letter-spacing: 0.1em; }
+  .lesson-ref-badge { font-size: 12px; font-weight: 700; background: var(--accent-light); color: var(--ink); padding: 3px 10px; border-radius: 999px; }
+
+  .lesson-heading { font-size: 24px; font-weight: 800; margin: 0; color: var(--ink); letter-spacing: -0.01em; }
+
+  /* Poem Presentation Box */
+  .poem-card {
+    background: #fbfaf7; border: 1px solid var(--line); border-radius: 10px; padding: 20px 22px;
+    border-left: 4px solid var(--accent);
+  }
+  .poem-title-tag {
+    font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.1em;
+    color: var(--accent); margin: 0 0 10px;
+  }
+  .poem-stanza-text {
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    font-size: 16px; line-height: 1.65; color: #1a1e24; font-style: italic; margin: 0;
+    white-space: pre-line;
+  }
+
+  /* Prompt Instructions & Description Box (Crucial User Requirement) */
+  .prompt-instruction-box {
+    background: #14171d; border: 1px solid #272d38; border-radius: 10px; padding: 16px 18px;
+    color: #e1e7ee;
+  }
+  .prompt-header {
+    display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;
+    font-size: 11.5px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em;
+    color: #e5a93c;
+  }
+  .prompt-content-text {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-size: 12px; line-height: 1.5; color: #b8c4d4; margin: 0 0 10px; white-space: pre-wrap;
+    background: #0d0f13; padding: 12px; border-radius: 6px; border: 1px solid #1f242c;
+  }
+  .scene-desc {
+    font-size: 13px; line-height: 1.55; color: #d0d7de; margin: 0;
+  }
+  .scene-desc strong { color: #fff; }
+
+  /* Section Box */
+  .section-box {
+    background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px;
+  }
+  .section-title {
+    font-size: 11.5px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--ink-muted); margin: 0 0 8px; display: flex; align-items: center; justify-content: space-between;
+  }
+  .intent-text { font-size: 14.5px; color: #2d333b; line-height: 1.6; margin: 0; }
+
+  /* Interactive Journal */
+  .journal-box { display: flex; flex-direction: column; gap: 8px; }
+  .journal-prompt { font-size: 14px; font-weight: 600; color: var(--ink); margin: 0; line-height: 1.5; }
+  .journal-textarea {
+    width: 100%; min-height: 85px; padding: 12px 14px; border-radius: 8px; border: 1px solid var(--line);
+    background: #fff; font-family: inherit; font-size: 14px; resize: vertical; line-height: 1.5;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .journal-textarea:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-light); }
+  .journal-footer {
+    display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: var(--ink-faint);
+  }
+  .saved-indicator {
+    color: #2e7d32; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;
+    opacity: 0; transition: opacity 0.3s;
+  }
+  .saved-indicator.active { opacity: 1; }
+
+  /* Actionable Practice Strip */
+  .practice-strip {
+    background: #fdfaf2; border: 1px solid #f3e5be; border-radius: 8px; padding: 14px 16px;
+    display: flex; align-items: flex-start; gap: 12px; transition: background 0.2s;
+  }
+  .practice-strip.completed { background: #f2f8f3; border-color: #c3e2cb; }
+  .practice-check {
+    margin-top: 3px; cursor: pointer; width: 18px; height: 18px; accent-color: var(--accent);
+  }
+  .practice-content { font-size: 13.5px; color: #4e3e15; line-height: 1.5; }
+  .practice-strip.completed .practice-content { color: #1e4620; text-decoration: line-through; opacity: 0.85; }
+  .practice-content strong { color: #35290b; }
+  .practice-strip.completed .practice-content strong { color: #1e4620; }
+
+  /* Lightbox Modal */
+  .modal-backdrop {
+    display: none; position: fixed; inset: 0; background: rgba(5,7,10,0.92);
+    z-index: 2000; align-items: center; justify-content: center; padding: 20px;
+    backdrop-filter: blur(4px); cursor: zoom-out;
+  }
+  .modal-backdrop.open { display: flex; }
+  .modal-image {
+    max-width: 95vw; max-height: 92vh; object-fit: contain; border-radius: 6px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.8);
+  }
+  .modal-close {
+    position: absolute; top: 20px; right: 24px; color: #fff; font-size: 32px;
+    background: transparent; border: none; cursor: pointer;
+  }
+
+  /* Printable View Styles */
+  @media print {
+    body { background: #fff; color: #000; font-size: 12pt; }
+    .progress-bar-container, .controls-strip, .nav-bar, .header-actions, .visual-toolbar,
+    .journal-footer, .modal-backdrop { display: none !important; }
+    .wrap { max-width: 100%; padding: 0; margin: 0; }
+    header { border-bottom: 2px solid #000; margin-bottom: 20px; }
+    .cover-card {
+      page-break-after: always; break-after: page; border: none; box-shadow: none;
+      grid-template-columns: 1fr; margin-bottom: 0; height: 9.8in;
+    }
+    .cover-visual { background: #fff; }
+    .cover-img { max-height: 5.5in; filter: grayscale(100%); }
+    .lesson-card {
+      page-break-after: always; break-after: page; border: 1px solid #ddd;
+      box-shadow: none; margin-bottom: 0; grid-template-columns: 1fr 1fr; height: 9.8in;
+    }
+    .visual-col { background: #fff; border-right: 1px solid #ddd; min-height: unset; height: 100%; }
+    .plate-container { background: #fff; }
+    .plate-image { filter: grayscale(100%); }
+    .overlay-layer { display: none !important; }
+    .content-col { padding: 18px; height: 100%; }
+    .prompt-instruction-box { background: #f5f5f5; color: #333; border: 1px solid #ccc; }
+    .prompt-content-text { background: #fff; color: #111; }
+    .journal-textarea { border: 1px solid #999; min-height: 100px; background: transparent; }
+  }
+</style>
+</head>
+<body>
+
+<div class="progress-bar-container">
+  <div class="progress-bar" id="progressBar"></div>
+</div>
+
+<div class="wrap">
+
+  <header>
+    <div>
+      <div class="tag">864zeros Media &amp; Content House · Practice Book Series</div>
+      <h1>Words in the Negative Space</h1>
+      <p class="lead">5 Poems in Ink &amp; Resilience. All-new fine-art plates generated directly from each poem's instructions and imagery in the calibrated <code>jeff_geometric style</code>.</p>
+    </div>
+    <div class="header-actions">
+      <button class="btn" onclick="toggleAllOverlays()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><line x1="9" y1="3" x2="9" y2="21"/></svg>
+        <span id="btnOverlayText">Hide Overlay Cards</span>
+      </button>
+      <a class="btn" href="s8_ultra_vector_pack.zip" download="s8_ultra_vector_pack.zip" style="text-decoration:none;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Download S8 Ultra Vectors (.ZIP)
+      </a>
+      <button class="btn" onclick="exportJournals()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        Export Journal (.JSON)
+      </button>
+      <button class="btn btn-primary" onclick="window.print()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
+        Print / PDF Booklet
+      </button>
+    </div>
+  </header>
+
+  <!-- Navigation Bar -->
+  <div class="nav-bar" id="navBar">
+    <div class="nav-chip active" onclick="switchNav('all', this)">All 5 Poems</div>
+    <div class="nav-chip" onclick="switchNav('cover', this)">Book Cover</div>
+    <div class="nav-chip" onclick="switchNav(1, this)">1. Architect of Dawn</div>
+    <div class="nav-chip" onclick="switchNav(2, this)">2. Lighthouse</div>
+    <div class="nav-chip" onclick="switchNav(3, this)">3. Woman of Silver Loom</div>
+    <div class="nav-chip" onclick="switchNav(4, this)">4. Cathedral of Pine</div>
+    <div class="nav-chip" onclick="switchNav(5, this)">5. Granite Pass</div>
+  </div>
+
+  <!-- Controls Strip -->
+  <div class="controls-strip">
+    <div class="control-group">
+      <span>View Mode:</span>
+      <select id="viewModeSelect" onchange="changeViewMode(this.value)">
+        <option value="all">Continuous Scroll (All Chapters)</option>
+        <option value="reader">Focused Reader (One Chapter)</option>
+      </select>
+    </div>
+
+    <div class="control-group">
+      <span>Overlay Position:</span>
+      <select id="overlayPositionSelect" onchange="changeOverlayLayout(this.value)">
+        <option value="bottom">Bottom Gradient</option>
+        <option value="center">Center Focus</option>
+        <option value="top">Top Banner</option>
+      </select>
+    </div>
+
+    <div class="reader-controls" id="readerNavControls" style="display: none;">
+      <button class="btn" onclick="prevChapter()">← Previous</button>
+      <span id="chapterIndicator" style="font-size: 13px; font-weight: 700; color: var(--ink);">Cover</span>
+      <button class="btn" onclick="nextChapter()">Next →</button>
+    </div>
+  </div>
+
+  <!-- Cover Card Section -->
+  <div class="cover-card" id="coverCard">
+    <div class="cover-visual">
+      <img src="images/cover.jpg" alt="Words in the Negative Space Cover" class="cover-img" onclick="openLightbox('images/cover.jpg', 'Book Cover: The Open Sketchbook and Granite Pass')" />
+    </div>
+    <div class="cover-info">
+      <div class="cover-badge">Signature Poetry Edition</div>
+      <h2 class="cover-title">Words in the Negative Space</h2>
+      <div class="cover-subtitle">5 Poems in Ink &amp; Resilience</div>
+      <p class="cover-desc">
+        What we leave unsaid—and unlined—often carries more power than what we fill in. In this test eBook, each original poem serves directly as the visual blueprint and prompt instructions for an all-new fine-art plate rendered in the calibrated <code>jeff_geometric style</code> with Gestalt subtractive facial restraint.
+      </p>
+      <div class="cover-meta-grid">
+        <div class="cover-meta-item">
+          <strong>Art Style</strong>
+          <span><code>jeff_geometric style</code></span>
+        </div>
+        <div class="cover-meta-item">
+          <strong>Visual Direction</strong>
+          <span>Direct Poem-Driven Prompts</span>
+        </div>
+        <div class="cover-meta-item">
+          <strong>Medium</strong>
+          <span>Pen &amp; Black Ink on Paper</span>
+        </div>
+        <div class="cover-meta-item">
+          <strong>Publisher</strong>
+          <span>864zeros Media House</span>
+        </div>
+      </div>
+      <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+        <button class="btn btn-primary" style="padding: 10px 20px; font-size: 14px;" onclick="switchNav(1, document.querySelectorAll('.nav-chip')[2])">
+          Begin Poem 1 →
+        </button>
+        <a href="images/cover.svg" target="_blank" class="btn" style="padding: 10px 16px; font-size: 14px; text-decoration: none;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>
+          View Cover SVG Math
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dynamic Meditations Container -->
+  <div id="meditationsContainer"></div>
+
+</div>
+
+<!-- Lightbox Modal -->
+<div class="modal-backdrop" id="lightboxModal" onclick="closeLightbox()">
+  <button class="modal-close" onclick="closeLightbox()">&times;</button>
+  <img src="" alt="Enlarged Plate" class="modal-image" id="lightboxImage" onclick="event.stopPropagation()" />
+</div>
+
+<!-- Load Data -->
+<script src="data.js"></script>
+
+<script>
+// Fallback Data Definition
+const FALLBACK_DATA = {
+  "book_id": "five_plain_language_meditations",
+  "title": "Words in the Negative Space",
+  "subtitle": "5 Poems in Ink & Resilience",
+  "cover_image": "images/cover.jpg",
+  "meditations": [
+    {
+      "num": 1,
+      "id": "poem-01-architect-of-dawn",
+      "title": "The Architect of Dawn",
+      "theme": "Awakening & Clarity",
+      "poem": {
+        "title": "The Architect of Dawn",
+        "full_text": "Before the sun can break the seal of night,\nAn architect of silence draws the lines,\nLifting the dark with scaffolding of light,\nWhere morning's sharp and quiet prism shines.\nNo heavy shadows clutter on the floor,\nJust naked dawn across an open door."
+      },
+      "prompt_instruction": "jeff_geometric style, fine art pen and black ink drawing on pure stark white paper.\nPoem and visual description:\n\"Before the sun can break the seal of night,\nAn architect of silence draws the lines,\nLifting the dark with scaffolding of light,\nWhere morning's sharp and quiet prism shines.\nNo heavy shadows clutter on the floor,\nJust naked dawn across an open door.\"\nScene: A solitary architectural contemplative figure standing in quiet contemplation before an open threshold doorway...",
+      "visual_description": "A contemplative figure framed within a tall architectural doorway, looking out upon stepped geometric sunbeams that cut through the darkness like crystalline scaffolding.",
+      "intent": "Initiating mental clarity at the start of each day. Deliberately construct your focus through quiet discipline before external noise enters.",
+      "reflection_prompt": "Before the demands of the world rush into your mind today, what is the single truthful principle you choose to scaffold your thoughts upon?",
+      "actionable_practice": "Begin tomorrow morning with 5 minutes of total silence before checking any screen or notification. Observe the dawn across your threshold.",
+      "image_file": "images/poem_01.jpg",
+      "accent_color": "#b8860b"
+    },
+    {
+      "num": 2,
+      "id": "poem-02-lighthouse-at-worlds-edge",
+      "title": "The Lighthouse at the World's Edge",
+      "theme": "Steadfastness & Resilience",
+      "poem": {
+        "title": "The Lighthouse at the World's Edge",
+        "full_text": "The ocean crashes on the granite bone,\nA hundred tempests battering the height,\nYet steadfast stands the solitary stone,\nCasting a needle of unbroken light.\nLet all the waters heave and turn to foam;\nThe beacon marks the steady pathway home."
+      },
+      "prompt_instruction": "jeff_geometric style, fine art pen and black ink drawing on pure stark white paper.\nPoem and visual description:\n\"The ocean crashes on the granite bone...\"",
+      "visual_description": "A soaring angular stone lighthouse anchored atop stepped polygonal granite bedrock, sending an unbroken straight beam of light into pure stark white negative space.",
+      "intent": "Unshakable core character amidst external turbulence. Remain anchored and shine unbroken light.",
+      "reflection_prompt": "What external turbulence or crisis is currently churning around you? How can you remain rooted like the stone beacon?",
+      "actionable_practice": "Identify one area of emotional drama you have been drawn into. Take one step backward and commit to offering calm clarity.",
+      "image_file": "images/poem_02.jpg",
+      "accent_color": "#1976d2"
+    },
+    {
+      "num": 3,
+      "id": "poem-03-woman-of-the-silver-loom",
+      "title": "The Woman of the Silver Loom",
+      "theme": "Grace & Subtractive Beauty",
+      "poem": {
+        "title": "The Woman of the Silver Loom",
+        "full_text": "Her fingers move among the quiet strands,\nWeaving the ribboned fabric of the years,\nWith patient grace and unhurried hands,\nTurning to thread our ancient hopes and fears.\nHer gaze downcast, her spirit calm and deep,\nGuarding the promises we long to keep."
+      },
+      "prompt_instruction": "jeff_geometric style, fine art pen and black ink drawing on pure stark white paper.\nPoem and visual description:\n\"Her fingers move among the quiet strands...\"",
+      "visual_description": "An exquisite minimalist fine-art ink portrait in profile. Stepped interlocking geometric ribbon planes flow through her hair with disciplined parallel hatching, signature pillowy full upper lip, chiseled straight-line jaw, and soulful downcast eye.",
+      "intent": "The power of patience and quiet craftsmanship. True beauty and enduring character are woven strand by strand through unhurried discipline.",
+      "reflection_prompt": "Where in your life have you felt rushed or desperate to force an outcome? How would adopting unhurried, patient grace shift your perspective today?",
+      "actionable_practice": "Slow down your cadence in one routine activity today. Treat it as a patient, woven discipline of grace.",
+      "image_file": "images/poem_03.jpg",
+      "accent_color": "#8c4456"
+    },
+    {
+      "num": 4,
+      "id": "poem-04-silent-cathedral-of-pine",
+      "title": "The Silent Cathedral of Pine",
+      "theme": "Sanctuary & Stillness",
+      "poem": {
+        "title": "The Silent Cathedral of Pine",
+        "full_text": "No gilded roof, no organ in the nave,\nOnly the solemn pillars of the wood,\nWhere morning sun pours down a quiet wave,\nAnd sorrow leaves what mercy understood.\nThe boughs reach up in geometric grace,\nHolding the hush within a sacred space."
+      },
+      "prompt_instruction": "jeff_geometric style, fine art pen and black ink drawing on pure stark white paper.\nPoem description to illustrate:\n\"No gilded roof, no organ in the nave...\"",
+      "visual_description": "A magnificent architectural grove of pine trees whose trunks rise as stepped polygonal colonnades, with radiant angled sun shafts breaking through the faceted boughs.",
+      "intent": "Creating internal sanctuary. Solitude, stillness, and honest reflection provide an unshakable cathedral within your own mind.",
+      "reflection_prompt": "What clutter, noise, or sorrow can you surrender today in exchange for the quiet stillness of your own internal sanctuary?",
+      "actionable_practice": "Take a 10-minute walk in nature or sit near living greenery today without headphones. Pay attention to the silence between the leaves.",
+      "image_file": "images/poem_04.jpg",
+      "accent_color": "#2e6245"
+    },
+    {
+      "num": 5,
+      "id": "poem-05-traveler-and-granite-pass",
+      "title": "The Traveler and the Granite Pass",
+      "theme": "Courage & Elevation",
+      "poem": {
+        "title": "The Traveler and the Granite Pass",
+        "full_text": "Above the tree line where the air is thin,\nThe pilgrim walks the ridge of jagged stone,\nLeaving the valley where the mist had been,\nTo meet the summit winds, untamed, alone.\nEach upward step a victory over dread,\nThe open sky unfolding overhead."
+      },
+      "prompt_instruction": "jeff_geometric style, fine art pen and black ink drawing on pure stark white paper.\nPoem description to illustrate:\n\"Above the tree line where the air is thin...\"",
+      "visual_description": "A lone resolute traveler in clean angular silhouette climbing a razor-sharp alpine ridge of stepped polygonal granite crags into vast white negative space.",
+      "intent": "Transcending the misty lowlands of comfort and fear. Growth demands climbing into the thin, demanding air of personal responsibility.",
+      "reflection_prompt": "What comfortable 'valley' have you been lingering in because climbing the rugged pass felt intimidating?",
+      "actionable_practice": "Tackle the single hardest task on your desk first thing today before opening email or social feeds.",
+      "image_file": "images/poem_05.jpg",
+      "accent_color": "#d84315"
+    }
+  ]
+};
+
+const ebook = (typeof window.EBOOK_DATA !== 'undefined') ? window.EBOOK_DATA : FALLBACK_DATA;
+let currentNav = 'all'; // 'all', 'cover', 1, 2, 3, 4, 5
+let overlaysVisible = true;
+let currentOverlayLayout = 'bottom';
+let viewMode = 'all'; // 'all' or 'reader'
+
+function init() {
+  renderMeditations();
+  loadStoredProgress();
+  setupKeyboardNav();
+  updateProgressBar();
+}
+
+function renderMeditations() {
+  const container = document.getElementById('meditationsContainer');
+  container.innerHTML = '';
+
+  ebook.meditations.forEach(m => {
+    const card = document.createElement('div');
+    card.className = 'lesson-card';
+    card.id = `meditation-card-${m.num}`;
+    card.style.setProperty('--accent', m.accent_color);
+    card.style.setProperty('--accent-light', hexToRgba(m.accent_color, 0.12));
+
+    card.innerHTML = `
+      <!-- Left Column: Visual Plate & Overlay -->
+      <div class="visual-col">
+        <div class="plate-container" onclick="openLightbox('${m.image_file}', '${m.title}')">
+          <img src="${m.image_file}" alt="${m.title}" class="plate-image" />
+          
+          <div class="overlay-layer layout-${currentOverlayLayout} ${overlaysVisible ? '' : 'overlay-hidden'}" id="overlay-${m.num}">
+            <div class="ov-theme-badge" style="border-left-color: ${m.accent_color}">${m.theme}</div>
+            <div class="ov-title">${m.title}</div>
+            <div class="ov-poem-lines">${m.poem.full_text}</div>
+          </div>
+        </div>
+
+        <div class="visual-toolbar">
+          <span>Poem ${m.num} of 5 · ${m.title}</span>
+          <div style="display: flex; gap: 6px;">
+            <a href="${m.image_file.replace('.jpg', '.svg')}" target="_blank" class="btn-sm" style="text-decoration: none; display: inline-flex; align-items: center; gap: 4px;">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>
+              SVG Math
+            </a>
+            <button class="btn-sm" onclick="toggleSingleOverlay(${m.num}, event)">Toggle Overlay</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Column: Poem & Guided Practice -->
+      <div class="content-col">
+        <div class="lesson-meta">
+          <div class="lesson-num" style="color: ${m.accent_color}">Poem 0${m.num}</div>
+          <div class="lesson-ref-badge" style="background: ${hexToRgba(m.accent_color, 0.12)}; color: ${m.accent_color}">${m.theme}</div>
+        </div>
+
+        <h3 class="lesson-heading">${m.title}</h3>
+
+        <!-- Full Poem Card -->
+        <div class="poem-card" style="border-left-color: ${m.accent_color}">
+          <div class="poem-title-tag" style="color: ${m.accent_color}">The Written Verse</div>
+          <p class="poem-stanza-text">${m.poem.full_text}</p>
+        </div>
+
+        <!-- Prompt Instructions & Descriptions Box (Direct User Requirement) -->
+        <div class="prompt-instruction-box">
+          <div class="prompt-header">
+            <span>Direct Prompt Instructions &amp; Description</span>
+            <span style="font-size: 10px; color: #a0aec0;"><code>jeff_geometric style</code></span>
+          </div>
+          <div class="prompt-content-text">${escapeHtml(m.prompt_instruction)}</div>
+          <p class="scene-desc"><strong>Visual Rationale:</strong> ${m.visual_description}</p>
+        </div>
+
+        <!-- Cognitive Intent Box -->
+        <div class="section-box">
+          <div class="section-title">Cognitive &amp; Philosophical Intent</div>
+          <p class="intent-text">${m.intent}</p>
+        </div>
+
+        <!-- Reflection Journal Box -->
+        <div class="journal-box">
+          <div class="journal-prompt">${m.reflection_prompt}</div>
+          <textarea
+            class="journal-textarea"
+            id="journal-${m.num}"
+            placeholder="Type your personal reflection here... (Autosaved locally)"
+            oninput="handleJournalInput(${m.num}, this.value)"
+          ></textarea>
+          <div class="journal-footer">
+            <span id="char-count-${m.num}">0 characters</span>
+            <span class="saved-indicator" id="saved-indicator-${m.num}">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg>
+              Autosaved
+            </span>
+          </div>
+        </div>
+
+        <!-- Actionable Micro-Practice Check -->
+        <div class="practice-strip" id="practice-strip-${m.num}">
+          <input
+            type="checkbox"
+            class="practice-check"
+            id="check-${m.num}"
+            onchange="handlePracticeCheck(${m.num}, this.checked)"
+          />
+          <div class="practice-content">
+            <strong>Today's Micro-Practice:</strong> ${m.actionable_practice}
+          </div>
+        </div>
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+function escapeHtml(str) {
+  if (!str) return '';
+  return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function hexToRgba(hex, alpha) {
+  let c = hex.replace('#', '');
+  if (c.length === 3) c = c.split('').map(x => x + x).join('');
+  const num = parseInt(c, 16);
+  return `rgba(${(num >> 16) & 255}, ${(num >> 8) & 255}, ${num & 255}, ${alpha})`;
+}
+
+// Navigation & Filtering
+function switchNav(navKey, chipElement) {
+  currentNav = navKey;
+
+  document.querySelectorAll('.nav-chip').forEach(el => el.classList.remove('active'));
+  if (chipElement) chipElement.classList.add('active');
+
+  const coverCard = document.getElementById('coverCard');
+  const cards = document.querySelectorAll('.lesson-card');
+  const readerNav = document.getElementById('readerNavControls');
+  const indicator = document.getElementById('chapterIndicator');
+
+  if (viewMode === 'reader') {
+    readerNav.style.display = 'flex';
+  } else {
+    readerNav.style.display = (navKey !== 'all') ? 'flex' : 'none';
+  }
+
+  if (navKey === 'all') {
+    coverCard.style.display = 'grid';
+    cards.forEach(c => c.style.display = 'grid');
+    indicator.textContent = 'All 5 Poems';
+  } else if (navKey === 'cover') {
+    coverCard.style.display = 'grid';
+    cards.forEach(c => c.style.display = 'none');
+    indicator.textContent = 'Cover';
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  } else {
+    const num = parseInt(navKey, 10);
+    coverCard.style.display = 'none';
+    cards.forEach(c => {
+      c.style.display = (c.id === `meditation-card-${num}`) ? 'grid' : 'none';
+    });
+    indicator.textContent = `Poem 0${num}`;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  updateProgressBar();
+}
+
+function changeViewMode(mode) {
+  viewMode = mode;
+  if (mode === 'reader') {
+    if (currentNav === 'all') {
+      switchNav(1, document.querySelectorAll('.nav-chip')[2]);
+    } else {
+      switchNav(currentNav, getChipForNav(currentNav));
+    }
+  } else {
+    switchNav('all', document.querySelectorAll('.nav-chip')[0]);
+  }
+}
+
+function getChipForNav(key) {
+  const chips = document.querySelectorAll('.nav-chip');
+  if (key === 'all') return chips[0];
+  if (key === 'cover') return chips[1];
+  const num = parseInt(key, 10);
+  return chips[num + 1] || chips[0];
+}
+
+function prevChapter() {
+  if (currentNav === 'all' || currentNav === 'cover') {
+    switchNav('cover', getChipForNav('cover'));
+  } else {
+    const num = parseInt(currentNav, 10);
+    if (num <= 1) {
+      switchNav('cover', getChipForNav('cover'));
+    } else {
+      switchNav(num - 1, getChipForNav(num - 1));
+    }
+  }
+}
+
+function nextChapter() {
+  if (currentNav === 'cover') {
+    switchNav(1, getChipForNav(1));
+  } else if (currentNav === 'all') {
+    switchNav(1, getChipForNav(1));
+  } else {
+    const num = parseInt(currentNav, 10);
+    if (num < ebook.meditations.length) {
+      switchNav(num + 1, getChipForNav(num + 1));
+    }
+  }
+}
+
+function setupKeyboardNav() {
+  window.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') return;
+    if (e.key === 'ArrowRight') nextChapter();
+    if (e.key === 'ArrowLeft') prevChapter();
+  });
+}
+
+// Overlays Management
+function toggleAllOverlays() {
+  overlaysVisible = !overlaysVisible;
+  const overlays = document.querySelectorAll('.overlay-layer');
+  overlays.forEach(ov => {
+    if (overlaysVisible) {
+      ov.classList.remove('overlay-hidden');
+    } else {
+      ov.classList.add('overlay-hidden');
+    }
+  });
+
+  const btnText = document.getElementById('btnOverlayText');
+  btnText.textContent = overlaysVisible ? 'Hide Overlay Cards' : 'Show Overlay Cards';
+}
+
+function toggleSingleOverlay(num, evt) {
+  evt.stopPropagation();
+  const ov = document.getElementById(`overlay-${num}`);
+  if (ov) ov.classList.toggle('overlay-hidden');
+}
+
+function changeOverlayLayout(layout) {
+  currentOverlayLayout = layout;
+  const overlays = document.querySelectorAll('.overlay-layer');
+  overlays.forEach(ov => {
+    ov.className = `overlay-layer layout-${layout} ${overlaysVisible ? '' : 'overlay-hidden'}`;
+  });
+}
+
+// Lightbox Modal
+function openLightbox(src, caption) {
+  const modal = document.getElementById('lightboxModal');
+  const img = document.getElementById('lightboxImage');
+  img.src = src;
+  img.alt = caption;
+  modal.classList.add('open');
+}
+
+function closeLightbox() {
+  document.getElementById('lightboxModal').classList.remove('open');
+}
+
+// Persistence: LocalStorage for Reflection & Practices
+const STORAGE_PREFIX = '864zeros_poems_';
+
+function handleJournalInput(num, text) {
+  localStorage.setItem(`${STORAGE_PREFIX}journal_${num}`, text);
+  updateCharCount(num, text);
+  showSavedBadge(num);
+  updateProgressBar();
+}
+
+function handlePracticeCheck(num, isChecked) {
+  localStorage.setItem(`${STORAGE_PREFIX}check_${num}`, isChecked ? 'true' : 'false');
+  const strip = document.getElementById(`practice-strip-${num}`);
+  if (isChecked) {
+    strip.classList.add('completed');
+  } else {
+    strip.classList.remove('completed');
+  }
+  updateProgressBar();
+}
+
+function updateCharCount(num, text) {
+  const countEl = document.getElementById(`char-count-${num}`);
+  if (countEl) countEl.textContent = `${text.length} characters`;
+}
+
+let saveTimers = {};
+function showSavedBadge(num) {
+  const indicator = document.getElementById(`saved-indicator-${num}`);
+  if (!indicator) return;
+  indicator.classList.add('active');
+  if (saveTimers[num]) clearTimeout(saveTimers[num]);
+  saveTimers[num] = setTimeout(() => {
+    indicator.classList.remove('active');
+  }, 1600);
+}
+
+function loadStoredProgress() {
+  ebook.meditations.forEach(m => {
+    const storedText = localStorage.getItem(`${STORAGE_PREFIX}journal_${m.num}`);
+    if (storedText !== null) {
+      const textarea = document.getElementById(`journal-${m.num}`);
+      if (textarea) {
+        textarea.value = storedText;
+        updateCharCount(m.num, storedText);
+      }
+    }
+
+    const storedCheck = localStorage.getItem(`${STORAGE_PREFIX}check_${m.num}`);
+    if (storedCheck === 'true') {
+      const checkbox = document.getElementById(`check-${m.num}`);
+      const strip = document.getElementById(`practice-strip-${m.num}`);
+      if (checkbox) checkbox.checked = true;
+      if (strip) strip.classList.add('completed');
+    }
+  });
+}
+
+function updateProgressBar() {
+  let completed = 0;
+  const total = ebook.meditations.length * 2;
+
+  ebook.meditations.forEach(m => {
+    const text = localStorage.getItem(`${STORAGE_PREFIX}journal_${m.num}`) || '';
+    if (text.trim().length > 0) completed++;
+    const check = localStorage.getItem(`${STORAGE_PREFIX}check_${m.num}`);
+    if (check === 'true') completed++;
+  });
+
+  const percentage = Math.round((completed / total) * 100);
+  document.getElementById('progressBar').style.width = `${percentage}%`;
+}
+
+// Export All Journals to JSON
+function exportJournals() {
+  const exportData = {
+    book_title: ebook.title,
+    export_timestamp: new Date().toISOString(),
+    entries: ebook.meditations.map(m => ({
+      poem_num: m.num,
+      title: m.title,
+      poem_text: m.poem.full_text,
+      prompt_instruction: m.prompt_instruction,
+      visual_description: m.visual_description,
+      reflection_prompt: m.reflection_prompt,
+      journal_response: localStorage.getItem(`${STORAGE_PREFIX}journal_${m.num}`) || '',
+      micro_practice: m.actionable_practice,
+      practice_completed: localStorage.getItem(`${STORAGE_PREFIX}check_${m.num}`) === 'true'
+    }))
+  };
+
+  const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(exportData, null, 2));
+  const downloadAnchor = document.createElement('a');
+  downloadAnchor.setAttribute("href", dataStr);
+  downloadAnchor.setAttribute("download", `poem_reflections_${new Date().toISOString().slice(0,10)}.json`);
+  document.body.appendChild(downloadAnchor);
+  downloadAnchor.click();
+  downloadAnchor.remove();
+}
+
+// Initialize on DOM load
+window.addEventListener('DOMContentLoaded', init);
+</script>
+
+</body>
+</html>
