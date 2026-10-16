@@ -63,7 +63,7 @@ VARIANTS = {
             },
             {
                 "id": "price_scene2_body",
-                "text": "ClearStreak has zero subscriptions. A seven day free trial, then a single fourteen ninety-nine payment to own it forever. Our crisis lifelines are free forever for everyone."
+                "text": "ClearStreak has zero subscriptions. Start with a seven day free trial, then unlock once to own it forever. And our crisis lifelines are free forever for everyone."
             },
             {
                 "id": "price_scene3_cta",

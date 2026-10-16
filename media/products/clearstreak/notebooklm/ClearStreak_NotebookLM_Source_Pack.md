@@ -10,7 +10,7 @@
 Focus on how ClearStreak redefines habit and streak tracking for ANY personal journey — both "Days Doing" a positive daily discipline (like morning workouts, deep work, fasting, or prayer) AND "Days Not Doing" a habit or vice you want to leave behind (like doomscrolling, sugar, vaping, alcohol, or impulse spending). Highlight three big breakthroughs:
 1. "Data Over Shame": Why wiping a user's streak to zero after one missed day is psychologically destructive (the Abstinence Violation Effect), and how ClearStreak preserves your Lifetime Days, Personal Bests, and Milestone Coins forever even when today's counter resets.
 2. "Private by Architecture": Why intimate daily habits and struggles should never live on a startup's cloud server, and how ClearStreak runs 100% offline with hardware-bound AES-256 encryption, biometric unlock, and anti-screenshot protection.
-3. "Eyes-Free Grounding & Fair Ownership": How the Tactile Pocket Anchor and 4x4 Haptic Breather let you ride out restlessness in your pocket without staring at a screen, backed by a 7-day free trial and a single $14.99 lifetime unlock instead of a $60–$120/year subscription trap.
+3. "Eyes-Free Grounding & Fair Ownership": How the Tactile Pocket Anchor and 4x4 Haptic Breather let you ride out restlessness in your pocket without staring at a screen, backed by a 7-day free trial and a single one-time lifetime unlock instead of a $60–$120/year subscription trap.
 ```
 
 ---
@@ -19,7 +19,7 @@ Focus on how ClearStreak redefines habit and streak tracking for ANY personal jo
 
 Most people are working on two kinds of personal growth at the exact same time:
 1. **Streaks of Days DOING Something (Building):** Showing up for a morning run, reading 20 pages, practicing deep work, intermittent fasting, daily prayer/meditation, or completing a 30-day physical challenge.
-2. **Streaks of Days NOT DOING Something (Breaking):** Stepping away from late-night doomscrolling, sugar, vaping, alcohol, impulsive online shopping, or screen compulsion.
+2. **Streaks of Days NOT DOING Something (Breaking):** Stepping away from late-night doomscrolling, sugar, vaping, alcohol, unplanned online shopping, or screen compulsion.
 
 Yet the app store forces people into an artificial split: either download a noisy, gamified "productivity checklist" that sells your behavioral telemetry to ad networks, or download a clinical "sobriety app" that demands a cloud account, charges $40 to $120 a year in recurring subscriptions, and shames you the moment you have an off day.
 
@@ -70,7 +70,7 @@ ClearStreak replaces text lectures with **somatosensory haptics and working-memo
 ## 5. Pillar 4: Anti-SaaS Fair Ownership
 
 - **The Incumbent Subscription Trap:** Competing habit and sobriety apps charge **$39.99/year to $119.99/year** forever just to increment an integer on your screen.
-- **The 864zeros Model:** ClearStreak gives you a **7-day full-featured free trial** (no credit card required upfront), followed by a single **$14.99 one-time lifetime unlock**. Pay once, own it on your device forever.
+- **The 864zeros Model:** ClearStreak gives you a **7-day full-featured free trial** (no credit card required upfront), followed by a single **one-time lifetime unlock**. Pay once, own it on your device forever.
 
 ---
 
@@ -79,5 +79,5 @@ ClearStreak replaces text lectures with **somatosensory haptics and working-memo
 - **Product Name:** ClearStreak — The Private Habit, Streak & Journey Companion
 - **Creator:** 864zeros LLC (`https://864zeros.com/products/clearstreak`)
 - **Platform:** Android (`com.eight64zeros.clearstreak`, Jetpack Compose + SQLCipher AES-256 + Android Keystore StrongBox)
-- **Use Cases:** Any Journey — **Streak Doing** (fitness, deep work, fasting, prayer, reading) + **Days Not Doing** (doomscrolling, vaping, alcohol, sugar, impulse spending)
-- **Pricing:** 7-Day Free Trial → $14.99 One-Time Lifetime Unlock ($0/month recurring; Rescue Hub always 100% free)
+- **Use Cases:** Any Journey — **Streak Doing** (fitness, deep work, fasting, prayer, reading) + **Days Not Doing** (doomscrolling, vaping, alcohol, sugar, late-night spending)
+- **Pricing:** 7-Day Free Trial → One-Time Lifetime Unlock ($0/month recurring; Rescue Hub always 100% free)
