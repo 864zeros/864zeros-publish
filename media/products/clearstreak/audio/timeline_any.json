@@ -1,0 +1,27 @@
+{
+  "variant": "any",
+  "total_duration": 25.272,
+  "scenes": [
+    {
+      "id": "any_scene1_hook",
+      "start": 0.0,
+      "end": 8.04,
+      "duration": 8.04,
+      "text": "Whether you're counting a streak of days doing what builds you up, or days not doing what holds you back, your journey belongs on your phone, not in the cloud."
+    },
+    {
+      "id": "any_scene2_body",
+      "start": 8.04,
+      "end": 18.384,
+      "duration": 10.344,
+      "text": "ClearStreak tracks both daily disciplines and habits you're leaving behind under Data Over Shame. An off day resets today's count, but never erases your lifetime days or milestone coins."
+    },
+    {
+      "id": "any_scene3_cta",
+      "start": 18.384,
+      "end": 25.272,
+      "duration": 6.888,
+      "text": "Eyes-free haptic grounding, fingerprint encryption, and zero subscriptions. Start any journey with ClearStreak."
+    }
+  ]
+}

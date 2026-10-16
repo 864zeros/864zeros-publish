@@ -111,3 +111,29 @@ ClearStreak gives you complete local-first habit tracking:
 #Shorts #AntiSaaS #NoSubscription #IndieDev #HabitTracker #SovereignSoftware #864zeros
 ```
 * **Tags:** `clearstreak, anti saas, no subscription, lifetime license, habit tracker, sober counter, frugal tech, android apps, 864zeros`
+
+---
+
+### 5. Tier 1 Social Short D: "Any Journey: Streak Doing OR Days Not Doing" (Lifestyle Hook)
+* **Video File:** `media/products/clearstreak/video/clearstreak-social-any-journey.mp4`
+* **Suggested Thumbnail:** `media/products/clearstreak/icons/thumbnail-clearstreak-social-any-journey.png`
+* **YouTube Title:**
+```
+Count Days DOING or Days NOT Doing (100% Offline): ClearStreak #Shorts
+```
+* **YouTube Description:**
+```
+Whether you're counting a streak of days DOING what builds you up (morning runs, deep work, fasting, prayer) — or days NOT DOING what holds you back (doomscrolling, sugar, vaping, alcohol) — your journey belongs on your phone, not in the cloud.
+
+Meet ClearStreak: built for ANY personal journey under DATA OVER SHAME. An off day resets today's active count, but your lifetime days, personal bests, and milestone coins stay permanent.
+
+👉 Get ClearStreak on Google Play: https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak
+🌐 Product Page: https://864zeros.com/products/clearstreak
+
+🛡️ 100% Offline SQLCipher AES-256 encryption & fingerprint lock.
+🫁 Eyes-free Tactile Pocket Anchor & 4x4 Haptic Box Breather.
+💰 7-day free trial, then $14.99 one-time lifetime unlock (No subscriptions).
+
+#Shorts #HabitTracker #StreakTracker #Discipline #SelfImprovement #DataOverShame #LocalFirst #864zeros
+```
+* **Tags:** `clearstreak, habit tracker, streak tracker, daily discipline, days doing, days not doing, data over shame, local first, 864zeros, no subscription, android app`

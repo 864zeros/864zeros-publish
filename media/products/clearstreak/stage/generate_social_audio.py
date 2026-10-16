@@ -53,6 +53,23 @@ VARIANTS = {
                 "text": "Your habits are yours alone. ClearStreak: the private habit and vice companion."
             }
         ]
+    },
+    "price": {
+        "title": "Variant C - The Price Hook (The $120/Year Habit Tracker Scam)",
+        "scenes": [
+            {
+                "id": "price_scene1_hook",
+                "text": "Why are habit apps charging you one hundred dollars a year just to count days? And when you hit an urge, they lock the crisis tools behind another paywall."
+            },
+            {
+                "id": "price_scene2_body",
+                "text": "ClearStreak has zero subscriptions. A seven day free trial, then a single fourteen ninety-nine payment to own it forever. Our crisis lifelines are free forever for everyone."
+            },
+            {
+                "id": "price_scene3_cta",
+                "text": "Stop renting your self-improvement. Download ClearStreak on Google Play."
+            }
+        ]
     }
 }
 
