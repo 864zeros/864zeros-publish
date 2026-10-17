@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "catalog_id": "864zeros_focus_packs_catalog",
+    "title": "864zeros Studio — Master Focus Packs Catalog",
+    "namespace": "shared/focus_packs",
+    "version": "1.0.0",
+    "generated": "2026-10-17",
+    "studio_leadership": {
+      "VP-STUDIO": "Sloane Sterling (VP of Content, Media & Publishing)",
+      "LEAD-CONTENT": "Julian Thorne (Head of Literary IP, Editorial & Focus Packs)",
+      "STUDIO-LEGAL": "Vera Lindqvist (Director of IP, Public Domain Clearance & Provenance)",
+      "LEAD-MEDIA": "Orion Kai (Head of Multimedia Production & Visual/Audio Vault)"
+    },
+    "provenance_lock": "sources/public_domain_classics/PROVENANCE_LOCK.json",
+    "legal_posture": "17 U.S.C. Public Domain — Pre-1931 Publication Safe Harbor + 17 U.S.C. § 102(b) Empirical Science Safe Harbor. All plain-language renderings, daily behavioral applications, and affirmations are 100% original 864zeros LLC authorship.",
+    "schema_standard": "{ id, citation, text, plain, application, focus_theme } (compatible with ClearStreak Focus Packs, OIA Focus Extensions, and standalone 864zeros Practice Books)"
+  },
+  "packs": [
+    {
+      "pack_id": "marcus_aurelius_meditations",
+      "category": "philosophy_stoic",
+      "title": "The Citadel Within: Marcus Aurelius on Daily Self-Command",
+      "subtitle": "30 Curated Pre-1931 Stoic Meditations with Plain-Language Renderings & Daily Action Protocols",
+      "author_or_source": "Marcus Aurelius Antoninus (George Long 1862 / John Jackson 1906 / Meric Casaubon 1634 PD corpus)",
+      "path": "shared/focus_packs/marcus_aurelius_meditations.json",
+      "provenance_source": "sources/public_domain_classics/marcus_aurelius_meditations_long_1862.txt",
+      "provenance_sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "stoic_masters_epictetus_seneca",
+      "category": "philosophy_stoic",
+      "title": "Sovereign Will: Epictetus & Seneca on Time, Agency, and Focus",
+      "subtitle": "30 Curated Pre-1931 Passages from Epictetus's Enchiridion & Seneca's Minor Dialogues",
+      "author_or_source": "Epictetus (T.W. Higginson 1865/1890) & Seneca (Aubrey Stewart 1889)",
+      "path": "shared/focus_packs/stoic_masters_epictetus_seneca.json",
+      "provenance_source": [
+        "sources/public_domain_classics/epictetus_enchiridion_higginson.txt",
+        "sources/public_domain_classics/seneca_dialogues_stewart_1889.txt"
+      ],
+      "provenance_sha256": {
+        "epictetus_enchiridion_higginson.txt": "15A09EBD7F782CB64390459A29555140D86FB07F168675D41088A717978C3E4F",
+        "seneca_dialogues_stewart_1889.txt": "FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B"
+      },
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "ben_franklin_virtues",
+      "category": "habit_architecture",
+      "title": "The 13 Virtues Ledger: Benjamin Franklin's Sequential Focus Method",
+      "subtitle": "30 Structured Entries from Franklin's 1791 Autobiography on Sequential Single-Habit Mastery",
+      "author_or_source": "Benjamin Franklin (1791 Autobiography)",
+      "path": "shared/focus_packs/ben_franklin_virtues.json",
+      "provenance_source": "sources/public_domain_classics/benjamin_franklin_autobiography_1791.txt",
+      "provenance_sha256": "C5BE0E49F68F0876BE480074B9DC0712A8FDBC7FAA7DEF3ACC6765AFBA9BD128",
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "aristotle_character",
+      "category": "philosophy_character",
+      "title": "Excellence by Repetition: Aristotle's Nicomachean Ethics in Practice",
+      "subtitle": "30 Curated Pre-1931 Passages from Book II & Book VII on Habituation and Character Proof",
+      "author_or_source": "Aristotle (W.D. Ross 1908 / D.P. Chase 1847)",
+      "path": "shared/focus_packs/aristotle_character.json",
+      "provenance_source": "sources/public_domain_classics/aristotle_nicomachean_ethics.txt",
+      "provenance_sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "william_james_habit",
+      "category": "habit_neuroscience",
+      "title": "The Neuroplastic Groove: William James's 1890 Maxims of Habit",
+      "subtitle": "30 Curated Passages from William James (1890/1899) on Neural Plasticity, Continuity, and Floor Reps",
+      "author_or_source": "William James (1890 Principles of Psychology / 1899 Talks to Teachers)",
+      "path": "shared/focus_packs/william_james_habit.json",
+      "provenance_source": "sources/public_domain_classics/william_james_habit_1890.txt",
+      "provenance_sha256": "19B854638699E30744278724F7CEB5681AA7893CA89706F11AB4CFDF6A8B50B5",
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "kjv_scripture_key_verses",
+      "category": "faith_scripture",
+      "title": "KJV & WEB Public-Domain Scripture Key-Verse Library",
+      "subtitle": "Complete Canonical Public-Domain Scripture Anchor with 2026 Plain-Language Renderings & Behavioral Applications",
+      "author_or_source": "King James Version (1611/1769 PD) & World English Bible (PD)",
+      "path": "shared/bible/bible_index.json",
+      "companion_paths": {
+        "daily_verse_pack": "apps/clearstreak/clearStreak-daily-verse.json",
+        "genesis_applications": "shared/bible/genesis_applications.json",
+        "bible_study_lessons": "shared/bible/bible_study_lessons.json"
+      },
+      "entry_count": 834,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "recovery_reflections_1939",
+      "category": "recovery_resilience",
+      "title": "Recovery Reflections (1939 Big Book Public-Domain Corpus)",
+      "subtitle": "Moment-of-Need Passages & Secular Recovery Affirmations Derived from the 1939 Public-Domain First Edition",
+      "author_or_source": "1939 First Edition Public-Domain Text + Original 864zeros Authorship",
+      "path": "apps/clearstreak/affirmations_recovery.json",
+      "companion_paths": {
+        "passages_core": "apps/clearstreak/passages_core.json",
+        "full_reader": "apps/clearstreak/big_book.json"
+      },
+      "entry_count": 50,
+      "status": "PUBLISHED_PASSAGES_GATED_ON_CLINICAL_REVIEW",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "daily_affirmations_spiritual",
+      "category": "daily_affirmations",
+      "title": "Daily Affirmations: Faith, Resilience & Steadiness",
+      "subtitle": "50 Original 864zeros-Authored Daily Affirmations for Spiritual Grounding and Momentum",
+      "author_or_source": "Original 864zeros Literary Authorship (derived from 1939 Public-Domain corpus)",
+      "path": "apps/clearstreak/affirmations_spiritual.json",
+      "entry_count": 50,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    }
+  ]
+}

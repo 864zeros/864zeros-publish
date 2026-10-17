@@ -1,24 +1,64 @@
 {
   "_meta": {
     "repo": "864zeros-publish",
-    "role": "864zeros central content/data store — source-of-truth JSON assets, published to consuming apps.",
-    "version": 1,
-    "generated": "2026-09-09",
+    "role": "864zeros central content/data store & Studio vault — source-of-truth JSON assets, public-domain provenance lock, and multimedia DAM published to consuming apps.",
+    "version": 2,
+    "generated": "2026-10-17",
+    "studio_leadership": {
+      "VP-STUDIO": "Sloane Sterling — VP of Content, Media & Publishing",
+      "LEAD-MEDIA": "Orion Kai — Head of Multimedia Production & Visual/Audio Vault",
+      "LEAD-CONTENT": "Julian Thorne — Head of Literary IP, Editorial & Focus Packs",
+      "STUDIO-LEGAL": "Vera Lindqvist — Director of IP, Public Domain Clearance & Provenance"
+    },
     "principles": [
       "JSON is the source of truth; any database under db/ is a derived, rebuildable, git-ignored artifact.",
       "Namespace = ownership boundary: shared/ = ecosystem-generic assets; apps/<name>/ = that app's published content.",
-      "sources/ = raw public-domain inputs kept for provenance (not served); _build/ = extractor scripts, style guides, drafts.",
+      "sources/ = raw public-domain inputs kept for provenance (not served), governed by sources/public_domain_classics/PROVENANCE_LOCK.json; _build/ = extractor scripts, style guides, drafts.",
       "All content is public-domain-derived, original 864zeros authorship. IP posture documented per namespace."
     ],
     "layout": {
-      "shared/": "ecosystem-generic assets any app may consume",
+      "shared/": "ecosystem-generic assets any app may consume (bible, focus_packs, creative, practice_books)",
       "apps/": "per-app content namespaces",
-      "sources/": "raw source texts (PD PDFs / EPUB / docx) — provenance, not served",
+      "sources/": "raw source texts (PD TXT / PDFs / EPUB / docx) + PROVENANCE_LOCK.json — provenance, not served",
       "_build/": "extractor/build scripts, style guides, per-chapter drafts (reproducibility)",
       "db/": "generated SQLite, rebuilt from JSON via _build/build_db.ps1 (git-ignored)"
     }
   },
   "namespaces": {
+    "sources/public_domain_classics": {
+      "kind": "provenance_vault",
+      "title": "Pre-1931 Public Domain Classics Provenance Vault",
+      "manifest": "sources/public_domain_classics/PROVENANCE_LOCK.json",
+      "legal_lead": "Vera Lindqvist (STUDIO-LEGAL)",
+      "files": 6,
+      "sources": [
+        "marcus_aurelius_meditations_long_1862.txt (Gutenberg #2680, SHA-256: 6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C)",
+        "epictetus_enchiridion_higginson.txt (Gutenberg #45109, SHA-256: 15A09EBD7F782CB64390459A29555140D86FB07F168675D41088A717978C3E4F)",
+        "seneca_dialogues_stewart_1889.txt (Gutenberg #64576, SHA-256: FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B)",
+        "benjamin_franklin_autobiography_1791.txt (Gutenberg #20203, SHA-256: C5BE0E49F68F0876BE480074B9DC0712A8FDBC7FAA7DEF3ACC6765AFBA9BD128)",
+        "aristotle_nicomachean_ethics.txt (Gutenberg #8438, SHA-256: A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059)",
+        "william_james_habit_1890.txt (Gutenberg #16287, SHA-256: 19B854638699E30744278724F7CEB5681AA7893CA89706F11AB4CFDF6A8B50B5)"
+      ],
+      "summary": "Immutable SHA-256 locked pre-1931 Project Gutenberg source texts with full 17 U.S.C. Public Domain clearance and strict clean-room blacklist enforcement."
+    },
+    "shared/focus_packs": {
+      "kind": "shared",
+      "title": "864zeros Compartmentalized Clean-Room Philosophy & Habit Focus Packs",
+      "manifest": "shared/focus_packs/focus_packs_catalog.json",
+      "provenance_lock": "sources/public_domain_classics/PROVENANCE_LOCK.json",
+      "editorial_lead": "Julian Thorne (LEAD-CONTENT)",
+      "legal_lead": "Vera Lindqvist (STUDIO-LEGAL)",
+      "records": 150,
+      "files": 6,
+      "packs": {
+        "marcus_aurelius_meditations": "shared/focus_packs/marcus_aurelius_meditations.json — The Citadel Within: Marcus Aurelius on Daily Self-Command (30 entries)",
+        "stoic_masters_epictetus_seneca": "shared/focus_packs/stoic_masters_epictetus_seneca.json — Sovereign Will: Epictetus & Seneca on Time, Agency, and Focus (30 entries)",
+        "ben_franklin_virtues": "shared/focus_packs/ben_franklin_virtues.json — The 13 Virtues Ledger: Benjamin Franklin's Sequential Focus Method (30 entries)",
+        "aristotle_character": "shared/focus_packs/aristotle_character.json — Excellence by Repetition: Aristotle's Nicomachean Ethics in Practice (30 entries)",
+        "william_james_habit": "shared/focus_packs/william_james_habit.json — The Neuroplastic Groove: William James's 1890 Maxims of Habit (30 entries)"
+      },
+      "summary": "5 compartmentalized Focus Packs (150 total entries) using the { id, citation, text, plain, application, focus_theme } schema + master catalog indexing all 8 ecosystem Focus Packs. 100% pre-1931 Public Domain source text + original 864zeros plain rewrites and behavioral applications."
+    },
     "shared/bible": {
       "kind": "shared",
       "title": "Public-domain Bible key-verse library",

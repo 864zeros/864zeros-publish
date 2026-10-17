@@ -1,0 +1,153 @@
+{
+  "_meta": {
+    "manifest": "PROVENANCE_LOCK.json",
+    "namespace": "sources/public_domain_classics",
+    "author": "Vera Lindqvist (STUDIO-LEGAL — Director of IP, Public Domain Clearance & Provenance)",
+    "co_signers": [
+      "Sloane Sterling (VP-STUDIO — VP of Content, Media & Publishing)",
+      "Julian Thorne (LEAD-CONTENT — Head of Literary IP, Editorial & Focus Packs)",
+      "Cole Mercer (CLO — Chief Legal Officer & General Counsel)"
+    ],
+    "generated": "2026-10-17",
+    "legal_standard": "17 U.S.C. Public Domain — Pre-1931 Publication Safe Harbor & 17 U.S.C. § 102(b) Unprotectability of Ideas, Systems, Processes, and Empirical Principles",
+    "policy": "Every classic philosophy and behavioral habit text in this vault is verified 100% US Public Domain (all original publications and English translations published prior to January 1, 1931). Raw Project Gutenberg plain-text files are locked by SHA-256 hash for immutable auditability and clean-room provenance."
+  },
+  "clean_room_blacklist": {
+    "enforcement": "ZERO-TOLERANCE HARD BLOCK — Enforced across all shared/focus_packs/, apps/, and media/ assets",
+    "prohibited_modern_translations": [
+      "A.S.L. Farquharson (1944, Oxford University Press — URAA US copyright restoration restriction through 2039/2040)",
+      "Gregory Hays (2002, Modern Library — Meditations)",
+      "Robin Waterfield (2021/2022, Basic Books / Univ. of Chicago Press — Meditations & Epictetus)",
+      "Martin Hammond (2006, Penguin Classics — Meditations)",
+      "C. Scot Hicks & David V. Hicks (2002 — The Emperor's Handbook)",
+      "Maxwell Staniforth (1964, Penguin — Meditations)",
+      "Robin Hard (1995/1997/2011/2014, Oxford World's Classics — Meditations & Epictetus)",
+      "Robert Dobbin (2008, Penguin — Epictetus)",
+      "Sharon Lebell (1995, HarperOne — The Art of Living)",
+      "Margaret Graver & A.A. Long (2015, Univ. of Chicago Press — Seneca)",
+      "Elaine Fantham (2010, Oxford — Seneca)",
+      "C.D.N. Costa (1997, Penguin — On the Shortness of Life)",
+      "Robin Campbell (1969, Penguin — Letters from a Stoic)",
+      "Ryan Holiday & Stephen Hanselman (2016, Portfolio — The Daily Stoic custom translations and daily titles)"
+    ],
+    "prohibited_pop_habit_jargon": [
+      "Atomic Habits",
+      "1% Better Every Day",
+      "Plateau of Latent Potential",
+      "The 4 Laws of Behavior Change (Make it Obvious, Attractive, Easy, Satisfying)",
+      "Habit Loop (Cue -> Craving -> Response -> Reward)",
+      "Habit Stacking",
+      "Tiny Habits",
+      "B=MAP",
+      "Maui Habit",
+      "Shine",
+      "The 2-Minute Rule",
+      "Elastic Habits",
+      "Never Miss Twice",
+      "Identity-Based Habits (Every action is a vote...)",
+      "Temptation Bundling",
+      "The Hook Model"
+    ],
+    "mandatory_founder_and_legal_constraints": {
+      "zero_number_66": "NEVER use the number 66 or fake statistical mean/median day counts as a universal habit formation timeline rule (grounded in Buyalskaya et al. 2023 PNAS & Lally et al. 2010 asymptotic automaticity curve).",
+      "zero_word_impulse": "NEVER use the banned word across any Focus Pack entry, plain rewrite, or application prompt; always use 'urge', 'craving', 'pull', 'automatic reaction', or 'sudden inclination'.",
+      "approved_864zeros_terminology": [
+        "Compounding Cadence / The Automaticity Curve / Incremental Mastery",
+        "The 4 Pillars of Behavioral Friction (Cue Visibility, Action Friction, Context Stability, Immediate Reinforcement)",
+        "The Behavioral Cycle (Trigger -> Action -> Reinforcement)",
+        "Routine Anchoring / Premack Chaining",
+        "Context Lock / When-Then Trigger",
+        "Micro-Action / Zero-Friction Floor / Baseline Action / Floor Rep / Full Rep",
+        "Single-Slip Recovery / The 24-Hour Rebound Rule / Continuity Shield",
+        "Character Proof / Aristotelian Habituation",
+        "Primary Focus Habit / Maintenance Mode (The Franklin Focus Cadence)"
+      ]
+    }
+  },
+  "verified_sources": [
+    {
+      "file": "marcus_aurelius_meditations_long_1862.txt",
+      "work_title": "Meditations (The Thoughts of the Emperor Marcus Aurelius Antoninus)",
+      "original_author": "Marcus Aurelius Antoninus (121–180 AD)",
+      "translator_or_edition": "Meric Casaubon (1634, Everyman's Library 1906 ed., intro by W.H.D. Rouse) & George Long (1862, Bell & Daldy / Harvard Classics 1909) — Pre-1931 Public Domain Corpus",
+      "publication_year": 1862,
+      "edition_notes": "Gutenberg #2680 plain-text edition (1634 Casaubon / 1906 J.M. Dent Everyman edition; cross-verified with George Long 1862 & John Jackson 1906 pre-1931 editions)",
+      "gutenberg_id": 2680,
+      "source_url": "https://www.gutenberg.org/cache/epub/2680/pg2680.txt",
+      "size_bytes": 425304,
+      "sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+      "legal_clearance": "17 U.S.C. Public Domain — Pre-1931 Publication (1634 / 1862 / 1906)",
+      "target_focus_pack": "shared/focus_packs/marcus_aurelius_meditations.json"
+    },
+    {
+      "file": "epictetus_enchiridion_higginson.txt",
+      "work_title": "The Enchiridion (Manual of Epictetus)",
+      "original_author": "Epictetus (c. 50–c. 135 AD), compiled by Arrian",
+      "translator_or_edition": "Thomas Wentworth Higginson (1823–1911)",
+      "publication_year": 1865,
+      "edition_notes": "Published 1865 (rev. 1890), Little, Brown, and Co.; Gutenberg #45109",
+      "gutenberg_id": 45109,
+      "source_url": "https://www.gutenberg.org/cache/epub/45109/pg45109.txt",
+      "size_bytes": 91688,
+      "sha256": "15A09EBD7F782CB64390459A29555140D86FB07F168675D41088A717978C3E4F",
+      "legal_clearance": "17 U.S.C. Public Domain — Pre-1931 Publication (1865 / 1890; translator died 1911)",
+      "target_focus_pack": "shared/focus_packs/stoic_masters_epictetus_seneca.json"
+    },
+    {
+      "file": "seneca_dialogues_stewart_1889.txt",
+      "work_title": "Minor Dialogues, Together with the Dialogue On Clemency (including Book X: Of the Shortness of Life & Book IX: Of Peace of Mind)",
+      "original_author": "Lucius Annaeus Seneca (c. 4 BC–65 AD)",
+      "translator_or_edition": "Aubrey Stewart (1844–1901)",
+      "publication_year": 1889,
+      "edition_notes": "Published 1889, George Bell and Sons (London); Gutenberg #64576",
+      "gutenberg_id": 64576,
+      "source_url": "https://www.gutenberg.org/cache/epub/64576/pg64576.txt",
+      "size_bytes": 861507,
+      "sha256": "FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B",
+      "legal_clearance": "17 U.S.C. Public Domain — Pre-1931 Publication (1889; translator died 1901)",
+      "target_focus_pack": "shared/focus_packs/stoic_masters_epictetus_seneca.json"
+    },
+    {
+      "file": "benjamin_franklin_autobiography_1791.txt",
+      "work_title": "The Autobiography of Benjamin Franklin (The 13 Virtues & Daily Ledger Method)",
+      "original_author": "Benjamin Franklin (1706–1790)",
+      "translator_or_edition": "Benjamin Franklin (Original English Manuscript 1771–1790; First Published 1791; Frank Woodworth Pine 1916 ed.)",
+      "publication_year": 1791,
+      "edition_notes": "Gutenberg #20203; original English text written 1771–1790, published 1791 / 1868 Bigelow / 1916 Henry Holt",
+      "gutenberg_id": 20203,
+      "source_url": "https://www.gutenberg.org/cache/epub/20203/pg20203.txt",
+      "size_bytes": 467432,
+      "sha256": "C5BE0E49F68F0876BE480074B9DC0712A8FDBC7FAA7DEF3ACC6765AFBA9BD128",
+      "legal_clearance": "17 U.S.C. Public Domain — Pre-1931 Publication (1791; author died 1790)",
+      "target_focus_pack": "shared/focus_packs/ben_franklin_virtues.json"
+    },
+    {
+      "file": "aristotle_nicomachean_ethics.txt",
+      "work_title": "The Nicomachean Ethics of Aristotle",
+      "original_author": "Aristotle (384–322 BC)",
+      "translator_or_edition": "D.P. Chase (1847, rev. 1911 Everyman's Library, intro by J.A. Smith) / W.D. Ross (1908 Oxford)",
+      "publication_year": 1847,
+      "edition_notes": "Gutenberg #8438 (D.P. Chase 1847 / 1911 J.M. Dent Everyman edition with J.A. Smith introduction; cross-referenced with W.D. Ross 1908)",
+      "gutenberg_id": 8438,
+      "source_url": "https://www.gutenberg.org/cache/epub/8438/pg8438.txt",
+      "size_bytes": 671555,
+      "sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+      "legal_clearance": "17 U.S.C. Public Domain — Pre-1931 Publication (1847 / 1908 / 1911)",
+      "target_focus_pack": "shared/focus_packs/aristotle_character.json"
+    },
+    {
+      "file": "william_james_habit_1890.txt",
+      "work_title": "Habit (from The Principles of Psychology, 1890 & Talks to Teachers on Psychology: Chapter VIII 'The Laws of Habit', 1899)",
+      "original_author": "William James (1842–1910)",
+      "translator_or_edition": "William James (Original American English, Henry Holt and Company, 1890 / 1899)",
+      "publication_year": 1890,
+      "edition_notes": "Gutenberg #16287 (1899 Talks to Teachers on Psychology, Ch. VIII 'The Laws of Habit', which directly incorporates and distills William James's 1890 Chapter IV 'Habit' from The Principles of Psychology)",
+      "gutenberg_id": 16287,
+      "source_url": "https://www.gutenberg.org/cache/epub/16287/pg16287.txt",
+      "size_bytes": 388244,
+      "sha256": "19B854638699E30744278724F7CEB5681AA7893CA89706F11AB4CFDF6A8B50B5",
+      "legal_clearance": "17 U.S.C. Public Domain — Pre-1931 Publication (1890 / 1899; author died 1910)",
+      "target_focus_pack": "shared/focus_packs/william_james_habit.json"
+    }
+  ]
+}
