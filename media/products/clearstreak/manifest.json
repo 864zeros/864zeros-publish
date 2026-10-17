@@ -25,14 +25,16 @@
       "src": "clearstreak-social-shame.mp4",
       "poster": "thumbnail-clearstreak-social-shame.png",
       "angle": "data_over_shame",
-      "duration": 21.91
+      "duration": 21.91,
+      "youtubeUrl": "https://www.youtube.com/watch?v=LgcLffM6pjo"
     },
     {
       "id": "social-privacy",
       "src": "clearstreak-social-privacy.mp4",
       "poster": "thumbnail-clearstreak-social-privacy.png",
       "angle": "private_by_architecture",
-      "duration": 19.3
+      "duration": 19.3,
+      "youtubeUrl": "https://www.youtube.com/watch?v=FuMApQx9WaU"
     }
   ],
   "shots": [

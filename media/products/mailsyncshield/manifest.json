@@ -15,7 +15,8 @@
     "tag": "⏱️ 42s Product Demo",
     "title": "Watch MailSync Shield in Action",
     "desc": "Personalized mail merge directly from Google Sheets using native Gmail quotas. Zero external mail-relay servers, zero contact scraping, zero recurring subscription fees.",
-    "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
+    "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kr-gu11mOWI"
   },
   "social_shorts": [
     {
