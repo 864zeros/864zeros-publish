@@ -1,0 +1,497 @@
+{
+  "pack_id": "seneca_shortness_of_life_30day",
+  "id": "seneca_shortness_of_life_30day",
+  "version": "2.0.0",
+  "volume": 2,
+  "title": "Time Sovereignty: Seneca on the Shortness of Life",
+  "subtitle": "30 Verbatim Pre-1931 Passages from Seneca's De Brevitate Vitae (Aubrey Stewart 1889) on Reclaiming Your Hours from Reactive Busyness",
+  "author": "Lucius Annaeus Seneca (c. 4 BC–65 AD)",
+  "provenance": {
+    "vault_file": "sources/public_domain_classics/seneca_dialogues_stewart_1889.txt",
+    "sha256": "FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B",
+    "bytes": 861507,
+    "gutenberg_id": 64576,
+    "translators_referenced": "Aubrey Stewart (1889, George Bell and Sons — Gutenberg #64576)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication (1889); plain, application, strategic_prompt & micro_action layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
+  "pack_meta": {
+    "pack_id": "seneca_shortness_of_life_30day",
+    "volume": 2,
+    "title": "Time Sovereignty: Seneca on the Shortness of Life",
+    "subtitle": "30 Verbatim Pre-1931 Passages from Seneca's De Brevitate Vitae (Aubrey Stewart 1889) on Reclaiming Your Hours from Reactive Busyness",
+    "author": "Lucius Annaeus Seneca (c. 4 BC–65 AD)",
+    "editorial_lead": "Julian Thorne (LEAD-CONTENT)",
+    "legal_clearance_lead": "Vera Lindqvist (STUDIO-LEGAL)",
+    "studio_vp": "Sloane Sterling (VP-STUDIO)",
+    "source_provenance": {
+      "vault_file": "sources/public_domain_classics/seneca_dialogues_stewart_1889.txt",
+      "sha256": "FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B",
+      "bytes": 861507,
+      "gutenberg_id": 64576,
+      "translators_referenced": "Aubrey Stewart (1889, George Bell and Sons — Gutenberg #64576)",
+      "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication (1889); plain, application, strategic_prompt & micro_action layers are 100% original 2026 864zeros LLC authorship.",
+      "clean_room_verified": true
+    },
+    "entry_count": 30,
+    "schema_version": "2.0.0",
+    "compatible_targets": [
+      "ClearStreak Focus Packs",
+      "864zeros 5x8 QR Companion Journals",
+      "864zeros Standalone Practice Books",
+      "OIA Focus Extensions"
+    ]
+  },
+  "entries": [
+    {
+      "id": "seneca_sol_001",
+      "day": 1,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 1",
+      "text": "Thus it is: we do not receive a short life, but we make it a short one, and we are not poor in days, but wasteful of them.",
+      "plain": "Life is not inherently too brief; we shrink it whenever we scatter our hours across reactive distractions.",
+      "application": "Guard your primary focus window today as your highest-value asset.",
+      "strategic_prompt": "Where did your attention leak yesterday without producing clarity or peace?",
+      "micro_action": "Close every unscheduled browser tab and silence notifications for the next 30 minutes.",
+      "focus_theme": "time_stewardship",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "seneca_sol_002",
+      "day": 2,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 2",
+      "text": "Let us take one of the elders, and say to him, “We perceive that you have arrived at the extreme limits of human life: you are in your hundredth year, or even older.",
+      "plain": "When the mind chases every restless craving, even moments of rest feel turbulent like a sea after a gale.",
+      "application": "Use a physical grounding breath before transitioning between tasks today.",
+      "strategic_prompt": "What unresolved restlessness follows you into your evening rest?",
+      "micro_action": "Execute four slow 4-second box breaths before opening your next task.",
+      "focus_theme": "inner_harbor",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_003",
+      "day": 3,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 3",
+      "text": "What a foolish forgetfulness of our mortality, to put off wholesome counsels until our fiftieth or sixtieth year, and to choose that our lives shall begin at a point which few of us ever reach.",
+      "plain": "When your schedule is dictated entirely by other people's urgency, you cease to belong to yourself.",
+      "application": "Reclaim one uninterrupted block today that belongs strictly to your Primary Focus Habit.",
+      "strategic_prompt": "Whose priorities are currently occupying the prime hours of your morning?",
+      "micro_action": "Decline or defer one low-priority interruption today to protect yourRoutine Anchor.",
+      "focus_theme": "sovereign_self_ownership",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_004",
+      "day": 4,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 4",
+      "text": "You will find that the most powerful and highly-placed men let fall phrases in which they long for leisure, praise it, and prefer it to all the blessings which they enjoy.",
+      "plain": "We readily grant an audience to everyone else's complaints while rarely sitting in honest stillness with our own mind.",
+      "application": "Spend five quiet minutes checking in with your own state before reacting to external noise.",
+      "strategic_prompt": "What internal signal have you been avoiding by staying perpetually busy?",
+      "micro_action": "Write one honest sentence in your journal describing your current emotional baseline.",
+      "focus_theme": "honest_self_inquiry",
+      "halt_triggers": [
+        "LONELY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "seneca_sol_005",
+      "day": 5,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 5",
+      "text": "He, who saw everything depending upon himself alone, who swayed the fortunes of men and of nations, thought that his happiest day would be that on which he laid aside his greatness.",
+      "plain": "Merely accumulating calendar days is not the same as living deliberately; unfocused hours vanish from the ledger.",
+      "application": "Measure today by deliberate presence in your chosen discipline rather than hours spent at a desk.",
+      "strategic_prompt": "Which single hour of your day currently feels the most alive and intentional?",
+      "micro_action": "Log your Primary Focus check-in immediately after completing your anchor habit.",
+      "focus_theme": "living_vs_counting_years",
+      "halt_triggers": [
+        "HOPELESS",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "seneca_sol_006",
+      "day": 6,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 6",
+      "text": "Scarcely had he escaped from their plot, when his already failing age was terrified by his daughter and all the noble youths who were pledged to her cause by adultery with her by way of oath of fidelity.",
+      "plain": "Postponing wise habits until some future decade is the surest way to forfeit the only day you actually hold.",
+      "application": "Begin your discipline today at its minimum viable threshold rather than waiting for ideal conditions.",
+      "strategic_prompt": "What meaningful practice have you been deferring until life 'slows down'?",
+      "micro_action": "Perform a 60-second Floor Rep of your primary habit right now.",
+      "focus_theme": "present_action_over_delay",
+      "halt_triggers": [
+        "HOPELESS",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_007",
+      "day": 7,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 7",
+      "text": "I am living in my Tusculan villa almost as a prisoner.” He adds more afterwards, wherein he laments his former life, complains of the present, and despairs of the future.",
+      "plain": "Status and external applause demand constant maintenance, whereas inner self-command requires zero outside permission.",
+      "application": "Strip away performative busyness today and execute what genuinely builds character.",
+      "strategic_prompt": "Which obligation in your week exists only to maintain appearances?",
+      "micro_action": "Cross one unnecessary status task off today's list.",
+      "focus_theme": "weight_of_false_ambition",
+      "halt_triggers": [
+        "STRESSED",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "seneca_sol_008",
+      "day": 8,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 8",
+      "text": "He, therefore, had time enough: whereas those who gave up a great part of their lives to the people of necessity had not enough.",
+      "plain": "Even those at the peak of worldly influence eventually realize that unhurried mental clarity is the true luxury.",
+      "application": "Build a 15-minute quiet buffer into your afternoon before fatigue triggers a craving.",
+      "strategic_prompt": "How does your nervous system respond when you remove artificial urgency?",
+      "micro_action": "Step away from all screens for 10 minutes at midday.",
+      "focus_theme": "quiet_margin",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_009",
+      "day": 9,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 9",
+      "text": "You have no grounds, therefore, for supposing that any one has lived long, because he has wrinkles or grey hairs: such a man has not lived long, but has only been long alive.",
+      "plain": "When you audit where your days actually go, you discover how little time was consciously chosen.",
+      "application": "Run a clean, shame-free audit of your day's energy expenditure tonight.",
+      "strategic_prompt": "If your calendar were a bank statement, what would it say you value most?",
+      "micro_action": "Write down the three activities that consumed the most time today.",
+      "focus_theme": "audit_of_hours",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "seneca_sol_010",
+      "day": 10,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 10",
+      "text": "Indeed, if the number of every man’s future years could be laid before him, as we can lay that of his past years, how anxious those who found that they had but few years remaining would be to make the most of them?",
+      "plain": "Enduring a chaotic schedule is not the same as directing a meaningful life; agency begins with deliberate choice.",
+      "application": "Choose one deliberate act of focus today instead of passively drifting through the afternoon.",
+      "strategic_prompt": "Are you steering today's routine, or merely surviving it?",
+      "micro_action": "Anchor your core habit to your very next transition cue.",
+      "focus_theme": "presence_over_endurance",
+      "halt_triggers": [
+        "HOPELESS",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "seneca_sol_011",
+      "day": 11,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 11",
+      "text": "Yet it is easy to arrange the distribution of a quantity, however small, if we know how much there is: what you ought to husband most carefully is that which may run short you know not when.",
+      "plain": "People fiercely guard their money and property yet hand away their irreclaimable hours as though time cost nothing.",
+      "application": "Treat every 30-minute block today with the same vigilance you give your financial vault.",
+      "strategic_prompt": "Where are you giving away prime mental energy for zero return?",
+      "micro_action": "Set a strict 25-minute boundary timer on your next meeting or administrative chore.",
+      "focus_theme": "priceless_currency",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_012",
+      "day": 12,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 12",
+      "text": "Why! you are busy, but life is hurrying on: death will be here some time or other, and you must attend to him, whether you will or no.",
+      "plain": "If we saw our remaining days counted out before us, we would immediately stop wasting afternoons on trivial friction.",
+      "application": "Let awareness of finite time sharpen your gratitude and focus rather than creating anxiety.",
+      "strategic_prompt": "What petty irritation can you drop immediately because life is too valuable for it?",
+      "micro_action": "Release one lingering grievance before noon today.",
+      "focus_theme": "finite_horizon",
+      "halt_triggers": [
+        "ANGRY",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "seneca_sol_013",
+      "day": 13,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 13",
+      "text": "Can anything be mentioned which is more insane than the ideas of leisure of those people who boast of their worldly wisdom?",
+      "plain": "When a resource is finite and its exact reserve is unknown, wise stewardship begins with today's allotment.",
+      "application": "Preserve your prime cognitive energy for your keystone discipline before spending it on trivia.",
+      "strategic_prompt": "At what hour of the day is your mental clarity sharpest?",
+      "micro_action": "Schedule your Primary Focus Habit inside your highest-clarity hour tomorrow.",
+      "focus_theme": "careful_husbandry",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_014",
+      "day": 14,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 14",
+      "text": "Whither are you looking, whither are you stretching forward? everything future is uncertain: live now straightway.",
+      "plain": "We often give away our attention in fragments so small we barely notice the loss until the day is gone.",
+      "application": "Batch your messages and notifications into fixed windows so your focus remains whole.",
+      "strategic_prompt": "How many times has your train of thought been fractured in the last two hours?",
+      "micro_action": "Place your phone out of reach in another room for the next 45 minutes.",
+      "focus_theme": "hidden_time_drain",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "seneca_sol_015",
+      "day": 15,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 15",
+      "text": "Our swiftness in making use of our time ought therefore to vie with the swiftness of time itself, and we ought to drink of it as we should of a fast-running torrent which will not be always running.",
+      "plain": "Frenetic busyness is not productivity; life moves swiftly regardless of how anxiously we rush.",
+      "application": "Slow your physical cadence down by 20% while executing your next task with total precision.",
+      "strategic_prompt": "When you rush, what are you actually trying to outrun?",
+      "micro_action": "Walk and speak at a calm, unhurried pace for the next hour.",
+      "focus_theme": "unhurried_purpose",
+      "halt_triggers": [
+        "STRESSED",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "seneca_sol_016",
+      "day": 16,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 16",
+      "text": "If I chose to divide this proposition into separate steps, supported by evidence, many things occur to me by which I could prove that the lives of busy men are the shortest of all.",
+      "plain": "Sacrificing today's peace for the promise of future leisure trades a certainty for a mirage.",
+      "application": "Claim ten minutes of genuine stillness today rather than bargaining with next month.",
+      "strategic_prompt": "What part of your well-being have you been holding hostage to a future milestone?",
+      "micro_action": "Take a 5-minute quiet reset walk outside right now.",
+      "focus_theme": "false_promise_of_someday",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "seneca_sol_017",
+      "day": 17,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 17",
+      "text": "It is the privilege of a tranquil and peaceful mind to review all the parts of its life: but the minds of busy men are like animals under the yoke, and cannot bend aside or look back.",
+      "plain": "When you hand your attention over to external chaos, you surrender the only territory within your command.",
+      "application": "Bring your focus back to the immediate action directly in front of your hands.",
+      "strategic_prompt": "What external uncertainty is currently pulling your mind out of the present room?",
+      "micro_action": "Name three physical objects in your immediate environment and begin your next rep.",
+      "focus_theme": "command_of_the_present",
+      "halt_triggers": [
+        "STRESSED",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "seneca_sol_018",
+      "day": 18,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 18",
+      "text": "Busy men, therefore, possess present time, alone, that being so short that they cannot grasp it, and when they are occupied with many things they lose even this.",
+      "plain": "Because tomorrow rests in uncertainty, the only rational moment to practice wisdom and steadiness is today.",
+      "application": "Execute your daily check-in today without waiting for tomorrow's fresh start.",
+      "strategic_prompt": "What small act of discipline can you complete before dinner tonight?",
+      "micro_action": "Complete your daily Floor Rep and log it immediately.",
+      "focus_theme": "live_now_straightway",
+      "halt_triggers": [
+        "HOPELESS",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_019",
+      "day": 19,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 19",
+      "text": "My friend Fabianus used to say that he was not sure that it was not better not to apply oneself to any studies at all than to become interested in these.",
+      "plain": "Time flows like a swift current; only decisive, immediate action draws nourishment from the passing hour.",
+      "application": "Initiate your planned routine within five seconds of encountering your When-Then cue.",
+      "strategic_prompt": "Where does hesitation creep in between your cue and your action?",
+      "micro_action": "Lay out the physical tools for tomorrow's habit tonight before bed.",
+      "focus_theme": "decisive_momentum",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "seneca_sol_020",
+      "day": 20,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 20",
+      "text": "None of these men will force you to die, but all of them will teach you how to die: none of these will waste your time, but will add his own to it.",
+      "plain": "A mind that never practices quiet self-command in daily life is caught unprepared when real storms arrive.",
+      "application": "Treat today's small friction moments as training reps for deeper resilience.",
+      "strategic_prompt": "How did your most recent challenge test your daily habits?",
+      "micro_action": "Practice a 60-second calm pause the next time a minor delay occurs today.",
+      "focus_theme": "lifelong_readiness",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_021",
+      "day": 21,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 21",
+      "text": "The wise man’s life, therefore, includes much: he is not hedged in by the same limits which confine others: he alone is exempt from the laws by which mankind is governed: all ages serve him like a god.",
+      "plain": "Drift happens imperceptibly when we never pause to observe the passing of individual days.",
+      "application": "End your day with a two-minute review so no 24-hour cycle passes unexamined.",
+      "strategic_prompt": "What single moment from today deserves to be remembered?",
+      "micro_action": "Record one sentence of gratitude or progress in your evening check-in.",
+      "focus_theme": "daily_awareness",
+      "halt_triggers": [
+        "LONELY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "seneca_sol_022",
+      "day": 22,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 22",
+      "text": "If any time be past, he recals it by his memory; if it be present, he uses it; if it be future, he anticipates it: his life is a long one because he concentrates all times into it.",
+      "plain": "A person who acts with integrity and steadiness can look back on past days with calm satisfaction rather than regret.",
+      "application": "Choose the action today that your future self will review with quiet respect tonight.",
+      "strategic_prompt": "Which choice in front of you right now aligns with your long-term character?",
+      "micro_action": "Do the hardest two minutes of your deferred task right now.",
+      "focus_theme": "clear_conscience_review",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "seneca_sol_023",
+      "day": 23,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 23",
+      "text": "How can the nights for which men pay so dear fail to appear of the shortest? they lose the day in looking forward to the night, and lose the night through fear of the dawn.",
+      "plain": "The present arrives one day and one hour at a time; mastering a streak requires only mastering this single hour.",
+      "application": "Shrink your time horizon to the current hour whenever a long-term goal feels overwhelming.",
+      "strategic_prompt": "Can you remain steady for just the next sixty minutes?",
+      "micro_action": "Commit to clean focus for the next single hour without worrying about next week.",
+      "focus_theme": "one_hour_at_a_time",
+      "halt_triggers": [
+        "STRESSED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "seneca_sol_024",
+      "day": 24,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 24",
+      "text": "Do our own preferments trouble us? nay, those of other men occupy more of our time.",
+      "plain": "A tranquil mind can survey its whole journey clearly, whereas frantic busyness keeps the head bowed under a yoke.",
+      "application": "Step back from the immediate grind at midday to view your broader trajectory.",
+      "strategic_prompt": "What cumulative progress have you already built over the past month?",
+      "micro_action": "Open your progress ledger and acknowledge every day you have already banked.",
+      "focus_theme": "unshackled_perspective",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "seneca_sol_025",
+      "day": 25,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 25",
+      "text": "Has he grown old in the salaried management of other people’s property? then he becomes occupied with his own.",
+      "plain": "When you scatter yourself across a dozen competing tasks, even the present moment slips through your fingers.",
+      "application": "Do one thing at a time with complete presence until it is finished.",
+      "strategic_prompt": "What two tasks are you currently trying to half-do simultaneously?",
+      "micro_action": "Close every secondary window and complete the single item in front of you.",
+      "focus_theme": "single_pointed_attention",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "seneca_sol_026",
+      "day": 26,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 26",
+      "text": "There will never be any want of strict economists or of laborious workers: slow-going beasts of burden are better suited for carrying loads than well-bred horses, whose generous swiftness no one would encumber with a heavy pack.",
+      "plain": "Even a brief span of time is richly sufficient when every day is lived with deliberate self-command.",
+      "application": "Measure today by the quality of your attention rather than the quantity of your output.",
+      "strategic_prompt": "What would make today feel complete even if nothing else on your list got done?",
+      "micro_action": "Complete your Primary Focus Habit before checking any evening feeds.",
+      "focus_theme": "sufficiency_of_a_steady_life",
+      "halt_triggers": [
+        "TIRED",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "seneca_sol_027",
+      "day": 27,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 27",
+      "text": "In this course of life there await you many good things, such as love and practice of the virtues, forgetfulness of passions, knowledge of how to live and die, deep repose.",
+      "plain": "Through verified classical wisdom, you can sit in counsel with the steadiness of the ancients at any hour.",
+      "application": "Read today's passage slowly twice, letting its cadence settle your breathing.",
+      "strategic_prompt": "Which timeless principle has anchored you most reliably this week?",
+      "micro_action": "Copy one phrase from today's reading onto an index card or journal page.",
+      "focus_theme": "companionship_of_the_wise",
+      "halt_triggers": [
+        "LONELY",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "seneca_sol_028",
+      "day": 28,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 28",
+      "text": "When, therefore, you see a man often wear the purple robes of office, and hear his name often repeated in the forum, do not envy him: he gains these things by losing so much of his life.",
+      "plain": "Consuming endless trivial noise drains the exact mental bandwidth needed for real self-transformation.",
+      "application": "Replace 15 minutes of aimless scrolling today with quiet reflection or physical movement.",
+      "strategic_prompt": "What information have you consumed today that has zero bearing on your life or character?",
+      "micro_action": "Turn off autoplay and close your social feed right now.",
+      "focus_theme": "freedom_from_trivial_curiosity",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "seneca_sol_029",
+      "day": 29,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 29",
+      "text": "Some, while telling off extreme old age, like youth, for new aspirations, have found it fail from sheer weakness amid great and presumptuous enterprises.",
+      "plain": "After enduring turbulent seasons, wisdom lies in deliberately steering your daily routine into calmer waters.",
+      "application": "Simplify your evening routine tonight so your mind enters rest unagitated.",
+      "strategic_prompt": "What unnecessary storm can you step out of this week?",
+      "micro_action": "Dim the lights 30 minutes before sleep and leave your phone outside the bedroom.",
+      "focus_theme": "peaceful_haven",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "seneca_sol_030",
+      "day": 30,
+      "citation": "Seneca, Of the Shortness of Life (tr. Aubrey Stewart 1889) · Selection 30",
+      "text": "Yet many are of the same mind: they retain their wish for labour longer than their capacity for it, and fight against their bodily weakness; they think old age an evil for no other reason than because it lays them on the shelf.",
+      "plain": "External applause is bought at the cost of your own hours; never trade inner sovereignty for crowd approval.",
+      "application": "Anchor your worth in private consistency ('Data Over Shame') rather than public praise.",
+      "strategic_prompt": "What habit would you still practice faithfully even if no one ever knew?",
+      "micro_action": "Log today's private check-in and honor your quiet consistency.",
+      "focus_theme": "protecting_your_life_equity",
+      "halt_triggers": [
+        "LONELY",
+        "ANGRY"
+      ]
+    }
+  ]
+}

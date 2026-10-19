@@ -1,0 +1,1210 @@
+{
+  "manifest_version": "1.0.0",
+  "generated_at": "2026-10-19T03:20:41Z",
+  "pack_name": "halt_kjv_scripture",
+  "pack_id": "864z_scripture_core_kjv",
+  "template_id": "864z_social_video_short_9x16_v1",
+  "total_reels": 24,
+  "reels": [
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_01",
+      "entry_id": "kjv_hungry_01",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Scarcity & Unmet Appetite",
+      "reference": "John 6:35 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=1&trigger=HUNGRY&ref=kjv_hungry_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, scarcity & unmet appetite—hear John 6:35 (KJV): \"And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.\" In plain terms: Jesus told them: I am the bread that truly sustains life; whoever comes to me will not be ruled by inner emptiness, and whoever trusts me will have their deepest thirst satisfied. Your sixty-second Floor Rep right now: Drink a full glass of water slowly, take three steady breaths, and delay acting on your current craving for five quiet minutes."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking John 6:35 (KJV) (HUNGRY: Craving, Scarcity & Unmet Appetite), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for John 6:35 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Scarcity & Unmet Appetite)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.” — John 6:35 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Jesus told them: I am the bread that truly sustains life; whoever comes to me will not be ruled by inner emptiness, and whoever trusts me will have their deepest thirst satisfied."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Drink a full glass of water slowly, take three steady breaths, and delay acting on your current craving for five quiet minutes.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=1&trigger=HUNGRY&ref=kjv_hungry_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_02",
+      "entry_id": "kjv_hungry_02",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Scarcity & Unmet Appetite",
+      "reference": "Proverbs 25:28 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=2&trigger=HUNGRY&ref=kjv_hungry_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, scarcity & unmet appetite—hear Proverbs 25:28 (KJV): \"He that hath no rule over his own spirit is like a city that is broken down, and without walls.\" In plain terms: A person who leaves their inner appetites unguarded is like a city with shattered walls—exposed to every passing pull and distraction. Your sixty-second Floor Rep right now: Rebuild one wall right now: close the tab, step away from the cabinet or screen, and write down one clear boundary for the next hour."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Proverbs 25:28 (KJV) (HUNGRY: Craving, Scarcity & Unmet Appetite), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Proverbs 25:28 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Scarcity & Unmet Appetite)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“He that hath no rule over his own spirit is like a city that is broken down, and without walls.” — Proverbs 25:28 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "A person who leaves their inner appetites unguarded is like a city with shattered walls—exposed to every passing pull and distraction."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Rebuild one wall right now: close the tab, step away from the cabinet or screen, and write down one clear boundary for the next hour.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=2&trigger=HUNGRY&ref=kjv_hungry_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_03",
+      "entry_id": "kjv_hungry_03",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Scarcity & Unmet Appetite",
+      "reference": "Genesis 25:34 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=3&trigger=HUNGRY&ref=kjv_hungry_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, scarcity & unmet appetite—hear Genesis 25:34 (KJV): \"Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.\" In plain terms: In a moment of physical depletion, Esau traded away his enduring inheritance for a single bowl of stew—exchanging what mattered forever for what felt urgent right now. Your sixty-second Floor Rep right now: Name your 'birthright'—the core commitment you are protecting this week—out loud before making your next decision."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Genesis 25:34 (KJV) (HUNGRY: Craving, Scarcity & Unmet Appetite), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Genesis 25:34 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Scarcity & Unmet Appetite)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright.” — Genesis 25:34 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "In a moment of physical depletion, Esau traded away his enduring inheritance for a single bowl of stew—exchanging what mattered forever for what felt urgent right now."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Name your 'birthright'—the core commitment you are protecting this week—out loud before making your next decision.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=3&trigger=HUNGRY&ref=kjv_hungry_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_04",
+      "entry_id": "kjv_hungry_04",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Scarcity & Unmet Appetite",
+      "reference": "1 Corinthians 6:12 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=4&trigger=HUNGRY&ref=kjv_hungry_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, scarcity & unmet appetite—hear 1 Corinthians 6:12 (KJV): \"All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.\" In plain terms: Even when something is permitted, it is not always constructive; I refuse to hand mastery of my life over to any appetite or habit. Your sixty-second Floor Rep right now: Practice a deliberate refusal: choose one small physical comfort to postpone for 30 minutes to prove your agency."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking 1 Corinthians 6:12 (KJV) (HUNGRY: Craving, Scarcity & Unmet Appetite), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for 1 Corinthians 6:12 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Scarcity & Unmet Appetite)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.” — 1 Corinthians 6:12 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Even when something is permitted, it is not always constructive; I refuse to hand mastery of my life over to any appetite or habit."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Practice a deliberate refusal: choose one small physical comfort to postpone for 30 minutes to prove your agency.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=4&trigger=HUNGRY&ref=kjv_hungry_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_05",
+      "entry_id": "kjv_angry_01",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Friction, Resentment & Reactive Heat",
+      "reference": "James 1:19-20 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=5&trigger=ANGRY&ref=kjv_angry_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—friction, resentment & reactive heat—hear James 1:19-20 (KJV): \"Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: For the wrath of man worketh not the righteousness of God.\" In plain terms: Be quick to listen, unhurried when you speak, and slow to let anger take the wheel—because human rage never builds the good life God intends. Your sixty-second Floor Rep right now: Institute a 90-second vocal and keyboard pause: do not send the message or speak the retort until your breathing slows."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking James 1:19-20 (KJV) (ANGRY: Friction, Resentment & Reactive Heat), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for James 1:19-20 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Friction, Resentment & Reactive Heat)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: For the wrath of man worketh not the righteousness of God.” — James 1:19-20 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Be quick to listen, unhurried when you speak, and slow to let anger take the wheel—because human rage never builds the good life God intends."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Institute a 90-second vocal and keyboard pause: do not send the message or speak the retort until your breathing slows.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=5&trigger=ANGRY&ref=kjv_angry_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_06",
+      "entry_id": "kjv_angry_02",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Friction, Resentment & Reactive Heat",
+      "reference": "Ephesians 4:26-27 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=6&trigger=ANGRY&ref=kjv_angry_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—friction, resentment & reactive heat—hear Ephesians 4:26-27 (KJV): \"Be ye angry, and sin not: let not the sun go down upon your wrath: Neither give place to the devil.\" In plain terms: When anger rises, do not let it harden into destructive action or carry over into tomorrow's ledger; refuse to give resentment a permanent room in your house. Your sixty-second Floor Rep right now: Write the grievance in one raw sentence on paper, then write one constructive action you control beneath it."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Ephesians 4:26-27 (KJV) (ANGRY: Friction, Resentment & Reactive Heat), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Ephesians 4:26-27 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Friction, Resentment & Reactive Heat)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Be ye angry, and sin not: let not the sun go down upon your wrath: Neither give place to the devil.” — Ephesians 4:26-27 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "When anger rises, do not let it harden into destructive action or carry over into tomorrow's ledger; refuse to give resentment a permanent room in your house."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write the grievance in one raw sentence on paper, then write one constructive action you control beneath it.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=6&trigger=ANGRY&ref=kjv_angry_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_07",
+      "entry_id": "kjv_angry_03",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Friction, Resentment & Reactive Heat",
+      "reference": "Proverbs 15:1 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=7&trigger=ANGRY&ref=kjv_angry_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—friction, resentment & reactive heat—hear Proverbs 15:1 (KJV): \"A soft answer turneth away wrath: but grievous words stir up anger.\" In plain terms: A calm, measured reply de-escalates tension immediately, while sharp, biting words pour fuel onto the fire. Your sixty-second Floor Rep right now: Lower your voice volume by twenty percent and slow your cadence in half before answering."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Proverbs 15:1 (KJV) (ANGRY: Friction, Resentment & Reactive Heat), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Proverbs 15:1 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Friction, Resentment & Reactive Heat)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“A soft answer turneth away wrath: but grievous words stir up anger.” — Proverbs 15:1 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "A calm, measured reply de-escalates tension immediately, while sharp, biting words pour fuel onto the fire."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Lower your voice volume by twenty percent and slow your cadence in half before answering.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=7&trigger=ANGRY&ref=kjv_angry_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_08",
+      "entry_id": "kjv_angry_04",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Friction, Resentment & Reactive Heat",
+      "reference": "Romans 12:21 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=8&trigger=ANGRY&ref=kjv_angry_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—friction, resentment & reactive heat—hear Romans 12:21 (KJV): \"Be not overcome of evil, but overcome evil with good.\" In plain terms: Do not let another person's hostility pull you down to their level; conquer the friction by responding with deliberate steadiness and good. Your sixty-second Floor Rep right now: Perform one small, constructive Floor Rep right now to anchor yourself in your own standard rather than their provocation."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Romans 12:21 (KJV) (ANGRY: Friction, Resentment & Reactive Heat), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Romans 12:21 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Friction, Resentment & Reactive Heat)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Be not overcome of evil, but overcome evil with good.” — Romans 12:21 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Do not let another person's hostility pull you down to their level; conquer the friction by responding with deliberate steadiness and good."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Perform one small, constructive Floor Rep right now to anchor yourself in your own standard rather than their provocation.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=8&trigger=ANGRY&ref=kjv_angry_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_09",
+      "entry_id": "kjv_lonely_01",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Isolation, Unseen Effort & Disconnection",
+      "reference": "John 15:5 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=9&trigger=LONELY&ref=kjv_lonely_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—isolation, unseen effort & disconnection—hear John 15:5 (KJV): \"I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.\" In plain terms: You are not a severed branch trying to survive on your own; when you stay rooted in Christ's quiet presence, steady fruit grows naturally. Your sixty-second Floor Rep right now: Sit still for 60 seconds without reaching for a feed or distraction; practice quiet solitude as connection rather than isolation."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking John 15:5 (KJV) (LONELY: Isolation, Unseen Effort & Disconnection), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for John 15:5 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Isolation, Unseen Effort & Disconnection)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.” — John 15:5 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "You are not a severed branch trying to survive on your own; when you stay rooted in Christ's quiet presence, steady fruit grows naturally."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Sit still for 60 seconds without reaching for a feed or distraction; practice quiet solitude as connection rather than isolation.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=9&trigger=LONELY&ref=kjv_lonely_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_10",
+      "entry_id": "kjv_lonely_02",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Isolation, Unseen Effort & Disconnection",
+      "reference": "Acts 2:42 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=10&trigger=LONELY&ref=kjv_lonely_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—isolation, unseen effort & disconnection—hear Acts 2:42 (KJV): \"And they continued stedfastly in the apostles' doctrine and fellowship, and in breaking of bread, and in prayers.\" In plain terms: Resilience was never meant to be carried in total isolation; the early community stayed steady by showing up together for shared truth, shared meals, and prayer. Your sixty-second Floor Rep right now: Send one honest, encouraging check-in note to a friend or mentor today without asking for anything in return."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Acts 2:42 (KJV) (LONELY: Isolation, Unseen Effort & Disconnection), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Acts 2:42 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Isolation, Unseen Effort & Disconnection)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“And they continued stedfastly in the apostles' doctrine and fellowship, and in breaking of bread, and in prayers.” — Acts 2:42 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Resilience was never meant to be carried in total isolation; the early community stayed steady by showing up together for shared truth, shared meals, and prayer."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Send one honest, encouraging check-in note to a friend or mentor today without asking for anything in return.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=10&trigger=LONELY&ref=kjv_lonely_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_11",
+      "entry_id": "kjv_lonely_03",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Isolation, Unseen Effort & Disconnection",
+      "reference": "Psalms 139:7-10 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=11&trigger=LONELY&ref=kjv_lonely_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—isolation, unseen effort & disconnection—hear Psalms 139:7-10 (KJV): \"Whither shall I go from thy spirit? or whither shall I flee from thy presence? If I take the wings of the morning, and dwell in the uttermost parts of the sea; Even there shall thy hand lead me, and thy right hand shall hold me.\" In plain terms: There is no corner of life so remote or quiet that you drop out of God's sight; even at the farthest edge of the sea, His hand steadies and holds you. Your sixty-second Floor Rep right now: Place your hand flat on your desk or journal page and take three slow breaths, acknowledging that this quiet moment is fully seen."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Psalms 139:7-10 (KJV) (LONELY: Isolation, Unseen Effort & Disconnection), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Psalms 139:7-10 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Isolation, Unseen Effort & Disconnection)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Whither shall I go from thy spirit? or whither shall I flee from thy presence? If I take the wings of the morning, and dwell in the uttermost parts of the sea; Even there shall thy hand lead me, and thy right hand shall hold me.” — Psalms 139:7-10 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "There is no corner of life so remote or quiet that you drop out of God's sight; even at the farthest edge of the sea, His hand steadies and holds you."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Place your hand flat on your desk or journal page and take three slow breaths, acknowledging that this quiet moment is fully seen.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=11&trigger=LONELY&ref=kjv_lonely_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_12",
+      "entry_id": "kjv_lonely_04",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Isolation, Unseen Effort & Disconnection",
+      "reference": "Ephesians 2:19 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=12&trigger=LONELY&ref=kjv_lonely_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—isolation, unseen effort & disconnection—hear Ephesians 2:19 (KJV): \"Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;\" In plain terms: You are no longer an outsider looking in through the window; you belong to a permanent household and a shared lineage of faith. Your sixty-second Floor Rep right now: Close social validation tabs and complete one quiet task that serves your real-world household or neighbor."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Ephesians 2:19 (KJV) (LONELY: Isolation, Unseen Effort & Disconnection), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Ephesians 2:19 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Isolation, Unseen Effort & Disconnection)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;” — Ephesians 2:19 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "You are no longer an outsider looking in through the window; you belong to a permanent household and a shared lineage of faith."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Close social validation tabs and complete one quiet task that serves your real-world household or neighbor.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=12&trigger=LONELY&ref=kjv_lonely_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_13",
+      "entry_id": "kjv_tired_01",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Exhaustion, Burnout & Decision Fatigue",
+      "reference": "Ecclesiastes 4:6 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=13&trigger=TIRED&ref=kjv_tired_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—exhaustion, burnout & decision fatigue—hear Ecclesiastes 4:6 (KJV): \"Better is an handful with quietness, than both the hands full with travail and vexation of spirit.\" In plain terms: One open hand filled with calm contentment is far better than two hands overloaded with frantic hustle and inner exhaustion. Your sixty-second Floor Rep right now: Scale today's target down to your minimum Floor Rep, cross off one non-essential task, and protect your rest."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Ecclesiastes 4:6 (KJV) (TIRED: Exhaustion, Burnout & Decision Fatigue), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Ecclesiastes 4:6 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Exhaustion, Burnout & Decision Fatigue)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Better is an handful with quietness, than both the hands full with travail and vexation of spirit.” — Ecclesiastes 4:6 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "One open hand filled with calm contentment is far better than two hands overloaded with frantic hustle and inner exhaustion."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Scale today's target down to your minimum Floor Rep, cross off one non-essential task, and protect your rest.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=13&trigger=TIRED&ref=kjv_tired_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_14",
+      "entry_id": "kjv_tired_02",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Exhaustion, Burnout & Decision Fatigue",
+      "reference": "Psalms 23:2-3 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=14&trigger=TIRED&ref=kjv_tired_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—exhaustion, burnout & decision fatigue—hear Psalms 23:2-3 (KJV): \"He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.\" In plain terms: The Shepherd does not drive the flock to collapse; He leads you to lie down in quiet pastures beside still water so your depleted soul can be restored. Your sixty-second Floor Rep right now: Step away from all glowing screens for five minutes, rest your eyes on a distant point, and let your shoulders drop."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Psalms 23:2-3 (KJV) (TIRED: Exhaustion, Burnout & Decision Fatigue), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Psalms 23:2-3 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Exhaustion, Burnout & Decision Fatigue)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“He maketh me to lie down in green pastures: he leadeth me beside the still waters. He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.” — Psalms 23:2-3 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "The Shepherd does not drive the flock to collapse; He leads you to lie down in quiet pastures beside still water so your depleted soul can be restored."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Step away from all glowing screens for five minutes, rest your eyes on a distant point, and let your shoulders drop.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=14&trigger=TIRED&ref=kjv_tired_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_15",
+      "entry_id": "kjv_tired_03",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Exhaustion, Burnout & Decision Fatigue",
+      "reference": "Philippians 4:13 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=15&trigger=TIRED&ref=kjv_tired_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—exhaustion, burnout & decision fatigue—hear Philippians 4:13 (KJV): \"I can do all things through Christ which strengtheneth me.\" In plain terms: In seasons of plenty and seasons of deep depletion alike, I have the quiet endurance to face whatever this hour asks through Christ who infuses strength. Your sixty-second Floor Rep right now: Complete one 60-second Floor Rep of your core commitment, log it cleanly, and give yourself permission to rest."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Philippians 4:13 (KJV) (TIRED: Exhaustion, Burnout & Decision Fatigue), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Philippians 4:13 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Exhaustion, Burnout & Decision Fatigue)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“I can do all things through Christ which strengtheneth me.” — Philippians 4:13 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "In seasons of plenty and seasons of deep depletion alike, I have the quiet endurance to face whatever this hour asks through Christ who infuses strength."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Complete one 60-second Floor Rep of your core commitment, log it cleanly, and give yourself permission to rest.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=15&trigger=TIRED&ref=kjv_tired_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_16",
+      "entry_id": "kjv_tired_04",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Exhaustion, Burnout & Decision Fatigue",
+      "reference": "Genesis 2:2-3 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=16&trigger=TIRED&ref=kjv_tired_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—exhaustion, burnout & decision fatigue—hear Genesis 2:2-3 (KJV): \"And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made. And God blessed the seventh day, and sanctified it:\" In plain terms: Even the Creator of the universe brought His work to a deliberate stop and blessed rest as a sacred part of the design. Your sixty-second Floor Rep right now: Declare a hard shutdown hour for tonight right now and set your phone charger outside your sleeping reach."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Genesis 2:2-3 (KJV) (TIRED: Exhaustion, Burnout & Decision Fatigue), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Genesis 2:2-3 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Exhaustion, Burnout & Decision Fatigue)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made. And God blessed the seventh day, and sanctified it:” — Genesis 2:2-3 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Even the Creator of the universe brought His work to a deliberate stop and blessed rest as a sacred part of the design."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Declare a hard shutdown hour for tonight right now and set your phone charger outside your sleeping reach.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=16&trigger=TIRED&ref=kjv_tired_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_17",
+      "entry_id": "kjv_stressed_01",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Scattered Attention & Future Dread",
+      "reference": "Philippians 4:6-7 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=17&trigger=STRESSED&ref=kjv_stressed_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—overwhelm, scattered attention & future dread—hear Philippians 4:6-7 (KJV): \"Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.\" In plain terms: Do not let anxious rehearsal pull your mind apart; bring what weighs on you honestly to God with gratitude, and His peace will stand guard at the door of your heart and thoughts. Your sixty-second Floor Rep right now: Write down the single worry on paper, write one thing you are grateful for beside it, and do only the next concrete five-minute step."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Philippians 4:6-7 (KJV) (STRESSED: Overwhelm, Scattered Attention & Future Dread), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Philippians 4:6-7 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Overwhelm, Scattered Attention & Future Dread)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.” — Philippians 4:6-7 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Do not let anxious rehearsal pull your mind apart; bring what weighs on you honestly to God with gratitude, and His peace will stand guard at the door of your heart and thoughts."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write down the single worry on paper, write one thing you are grateful for beside it, and do only the next concrete five-minute step.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=17&trigger=STRESSED&ref=kjv_stressed_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_18",
+      "entry_id": "kjv_stressed_02",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Scattered Attention & Future Dread",
+      "reference": "1 Corinthians 10:13 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=18&trigger=STRESSED&ref=kjv_stressed_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—overwhelm, scattered attention & future dread—hear 1 Corinthians 10:13 (KJV): \"There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.\" In plain terms: The pressure or pull you feel right now is not unique or insurmountable; God always leaves a clear exit door in the room so you do not have to cave in. Your sixty-second Floor Rep right now: Take the physical exit door immediately: stand up, change your physical posture or room for two minutes, and reset."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking 1 Corinthians 10:13 (KJV) (STRESSED: Overwhelm, Scattered Attention & Future Dread), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for 1 Corinthians 10:13 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Overwhelm, Scattered Attention & Future Dread)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.” — 1 Corinthians 10:13 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "The pressure or pull you feel right now is not unique or insurmountable; God always leaves a clear exit door in the room so you do not have to cave in."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Take the physical exit door immediately: stand up, change your physical posture or room for two minutes, and reset.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=18&trigger=STRESSED&ref=kjv_stressed_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_19",
+      "entry_id": "kjv_stressed_03",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Scattered Attention & Future Dread",
+      "reference": "James 1:22-25 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=19&trigger=STRESSED&ref=kjv_stressed_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—overwhelm, scattered attention & future dread—hear James 1:22-25 (KJV): \"But be ye doers of the word, and not hearers only, deceiving your own selves.\" In plain terms: Do not trap yourself in endless analysis and consumption; step out of mental spinning by executing one honest action. Your sixty-second Floor Rep right now: Stop reading or planning and execute 120 seconds of direct physical action on the task in front of you."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking James 1:22-25 (KJV) (STRESSED: Overwhelm, Scattered Attention & Future Dread), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for James 1:22-25 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Overwhelm, Scattered Attention & Future Dread)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“But be ye doers of the word, and not hearers only, deceiving your own selves.” — James 1:22-25 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Do not trap yourself in endless analysis and consumption; step out of mental spinning by executing one honest action."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Stop reading or planning and execute 120 seconds of direct physical action on the task in front of you.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=19&trigger=STRESSED&ref=kjv_stressed_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_20",
+      "entry_id": "kjv_stressed_04",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Scattered Attention & Future Dread",
+      "reference": "Acts 27:22, 25 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=20&trigger=STRESSED&ref=kjv_stressed_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—overwhelm, scattered attention & future dread—hear Acts 27:22, 25 (KJV): \"And now I exhort you to be of good cheer: for there shall be no loss of any man's life among you, but of the ship. Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me.\" In plain terms: Even when the storm batters the vessel and outer plans break apart, your core life and calling remain intact—hold steady to the anchor. Your sixty-second Floor Rep right now: Drop one disrupted secondary plan for today without guilt and anchor yourself to one calm evening habit."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Acts 27:22, 25 (KJV) (STRESSED: Overwhelm, Scattered Attention & Future Dread), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Acts 27:22, 25 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Overwhelm, Scattered Attention & Future Dread)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“And now I exhort you to be of good cheer: for there shall be no loss of any man's life among you, but of the ship. Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me.” — Acts 27:22, 25 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Even when the storm batters the vessel and outer plans break apart, your core life and calling remain intact—hold steady to the anchor."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Drop one disrupted secondary plan for today without guilt and anchor yourself to one calm evening habit.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=20&trigger=STRESSED&ref=kjv_stressed_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_21",
+      "entry_id": "kjv_hopeless_01",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Despair, Shame After Failure & Futility",
+      "reference": "Romans 8:1, 38-39 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=21&trigger=HOPELESS&ref=kjv_hopeless_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—despair, shame after failure & futility—hear Romans 8:1, 38-39 (KJV): \"There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.\" In plain terms: A stumble does not issue a verdict of condemnation against your life; nothing in heaven or earth can sever you from the love that rebuilds you. Your sixty-second Floor Rep right now: Cancel the shame spiral immediately: record one honest recovery check-in today and step forward cleanly."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Romans 8:1, 38-39 (KJV) (HOPELESS: Despair, Shame After Failure & Futility), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Romans 8:1, 38-39 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Despair, Shame After Failure & Futility)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.” — Romans 8:1, 38-39 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "A stumble does not issue a verdict of condemnation against your life; nothing in heaven or earth can sever you from the love that rebuilds you."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Cancel the shame spiral immediately: record one honest recovery check-in today and step forward cleanly.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=21&trigger=HOPELESS&ref=kjv_hopeless_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_22",
+      "entry_id": "kjv_hopeless_02",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Despair, Shame After Failure & Futility",
+      "reference": "Ecclesiastes 3:1, 11 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=22&trigger=HOPELESS&ref=kjv_hopeless_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—despair, shame after failure & futility—hear Ecclesiastes 3:1, 11 (KJV): \"To every thing there is a season, and a time to every purpose under the heaven: He hath made every thing beautiful in his time:\" In plain terms: Winter is a season, not a permanent sentence; God brings coherence and beauty out of barren stretches in their proper time. Your sixty-second Floor Rep right now: Plant one tiny seed for tomorrow morning: lay out your journal, water glass, or tools before going to sleep."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Ecclesiastes 3:1, 11 (KJV) (HOPELESS: Despair, Shame After Failure & Futility), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Ecclesiastes 3:1, 11 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Despair, Shame After Failure & Futility)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“To every thing there is a season, and a time to every purpose under the heaven: He hath made every thing beautiful in his time:” — Ecclesiastes 3:1, 11 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Winter is a season, not a permanent sentence; God brings coherence and beauty out of barren stretches in their proper time."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Plant one tiny seed for tomorrow morning: lay out your journal, water glass, or tools before going to sleep.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=22&trigger=HOPELESS&ref=kjv_hopeless_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_23",
+      "entry_id": "kjv_hopeless_03",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Despair, Shame After Failure & Futility",
+      "reference": "Psalms 34:18 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=23&trigger=HOPELESS&ref=kjv_hopeless_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—despair, shame after failure & futility—hear Psalms 34:18 (KJV): \"The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.\" In plain terms: God does not stand at a distance when you are bruised or discouraged; He draws closest to those whose hearts feel heavy and humbled. Your sixty-second Floor Rep right now: Write three honest words describing how you feel on the page, breathe out slowly, and treat yourself with quiet mercy."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Psalms 34:18 (KJV) (HOPELESS: Despair, Shame After Failure & Futility), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Psalms 34:18 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Despair, Shame After Failure & Futility)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.” — Psalms 34:18 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "God does not stand at a distance when you are bruised or discouraged; He draws closest to those whose hearts feel heavy and humbled."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write three honest words describing how you feel on the page, breathe out slowly, and treat yourself with quiet mercy.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=23&trigger=HOPELESS&ref=kjv_hopeless_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_scripture_core_kjv_reel_24",
+      "entry_id": "kjv_hopeless_04",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Despair, Shame After Failure & Futility",
+      "reference": "Revelation 21:4-5 (KJV)",
+      "qr_payload": "864z://cs/entry?book=864z_scripture_core_kjv&page=24&trigger=HOPELESS&ref=kjv_hopeless_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—despair, shame after failure & futility—hear Revelation 21:4-5 (KJV): \"And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. And he that sat upon the throne said, Behold, I make all things new.\" In plain terms: Suffering and exhaustion do not get the final word in history or in your life; the One on the throne promises: Behold, I make all things new. Your sixty-second Floor Rep right now: Draw a clean horizontal line across your page to mark a fresh start right now, and complete one two-minute restorative action."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Revelation 21:4-5 (KJV) (HOPELESS: Despair, Shame After Failure & Futility), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Revelation 21:4-5 (KJV)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Despair, Shame After Failure & Futility)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. And he that sat upon the throne said, Behold, I make all things new.” — Revelation 21:4-5 (KJV)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Suffering and exhaustion do not get the final word in history or in your life; the One on the throne promises: Behold, I make all things new."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Draw a clean horizontal line across your page to mark a fresh start right now, and complete one two-minute restorative action.",
+          "qr_overlay": "864z://cs/entry?book=864z_scripture_core_kjv&page=24&trigger=HOPELESS&ref=kjv_hopeless_04"
+        }
+      ]
+    }
+  ]
+}

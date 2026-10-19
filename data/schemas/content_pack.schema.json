@@ -1,0 +1,173 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://864zeros.com/schemas/content_pack.schema.json",
+  "title": "864zeros Modular HALT/Affect Content Pack Schema",
+  "description": "JSON Schema validating modular Public Domain & Original Clean-Room HALT/Affect content packs for ClearStreak, 5x8 Softback Companion Journals, and 9:16 Social Video Reels.",
+  "type": "object",
+  "required": [
+    "pack_id",
+    "version",
+    "author",
+    "license",
+    "target_framework",
+    "provenance",
+    "categories"
+  ],
+  "properties": {
+    "pack_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$",
+      "description": "Unique identifier for the modular content pack (e.g., 864z_scripture_core_kjv)."
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable title of the content pack."
+    },
+    "subtitle": {
+      "type": "string",
+      "description": "Human-readable subtitle describing the scope and clinical/philosophical mapping."
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semantic version of the content pack."
+    },
+    "author": {
+      "type": "string",
+      "description": "Original public domain author(s) and 864zeros editorial house attribution."
+    },
+    "license": {
+      "type": "string",
+      "description": "Legal license and copyright declaration (17 U.S.C. Public Domain + 864zeros Clean-Room Commentary)."
+    },
+    "target_framework": {
+      "type": "string",
+      "enum": ["HALT_EXTENDED_V1", "AFFECT_REGULATION_V1"],
+      "description": "Affect/behavioral trigger mapping framework identifier."
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["sources", "clean_room_verified", "copyright_status"],
+      "properties": {
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["work", "translator_or_edition", "publication_year", "vault_path"],
+            "properties": {
+              "work": { "type": "string" },
+              "translator_or_edition": { "type": "string" },
+              "publication_year": { "type": "integer", "maximum": 1930 },
+              "vault_path": { "type": "string" },
+              "sha256": { "type": "string" }
+            }
+          }
+        },
+        "clean_room_verified": {
+          "type": "boolean",
+          "const": true
+        },
+        "copyright_status": {
+          "type": "string"
+        },
+        "prohibited_terms_audit": {
+          "type": "string"
+        }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 6,
+      "items": {
+        "type": "object",
+        "required": ["trigger_key", "canonical_emotion", "theme", "entries"],
+        "properties": {
+          "trigger_key": {
+            "type": "string",
+            "enum": ["HUNGRY", "ANGRY", "LONELY", "TIRED", "STRESSED", "HOPELESS"],
+            "description": "Extended HALT affect state trigger key."
+          },
+          "canonical_emotion": {
+            "type": "string",
+            "description": "Clinical and experiential description of the emotional state."
+          },
+          "theme": {
+            "type": "string",
+            "description": "Core restorative theme and philosophical/scriptural domain mapped to this trigger."
+          },
+          "entries": {
+            "type": "array",
+            "minItems": 3,
+            "items": {
+              "type": "object",
+              "required": [
+                "entry_id",
+                "source_book",
+                "chapter",
+                "verse",
+                "reference",
+                "text",
+                "plain",
+                "reflection_prompt",
+                "micro_action",
+                "tags",
+                "qr_payload"
+              ],
+              "properties": {
+                "entry_id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9_]+$"
+                },
+                "source_book": {
+                  "type": "string"
+                },
+                "chapter": {
+                  "type": ["integer", "string"]
+                },
+                "verse": {
+                  "type": ["integer", "string"]
+                },
+                "reference": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string",
+                  "minLength": 10,
+                  "description": "Verbatim Public Domain passage or KJV verse."
+                },
+                "plain": {
+                  "type": "string",
+                  "minLength": 10,
+                  "description": "Original 864zeros 2026 clean-room plain-English distillation."
+                },
+                "reflection_prompt": {
+                  "type": "string",
+                  "minLength": 10,
+                  "description": "Journaling prompt for the 5x8 Softback Companion Journal."
+                },
+                "micro_action": {
+                  "type": "string",
+                  "minLength": 10,
+                  "description": "Immediate 60-second Floor Rep or behavioral protocol."
+                },
+                "tags": {
+                  "type": "array",
+                  "items": { "type": "string" }
+                },
+                "qr_payload": {
+                  "type": "string",
+                  "pattern": "^864z://cs/entry\\?book=[a-z0-9_]+&page=\\d+&trigger=(HUNGRY|ANGRY|LONELY|TIRED|STRESSED|HOPELESS)&ref=[a-z0-9_]+$",
+                  "description": "Deterministic offline-first QR deep link URI."
+                },
+                "visual_prompt": {
+                  "type": "string",
+                  "description": "Optional Two-Pass Visual-DAGR jeff_sketch style prompt."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

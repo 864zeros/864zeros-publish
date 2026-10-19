@@ -1,4 +1,18 @@
 {
+  "pack_id": "william_james_habit",
+  "id": "william_james_habit",
+  "version": "2.0.0",
+  "volume": 1,
+  "title": "The Neuroplastic Groove: William James's 1890 Maxims of Habit",
+  "subtitle": "30 Curated Passages from William James (1890/1899) on Neural Plasticity, Decisive Initiative, Continuity Lock-In, When-Then Anchors, and Floor Reps",
+  "author": "William James (1842–1910)",
+  "provenance": {
+    "vault_file": "sources/public_domain_classics/william_james_habit_1890.txt",
+    "sha256": "19B854638699E30744278724F7CEB5681AA7893CA89706F11AB4CFDF6A8B50B5",
+    "translators_referenced": "William James (Original American English, The Principles of Psychology Ch. IV 'Habit' 1890 & Talks to Teachers Ch. VIII 'The Laws of Habit' 1899, Henry Holt & Co.; Gutenberg #16287)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication; plain & application layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
   "pack_meta": {
     "pack_id": "william_james_habit",
     "title": "The Neuroplastic Groove: William James's 1890 Maxims of Habit",
@@ -15,12 +29,13 @@
       "clean_room_verified": true
     },
     "entry_count": 30,
-    "schema_version": "1.0.0",
+    "schema_version": "2.0.0",
     "compatible_targets": [
       "ClearStreak Focus Packs",
       "864zeros Standalone Practice Books",
       "OIA Focus Extensions"
-    ]
+    ],
+    "volume": 1
   },
   "entries": [
     {
@@ -29,7 +44,14 @@
       "text": "Ninety-nine hundredths or, possibly, nine hundred and ninety-nine thousandths of our activity is purely automatic and habitual, from our rising in the morning to our lying down each night.",
       "plain": "Nearly the entirety of our daily life—from how we wake up in the morning to how we wind down at night—runs on automatic, habitual pathways.",
       "application": "Audit your morning sequence today: turn one automatic morning event into the reliable trigger for your Primary Focus Habit.",
-      "focus_theme": "automatic_architecture"
+      "focus_theme": "automatic_architecture",
+      "day": 1,
+      "strategic_prompt": "Nearly the entirety of our daily life—from how we wake up in the morning to how we wind down at night—runs on automatic, habitual pathways. How will you apply this principle when friction arises today?",
+      "micro_action": "Audit your morning sequence today: turn one automatic morning event into the reliable trigger for your Primary Focus Habit.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "james_002",
@@ -37,7 +59,14 @@
       "text": "The phenomena of habit in living beings are due to the plasticity of the organic materials of which their bodies are composed.",
       "plain": "Habits exist because the human nervous system is physically plastic—capable of being reshaped and grooved by repeated action.",
       "application": "View today's repetition as physical neuroplastic training: you are literally carving a cleaner circuit in your nervous system.",
-      "focus_theme": "neural_plasticity"
+      "focus_theme": "neural_plasticity",
+      "day": 2,
+      "strategic_prompt": "Habits exist because the human nervous system is physically plastic—capable of being reshaped and grooved by repeated action. How will you apply this principle when friction arises today?",
+      "micro_action": "View today's repetition as physical neuroplastic training: you are literally carving a cleaner circuit in your nervous system.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_003",
@@ -45,7 +74,14 @@
       "text": "A path once traversed by a nerve-current might be expected to follow the law of most of the paths we know, and to be scooped out and made more permeable than before; and this ought to be repeated with each new passage of the current.",
       "plain": "Every time a signal travels along a neural pathway, it carves that channel deeper and makes the next repetition flow with less resistance.",
       "application": "Send the current down the path today: even a brief Floor Rep keeps the neural channel permeable and strong.",
-      "focus_theme": "the_neuroplastic_groove"
+      "focus_theme": "the_neuroplastic_groove",
+      "day": 3,
+      "strategic_prompt": "Every time a signal travels along a neural pathway, it carves that channel deeper and makes the next repetition flow with less resistance. How will you apply this principle when friction arises today?",
+      "micro_action": "Send the current down the path today: even a brief Floor Rep keeps the neural channel permeable and strong.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "james_004",
@@ -53,7 +89,14 @@
       "text": "The great thing, then, in all education, is to make our nervous system our ally instead of our enemy. It is to fund and capitalize our acquisitions, and live at ease upon the interest of the fund.",
       "plain": "The ultimate goal of habit training is to make your nervous system your ally rather than your opponent—banking your daily effort like capital so you can live comfortably on the compounding interest.",
       "application": "Make a deposit into your behavioral capital fund today by completing your scheduled check-in.",
-      "focus_theme": "nervous_system_ally"
+      "focus_theme": "nervous_system_ally",
+      "day": 4,
+      "strategic_prompt": "The ultimate goal of habit training is to make your nervous system your ally rather than your opponent—banking your daily effort like capital so you can live comfortably on the compounding interest. How will you apply this principle when friction arises today?",
+      "micro_action": "Make a deposit into your behavioral capital fund today by completing your scheduled check-in.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_005",
@@ -61,7 +104,14 @@
       "text": "For this we must make automatic and habitual, as early as possible, as many useful actions as we can, and guard against the growing into ways that are likely to be disadvantageous to us, as we should guard against the plague.",
       "plain": "Automate your most useful daily routines as early as possible, and guard against sliding into draining patterns before they take root.",
       "application": "Lock your Primary Focus Habit to a fixed daily context today so it transitions faster from conscious effort into automatic routine.",
-      "focus_theme": "early_automatization"
+      "focus_theme": "early_automatization",
+      "day": 5,
+      "strategic_prompt": "Automate your most useful daily routines as early as possible, and guard against sliding into draining patterns before they take root. How will you apply this principle when friction arises today?",
+      "micro_action": "Lock your Primary Focus Habit to a fixed daily context today so it transitions faster from conscious effort into automatic routine.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "james_006",
@@ -69,7 +119,14 @@
       "text": "The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work.",
       "plain": "The more basic routines you hand over to effortless automaticity, the more mental bandwidth you free up for deep, creative work.",
       "application": "Eliminate decision fatigue around your habit today: use a fixed When-Then Trigger so zero willpower is wasted deciding when to start.",
-      "focus_theme": "cognitive_liberation"
+      "focus_theme": "cognitive_liberation",
+      "day": 6,
+      "strategic_prompt": "The more basic routines you hand over to effortless automaticity, the more mental bandwidth you free up for deep, creative work. How will you apply this principle when friction arises today?",
+      "micro_action": "Eliminate decision fatigue around your habit today: use a fixed When-Then Trigger so zero willpower is wasted deciding when to start.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "james_007",
@@ -77,7 +134,14 @@
       "text": "There is no more miserable human being than one in whom nothing is habitual but indecision, and for whom the lighting of every cigar, the drinking of every cup, the time of rising and going to bed every day, and the beginning of every bit of work, are subjects of express volitional deliberation.",
       "plain": "Nothing drains human energy faster than perpetual indecision—having to debate yourself every morning over when to get up, when to start work, and whether to follow through.",
       "application": "End the daily debate: treat your Context Lock as non-negotiable and start within 60 seconds of your cue.",
-      "focus_theme": "ending_indecision"
+      "focus_theme": "ending_indecision",
+      "day": 7,
+      "strategic_prompt": "Nothing drains human energy faster than perpetual indecision—having to debate yourself every morning over when to get up, when to start work, and whether to follow through. How will you apply this principle when friction arises today?",
+      "micro_action": "End the daily debate: treat your Context Lock as non-negotiable and start within 60 seconds of your cue.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "james_008",
@@ -85,7 +149,14 @@
       "text": "In the acquisition of a new habit, or the leaving off of an old one, we must take care to launch ourselves with as strong and decided an initiative as possible.",
       "plain": "Maxim 1 (Strong Initiative): When launching a new habit or retiring an old one, start with a clear, decisive commitment and set up your environment to back it.",
       "application": "Reinforce your initiative today: clear away competing distractions on your desk before your focus window begins.",
-      "focus_theme": "decisive_initiative"
+      "focus_theme": "decisive_initiative",
+      "day": 8,
+      "strategic_prompt": "Maxim 1 (Strong Initiative): When launching a new habit or retiring an old one, start with a clear, decisive commitment and set up your environment to back it. How will you apply this principle when friction arises today?",
+      "micro_action": "Reinforce your initiative today: clear away competing distractions on your desk before your focus window begins.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_009",
@@ -93,7 +164,14 @@
       "text": "Accumulate all the possible circumstances which shall re-enforce the right motives; put yourself assiduously in conditions that encourage the new way; make engagements incompatible with the old.",
       "plain": "Stack your physical surroundings in your favor: place yourself in conditions that make the right action easy and old distractions inconvenient.",
       "application": "Upgrade Cue Visibility today: put the physical trigger for your habit directly in your line of sight.",
-      "focus_theme": "environment_design"
+      "focus_theme": "environment_design",
+      "day": 9,
+      "strategic_prompt": "Stack your physical surroundings in your favor: place yourself in conditions that make the right action easy and old distractions inconvenient. How will you apply this principle when friction arises today?",
+      "micro_action": "Upgrade Cue Visibility today: put the physical trigger for your habit directly in your line of sight.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "james_010",
@@ -101,7 +179,14 @@
       "text": "This will give your new beginning such a momentum that the temptation to break down will not occur as soon as it otherwise might; and every day during which a breakdown is postponed adds to the chances of its not occurring at all.",
       "plain": "Every single day you postpone a breakdown during the early Ignition Phase compounds the odds that the new habit will hold permanently.",
       "application": "Protect today's link fiercely: adding one more unbroken day today steepens the automaticity curve in your favor.",
-      "focus_theme": "ignition_momentum"
+      "focus_theme": "ignition_momentum",
+      "day": 10,
+      "strategic_prompt": "Every single day you postpone a breakdown during the early Ignition Phase compounds the odds that the new habit will hold permanently. How will you apply this principle when friction arises today?",
+      "micro_action": "Protect today's link fiercely: adding one more unbroken day today steepens the automaticity curve in your favor.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_011",
@@ -109,7 +194,14 @@
       "text": "The second maxim is: Never suffer an exception to occur till the new habit is securely rooted in your life. Each lapse is like the letting fall of a ball of string which one is carefully winding up; a single slip undoes more than a great many turns will wind again.",
       "plain": "Maxim 2 (Continuity Lock-In): While a new habit is still taking root, protect continuity above intensity—staying consistent keeps the ball of twine tightly wound.",
       "application": "If today is a high-stress or low-energy day, use a 60-second Floor Rep rather than skipping so the neural cue stays unbroken.",
-      "focus_theme": "continuity_lock_in"
+      "focus_theme": "continuity_lock_in",
+      "day": 11,
+      "strategic_prompt": "Maxim 2 (Continuity Lock-In): While a new habit is still taking root, protect continuity above intensity—staying consistent keeps the ball of twine tightly wound. How will you apply this principle when friction arises today?",
+      "micro_action": "If today is a high-stress or low-energy day, use a 60-second Floor Rep rather than skipping so the neural cue stays unbroken.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "james_012",
@@ -117,7 +209,14 @@
       "text": "Continuity of training is the great means of making the nervous system act infallibly right.",
       "plain": "Consistent, unbroken continuity of practice—showing up in the same context day after day—is the single strongest driver of automaticity.",
       "application": "Prioritize Context Stability today: execute your habit in the exact same time pocket or routine anchor as yesterday.",
-      "focus_theme": "context_stability"
+      "focus_theme": "context_stability",
+      "day": 12,
+      "strategic_prompt": "Consistent, unbroken continuity of practice—showing up in the same context day after day—is the single strongest driver of automaticity. How will you apply this principle when friction arises today?",
+      "micro_action": "Prioritize Context Stability today: execute your habit in the exact same time pocket or routine anchor as yesterday.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "james_013",
@@ -125,7 +224,14 @@
       "text": "How many excuses does poor Rip Van Winkle make for every fresh dereliction! 'I won't count this time!' Well! he may not count it, and a kind Heaven may not count it; but it is being counted none the less. Down among his nerve-cells and fibres the molecules are counting it, registering and storing it up.",
       "plain": "Your mind may invent clever excuses like 'this one skip doesn't count,' but down among your nerve cells and synapses, every action is being physically registered and stored.",
       "application": "Let your neurons register a win today: log even a minimal Floor Rep so your nervous system records follow-through instead of avoidance.",
-      "focus_theme": "synaptic_ledger"
+      "focus_theme": "synaptic_ledger",
+      "day": 13,
+      "strategic_prompt": "Your mind may invent clever excuses like 'this one skip doesn't count,' but down among your nerve cells and synapses, every action is being physically registered and stored. How will you apply this principle when friction arises today?",
+      "micro_action": "Let your neurons register a win today: log even a minimal Floor Rep so your nervous system records follow-through instead of avoidance.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "james_014",
@@ -133,7 +239,14 @@
       "text": "In the main, however, all expert opinion would agree that abrupt acquisition of the new habit is the best way, if there be a real possibility of carrying it out. We must be careful not to give the will so stiff a task as to insure its defeat at the very outset.",
       "plain": "Commit decisively, but never set the daily bar so unrealistically high at the start that you guarantee early burnout and defeat.",
       "application": "Right-size your daily target today: set a clear Floor Tier and Standard Tier so your commitment is 100% achievable even on busy days.",
-      "focus_theme": "adaptive_effort_tiers"
+      "focus_theme": "adaptive_effort_tiers",
+      "day": 14,
+      "strategic_prompt": "Commit decisively, but never set the daily bar so unrealistically high at the start that you guarantee early burnout and defeat. How will you apply this principle when friction arises today?",
+      "micro_action": "Right-size your daily target today: set a clear Floor Tier and Standard Tier so your commitment is 100% achievable even on busy days.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_015",
@@ -141,7 +254,14 @@
       "text": "Provided we can secure a series of successes from the outset, the new habit quickly gains standing-ground.",
       "plain": "Nothing cements a new routine faster than banking an unbroken run of early daily wins that prove to your brain that the habit is working.",
       "application": "Bank an unmistakable win today: complete your check-in early and let that success reinforce tomorrow's start.",
-      "focus_theme": "early_win_streak"
+      "focus_theme": "early_win_streak",
+      "day": 15,
+      "strategic_prompt": "Nothing cements a new routine faster than banking an unbroken run of early daily wins that prove to your brain that the habit is working. How will you apply this principle when friction arises today?",
+      "micro_action": "Bank an unmistakable win today: complete your check-in early and let that success reinforce tomorrow's start.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "james_016",
@@ -149,7 +269,14 @@
       "text": "The third maxim may be summed up in the word: Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain.",
       "plain": "Maxim 3 (Immediate Execution): The moment your cue arrives or you feel the clarity to act, execute immediately—do not let the intention cool off.",
       "application": "Apply the 60-Second Ignition rule today: as soon as your When-Then Trigger occurs, take the first physical step within one minute.",
-      "focus_theme": "immediate_execution"
+      "focus_theme": "immediate_execution",
+      "day": 16,
+      "strategic_prompt": "Maxim 3 (Immediate Execution): The moment your cue arrives or you feel the clarity to act, execute immediately—do not let the intention cool off. How will you apply this principle when friction arises today?",
+      "micro_action": "Apply the 60-Second Ignition rule today: as soon as your When-Then Trigger occurs, take the first physical step within one minute.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_017",
@@ -157,7 +284,14 @@
       "text": "It is not in the moment of their forming, but in the moment of their producing motor effects, that resolves and aspirations communicate the new 'set' to the brain.",
       "plain": "Good intentions do not rewire the brain while they sit in your head; the brain only updates its wiring at the exact moment you translate the intention into physical action.",
       "application": "Produce a physical motor effect right now: perform the first tangible movement of your habit rather than just planning it.",
-      "focus_theme": "motor_encoding"
+      "focus_theme": "motor_encoding",
+      "day": 17,
+      "strategic_prompt": "Good intentions do not rewire the brain while they sit in your head; the brain only updates its wiring at the exact moment you translate the intention into physical action. How will you apply this principle when friction arises today?",
+      "micro_action": "Produce a physical motor effect right now: perform the first tangible movement of your habit rather than just planning it.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "james_018",
@@ -165,7 +299,14 @@
       "text": "No matter how full a reservoir of maxims one may possess, and no matter how good one's sentiments may be, if one have not taken advantage of every concrete opportunity to act, one's character may remain entirely unaffected for the better.",
       "plain": "A head full of great quotes and good intentions changes nothing on its own; only seizing concrete daily opportunities to act reshapes your life.",
       "application": "Turn today's maxim into concrete proof by tapping your check-in only after completing the real-world action.",
-      "focus_theme": "concrete_opportunity"
+      "focus_theme": "concrete_opportunity",
+      "day": 18,
+      "strategic_prompt": "A head full of great quotes and good intentions changes nothing on its own; only seizing concrete daily opportunities to act reshapes your life. How will you apply this principle when friction arises today?",
+      "micro_action": "Turn today's maxim into concrete proof by tapping your check-in only after completing the real-world action.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "james_019",
@@ -173,7 +314,14 @@
       "text": "With mere good intentions, hell is proverbially paved. And this is an obvious consequence of the principles we have laid down. A 'character,' as J. S. Mill says, 'is a completely fashioned will'; and a will, in the sense in which he means it, is an aggregate of tendencies to act in a firm and prompt and definite way upon all the principal emergencies of life.",
       "plain": "A strong character is simply a trained will—an accumulated set of reliable tendencies to act promptly, firmly, and clearly when the moment calls.",
       "application": "Train promptness today: eliminate the lag time between your habit reminder and your start.",
-      "focus_theme": "prompt_will"
+      "focus_theme": "prompt_will",
+      "day": 19,
+      "strategic_prompt": "A strong character is simply a trained will—an accumulated set of reliable tendencies to act promptly, firmly, and clearly when the moment calls. How will you apply this principle when friction arises today?",
+      "micro_action": "Train promptness today: eliminate the lag time between your habit reminder and your start.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "james_020",
@@ -181,7 +329,14 @@
       "text": "Every time a resolve or a fine glow of feeling evaporates without bearing practical fruit is worse than a chance lost; it works so as positively to hinder future resolutions and emotions from taking the normal path of discharge.",
       "plain": "Letting a burst of motivation evaporate without taking a single concrete step actually trains the brain to ignore future resolutions.",
       "application": "Never let inspiration evaporate empty-handed: whenever you feel motivated today, lock in a 60-second action or set out tomorrow's tools immediately.",
-      "focus_theme": "anti_evaporation"
+      "focus_theme": "anti_evaporation",
+      "day": 20,
+      "strategic_prompt": "Letting a burst of motivation evaporate without taking a single concrete step actually trains the brain to ignore future resolutions. How will you apply this principle when friction arises today?",
+      "micro_action": "Never let inspiration evaporate empty-handed: whenever you feel motivated today, lock in a 60-second action or set out tomorrow's tools immediately.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_021",
@@ -189,7 +344,14 @@
       "text": "In action grown habitual, what instigates each new muscular contraction to take place in its appointed order is not a thought or a perception, but the sensation occasioned by the muscular contraction just finished.",
       "plain": "In a well-built routine chain, the completion of Step A automatically triggers Step B without needing a separate conscious decision.",
       "application": "Use Routine Anchoring (Premack Chaining) today: attach your habit directly to the sensation of finishing an existing daily ritual like brushing your teeth or pouring coffee.",
-      "focus_theme": "routine_anchoring"
+      "focus_theme": "routine_anchoring",
+      "day": 21,
+      "strategic_prompt": "In a well-built routine chain, the completion of Step A automatically triggers Step B without needing a separate conscious decision. How will you apply this principle when friction arises today?",
+      "micro_action": "Use Routine Anchoring (Premack Chaining) today: attach your habit directly to the sensation of finishing an existing daily ritual like brushing your teeth or pouring coffee.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "james_022",
@@ -197,7 +359,14 @@
       "text": "Habit diminishes the conscious attention with which our acts are performed, and in the same measure diminishes their fatigue.",
       "plain": "As a behavior becomes habitual, it requires less conscious friction and therefore drains far less mental energy.",
       "application": "Remind yourself that the heaviest effort is always at the beginning of the Automaticity Curve; today's rep makes next month's reps feel lighter.",
-      "focus_theme": "friction_decay"
+      "focus_theme": "friction_decay",
+      "day": 22,
+      "strategic_prompt": "As a behavior becomes habitual, it requires less conscious friction and therefore drains far less mental energy. How will you apply this principle when friction arises today?",
+      "micro_action": "Remind yourself that the heaviest effort is always at the beginning of the Automaticity Curve; today's rep makes next month's reps feel lighter.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_023",
@@ -205,7 +374,14 @@
       "text": "Keep the faculty of effort alive in you by a little gratuitous exercise every day. That is, be systematically ascetic or heroic in little unnecessary points, do every day or two something for no other reason than that you would rather not do it, so that when the hour of dire need draws nigh, it may find you not unnerved and untrained to stand the test.",
       "plain": "Maxim 4 (Daily Effort Conditioning): Keep your capacity for deliberate effort sharp by doing one small, slightly inconvenient disciplined act every day—so that when real pressure arrives, you are already trained to stand firm.",
       "application": "Complete your repetition today especially if a part of you feels like putting it off—treating that small resistance as fire insurance for your resilience.",
-      "focus_theme": "effort_conditioning"
+      "focus_theme": "effort_conditioning",
+      "day": 23,
+      "strategic_prompt": "Maxim 4 (Daily Effort Conditioning): Keep your capacity for deliberate effort sharp by doing one small, slightly inconvenient disciplined act every day—so that when real pressure arrives, you are already trained to stand firm. How will you apply this principle when friction arises today?",
+      "micro_action": "Complete your repetition today especially if a part of you feels like putting it off—treating that small resistance as fire insurance for your resilience.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "james_024",
@@ -213,7 +389,14 @@
       "text": "Asceticism of this sort is like the insurance which a man pays on his house and goods. The tax does him no good at the time, and possibly may never bring him a return. But if the fire does come, his having paid it will be his salvation from ruin.",
       "plain": "Small daily acts of self-command work like fire insurance: they cost a few minutes of discipline today, and they save your composure when a stressful week hits.",
       "application": "Pay today's small premium of focused effort and log your check-in.",
-      "focus_theme": "resilience_insurance"
+      "focus_theme": "resilience_insurance",
+      "day": 24,
+      "strategic_prompt": "Small daily acts of self-command work like fire insurance: they cost a few minutes of discipline today, and they save your composure when a stressful week hits. How will you apply this principle when friction arises today?",
+      "micro_action": "Pay today's small premium of focused effort and log your check-in.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "james_025",
@@ -221,7 +404,14 @@
       "text": "Let no person have any anxiety about the upshot of his education, whatever the line of it may be. If he keep faithfully busy each hour of the working day, he may safely leave the final result to itself.",
       "plain": "Stop worrying anxiously about whether your long-term transformation will work out; if you show up faithfully for today's working hour, the cumulative result takes care of itself.",
       "application": "Release outcome anxiety today and focus 100% on completing today's single repetition cleanly.",
-      "focus_theme": "trust_the_process"
+      "focus_theme": "trust_the_process",
+      "day": 25,
+      "strategic_prompt": "Stop worrying anxiously about whether your long-term transformation will work out; if you show up faithfully for today's working hour, the cumulative result takes care of itself. How will you apply this principle when friction arises today?",
+      "micro_action": "Release outcome anxiety today and focus 100% on completing today's single repetition cleanly.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "james_026",
@@ -229,7 +419,14 @@
       "text": "He can with perfect certainty count on waking up some fine morning to find himself one of the competent ones of his generation, in whatever pursuit he may have singled out.",
       "plain": "Quiet, unremarkable daily repetitions compound beneath the surface until one morning you realize you have become genuinely capable in the craft you chose.",
       "application": "Add one more quiet repetition to your compounding cadence today.",
-      "focus_theme": "silent_compounding"
+      "focus_theme": "silent_compounding",
+      "day": 26,
+      "strategic_prompt": "Quiet, unremarkable daily repetitions compound beneath the surface until one morning you realize you have become genuinely capable in the craft you chose. How will you apply this principle when friction arises today?",
+      "micro_action": "Add one more quiet repetition to your compounding cadence today.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_027",
@@ -237,7 +434,14 @@
       "text": "Silently, between all the details of his business, the power of judging in all that class of matter will have built itself up within him as a possession that will never pass away.",
       "plain": "Between the lines of your daily practice, real skill and judgment are silently building themselves into a permanent asset no one can take from you.",
       "application": "Honor the unseen neural consolidation happening behind every daily check-in you record.",
-      "focus_theme": "permanent_asset"
+      "focus_theme": "permanent_asset",
+      "day": 27,
+      "strategic_prompt": "Between the lines of your daily practice, real skill and judgment are silently building themselves into a permanent asset no one can take from you. How will you apply this principle when friction arises today?",
+      "micro_action": "Honor the unseen neural consolidation happening behind every daily check-in you record.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "james_028",
@@ -245,7 +449,14 @@
       "text": "When two elementary brain-processes have been active together or in immediate succession, one of them, on re-occurring, tends to propagate its excitement into the other.",
       "plain": "James's Law of Contiguity: When two actions fire back-to-back repeatedly, performing the first action automatically primes your brain to initiate the second.",
       "application": "Strengthen your When-Then Trigger today by firing your habit immediately after your chosen daily anchor.",
-      "focus_theme": "law_of_contiguity"
+      "focus_theme": "law_of_contiguity",
+      "day": 28,
+      "strategic_prompt": "James's Law of Contiguity: When two actions fire back-to-back repeatedly, performing the first action automatically primes your brain to initiate the second. How will you apply this principle when friction arises today?",
+      "micro_action": "Strengthen your When-Then Trigger today by firing your habit immediately after your chosen daily anchor.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "james_029",
@@ -253,7 +464,14 @@
       "text": "Voluntary attention is a momentary affair; we must continually bring it back to the object, and once the habit of returning attention is formed, focus becomes steady.",
       "plain": "Sustained focus is not a rigid stare; it is the gentle, repeated habit of bringing your wandering attention right back to the task in front of you.",
       "application": "Practice Single-Slip Recovery inside your focus block today: every time your attention drifts, bring it back without frustration.",
-      "focus_theme": "attentional_return"
+      "focus_theme": "attentional_return",
+      "day": 29,
+      "strategic_prompt": "Sustained focus is not a rigid stare; it is the gentle, repeated habit of bringing your wandering attention right back to the task in front of you. How will you apply this principle when friction arises today?",
+      "micro_action": "Practice Single-Slip Recovery inside your focus block today: every time your attention drifts, bring it back without frustration.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "james_030",
@@ -261,7 +479,14 @@
       "text": "We are spinning our own fates, good or evil, and never to be undone. Every smallest stroke of virtue or of vice leaves its never so little scar.",
       "plain": "Every small daily choice weaves the fabric of our character and leaves a real trace in our nervous system—making today's smallest positive action genuinely count.",
       "application": "Make today's stroke count: complete your Primary Focus Habit and log your check-in with pride.",
-      "focus_theme": "architect_of_fate"
+      "focus_theme": "architect_of_fate",
+      "day": 30,
+      "strategic_prompt": "Every small daily choice weaves the fabric of our character and leaves a real trace in our nervous system—making today's smallest positive action genuinely count. How will you apply this principle when friction arises today?",
+      "micro_action": "Make today's stroke count: complete your Primary Focus Habit and log your check-in with pride.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     }
   ]
 }

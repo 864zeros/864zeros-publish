@@ -1,0 +1,1210 @@
+{
+  "manifest_version": "1.0.0",
+  "generated_at": "2026-10-19T03:20:41Z",
+  "pack_name": "stoic_marcus_aurelius",
+  "pack_id": "864z_stoic_citadel_pd",
+  "template_id": "864z_social_video_short_9x16_v1",
+  "total_reels": 24,
+  "reels": [
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_01",
+      "entry_id": "stoic_hungry_01",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Pull & Sensory Distraction",
+      "reference": "Epictetus, Enchiridion 34 (trans. T.W. Higginson, 1865)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=1&trigger=HUNGRY&ref=stoic_hungry_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, appetite pull & sensory distraction—hear Epictetus, Enchiridion 34 (trans. T.W. Higginson, 1865): \"When you are struck by the appearance of any pleasure, guard yourself, as in other cases, against being carried away by it; but let the thing await your leisure, and procure yourself some delay.\" In plain terms: When a sudden craving or appealing distraction flashes before your mind, do not let it sweep you off your feet; make it wait in the hallway and buy yourself a deliberate interval of delay. Your sixty-second Floor Rep right now: Insert a ten-minute stillness buffer between the craving and your hand: set a timer and step into another room."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Epictetus, Enchiridion 34 (trans. T.W. Higginson, 1865) (HUNGRY: Craving, Appetite Pull & Sensory Distraction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Epictetus, Enchiridion 34 (trans. T.W. Higginson, 1865)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Appetite Pull & Sensory Distraction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“When you are struck by the appearance of any pleasure, guard yourself, as in other cases, against being carried away by it; but let the thing await your leisure, and procure yourself some delay.” — Epictetus, Enchiridion 34 (trans. T.W. Higginson, 1865)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "When a sudden craving or appealing distraction flashes before your mind, do not let it sweep you off your feet; make it wait in the hallway and buy yourself a deliberate interval of delay."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Insert a ten-minute stillness buffer between the craving and your hand: set a timer and step into another room.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=1&trigger=HUNGRY&ref=stoic_hungry_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_02",
+      "entry_id": "stoic_hungry_02",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Pull & Sensory Distraction",
+      "reference": "Marcus Aurelius, Meditations 5.1 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=2&trigger=HUNGRY&ref=stoic_hungry_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, appetite pull & sensory distraction—hear Marcus Aurelius, Meditations 5.1 (trans. George Long, 1862): \"In the morning when thou risest unwillingly, let this thought be present—I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?\" In plain terms: When your body craves comfort and resists getting started, remind yourself: I am waking up to do the honest work of a human being—not merely to chase comfort. Your sixty-second Floor Rep right now: Place both feet on the floor, drink water, and begin the first 60 seconds of your primary work before seeking comfort."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 5.1 (trans. George Long, 1862) (HUNGRY: Craving, Appetite Pull & Sensory Distraction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 5.1 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Appetite Pull & Sensory Distraction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“In the morning when thou risest unwillingly, let this thought be present—I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?” — Marcus Aurelius, Meditations 5.1 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "When your body craves comfort and resists getting started, remind yourself: I am waking up to do the honest work of a human being—not merely to chase comfort."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Place both feet on the floor, drink water, and begin the first 60 seconds of your primary work before seeking comfort.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=2&trigger=HUNGRY&ref=stoic_hungry_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_03",
+      "entry_id": "stoic_hungry_03",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Pull & Sensory Distraction",
+      "reference": "Seneca, Minor Dialogues / Epistles (trans. Aubrey Stewart, 1889)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=3&trigger=HUNGRY&ref=stoic_hungry_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, appetite pull & sensory distraction—hear Seneca, Minor Dialogues / Epistles (trans. Aubrey Stewart, 1889): \"Set apart certain days on which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'\" In plain terms: Practice voluntary simplicity regularly—content with plain food and modest surroundings—so your mind learns firsthand that having less is nothing to fear. Your sixty-second Floor Rep right now: Choose plain simplicity for your next meal or break, leaving your phone in another room while you pause."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Seneca, Minor Dialogues / Epistles (trans. Aubrey Stewart, 1889) (HUNGRY: Craving, Appetite Pull & Sensory Distraction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Seneca, Minor Dialogues / Epistles (trans. Aubrey Stewart, 1889)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Appetite Pull & Sensory Distraction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Set apart certain days on which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'” — Seneca, Minor Dialogues / Epistles (trans. Aubrey Stewart, 1889)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Practice voluntary simplicity regularly—content with plain food and modest surroundings—so your mind learns firsthand that having less is nothing to fear."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Choose plain simplicity for your next meal or break, leaving your phone in another room while you pause.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=3&trigger=HUNGRY&ref=stoic_hungry_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_04",
+      "entry_id": "stoic_hungry_04",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Pull & Sensory Distraction",
+      "reference": "Marcus Aurelius, Meditations 8.29 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=4&trigger=HUNGRY&ref=stoic_hungry_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, appetite pull & sensory distraction—hear Marcus Aurelius, Meditations 8.29 (trans. George Long, 1862): \"Wipe out thy imaginations by often saying to thyself: now it is in my power to let no badness be in this soul, nor desire nor any perturbation at all; but looking at all things I see what is their nature, and I use each according to its value.\" In plain terms: Clear away exaggerated mental pictures by reminding yourself: right now, it is within my power to see every object for what it actually is and use it only in proportion to its real value. Your sixty-second Floor Rep right now: Describe the craving in plain, clinical nouns on paper to strip away its exaggerated glamour."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 8.29 (trans. George Long, 1862) (HUNGRY: Craving, Appetite Pull & Sensory Distraction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 8.29 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Appetite Pull & Sensory Distraction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Wipe out thy imaginations by often saying to thyself: now it is in my power to let no badness be in this soul, nor desire nor any perturbation at all; but looking at all things I see what is their nature, and I use each according to its value.” — Marcus Aurelius, Meditations 8.29 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Clear away exaggerated mental pictures by reminding yourself: right now, it is within my power to see every object for what it actually is and use it only in proportion to its real value."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Describe the craving in plain, clinical nouns on paper to strip away its exaggerated glamour.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=4&trigger=HUNGRY&ref=stoic_hungry_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_05",
+      "entry_id": "stoic_angry_01",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Provocation, Indignation & Interpersonal Friction",
+      "reference": "Seneca, Of Anger Book II, Ch. 29 (trans. Aubrey Stewart, 1889)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=5&trigger=ANGRY&ref=stoic_angry_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—provocation, indignation & interpersonal friction—hear Seneca, Of Anger Book II, Ch. 29 (trans. Aubrey Stewart, 1889): \"The greatest remedy for anger is delay. Beg this of anger at the outset, not that it will pardon the offence, but that it will judge of it: if it wait, its heat will abate.\" In plain terms: The strongest medicine for anger is time. Do not ask your anger to forgive immediately—simply ask it to wait and examine the facts; once it waits, the first fever breaks. Your sixty-second Floor Rep right now: Lock in a mandatory 15-minute delay before replying to any message or comment that stirred irritation."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Seneca, Of Anger Book II, Ch. 29 (trans. Aubrey Stewart, 1889) (ANGRY: Provocation, Indignation & Interpersonal Friction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Seneca, Of Anger Book II, Ch. 29 (trans. Aubrey Stewart, 1889)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Provocation, Indignation & Interpersonal Friction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The greatest remedy for anger is delay. Beg this of anger at the outset, not that it will pardon the offence, but that it will judge of it: if it wait, its heat will abate.” — Seneca, Of Anger Book II, Ch. 29 (trans. Aubrey Stewart, 1889)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "The strongest medicine for anger is time. Do not ask your anger to forgive immediately—simply ask it to wait and examine the facts; once it waits, the first fever breaks."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Lock in a mandatory 15-minute delay before replying to any message or comment that stirred irritation.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=5&trigger=ANGRY&ref=stoic_angry_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_06",
+      "entry_id": "stoic_angry_02",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Provocation, Indignation & Interpersonal Friction",
+      "reference": "Marcus Aurelius, Meditations 2.1 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=6&trigger=ANGRY&ref=stoic_angry_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—provocation, indignation & interpersonal friction—hear Marcus Aurelius, Meditations 2.1 (trans. George Long, 1862): \"Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, dishonest, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.\" In plain terms: Remind yourself at dawn that you will cross paths with impatient, rude, or ungrateful people today; their friction stems from confusion, and none of it requires you to forfeit your own calm. Your sixty-second Floor Rep right now: Exhale slowly for six seconds and drop the demand that the other person should have acted differently."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 2.1 (trans. George Long, 1862) (ANGRY: Provocation, Indignation & Interpersonal Friction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 2.1 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Provocation, Indignation & Interpersonal Friction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, dishonest, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.” — Marcus Aurelius, Meditations 2.1 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Remind yourself at dawn that you will cross paths with impatient, rude, or ungrateful people today; their friction stems from confusion, and none of it requires you to forfeit your own calm."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Exhale slowly for six seconds and drop the demand that the other person should have acted differently.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=6&trigger=ANGRY&ref=stoic_angry_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_07",
+      "entry_id": "stoic_angry_03",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Provocation, Indignation & Interpersonal Friction",
+      "reference": "Epictetus, Enchiridion 20 (trans. T.W. Higginson, 1865)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=7&trigger=ANGRY&ref=stoic_angry_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—provocation, indignation & interpersonal friction—hear Epictetus, Enchiridion 20 (trans. T.W. Higginson, 1865): \"Remember that not he who gives abuse or blows insults, but the view we take of these things as insulting. When, therefore, anyone provokes you, be assured that it is your own opinion which provokes you.\" In plain terms: An insult only hooks into your mind when your own judgment agrees to carry it; therefore, try first of all not to be swept away by the initial impression. Your sixty-second Floor Rep right now: Write down only the bare camera-level facts of the event in one line, stripping out every adjective of blame."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Epictetus, Enchiridion 20 (trans. T.W. Higginson, 1865) (ANGRY: Provocation, Indignation & Interpersonal Friction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Epictetus, Enchiridion 20 (trans. T.W. Higginson, 1865)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Provocation, Indignation & Interpersonal Friction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Remember that not he who gives abuse or blows insults, but the view we take of these things as insulting. When, therefore, anyone provokes you, be assured that it is your own opinion which provokes you.” — Epictetus, Enchiridion 20 (trans. T.W. Higginson, 1865)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "An insult only hooks into your mind when your own judgment agrees to carry it; therefore, try first of all not to be swept away by the initial impression."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write down only the bare camera-level facts of the event in one line, stripping out every adjective of blame.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=7&trigger=ANGRY&ref=stoic_angry_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_08",
+      "entry_id": "stoic_angry_04",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Provocation, Indignation & Interpersonal Friction",
+      "reference": "Marcus Aurelius, Meditations 6.6 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=8&trigger=ANGRY&ref=stoic_angry_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—provocation, indignation & interpersonal friction—hear Marcus Aurelius, Meditations 6.6 (trans. George Long, 1862): \"The best way of avenging thyself is not to become like the wrong doer.\" In plain terms: The cleanest answer to inconsiderate behavior is refusing to mirror it. Your sixty-second Floor Rep right now: Respond with deliberate courtesy or dignified silence, then pivot immediately back to your scheduled work."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 6.6 (trans. George Long, 1862) (ANGRY: Provocation, Indignation & Interpersonal Friction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 6.6 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Provocation, Indignation & Interpersonal Friction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The best way of avenging thyself is not to become like the wrong doer.” — Marcus Aurelius, Meditations 6.6 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "The cleanest answer to inconsiderate behavior is refusing to mirror it."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Respond with deliberate courtesy or dignified silence, then pivot immediately back to your scheduled work.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=8&trigger=ANGRY&ref=stoic_angry_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_09",
+      "entry_id": "stoic_lonely_01",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitude, Alienation & Lack of Recognition",
+      "reference": "Marcus Aurelius, Meditations 4.3 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=9&trigger=LONELY&ref=stoic_lonely_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—solitude, alienation & lack of recognition—hear Marcus Aurelius, Meditations 4.3 (trans. George Long, 1862): \"Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself.\" In plain terms: You can step back into the quiet sanctuary of your own mind at any hour; no place is more peaceful than an uncluttered soul. Your sixty-second Floor Rep right now: Take three minutes of intentional, screen-free quiet to read or write in your physical journal."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 4.3 (trans. George Long, 1862) (LONELY: Solitude, Alienation & Lack of Recognition), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 4.3 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Solitude, Alienation & Lack of Recognition)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself.” — Marcus Aurelius, Meditations 4.3 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "You can step back into the quiet sanctuary of your own mind at any hour; no place is more peaceful than an uncluttered soul."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Take three minutes of intentional, screen-free quiet to read or write in your physical journal.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=9&trigger=LONELY&ref=stoic_lonely_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_10",
+      "entry_id": "stoic_lonely_02",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitude, Alienation & Lack of Recognition",
+      "reference": "Epictetus, Discourses Book III, Ch. 13 (trans. George Long, 1877)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=10&trigger=LONELY&ref=stoic_lonely_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—solitude, alienation & lack of recognition—hear Epictetus, Discourses Book III, Ch. 13 (trans. George Long, 1877): \"As Zeus dwells with himself, and is tranquil by himself, and thinks of his own administration and of its nature, and is employed in thoughts suitable to himself; so ought we also to be able to talk with ourselves, not to feel the want of others, nor to be unprovided with the means of spending our time.\" In plain terms: Learn the art of keeping clean, constructive company with yourself—reflecting honestly and working steadily without needing constant noise or applause around you. Your sixty-second Floor Rep right now: Spend five uninterrupted minutes advancing one personal skill or reading passage in silence."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Epictetus, Discourses Book III, Ch. 13 (trans. George Long, 1877) (LONELY: Solitude, Alienation & Lack of Recognition), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Epictetus, Discourses Book III, Ch. 13 (trans. George Long, 1877)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Solitude, Alienation & Lack of Recognition)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“As Zeus dwells with himself, and is tranquil by himself, and thinks of his own administration and of its nature, and is employed in thoughts suitable to himself; so ought we also to be able to talk with ourselves, not to feel the want of others, nor to be unprovided with the means of spending our time.” — Epictetus, Discourses Book III, Ch. 13 (trans. George Long, 1877)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Learn the art of keeping clean, constructive company with yourself—reflecting honestly and working steadily without needing constant noise or applause around you."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Spend five uninterrupted minutes advancing one personal skill or reading passage in silence.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=10&trigger=LONELY&ref=stoic_lonely_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_11",
+      "entry_id": "stoic_lonely_03",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitude, Alienation & Lack of Recognition",
+      "reference": "Marcus Aurelius, Meditations 6.44 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=11&trigger=LONELY&ref=stoic_lonely_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—solitude, alienation & lack of recognition—hear Marcus Aurelius, Meditations 6.44 (trans. George Long, 1862): \"My city and my country, so far as I am Antoninus, is Rome, but so far as I am a man, it is the world. The things then which are useful to these cities are alone useful to me.\" In plain terms: You are a citizen of the wider human family; whenever you do something useful for your community or household, you are connected to the whole. Your sixty-second Floor Rep right now: Perform one unannounced helpful act in your home, workplace, or neighborhood today."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 6.44 (trans. George Long, 1862) (LONELY: Solitude, Alienation & Lack of Recognition), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 6.44 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Solitude, Alienation & Lack of Recognition)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“My city and my country, so far as I am Antoninus, is Rome, but so far as I am a man, it is the world. The things then which are useful to these cities are alone useful to me.” — Marcus Aurelius, Meditations 6.44 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "You are a citizen of the wider human family; whenever you do something useful for your community or household, you are connected to the whole."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Perform one unannounced helpful act in your home, workplace, or neighborhood today.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=11&trigger=LONELY&ref=stoic_lonely_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_12",
+      "entry_id": "stoic_lonely_04",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitude, Alienation & Lack of Recognition",
+      "reference": "Marcus Aurelius, Meditations 4.20 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=12&trigger=LONELY&ref=stoic_lonely_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—solitude, alienation & lack of recognition—hear Marcus Aurelius, Meditations 4.20 (trans. George Long, 1862): \"Everything which is in any way beautiful is beautiful in itself, and terminates in itself, not having praise as part of itself. Neither worse then nor better is a thing made by being praised.\" In plain terms: Anything genuinely well done carries its worth inside itself; applause adds nothing to its quality, and working unseen takes nothing away from it. Your sixty-second Floor Rep right now: Complete today's core repetition privately and mark your physical ledger purely for your own integrity."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 4.20 (trans. George Long, 1862) (LONELY: Solitude, Alienation & Lack of Recognition), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 4.20 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Solitude, Alienation & Lack of Recognition)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Everything which is in any way beautiful is beautiful in itself, and terminates in itself, not having praise as part of itself. Neither worse then nor better is a thing made by being praised.” — Marcus Aurelius, Meditations 4.20 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Anything genuinely well done carries its worth inside itself; applause adds nothing to its quality, and working unseen takes nothing away from it."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Complete today's core repetition privately and mark your physical ledger purely for your own integrity.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=12&trigger=LONELY&ref=stoic_lonely_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_13",
+      "entry_id": "stoic_tired_01",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Fatigue, Depleted Willpower & Heavy Limbs",
+      "reference": "Marcus Aurelius, Meditations 4.24 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=13&trigger=TIRED&ref=stoic_tired_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—fatigue, depleted willpower & heavy limbs—hear Marcus Aurelius, Meditations 4.24 (trans. George Long, 1862): \"Occupy thyself with few things, says the philosopher, if thou wouldst be tranquil. For the greatest part of what we say and do being unnecessary, if a man takes this away, he will have more leisure and less uneasiness.\" In plain terms: Most exhaustion comes from carrying a dozen unnecessary obligations; strip away what is non-essential, and you immediately recover both calm and breathing room. Your sixty-second Floor Rep right now: Strike two non-essential items off today's list and commit only to your single essential Floor Rep."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 4.24 (trans. George Long, 1862) (TIRED: Fatigue, Depleted Willpower & Heavy Limbs), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 4.24 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Fatigue, Depleted Willpower & Heavy Limbs)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Occupy thyself with few things, says the philosopher, if thou wouldst be tranquil. For the greatest part of what we say and do being unnecessary, if a man takes this away, he will have more leisure and less uneasiness.” — Marcus Aurelius, Meditations 4.24 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Most exhaustion comes from carrying a dozen unnecessary obligations; strip away what is non-essential, and you immediately recover both calm and breathing room."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Strike two non-essential items off today's list and commit only to your single essential Floor Rep.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=13&trigger=TIRED&ref=stoic_tired_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_14",
+      "entry_id": "stoic_tired_02",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Fatigue, Depleted Willpower & Heavy Limbs",
+      "reference": "Seneca, Of Peace of Mind Ch. XVII (trans. Aubrey Stewart, 1889)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=14&trigger=TIRED&ref=stoic_tired_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—fatigue, depleted willpower & heavy limbs—hear Seneca, Of Peace of Mind Ch. XVII (trans. Aubrey Stewart, 1889): \"The mind must not be kept invariably at the same tension, but must be diverted to amusements... Our minds must be given a relaxation: they will rise better and keener after a rest.\" In plain terms: A bow kept strung tight every hour eventually loses its spring; giving your mind genuine, guilt-free rest allows it to return sharper tomorrow. Your sixty-second Floor Rep right now: Take ten minutes of genuine low-stimulation recovery: walk, stretch, or rest with your eyes closed."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Seneca, Of Peace of Mind Ch. XVII (trans. Aubrey Stewart, 1889) (TIRED: Fatigue, Depleted Willpower & Heavy Limbs), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Seneca, Of Peace of Mind Ch. XVII (trans. Aubrey Stewart, 1889)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Fatigue, Depleted Willpower & Heavy Limbs)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The mind must not be kept invariably at the same tension, but must be diverted to amusements... Our minds must be given a relaxation: they will rise better and keener after a rest.” — Seneca, Of Peace of Mind Ch. XVII (trans. Aubrey Stewart, 1889)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "A bow kept strung tight every hour eventually loses its spring; giving your mind genuine, guilt-free rest allows it to return sharper tomorrow."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Take ten minutes of genuine low-stimulation recovery: walk, stretch, or rest with your eyes closed.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=14&trigger=TIRED&ref=stoic_tired_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_15",
+      "entry_id": "stoic_tired_03",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Fatigue, Depleted Willpower & Heavy Limbs",
+      "reference": "Marcus Aurelius, Meditations 6.19 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=15&trigger=TIRED&ref=stoic_tired_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—fatigue, depleted willpower & heavy limbs—hear Marcus Aurelius, Meditations 6.19 (trans. George Long, 1862): \"If a thing is difficult to be accomplished by thyself, do not think that it is impossible for man: but if anything is possible for man and conformable to his nature, think that this can be attained by thyself too.\" In plain terms: When fatigue makes a task feel heavier than usual, do not mistake low energy for permanent inability; scale the step to fit your current capacity. Your sixty-second Floor Rep right now: Execute a 60-second Floor Rep right now—just enough to keep the practice warm without draining your reserves."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 6.19 (trans. George Long, 1862) (TIRED: Fatigue, Depleted Willpower & Heavy Limbs), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 6.19 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Fatigue, Depleted Willpower & Heavy Limbs)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“If a thing is difficult to be accomplished by thyself, do not think that it is impossible for man: but if anything is possible for man and conformable to his nature, think that this can be attained by thyself too.” — Marcus Aurelius, Meditations 6.19 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "When fatigue makes a task feel heavier than usual, do not mistake low energy for permanent inability; scale the step to fit your current capacity."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Execute a 60-second Floor Rep right now—just enough to keep the practice warm without draining your reserves.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=15&trigger=TIRED&ref=stoic_tired_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_16",
+      "entry_id": "stoic_tired_04",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Fatigue, Depleted Willpower & Heavy Limbs",
+      "reference": "Marcus Aurelius, Meditations 5.31 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=16&trigger=TIRED&ref=stoic_tired_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—fatigue, depleted willpower & heavy limbs—hear Marcus Aurelius, Meditations 5.31 (trans. George Long, 1862): \"Look within. Let neither the peculiar quality of anything nor its value escape thee.\" In plain terms: Return your attention inward and honor the simple value of resting cleanly when the day's work is done. Your sixty-second Floor Rep right now: Write 'Today's work is complete' in your journal and close your work tools for the evening."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 5.31 (trans. George Long, 1862) (TIRED: Fatigue, Depleted Willpower & Heavy Limbs), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 5.31 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Fatigue, Depleted Willpower & Heavy Limbs)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Look within. Let neither the peculiar quality of anything nor its value escape thee.” — Marcus Aurelius, Meditations 5.31 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Return your attention inward and honor the simple value of resting cleanly when the day's work is done."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write 'Today's work is complete' in your journal and close your work tools for the evening.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=16&trigger=TIRED&ref=stoic_tired_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_17",
+      "entry_id": "stoic_stressed_01",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Time Pressure & Catastrophic Forecasting",
+      "reference": "Epictetus, Enchiridion 1 (trans. T.W. Higginson, 1865)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=17&trigger=STRESSED&ref=stoic_stressed_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—overwhelm, time pressure & catastrophic forecasting—hear Epictetus, Enchiridion 1 (trans. T.W. Higginson, 1865): \"There are things which are within our power, and there are things which are beyond our power. Within our power are opinion, aim, desire, aversion, and, in one word, whatever affairs are our own.\" In plain terms: Separate every stressful situation into two columns immediately: what belongs to external circumstance, and what belongs to your own next choice. Your sixty-second Floor Rep right now: Draw two columns on paper—'Not Mine to Control' and 'My Next Step'—and act only on the right column."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Epictetus, Enchiridion 1 (trans. T.W. Higginson, 1865) (STRESSED: Overwhelm, Time Pressure & Catastrophic Forecasting), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Epictetus, Enchiridion 1 (trans. T.W. Higginson, 1865)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Overwhelm, Time Pressure & Catastrophic Forecasting)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“There are things which are within our power, and there are things which are beyond our power. Within our power are opinion, aim, desire, aversion, and, in one word, whatever affairs are our own.” — Epictetus, Enchiridion 1 (trans. T.W. Higginson, 1865)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Separate every stressful situation into two columns immediately: what belongs to external circumstance, and what belongs to your own next choice."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Draw two columns on paper—'Not Mine to Control' and 'My Next Step'—and act only on the right column.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=17&trigger=STRESSED&ref=stoic_stressed_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_18",
+      "entry_id": "stoic_stressed_02",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Time Pressure & Catastrophic Forecasting",
+      "reference": "Marcus Aurelius, Meditations 8.36 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=18&trigger=STRESSED&ref=stoic_stressed_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—overwhelm, time pressure & catastrophic forecasting—hear Marcus Aurelius, Meditations 8.36 (trans. George Long, 1862): \"Do not disturb thyself by thinking of the whole of thy life. Let not thy thoughts at once embrace all the various troubles which thou mayest expect to befall thee: but on every occasion ask thyself, What is there in this which is intolerable and past bearing?\" In plain terms: Do not crush yourself by piling the whole month's hypothetical problems onto this afternoon; handle only the immediate 15-minute slice in front of you. Your sixty-second Floor Rep right now: Shrink your horizon to the next 15 minutes and complete one clean, single-task action."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 8.36 (trans. George Long, 1862) (STRESSED: Overwhelm, Time Pressure & Catastrophic Forecasting), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 8.36 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Overwhelm, Time Pressure & Catastrophic Forecasting)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Do not disturb thyself by thinking of the whole of thy life. Let not thy thoughts at once embrace all the various troubles which thou mayest expect to befall thee: but on every occasion ask thyself, What is there in this which is intolerable and past bearing?” — Marcus Aurelius, Meditations 8.36 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Do not crush yourself by piling the whole month's hypothetical problems onto this afternoon; handle only the immediate 15-minute slice in front of you."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Shrink your horizon to the next 15 minutes and complete one clean, single-task action.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=18&trigger=STRESSED&ref=stoic_stressed_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_19",
+      "entry_id": "stoic_stressed_03",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Time Pressure & Catastrophic Forecasting",
+      "reference": "Seneca, Of the Shortness of Life Ch. IX (trans. Aubrey Stewart, 1889)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=19&trigger=STRESSED&ref=stoic_stressed_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—overwhelm, time pressure & catastrophic forecasting—hear Seneca, Of the Shortness of Life Ch. IX (trans. Aubrey Stewart, 1889): \"The greatest hindrance to living is expectancy, which depends upon the morrow and wastes to-day.\" In plain terms: Nothing drains your focus faster than living suspended in anxiety about tomorrow while letting today's actual hours slip through your fingers. Your sixty-second Floor Rep right now: Silence all alerts for 25 minutes and bring 100% of your attention to a single tangible task."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Seneca, Of the Shortness of Life Ch. IX (trans. Aubrey Stewart, 1889) (STRESSED: Overwhelm, Time Pressure & Catastrophic Forecasting), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Seneca, Of the Shortness of Life Ch. IX (trans. Aubrey Stewart, 1889)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Overwhelm, Time Pressure & Catastrophic Forecasting)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The greatest hindrance to living is expectancy, which depends upon the morrow and wastes to-day.” — Seneca, Of the Shortness of Life Ch. IX (trans. Aubrey Stewart, 1889)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Nothing drains your focus faster than living suspended in anxiety about tomorrow while letting today's actual hours slip through your fingers."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Silence all alerts for 25 minutes and bring 100% of your attention to a single tangible task.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=19&trigger=STRESSED&ref=stoic_stressed_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_20",
+      "entry_id": "stoic_stressed_04",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Time Pressure & Catastrophic Forecasting",
+      "reference": "Epictetus, Enchiridion 5 (trans. T.W. Higginson, 1865)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=20&trigger=STRESSED&ref=stoic_stressed_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—overwhelm, time pressure & catastrophic forecasting—hear Epictetus, Enchiridion 5 (trans. T.W. Higginson, 1865): \"Men are disturbed not by things, but by the views which they take of things.\" In plain terms: The tight knot in your stomach is tied not by the task itself, but by the catastrophic story you are telling yourself about it. Your sixty-second Floor Rep right now: Rewrite the stressful situation in one calm, neutral sentence and begin the very first step."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Epictetus, Enchiridion 5 (trans. T.W. Higginson, 1865) (STRESSED: Overwhelm, Time Pressure & Catastrophic Forecasting), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Epictetus, Enchiridion 5 (trans. T.W. Higginson, 1865)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Overwhelm, Time Pressure & Catastrophic Forecasting)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Men are disturbed not by things, but by the views which they take of things.” — Epictetus, Enchiridion 5 (trans. T.W. Higginson, 1865)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "The tight knot in your stomach is tied not by the task itself, but by the catastrophic story you are telling yourself about it."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Rewrite the stressful situation in one calm, neutral sentence and begin the very first step.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=20&trigger=STRESSED&ref=stoic_stressed_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_21",
+      "entry_id": "stoic_hopeless_01",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement, Setback & Loss of Momentum",
+      "reference": "Marcus Aurelius, Meditations 5.9 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=21&trigger=HOPELESS&ref=stoic_hopeless_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—discouragement, setback & loss of momentum—hear Marcus Aurelius, Meditations 5.9 (trans. George Long, 1862): \"Do not be disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles; but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature.\" In plain terms: When you slip or miss a day, do not fall into disgust or quit the path; simply return to your practice with a steady heart and take satisfaction in building a predominantly faithful life. Your sixty-second Floor Rep right now: Return to the path right now: perform a 60-second recovery rep and mark today as a clean return."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 5.9 (trans. George Long, 1862) (HOPELESS: Discouragement, Setback & Loss of Momentum), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 5.9 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Discouragement, Setback & Loss of Momentum)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Do not be disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles; but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature.” — Marcus Aurelius, Meditations 5.9 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "When you slip or miss a day, do not fall into disgust or quit the path; simply return to your practice with a steady heart and take satisfaction in building a predominantly faithful life."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Return to the path right now: perform a 60-second recovery rep and mark today as a clean return.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=21&trigger=HOPELESS&ref=stoic_hopeless_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_22",
+      "entry_id": "stoic_hopeless_02",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement, Setback & Loss of Momentum",
+      "reference": "Marcus Aurelius, Meditations 5.20 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=22&trigger=HOPELESS&ref=stoic_hopeless_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—discouragement, setback & loss of momentum—hear Marcus Aurelius, Meditations 5.20 (trans. George Long, 1862): \"The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.\" In plain terms: A setback does not end the training—it becomes the exact raw material you use to practice patience, adaptability, and resolve. Your sixty-second Floor Rep right now: Write down one constructive lesson from the recent setback and execute one small forward action."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 5.20 (trans. George Long, 1862) (HOPELESS: Discouragement, Setback & Loss of Momentum), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 5.20 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Discouragement, Setback & Loss of Momentum)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.” — Marcus Aurelius, Meditations 5.20 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "A setback does not end the training—it becomes the exact raw material you use to practice patience, adaptability, and resolve."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write down one constructive lesson from the recent setback and execute one small forward action.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=22&trigger=HOPELESS&ref=stoic_hopeless_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_23",
+      "entry_id": "stoic_hopeless_03",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement, Setback & Loss of Momentum",
+      "reference": "Marcus Aurelius, Meditations 7.2 (trans. George Long, 1862)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=23&trigger=HOPELESS&ref=stoic_hopeless_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—discouragement, setback & loss of momentum—hear Marcus Aurelius, Meditations 7.2 (trans. George Long, 1862): \"How can our principles become dead, unless the impressions (thoughts) which correspond to them are extinguished? But it is in thy power continuously to fan these thoughts into a flame. I can have that opinion about anything, which I ought to have. If I can, why am I disturbed? See that thou now begin to live.\" In plain terms: Your core principles never die as long as you re-ignite them in the present hour; no matter what yesterday looked like, you can begin living deliberately right now. Your sixty-second Floor Rep right now: Speak your core principle aloud and back it up immediately with two minutes of deliberate action."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Marcus Aurelius, Meditations 7.2 (trans. George Long, 1862) (HOPELESS: Discouragement, Setback & Loss of Momentum), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Marcus Aurelius, Meditations 7.2 (trans. George Long, 1862)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Discouragement, Setback & Loss of Momentum)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“How can our principles become dead, unless the impressions (thoughts) which correspond to them are extinguished? But it is in thy power continuously to fan these thoughts into a flame. I can have that opinion about anything, which I ought to have. If I can, why am I disturbed? See that thou now begin to live.” — Marcus Aurelius, Meditations 7.2 (trans. George Long, 1862)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Your core principles never die as long as you re-ignite them in the present hour; no matter what yesterday looked like, you can begin living deliberately right now."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Speak your core principle aloud and back it up immediately with two minutes of deliberate action.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=23&trigger=HOPELESS&ref=stoic_hopeless_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_stoic_citadel_pd_reel_24",
+      "entry_id": "stoic_hopeless_04",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement, Setback & Loss of Momentum",
+      "reference": "Epictetus, Discourses Book IV, Ch. 9 (trans. George Long, 1877)",
+      "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=24&trigger=HOPELESS&ref=stoic_hopeless_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—discouragement, setback & loss of momentum—hear Epictetus, Discourses Book IV, Ch. 9 (trans. George Long, 1877): \"There is nothing more tractable than the human soul. You have only to will a thing, and it is done, and the soul is set right: as, on the other hand, you have only to nod, and it is ruined. For both ruin and recovery are from within.\" In plain terms: Because both drift and recovery originate inside your own choices, recovery is never locked behind an external gate—the moment you choose to straighten your posture, recovery has already begun. Your sixty-second Floor Rep right now: Stand up straight, clear the surface in front of you, and log your immediate recovery step."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Epictetus, Discourses Book IV, Ch. 9 (trans. George Long, 1877) (HOPELESS: Discouragement, Setback & Loss of Momentum), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Epictetus, Discourses Book IV, Ch. 9 (trans. George Long, 1877)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Discouragement, Setback & Loss of Momentum)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“There is nothing more tractable than the human soul. You have only to will a thing, and it is done, and the soul is set right: as, on the other hand, you have only to nod, and it is ruined. For both ruin and recovery are from within.” — Epictetus, Discourses Book IV, Ch. 9 (trans. George Long, 1877)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Because both drift and recovery originate inside your own choices, recovery is never locked behind an external gate—the moment you choose to straighten your posture, recovery has already begun."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Stand up straight, clear the surface in front of you, and log your immediate recovery step.",
+          "qr_overlay": "864z://cs/entry?book=864z_stoic_citadel_pd&page=24&trigger=HOPELESS&ref=stoic_hopeless_04"
+        }
+      ]
+    }
+  ]
+}

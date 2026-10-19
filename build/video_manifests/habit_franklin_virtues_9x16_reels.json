@@ -1,0 +1,1210 @@
+{
+  "manifest_version": "1.0.0",
+  "generated_at": "2026-10-19T03:20:41Z",
+  "pack_name": "habit_franklin_virtues",
+  "pack_id": "864z_habit_franklin_james_pd",
+  "template_id": "864z_social_video_short_9x16_v1",
+  "total_reels": 24,
+  "reels": [
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_01",
+      "entry_id": "habit_hungry_01",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=1&trigger=HUNGRY&ref=habit_hungry_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, appetite drift & sensory indulgence—hear Benjamin Franklin, Autobiography Ch. VIII (1791): \"1. TEMPERANCE. Eat not to dulness; drink not to elevation. Temperance first, as it tends to procure that coolness and clearness of head, which is so necessary where constant vigilance was to be kept up, and guard maintained against the unremitting attraction of ancient habits.\" In plain terms: Temperance stands at the head of the ledger because a cool, clear mind is the first prerequisite for resisting the pull of old habits. Your sixty-second Floor Rep right now: Choose a clean, measured input for the next hour—water and whole nourishment—to keep your mental clarity sharp."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII (1791) (HUNGRY: Craving, Appetite Drift & Sensory Indulgence), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Appetite Drift & Sensory Indulgence)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“1. TEMPERANCE. Eat not to dulness; drink not to elevation. Temperance first, as it tends to procure that coolness and clearness of head, which is so necessary where constant vigilance was to be kept up, and guard maintained against the unremitting attraction of ancient habits.” — Benjamin Franklin, Autobiography Ch. VIII (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Temperance stands at the head of the ledger because a cool, clear mind is the first prerequisite for resisting the pull of old habits."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Choose a clean, measured input for the next hour—water and whole nourishment—to keep your mental clarity sharp.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=1&trigger=HUNGRY&ref=habit_hungry_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_02",
+      "entry_id": "habit_hungry_02",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=2&trigger=HUNGRY&ref=habit_hungry_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, appetite drift & sensory indulgence—hear Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908): \"By abstaining from pleasures we become temperate, and it is when we have become so that we are most able to abstain from them.\" In plain terms: Self-restraint is a physical muscle: each time you abstain from a passing craving, you build the exact strength that makes the next refusal easier. Your sixty-second Floor Rep right now: Complete one deliberate 5-minute pause before answering the craving, logging it as a direct deposit into your character."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908) (HUNGRY: Craving, Appetite Drift & Sensory Indulgence), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Appetite Drift & Sensory Indulgence)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“By abstaining from pleasures we become temperate, and it is when we have become so that we are most able to abstain from them.” — Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Self-restraint is a physical muscle: each time you abstain from a passing craving, you build the exact strength that makes the next refusal easier."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Complete one deliberate 5-minute pause before answering the craving, logging it as a direct deposit into your character.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=2&trigger=HUNGRY&ref=habit_hungry_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_03",
+      "entry_id": "habit_hungry_03",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "reference": "William James, Habit (1890, Henry Holt & Co.)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=3&trigger=HUNGRY&ref=habit_hungry_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, appetite drift & sensory indulgence—hear William James, Habit (1890, Henry Holt & Co.): \"Every smallest stroke of virtue or of vice leaves its never so little scar. Down among his nerve-cells and fibres the molecules are counting it, registering and storing it up to be used against him when the next temptation comes.\" In plain terms: Nothing is neutral in the nervous system: every time you yield to or resist a craving, your neural pathways physically record the vote for next time. Your sixty-second Floor Rep right now: Cast one physical vote for your target pathway: step away from the trigger and perform 60 seconds of focused breath or movement."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking William James, Habit (1890, Henry Holt & Co.) (HUNGRY: Craving, Appetite Drift & Sensory Indulgence), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for William James, Habit (1890, Henry Holt & Co.)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Appetite Drift & Sensory Indulgence)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Every smallest stroke of virtue or of vice leaves its never so little scar. Down among his nerve-cells and fibres the molecules are counting it, registering and storing it up to be used against him when the next temptation comes.” — William James, Habit (1890, Henry Holt & Co.)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Nothing is neutral in the nervous system: every time you yield to or resist a craving, your neural pathways physically record the vote for next time."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Cast one physical vote for your target pathway: step away from the trigger and perform 60 seconds of focused breath or movement.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=3&trigger=HUNGRY&ref=habit_hungry_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_04",
+      "entry_id": "habit_hungry_04",
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=4&trigger=HUNGRY&ref=habit_hungry_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hungry—craving, appetite drift & sensory indulgence—hear Benjamin Franklin, Autobiography Ch. VIII (1791): \"6. INDUSTRY. Lose no time; be always employ'd in something useful; cut off all unnecessary actions.\" In plain terms: Idle hands and bored attention invite stray cravings; engaging your hands in a useful, concrete task dissolves restlessness at its root. Your sixty-second Floor Rep right now: Engage your hands immediately in a 3-minute useful physical task—tidying your desk, writing notes, or stretching."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII (1791) (HUNGRY: Craving, Appetite Drift & Sensory Indulgence), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HUNGRY? (Craving, Appetite Drift & Sensory Indulgence)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“6. INDUSTRY. Lose no time; be always employ'd in something useful; cut off all unnecessary actions.” — Benjamin Franklin, Autobiography Ch. VIII (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Idle hands and bored attention invite stray cravings; engaging your hands in a useful, concrete task dissolves restlessness at its root."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Engage your hands immediately in a 3-minute useful physical task—tidying your desk, writing notes, or stretching.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=4&trigger=HUNGRY&ref=habit_hungry_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_05",
+      "entry_id": "habit_angry_01",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=5&trigger=ANGRY&ref=habit_angry_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—irritation, resentment & reactive speech—hear Benjamin Franklin, Autobiography Ch. VIII (1791): \"11. TRANQUILLITY. Be not disturbed at trifles, or at accidents common or unavoidable.\" In plain terms: Tranquillity: Refuse to spend expensive emotional energy on minor irritations, everyday friction, or unavoidable delays. Your sixty-second Floor Rep right now: Label the annoyance out loud as 'a common trifle,' unclench your jaw, and resume your primary task."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII (1791) (ANGRY: Irritation, Resentment & Reactive Speech), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Irritation, Resentment & Reactive Speech)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“11. TRANQUILLITY. Be not disturbed at trifles, or at accidents common or unavoidable.” — Benjamin Franklin, Autobiography Ch. VIII (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Tranquillity: Refuse to spend expensive emotional energy on minor irritations, everyday friction, or unavoidable delays."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Label the annoyance out loud as 'a common trifle,' unclench your jaw, and resume your primary task.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=5&trigger=ANGRY&ref=habit_angry_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_06",
+      "entry_id": "habit_angry_02",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=6&trigger=ANGRY&ref=habit_angry_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—irritation, resentment & reactive speech—hear Benjamin Franklin, Autobiography Ch. VIII (1791): \"2. SILENCE. Speak not but what may benefit others or yourself; avoid trifling conversation.\" In plain terms: Silence: Hold your tongue unless your words genuinely serve a constructive purpose; skip heated arguments and reactive commentary. Your sixty-second Floor Rep right now: Practice Franklin's Silence for the next ten minutes: delete the draft reply or keep quiet until your pulse settles."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII (1791) (ANGRY: Irritation, Resentment & Reactive Speech), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Irritation, Resentment & Reactive Speech)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“2. SILENCE. Speak not but what may benefit others or yourself; avoid trifling conversation.” — Benjamin Franklin, Autobiography Ch. VIII (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Silence: Hold your tongue unless your words genuinely serve a constructive purpose; skip heated arguments and reactive commentary."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Practice Franklin's Silence for the next ten minutes: delete the draft reply or keep quiet until your pulse settles.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=6&trigger=ANGRY&ref=habit_angry_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_07",
+      "entry_id": "habit_angry_03",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 9 (trans. W.D. Ross, 1908)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=7&trigger=ANGRY&ref=habit_angry_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—irritation, resentment & reactive speech—hear Aristotle, Nicomachean Ethics Book II, Ch. 9 (trans. W.D. Ross, 1908): \"Anyone can get angry—that is easy—or give or spend money; but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for everyone, nor is it easy; wherefore goodness is both rare and laudable and noble.\" In plain terms: Any unpracticed person can explode in anger; true mastery lies in measuring your response to the exact proportion, time, and constructive purpose required. Your sixty-second Floor Rep right now: Write down the single constructive outcome you want from this situation before taking any action."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Aristotle, Nicomachean Ethics Book II, Ch. 9 (trans. W.D. Ross, 1908) (ANGRY: Irritation, Resentment & Reactive Speech), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Aristotle, Nicomachean Ethics Book II, Ch. 9 (trans. W.D. Ross, 1908)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Irritation, Resentment & Reactive Speech)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Anyone can get angry—that is easy—or give or spend money; but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for everyone, nor is it easy; wherefore goodness is both rare and laudable and noble.” — Aristotle, Nicomachean Ethics Book II, Ch. 9 (trans. W.D. Ross, 1908)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Any unpracticed person can explode in anger; true mastery lies in measuring your response to the exact proportion, time, and constructive purpose required."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write down the single constructive outcome you want from this situation before taking any action.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=7&trigger=ANGRY&ref=habit_angry_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_08",
+      "entry_id": "habit_angry_04",
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "reference": "Samuel Smiles, Character Ch. VI 'Self-Control' (1871)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=8&trigger=ANGRY&ref=habit_angry_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel angry—irritation, resentment & reactive speech—hear Samuel Smiles, Character Ch. VI 'Self-Control' (1871): \"Self-control is only courage under another form. It may almost be regarded as the primary essence of character... He who cannot restrain his temper, cannot command his thoughts or his actions.\" In plain terms: Holding your temper steady under provocation is not weakness—it is courage in its most disciplined, concentrated form. Your sixty-second Floor Rep right now: Keep your posture upright and your breathing slow for 60 seconds, treating calm restraint as an act of courage."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Samuel Smiles, Character Ch. VI 'Self-Control' (1871) (ANGRY: Irritation, Resentment & Reactive Speech), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Samuel Smiles, Character Ch. VI 'Self-Control' (1871)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING ANGRY? (Irritation, Resentment & Reactive Speech)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Self-control is only courage under another form. It may almost be regarded as the primary essence of character... He who cannot restrain his temper, cannot command his thoughts or his actions.” — Samuel Smiles, Character Ch. VI 'Self-Control' (1871)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Holding your temper steady under provocation is not weakness—it is courage in its most disciplined, concentrated form."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Keep your posture upright and your breathing slow for 60 seconds, treating calm restraint as an act of courage.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=8&trigger=ANGRY&ref=habit_angry_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_09",
+      "entry_id": "habit_lonely_01",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "reference": "Samuel Smiles, Self-Help Ch. I (1859)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=9&trigger=LONELY&ref=habit_lonely_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—solitary effort, unwitnessed grind & social drift—hear Samuel Smiles, Self-Help Ch. I (1859): \"The spirit of self-help is the root of all genuine growth in the individual... Help from without is often enfeebling in its effects, but help from within invariably invigorates.\" In plain terms: Waiting for outside applause or company before you act weakens your resolve; the discipline you generate from within always strengthens you. Your sixty-second Floor Rep right now: Initiate your daily practice on your own cue right now, proving your momentum does not depend on an audience."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Samuel Smiles, Self-Help Ch. I (1859) (LONELY: Solitary Effort, Unwitnessed Grind & Social Drift), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Samuel Smiles, Self-Help Ch. I (1859)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Solitary Effort, Unwitnessed Grind & Social Drift)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The spirit of self-help is the root of all genuine growth in the individual... Help from without is often enfeebling in its effects, but help from within invariably invigorates.” — Samuel Smiles, Self-Help Ch. I (1859)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Waiting for outside applause or company before you act weakens your resolve; the discipline you generate from within always strengthens you."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Initiate your daily practice on your own cue right now, proving your momentum does not depend on an audience.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=9&trigger=LONELY&ref=habit_lonely_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_10",
+      "entry_id": "habit_lonely_02",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "reference": "William James, Habit (1890, Henry Holt & Co.)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=10&trigger=LONELY&ref=habit_lonely_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—solitary effort, unwitnessed grind & social drift—hear William James, Habit (1890, Henry Holt & Co.): \"As we become permanent drunkards by so many separate drinks, so we become saints and authorities and experts in the practical and scientific spheres by so many separate acts and hours of work.\" In plain terms: Every expert and person of steady character was built through quiet, unglamorous, solitary hours of repetition that nobody applauded at the time. Your sixty-second Floor Rep right now: Log one focused 5-minute block of craft or habit execution in your private ledger."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking William James, Habit (1890, Henry Holt & Co.) (LONELY: Solitary Effort, Unwitnessed Grind & Social Drift), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for William James, Habit (1890, Henry Holt & Co.)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Solitary Effort, Unwitnessed Grind & Social Drift)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“As we become permanent drunkards by so many separate drinks, so we become saints and authorities and experts in the practical and scientific spheres by so many separate acts and hours of work.” — William James, Habit (1890, Henry Holt & Co.)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Every expert and person of steady character was built through quiet, unglamorous, solitary hours of repetition that nobody applauded at the time."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Log one focused 5-minute block of craft or habit execution in your private ledger.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=10&trigger=LONELY&ref=habit_lonely_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_11",
+      "entry_id": "habit_lonely_03",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=11&trigger=LONELY&ref=habit_lonely_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—solitary effort, unwitnessed grind & social drift—hear Benjamin Franklin, Autobiography Ch. VIII (1791): \"7. SINCERITY. Use no hurtful deceit; think innocently and justly, and, if you speak, speak accordingly.\" In plain terms: Sincerity: Keep your inner thoughts honest and aligned with your outward words, building deep trust with both yourself and others. Your sixty-second Floor Rep right now: Write and send one brief, sincere message of appreciation or check-in to a colleague, friend, or family member."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII (1791) (LONELY: Solitary Effort, Unwitnessed Grind & Social Drift), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Solitary Effort, Unwitnessed Grind & Social Drift)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“7. SINCERITY. Use no hurtful deceit; think innocently and justly, and, if you speak, speak accordingly.” — Benjamin Franklin, Autobiography Ch. VIII (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Sincerity: Keep your inner thoughts honest and aligned with your outward words, building deep trust with both yourself and others."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write and send one brief, sincere message of appreciation or check-in to a colleague, friend, or family member.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=11&trigger=LONELY&ref=habit_lonely_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_12",
+      "entry_id": "habit_lonely_04",
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "reference": "Aristotle, Nicomachean Ethics Book IX, Ch. 4 (trans. W.D. Ross, 1908)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=12&trigger=LONELY&ref=habit_lonely_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel lonely—solitary effort, unwitnessed grind & social drift—hear Aristotle, Nicomachean Ethics Book IX, Ch. 4 (trans. W.D. Ross, 1908): \"For the good man is of one mind with himself, and desires the same things with all his soul; and therefore he wishes for himself what is good and what appears so, and does it... and wishes to live with himself; for he does so with pleasure, since the memories of his past acts are delightful.\" In plain terms: When you keep your promises to yourself in private, your own company becomes warm and welcome rather than lonely. Your sixty-second Floor Rep right now: Honor one small promise to yourself right now so tonight's ledger reflects integrity."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Aristotle, Nicomachean Ethics Book IX, Ch. 4 (trans. W.D. Ross, 1908) (LONELY: Solitary Effort, Unwitnessed Grind & Social Drift), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Aristotle, Nicomachean Ethics Book IX, Ch. 4 (trans. W.D. Ross, 1908)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING LONELY? (Solitary Effort, Unwitnessed Grind & Social Drift)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“For the good man is of one mind with himself, and desires the same things with all his soul; and therefore he wishes for himself what is good and what appears so, and does it... and wishes to live with himself; for he does so with pleasure, since the memories of his past acts are delightful.” — Aristotle, Nicomachean Ethics Book IX, Ch. 4 (trans. W.D. Ross, 1908)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "When you keep your promises to yourself in private, your own company becomes warm and welcome rather than lonely."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Honor one small promise to yourself right now so tonight's ledger reflects integrity.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=12&trigger=LONELY&ref=habit_lonely_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_13",
+      "entry_id": "habit_tired_01",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "reference": "William James, Habit (1890, Henry Holt & Co.)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=13&trigger=TIRED&ref=habit_tired_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—mental fatigue, decision exhaustion & heavy inertia—hear William James, Habit (1890, Henry Holt & Co.): \"The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work. There is no more miserable human being than one in whom nothing is habitual but indecision.\" In plain terms: Nothing exhausts you faster than debating every routine from scratch each day; handing your core habits over to automatic cues saves your energy. Your sixty-second Floor Rep right now: Stop debating and execute the miniature 60-second Floor Rep immediately upon your fixed cue."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking William James, Habit (1890, Henry Holt & Co.) (TIRED: Mental Fatigue, Decision Exhaustion & Heavy Inertia), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for William James, Habit (1890, Henry Holt & Co.)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Mental Fatigue, Decision Exhaustion & Heavy Inertia)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work. There is no more miserable human being than one in whom nothing is habitual but indecision.” — William James, Habit (1890, Henry Holt & Co.)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Nothing exhausts you faster than debating every routine from scratch each day; handing your core habits over to automatic cues saves your energy."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Stop debating and execute the miniature 60-second Floor Rep immediately upon your fixed cue.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=13&trigger=TIRED&ref=habit_tired_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_14",
+      "entry_id": "habit_tired_02",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. III (1910)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=14&trigger=TIRED&ref=habit_tired_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—mental fatigue, decision exhaustion & heavy inertia—hear Arnold Bennett, How to Live on 24 Hours a Day Ch. III (1910): \"The chief beauty about the constant supply of time is that you cannot waste it in advance. The next year, the next day, the next hour are lying ready for you, as perfect, as unspoiled, as if you had never wasted or misapplied a single moment in all your career.\" In plain terms: Even when the earlier part of the day drained you, the very next hour arrives completely unspoiled—and a gentle, modest investment in it is enough. Your sixty-second Floor Rep right now: Do one gentle 2-minute reset—clear your surface, log your check-in, and close the day cleanly."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Arnold Bennett, How to Live on 24 Hours a Day Ch. III (1910) (TIRED: Mental Fatigue, Decision Exhaustion & Heavy Inertia), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Arnold Bennett, How to Live on 24 Hours a Day Ch. III (1910)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Mental Fatigue, Decision Exhaustion & Heavy Inertia)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“The chief beauty about the constant supply of time is that you cannot waste it in advance. The next year, the next day, the next hour are lying ready for you, as perfect, as unspoiled, as if you had never wasted or misapplied a single moment in all your career.” — Arnold Bennett, How to Live on 24 Hours a Day Ch. III (1910)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Even when the earlier part of the day drained you, the very next hour arrives completely unspoiled—and a gentle, modest investment in it is enough."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Do one gentle 2-minute reset—clear your surface, log your check-in, and close the day cleanly.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=14&trigger=TIRED&ref=habit_tired_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_15",
+      "entry_id": "habit_tired_03",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=15&trigger=TIRED&ref=habit_tired_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—mental fatigue, decision exhaustion & heavy inertia—hear Benjamin Franklin, Autobiography Ch. VIII (1791): \"3. ORDER. Let all your things have their places; let each part of your business have its time.\" In plain terms: Order reduces fatigue: when your tools sit in their appointed place and your habit has a fixed window, friction drops to near zero. Your sixty-second Floor Rep right now: Take 90 seconds to place your tools or journal in their exact ready position for tomorrow morning."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII (1791) (TIRED: Mental Fatigue, Decision Exhaustion & Heavy Inertia), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Mental Fatigue, Decision Exhaustion & Heavy Inertia)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“3. ORDER. Let all your things have their places; let each part of your business have its time.” — Benjamin Franklin, Autobiography Ch. VIII (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Order reduces fatigue: when your tools sit in their appointed place and your habit has a fixed window, friction drops to near zero."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Take 90 seconds to place your tools or journal in their exact ready position for tomorrow morning.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=15&trigger=TIRED&ref=habit_tired_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_16",
+      "entry_id": "habit_tired_04",
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "reference": "William James, Talks to Teachers Ch. VIII (1899)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=16&trigger=TIRED&ref=habit_tired_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel tired—mental fatigue, decision exhaustion & heavy inertia—hear William James, Talks to Teachers Ch. VIII (1899): \"Keep the faculty of effort alive in you by a little gratuitous exercise every day.\" In plain terms: Even on a tired day, one small, unhurried act of deliberate effort keeps your internal pilot light burning brightly. Your sixty-second Floor Rep right now: Complete a 60-second Floor Rep, mark your ledger, and step away for full rest."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking William James, Talks to Teachers Ch. VIII (1899) (TIRED: Mental Fatigue, Decision Exhaustion & Heavy Inertia), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for William James, Talks to Teachers Ch. VIII (1899)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING TIRED? (Mental Fatigue, Decision Exhaustion & Heavy Inertia)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Keep the faculty of effort alive in you by a little gratuitous exercise every day.” — William James, Talks to Teachers Ch. VIII (1899)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Even on a tired day, one small, unhurried act of deliberate effort keeps your internal pilot light burning brightly."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Complete a 60-second Floor Rep, mark your ledger, and step away for full rest.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=16&trigger=TIRED&ref=habit_tired_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_17",
+      "entry_id": "habit_stressed_01",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=17&trigger=STRESSED&ref=habit_stressed_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—scattered multi-tasking, over-commitment & urgency friction—hear Benjamin Franklin, Autobiography Ch. VIII (1791): \"I judged it would be well not to distract my attention by attempting the whole at once, but to fix it on one of them at a time; and, when I should be master of that, then to proceed to another.\" In plain terms: Trying to overhaul your entire life at once guarantees overwhelm; fix your active attention on one primary priority at a time while keeping everything else in simple maintenance. Your sixty-second Floor Rep right now: Circle your single Primary Focus Habit for today and put all secondary aspirations on calm maintenance."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII (1791) (STRESSED: Scattered Multi-Tasking, Over-Commitment & Urgency Friction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Scattered Multi-Tasking, Over-Commitment & Urgency Friction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“I judged it would be well not to distract my attention by attempting the whole at once, but to fix it on one of them at a time; and, when I should be master of that, then to proceed to another.” — Benjamin Franklin, Autobiography Ch. VIII (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Trying to overhaul your entire life at once guarantees overwhelm; fix your active attention on one primary priority at a time while keeping everything else in simple maintenance."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Circle your single Primary Focus Habit for today and put all secondary aspirations on calm maintenance.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=17&trigger=STRESSED&ref=habit_stressed_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_18",
+      "entry_id": "habit_stressed_02",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=18&trigger=STRESSED&ref=habit_stressed_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—scattered multi-tasking, over-commitment & urgency friction—hear Benjamin Franklin, Autobiography Ch. VIII (1791): \"4. RESOLUTION. Resolve to perform what you ought; perform without fail what you resolve.\" In plain terms: Resolution cuts through anxious spinning: decide cleanly on one realistic obligation for this hour, and execute it without second-guessing. Your sixty-second Floor Rep right now: Start a 5-minute timer and execute the first concrete step of your resolved task without switching tabs."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII (1791) (STRESSED: Scattered Multi-Tasking, Over-Commitment & Urgency Friction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Scattered Multi-Tasking, Over-Commitment & Urgency Friction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“4. RESOLUTION. Resolve to perform what you ought; perform without fail what you resolve.” — Benjamin Franklin, Autobiography Ch. VIII (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Resolution cuts through anxious spinning: decide cleanly on one realistic obligation for this hour, and execute it without second-guessing."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Start a 5-minute timer and execute the first concrete step of your resolved task without switching tabs.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=18&trigger=STRESSED&ref=habit_stressed_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_19",
+      "entry_id": "habit_stressed_03",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "reference": "William James, Habit (1890, Henry Holt & Co.)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=19&trigger=STRESSED&ref=habit_stressed_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—scattered multi-tasking, over-commitment & urgency friction—hear William James, Habit (1890, Henry Holt & Co.): \"Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain.\" In plain terms: Do not let good intentions sit in your head generating stress; convert intention into physical movement at the very first opportunity. Your sixty-second Floor Rep right now: Perform the first 60 seconds of physical motion on your task before allowing yourself to check another notification."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking William James, Habit (1890, Henry Holt & Co.) (STRESSED: Scattered Multi-Tasking, Over-Commitment & Urgency Friction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for William James, Habit (1890, Henry Holt & Co.)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Scattered Multi-Tasking, Over-Commitment & Urgency Friction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain.” — William James, Habit (1890, Henry Holt & Co.)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Do not let good intentions sit in your head generating stress; convert intention into physical movement at the very first opportunity."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Perform the first 60 seconds of physical motion on your task before allowing yourself to check another notification.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=19&trigger=STRESSED&ref=habit_stressed_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_20",
+      "entry_id": "habit_stressed_04",
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=20&trigger=STRESSED&ref=habit_stressed_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel stressed—scattered multi-tasking, over-commitment & urgency friction—hear Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910): \"Beware of undertaking too much at the start. Be content with quite a little. Allow for accidents. Allow for human nature, especially your own.\" In plain terms: Over-ambitious schedules fracture under real-world pressure; build margin for interruptions into your day and take pride in a modest, unbreakable baseline. Your sixty-second Floor Rep right now: Trim today's target to a realistic size that allows 15 minutes of breathing room."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910) (STRESSED: Scattered Multi-Tasking, Over-Commitment & Urgency Friction), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING STRESSED? (Scattered Multi-Tasking, Over-Commitment & Urgency Friction)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“Beware of undertaking too much at the start. Be content with quite a little. Allow for accidents. Allow for human nature, especially your own.” — Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Over-ambitious schedules fracture under real-world pressure; build margin for interruptions into your day and take pride in a modest, unbreakable baseline."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Trim today's target to a realistic size that allows 15 minutes of breathing room.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=20&trigger=STRESSED&ref=habit_stressed_04"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_21",
+      "entry_id": "habit_hopeless_01",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII 'The Speckled Ax' (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=21&trigger=HOPELESS&ref=habit_hopeless_01",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—discouragement over imperfection & broken streaks—hear Benjamin Franklin, Autobiography Ch. VIII 'The Speckled Ax' (1791): \"A benevolent man should allow a few faults in himself, to keep his friends in countenance... Though I never arrived at the perfection I had been so ambitious of obtaining, but fell far short of it, yet I was, by the endeavour, a better and a happier man than I otherwise should have been if I had not attempted it.\" In plain terms: Perfection is not required for a transformative life; even an imperfect ledger with a few speckles builds a far stronger, happier person than never keeping the ledger at all. Your sixty-second Floor Rep right now: Accept the speckled ax: log today's honest check-in without erasing past marks and keep moving forward."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Benjamin Franklin, Autobiography Ch. VIII 'The Speckled Ax' (1791) (HOPELESS: Discouragement Over Imperfection & Broken Streaks), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Benjamin Franklin, Autobiography Ch. VIII 'The Speckled Ax' (1791)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Discouragement Over Imperfection & Broken Streaks)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“A benevolent man should allow a few faults in himself, to keep his friends in countenance... Though I never arrived at the perfection I had been so ambitious of obtaining, but fell far short of it, yet I was, by the endeavour, a better and a happier man than I otherwise should have been if I had not attempted it.” — Benjamin Franklin, Autobiography Ch. VIII 'The Speckled Ax' (1791)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "Perfection is not required for a transformative life; even an imperfect ledger with a few speckles builds a far stronger, happier person than never keeping the ledger at all."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Accept the speckled ax: log today's honest check-in without erasing past marks and keep moving forward.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=21&trigger=HOPELESS&ref=habit_hopeless_01"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_22",
+      "entry_id": "habit_hopeless_02",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=22&trigger=HOPELESS&ref=habit_hopeless_02",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—discouragement over imperfection & broken streaks—hear Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908): \"For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.\" In plain terms: You do not have to wait until you feel confident or hopeful to act; performing one small disciplined act right now is how confidence is rebuilt. Your sixty-second Floor Rep right now: Let action lead emotion: complete one 2-minute Floor Rep right now and let the completed act speak for itself."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908) (HOPELESS: Discouragement Over Imperfection & Broken Streaks), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Discouragement Over Imperfection & Broken Streaks)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.” — Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "You do not have to wait until you feel confident or hopeful to act; performing one small disciplined act right now is how confidence is rebuilt."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Let action lead emotion: complete one 2-minute Floor Rep right now and let the completed act speak for itself.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=22&trigger=HOPELESS&ref=habit_hopeless_02"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_23",
+      "entry_id": "habit_hopeless_03",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "reference": "Samuel Smiles, Self-Help Ch. XI (1859)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=23&trigger=HOPELESS&ref=habit_hopeless_03",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—discouragement over imperfection & broken streaks—hear Samuel Smiles, Self-Help Ch. XI (1859): \"We learn wisdom from failure much more than from success. We often discover what will do, by finding out what will not do; and probably he who never made a mistake never made a discovery.\" In plain terms: A slip is not a verdict on your character—it is diagnostic data showing you where the friction sits so you can adjust the system. Your sixty-second Floor Rep right now: Write down one environmental tweak learned from the slip and reset your cue for tomorrow."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Samuel Smiles, Self-Help Ch. XI (1859) (HOPELESS: Discouragement Over Imperfection & Broken Streaks), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Samuel Smiles, Self-Help Ch. XI (1859)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Discouragement Over Imperfection & Broken Streaks)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“We learn wisdom from failure much more than from success. We often discover what will do, by finding out what will not do; and probably he who never made a mistake never made a discovery.” — Samuel Smiles, Self-Help Ch. XI (1859)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "A slip is not a verdict on your character—it is diagnostic data showing you where the friction sits so you can adjust the system."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Write down one environmental tweak learned from the slip and reset your cue for tomorrow.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=23&trigger=HOPELESS&ref=habit_hopeless_03"
+        }
+      ]
+    },
+    {
+      "reel_id": "864z_habit_franklin_james_pd_reel_24",
+      "entry_id": "habit_hopeless_04",
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=24&trigger=HOPELESS&ref=habit_hopeless_04",
+      "aspect_ratio": "9:16",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "fps": 30
+      },
+      "duration_seconds": 30,
+      "audio_track": {
+        "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+        "narration_script": "When you feel hopeless—discouragement over imperfection & broken streaks—hear Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910): \"A failure at the beginning is easily repaired, and it is nothing to be ashamed of. Begin again cleanly, on a slightly smaller scale.\" In plain terms: When a routine stalls out, there is zero shame in restarting cleanly on a slightly smaller, steadier scale today. Your sixty-second Floor Rep right now: Scale your habit down by half right now, execute the smaller rep cleanly, and record your fresh start."
+      },
+      "visual_dagr_prompts": {
+        "pass_1_sketch": "jeff_sketch style, expressive hand-drawn artwork, bold contour lines, detailed cross-hatching, monochrome pencil on paper. Scene evoking Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910) (HOPELESS: Discouragement Over Imperfection & Broken Streaks), architectural stillness, vast stark white negative space.",
+        "pass_2_painting": "jeff_painting style, expressive painterly brushwork, rich oil color layering, tactile canvas texture, warm chiaroscuro depth revealing calm resolution for Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)."
+      },
+      "timeline": [
+        {
+          "beat_id": "hook_affect_trigger",
+          "start_sec": 0.0,
+          "end_sec": 4.5,
+          "on_screen_text": "FEELING HOPELESS? (Discouragement Over Imperfection & Broken Streaks)"
+        },
+        {
+          "beat_id": "verbatim_anchor",
+          "start_sec": 4.5,
+          "end_sec": 14.0,
+          "on_screen_text": "“A failure at the beginning is easily repaired, and it is nothing to be ashamed of. Begin again cleanly, on a slightly smaller scale.” — Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)"
+        },
+        {
+          "beat_id": "plain_distillation",
+          "start_sec": 14.0,
+          "end_sec": 22.5,
+          "on_screen_text": "When a routine stalls out, there is zero shame in restarting cleanly on a slightly smaller, steadier scale today."
+        },
+        {
+          "beat_id": "micro_action_cta",
+          "start_sec": 22.5,
+          "end_sec": 30.0,
+          "on_screen_text": "60s Floor Rep: Scale your habit down by half right now, execute the smaller rep cleanly, and record your fresh start.",
+          "qr_overlay": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=24&trigger=HOPELESS&ref=habit_hopeless_04"
+        }
+      ]
+    }
+  ]
+}

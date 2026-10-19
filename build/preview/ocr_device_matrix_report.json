@@ -1,0 +1,228 @@
+{
+  "report_version": "1.0.0",
+  "generated_at": "2026-10-19T03:22:35Z",
+  "target_architecture": "android_arm64",
+  "min_ram_baseline_spec": "4GB",
+  "billing_guardrail_verification": {
+    "total_metered_gcp_api_calls": 0,
+    "cloud_offload_mechanism": "User-Owned Google Drive OAuth 2.0 (drive.appdata) Only",
+    "gemini_md_rule_1_compliant": true
+  },
+  "journal_qr_verification": {
+    "manifests_verified_count": 3,
+    "total_qr_pages_verified": 72,
+    "all_qr_payloads_valid": true,
+    "manifests": [
+      {
+        "manifest_file": "habit_franklin_virtues_manifest.json",
+        "pack_id": "864z_habit_franklin_james_pd",
+        "pages_verified": 24,
+        "kdp_unit_print_cost_usd": 2.3
+      },
+      {
+        "manifest_file": "halt_kjv_scripture_manifest.json",
+        "pack_id": "864z_scripture_core_kjv",
+        "pages_verified": 24,
+        "kdp_unit_print_cost_usd": 2.3
+      },
+      {
+        "manifest_file": "stoic_marcus_aurelius_manifest.json",
+        "pack_id": "864z_stoic_citadel_pd",
+        "pages_verified": 24,
+        "kdp_unit_print_cost_usd": 2.3
+      }
+    ]
+  },
+  "hardware_matrix_evaluations": [
+    {
+      "device_id": "tier_a_tab_s8_ultra_12gb",
+      "device_name": "Samsung Galaxy Tab S8 Ultra / S24 Ultra (12GB RAM, Snapdragon 8 Gen 3)",
+      "meets_min_ram_baseline": true,
+      "routing_decision": {
+        "device_id": "tier_a_tab_s8_ultra_12gb",
+        "device_name": "Samsung Galaxy Tab S8 Ultra / S24 Ultra (12GB RAM, Snapdragon 8 Gen 3)",
+        "arch": "android_arm64",
+        "total_ram_gb": 12.0,
+        "available_ram_mb": 6400,
+        "selected_tier": "TIER_A",
+        "engine_id": "LiteRT-LM Gemma-3-4B-IT-INT4 (On-Device NPU/GPU)",
+        "model_footprint_mb": 2340.0,
+        "peak_ram_delta_mb": 2580.0,
+        "estimated_latency_ms": 1420,
+        "expected_cer_percent": 2.1,
+        "sovereign_storage_mode": "Local SQLite + Full Semantic Handwriting Transcription",
+        "metered_cloud_api_calls": 0,
+        "oom_safety_status": "SAFE (Headroom >= 620MB above 2.58GB peak)"
+      },
+      "sample_scan_result": {
+        "qr_resolved_book": "864z_scripture_core_kjv",
+        "qr_resolved_trigger": "ANGRY",
+        "qr_resolved_entry_id": "kjv_angry_01",
+        "extracted_text": "Paused for ninety seconds before answering. Took three slow breaths, drank water, and chose patience and a quiet boundary instead of matching their irritation.",
+        "affect_tags_detected": [
+          "patience",
+          "water",
+          "boundary"
+        ],
+        "drive_oauth_queued": false
+      }
+    },
+    {
+      "device_id": "tier_a_pixel_8_8gb",
+      "device_name": "Google Pixel 8 (8GB RAM, Tensor G3 TPU)",
+      "meets_min_ram_baseline": true,
+      "routing_decision": {
+        "device_id": "tier_a_pixel_8_8gb",
+        "device_name": "Google Pixel 8 (8GB RAM, Tensor G3 TPU)",
+        "arch": "android_arm64",
+        "total_ram_gb": 8.0,
+        "available_ram_mb": 3650,
+        "selected_tier": "TIER_A",
+        "engine_id": "LiteRT-LM Gemma-3-4B-IT-INT4 (On-Device NPU/GPU)",
+        "model_footprint_mb": 2340.0,
+        "peak_ram_delta_mb": 2580.0,
+        "estimated_latency_ms": 1420,
+        "expected_cer_percent": 2.1,
+        "sovereign_storage_mode": "Local SQLite + Full Semantic Handwriting Transcription",
+        "metered_cloud_api_calls": 0,
+        "oom_safety_status": "SAFE (Headroom >= 620MB above 2.58GB peak)"
+      },
+      "sample_scan_result": {
+        "qr_resolved_book": "864z_scripture_core_kjv",
+        "qr_resolved_trigger": "ANGRY",
+        "qr_resolved_entry_id": "kjv_angry_01",
+        "extracted_text": "Paused for ninety seconds before answering. Took three slow breaths, drank water, and chose patience and a quiet boundary instead of matching their irritation.",
+        "affect_tags_detected": [
+          "patience",
+          "water",
+          "boundary"
+        ],
+        "drive_oauth_queued": false
+      }
+    },
+    {
+      "device_id": "tier_b_pixel_6a_6gb",
+      "device_name": "Google Pixel 6a / Galaxy A35 (6GB RAM)",
+      "meets_min_ram_baseline": true,
+      "routing_decision": {
+        "device_id": "tier_b_pixel_6a_6gb",
+        "device_name": "Google Pixel 6a / Galaxy A35 (6GB RAM)",
+        "arch": "android_arm64",
+        "total_ram_gb": 6.0,
+        "available_ram_mb": 2100,
+        "selected_tier": "TIER_B",
+        "engine_id": "Google ML Kit Text Recognition v2 (Bundled Offline TFLite) + Local HALT Keyword Tagger",
+        "model_footprint_mb": 4.5,
+        "peak_ram_delta_mb": 68.0,
+        "estimated_latency_ms": 185,
+        "expected_cer_percent": 4.8,
+        "sovereign_storage_mode": "Local SQLite + Offline Line-by-Line OCR Extraction",
+        "metered_cloud_api_calls": 0,
+        "oom_safety_status": "SAFE (68MB peak fits comfortably inside 4GB RAM budget)"
+      },
+      "sample_scan_result": {
+        "qr_resolved_book": "864z_scripture_core_kjv",
+        "qr_resolved_trigger": "ANGRY",
+        "qr_resolved_entry_id": "kjv_angry_01",
+        "extracted_text": "Paused for ninety seconds before answering. Took three slow breaths, drank water, and chose patience and a quiet boundary instead of matching their irritation.",
+        "affect_tags_detected": [
+          "patience",
+          "water",
+          "boundary"
+        ],
+        "drive_oauth_queued": false
+      }
+    },
+    {
+      "device_id": "tier_b_galaxy_a15_4gb_baseline",
+      "device_name": "Samsung Galaxy A15 / Moto G Power (4GB Target Baseline)",
+      "meets_min_ram_baseline": true,
+      "routing_decision": {
+        "device_id": "tier_b_galaxy_a15_4gb_baseline",
+        "device_name": "Samsung Galaxy A15 / Moto G Power (4GB Target Baseline)",
+        "arch": "android_arm64",
+        "total_ram_gb": 4.0,
+        "available_ram_mb": 1120,
+        "selected_tier": "TIER_B",
+        "engine_id": "Google ML Kit Text Recognition v2 (Bundled Offline TFLite) + Local HALT Keyword Tagger",
+        "model_footprint_mb": 4.5,
+        "peak_ram_delta_mb": 68.0,
+        "estimated_latency_ms": 185,
+        "expected_cer_percent": 4.8,
+        "sovereign_storage_mode": "Local SQLite + Offline Line-by-Line OCR Extraction",
+        "metered_cloud_api_calls": 0,
+        "oom_safety_status": "SAFE (68MB peak fits comfortably inside 4GB RAM budget)"
+      },
+      "sample_scan_result": {
+        "qr_resolved_book": "864z_scripture_core_kjv",
+        "qr_resolved_trigger": "ANGRY",
+        "qr_resolved_entry_id": "kjv_angry_01",
+        "extracted_text": "Paused for ninety seconds before answering. Took three slow breaths, drank water, and chose patience and a quiet boundary instead of matching their irritation.",
+        "affect_tags_detected": [
+          "patience",
+          "water",
+          "boundary"
+        ],
+        "drive_oauth_queued": false
+      }
+    },
+    {
+      "device_id": "tier_c_4gb_heavy_background_pressure",
+      "device_name": "4GB Handset Under OS LowMemory Pressure (avail < 300MB)",
+      "meets_min_ram_baseline": true,
+      "routing_decision": {
+        "device_id": "tier_c_4gb_heavy_background_pressure",
+        "device_name": "4GB Handset Under OS LowMemory Pressure (avail < 300MB)",
+        "arch": "android_arm64",
+        "total_ram_gb": 4.0,
+        "available_ram_mb": 240,
+        "selected_tier": "TIER_C",
+        "engine_id": "ZXing QR Metadata Decoder + AES-256-GCM Encrypted WebP Crop + User Google Drive OAuth Sync",
+        "model_footprint_mb": 0.8,
+        "peak_ram_delta_mb": 24.0,
+        "estimated_latency_ms": 28,
+        "expected_cer_percent": 0.0,
+        "sovereign_storage_mode": "Local SQLite QR Link + User-Owned Google Drive (drive.appdata) Encrypted Crop",
+        "metered_cloud_api_calls": 0,
+        "oom_safety_status": "SAFE (VLM & OCR bypassed to prevent Android lmkd OOM kill)"
+      },
+      "sample_scan_result": {
+        "qr_resolved_book": "864z_scripture_core_kjv",
+        "qr_resolved_trigger": "ANGRY",
+        "qr_resolved_entry_id": "kjv_angry_01",
+        "extracted_text": "[DEFERRED_TO_TIER_A_OR_VISUAL_CARD]",
+        "affect_tags_detected": [],
+        "drive_oauth_queued": true
+      }
+    },
+    {
+      "device_id": "tier_c_legacy_3gb_budget",
+      "device_name": "Legacy 3GB Android Go / Entry Handset (3GB RAM)",
+      "meets_min_ram_baseline": false,
+      "routing_decision": {
+        "device_id": "tier_c_legacy_3gb_budget",
+        "device_name": "Legacy 3GB Android Go / Entry Handset (3GB RAM)",
+        "arch": "android_arm64",
+        "total_ram_gb": 3.0,
+        "available_ram_mb": 510,
+        "selected_tier": "TIER_C",
+        "engine_id": "ZXing QR Metadata Decoder + AES-256-GCM Encrypted WebP Crop + User Google Drive OAuth Sync",
+        "model_footprint_mb": 0.8,
+        "peak_ram_delta_mb": 24.0,
+        "estimated_latency_ms": 28,
+        "expected_cer_percent": 0.0,
+        "sovereign_storage_mode": "Local SQLite QR Link + User-Owned Google Drive (drive.appdata) Encrypted Crop",
+        "metered_cloud_api_calls": 0,
+        "oom_safety_status": "SAFE (VLM & OCR bypassed to prevent Android lmkd OOM kill)"
+      },
+      "sample_scan_result": {
+        "qr_resolved_book": "864z_scripture_core_kjv",
+        "qr_resolved_trigger": "ANGRY",
+        "qr_resolved_entry_id": "kjv_angry_01",
+        "extracted_text": "[DEFERRED_TO_TIER_A_OR_VISUAL_CARD]",
+        "affect_tags_detected": [],
+        "drive_oauth_queued": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 800" width="5in" height="8in" shape-rendering="geometricPrecision">
+  <defs>
+    <style>
+      .page-bg { fill: #FDFBF7; }
+      .frame-border { fill: none; stroke: #1A1A1A; stroke-width: 1.2; }
+      .fiducial { fill: none; stroke: #1A1A1A; stroke-width: 2.0; }
+      .header-pill { fill: #1A1A1A; }
+      .header-trigger { font-family: 'Courier New', monospace; font-size: 9px; font-weight: bold; fill: #FDFBF7; letter-spacing: 1.5px; }
+      .header-ref { font-family: 'Georgia', serif; font-size: 11px; font-weight: bold; fill: #1A1A1A; }
+      .header-theme { font-family: 'Georgia', serif; font-size: 8.5px; font-style: italic; fill: #4A4A4A; }
+      .art-frame { fill: #FFFFFF; stroke: #1A1A1A; stroke-width: 0.9; stroke-dasharray: 2,2; }
+      .quote-box { fill: #F6F2EA; stroke: #1A1A1A; stroke-width: 0.8; }
+      .quote-text { font-family: 'Georgia', serif; font-size: 10px; fill: #111111; }
+      .plain-label { font-family: 'Courier New', monospace; font-size: 7.5px; font-weight: bold; fill: #333333; letter-spacing: 1px; }
+      .plain-text { font-family: 'Georgia', serif; font-size: 9.2px; font-style: italic; fill: #222222; }
+      .prompt-title { font-family: 'Courier New', monospace; font-size: 8px; font-weight: bold; fill: #111111; letter-spacing: 1px; }
+      .prompt-text { font-family: 'Georgia', serif; font-size: 9.5px; font-weight: bold; fill: #1A1A1A; }
+      .rule-line { stroke: #C8C2B8; stroke-width: 0.7; }
+      .micro-box { fill: #FFFFFF; stroke: #1A1A1A; stroke-width: 1.0; }
+      .footer-meta { font-family: 'Courier New', monospace; font-size: 7px; fill: #444444; }
+    </style>
+  </defs>
+
+  <!-- 5"x8" Print Trim Canvas (500x800 units = 100 units/inch) -->
+  <rect class="page-bg" x="0" y="0" width="500" height="800"/>
+
+  <!-- Optical Fiducial Corner Anchors for ClearStreak Camera Homography -->
+  <path class="fiducial" d="M 38 52 L 38 38 L 52 38"/>
+  <path class="fiducial" d="M 448 38 L 462 38 L 462 52"/>
+  <path class="fiducial" d="M 38 748 L 38 762 L 52 762"/>
+  <path class="fiducial" d="M 448 762 L 462 762 L 462 748"/>
+
+  <!-- Header Band: HALT Affect Trigger & Canonical Citation -->
+  <rect class="header-pill" x="48" y="46" width="110" height="18" rx="2"/>
+  <text class="header-trigger" x="56" y="58">HALT: {{TRIGGER_KEY}}</text>
+  <text class="header-ref" x="168" y="58">{{REFERENCE}}</text>
+  <text class="header-theme" x="48" y="76">{{CANONICAL_EMOTION}} — {{THEME}}</text>
+  <line x1="48" y1="84" x2="452" y2="84" stroke="#1A1A1A" stroke-width="0.8"/>
+
+  <!-- Minimalist jeff_sketch Line-Art Medallion Slot -->
+  <rect class="art-frame" x="48" y="92" width="404" height="88" rx="2"/>
+  <g id="sketch-vignette" transform="translate(250, 136)" stroke="#1A1A1A" fill="none" stroke-width="1.1">
+    <line x1="-140" y1="24" x2="140" y2="24" stroke-width="0.9"/>
+    <path d="M -35 24 L -20 -26 L 0 -34 L 20 -26 L 35 24 Z"/>
+    <line x1="-24" y1="6" x2="14" y2="-22" stroke-width="0.6"/>
+    <line x1="-18" y1="16" x2="22" y2="-14" stroke-width="0.6"/>
+    <circle cx="0" cy="-12" r="4" stroke-width="0.9"/>
+  </g>
+
+  <!-- Verbatim Public Domain Passage & Clean-Room Plain Distillation -->
+  <rect class="quote-box" x="48" y="188" width="404" height="106" rx="2"/>
+  <text class="quote-text" x="58" y="208">{{VERBATIM_TEXT}}</text>
+  <text class="plain-label" x="58" y="254">PLAIN DISTILLATION (864ZEROS CLEAN-ROOM):</text>
+  <text class="plain-text" x="58" y="270">{{PLAIN_RENDERING}}</text>
+
+  <!-- Reflection Prompt & 12 Ruled Handwriting Lines (OCR Region y=338..638) -->
+  <text class="prompt-title" x="48" y="312">REFLECTION PROMPT (HANDWRITTEN ENTRY REGION):</text>
+  <text class="prompt-text" x="48" y="327">{{REFLECTION_PROMPT}}</text>
+
+  <g id="handwriting-ruled-lines">
+    <line class="rule-line" x1="48" y1="354" x2="452" y2="354"/>
+    <line class="rule-line" x1="48" y1="378" x2="452" y2="378"/>
+    <line class="rule-line" x1="48" y1="402" x2="452" y2="402"/>
+    <line class="rule-line" x1="48" y1="426" x2="452" y2="426"/>
+    <line class="rule-line" x1="48" y1="450" x2="452" y2="450"/>
+    <line class="rule-line" x1="48" y1="474" x2="452" y2="474"/>
+    <line class="rule-line" x1="48" y1="498" x2="452" y2="498"/>
+    <line class="rule-line" x1="48" y1="522" x2="452" y2="522"/>
+    <line class="rule-line" x1="48" y1="546" x2="452" y2="546"/>
+    <line class="rule-line" x1="48" y1="570" x2="452" y2="570"/>
+    <line class="rule-line" x1="48" y1="594" x2="452" y2="594"/>
+    <line class="rule-line" x1="48" y1="618" x2="452" y2="618"/>
+  </g>
+
+  <!-- 60-Second Micro-Action Protocol Box (Left) + Deterministic QR Anchor (Bottom-Right) -->
+  <rect class="micro-box" x="48" y="646" width="318" height="82" rx="2"/>
+  <text class="prompt-title" x="58" y="662">60-SECOND FLOOR REP (MICRO-ACTION):</text>
+  <text class="quote-text" x="58" y="680">{{MICRO_ACTION}}</text>
+  <rect x="58" y="704" width="10" height="10" fill="none" stroke="#1A1A1A" stroke-width="1"/>
+  <text class="footer-meta" x="74" y="712">COMPLETED FLOOR REP · LOGGED TO CLEARSTREAK LEDGER</text>
+
+  <!-- Bottom-Right Vector QR Matrix Slot (74x74 units = 0.74in with quiet zone) -->
+  <g id="qr-anchor-box" transform="translate(378, 646)">
+    <rect x="0" y="0" width="74" height="74" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.0"/>
+    {{QR_SVG_MATRIX}}
+  </g>
+
+  <!-- Footer Metadata & Page Number -->
+  <text class="footer-meta" x="48" y="748">{{PACK_ID}} · REF: {{ENTRY_ID}}</text>
+  <text class="footer-meta" x="378" y="734">{{QR_SHORT_LABEL}}</text>
+  <text class="footer-meta" x="415" y="748">PAGE {{PAGE_NUM}}</text>
+</svg>

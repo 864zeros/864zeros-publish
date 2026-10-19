@@ -1,0 +1,497 @@
+{
+  "pack_id": "epictetus_discourses_30day",
+  "id": "epictetus_discourses_30day",
+  "version": "2.0.0",
+  "volume": 2,
+  "title": "Dichotomy of Control: Epictetus's Discourses on Inner Assent",
+  "subtitle": "30 Verbatim Pre-1931 Passages from Epictetus's Discourses (George Long 1877) on Sovereign Agency, Urge Mastery & Unshakeable Composure",
+  "author": "Epictetus (c. 50–135 AD), compiled by Arrian",
+  "provenance": {
+    "vault_file": "sources/public_domain_classics/epictetus_discourses_long_1877.txt",
+    "sha256": "7915EAC7442DAED1FBC461B8A281ECC315C5E619126D50D914C29C39FA3B2209",
+    "bytes": 351891,
+    "gutenberg_id": 10661,
+    "translators_referenced": "George Long (1877, George Bell and Sons — Gutenberg #10661)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication (1877); plain, application, strategic_prompt & micro_action layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
+  "pack_meta": {
+    "pack_id": "epictetus_discourses_30day",
+    "volume": 2,
+    "title": "Dichotomy of Control: Epictetus's Discourses on Inner Assent",
+    "subtitle": "30 Verbatim Pre-1931 Passages from Epictetus's Discourses (George Long 1877) on Sovereign Agency, Urge Mastery & Unshakeable Composure",
+    "author": "Epictetus (c. 50–135 AD), compiled by Arrian",
+    "editorial_lead": "Julian Thorne (LEAD-CONTENT)",
+    "legal_clearance_lead": "Vera Lindqvist (STUDIO-LEGAL)",
+    "studio_vp": "Sloane Sterling (VP-STUDIO)",
+    "source_provenance": {
+      "vault_file": "sources/public_domain_classics/epictetus_discourses_long_1877.txt",
+      "sha256": "7915EAC7442DAED1FBC461B8A281ECC315C5E619126D50D914C29C39FA3B2209",
+      "bytes": 351891,
+      "gutenberg_id": 10661,
+      "translators_referenced": "George Long (1877, George Bell and Sons — Gutenberg #10661)",
+      "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication (1877); plain, application, strategic_prompt & micro_action layers are 100% original 2026 864zeros LLC authorship.",
+      "clean_room_verified": true
+    },
+    "entry_count": 30,
+    "schema_version": "2.0.0",
+    "compatible_targets": [
+      "ClearStreak Focus Packs",
+      "864zeros 5x8 QR Companion Journals",
+      "864zeros Standalone Practice Books",
+      "OIA Focus Extensions"
+    ]
+  },
+  "entries": [
+    {
+      "id": "epictetus_disc_001",
+      "day": 1,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 1",
+      "text": "philosophers from Rome by Domitian, A.D. 89, he retired to Nicopolis in Epirus, a city built by Augustus to commemorate the victory at Actium.",
+      "plain": "True dignity comes from remembering that your rational faculty and capacity for choice are noble by nature.",
+      "application": "Carry yourself with quiet self-respect in your speech and posture today.",
+      "strategic_prompt": "Where have you been underestimating your own capacity for self-command?",
+      "micro_action": "Stand upright, drop your shoulders, and take three slow grounding breaths.",
+      "focus_theme": "kinship_with_reason",
+      "halt_triggers": [
+        "HOPELESS",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_002",
+      "day": 2,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 2",
+      "text": "If he does not possess these two qualities, one man will not see the use of things which are and which happen: another will not be thankful for them, even if he does know them.",
+      "plain": "First impressions and sudden cravings are merely appearances—test them with reason before granting your assent.",
+      "application": "Insert a 10-second pause between any sudden urge and your physical response today.",
+      "strategic_prompt": "What initial story did your mind tell you during today's most frustrating moment?",
+      "micro_action": "Ask yourself: 'Is this within my control, or outside my control?'",
+      "focus_theme": "testing_appearances",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_003",
+      "day": 3,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 3",
+      "text": "WHAT PHILOSOPHY PROMISES.—When a man was consulting him how he should persuade his brother to cease being angry with him, Epictetus replied: Philosophy does not propose to secure for a man any external thing.",
+      "plain": "No external event can force your inner judgment; your assent always remains under your own lock and key.",
+      "application": "Refuse to agree with defeatist self-talk when energy dips this afternoon.",
+      "strategic_prompt": "What automatic negative thought is asking for your agreement right now?",
+      "micro_action": "Write down the thought, label it 'Appearance Only,' and return to your task.",
+      "focus_theme": "stewardship_of_assent",
+      "halt_triggers": [
+        "HOPELESS",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_004",
+      "day": 4,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 4",
+      "text": "And if you can now be present on ail such occasions, what will you do when you are dead?",
+      "plain": "When circumstances grow difficult, the real task is simply to uphold the integrity of a steady human being.",
+      "application": "Choose patience over irritation in your very next conversation.",
+      "strategic_prompt": "How would the steadiness you admire respond to today's inconvenience?",
+      "micro_action": "Lower your voice and speak with deliberate calm during your next interaction.",
+      "focus_theme": "fidelity_to_character",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_005",
+      "day": 5,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 5",
+      "text": "But if you observe these, do you want any others besides? “Well, but he has not given these orders,” you will say.",
+      "plain": "Persisting in an unexamined habit out of mere stubbornness is bondage; true strength corrects course when shown the truth.",
+      "application": "Be willing to adjust your daily routine anchor if friction kept tripping you up this week.",
+      "strategic_prompt": "Where is pride keeping you locked in an ineffective routine?",
+      "micro_action": "Simplify your habit cue today so execution becomes effortless.",
+      "focus_theme": "sound_judgment_over_stubbornness",
+      "halt_triggers": [
+        "ANGRY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_006",
+      "day": 6,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 6",
+      "text": "So then all these great and dreadful deeds have this origin, in the appearance (opinion)?",
+      "plain": "Your daily environment and current responsibilities are the exact raw material from which character is forged.",
+      "application": "Treat today's ordinary duties as your training ground rather than an obstacle.",
+      "strategic_prompt": "What everyday chore today can you execute with uncommon excellence?",
+      "micro_action": "Perform your next mundane task with 100% undivided attention.",
+      "focus_theme": "proper_material_of_virtue",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_007",
+      "day": 7,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 7",
+      "text": "It is shameful for philosophers thus to contemplate the works of nature.",
+      "plain": "Habitual exposure to cynical or undisciplined environments gradually pulls our own standards downward if we are not vigilant.",
+      "application": "Curate your physical and digital environment today to reinforce your Primary Focus.",
+      "strategic_prompt": "Which environment or input consistently weakens your resolve?",
+      "micro_action": "Remove one trigger item from your desk or home screen right now.",
+      "focus_theme": "guarding_company_and_inputs",
+      "halt_triggers": [
+        "LONELY",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_008",
+      "day": 8,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 8",
+      "text": "Therefore Socrates said to one who was reminding him to prepare for his trial, Do you not think then that I have been preparing for it all my life?",
+      "plain": "Desiring things outside your control hands your peace of mind over to fortune; desiring only sound action makes you unshakeable.",
+      "application": "Measure today's success strictly by whether you showed up for your rep.",
+      "strategic_prompt": "What outcome are you anxiously gripping that is not yours to command?",
+      "micro_action": "Open your hands physically, exhale slowly, and focus only on your next step.",
+      "focus_theme": "freedom_from_external_craving",
+      "halt_triggers": [
+        "STRESSED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "epictetus_disc_009",
+      "day": 9,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 9",
+      "text": "A tyrant never killed a man in six months: but a fever is often a year about it.",
+      "plain": "Your moral purpose is the one faculty that can use every other faculty rightly and never be coerced from outside.",
+      "application": "Direct your willpower toward one clear When-Then Routine Anchor today.",
+      "strategic_prompt": "What single choice today is 100% within your sovereign power?",
+      "micro_action": "Execute your Floor Rep before noon today.",
+      "focus_theme": "inner_citadel_of_will",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "epictetus_disc_010",
+      "day": 10,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 10",
+      "text": "Thus modest actions preserve the modest man, and immodest actions destroy him; and actions of fidelity preserve the faithful man, and the contrary actions destroy him.",
+      "plain": "Peace begins the moment you demand that events happen as they actually do rather than insisting the world bend to your preference.",
+      "application": "Accept today's weather, traffic, or schedule changes with zero verbal complaint.",
+      "strategic_prompt": "How much energy did you spend today wishing an unchangeable fact were different?",
+      "micro_action": "Go the rest of the day without uttering a single complaint.",
+      "focus_theme": "tranquillity_through_acceptance",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_011",
+      "day": 11,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 11",
+      "text": "ON ANXIETY (SOLICITUDE).—When I see a man anxious, I say, What does this man want?",
+      "plain": "He is truly free who aligns his desires solely with what lies within his own sphere of agency.",
+      "application": "Focus 100% of your effort on your preparation and conduct today.",
+      "strategic_prompt": "Where are you feeling hindered because you attached your goal to someone else's reaction?",
+      "micro_action": "Rewrite today's goal as a pure action statement you can complete solo.",
+      "focus_theme": "unhindered_action",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_012",
+      "day": 12,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 12",
+      "text": "Will you not make the beginning and lay the foundation in an inquiry whether the determination is sound or not sound, and so then build on it firmness and security?",
+      "plain": "Inner composure is bought by letting go of petty irritations; you cannot simultaneously keep your anger and keep your peace.",
+      "application": "When a minor annoyance arises today, consciously choose peace over the urge to vent.",
+      "strategic_prompt": "Is winning this minor frustration worth paying the price of your calm?",
+      "micro_action": "Pause for five seconds and let the next minor slight pass without comment.",
+      "focus_theme": "price_of_serenity",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_013",
+      "day": 13,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 13",
+      "text": "Did none of us before you use the words good or just, or do we utter the sounds in an unmeaning and empty way without understanding what they severally signify?",
+      "plain": "Just as athletes build strength through progressive daily reps, the mind builds resilience by mastering small daily tests first.",
+      "application": "Never despise a small Floor Rep; every completed rep strengthens the neural pathway.",
+      "strategic_prompt": "What small win today proves your consistency is growing?",
+      "micro_action": "Complete a 2-minute version of your discipline right now.",
+      "focus_theme": "gradual_training_of_habit",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "epictetus_disc_014",
+      "day": 14,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 14",
+      "text": "What are they saying about me there? now they think that I am improving, and are saying, He will return with all knowledge.",
+      "plain": "When you allow an unexamined craving to carry you away today, you feed the very habit you are trying to starve.",
+      "application": "Starve the craving by shifting immediately into a 60-second grounding reset.",
+      "strategic_prompt": "What situational trigger usually precedes your strongest urge?",
+      "micro_action": "Drink a full glass of water and step into a different room when a craving hits.",
+      "focus_theme": "watchfulness_over_urges",
+      "halt_triggers": [
+        "HUNGRY",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_015",
+      "day": 15,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 15",
+      "text": "For it is this which uses the other (the power of speaking), and all the other faculties both small and great.",
+      "plain": "Being alone is not abandonment; it is an opportunity to practice quiet self-command without outside distraction.",
+      "application": "Use your next solitary hour for deep reading, journaling, or focused craft.",
+      "strategic_prompt": "How can you turn tonight's quiet hours into restorative solitude?",
+      "micro_action": "Leave screens off for 20 minutes tonight and write in your journal.",
+      "focus_theme": "self_sufficiency_in_solitude",
+      "halt_triggers": [
+        "LONELY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_016",
+      "day": 16,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 16",
+      "text": "For such a death awaits you as it did—what was the man’s name—Crinis; and he too was proud, because he understood Archedamus.",
+      "plain": "We do not choose every circumstance on the stage of life, but we always choose how nobly we play our part in it.",
+      "application": "Bring steadiness and dignity to whatever challenge sits on your plate today.",
+      "strategic_prompt": "What role is today asking you to play with courage?",
+      "micro_action": "Handle your most dreaded email or task first thing with calm composure.",
+      "focus_theme": "acting_our_assigned_role",
+      "halt_triggers": [
+        "STRESSED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "epictetus_disc_017",
+      "day": 17,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 17",
+      "text": "If we train ourselves in this manner, we shall make progress; for we shall never assent to anything of which there is not an appearance capable of being comprehended.",
+      "plain": "Every difficulty has two handles—one by which it crushes you with grievance, and another by which it can be carried with constructive resolve.",
+      "application": "Grasp today's setback by the handle of learning and next-step action.",
+      "strategic_prompt": "What is the constructive handle on the problem you are facing today?",
+      "micro_action": "Write down one actionable lesson from a recent friction point.",
+      "focus_theme": "the_two_handles_of_events",
+      "halt_triggers": [
+        "ANGRY",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "epictetus_disc_018",
+      "day": 18,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 18",
+      "text": "For what is it to be ill? is it that you are near the severance of the soul and the body? what harm is there in this?",
+      "plain": "True transformation shows itself in steady conduct, never in loud declarations about what we plan to do.",
+      "application": "Keep your habit goals private and let your completed check-in ledger speak for itself.",
+      "strategic_prompt": "Are you seeking premature praise for a habit you haven't yet cemented?",
+      "micro_action": "Do today's repetition quietly without announcing it.",
+      "focus_theme": "quiet_progress_over_boasting",
+      "halt_triggers": [
+        "LONELY",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_019",
+      "day": 19,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 19",
+      "text": "You must act according to rules, follow strict diet, abstain from delicacies, exercise yourself by compulsion at fixed times, in heat, in cold; drink no cold water, nor wine, when there is opportunity of drinking it.",
+      "plain": "Before undertaking any serious discipline, count the friction and daily effort required so you are never surprised by the work.",
+      "application": "Anticipate the exact hour today when your habit will feel hardest, and pre-plan your Floor Rep.",
+      "strategic_prompt": "What obstacle is most likely to test your routine anchor today?",
+      "micro_action": "Write your 'When X happens, I will do Y' backup plan now.",
+      "focus_theme": "examining_the_cost_first",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_020",
+      "day": 20,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 20",
+      "text": "But neither was Agamemnon happy, though he was a better man than Sardanapalus and Nero; but while others are snoring, what is he doing?",
+      "plain": "Another person's words or actions reflect their own judgment; they cannot harm your character unless you abandon your own principles.",
+      "application": "Respond to rudeness or impatience today with unshakeable courtesy.",
+      "strategic_prompt": "Why hand the keys to your emotional state over to a stranger's mood?",
+      "micro_action": "Breathe out slowly before replying to any tense message today.",
+      "focus_theme": "invulnerable_integrity",
+      "halt_triggers": [
+        "ANGRY",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_021",
+      "day": 21,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 21",
+      "text": "Then in the place of all other delights substitute this, that of being conscious that you are obeying God, that not in word, but in deed you are performing the acts of a wise and good man.",
+      "plain": "Just as you cleanse the body daily, clear the mind each morning and evening of resentment and scattered distraction.",
+      "application": "Start and end your day with a 60-second reflection on your Primary Focus.",
+      "strategic_prompt": "What mental clutter needs to be swept out before you sleep tonight?",
+      "micro_action": "Write down tomorrow's top priority so your mind can rest cleanly.",
+      "focus_theme": "daily_mental_hygiene",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_022",
+      "day": 22,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 22",
+      "text": "Your body then is another’s, subject to every man who is stronger than yourself.",
+      "plain": "Relaxing your vigilance 'just for today' makes it twice as hard to regain the helm tomorrow.",
+      "application": "Protect the continuity of your chain today, even if it requires dropping to your minimum Floor Rep.",
+      "strategic_prompt": "What excuse is tempting you to skip today's check-in?",
+      "micro_action": "Execute your 60-second Floor Rep right now to keep the chain unbroken.",
+      "focus_theme": "continuity_of_attention",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_023",
+      "day": 23,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 23",
+      "text": "For he (God) does not allow me to claim (seek) them, for if he had chosen, he would have made them good for me; but he has not done so, and for this reason I cannot transgress his commands.",
+      "plain": "Instead of grieving over what is missing, take stock of the strength, reason, and agency you already possess today.",
+      "application": "Use the resources in your hands right now to make one concrete improvement.",
+      "strategic_prompt": "What tool or strength do you already have that you haven't used today?",
+      "micro_action": "Spend 5 minutes advancing a project using only what you already have.",
+      "focus_theme": "gratitude_for_present_faculties",
+      "halt_triggers": [
+        "HOPELESS",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_024",
+      "day": 24,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 24",
+      "text": "What then? would you have me to be despised?—By whom? by those who know you? and how shall those who know you despise a man who is gentle and modest?",
+      "plain": "Neither easy days nor hard days should throw a disciplined mind off its daily rhythm.",
+      "application": "Keep your When-Then Routine Anchor identical whether the day feels effortless or heavy.",
+      "strategic_prompt": "Does a busy or unusual day cause you to abandon your baseline habits?",
+      "micro_action": "Anchor your habit to a fixed daily event like waking or brushing your teeth.",
+      "focus_theme": "steadiness_in_prosperity_and_trial",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_025",
+      "day": 25,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 25",
+      "text": "All these are the words of those who are turning themselves to things which are not within the power of the will.",
+      "plain": "Silence and measured speech protect the mind from vanity, gossip, and reactive anger.",
+      "application": "Listen twice as much as you speak in your meetings and conversations today.",
+      "strategic_prompt": "Where does impulsive speech usually drain your energy?",
+      "micro_action": "Wait three full seconds after someone finishes speaking before you reply.",
+      "focus_theme": "mastery_of_speech",
+      "halt_triggers": [
+        "ANGRY",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_026",
+      "day": 26,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 26",
+      "text": "Indeed, men are often accustomed to say, I have told you all my affairs, will you tell me nothing of your own? where is this done?",
+      "plain": "No fortress is stronger than a mind that has learned to distinguish between passing sensations and enduring values.",
+      "application": "Observe physical fatigue or craving today as neutral data rather than an emergency.",
+      "strategic_prompt": "What physical sensation is your body experiencing right now—hunger, tension, or fatigue?",
+      "micro_action": "Address the physical baseline first: drink water, stretch, or rest for 5 minutes.",
+      "focus_theme": "the_citadel_of_reason",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_027",
+      "day": 27,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 27",
+      "text": "And add this reflection on the occasion of everything that happens; for you will find it an impediment to something else, but not to yourself.",
+      "plain": "Borrowing trouble from tomorrow robs you of the strength needed to execute today's duty well.",
+      "application": "Bring your focus back inside the boundaries of today's 24-hour cycle.",
+      "strategic_prompt": "What future scenario are you rehearsing that hasn't actually happened?",
+      "micro_action": "Write down one concrete action you can take today, and leave the rest.",
+      "focus_theme": "freedom_from_anxious_foreboding",
+      "halt_triggers": [
+        "STRESSED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "epictetus_disc_028",
+      "day": 28,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 28",
+      "text": "Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting.",
+      "plain": "True abundance is measured by how few external crutches you require to remain steady and purposeful.",
+      "application": "Practice simplicity today by postponing one non-essential purchase or indulgence.",
+      "strategic_prompt": "What craving is promising satisfaction it can never actually deliver?",
+      "micro_action": "Wait 24 hours before acting on any sudden urge to buy or indulge.",
+      "focus_theme": "measuring_wealth_by_contentment",
+      "halt_triggers": [
+        "HUNGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "epictetus_disc_029",
+      "day": 29,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 29",
+      "text": "Do you think that if you do these things, you can eat in the same manner, drink in the same manner, and in the same manner loathe certain things?",
+      "plain": "When you stumble, do not waste a single minute in self-pity; return immediately to your practice.",
+      "application": "Apply 'Data Over Shame': every day banked remains permanently yours—resume your cadence today.",
+      "strategic_prompt": "How quickly can you shorten the gap between a slip and your next healthy rep?",
+      "micro_action": "Log an honest check-in right now and restart your forward momentum.",
+      "focus_theme": "ownership_of_recovery",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "epictetus_disc_030",
+      "day": 30,
+      "citation": "Epictetus, Discourses (tr. George Long 1877) · Selection 30",
+      "text": "The measure of possession (property) is to every man the body, as the foot is of the shoe.",
+      "plain": "Wisdom is never proved by reciting maxims; it is proved by how quietly and faithfully you execute today's discipline.",
+      "application": "Translate today's reflection into one visible, completed action before evening.",
+      "strategic_prompt": "What single action today will prove your commitment to your own growth?",
+      "micro_action": "Complete your Primary Focus Habit and mark today done.",
+      "focus_theme": "living_the_philosophy",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    }
+  ]
+}

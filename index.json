@@ -30,34 +30,65 @@
       "title": "Pre-1931 Public Domain Classics Provenance Vault",
       "manifest": "sources/public_domain_classics/PROVENANCE_LOCK.json",
       "legal_lead": "Vera Lindqvist (STUDIO-LEGAL)",
-      "files": 6,
+      "files": 20,
       "sources": [
         "marcus_aurelius_meditations_long_1862.txt (Gutenberg #2680, SHA-256: 6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C)",
         "epictetus_enchiridion_higginson.txt (Gutenberg #45109, SHA-256: 15A09EBD7F782CB64390459A29555140D86FB07F168675D41088A717978C3E4F)",
+        "epictetus_discourses_long_1877.txt (Gutenberg #10661, SHA-256: 7915EAC7442DAED1FBC461B8A281ECC315C5E619126D50D914C29C39FA3B2209)",
+        "epictetus_golden_sayings_crossley_1903.txt (Gutenberg #871, SHA-256: A822EB1CC58756C5286B892DC46BF1E50F2B47D6490488DD68928C02CEBDAC81)",
         "seneca_dialogues_stewart_1889.txt (Gutenberg #64576, SHA-256: FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B)",
-        "benjamin_franklin_autobiography_1791.txt (Gutenberg #20203, SHA-256: C5BE0E49F68F0876BE480074B9DC0712A8FDBC7FAA7DEF3ACC6765AFBA9BD128)",
+        "seneca_benefits_stewart_1887.txt (Gutenberg #3794, SHA-256: 75011C841763A21C0903025559564B926A276645F74D0E55351742A4CA398324)",
+        "benjamin_franklin_autobiography_1791.txt (Gutenberg #20203, SHA-256: C5BE0E49F68F0876BE4800712A8FDBC7FAA7DEF3ACC6765AFBA9BD128)",
+        "benjamin_franklin_way_to_wealth_1758.txt (Gutenberg #43855, SHA-256: 2C7AD562EBF02E7D8B4C6D24215E8F7F2237CA9FE4DB6A214CA2734525E96071)",
         "aristotle_nicomachean_ethics.txt (Gutenberg #8438, SHA-256: A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059)",
-        "william_james_habit_1890.txt (Gutenberg #16287, SHA-256: 19B854638699E30744278724F7CEB5681AA7893CA89706F11AB4CFDF6A8B50B5)"
+        "william_james_habit_1890.txt (Gutenberg #16287, SHA-256: 19B854638699E30744278724F7CEB5681AA7893CA89706F11AB4CFDF6A8B50B5)",
+        "william_james_principles_psych_1890.txt (Gutenberg #57628, SHA-256: D2A3820994383F90DEAC97FA0AD2C8A5E42E05AD1DC6A5AE8A4CC6675658E174)",
+        "samuel_smiles_self_help_1859.txt (Gutenberg #935, SHA-256: E7F4232F8880AF072453521A95D72B3476D716E2485DE08AB8E54C444F28802A)",
+        "samuel_smiles_character_1871.txt (Gutenberg #2541, SHA-256: D87DB5F8A7B803F92CE8D73EBBA8EDDE6CCCEB9FD6CE68989D56DA7CEFEFC7B0)",
+        "samuel_smiles_thrift_1875.txt (Gutenberg #14418, SHA-256: 3569AC49F1C2A8E437A55233BE625A003A41F6532B3A633C6D4F85B02BE85EB5)",
+        "arnold_bennett_24_hours_1910.txt (Gutenberg #2274, SHA-256: 9B82D3168C476D0B5238768555EBD50A3CC7BBF199927E6F065D35A650EBFA16)",
+        "james_allen_as_a_man_thinketh_1903.txt (Gutenberg #4507, SHA-256: E0EEEDEC0BA349C775E57CD9DCDBBAAC20CE9EB59BBD2EEBBFD09B6A8B238397)",
+        "boethius_consolation_james_1897.txt (Gutenberg #14328, SHA-256: E6F81451586F26D5D49B28B5B51C15E3C9EE2DFEEFD7D3FE7E3F0461DC12D63E)",
+        "brother_lawrence_presence_of_god_1692.txt (Gutenberg #5657, SHA-256: 1D7FE56962BBBC5244551C9AA25E66AC6F264B6C41B40D9A3ABEB9EB4FC9163A)",
+        "thomas_a_kempis_imitation_1886.txt (Gutenberg #1653, SHA-256: A5C3A20BA8ED9EFA712A3DB22A717E8660C911F0BA82441740AB7D0DE9EDCA5F)",
+        "bible_kjv_1611_full.txt (Gutenberg #10, SHA-256: E6C9301A5C57B40A5DE88C7CDFA26D3D1EC35AD9892AC2AD5C52C95BA8F95793)"
       ],
-      "summary": "Immutable SHA-256 locked pre-1931 Project Gutenberg source texts with full 17 U.S.C. Public Domain clearance and strict clean-room blacklist enforcement."
+      "summary": "20 immutable SHA-256 locked pre-1931 Project Gutenberg source texts (13.49 MB) with full 17 U.S.C. Public Domain clearance and strict clean-room blacklist enforcement."
     },
     "shared/focus_packs": {
       "kind": "shared",
-      "title": "864zeros Compartmentalized Clean-Room Philosophy & Habit Focus Packs",
+      "title": "864zeros Compartmentalized Clean-Room Philosophy & Habit Focus Packs (Volumes 1 & 2)",
       "manifest": "shared/focus_packs/focus_packs_catalog.json",
       "provenance_lock": "sources/public_domain_classics/PROVENANCE_LOCK.json",
+      "validator": "scripts/validate_focus_packs.py",
       "editorial_lead": "Julian Thorne (LEAD-CONTENT)",
       "legal_lead": "Vera Lindqvist (STUDIO-LEGAL)",
-      "records": 150,
-      "files": 6,
+      "records": 270,
+      "files": 10,
       "packs": {
-        "marcus_aurelius_meditations": "shared/focus_packs/marcus_aurelius_meditations.json — The Citadel Within: Marcus Aurelius on Daily Self-Command (30 entries)",
-        "stoic_masters_epictetus_seneca": "shared/focus_packs/stoic_masters_epictetus_seneca.json — Sovereign Will: Epictetus & Seneca on Time, Agency, and Focus (30 entries)",
-        "ben_franklin_virtues": "shared/focus_packs/ben_franklin_virtues.json — The 13 Virtues Ledger: Benjamin Franklin's Sequential Focus Method (30 entries)",
-        "aristotle_character": "shared/focus_packs/aristotle_character.json — Excellence by Repetition: Aristotle's Nicomachean Ethics in Practice (30 entries)",
-        "william_james_habit": "shared/focus_packs/william_james_habit.json — The Neuroplastic Groove: William James's 1890 Maxims of Habit (30 entries)"
+        "marcus_aurelius_meditations": "shared/focus_packs/marcus_aurelius_meditations.json — The Citadel Within: Marcus Aurelius on Daily Self-Command (30 entries, Vol 1)",
+        "stoic_masters_epictetus_seneca": "shared/focus_packs/stoic_masters_epictetus_seneca.json — Sovereign Will: Epictetus & Seneca on Time, Agency, and Focus (30 entries, Vol 1)",
+        "ben_franklin_virtues": "shared/focus_packs/ben_franklin_virtues.json — The 13 Virtues Ledger: Benjamin Franklin's Sequential Focus Method (30 entries, Vol 1)",
+        "aristotle_character": "shared/focus_packs/aristotle_character.json — Excellence by Repetition: Aristotle's Nicomachean Ethics in Practice (30 entries, Vol 1)",
+        "william_james_habit": "shared/focus_packs/william_james_habit.json — The Neuroplastic Groove: William James's 1890 Maxims of Habit (30 entries, Vol 1)",
+        "seneca_shortness_of_life_30day": "shared/focus_packs/seneca_shortness_of_life_30day.json — Time Sovereignty: Seneca on the Shortness of Life (30 entries, Vol 2)",
+        "epictetus_discourses_30day": "shared/focus_packs/epictetus_discourses_30day.json — Dichotomy of Control: Epictetus's Discourses on Inner Assent (30 entries, Vol 2)",
+        "samuel_smiles_self_help_30day": "shared/focus_packs/samuel_smiles_self_help_30day.json — Compounding Industry: Samuel Smiles on Perseverance & Character (30 entries, Vol 2)",
+        "arnold_bennett_24_hours_30day": "shared/focus_packs/arnold_bennett_24_hours_30day.json — The Day Within a Day: Arnold Bennett on Deliberate Time-Pockets (30 entries, Vol 2)"
       },
-      "summary": "5 compartmentalized Focus Packs (150 total entries) using the { id, citation, text, plain, application, focus_theme } schema + master catalog indexing all 8 ecosystem Focus Packs. 100% pre-1931 Public Domain source text + original 864zeros plain rewrites and behavioral applications."
+      "summary": "9 compartmentalized 30-day Focus Packs (270 total daily cards across Volume 1 + Volume 2) using the unified v2.0 { id, day, citation, text, plain, application, strategic_prompt, micro_action, focus_theme, halt_triggers } schema + master catalog indexing all 12 ecosystem Focus Packs."
+    },
+    "data/packs": {
+      "kind": "modular_halt_packs",
+      "title": "864zeros Media House — HALT & Affect-Mapped Multi-Format Content Packs",
+      "schema": "data/schemas/content_pack.schema.json",
+      "packs": {
+        "halt_kjv_scripture": "data/packs/halt_kjv_scripture.json — 24 HALT-mapped entries across the 12 canonical KJV books",
+        "stoic_marcus_aurelius": "data/packs/stoic_marcus_aurelius.json — 24 HALT-mapped entries across pre-1931 Stoic classics",
+        "habit_franklin_virtues": "data/packs/habit_franklin_virtues.json — 24 HALT-mapped entries across Franklin, James, Aristotle, Smiles & Bennett"
+      },
+      "compiled_journals": "build/journals/ (3 print-ready 5x8 softback HTML/SVG companion journals with deterministic QR anchors)",
+      "video_manifests": "build/video_manifests/ (3 9:16 vertical reel storyboard manifests for Two-Pass Visual-DAGR)"
     },
     "shared/bible": {
       "kind": "shared",

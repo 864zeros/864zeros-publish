@@ -1,0 +1,491 @@
+{
+  "pack_id": "864z_stoic_citadel_pd",
+  "title": "The Inner Citadel: Pre-1931 Stoic Masters Mapped to HALT Affect States",
+  "subtitle": "24 Curated Passages from Marcus Aurelius (1862), Epictetus (1865/1877) & Seneca (1889) for Self-Command Under Friction",
+  "version": "1.0.0",
+  "author": "Marcus Aurelius, Epictetus & Seneca (Pre-1931 Public Domain Editions) · Plain & Practice Layers by 864zeros Publishing House (2026)",
+  "license": "17 U.S.C. Public Domain (Pre-1931 Translations); Original Plain-English & Behavioral Commentary © 2026 864zeros LLC",
+  "target_framework": "HALT_EXTENDED_V1",
+  "provenance": {
+    "sources": [
+      {
+        "work": "The Thoughts of the Emperor M. Aurelius Antoninus",
+        "translator_or_edition": "George Long (1862, Bell & Daldy)",
+        "publication_year": 1862,
+        "vault_path": "sources/public_domain_classics/marcus_aurelius_meditations_long_1862.txt",
+        "sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C"
+      },
+      {
+        "work": "The Enchiridion & Discourses of Epictetus",
+        "translator_or_edition": "Thomas Wentworth Higginson (1865) & George Long (1877)",
+        "publication_year": 1865,
+        "vault_path": "sources/public_domain_classics/epictetus_enchiridion_higginson.txt",
+        "sha256": "15A09EBD7F782CB64390459A29555140D86FB07F168675D41088A717978C3E4F"
+      },
+      {
+        "work": "Minor Dialogues of L. Annaeus Seneca",
+        "translator_or_edition": "Aubrey Stewart (1889, Bohn's Classical Library)",
+        "publication_year": 1889,
+        "vault_path": "sources/public_domain_classics/seneca_dialogues_stewart_1889.txt",
+        "sha256": "FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B"
+      }
+    ],
+    "clean_room_verified": true,
+    "copyright_status": "17 U.S.C. Public Domain (Pre-1931 Editions) + 100% Original 2026 864zeros Clean-Room Authorship",
+    "prohibited_terms_audit": "PASSED — Zero prohibited modern translators, zero pop-habit jargon, zero prohibited terms."
+  },
+  "categories": [
+    {
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Pull & Sensory Distraction",
+      "theme": "Sovereign Restraint & Mastery Over Appetite (Epictetus · Marcus Aurelius · Seneca)",
+      "entries": [
+        {
+          "entry_id": "stoic_hungry_01",
+          "source_book": "Epictetus, Enchiridion",
+          "chapter": 34,
+          "verse": 1,
+          "reference": "Epictetus, Enchiridion 34 (trans. T.W. Higginson, 1865)",
+          "text": "When you are struck by the appearance of any pleasure, guard yourself, as in other cases, against being carried away by it; but let the thing await your leisure, and procure yourself some delay.",
+          "plain": "When a sudden craving or appealing distraction flashes before your mind, do not let it sweep you off your feet; make it wait in the hallway and buy yourself a deliberate interval of delay.",
+          "reflection_prompt": "How differently will this craving look two hours from now if you refuse to obey it in the next ten minutes?",
+          "micro_action": "Insert a ten-minute stillness buffer between the craving and your hand: set a timer and step into another room.",
+          "tags": [
+            "epictetus",
+            "delay_window",
+            "appetite_governance",
+            "restraint"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=1&trigger=HUNGRY&ref=stoic_hungry_01"
+        },
+        {
+          "entry_id": "stoic_hungry_02",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 5,
+          "verse": 1,
+          "reference": "Marcus Aurelius, Meditations 5.1 (trans. George Long, 1862)",
+          "text": "In the morning when thou risest unwillingly, let this thought be present—I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?",
+          "plain": "When your body craves comfort and resists getting started, remind yourself: I am waking up to do the honest work of a human being—not merely to chase comfort.",
+          "reflection_prompt": "Where is the pull toward comfort asking you to shrink back from the work you actually care about today?",
+          "micro_action": "Place both feet on the floor, drink water, and begin the first 60 seconds of your primary work before seeking comfort.",
+          "tags": [
+            "marcus_aurelius",
+            "morning_command",
+            "comfort_resistance"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=2&trigger=HUNGRY&ref=stoic_hungry_02"
+        },
+        {
+          "entry_id": "stoic_hungry_03",
+          "source_book": "Seneca, Moral Letters / Dialogues",
+          "chapter": 18,
+          "verse": 5,
+          "reference": "Seneca, Minor Dialogues / Epistles (trans. Aubrey Stewart, 1889)",
+          "text": "Set apart certain days on which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: 'Is this the condition that I feared?'",
+          "plain": "Practice voluntary simplicity regularly—content with plain food and modest surroundings—so your mind learns firsthand that having less is nothing to fear.",
+          "reflection_prompt": "What false scarcity story is convincing you that you cannot feel settled until you consume something right now?",
+          "micro_action": "Choose plain simplicity for your next meal or break, leaving your phone in another room while you pause.",
+          "tags": [
+            "seneca",
+            "voluntary_simplicity",
+            "sufficiency"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=3&trigger=HUNGRY&ref=stoic_hungry_03"
+        },
+        {
+          "entry_id": "stoic_hungry_04",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 8,
+          "verse": 29,
+          "reference": "Marcus Aurelius, Meditations 8.29 (trans. George Long, 1862)",
+          "text": "Wipe out thy imaginations by often saying to thyself: now it is in my power to let no badness be in this soul, nor desire nor any perturbation at all; but looking at all things I see what is their nature, and I use each according to its value.",
+          "plain": "Clear away exaggerated mental pictures by reminding yourself: right now, it is within my power to see every object for what it actually is and use it only in proportion to its real value.",
+          "reflection_prompt": "When you strip away the glossy mental packaging around this craving, what is the bare object actually made of?",
+          "micro_action": "Describe the craving in plain, clinical nouns on paper to strip away its exaggerated glamour.",
+          "tags": [
+            "marcus_aurelius",
+            "objective_vision",
+            "clarity"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=4&trigger=HUNGRY&ref=stoic_hungry_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Provocation, Indignation & Interpersonal Friction",
+      "theme": "The Unconquered Citadel & Delaying the Retort (Seneca · Marcus Aurelius · Epictetus)",
+      "entries": [
+        {
+          "entry_id": "stoic_angry_01",
+          "source_book": "Seneca, Of Anger (De Ira)",
+          "chapter": 2,
+          "verse": 29,
+          "reference": "Seneca, Of Anger Book II, Ch. 29 (trans. Aubrey Stewart, 1889)",
+          "text": "The greatest remedy for anger is delay. Beg this of anger at the outset, not that it will pardon the offence, but that it will judge of it: if it wait, its heat will abate.",
+          "plain": "The strongest medicine for anger is time. Do not ask your anger to forgive immediately—simply ask it to wait and examine the facts; once it waits, the first fever breaks.",
+          "reflection_prompt": "What will you be glad you left unsaid once the heat of this hour cools down tonight?",
+          "micro_action": "Lock in a mandatory 15-minute delay before replying to any message or comment that stirred irritation.",
+          "tags": [
+            "seneca",
+            "delay_remedy",
+            "cooling_interval",
+            "anger_mastery"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=5&trigger=ANGRY&ref=stoic_angry_01"
+        },
+        {
+          "entry_id": "stoic_angry_02",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 2,
+          "verse": 1,
+          "reference": "Marcus Aurelius, Meditations 2.1 (trans. George Long, 1862)",
+          "text": "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, dishonest, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.",
+          "plain": "Remind yourself at dawn that you will cross paths with impatient, rude, or ungrateful people today; their friction stems from confusion, and none of it requires you to forfeit your own calm.",
+          "reflection_prompt": "Why are you surprised that an unpracticed person acted in an unpracticed way today?",
+          "micro_action": "Exhale slowly for six seconds and drop the demand that the other person should have acted differently.",
+          "tags": [
+            "marcus_aurelius",
+            "morning_premeditation",
+            "equanimity"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=6&trigger=ANGRY&ref=stoic_angry_02"
+        },
+        {
+          "entry_id": "stoic_angry_03",
+          "source_book": "Epictetus, Enchiridion",
+          "chapter": 20,
+          "verse": 1,
+          "reference": "Epictetus, Enchiridion 20 (trans. T.W. Higginson, 1865)",
+          "text": "Remember that not he who gives abuse or blows insults, but the view we take of these things as insulting. When, therefore, anyone provokes you, be assured that it is your own opinion which provokes you.",
+          "plain": "An insult only hooks into your mind when your own judgment agrees to carry it; therefore, try first of all not to be swept away by the initial impression.",
+          "reflection_prompt": "What interpretation did your mind immediately add on top of the raw facts of what just happened?",
+          "micro_action": "Write down only the bare camera-level facts of the event in one line, stripping out every adjective of blame.",
+          "tags": [
+            "epictetus",
+            "cognitive_distance",
+            "unhooked_mind"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=7&trigger=ANGRY&ref=stoic_angry_03"
+        },
+        {
+          "entry_id": "stoic_angry_04",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 6,
+          "verse": 6,
+          "reference": "Marcus Aurelius, Meditations 6.6 (trans. George Long, 1862)",
+          "text": "The best way of avenging thyself is not to become like the wrong doer.",
+          "plain": "The cleanest answer to inconsiderate behavior is refusing to mirror it.",
+          "reflection_prompt": "What action right now would prove that your character remains entirely under your own governance?",
+          "micro_action": "Respond with deliberate courtesy or dignified silence, then pivot immediately back to your scheduled work.",
+          "tags": [
+            "marcus_aurelius",
+            "character_sovereignty",
+            "non_retaliation"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=8&trigger=ANGRY&ref=stoic_angry_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitude, Alienation & Lack of Recognition",
+      "theme": "The Inner Retreat & Citizenship in the Human Commonwealth (Marcus Aurelius · Epictetus · Seneca)",
+      "entries": [
+        {
+          "entry_id": "stoic_lonely_01",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 4,
+          "verse": 3,
+          "reference": "Marcus Aurelius, Meditations 4.3 (trans. George Long, 1862)",
+          "text": "Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself.",
+          "plain": "You can step back into the quiet sanctuary of your own mind at any hour; no place is more peaceful than an uncluttered soul.",
+          "reflection_prompt": "How can you turn this quiet hour from a feeling of being left out into a deliberate retreat into your own citadel?",
+          "micro_action": "Take three minutes of intentional, screen-free quiet to read or write in your physical journal.",
+          "tags": [
+            "marcus_aurelius",
+            "inner_citadel",
+            "productive_solitude"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=9&trigger=LONELY&ref=stoic_lonely_01"
+        },
+        {
+          "entry_id": "stoic_lonely_02",
+          "source_book": "Epictetus, Discourses",
+          "chapter": 3,
+          "verse": 13,
+          "reference": "Epictetus, Discourses Book III, Ch. 13 (trans. George Long, 1877)",
+          "text": "As Zeus dwells with himself, and is tranquil by himself, and thinks of his own administration and of its nature, and is employed in thoughts suitable to himself; so ought we also to be able to talk with ourselves, not to feel the want of others, nor to be unprovided with the means of spending our time.",
+          "plain": "Learn the art of keeping clean, constructive company with yourself—reflecting honestly and working steadily without needing constant noise or applause around you.",
+          "reflection_prompt": "What worthwhile craft or study have you been postponing that thrives best in quiet, uninterrupted solitude?",
+          "micro_action": "Spend five uninterrupted minutes advancing one personal skill or reading passage in silence.",
+          "tags": [
+            "epictetus",
+            "self_company",
+            "tranquility"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=10&trigger=LONELY&ref=stoic_lonely_02"
+        },
+        {
+          "entry_id": "stoic_lonely_03",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 6,
+          "verse": 44,
+          "reference": "Marcus Aurelius, Meditations 6.44 (trans. George Long, 1862)",
+          "text": "My city and my country, so far as I am Antoninus, is Rome, but so far as I am a man, it is the world. The things then which are useful to these cities are alone useful to me.",
+          "plain": "You are a citizen of the wider human family; whenever you do something useful for your community or household, you are connected to the whole.",
+          "reflection_prompt": "What is one small, practical contribution you can make today that makes someone else's day lighter?",
+          "micro_action": "Perform one unannounced helpful act in your home, workplace, or neighborhood today.",
+          "tags": [
+            "marcus_aurelius",
+            "commonwealth",
+            "service"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=11&trigger=LONELY&ref=stoic_lonely_03"
+        },
+        {
+          "entry_id": "stoic_lonely_04",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 4,
+          "verse": 20,
+          "reference": "Marcus Aurelius, Meditations 4.20 (trans. George Long, 1862)",
+          "text": "Everything which is in any way beautiful is beautiful in itself, and terminates in itself, not having praise as part of itself. Neither worse then nor better is a thing made by being praised.",
+          "plain": "Anything genuinely well done carries its worth inside itself; applause adds nothing to its quality, and working unseen takes nothing away from it.",
+          "reflection_prompt": "Would you still take pride in today's discipline if nobody ever saw or praised the streak?",
+          "micro_action": "Complete today's core repetition privately and mark your physical ledger purely for your own integrity.",
+          "tags": [
+            "marcus_aurelius",
+            "intrinsic_worth",
+            "unseen_craft"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=12&trigger=LONELY&ref=stoic_lonely_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Fatigue, Depleted Willpower & Heavy Limbs",
+      "theme": "Essentialism, Dropping Unnecessary Load & Gentle Pacing (Marcus Aurelius · Seneca)",
+      "entries": [
+        {
+          "entry_id": "stoic_tired_01",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 4,
+          "verse": 24,
+          "reference": "Marcus Aurelius, Meditations 4.24 (trans. George Long, 1862)",
+          "text": "Occupy thyself with few things, says the philosopher, if thou wouldst be tranquil. For the greatest part of what we say and do being unnecessary, if a man takes this away, he will have more leisure and less uneasiness.",
+          "plain": "Most exhaustion comes from carrying a dozen unnecessary obligations; strip away what is non-essential, and you immediately recover both calm and breathing room.",
+          "reflection_prompt": "Which item on your list today is pure busywork that can be dropped right now so your energy stays intact?",
+          "micro_action": "Strike two non-essential items off today's list and commit only to your single essential Floor Rep.",
+          "tags": [
+            "marcus_aurelius",
+            "essentialism",
+            "energy_conservation"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=13&trigger=TIRED&ref=stoic_tired_01"
+        },
+        {
+          "entry_id": "stoic_tired_02",
+          "source_book": "Seneca, Of Peace of Mind (De Tranquillitate Animi)",
+          "chapter": 17,
+          "verse": 8,
+          "reference": "Seneca, Of Peace of Mind Ch. XVII (trans. Aubrey Stewart, 1889)",
+          "text": "The mind must not be kept invariably at the same tension, but must be diverted to amusements... Our minds must be given a relaxation: they will rise better and keener after a rest.",
+          "plain": "A bow kept strung tight every hour eventually loses its spring; giving your mind genuine, guilt-free rest allows it to return sharper tomorrow.",
+          "reflection_prompt": "Have you been giving yourself actual rest, or just numbing your tired attention with high-stimulation feeds?",
+          "micro_action": "Take ten minutes of genuine low-stimulation recovery: walk, stretch, or rest with your eyes closed.",
+          "tags": [
+            "seneca",
+            "restorative_rest",
+            "bow_unstrung"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=14&trigger=TIRED&ref=stoic_tired_02"
+        },
+        {
+          "entry_id": "stoic_tired_03",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 6,
+          "verse": 19,
+          "reference": "Marcus Aurelius, Meditations 6.19 (trans. George Long, 1862)",
+          "text": "If a thing is difficult to be accomplished by thyself, do not think that it is impossible for man: but if anything is possible for man and conformable to his nature, think that this can be attained by thyself too.",
+          "plain": "When fatigue makes a task feel heavier than usual, do not mistake low energy for permanent inability; scale the step to fit your current capacity.",
+          "reflection_prompt": "What is the smallest, gentlest version of your habit that keeps your continuity alive on a low-energy day?",
+          "micro_action": "Execute a 60-second Floor Rep right now—just enough to keep the practice warm without draining your reserves.",
+          "tags": [
+            "marcus_aurelius",
+            "floor_rep",
+            "sustainable_effort"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=15&trigger=TIRED&ref=stoic_tired_03"
+        },
+        {
+          "entry_id": "stoic_tired_04",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 5,
+          "verse": 31,
+          "reference": "Marcus Aurelius, Meditations 5.31 (trans. George Long, 1862)",
+          "text": "Look within. Let neither the peculiar quality of anything nor its value escape thee.",
+          "plain": "Return your attention inward and honor the simple value of resting cleanly when the day's work is done.",
+          "reflection_prompt": "What single sentence can close your workday ledger tonight so your mind stops carrying tomorrow's tasks to bed?",
+          "micro_action": "Write 'Today's work is complete' in your journal and close your work tools for the evening.",
+          "tags": [
+            "marcus_aurelius",
+            "evening_shutdown",
+            "closure"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=16&trigger=TIRED&ref=stoic_tired_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Overwhelm, Time Pressure & Catastrophic Forecasting",
+      "theme": "Dichotomy of Control & Confining Attention to the Present Hour (Epictetus · Marcus Aurelius · Seneca)",
+      "entries": [
+        {
+          "entry_id": "stoic_stressed_01",
+          "source_book": "Epictetus, Enchiridion",
+          "chapter": 1,
+          "verse": 1,
+          "reference": "Epictetus, Enchiridion 1 (trans. T.W. Higginson, 1865)",
+          "text": "There are things which are within our power, and there are things which are beyond our power. Within our power are opinion, aim, desire, aversion, and, in one word, whatever affairs are our own.",
+          "plain": "Separate every stressful situation into two columns immediately: what belongs to external circumstance, and what belongs to your own next choice.",
+          "reflection_prompt": "Which half of your current stress comes from trying to control an outcome that is not in your hands?",
+          "micro_action": "Draw two columns on paper—'Not Mine to Control' and 'My Next Step'—and act only on the right column.",
+          "tags": [
+            "epictetus",
+            "dichotomy_of_control",
+            "agency_boundary"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=17&trigger=STRESSED&ref=stoic_stressed_01"
+        },
+        {
+          "entry_id": "stoic_stressed_02",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 8,
+          "verse": 36,
+          "reference": "Marcus Aurelius, Meditations 8.36 (trans. George Long, 1862)",
+          "text": "Do not disturb thyself by thinking of the whole of thy life. Let not thy thoughts at once embrace all the various troubles which thou mayest expect to befall thee: but on every occasion ask thyself, What is there in this which is intolerable and past bearing?",
+          "plain": "Do not crush yourself by piling the whole month's hypothetical problems onto this afternoon; handle only the immediate 15-minute slice in front of you.",
+          "reflection_prompt": "If you only had to manage the next fifteen minutes calmly, is there anything in this present moment you cannot handle?",
+          "micro_action": "Shrink your horizon to the next 15 minutes and complete one clean, single-task action.",
+          "tags": [
+            "marcus_aurelius",
+            "present_interval",
+            "anti_overwhelm"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=18&trigger=STRESSED&ref=stoic_stressed_02"
+        },
+        {
+          "entry_id": "stoic_stressed_03",
+          "source_book": "Seneca, Of the Shortness of Life",
+          "chapter": 9,
+          "verse": 1,
+          "reference": "Seneca, Of the Shortness of Life Ch. IX (trans. Aubrey Stewart, 1889)",
+          "text": "The greatest hindrance to living is expectancy, which depends upon the morrow and wastes to-day.",
+          "plain": "Nothing drains your focus faster than living suspended in anxiety about tomorrow while letting today's actual hours slip through your fingers.",
+          "reflection_prompt": "How can you reclaim the next thirty minutes from anxious forecasting and invest them in tangible work?",
+          "micro_action": "Silence all alerts for 25 minutes and bring 100% of your attention to a single tangible task.",
+          "tags": [
+            "seneca",
+            "present_ownership",
+            "time_sovereignty"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=19&trigger=STRESSED&ref=stoic_stressed_03"
+        },
+        {
+          "entry_id": "stoic_stressed_04",
+          "source_book": "Epictetus, Enchiridion",
+          "chapter": 5,
+          "verse": 1,
+          "reference": "Epictetus, Enchiridion 5 (trans. T.W. Higginson, 1865)",
+          "text": "Men are disturbed not by things, but by the views which they take of things.",
+          "plain": "The tight knot in your stomach is tied not by the task itself, but by the catastrophic story you are telling yourself about it.",
+          "reflection_prompt": "How would a calm, seasoned craftsperson view the exact problem sitting on your desk right now?",
+          "micro_action": "Rewrite the stressful situation in one calm, neutral sentence and begin the very first step.",
+          "tags": [
+            "epictetus",
+            "cognitive_reframing",
+            "calm_execution"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=20&trigger=STRESSED&ref=stoic_stressed_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement, Setback & Loss of Momentum",
+      "theme": "Returning to the Path Without Self-Reproach & Turning Obstacles into Material (Marcus Aurelius · Epictetus)",
+      "entries": [
+        {
+          "entry_id": "stoic_hopeless_01",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 5,
+          "verse": 9,
+          "reference": "Marcus Aurelius, Meditations 5.9 (trans. George Long, 1862)",
+          "text": "Do not be disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles; but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature.",
+          "plain": "When you slip or miss a day, do not fall into disgust or quit the path; simply return to your practice with a steady heart and take satisfaction in building a predominantly faithful life.",
+          "reflection_prompt": "How quickly can you shorten the gap between a stumble and a calm return to your practice?",
+          "micro_action": "Return to the path right now: perform a 60-second recovery rep and mark today as a clean return.",
+          "tags": [
+            "marcus_aurelius",
+            "resilient_return",
+            "compassionate_discipline"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=21&trigger=HOPELESS&ref=stoic_hopeless_01"
+        },
+        {
+          "entry_id": "stoic_hopeless_02",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 5,
+          "verse": 20,
+          "reference": "Marcus Aurelius, Meditations 5.20 (trans. George Long, 1862)",
+          "text": "The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.",
+          "plain": "A setback does not end the training—it becomes the exact raw material you use to practice patience, adaptability, and resolve.",
+          "reflection_prompt": "What specific strength—patience, humility, or persistence—is this current setback giving you a chance to practice?",
+          "micro_action": "Write down one constructive lesson from the recent setback and execute one small forward action.",
+          "tags": [
+            "marcus_aurelius",
+            "obstacle_conversion",
+            "antifragility"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=22&trigger=HOPELESS&ref=stoic_hopeless_02"
+        },
+        {
+          "entry_id": "stoic_hopeless_03",
+          "source_book": "Marcus Aurelius, Meditations",
+          "chapter": 7,
+          "verse": 2,
+          "reference": "Marcus Aurelius, Meditations 7.2 (trans. George Long, 1862)",
+          "text": "How can our principles become dead, unless the impressions (thoughts) which correspond to them are extinguished? But it is in thy power continuously to fan these thoughts into a flame. I can have that opinion about anything, which I ought to have. If I can, why am I disturbed? See that thou now begin to live.",
+          "plain": "Your core principles never die as long as you re-ignite them in the present hour; no matter what yesterday looked like, you can begin living deliberately right now.",
+          "reflection_prompt": "What is one principle you still deeply believe in that you can fan back into a small flame today?",
+          "micro_action": "Speak your core principle aloud and back it up immediately with two minutes of deliberate action.",
+          "tags": [
+            "marcus_aurelius",
+            "re_ignition",
+            "fresh_start"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=23&trigger=HOPELESS&ref=stoic_hopeless_03"
+        },
+        {
+          "entry_id": "stoic_hopeless_04",
+          "source_book": "Epictetus, Discourses",
+          "chapter": 4,
+          "verse": 9,
+          "reference": "Epictetus, Discourses Book IV, Ch. 9 (trans. George Long, 1877)",
+          "text": "There is nothing more tractable than the human soul. You have only to will a thing, and it is done, and the soul is set right: as, on the other hand, you have only to nod, and it is ruined. For both ruin and recovery are from within.",
+          "plain": "Because both drift and recovery originate inside your own choices, recovery is never locked behind an external gate—the moment you choose to straighten your posture, recovery has already begun.",
+          "reflection_prompt": "What single choice in the next five minutes marks the turning point back toward self-command?",
+          "micro_action": "Stand up straight, clear the surface in front of you, and log your immediate recovery step.",
+          "tags": [
+            "epictetus",
+            "internal_recovery",
+            "immediate_agency"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_stoic_citadel_pd&page=24&trigger=HOPELESS&ref=stoic_hopeless_04"
+        }
+      ]
+    }
+  ]
+}

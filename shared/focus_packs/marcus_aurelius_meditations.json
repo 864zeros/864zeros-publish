@@ -1,4 +1,18 @@
 {
+  "pack_id": "marcus_aurelius_meditations",
+  "id": "marcus_aurelius_meditations",
+  "version": "2.0.0",
+  "volume": 1,
+  "title": "The Citadel Within: Marcus Aurelius on Daily Self-Command",
+  "subtitle": "30 Curated Pre-1931 Stoic Meditations with Plain-Language Renderings & Daily Action Protocols",
+  "author": "Marcus Aurelius Antoninus (121–180 AD)",
+  "provenance": {
+    "vault_file": "sources/public_domain_classics/marcus_aurelius_meditations_long_1862.txt",
+    "sha256": "6977474F82A39DD88A4AF31A59504821658174D33C177732C54357E4D680B96C",
+    "translators_referenced": "George Long (1862), John Jackson (1906), George Chrystal (1902), Meric Casaubon (1634 / 1906 Everyman ed.)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication; plain & application layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
   "pack_meta": {
     "pack_id": "marcus_aurelius_meditations",
     "title": "The Citadel Within: Marcus Aurelius on Daily Self-Command",
@@ -15,12 +29,13 @@
       "clean_room_verified": true
     },
     "entry_count": 30,
-    "schema_version": "1.0.0",
+    "schema_version": "2.0.0",
     "compatible_targets": [
       "ClearStreak Focus Packs",
       "864zeros Standalone Practice Books",
       "OIA Focus Extensions"
-    ]
+    ],
+    "volume": 1
   },
   "entries": [
     {
@@ -29,7 +44,14 @@
       "text": "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, dishonest, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil.",
       "plain": "Start your morning by reminding yourself that you will run into difficult, impatient, and ungrateful people today. Their behavior comes from losing sight of what actually matters—and none of it requires you to lose your own footing.",
       "application": "Before checking messages this morning, set your Context Lock: when you encounter friction from another person today, pause for three seconds and protect your calm rather than matching their agitation.",
-      "focus_theme": "morning_readiness"
+      "focus_theme": "morning_readiness",
+      "day": 1,
+      "strategic_prompt": "Start your morning by reminding yourself that you will run into difficult, impatient, and ungrateful people today. Their behavior comes from losing sight of what actually matters—and none of it requires you to lose your own footing. How will you apply this principle when friction arises today?",
+      "micro_action": "Before checking messages this morning, set your Context Lock: when you encounter friction from another person today, pause for three seconds and protect your calm rather than matching their agitation.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_002",
@@ -37,7 +59,14 @@
       "text": "Every moment think steadily as a Roman and a man to do what thou hast in hand with perfect and simple dignity, and feeling of affection, and freedom, and justice; and to give thyself relief from all other thoughts.",
       "plain": "Bring your full attention to the exact task in front of you with quiet dignity, fairness, and clarity, clearing your mind of every competing distraction.",
       "application": "Execute your Primary Focus Habit today as a single, undivided block: close background tabs, silence alerts, and complete your Full Rep before shifting to secondary tasks.",
-      "focus_theme": "single_task_command"
+      "focus_theme": "single_task_command",
+      "day": 2,
+      "strategic_prompt": "Bring your full attention to the exact task in front of you with quiet dignity, fairness, and clarity, clearing your mind of every competing distraction. How will you apply this principle when friction arises today?",
+      "micro_action": "Execute your Primary Focus Habit today as a single, undivided block: close background tabs, silence alerts, and complete your Full Rep before shifting to secondary tasks.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_003",
@@ -45,7 +74,14 @@
       "text": "Though thou shouldest be going to live three thousand years, and as many times ten thousand years, still remember that no man loses any other life than this which he now lives, nor lives any other than this which he now loses.",
       "plain": "Even if you lived for three thousand years, the only moment you ever actually own—or can ever waste—is the present one right in front of you.",
       "application": "Stop deferring your check-in to a mythical calmer tomorrow. Anchor your habit to the present hour and log at least your Floor Rep right now.",
-      "focus_theme": "present_ownership"
+      "focus_theme": "present_ownership",
+      "day": 3,
+      "strategic_prompt": "Even if you lived for three thousand years, the only moment you ever actually own—or can ever waste—is the present one right in front of you. How will you apply this principle when friction arises today?",
+      "micro_action": "Stop deferring your check-in to a mythical calmer tomorrow. Anchor your habit to the present hour and log at least your Floor Rep right now.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "marcus_004",
@@ -53,7 +89,14 @@
       "text": "Do not waste the remainder of thy life in thoughts about others, when thou dost not refer thy thoughts to some object of common utility.",
       "plain": "Do not burn up the rest of your days wondering what other people are doing, saying, or thinking unless it directly serves a constructive purpose.",
       "application": "Notice when your attention drifts toward comparing your progress to others. Redirect that wasted mental energy immediately into your next scheduled action.",
-      "focus_theme": "attention_sovereignty"
+      "focus_theme": "attention_sovereignty",
+      "day": 4,
+      "strategic_prompt": "Do not burn up the rest of your days wondering what other people are doing, saying, or thinking unless it directly serves a constructive purpose. How will you apply this principle when friction arises today?",
+      "micro_action": "Notice when your attention drifts toward comparing your progress to others. Redirect that wasted mental energy immediately into your next scheduled action.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_005",
@@ -61,7 +104,14 @@
       "text": "Let thyerd be neither unwilling nor selfish, nor without due deliberation, nor with distraction; let not finer thoughts dress out thy speech; be neither a man of many words, nor busy about too many things.",
       "plain": "Act willingly, deliberately, and without scattered haste. Speak plainly without dressing up your words, and refuse to overload your schedule with too many competing commitments.",
       "application": "Apply the Franklin Focus Cadence today: keep secondary routines in light Maintenance Mode and give your best energy to your single Primary Focus Habit.",
-      "focus_theme": "essentialism"
+      "focus_theme": "essentialism",
+      "day": 5,
+      "strategic_prompt": "Act willingly, deliberately, and without scattered haste. Speak plainly without dressing up your words, and refuse to overload your schedule with too many competing commitments. How will you apply this principle when friction arises today?",
+      "micro_action": "Apply the Franklin Focus Cadence today: keep secondary routines in light Maintenance Mode and give your best energy to your single Primary Focus Habit.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_006",
@@ -69,7 +119,14 @@
       "text": "Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and thou too art wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in thy power whenever thou shalt choose to retire into thyself.",
       "plain": "People are always looking for a getaway—the coast, the mountains, a quiet cabin. Yet you don't need to travel anywhere to find quiet; you can step back into the calm of your own mind whenever you choose.",
       "application": "Take a 60-second stillness reset before starting your afternoon work block: breathe slowly, drop external noise, and re-center in your internal citadel.",
-      "focus_theme": "inner_citadel"
+      "focus_theme": "inner_citadel",
+      "day": 6,
+      "strategic_prompt": "People are always looking for a getaway—the coast, the mountains, a quiet cabin. Yet you don't need to travel anywhere to find quiet; you can step back into the calm of your own mind whenever you choose. How will you apply this principle when friction arises today?",
+      "micro_action": "Take a 60-second stillness reset before starting your afternoon work block: breathe slowly, drop external noise, and re-center in your internal citadel.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "marcus_007",
@@ -77,7 +134,14 @@
       "text": "Take away thy opinion, and then there is taken away the complaint, 'I have been harmed.' Take away the complaint, 'I have been harmed,' and the harm is taken away.",
       "plain": "Drop the story that an inconvenience has ruined your day, and the complaint disappears. Drop the complaint, and the setback loses its power over you.",
       "application": "When a schedule disruption happens today, strip away the frustration story and switch cleanly to your Floor Rep so your continuity stays unbroken.",
-      "focus_theme": "cognitive_reframing"
+      "focus_theme": "cognitive_reframing",
+      "day": 7,
+      "strategic_prompt": "Drop the story that an inconvenience has ruined your day, and the complaint disappears. Drop the complaint, and the setback loses its power over you. How will you apply this principle when friction arises today?",
+      "micro_action": "When a schedule disruption happens today, strip away the frustration story and switch cleanly to your Floor Rep so your continuity stays unbroken.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_008",
@@ -85,7 +149,14 @@
       "text": "How much trouble he avoids who does not look to see what his neighbour says or does or thinks, but only to what he does himself, that it may be just and pure.",
       "plain": "You save yourself an enormous amount of trouble the moment you stop monitoring what your neighbor says or does, and focus entirely on keeping your own actions honest and clean.",
       "application": "Measure today strictly by your own personal ledger: did you honor your When-Then Trigger and show up for your commitment?",
-      "focus_theme": "self_governance"
+      "focus_theme": "self_governance",
+      "day": 8,
+      "strategic_prompt": "You save yourself an enormous amount of trouble the moment you stop monitoring what your neighbor says or does, and focus entirely on keeping your own actions honest and clean. How will you apply this principle when friction arises today?",
+      "micro_action": "Measure today strictly by your own personal ledger: did you honor your When-Then Trigger and show up for your commitment?",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_009",
@@ -93,7 +164,14 @@
       "text": "Love the art, poor as it may be, which thou hast learned, and be content with it; and pass through the rest of life like one who has intrusted to the gods with his whole soul all that he has, making thyself neither the tyrant nor the slave of any man.",
       "plain": "Care deeply for the craft you practice, humble as it may be, and find steadiness in it—walking through life neither dominating others nor letting anyone rule your peace of mind.",
       "application": "Approach today's repetition not as a chore to survive, but as deliberate craftsmanship—one clean rep that refines your skill.",
-      "focus_theme": "craftsmanship"
+      "focus_theme": "craftsmanship",
+      "day": 9,
+      "strategic_prompt": "Care deeply for the craft you practice, humble as it may be, and find steadiness in it—walking through life neither dominating others nor letting anyone rule your peace of mind. How will you apply this principle when friction arises today?",
+      "micro_action": "Approach today's repetition not as a chore to survive, but as deliberate craftsmanship—one clean rep that refines your skill.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "marcus_010",
@@ -101,7 +179,14 @@
       "text": "In the morning when thou risest unwillingly, let this thought be present—I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?",
       "plain": "When you wake up reluctant to leave the warmth of bed, tell yourself plainly: I am getting up to do the work of a human being. Why resent doing what I was built to do?",
       "application": "Anchor your morning start to the moment your feet touch the floor: execute a 60-Second Ignition action immediately before hesitation can build.",
-      "focus_theme": "morning_ignition"
+      "focus_theme": "morning_ignition",
+      "day": 10,
+      "strategic_prompt": "When you wake up reluctant to leave the warmth of bed, tell yourself plainly: I am getting up to do the work of a human being. Why resent doing what I was built to do? How will you apply this principle when friction arises today?",
+      "micro_action": "Anchor your morning start to the moment your feet touch the floor: execute a 60-Second Ignition action immediately before hesitation can build.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_011",
@@ -109,7 +194,14 @@
       "text": "Do not be disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles; but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature.",
       "plain": "Do not get disgusted with yourself or give up when you slip away from your standards. When you miss the mark, return to the practice immediately and value the steady majority of days you show up.",
       "application": "Practice Single-Slip Recovery: if you missed yesterday's target, reject all-or-nothing guilt and complete today's check-in to protect your long-term consistency ratio.",
-      "focus_theme": "single_slip_recovery"
+      "focus_theme": "single_slip_recovery",
+      "day": 11,
+      "strategic_prompt": "Do not get disgusted with yourself or give up when you slip away from your standards. When you miss the mark, return to the practice immediately and value the steady majority of days you show up. How will you apply this principle when friction arises today?",
+      "micro_action": "Practice Single-Slip Recovery: if you missed yesterday's target, reject all-or-nothing guilt and complete today's check-in to protect your long-term consistency ratio.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_012",
@@ -117,7 +209,14 @@
       "text": "Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.",
       "plain": "The quality of your mind takes on the color of your repeated thoughts; whatever you dwell on daily dyes your character.",
       "application": "Pair your daily habit check-in with one deliberate, constructive statement about the person your consistency is building.",
-      "focus_theme": "character_proof"
+      "focus_theme": "character_proof",
+      "day": 12,
+      "strategic_prompt": "The quality of your mind takes on the color of your repeated thoughts; whatever you dwell on daily dyes your character. How will you apply this principle when friction arises today?",
+      "micro_action": "Pair your daily habit check-in with one deliberate, constructive statement about the person your consistency is building.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "marcus_013",
@@ -125,7 +224,14 @@
       "text": "The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.",
       "plain": "A disciplined mind turns every roadblock into raw material for its next move. What blocks the path becomes the path itself.",
       "application": "Identify the single biggest friction point threatening your streak today and turn it into your When-Then Trigger ('When X blocks my usual time, I will execute my Floor Rep immediately').",
-      "focus_theme": "obstacle_conversion"
+      "focus_theme": "obstacle_conversion",
+      "day": 13,
+      "strategic_prompt": "A disciplined mind turns every roadblock into raw material for its next move. What blocks the path becomes the path itself. How will you apply this principle when friction arises today?",
+      "micro_action": "Identify the single biggest friction point threatening your streak today and turn it into your When-Then Trigger ('When X blocks my usual time, I will execute my Floor Rep immediately').",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_014",
@@ -133,7 +239,14 @@
       "text": "Let it make no difference to thee whether thou art cold or warm, if thou art doing thy duty; and whether thou art drowsy or satisfied with sleep; and whether ill-spoken of or praised.",
       "plain": "Whether you are tired or well-rested, praised or criticized, comfortable or uncomfortable—let none of those shifting conditions decide whether you do your work.",
       "application": "Separate your behavior from your mood today: even if energy is low, execute your Baseline Action without waiting to feel motivated.",
-      "focus_theme": "mood_independence"
+      "focus_theme": "mood_independence",
+      "day": 14,
+      "strategic_prompt": "Whether you are tired or well-rested, praised or criticized, comfortable or uncomfortable—let none of those shifting conditions decide whether you do your work. How will you apply this principle when friction arises today?",
+      "micro_action": "Separate your behavior from your mood today: even if energy is low, execute your Baseline Action without waiting to feel motivated.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_015",
@@ -141,7 +254,14 @@
       "text": "Look to theenergetic movement of the vines, not for applause, but because it is in their nature to bear fruit; just as a horse runs, a dog tracks, and a bee makes honey, so a man does a good act and moves on to the next.",
       "plain": "A vine produces grapes because that is what it is built to do, not for applause. Do your good work the same way—quietly, naturally, and move straight on to the next task.",
       "application": "Complete your habit today with zero external fanfare; let the quiet closure of checking your ledger be its own reinforcement.",
-      "focus_theme": "intrinsic_reinforcement"
+      "focus_theme": "intrinsic_reinforcement",
+      "day": 15,
+      "strategic_prompt": "A vine produces grapes because that is what it is built to do, not for applause. Do your good work the same way—quietly, naturally, and move straight on to the next task. How will you apply this principle when friction arises today?",
+      "micro_action": "Complete your habit today with zero external fanfare; let the quiet closure of checking your ledger be its own reinforcement.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "marcus_016",
@@ -149,7 +269,14 @@
       "text": "If a thing is difficult to be accomplished by thyself, do not think that it is impossible for man: but if anything is possible for man and conformable to his nature, think that this can be attained by thyself too.",
       "plain": "When a discipline feels hard for you right now, never confuse 'hard for me today' with 'impossible.' If another human being can master it, the capability is in you too.",
       "application": "Break a daunting goal down to its Minimum Viable Rep today so your nervous system logs proof of capability rather than avoidance.",
-      "focus_theme": "capability_trust"
+      "focus_theme": "capability_trust",
+      "day": 16,
+      "strategic_prompt": "When a discipline feels hard for you right now, never confuse 'hard for me today' with 'impossible.' If another human being can master it, the capability is in you too. How will you apply this principle when friction arises today?",
+      "micro_action": "Break a daunting goal down to its Minimum Viable Rep today so your nervous system logs proof of capability rather than avoidance.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_017",
@@ -157,7 +284,14 @@
       "text": "How can our principles become dead, unless the impressions thoughts which correspond to them are extinguished? But it is in thy power continuously to fan these thoughts into a flame.",
       "plain": "Your principles only die if you stop feeding the daily thoughts and actions that keep them alive. And it is always in your power to fan that spark back into flame right now.",
       "application": "Treat today's check-in as fanning the ember: one deliberate repetition keeps your behavioral groove active.",
-      "focus_theme": "continuity_ignition"
+      "focus_theme": "continuity_ignition",
+      "day": 17,
+      "strategic_prompt": "Your principles only die if you stop feeding the daily thoughts and actions that keep them alive. And it is always in your power to fan that spark back into flame right now. How will you apply this principle when friction arises today?",
+      "micro_action": "Treat today's check-in as fanning the ember: one deliberate repetition keeps your behavioral groove active.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_018",
@@ -165,7 +299,14 @@
       "text": "Is my understanding sufficient for this or not? If it is sufficient, I use it for the work as an instrument given by the universal nature.",
       "plain": "Ask yourself simply: do I have what it takes to handle this step right now? Since you do, pick up your tools and get to work.",
       "application": "Eliminate over-planning today. Use the tools already on your desk to complete your first 10 minutes of focused execution.",
-      "focus_theme": "bias_to_action"
+      "focus_theme": "bias_to_action",
+      "day": 18,
+      "strategic_prompt": "Ask yourself simply: do I have what it takes to handle this step right now? Since you do, pick up your tools and get to work. How will you apply this principle when friction arises today?",
+      "micro_action": "Eliminate over-planning today. Use the tools already on your desk to complete your first 10 minutes of focused execution.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "marcus_019",
@@ -173,7 +314,14 @@
       "text": "Let not future things disturb thee, for thou wilt come to them, if it shall be necessary, having with thee the same reason which now thou usest for present things.",
       "plain": "Do not let future problems rattle you ahead of time. When you actually reach them, you will bring the exact same clear judgment you are using right now.",
       "application": "Shrink your horizon to today's 24-hour window: focus only on keeping today's promise clean.",
-      "focus_theme": "twenty_four_hour_horizon"
+      "focus_theme": "twenty_four_hour_horizon",
+      "day": 19,
+      "strategic_prompt": "Do not let future problems rattle you ahead of time. When you actually reach them, you will bring the exact same clear judgment you are using right now. How will you apply this principle when friction arises today?",
+      "micro_action": "Shrink your horizon to today's 24-hour window: focus only on keeping today's promise clean.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_020",
@@ -181,7 +329,14 @@
       "text": "Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.",
       "plain": "Look inside yourself. The source of strength and steadiness is already within you, and it will keep flowing as long as you keep digging.",
       "application": "When you feel depleted, initiate a brief internal pause and draw on your accumulated Streak Equity—the proof of every day you have already shown up.",
-      "focus_theme": "internal_resilience"
+      "focus_theme": "internal_resilience",
+      "day": 20,
+      "strategic_prompt": "Look inside yourself. The source of strength and steadiness is already within you, and it will keep flowing as long as you keep digging. How will you apply this principle when friction arises today?",
+      "micro_action": "When you feel depleted, initiate a brief internal pause and draw on your accumulated Streak Equity—the proof of every day you have already shown up.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_021",
@@ -189,7 +344,14 @@
       "text": "It is in thy power to live free from all compulsion in the greatest tranquillity of mind, even if all the world cry out against thee as much as they choose.",
       "plain": "You have the power to live with complete inner calm and freedom, no matter how loudly the world around you complains or clamors for your reaction.",
       "application": "Guard your evening wind-down routine today: shut off noisy feeds 30 minutes early and close the day on your own terms.",
-      "focus_theme": "evening_tranquillity"
+      "focus_theme": "evening_tranquillity",
+      "day": 21,
+      "strategic_prompt": "You have the power to live with complete inner calm and freedom, no matter how loudly the world around you complains or clamors for your reaction. How will you apply this principle when friction arises today?",
+      "micro_action": "Guard your evening wind-down routine today: shut off noisy feeds 30 minutes early and close the day on your own terms.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "marcus_022",
@@ -197,7 +359,14 @@
       "text": "Every nature is contented with itself when it goes on its way well; and a rational nature goes on its way well, when in its thoughts it assents to nothing false or uncertain, and when it directs its movements to social acts only.",
       "plain": "A clear mind is at peace when it moves steadily along its path—refusing to buy into false stories or distractions, and directing its energy toward constructive action.",
       "application": "Question any mental excuse that claims 'skipping today won't matter.' Recognize the excuse as false and complete your check-in.",
-      "focus_theme": "mental_clarity"
+      "focus_theme": "mental_clarity",
+      "day": 22,
+      "strategic_prompt": "A clear mind is at peace when it moves steadily along its path—refusing to buy into false stories or distractions, and directing its energy toward constructive action. How will you apply this principle when friction arises today?",
+      "micro_action": "Question any mental excuse that claims 'skipping today won't matter.' Recognize the excuse as false and complete your check-in.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_023",
@@ -205,7 +374,14 @@
       "text": "Attend to the matter which is before thee, whether it is an opinion or an act or a word.",
       "plain": "Lock your attention onto what is directly in front of you right now—whether it is a thought you are testing, an action you are taking, or a word you are speaking.",
       "application": "During your Primary Focus Habit today, whenever your attention wanders, gently bring it back to the immediate physical step.",
-      "focus_theme": "attentional_anchor"
+      "focus_theme": "attentional_anchor",
+      "day": 23,
+      "strategic_prompt": "Lock your attention onto what is directly in front of you right now—whether it is a thought you are testing, an action you are taking, or a word you are speaking. How will you apply this principle when friction arises today?",
+      "micro_action": "During your Primary Focus Habit today, whenever your attention wanders, gently bring it back to the immediate physical step.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_024",
@@ -213,7 +389,14 @@
       "text": "Thou must compose thy life action by action, and be satisfied if each, so far as it can, attains its own end; and that no one is able to hinder thee from each attaining its own end, there is no doubt.",
       "plain": "You build a life action by action. Be satisfied if each step does its job cleanly—and remember that no one can stop you from bringing integrity to this very next step.",
       "application": "Stop worrying about a year-long outcome. Stack one clean, deliberate action today and mark it complete.",
-      "focus_theme": "compounding_cadence"
+      "focus_theme": "compounding_cadence",
+      "day": 24,
+      "strategic_prompt": "You build a life action by action. Be satisfied if each step does its job cleanly—and remember that no one can stop you from bringing integrity to this very next step. How will you apply this principle when friction arises today?",
+      "micro_action": "Stop worrying about a year-long outcome. Stack one clean, deliberate action today and mark it complete.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "marcus_025",
@@ -221,7 +404,14 @@
       "text": "Do not disturb thyself by thinking of the whole of thy life. Let not thy thoughts at once embrace all the various troubles which thou mayest expect to befall thee: but on every occasion ask thyself, What is there in this which is intolerable and past bearing?",
       "plain": "Don't overwhelm yourself by piling the weight of your entire future onto this single hour. Ask yourself only: what part of this present step is actually unbearable?",
       "application": "When resistance spikes before a task, lower the Action Friction: commit to just five focused minutes right now.",
-      "focus_theme": "friction_reduction"
+      "focus_theme": "friction_reduction",
+      "day": 25,
+      "strategic_prompt": "Don't overwhelm yourself by piling the weight of your entire future onto this single hour. Ask yourself only: what part of this present step is actually unbearable? How will you apply this principle when friction arises today?",
+      "micro_action": "When resistance spikes before a task, lower the Action Friction: commit to just five focused minutes right now.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_026",
@@ -229,7 +419,14 @@
       "text": "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now.",
       "plain": "When an outside event upsets you, it isn't the event itself causing the turmoil, but the judgment you attach to it—and you can wipe that judgment clean right now.",
       "application": "Pause before reacting to an unexpected delay today; reframe the waiting time as an opportunity to complete a reading or breathing rep.",
-      "focus_theme": "judgment_control"
+      "focus_theme": "judgment_control",
+      "day": 26,
+      "strategic_prompt": "When an outside event upsets you, it isn't the event itself causing the turmoil, but the judgment you attach to it—and you can wipe that judgment clean right now. How will you apply this principle when friction arises today?",
+      "micro_action": "Pause before reacting to an unexpected delay today; reframe the waiting time as an opportunity to complete a reading or breathing rep.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_027",
@@ -237,7 +434,14 @@
       "text": "Thy present opinion founded on understanding, and thy present conduct directed to social good, and thy present disposition of contentment with everything which happens—that is enough.",
       "plain": "Clear thinking in this moment, constructive action in this moment, and steadiness with whatever lies outside your control—that is enough.",
       "application": "Use this three-part checklist to close your day: one clear thought, one completed habit action, and calm acceptance of what is done.",
-      "focus_theme": "daily_sufficiency"
+      "focus_theme": "daily_sufficiency",
+      "day": 27,
+      "strategic_prompt": "Clear thinking in this moment, constructive action in this moment, and steadiness with whatever lies outside your control—that is enough. How will you apply this principle when friction arises today?",
+      "micro_action": "Use this three-part checklist to close your day: one clear thought, one completed habit action, and calm acceptance of what is done.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "marcus_028",
@@ -245,7 +449,14 @@
       "text": "No longer talk at all about the kind of man that a good man ought to be, but be such.",
       "plain": "Stop debating what a person of character ought to look like. Simply be one in how you act today.",
       "application": "Replace talking or reading about your goal with immediate execution: perform your habit before discussing it with anyone.",
-      "focus_theme": "embodied_action"
+      "focus_theme": "embodied_action",
+      "day": 28,
+      "strategic_prompt": "Stop debating what a person of character ought to look like. Simply be one in how you act today. How will you apply this principle when friction arises today?",
+      "micro_action": "Replace talking or reading about your goal with immediate execution: perform your habit before discussing it with anyone.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "marcus_029",
@@ -253,7 +464,14 @@
       "text": "Remember that to change thy opinion and to follow him who corrects thy error is as consistent with freedom as it is to persist in thy error.",
       "plain": "Changing course when you spot an error is not a loss of independence; adapting to truth is an act of real self-command.",
       "application": "Review your habit timing today: if an evening schedule keeps failing due to fatigue, move your Context Lock to the morning without ego.",
-      "focus_theme": "adaptive_calibration"
+      "focus_theme": "adaptive_calibration",
+      "day": 29,
+      "strategic_prompt": "Changing course when you spot an error is not a loss of independence; adapting to truth is an act of real self-command. How will you apply this principle when friction arises today?",
+      "micro_action": "Review your habit timing today: if an evening schedule keeps failing due to fatigue, move your Context Lock to the morning without ego.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "marcus_030",
@@ -261,7 +479,14 @@
       "text": "All those things at which thou wishest to arrive by a circuitous road, thou canst have now, if thou dost not refuse them to thyself. And this means, if thou wilt take no notice of all the past, trust the future to providence, and direct the present only conformably to piety and justice.",
       "plain": "Everything you hope to reach someday by a long, winding road is available to you right now if you stop denying it to yourself: release the past, stop fretting over the future, and govern this present hour with integrity.",
       "application": "Claim the reward of self-command today—not at the end of a distant milestone, but in the immediate closure of honoring today's commitment.",
-      "focus_theme": "immediate_sovereignty"
+      "focus_theme": "immediate_sovereignty",
+      "day": 30,
+      "strategic_prompt": "Everything you hope to reach someday by a long, winding road is available to you right now if you stop denying it to yourself: release the past, stop fretting over the future, and govern this present hour with integrity. How will you apply this principle when friction arises today?",
+      "micro_action": "Claim the reward of self-command today—not at the end of a distant milestone, but in the immediate closure of honoring today's commitment.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     }
   ]
 }

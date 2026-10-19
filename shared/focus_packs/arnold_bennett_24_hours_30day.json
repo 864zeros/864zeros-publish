@@ -1,0 +1,497 @@
+{
+  "pack_id": "arnold_bennett_24_hours_30day",
+  "id": "arnold_bennett_24_hours_30day",
+  "version": "2.0.0",
+  "volume": 2,
+  "title": "The Day Within a Day: Arnold Bennett on Deliberate Time-Pockets",
+  "subtitle": "30 Verbatim Pre-1931 Passages from Arnold Bennett's How to Live on 24 Hours a Day (1910) on Protected Time-Pockets & Anti-Burnout Habit Scaling",
+  "author": "Arnold Bennett (1867–1931)",
+  "provenance": {
+    "vault_file": "sources/public_domain_classics/arnold_bennett_24_hours_1910.txt",
+    "sha256": "9B82D3168C476D0B5238768555EBD50A3CC7BBF199927E6F065D35A650EBFA16",
+    "bytes": 92930,
+    "gutenberg_id": 2274,
+    "translators_referenced": "Arnold Bennett (1910 Original English Edition, George H. Doran — Gutenberg #2274)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication (1910); plain, application, strategic_prompt & micro_action layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
+  "pack_meta": {
+    "pack_id": "arnold_bennett_24_hours_30day",
+    "volume": 2,
+    "title": "The Day Within a Day: Arnold Bennett on Deliberate Time-Pockets",
+    "subtitle": "30 Verbatim Pre-1931 Passages from Arnold Bennett's How to Live on 24 Hours a Day (1910) on Protected Time-Pockets & Anti-Burnout Habit Scaling",
+    "author": "Arnold Bennett (1867–1931)",
+    "editorial_lead": "Julian Thorne (LEAD-CONTENT)",
+    "legal_clearance_lead": "Vera Lindqvist (STUDIO-LEGAL)",
+    "studio_vp": "Sloane Sterling (VP-STUDIO)",
+    "source_provenance": {
+      "vault_file": "sources/public_domain_classics/arnold_bennett_24_hours_1910.txt",
+      "sha256": "9B82D3168C476D0B5238768555EBD50A3CC7BBF199927E6F065D35A650EBFA16",
+      "bytes": 92930,
+      "gutenberg_id": 2274,
+      "translators_referenced": "Arnold Bennett (1910 Original English Edition, George H. Doran — Gutenberg #2274)",
+      "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication (1910); plain, application, strategic_prompt & micro_action layers are 100% original 2026 864zeros LLC authorship.",
+      "clean_room_verified": true
+    },
+    "entry_count": 30,
+    "schema_version": "2.0.0",
+    "compatible_targets": [
+      "ClearStreak Focus Packs",
+      "864zeros 5x8 QR Companion Journals",
+      "864zeros Standalone Practice Books",
+      "OIA Focus Extensions"
+    ]
+  },
+  "entries": [
+    {
+      "id": "bennett_24h_001",
+      "day": 1,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 1",
+      "text": "I remain convinced that they put not as much but as little of themselves as they conscientiously can into the earning of a livelihood, and that their vocation bores rather than interests them.",
+      "plain": "Every morning delivers a fresh, unblemished purse of twenty-four hours—no one receives a single minute more or less.",
+      "application": "Receive today's 24 hours as a clean slate regardless of how yesterday went.",
+      "strategic_prompt": "How would you spend the next hour if you treated time as a fresh daily miracle?",
+      "micro_action": "Choose one deliberate 20-minute pocket today and assign its exact purpose now.",
+      "focus_theme": "the_daily_miracle",
+      "halt_triggers": [
+        "HOPELESS",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "bennett_24h_002",
+      "day": 2,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 2",
+      "text": "But I really can't do another day's work on the top of my official day.\" The fact is, I, the author, ought to have foreseen that I should appeal most strongly to those who already had an interest in existence.",
+      "plain": "In the realm of time, wealth and status confer zero advantage; everyone stewards the exact same daily allotment.",
+      "application": "Stop comparing your resources to others and invest the hour directly in front of you.",
+      "strategic_prompt": "Where has comparison been distracting you from using your own twenty-four hours?",
+      "micro_action": "Focus exclusively on your own Primary Focus Habit for the next 15 minutes.",
+      "focus_theme": "democracy_of_time",
+      "halt_triggers": [
+        "LONELY",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "bennett_24h_003",
+      "day": 3,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 3",
+      "text": "In reply to which I tell you flatly that if your ordinary day's work is thus exhausting, then the balance of your life is wrong and must be adjusted.",
+      "plain": "Even if you squandered yesterday, today's full supply of twenty-four hours arrives undiminished at dawn.",
+      "application": "Apply 'Data Over Shame': never let yesterday's wasted hour poison today's fresh allotment.",
+      "strategic_prompt": "What guilt about yesterday can you release so today stays clear?",
+      "micro_action": "Take a deep breath, forgive yesterday's friction, and log today's Floor Rep.",
+      "focus_theme": "unstoppable_supply",
+      "halt_triggers": [
+        "HOPELESS",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "bennett_24h_004",
+      "day": 4,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 4",
+      "text": "These details may seem trivial to the foolish, but to the thoughtful they will not seem trivial.",
+      "plain": "Merely muddling through a reactive schedule leaves a constant background uneasiness; deliberate living requires a plan.",
+      "application": "Replace reactive drifting this evening with one intentionally chosen activity.",
+      "strategic_prompt": "Which part of your daily routine currently feels like 'muddling through'?",
+      "micro_action": "Define a clear When-Then anchor for your evening transition today.",
+      "focus_theme": "living_vs_muddling_through",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "bennett_24h_005",
+      "day": 5,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 5",
+      "text": "The supply of time is truly a daily miracle, an affair genuinely astonishing when one examines it.",
+      "plain": "Just as a household budget collapses without intention, a 24-hour day feels frantic until its prime compartments are defined.",
+      "application": "Allocate your Primary Focus Habit into a fixed slot before filling the day with minor errands.",
+      "strategic_prompt": "What is the single non-negotiable line item in your time budget today?",
+      "micro_action": "Block out 15–30 minutes on your calendar today for your primary discipline.",
+      "focus_theme": "balancing_the_time_budget",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "bennett_24h_006",
+      "day": 6,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 6",
+      "text": "But if one cannot arrange that an income of twenty-four hours a day shall exactly cover all proper items of expenditure, one does muddle one's life definitely.",
+      "plain": "Inside your official workday sits a second, sovereign day—the morning and evening hours that belong entirely to your own growth.",
+      "application": "Treat your pre-work morning or post-work evening hour as a sacred 'day within a day.'",
+      "strategic_prompt": "Which 30-minute window outside your job belongs 100% to your own development?",
+      "micro_action": "Claim 15 minutes of that window today for reading, reflection, or training.",
+      "focus_theme": "the_day_within_a_day",
+      "halt_triggers": [
+        "TIRED",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "bennett_24h_007",
+      "day": 7,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 7",
+      "text": "I do all that I want to do, and still find time to go in for newspaper competitions.",
+      "plain": "The quiet restlessness to grow beyond mere routine is a healthy signal; only deliberate action puts that restlessness at peace.",
+      "application": "Channel restless energy into a concrete 10-minute creative or physical rep today.",
+      "strategic_prompt": "What worthwhile pursuit has been knocking at the back of your mind this month?",
+      "micro_action": "Take one concrete 5-minute step toward that pursuit today.",
+      "focus_theme": "answering_inner_aspiration",
+      "halt_triggers": [
+        "HUNGRY",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "bennett_24h_008",
+      "day": 8,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 8",
+      "text": "Until an effort is made to satisfy that wish, the sense of uneasy waiting for something to start which has not started will remain to disturb the peace of the soul.",
+      "plain": "Wishing to reach a distant goal while never taking the first local step creates far more fatigue than the work itself.",
+      "application": "Stop over-researching and execute the simplest first step of your habit today.",
+      "strategic_prompt": "Where have you been substituting planning for actual execution?",
+      "micro_action": "Close the planning doc and perform one real repetition right now.",
+      "focus_theme": "leaving_the_station",
+      "halt_triggers": [
+        "STRESSED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "bennett_24h_009",
+      "day": 9,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 9",
+      "text": "Take hold of your nerves, and jump.\" As I have previously said, the chief beauty about the constant supply of time is that you cannot waste it in advance.",
+      "plain": "Your life's best energy should never be 100% monopolized by routine obligations; keep a reserve for your own soul and mind.",
+      "application": "Guard a small daily pocket of fresh mental energy before exhaustion sets in.",
+      "strategic_prompt": "Why give 100% of your sharpest energy to obligations and 0% to your own growth?",
+      "micro_action": "Execute your Primary Focus Habit earlier in the day before fatigue builds.",
+      "focus_theme": "protecting_vital_powers",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "bennett_24h_010",
+      "day": 10,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 10",
+      "text": "There are men who have to work longer for a living, but there are others who do not have to work so long.",
+      "plain": "Engaging your mind in something meaningful before the official workday begins changes the posture of the entire day.",
+      "application": "Attach your When-Then Routine Anchor to your morning coffee or commute.",
+      "strategic_prompt": "What happens to your mood when you win the first 15 minutes of the morning?",
+      "micro_action": "Complete your morning Floor Rep before checking work messages.",
+      "focus_theme": "morning_first_fruits",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "bennett_24h_011",
+      "day": 11,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 11",
+      "text": "And this inner day, a Chinese box in a larger Chinese box, must begin at 6 p.m. and end at 10 a.m.",
+      "plain": "The #1 cause of abandoned resolutions is undertaking an over-ambitious schedule on Day 1; begin with a modest, winnable rep.",
+      "application": "Keep your Floor Rep small enough that you can execute it even on your hardest day.",
+      "strategic_prompt": "Is your current daily habit target realistic for a tired Tuesday night?",
+      "micro_action": "Scale today's target down to a high-certainty 5-to-15 minute win.",
+      "focus_theme": "Modest_beginnings_prevent_burnout",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "bennett_24h_012",
+      "day": 12,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 12",
+      "text": "I shall now examine the typical man's current method of employing the sixteen hours that are entirely his, beginning with his uprising.",
+      "plain": "Transition times—walking, commuting, or waiting—are hidden goldmines for calm mental reflection instead of frantic scrolling.",
+      "application": "Use your next 10-minute transit or waiting window for quiet thought or a Focus Pack reading.",
+      "strategic_prompt": "How do you usually spend the first 15 minutes after leaving work?",
+      "micro_action": "Keep your phone pocketed during your next walk or transit transition.",
+      "focus_theme": "reclaiming_the_commute_pocket",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "bennett_24h_013",
+      "day": 13,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 13",
+      "text": "V TENNIS AND THE IMMORTAL SOUL You get into the morning train with your newspaper, and you calmly and majestically give yourself up to your newspaper.",
+      "plain": "Often what feels like total evening exhaustion is actually boredom or decision fatigue from an unvaried routine.",
+      "application": "Test gentle mental or physical engagement tonight instead of collapsing into passive screen numbing.",
+      "strategic_prompt": "Does passive scrolling actually restore your energy, or leave you more drained?",
+      "micro_action": "Try 10 minutes of your restorative habit tonight before turning on any screen.",
+      "focus_theme": "debunking_total_exhaustion",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "bennett_24h_014",
+      "day": 14,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 14",
+      "text": "But in about an hour or so you feel as if you could sit up and take a little nourishment.",
+      "plain": "You do not need to overhaul every night of the week at once; reclaiming even three focused evenings transforms a year.",
+      "application": "Designate tonight as one of your focused evenings and protect a 30-minute window.",
+      "strategic_prompt": "Which three evenings this week are best suited for a calm focus session?",
+      "micro_action": "Mark those three evenings now and set a gentle reminder cue.",
+      "focus_theme": "the_three_evenings_rule",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "bennett_24h_015",
+      "day": 15,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 15",
+      "text": "What I suggest is that at six o'clock you look facts in the face and admit that you are not tired (because you are not, you know), and that you arrange your evening so that it is not cut in the middle by a meal.",
+      "plain": "Small practical details—like having your book, journal, or gear laid out—determine whether an early habit succeeds or fails.",
+      "application": "Prepare your physical environment tonight so tomorrow morning's habit requires zero setup.",
+      "strategic_prompt": "What tiny physical friction slows you down when it is time to start?",
+      "micro_action": "Set out your journal, pen, or equipment in plain sight right now.",
+      "focus_theme": "eliminating_preparatory_friction",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "bennett_24h_016",
+      "day": 16,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 16",
+      "text": "If you persevere you will soon want to pass four evenings, and perhaps five, in some sustained endeavour to be genuinely alive.",
+      "plain": "A wise system allows for accidents and interruptions without collapsing in shame when a day goes off-script.",
+      "application": "When an unexpected disruption hits today, pivot smoothly to your 60-second Floor Rep.",
+      "strategic_prompt": "How do you talk to yourself when your ideal schedule gets interrupted?",
+      "micro_action": "Replace all-or-nothing frustration with a calm 60-second minimum rep today.",
+      "focus_theme": "honoring_human_nature",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "bennett_24h_017",
+      "day": 17,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 17",
+      "text": "I was constantly being informed by older and wiser people that more work, more genuine living, could be got out of six days than out of seven.",
+      "plain": "The mind is like a spirited horse that wanders unless gently and repeatedly brought back to the chosen path.",
+      "application": "Whenever your attention drifts during today's focus block, bring it back with zero irritation.",
+      "strategic_prompt": "How many minutes can you currently sustain single-pointed focus on one idea?",
+      "micro_action": "Practice 10 minutes of uninterrupted reading or reflection today.",
+      "focus_theme": "training_the_faculty_of_attention",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "bennett_24h_018",
+      "day": 18,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 18",
+      "text": "So far we have marked for saving out of the waste of days, half an hour at least on six mornings a week, and one hour and a half on three evenings a week.",
+      "plain": "Spending ten minutes reviewing a single noble idea in the evening gives the mind something worthy to digest overnight.",
+      "application": "Read one passage from your active Focus Pack tonight and reflect on how it applies to your day.",
+      "strategic_prompt": "What is the last thought you usually feed your mind before sleep?",
+      "micro_action": "Read today's quote one final time before turning off the light tonight.",
+      "focus_theme": "evening_reflection_anchor",
+      "halt_triggers": [
+        "LONELY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "bennett_24h_019",
+      "day": 19,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 19",
+      "text": "It is not really a trifling effort, as those will discover who have yet to essay it.",
+      "plain": "Observing how daily triggers affect your mood and behavior turns everyday life into an engaging study rather than a grind.",
+      "application": "Notice the exact cause-and-effect link between your sleep, nutrition, and cravings today.",
+      "strategic_prompt": "What specific antecedent preceded your highest-energy hour this week?",
+      "micro_action": "Note one cause-and-effect observation in your check-in log today.",
+      "focus_theme": "curiosity_for_cause_and_effect",
+      "halt_triggers": [
+        "HUNGRY",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "bennett_24h_020",
+      "day": 20,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 20",
+      "text": "That is, as regards the evenings, to allow much more than an hour and a half in which to do the work of an hour and a half.",
+      "plain": "Mental inertia masquerades as a need for endless passive entertainment, when what the mind truly craves is purposeful absorption.",
+      "application": "Trade 20 minutes of passive consumption today for an active craft, walk, or reflection.",
+      "strategic_prompt": "Which activity in your week leaves you feeling genuinely refreshed afterward?",
+      "micro_action": "Schedule 15 minutes of that restorative activity into today's plan.",
+      "focus_theme": "guarding_against_mental_sloth",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "bennett_24h_021",
+      "day": 21,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 21",
+      "text": "It is for this portion of the art and craft of living that I have reserved the time from the moment of quitting your door to the moment of arriving at your office. \"What?",
+      "plain": "Your habit architecture exists to serve and enrich your life, never to turn you into a rigid or joyless taskmaster.",
+      "application": "Carry your daily discipline lightly, with warmth and humility toward yourself and others.",
+      "strategic_prompt": "Are you approaching your habits with calm joy or grim tension?",
+      "micro_action": "Smile, relax your shoulders, and enjoy the process of today's repetition.",
+      "focus_theme": "avoiding_priggish_rigidity",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "bennett_24h_022",
+      "day": 22,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 22",
+      "text": "Ere you have reached the station you will have brought it back about forty times.",
+      "plain": "The forty-hour span across the weekend is a vast sovereign estate inside every single week when met with gentle intention.",
+      "application": "Choose one restorative anchor for your upcoming weekend before Friday evening arrives.",
+      "strategic_prompt": "How can you make this weekend genuinely restorative instead of a blur?",
+      "micro_action": "Write down one meaningful personal priority for your next day off.",
+      "focus_theme": "the_weekend_treasure",
+      "halt_triggers": [
+        "TIRED",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "bennett_24h_023",
+      "day": 23,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 23",
+      "text": "Useless to possess an obedient mind unless one profits to the furthest possible degree by its obedience.",
+      "plain": "Hurrying through a reflection or habit to 'get it over with' destroys its restorative power; work without haste.",
+      "application": "Perform your daily habit today with unhurried, deliberate presence.",
+      "strategic_prompt": "Where are you rushing through something that is meant to ground you?",
+      "micro_action": "Slow your reading and writing pace by half during today's check-in.",
+      "focus_theme": "deliberate_pace",
+      "halt_triggers": [
+        "STRESSED",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "bennett_24h_024",
+      "day": 24,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 24",
+      "text": "The solitude of the evening journey home appears to me to be suitable for it.",
+      "plain": "How you govern your mind in the first thirty minutes of the morning sets the thermostat for the next fifteen hours.",
+      "application": "Keep reactive news and social feeds out of the first 30 minutes of your morning.",
+      "strategic_prompt": "What is the very first input your brain receives after waking?",
+      "micro_action": "Complete your morning Routine Anchor before opening any feed or inbox.",
+      "focus_theme": "the_vital_first_half_hour",
+      "halt_triggers": [
+        "STRESSED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "bennett_24h_025",
+      "day": 25,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 25",
+      "text": "When one has thoroughly got imbued into one's head the leading truth that nothing happens without a cause, one grows not only large-minded, but large-hearted.",
+      "plain": "Any discipline becomes effortless once you cultivate a genuine curiosity in its principles and subtle details.",
+      "application": "Look for one new nuance or insight inside your daily practice today.",
+      "strategic_prompt": "What aspect of your primary habit can you explore more deeply this week?",
+      "micro_action": "Write down one question or observation about your practice today.",
+      "focus_theme": "cultivating_serious_interest",
+      "halt_triggers": [
+        "TIRED",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "bennett_24h_026",
+      "day": 26,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 26",
+      "text": "You need not be devoted to the arts, not to literature, in order to live fully.",
+      "plain": "Thirty minutes of focused practice completed with certainty beats a three-hour fantasy schedule that collapses by Wednesday.",
+      "application": "Commit only to the exact duration you know you can honor today.",
+      "strategic_prompt": "What duration of practice can you guarantee with 99% certainty today?",
+      "micro_action": "Set a timer for that exact winnable duration and complete it cleanly.",
+      "focus_theme": "small_certainty_over_grand_failure",
+      "halt_triggers": [
+        "HOPELESS",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "bennett_24h_027",
+      "day": 27,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 27",
+      "text": "Say to yourself: \"I will know something about the French Revolution, or the rise of railways, or the works of John Keats.\" And during a given period, to be settled beforehand, confine yourself to your choice.",
+      "plain": "Waiting rooms, queues, and brief pauses stop being irritating the moment you use them for calm mental review.",
+      "application": "When forced to wait today, use the interval for breath grounding rather than annoyance.",
+      "strategic_prompt": "How can a five-minute delay become a welcome pocket of stillness?",
+      "micro_action": "Use your next waiting moment today for three slow breaths and posture reset.",
+      "focus_theme": "reclaiming_wasted_intervals",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "bennett_24h_028",
+      "day": 28,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 28",
+      "text": "And the occasional deliberate breaking of one's programme will not help to mend matters.",
+      "plain": "Ninety minutes a week of deliberate focus adds up to nearly eighty hours of transformative mastery over a year.",
+      "application": "Respect the compounding power of your small daily check-in today.",
+      "strategic_prompt": "Where will you be in twelve months if you simply protect this daily Floor Rep?",
+      "micro_action": "Log today's rep and watch your cumulative days grow.",
+      "focus_theme": "the_compound_interest_of_hours",
+      "halt_triggers": [
+        "HOPELESS",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "bennett_24h_029",
+      "day": 29,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 29",
+      "text": "Nearly all the individual works in the collection are in the public domain in the United States.",
+      "plain": "When your daily thoughts and your daily schedule are aligned, the inner friction of 'living two lives' disappears.",
+      "application": "Ensure your Primary Focus Habit receives a real, visible place in today's hours.",
+      "strategic_prompt": "Does today's schedule reflect what you say matters most to you?",
+      "micro_action": "Move your Primary Focus Habit ahead of one secondary chore today.",
+      "focus_theme": "unified_mind_and_action",
+      "halt_triggers": [
+        "STRESSED",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "bennett_24h_030",
+      "day": 30,
+      "citation": "Arnold Bennett, How to Live on 24 Hours a Day (1910) · Selection 30",
+      "text": "If you received the work on a physical medium, you must return the medium with your written explanation.",
+      "plain": "You cannot control the length of your years, but you are the sovereign architect of how you inhabit today's twenty-four hours.",
+      "application": "Finish today with the quiet satisfaction of having lived at least one pocket with total intention.",
+      "strategic_prompt": "Which hour today was truly yours?",
+      "micro_action": "Complete your evening reflection and bank today's victory.",
+      "focus_theme": "master_of_the_twenty_four",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    }
+  ]
+}

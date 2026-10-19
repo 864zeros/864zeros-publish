@@ -1,0 +1,579 @@
+{
+  "manifest_version": "1.0.0",
+  "generated_at": "2026-10-19T03:20:13Z",
+  "pack_name": "habit_franklin_virtues",
+  "pack_id": "864z_habit_franklin_james_pd",
+  "title": "The 13 Virtues & Neuroplastic Groove: Pre-1931 Habit Masters Mapped to HALT",
+  "format": "softback_5x8",
+  "trim_size_inches": {
+    "width": 5.0,
+    "height": 8.0
+  },
+  "kdp_print_economics": {
+    "binding": "Paperback / Perfect Bound",
+    "interior_ink": "Standard Black & White on Cream/White Uncoated Stock",
+    "total_entry_pages": 24,
+    "estimated_kdp_unit_print_cost_usd": 2.3,
+    "recommended_list_price_usd": 12.99
+  },
+  "qr_protocol": {
+    "scheme": "864z://cs/entry",
+    "https_fallback": "https://864zeros.com/cs/entry",
+    "ecc_level": "M (15%)",
+    "module_matrix": "29x29"
+  },
+  "pages": [
+    {
+      "page_num": 1,
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "entry_id": "habit_hungry_01",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=1&trigger=HUNGRY&ref=habit_hungry_01",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=1&trigger=HUNGRY&ref=habit_hungry_01",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 2,
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "entry_id": "habit_hungry_02",
+      "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=2&trigger=HUNGRY&ref=habit_hungry_02",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=2&trigger=HUNGRY&ref=habit_hungry_02",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 3,
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "entry_id": "habit_hungry_03",
+      "reference": "William James, Habit (1890, Henry Holt & Co.)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=3&trigger=HUNGRY&ref=habit_hungry_03",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=3&trigger=HUNGRY&ref=habit_hungry_03",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 4,
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "entry_id": "habit_hungry_04",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=4&trigger=HUNGRY&ref=habit_hungry_04",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=4&trigger=HUNGRY&ref=habit_hungry_04",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 5,
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "entry_id": "habit_angry_01",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=5&trigger=ANGRY&ref=habit_angry_01",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=5&trigger=ANGRY&ref=habit_angry_01",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 6,
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "entry_id": "habit_angry_02",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=6&trigger=ANGRY&ref=habit_angry_02",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=6&trigger=ANGRY&ref=habit_angry_02",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 7,
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "entry_id": "habit_angry_03",
+      "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 9 (trans. W.D. Ross, 1908)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=7&trigger=ANGRY&ref=habit_angry_03",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=7&trigger=ANGRY&ref=habit_angry_03",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 8,
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "entry_id": "habit_angry_04",
+      "reference": "Samuel Smiles, Character Ch. VI 'Self-Control' (1871)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=8&trigger=ANGRY&ref=habit_angry_04",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=8&trigger=ANGRY&ref=habit_angry_04",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 9,
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "entry_id": "habit_lonely_01",
+      "reference": "Samuel Smiles, Self-Help Ch. I (1859)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=9&trigger=LONELY&ref=habit_lonely_01",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=9&trigger=LONELY&ref=habit_lonely_01",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 10,
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "entry_id": "habit_lonely_02",
+      "reference": "William James, Habit (1890, Henry Holt & Co.)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=10&trigger=LONELY&ref=habit_lonely_02",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=10&trigger=LONELY&ref=habit_lonely_02",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 11,
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "entry_id": "habit_lonely_03",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=11&trigger=LONELY&ref=habit_lonely_03",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=11&trigger=LONELY&ref=habit_lonely_03",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 12,
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "entry_id": "habit_lonely_04",
+      "reference": "Aristotle, Nicomachean Ethics Book IX, Ch. 4 (trans. W.D. Ross, 1908)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=12&trigger=LONELY&ref=habit_lonely_04",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=12&trigger=LONELY&ref=habit_lonely_04",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 13,
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "entry_id": "habit_tired_01",
+      "reference": "William James, Habit (1890, Henry Holt & Co.)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=13&trigger=TIRED&ref=habit_tired_01",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=13&trigger=TIRED&ref=habit_tired_01",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 14,
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "entry_id": "habit_tired_02",
+      "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. III (1910)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=14&trigger=TIRED&ref=habit_tired_02",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=14&trigger=TIRED&ref=habit_tired_02",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 15,
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "entry_id": "habit_tired_03",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=15&trigger=TIRED&ref=habit_tired_03",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=15&trigger=TIRED&ref=habit_tired_03",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 16,
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "entry_id": "habit_tired_04",
+      "reference": "William James, Talks to Teachers Ch. VIII (1899)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=16&trigger=TIRED&ref=habit_tired_04",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=16&trigger=TIRED&ref=habit_tired_04",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 17,
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "entry_id": "habit_stressed_01",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=17&trigger=STRESSED&ref=habit_stressed_01",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=17&trigger=STRESSED&ref=habit_stressed_01",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 18,
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "entry_id": "habit_stressed_02",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=18&trigger=STRESSED&ref=habit_stressed_02",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=18&trigger=STRESSED&ref=habit_stressed_02",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 19,
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "entry_id": "habit_stressed_03",
+      "reference": "William James, Habit (1890, Henry Holt & Co.)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=19&trigger=STRESSED&ref=habit_stressed_03",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=19&trigger=STRESSED&ref=habit_stressed_03",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 20,
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "entry_id": "habit_stressed_04",
+      "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=20&trigger=STRESSED&ref=habit_stressed_04",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=20&trigger=STRESSED&ref=habit_stressed_04",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 21,
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "entry_id": "habit_hopeless_01",
+      "reference": "Benjamin Franklin, Autobiography Ch. VIII 'The Speckled Ax' (1791)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=21&trigger=HOPELESS&ref=habit_hopeless_01",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=21&trigger=HOPELESS&ref=habit_hopeless_01",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 22,
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "entry_id": "habit_hopeless_02",
+      "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=22&trigger=HOPELESS&ref=habit_hopeless_02",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=22&trigger=HOPELESS&ref=habit_hopeless_02",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 23,
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "entry_id": "habit_hopeless_03",
+      "reference": "Samuel Smiles, Self-Help Ch. XI (1859)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=23&trigger=HOPELESS&ref=habit_hopeless_03",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=23&trigger=HOPELESS&ref=habit_hopeless_03",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    },
+    {
+      "page_num": 24,
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "entry_id": "habit_hopeless_04",
+      "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)",
+      "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=24&trigger=HOPELESS&ref=habit_hopeless_04",
+      "https_app_link": "https://864zeros.com/cs/entry?book=864z_habit_franklin_james_pd&page=24&trigger=HOPELESS&ref=habit_hopeless_04",
+      "ocr_crop_bounds_inches": {
+        "x_min": 0.48,
+        "y_min": 3.4,
+        "x_max": 4.52,
+        "y_max": 6.25,
+        "ruled_line_count": 12
+      },
+      "qr_anchor_bounds_inches": {
+        "x_min": 3.78,
+        "y_min": 6.46,
+        "width": 0.74,
+        "height": 0.74,
+        "ecc_level": "M"
+      }
+    }
+  ]
+}

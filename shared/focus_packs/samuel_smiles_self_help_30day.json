@@ -1,0 +1,497 @@
+{
+  "pack_id": "samuel_smiles_self_help_30day",
+  "id": "samuel_smiles_self_help_30day",
+  "version": "2.0.0",
+  "volume": 2,
+  "title": "Compounding Industry: Samuel Smiles on Perseverance & Character",
+  "subtitle": "30 Verbatim Pre-1931 Passages from Samuel Smiles's Self-Help (1859) on Patient Daily Effort, Resilience Under Friction & Self-Reliant Growth",
+  "author": "Samuel Smiles (1812–1904)",
+  "provenance": {
+    "vault_file": "sources/public_domain_classics/samuel_smiles_self_help_1859.txt",
+    "sha256": "E7F4232F8880AF072453521A95D72B3476D716E2485DE08AB8E54C444F28802A",
+    "bytes": 866279,
+    "gutenberg_id": 935,
+    "translators_referenced": "Samuel Smiles (1859 Original English Edition, John Murray — Gutenberg #935)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication (1859); plain, application, strategic_prompt & micro_action layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
+  "pack_meta": {
+    "pack_id": "samuel_smiles_self_help_30day",
+    "volume": 2,
+    "title": "Compounding Industry: Samuel Smiles on Perseverance & Character",
+    "subtitle": "30 Verbatim Pre-1931 Passages from Samuel Smiles's Self-Help (1859) on Patient Daily Effort, Resilience Under Friction & Self-Reliant Growth",
+    "author": "Samuel Smiles (1812–1904)",
+    "editorial_lead": "Julian Thorne (LEAD-CONTENT)",
+    "legal_clearance_lead": "Vera Lindqvist (STUDIO-LEGAL)",
+    "studio_vp": "Sloane Sterling (VP-STUDIO)",
+    "source_provenance": {
+      "vault_file": "sources/public_domain_classics/samuel_smiles_self_help_1859.txt",
+      "sha256": "E7F4232F8880AF072453521A95D72B3476D716E2485DE08AB8E54C444F28802A",
+      "bytes": 866279,
+      "gutenberg_id": 935,
+      "translators_referenced": "Samuel Smiles (1859 Original English Edition, John Murray — Gutenberg #935)",
+      "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication (1859); plain, application, strategic_prompt & micro_action layers are 100% original 2026 864zeros LLC authorship.",
+      "clean_room_verified": true
+    },
+    "entry_count": 30,
+    "schema_version": "2.0.0",
+    "compatible_targets": [
+      "ClearStreak Focus Packs",
+      "864zeros 5x8 QR Companion Journals",
+      "864zeros Standalone Practice Books",
+      "OIA Focus Extensions"
+    ]
+  },
+  "entries": [
+    {
+      "id": "smiles_sh_001",
+      "day": 1,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 1",
+      "text": "Hook—Hope an important element in character—Carey the missionary—Anecdote of Dr.",
+      "plain": "Lasting progress comes from what you initiate and practice yourself; no external system can replace personal execution.",
+      "application": "Take 100% ownership of your Primary Focus Habit today without waiting for ideal external conditions.",
+      "strategic_prompt": "Where have you been waiting for external permission to begin a discipline you already know you need?",
+      "micro_action": "Start the first two minutes of your Primary Focus Habit right now.",
+      "focus_theme": "self_reliant_agency",
+      "halt_triggers": [
+        "HOPELESS",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "smiles_sh_002",
+      "day": 2,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 2",
+      "text": "Humbert was a scapegrace when a youth; at sixteen he ran away from home, and was by turns servant to a tradesman at Nancy, a workman at Lyons, and a hawker of rabbit skins.",
+      "plain": "Genius and lasting achievement are built far more on patient, daily industry than on rare flashes of talent.",
+      "application": "Show up for your scheduled daily repetition today even if it feels ordinary and unglamorous.",
+      "strategic_prompt": "What compounding skill are you building through quiet daily repetition?",
+      "micro_action": "Complete one focused 15-minute block on your core craft today.",
+      "focus_theme": "patient_industry",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "smiles_sh_003",
+      "day": 3,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 3",
+      "text": "ONE of the most strongly-marked features of the English people is their spirit of industry, standing out prominent and distinct in their past history, and as strikingly characteristic of them now as at any former period.",
+      "plain": "Just as single pennies accumulate into wealth, small daily acts of discipline compound into unshakeable character.",
+      "application": "Honor your Floor Rep today knowing that every single repetition adds to your permanent ledger.",
+      "strategic_prompt": "How many lifetime repetitions have you already accumulated by not giving up?",
+      "micro_action": "Execute your minimum viable Floor Rep and record it on your ledger.",
+      "focus_theme": "compounding_small_efforts",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "smiles_sh_004",
+      "day": 4,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 4",
+      "text": "His position, at starting in life, was little above that of an ordinary working man; for his father, though laying the foundations of future prosperity, was still struggling with the difficulties arising from insufficient capital.",
+      "plain": "Obstacles and friction are not signs that you should quit; they are the exact resistance that awakens dormant strength.",
+      "application": "Treat today's highest-friction moment as strength training for your willpower.",
+      "strategic_prompt": "What past difficulty forced you to develop a capability you now rely on?",
+      "micro_action": "Lean into the first 60 seconds of a task you have been avoiding today.",
+      "focus_theme": "school_of_difficulty",
+      "halt_triggers": [
+        "STRESSED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "smiles_sh_005",
+      "day": 5,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 5",
+      "text": "He enjoyed his leisure for only two more years, dying in January, 1861, at the age of seventy-seven, and leaving behind him a character for probity, virtue, manliness, and mechanical genius, of which his descendants may well be proud.",
+      "plain": "Real education happens in how faithfully we conduct ourselves in our daily work, home, and ordinary commitments.",
+      "application": "Bring deliberate craftsmanship and calm focus to your routine tasks today.",
+      "strategic_prompt": "How can you elevate the quality of an ordinary task on your desk right now?",
+      "micro_action": "Clear your workspace of clutter before starting your next work block.",
+      "focus_theme": "dignity_of_daily_work",
+      "halt_triggers": [
+        "TIRED",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "smiles_sh_006",
+      "day": 6,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 6",
+      "text": "IT so happens that the history of Pottery furnishes some of the most remarkable instances of patient perseverance to be found in the whole range of biography.",
+      "plain": "Steady perseverance at a modest pace consistently overtakes sporadic bursts of exhausted intensity.",
+      "application": "Keep your daily habit sustainable so you can repeat it tomorrow without burnout.",
+      "strategic_prompt": "Have you been setting your daily target too high to maintain on low-energy days?",
+      "micro_action": "Right-size today's target to a sustainable rep you can finish with energy to spare.",
+      "focus_theme": "perseverance_over_brilliance",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "smiles_sh_007",
+      "day": 7,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 7",
+      "text": "At length some red clay, brought to him for the purpose of making his crucibles, set him on the right track.",
+      "plain": "Great bodies of work are often built inside the odd fifteen-minute intervals that others let slip away.",
+      "application": "Use one transition pocket today—before a meeting or after coffee—to execute your Routine Anchor.",
+      "strategic_prompt": "Which 15-minute pocket in your daily schedule is currently going to waste?",
+      "micro_action": "Pair your habit with a fixed daily transition cue today.",
+      "focus_theme": "seizing_spare_minutes",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "smiles_sh_008",
+      "day": 8,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 8",
+      "text": "Little progress was made at first, but by steady perseverance the habit of attention became powerful, and the sermon was at length repeated almost verbatim.",
+      "plain": "Resolute purpose turns an ordinary person into a force of nature by concentrating scattered energy onto a single point.",
+      "application": "Focus on ONE Primary Focus Habit rather than scattering your resolve across ten goals.",
+      "strategic_prompt": "Which single habit, if mastered this month, would uplift every other area of your life?",
+      "micro_action": "Pin that habit as your Primary Focus and give it your first energy today.",
+      "focus_theme": "untiring_energy",
+      "halt_triggers": [
+        "STRESSED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "smiles_sh_009",
+      "day": 9,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 9",
+      "text": "His admirable working qualities were trained in a lawyer’s office, where he pursued for many years a sort of drudgery scarcely above that of a copying clerk.",
+      "plain": "Careful observation and fidelity in small details form the bedrock of every reliable craft and character.",
+      "application": "Execute your habit today with clean form and full attention from start to finish.",
+      "strategic_prompt": "Where has carelessness in small routines been creating preventable stress?",
+      "micro_action": "Spend two minutes organizing your tools or notes for tomorrow morning.",
+      "focus_theme": "attention_to_little_things",
+      "halt_triggers": [
+        "STRESSED",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "smiles_sh_010",
+      "day": 10,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 10",
+      "text": "Divine providence has smiled on my exertions, and crowned my wishes with success.” The late Joseph Hume pursued a very different career, but worked in an equally persevering spirit.",
+      "plain": "Every master builder has faced failed drafts and broken experiments; perseverance simply means calmly beginning the next attempt.",
+      "application": "Practice 'Data Over Shame': if yesterday was imperfect, today is a clean sheet for action.",
+      "strategic_prompt": "What lessons did your last friction moment teach you about your triggers?",
+      "micro_action": "Log today's check-in and focus solely on today's execution.",
+      "focus_theme": "courage_to_begin_again",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "smiles_sh_011",
+      "day": 11,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 11",
+      "text": "He would sometimes urge himself and companions to study by the stimulus of a bet, though bred a Quaker; and on one occasion, by his satisfactory solution of a problem, he won as much as enabled him to buy a winter’s store of candles.",
+      "plain": "No amount of money can purchase focus, resilience, or character—every person must forge them through personal practice.",
+      "application": "Take pride in the fact that every day on your streak was earned by your own discipline.",
+      "strategic_prompt": "What personal quality are you forging that money could never buy?",
+      "micro_action": "Put in 10 minutes of focused practice on your primary discipline right now.",
+      "focus_theme": "self_culture_cannot_be_bought",
+      "halt_triggers": [
+        "HUNGRY",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "smiles_sh_012",
+      "day": 12,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 12",
+      "text": "One of his marked characteristics, even as a youth, was the accuracy and keenness of his observation; and what he once clearly saw he never forgot.",
+      "plain": "Order and fixed timing remove the daily friction of deciding when and how to act.",
+      "application": "Lock your habit to a consistent When-Then trigger so execution becomes automatic.",
+      "strategic_prompt": "At what exact daily cue will you execute your habit today?",
+      "micro_action": "Write down your exact When-Then Routine Anchor for today.",
+      "focus_theme": "method_and_punctuality",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "smiles_sh_013",
+      "day": 13,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 13",
+      "text": "The drawing was better; but again Banks sent him back, with good advice, to work and study.",
+      "plain": "Carrying out difficult duties with a calm, cheerful spirit lightens the load by half.",
+      "application": "Release tense facial and shoulder muscles while working through your afternoon tasks.",
+      "strategic_prompt": "How does physical tension amplify your sense of mental fatigue?",
+      "micro_action": "Drop your shoulders, unclench your jaw, and take a slow deep breath.",
+      "focus_theme": "cheerful_endurance",
+      "halt_triggers": [
+        "ANGRY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "smiles_sh_014",
+      "day": 14,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 14",
+      "text": "He worked diligently in many studios, drawing, copying, and painting pictures.",
+      "plain": "Quiet, consistent conduct speaks louder and influences others far more deeply than any lecture.",
+      "application": "Be the steady anchor in your household or team today through calm action.",
+      "strategic_prompt": "Who in your life benefits when you stay grounded and consistent?",
+      "micro_action": "Complete your daily commitment quietly and let your steadiness set the tone.",
+      "focus_theme": "the_power_of_example",
+      "halt_triggers": [
+        "LONELY",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "smiles_sh_015",
+      "day": 15,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 15",
+      "text": "His new master, besides being a carver in wood, was also a dealer in prints and plaster models; and Chantrey at once set about imitating both, studying with great industry and energy.",
+      "plain": "Scattered effort evaporates like steam; concentrated effort drives the piston forward.",
+      "application": "Eliminate multi-tasking during your Primary Focus window today.",
+      "strategic_prompt": "What single distraction most frequently breaks your concentration?",
+      "micro_action": "Put your phone on airplane mode or in another room for 25 minutes.",
+      "focus_theme": "concentration_of_purpose",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "smiles_sh_016",
+      "day": 16,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 16",
+      "text": "Whilst working at Galashiels, Kemp had frequent opportunities of visiting Melrose, Dryburgh, and Jedburgh Abbeys, which he studied carefully.",
+      "plain": "Self-control under provocation is the clearest mark of a disciplined mind and mature character.",
+      "application": "When provoked or rushed today, lower your cadence and respond with measured calm.",
+      "strategic_prompt": "What recurring trigger tends to spark impatience in your week?",
+      "micro_action": "Pause for a slow count of five before answering any frustrating message.",
+      "focus_theme": "mastery_of_temper",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "smiles_sh_017",
+      "day": 17,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 17",
+      "text": "Yates’, engineers, as an engine-smith; and continued to employ my leisure time in drawing, painting, and engraving, as before.",
+      "plain": "Hardship often strips away comfort only to reveal a deeper reserve of resourcefulness and grit.",
+      "application": "Use today's constraint or inconvenience as a prompt to simplify and focus on essentials.",
+      "strategic_prompt": "How can today's limitation actually make your focus sharper?",
+      "micro_action": "Identify the single essential outcome for today and let non-essentials wait.",
+      "focus_theme": "turning_adversity_to_account",
+      "halt_triggers": [
+        "HOPELESS",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "smiles_sh_018",
+      "day": 18,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 18",
+      "text": "He set his seamen to work to drag along the coast, and for weeks they went on fishing up sea-weed, shingle, and bits of rock.",
+      "plain": "Doing a small piece of work thoroughly builds far more self-respect than skimming across a dozen unfinished tasks.",
+      "application": "Finish one clearly defined unit of work or practice completely before switching contexts.",
+      "strategic_prompt": "What half-finished task is quietly draining your background mental energy?",
+      "micro_action": "Take 10 minutes to close out or cleanly archive one open loop today.",
+      "focus_theme": "honest_thoroughness",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "smiles_sh_019",
+      "day": 19,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 19",
+      "text": "Indeed nothing could be more characteristic of the Scandinavian mythology, than that it had a god with a hammer.",
+      "plain": "Repeated daily actions gradually weave themselves into the very fabric of character until steadiness becomes natural.",
+      "application": "Protect your daily repetition so your nervous system continues consolidating the groove.",
+      "strategic_prompt": "Which positive routine in your life already feels natural because you repeated it?",
+      "micro_action": "Chain your current focus habit directly onto that established routine today.",
+      "focus_theme": "habit_as_second_nature",
+      "halt_triggers": [
+        "TIRED",
+        "HUNGRY"
+      ]
+    },
+    {
+      "id": "smiles_sh_020",
+      "day": 20,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 20",
+      "text": "His standard of duty, zeal, and personal effort, was of the highest; and every man who served under him seemed to be inspired by his spirit.",
+      "plain": "Disciplined restraint in small daily appetites creates the margin required for true independence and peace of mind.",
+      "application": "Practice deliberate restraint today in both your spending and your attention.",
+      "strategic_prompt": "Where does a momentary craving try to trade away your long-term freedom?",
+      "micro_action": "Skip one sudden urge for distraction today and redirect that energy to your goal.",
+      "focus_theme": "financial_and_personal_prudence",
+      "halt_triggers": [
+        "HUNGRY",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "smiles_sh_021",
+      "day": 21,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 21",
+      "text": "The consequence was that many of the workhouses were reformed and improved.",
+      "plain": "Constructive hope is not passive wishing; it is the energetic confidence that steady effort yields results.",
+      "application": "Pair your hope with one concrete physical action in the next ten minutes.",
+      "strategic_prompt": "What small step today makes tomorrow demonstrably better?",
+      "micro_action": "Complete one tangible action toward your goal and log it.",
+      "focus_theme": "hope_as_an_active_force",
+      "halt_triggers": [
+        "HOPELESS",
+        "LONELY"
+      ]
+    },
+    {
+      "id": "smiles_sh_022",
+      "day": 22,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 22",
+      "text": "Patient labour and application are as necessary here as in the acquisition of knowledge or the pursuit of science.",
+      "plain": "A perceptive mind extracts practical wisdom from both successes and setbacks without losing heart.",
+      "application": "Review your week's habit log as neutral engineering data rather than a moral judgment.",
+      "strategic_prompt": "What time of day shows your highest check-in consistency?",
+      "micro_action": "Move your hardest habit into your highest-consistency time slot.",
+      "focus_theme": "learning_from_every_season",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "smiles_sh_023",
+      "day": 23,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 23",
+      "text": "In addition to the ordinary working qualities the business man of the highest class requires quick perception and firmness in the execution of his plans.",
+      "plain": "Sustained mental effort requires honoring the physical foundations of sleep, movement, and nourishment.",
+      "application": "Support your willpower today by addressing hunger, hydration, and rest before they become triggers.",
+      "strategic_prompt": "Are you currently feeling frustrated, or simply physically depleted (HALT)?",
+      "micro_action": "Drink a glass of water and stretch for two minutes right now.",
+      "focus_theme": "physical_vitality_and_rest",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "smiles_sh_024",
+      "day": 24,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 24",
+      "text": "It is evidently conservative—conservative of character, of domestic happiness, and social well-being.",
+      "plain": "A person whose word to themselves can be trusted possesses an internal compass that never wavers in a storm.",
+      "application": "Keep the small promise you made to yourself today—even if it is a 60-second Floor Rep.",
+      "strategic_prompt": "What small promise to yourself can you fulfill in the next five minutes?",
+      "micro_action": "Execute your Floor Rep now so your word to yourself stays unbroken.",
+      "focus_theme": "unwavering_integrity",
+      "halt_triggers": [
+        "LONELY",
+        "HOPELESS"
+      ]
+    },
+    {
+      "id": "smiles_sh_025",
+      "day": 25,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 25",
+      "text": "Work educates the body, as study educates the mind; and that is the best state of society in which there is some work for every man’s leisure, and some leisure for every man’s work.",
+      "plain": "Wishing and resolving accomplish nothing until they are translated into immediate physical motion.",
+      "application": "Bridge the gap between intention and action within 60 seconds of reading this prompt.",
+      "strategic_prompt": "What have you been 'planning to start' that you can begin in miniature right now?",
+      "micro_action": "Do the very first physical motion of your habit right now.",
+      "focus_theme": "decisive_execution",
+      "halt_triggers": [
+        "TIRED",
+        "STRESSED"
+      ]
+    },
+    {
+      "id": "smiles_sh_026",
+      "day": 26,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 26",
+      "text": "Many of our most energetic and useful workers have been but sparing readers.",
+      "plain": "The greatest works require patient gestation; do not uproot your seed just because the harvest is not instant.",
+      "application": "Trust the compounding cadence of your daily reps without demanding overnight transformation.",
+      "strategic_prompt": "Where is impatience tempting you to abandon a habit that is quietly working?",
+      "micro_action": "Honor today's single repetition and leave the long-term curve to time.",
+      "focus_theme": "resilience_under_delay",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "smiles_sh_027",
+      "day": 27,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 27",
+      "text": "Many poor students, while labouring daily for their living, have only been able to snatch an atom of knowledge here and there at intervals, as birds do their food in winter time when the fields are covered with snow.",
+      "plain": "Writing down observations and tracking daily conduct brings clarity where vague memory always flatters or deceives.",
+      "application": "Keep an accurate, honest daily check-in log so your progress is visible in black and white.",
+      "strategic_prompt": "What pattern becomes obvious when you look at your last seven days of check-ins?",
+      "micro_action": "Open your habit tracker and log today's status with complete honesty.",
+      "focus_theme": "ordering_the_daily_ledger",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "smiles_sh_028",
+      "day": 28,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 28",
+      "text": "Arnold said of boys is equally true of men—that the difference between one boy and another consists not so much in talent as in energy.",
+      "plain": "True self-help means standing firmly on your own daily discipline rather than leaning on excuses or circumstances.",
+      "application": "Drop one excuse about timing or mood and execute a clean baseline rep today.",
+      "strategic_prompt": "What story about being 'too busy' can you retire today?",
+      "micro_action": "Carve out 120 seconds right now to complete your Floor Rep.",
+      "focus_theme": "independence_of_spirit",
+      "halt_triggers": [
+        "ANGRY",
+        "TIRED"
+      ]
+    },
+    {
+      "id": "smiles_sh_029",
+      "day": 29,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 29",
+      "text": "By his personal exertions he established the British Wool Society for the purpose, and himself led the way to practical improvement by importing 800 sheep from all countries, at his own expense.",
+      "plain": "As you build personal steadiness, your surplus calm naturally strengthens and encourages everyone around you.",
+      "application": "Share a word of genuine encouragement with someone in your circle today.",
+      "strategic_prompt": "Who around you could use a calm, steady presence today?",
+      "micro_action": "Send one brief, supportive message or offer a patient listening ear today.",
+      "focus_theme": "generosity_of_strength",
+      "halt_triggers": [
+        "LONELY",
+        "ANGRY"
+      ]
+    },
+    {
+      "id": "smiles_sh_030",
+      "day": 30,
+      "citation": "Samuel Smiles, Self-Help (1859) · Selection 30",
+      "text": "It thus happens that as we grow older, a portion of our free activity and individuality becomes suspended in habit; our actions become of the nature of fate; and we are bound by the chains which we have woven around ourselves.",
+      "plain": "At the end of any journey, the highest reward is not external applause but the quiet strength of the character you forged.",
+      "application": "Close today knowing that every honest repetition builds permanent Character Proof.",
+      "strategic_prompt": "How has your daily practice shaped the person you are becoming?",
+      "micro_action": "Complete today's Primary Focus check-in with quiet gratitude.",
+      "focus_theme": "the_crown_of_character",
+      "halt_triggers": [
+        "HOPELESS",
+        "LONELY"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,18 @@
 {
+  "pack_id": "ben_franklin_virtues",
+  "id": "ben_franklin_virtues",
+  "version": "2.0.0",
+  "volume": 1,
+  "title": "The 13 Virtues Ledger: Benjamin Franklin's Sequential Focus Method",
+  "subtitle": "30 Curated Pre-1931 Entries from Franklin's 1791 Autobiography on the 13 Virtues, Visual Ledger Tracking, and Sequential Single-Habit Mastery",
+  "author": "Benjamin Franklin (1706–1790)",
+  "provenance": {
+    "vault_file": "sources/public_domain_classics/benjamin_franklin_autobiography_1791.txt",
+    "sha256": "C5BE0E49F68F0876BE480074B9DC0712A8FDBC7FAA7DEF3ACC6765AFBA9BD128",
+    "translators_referenced": "Benjamin Franklin (Original English Manuscript 1771–1790; First Published 1791; Gutenberg #20203)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication; plain & application layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
   "pack_meta": {
     "pack_id": "ben_franklin_virtues",
     "title": "The 13 Virtues Ledger: Benjamin Franklin's Sequential Focus Method",
@@ -15,12 +29,13 @@
       "clean_room_verified": true
     },
     "entry_count": 30,
-    "schema_version": "1.0.0",
+    "schema_version": "2.0.0",
     "compatible_targets": [
       "ClearStreak Focus Packs",
       "864zeros Standalone Practice Books",
       "OIA Focus Extensions"
-    ]
+    ],
+    "volume": 1
   },
   "entries": [
     {
@@ -29,7 +44,14 @@
       "text": "I wished to live without committing any fault at any time; I would conquer all that either natural inclination, custom, or company might lead me into.",
       "plain": "We often begin self-improvement wishing we could fix every flaw at once—overcoming every old routine, social pressure, and inclination through sheer determination.",
       "application": "Recognize that lasting change requires a structured daily system rather than a vague resolution. Designate one Primary Focus Habit in your ledger today.",
-      "focus_theme": "system_over_wish"
+      "focus_theme": "system_over_wish",
+      "day": 1,
+      "strategic_prompt": "We often begin self-improvement wishing we could fix every flaw at once—overcoming every old routine, social pressure, and inclination through sheer determination. How will you apply this principle when friction arises today?",
+      "micro_action": "Recognize that lasting change requires a structured daily system rather than a vague resolution. Designate one Primary Focus Habit in your ledger today.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_002",
@@ -37,7 +59,14 @@
       "text": "I concluded, at length, that the mere speculative conviction that it was our interest to be completely virtuous, was not sufficient to prevent our slipping; and that the contrary habits must be broken, and good ones acquired and established, before we can have any dependence on a steady, uniform rectitude of conduct.",
       "plain": "Merely knowing what is good for you is never enough to prevent a slip; old patterns must be systematically replaced and new habits physically established before steady conduct becomes reliable.",
       "application": "Stop relying on good intentions alone: anchor today's habit to a concrete When-Then Trigger in your environment.",
-      "focus_theme": "habit_establishment"
+      "focus_theme": "habit_establishment",
+      "day": 2,
+      "strategic_prompt": "Merely knowing what is good for you is never enough to prevent a slip; old patterns must be systematically replaced and new habits physically established before steady conduct becomes reliable. How will you apply this principle when friction arises today?",
+      "micro_action": "Stop relying on good intentions alone: anchor today's habit to a concrete When-Then Trigger in your environment.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_003",
@@ -45,7 +74,14 @@
       "text": "1. TEMPERANCE. Eat not to dulness; drink not to elevation.",
       "plain": "Temperance: Nourish your body for clarity and steady energy—never to the point where mental sharpness or self-command is dulled.",
       "application": "Make Temperance your Primary Focus today: protect your afternoon mental clarity by keeping meals and inputs clean and measured.",
-      "focus_theme": "temperance"
+      "focus_theme": "temperance",
+      "day": 3,
+      "strategic_prompt": "Temperance: Nourish your body for clarity and steady energy—never to the point where mental sharpness or self-command is dulled. How will you apply this principle when friction arises today?",
+      "micro_action": "Make Temperance your Primary Focus today: protect your afternoon mental clarity by keeping meals and inputs clean and measured.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "franklin_004",
@@ -53,7 +89,14 @@
       "text": "Temperance first, as it tends to procure that coolness and clearness of head, which is so necessary where constant vigilance was to be kept up, and guard maintained against the unremitting attraction of ancient habits, and the force of perpetual temptations.",
       "plain": "Temperance stands first in the sequence because a cool, clear head is the foundation required to stay vigilant against the pull of old habits and daily distractions.",
       "application": "Protect your sleep and physical baseline today so your executive clarity stays high when old cravings knock.",
-      "focus_theme": "clarity_foundation"
+      "focus_theme": "clarity_foundation",
+      "day": 4,
+      "strategic_prompt": "Temperance stands first in the sequence because a cool, clear head is the foundation required to stay vigilant against the pull of old habits and daily distractions. How will you apply this principle when friction arises today?",
+      "micro_action": "Protect your sleep and physical baseline today so your executive clarity stays high when old cravings knock.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_005",
@@ -61,7 +104,14 @@
       "text": "2. SILENCE. Speak not but what may benefit others or yourself; avoid trifling conversation.",
       "plain": "Silence: Speak only when your words add real value to others or yourself; skip hollow noise and reactive chatter.",
       "application": "Practice deliberate quiet during your first focus block today: stay off commentary threads and let your work speak.",
-      "focus_theme": "silence"
+      "focus_theme": "silence",
+      "day": 5,
+      "strategic_prompt": "Silence: Speak only when your words add real value to others or yourself; skip hollow noise and reactive chatter. How will you apply this principle when friction arises today?",
+      "micro_action": "Practice deliberate quiet during your first focus block today: stay off commentary threads and let your work speak.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_006",
@@ -69,7 +119,14 @@
       "text": "I was Desireous of acquiring Knowledge, and considering that in Conversation it was obtain'd rather by the use of the Ears than of the Tongue, I gave Silence the second Place.",
       "plain": "Real learning happens through attentive listening rather than talking; placing Silence second sharpens both observation and self-restraint.",
       "application": "In your conversations today, pause two full seconds after the other person finishes before offering your reply.",
-      "focus_theme": "attentive_restraint"
+      "focus_theme": "attentive_restraint",
+      "day": 6,
+      "strategic_prompt": "Real learning happens through attentive listening rather than talking; placing Silence second sharpens both observation and self-restraint. How will you apply this principle when friction arises today?",
+      "micro_action": "In your conversations today, pause two full seconds after the other person finishes before offering your reply.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "franklin_007",
@@ -77,7 +134,14 @@
       "text": "3. ORDER. Let all your things have their places; let each part of your business have its time.",
       "plain": "Order: Give every tool its dedicated place and every essential practice its dedicated hour.",
       "application": "Reduce Action Friction tonight: place the exact tools needed for tomorrow's Primary Focus Habit in plain sight before you sleep.",
-      "focus_theme": "order"
+      "focus_theme": "order",
+      "day": 7,
+      "strategic_prompt": "Order: Give every tool its dedicated place and every essential practice its dedicated hour. How will you apply this principle when friction arises today?",
+      "micro_action": "Reduce Action Friction tonight: place the exact tools needed for tomorrow's Primary Focus Habit in plain sight before you sleep.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_008",
@@ -85,7 +149,14 @@
       "text": "4. RESOLUTION. Resolve to perform what you ought; perform without fail what you resolve.",
       "plain": "Resolution: Commit only to what truly matters, and once you commit, execute that resolution without fail.",
       "application": "Keep your promise to yourself sacred today: whether via a Full Rep or a 60-second Floor Rep, perform what you resolved.",
-      "focus_theme": "resolution"
+      "focus_theme": "resolution",
+      "day": 8,
+      "strategic_prompt": "Resolution: Commit only to what truly matters, and once you commit, execute that resolution without fail. How will you apply this principle when friction arises today?",
+      "micro_action": "Keep your promise to yourself sacred today: whether via a Full Rep or a 60-second Floor Rep, perform what you resolved.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_009",
@@ -93,7 +164,14 @@
       "text": "Resolution, once become habitual, would keep me firm in my endeavours to obtain all the subsequent virtues.",
       "plain": "Once following through on your word becomes an automatic habit, it acts as the multiplier that makes every future discipline easier to acquire.",
       "application": "Treat today's check-in as training the master skill of follow-through itself.",
-      "focus_theme": "follow_through_muscle"
+      "focus_theme": "follow_through_muscle",
+      "day": 9,
+      "strategic_prompt": "Once following through on your word becomes an automatic habit, it acts as the multiplier that makes every future discipline easier to acquire. How will you apply this principle when friction arises today?",
+      "micro_action": "Treat today's check-in as training the master skill of follow-through itself.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "franklin_010",
@@ -101,7 +179,14 @@
       "text": "5. FRUGALITY. Make no expense but to do good to others or yourself; i.e., waste nothing.",
       "plain": "Frugality: Spend your resources—money, energy, and attention—only on what genuinely serves your mission or helps others; waste nothing.",
       "application": "Eliminate one energy leak today (doomscrolling, unscheduled tab-switching) and redirect that saved energy into your core streak.",
-      "focus_theme": "frugality"
+      "focus_theme": "frugality",
+      "day": 10,
+      "strategic_prompt": "Frugality: Spend your resources—money, energy, and attention—only on what genuinely serves your mission or helps others; waste nothing. How will you apply this principle when friction arises today?",
+      "micro_action": "Eliminate one energy leak today (doomscrolling, unscheduled tab-switching) and redirect that saved energy into your core streak.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_011",
@@ -109,7 +194,14 @@
       "text": "6. INDUSTRY. Lose no time; be always employ'd in something useful; cut off all unnecessary actions.",
       "plain": "Industry: Value your waking hours; stay engaged in purposeful action and trim away needless busywork.",
       "application": "Start your Primary Focus Habit at the top of your scheduled window today before touching low-priority errands.",
-      "focus_theme": "industry"
+      "focus_theme": "industry",
+      "day": 11,
+      "strategic_prompt": "Industry: Value your waking hours; stay engaged in purposeful action and trim away needless busywork. How will you apply this principle when friction arises today?",
+      "micro_action": "Start your Primary Focus Habit at the top of your scheduled window today before touching low-priority errands.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_012",
@@ -117,7 +209,14 @@
       "text": "7. SINCERITY. Use no hurtful deceit; think innocently and justly, and, if you speak, speak accordingly.",
       "plain": "Sincerity: Be radically honest with yourself and others; align your private thoughts, your spoken words, and your daily ledger.",
       "application": "Log your habit check-in with total honesty today—accurate data over false perfection.",
-      "focus_theme": "sincerity"
+      "focus_theme": "sincerity",
+      "day": 12,
+      "strategic_prompt": "Sincerity: Be radically honest with yourself and others; align your private thoughts, your spoken words, and your daily ledger. How will you apply this principle when friction arises today?",
+      "micro_action": "Log your habit check-in with total honesty today—accurate data over false perfection.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "franklin_013",
@@ -125,7 +224,14 @@
       "text": "8. JUSTICE. Wrong none by doing injuries, or omitting the benefits that are your duty.",
       "plain": "Justice: Do no harm, and never neglect the responsibilities and reliability you owe to those counting on you.",
       "application": "Complete one small duty you have been procrastinating on today alongside your daily streak check-in.",
-      "focus_theme": "justice"
+      "focus_theme": "justice",
+      "day": 13,
+      "strategic_prompt": "Justice: Do no harm, and never neglect the responsibilities and reliability you owe to those counting on you. How will you apply this principle when friction arises today?",
+      "micro_action": "Complete one small duty you have been procrastinating on today alongside your daily streak check-in.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_014",
@@ -133,7 +239,14 @@
       "text": "9. MODERATION. Avoid extremes; forbear resenting injuries so much as you think they deserve.",
       "plain": "Moderation: Reject all-or-nothing extremes, and let go of nursing grievances even when you feel justified.",
       "application": "Avoid boom-and-bust intensity today: choose a sustainable Standard Rep that leaves you energized for tomorrow.",
-      "focus_theme": "moderation"
+      "focus_theme": "moderation",
+      "day": 14,
+      "strategic_prompt": "Moderation: Reject all-or-nothing extremes, and let go of nursing grievances even when you feel justified. How will you apply this principle when friction arises today?",
+      "micro_action": "Avoid boom-and-bust intensity today: choose a sustainable Standard Rep that leaves you energized for tomorrow.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_015",
@@ -141,7 +254,14 @@
       "text": "10. CLEANLINESS. Tolerate no uncleanliness in body, cloaths, or habitation.",
       "plain": "Cleanliness: Keep your physical self and your workspace crisp, clear, and orderly.",
       "application": "Reset your physical workspace for two minutes today so Cue Visibility for your habits stays sharp and uncluttered.",
-      "focus_theme": "cleanliness"
+      "focus_theme": "cleanliness",
+      "day": 15,
+      "strategic_prompt": "Cleanliness: Keep your physical self and your workspace crisp, clear, and orderly. How will you apply this principle when friction arises today?",
+      "micro_action": "Reset your physical workspace for two minutes today so Cue Visibility for your habits stays sharp and uncluttered.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "franklin_016",
@@ -149,7 +269,14 @@
       "text": "11. TRANQUILLITY. Be not disturbed at trifles, or at accidents common or unavoidable.",
       "plain": "Tranquillity: Refuse to let minor inconveniences or ordinary, unavoidable disruptions knock you off your center.",
       "application": "When an unexpected interruption occurs today, take one slow breath and activate Continuity Mode without losing your calm.",
-      "focus_theme": "tranquillity"
+      "focus_theme": "tranquillity",
+      "day": 16,
+      "strategic_prompt": "Tranquillity: Refuse to let minor inconveniences or ordinary, unavoidable disruptions knock you off your center. How will you apply this principle when friction arises today?",
+      "micro_action": "When an unexpected interruption occurs today, take one slow breath and activate Continuity Mode without losing your calm.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_017",
@@ -157,7 +284,14 @@
       "text": "12. CHASTITY. Govern your appetites with discipline and respect, never to dullness, weakness, or the injury of your own or another's peace or reputation.",
       "plain": "Self-Command over Appetites: Govern your physical desires with dignity and restraint so they never cloud your energy or harm your peace of mind.",
       "application": "Practice deliberate self-command over high-dopamine distractions today, protecting your evening composure.",
-      "focus_theme": "appetite_governance"
+      "focus_theme": "appetite_governance",
+      "day": 17,
+      "strategic_prompt": "Self-Command over Appetites: Govern your physical desires with dignity and restraint so they never cloud your energy or harm your peace of mind. How will you apply this principle when friction arises today?",
+      "micro_action": "Practice deliberate self-command over high-dopamine distractions today, protecting your evening composure.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_018",
@@ -165,7 +299,14 @@
       "text": "13. HUMILITY. Imitate Jesus and Socrates.",
       "plain": "Humility: Stay teachable, curious, and grounded—quick to examine your own blind spots rather than defending your ego.",
       "application": "Look at your habit ledger with a scientist's curiosity today: treat any friction point as useful data rather than personal failure.",
-      "focus_theme": "humility"
+      "focus_theme": "humility",
+      "day": 18,
+      "strategic_prompt": "Humility: Stay teachable, curious, and grounded—quick to examine your own blind spots rather than defending your ego. How will you apply this principle when friction arises today?",
+      "micro_action": "Look at your habit ledger with a scientist's curiosity today: treat any friction point as useful data rather than personal failure.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "franklin_019",
@@ -173,7 +314,14 @@
       "text": "My intention being to acquire the habitude of all these virtues, I judg'd it would be well not to distract my attention by attempting the whole at once, but to fix it on one of them at a time; and, when I should be master of that, then to proceed to another, and so on.",
       "plain": "To build lasting mastery across multiple habits, never scatter your attention by trying to overhaul everything at once. Lock your focus onto one primary habit at a time until it feels solid, then advance to the next.",
       "application": "Review your active streaks today: confirm which single habit is your Primary Focus Habit right now, and let the rest run in effortless Maintenance Mode.",
-      "focus_theme": "franklin_focus_cadence"
+      "focus_theme": "franklin_focus_cadence",
+      "day": 19,
+      "strategic_prompt": "To build lasting mastery across multiple habits, never scatter your attention by trying to overhaul everything at once. Lock your focus onto one primary habit at a time until it feels solid, then advance to the next. How will you apply this principle when friction arises today?",
+      "micro_action": "Review your active streaks today: confirm which single habit is your Primary Focus Habit right now, and let the rest run in effortless Maintenance Mode.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_020",
@@ -181,7 +329,14 @@
       "text": "I made a little book, in which I allotted a page for each of the virtues. I rul'd each page with red ink, so as to have seven columns, one for each day of the week, marking each column with a letter for the day.",
       "plain": "A visible daily ledger—seven columns for the seven days of the week—turns vague intentions into unmistakable daily accountability.",
       "application": "Open your tracker at the exact same time today and record your check-in so your visual grid stays current.",
-      "focus_theme": "visual_ledger"
+      "focus_theme": "visual_ledger",
+      "day": 20,
+      "strategic_prompt": "A visible daily ledger—seven columns for the seven days of the week—turns vague intentions into unmistakable daily accountability. How will you apply this principle when friction arises today?",
+      "micro_action": "Open your tracker at the exact same time today and record your check-in so your visual grid stays current.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_021",
@@ -189,7 +344,14 @@
       "text": "Like him who, having a garden to weed, does not attempt to eradicate all the bad herbs at once, which would exceed his reach and his strength, but works on one of the beds at a time, and, having accomplish'd the first, proceeds to a second.",
       "plain": "A wise gardener never tries to weed the entire estate in a single afternoon; they clear one bed completely before moving to the next.",
       "application": "Give yourself permission to ignore secondary perfectionism today while you tend your single Primary Focus bed.",
-      "focus_theme": "one_bed_at_a_time"
+      "focus_theme": "one_bed_at_a_time",
+      "day": 21,
+      "strategic_prompt": "A wise gardener never tries to weed the entire estate in a single afternoon; they clear one bed completely before moving to the next. How will you apply this principle when friction arises today?",
+      "micro_action": "Give yourself permission to ignore secondary perfectionism today while you tend your single Primary Focus bed.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "franklin_022",
@@ -197,7 +359,14 @@
       "text": "I should have, I hoped, the encouraging pleasure of seeing on my pages the progress I made in virtue, by clearing successively my lines of their spots, till in the end, by a number of courses, I should be happy in viewing a clean book.",
       "plain": "Seeing your ledger grow cleaner week by week provides immediate visual reinforcement that fuels long-term momentum.",
       "application": "Take ten seconds after checking in today to appreciate your cumulative consistency ratio and lifetime days logged.",
-      "focus_theme": "visual_reinforcement"
+      "focus_theme": "visual_reinforcement",
+      "day": 22,
+      "strategic_prompt": "Seeing your ledger grow cleaner week by week provides immediate visual reinforcement that fuels long-term momentum. How will you apply this principle when friction arises today?",
+      "micro_action": "Take ten seconds after checking in today to appreciate your cumulative consistency ratio and lifetime days logged.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_023",
@@ -205,7 +374,14 @@
       "text": "The precept of Order requiring that every part of my business should have its allotted time, one page in my little book contain'd the following scheme of employment for the twenty-four hours of a natural day: The Morning Question, What good shall I do this day?",
       "plain": "Anchor the start of every morning with one clarifying question: 'What good shall I accomplish today?'",
       "application": "Ask Franklin's Morning Question as you pour your morning coffee or tea, and name the exact time you will complete your Primary Focus Habit.",
-      "focus_theme": "morning_question"
+      "focus_theme": "morning_question",
+      "day": 23,
+      "strategic_prompt": "Anchor the start of every morning with one clarifying question: 'What good shall I accomplish today?' How will you apply this principle when friction arises today?",
+      "micro_action": "Ask Franklin's Morning Question as you pour your morning coffee or tea, and name the exact time you will complete your Primary Focus Habit.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_024",
@@ -213,7 +389,14 @@
       "text": "Evening. The Evening Question, What good have I done to-day? Put things in their places. Examination of the day.",
       "plain": "Close every evening by resetting your space and asking plainly: 'What good did I complete today?'",
       "application": "Pair your evening check-in with resetting your desk or room for tomorrow morning.",
-      "focus_theme": "evening_question"
+      "focus_theme": "evening_question",
+      "day": 24,
+      "strategic_prompt": "Close every evening by resetting your space and asking plainly: 'What good did I complete today?' How will you apply this principle when friction arises today?",
+      "micro_action": "Pair your evening check-in with resetting your desk or room for tomorrow morning.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "franklin_025",
@@ -221,7 +404,14 @@
       "text": "I was surpris'd to find myself so much fuller of faults than I had imagined; but I had the satisfaction of seeing them diminish.",
       "plain": "Honest tracking always reveals more slips than we assumed—and that honest data is the exact reason the slips begin to shrink.",
       "application": "Practice Data Over Shame today: view your ledger objectively as a feedback instrument that makes you stronger.",
-      "focus_theme": "data_over_shame"
+      "focus_theme": "data_over_shame",
+      "day": 25,
+      "strategic_prompt": "Honest tracking always reveals more slips than we assumed—and that honest data is the exact reason the slips begin to shrink. How will you apply this principle when friction arises today?",
+      "micro_action": "Practice Data Over Shame today: view your ledger objectively as a feedback instrument that makes you stronger.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_026",
@@ -229,7 +419,14 @@
       "text": "A man who, buying an ax of a smith, my neighbour, desired to have the whole of its surface as bright as the edge. The smith consented to grind it bright for him if he would turn the wheel; he turn'd, while the smith press'd the broad face of the ax hard and heavily on the stone, which made the turning of it very fatiguing. At length the man would take his ax as it was, without farther grinding. 'No,' said the smith, 'turn on, turn on; we shall have it bright by-and-by; as yet, it is only speckled.' 'Yes,' says the man, 'but I think I like a speckled ax best.'",
       "plain": "Demanding instant, spotless perfection across every area of life at once leads straight to exhaustion. A 'speckled ax' with a razor-sharp cutting edge—consistent progress without neurotic perfectionism—gets the real work done.",
       "application": "Drop all-or-nothing perfectionism today: keep your cutting edge sharp by logging your Floor or Standard Rep even if the rest of the day was messy.",
-      "focus_theme": "anti_perfectionism"
+      "focus_theme": "anti_perfectionism",
+      "day": 26,
+      "strategic_prompt": "Demanding instant, spotless perfection across every area of life at once leads straight to exhaustion. A 'speckled ax' with a razor-sharp cutting edge—consistent progress without neurotic perfectionism—gets the real work done. How will you apply this principle when friction arises today?",
+      "micro_action": "Drop all-or-nothing perfectionism today: keep your cutting edge sharp by logging your Floor or Standard Rep even if the rest of the day was messy.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_027",
@@ -237,7 +434,14 @@
       "text": "Though I never arrived at the perfection I had been so ambitious of obtaining, but fell far short of it, yet I was, by the endeavour, a better and a happier man than I otherwise should have been if I had not attempted it.",
       "plain": "Even if your ledger is never 100% spotless, the steady practice of tracking and returning makes you far stronger, calmer, and more capable than if you had never begun.",
       "application": "Honor your consistency ratio over perfection today: every single rep logged compounds into a better life.",
-      "focus_theme": "compounding_endeavor"
+      "focus_theme": "compounding_endeavor",
+      "day": 27,
+      "strategic_prompt": "Even if your ledger is never 100% spotless, the steady practice of tracking and returning makes you far stronger, calmer, and more capable than if you had never begun. How will you apply this principle when friction arises today?",
+      "micro_action": "Honor your consistency ratio over perfection today: every single rep logged compounds into a better life.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "franklin_028",
@@ -245,7 +449,14 @@
       "text": "It may be well my posterity should be informed that to this little artifice, with the blessing of God, their ancestor ow'd the constant felicity of his life, down to his 79th year, in which this is written.",
       "plain": "Looking back at age 79, Franklin credited his lifelong steadiness, health, and effectiveness to this simple daily habit ledger.",
       "application": "Treat your daily check-in not as a temporary sprint, but as a lifelong operating system for self-command.",
-      "focus_theme": "lifelong_ledger"
+      "focus_theme": "lifelong_ledger",
+      "day": 28,
+      "strategic_prompt": "Looking back at age 79, Franklin credited his lifelong steadiness, health, and effectiveness to this simple daily habit ledger. How will you apply this principle when friction arises today?",
+      "micro_action": "Treat your daily check-in not as a temporary sprint, but as a lifelong operating system for self-command.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "franklin_029",
@@ -253,7 +464,14 @@
       "text": "To Temperance he ascribes his long-continued health, and what is still left to him of a good constitution; to Industry and Frugality, the early easiness of his circumstances and acquisition of his fortune.",
       "plain": "Daily restraint protects your long-term vitality, while daily focused effort builds your independence and capability.",
       "application": "Connect today's small habit action to the 10-year dividend of health and independence it is quietly funding.",
-      "focus_theme": "long_term_dividend"
+      "focus_theme": "long_term_dividend",
+      "day": 29,
+      "strategic_prompt": "Daily restraint protects your long-term vitality, while daily focused effort builds your independence and capability. How will you apply this principle when friction arises today?",
+      "micro_action": "Connect today's small habit action to the 10-year dividend of health and independence it is quietly funding.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "franklin_030",
@@ -261,7 +479,14 @@
       "text": "I hope, therefore, that some of my descendants may follow the example and reap the benefit.",
       "plain": "The method is proven, simple, and free: focus on one habit at a time, track your days honestly, and reap the benefit.",
       "application": "Complete today's Primary Focus Habit and log your check-in to close another clean link in your chain.",
-      "focus_theme": "proven_method"
+      "focus_theme": "proven_method",
+      "day": 30,
+      "strategic_prompt": "The method is proven, simple, and free: focus on one habit at a time, track your days honestly, and reap the benefit. How will you apply this principle when friction arises today?",
+      "micro_action": "Complete today's Primary Focus Habit and log your check-in to close another clean link in your chain.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     }
   ]
 }

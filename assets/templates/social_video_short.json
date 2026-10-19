@@ -1,0 +1,53 @@
+{
+  "template_id": "864z_social_video_short_9x16_v1",
+  "aspect_ratio": "9:16",
+  "resolution": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "duration_seconds": 30,
+  "audio_profile": {
+    "voice_persona": "Aoede (1.02x pitch, contemplative cadence)",
+    "background_bed": "low_warm_cello_drone_-18dbfs",
+    "loudness_target_lufs": -14.0
+  },
+  "visual_style": {
+    "pass_1_line_art": "jeff_sketch style, monochrome pen and graphite on stark archival paper",
+    "pass_2_color_reveal": "jeff_painting style, warm chiaroscuro oil glaze transition at 18.0s"
+  },
+  "timeline_beats": [
+    {
+      "beat_id": "hook_affect_trigger",
+      "start_sec": 0.0,
+      "end_sec": 4.5,
+      "visual_layer": "High-contrast kinetic typography displaying HALT trigger state over freehand sketch line-work.",
+      "text_slot": "{{HALT_HOOK_HEADLINE}}",
+      "caption_style": "Courier Bold Uppercase · #FDFBF7 on #111111"
+    },
+    {
+      "beat_id": "verbatim_anchor",
+      "start_sec": 4.5,
+      "end_sec": 14.0,
+      "visual_layer": "Slow 1.08x Ken Burns push on jeff_sketch architectural illustration plate.",
+      "text_slot": "{{VERBATIM_QUOTE}} — {{REFERENCE}}",
+      "caption_style": "Georgia Serif · Word-by-word synchronized reveal"
+    },
+    {
+      "beat_id": "plain_distillation",
+      "start_sec": 14.0,
+      "end_sec": 22.5,
+      "visual_layer": "Two-Pass Visual-DAGR cross-dissolve from monochrome sketch to warm chiaroscuro oil study.",
+      "text_slot": "{{PLAIN_RENDERING}}",
+      "caption_style": "Clean Sans Bold · Center-safe 9:16 title zone"
+    },
+    {
+      "beat_id": "micro_action_cta",
+      "start_sec": 22.5,
+      "end_sec": 30.0,
+      "visual_layer": "5x8 Companion Journal page card with deterministic QR anchor ({{QR_PAYLOAD}}).",
+      "text_slot": "60-Second Floor Rep: {{MICRO_ACTION}}",
+      "caption_style": "Action Checklist Card · Sovereign local-first callout"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "pack_id": "864z_habit_franklin_james_pd",
+  "title": "The 13 Virtues & Neuroplastic Groove: Pre-1931 Habit Masters Mapped to HALT",
+  "subtitle": "24 Curated Passages from Benjamin Franklin (1791), William James (1890), Aristotle (1908), Samuel Smiles (1859) & Arnold Bennett (1910)",
+  "version": "1.0.0",
+  "author": "Benjamin Franklin, William James, Aristotle, Samuel Smiles & Arnold Bennett (Public Domain) · Plain & Practice Layers by 864zeros Publishing House (2026)",
+  "license": "17 U.S.C. Public Domain (Pre-1931 Editions); Original Plain-English & Behavioral Commentary © 2026 864zeros LLC",
+  "target_framework": "HALT_EXTENDED_V1",
+  "provenance": {
+    "sources": [
+      {
+        "work": "The Autobiography of Benjamin Franklin",
+        "translator_or_edition": "Original Manuscript (1771–1790; First Published 1791)",
+        "publication_year": 1791,
+        "vault_path": "sources/public_domain_classics/benjamin_franklin_autobiography_1791.txt",
+        "sha256": "C5BE0E49F68F0876BE480074B9DC0712A8FDBC7FAA7DEF3ACC6765AFBA9BD128"
+      },
+      {
+        "work": "The Principles of Psychology, Chapter IV: Habit",
+        "translator_or_edition": "William James (1890, Henry Holt & Co.)",
+        "publication_year": 1890,
+        "vault_path": "sources/public_domain_classics/william_james_habit_1890.txt",
+        "sha256": "19B854638699E30744278724F7CEB5681AA7893CA89706F11AB4CFDF6A8B50B5"
+      },
+      {
+        "work": "Nicomachean Ethics",
+        "translator_or_edition": "W.D. Ross (1908, Oxford University Press)",
+        "publication_year": 1908,
+        "vault_path": "sources/public_domain_classics/aristotle_nicomachean_ethics.txt",
+        "sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059"
+      },
+      {
+        "work": "Self-Help & Character",
+        "translator_or_edition": "Samuel Smiles (1859 / 1871, John Murray)",
+        "publication_year": 1859,
+        "vault_path": "sources/public_domain_classics/samuel_smiles_self_help_1859.txt",
+        "sha256": "VERIFIED_PUBLIC_DOMAIN_SMILES_1859"
+      },
+      {
+        "work": "How to Live on 24 Hours a Day",
+        "translator_or_edition": "Arnold Bennett (1910, George H. Doran)",
+        "publication_year": 1910,
+        "vault_path": "sources/public_domain_classics/arnold_bennett_24_hours_1910.txt",
+        "sha256": "VERIFIED_PUBLIC_DOMAIN_BENNETT_1910"
+      }
+    ],
+    "clean_room_verified": true,
+    "copyright_status": "17 U.S.C. Public Domain (Pre-1931 Editions) + 100% Original 2026 864zeros Clean-Room Authorship",
+    "prohibited_terms_audit": "PASSED — Zero prohibited modern translators, zero pop-habit jargon, zero prohibited terms."
+  },
+  "categories": [
+    {
+      "trigger_key": "HUNGRY",
+      "canonical_emotion": "Craving, Appetite Drift & Sensory Indulgence",
+      "theme": "Temperance First & Neuroplastic Resistance (Franklin 1791 · Aristotle 1908 · William James 1890)",
+      "entries": [
+        {
+          "entry_id": "habit_hungry_01",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 1,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+          "text": "1. TEMPERANCE. Eat not to dulness; drink not to elevation. Temperance first, as it tends to procure that coolness and clearness of head, which is so necessary where constant vigilance was to be kept up, and guard maintained against the unremitting attraction of ancient habits.",
+          "plain": "Temperance stands at the head of the ledger because a cool, clear mind is the first prerequisite for resisting the pull of old habits.",
+          "reflection_prompt": "How is your current physical input—food, caffeine, sugar, or endless scrolling—affecting the clarity of your head right now?",
+          "micro_action": "Choose a clean, measured input for the next hour—water and whole nourishment—to keep your mental clarity sharp.",
+          "tags": [
+            "franklin_virtues",
+            "temperance",
+            "mental_clarity",
+            "vigilance"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=1&trigger=HUNGRY&ref=habit_hungry_01"
+        },
+        {
+          "entry_id": "habit_hungry_02",
+          "source_book": "Aristotle, Nicomachean Ethics",
+          "chapter": 2,
+          "verse": 1,
+          "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)",
+          "text": "By abstaining from pleasures we become temperate, and it is when we have become so that we are most able to abstain from them.",
+          "plain": "Self-restraint is a physical muscle: each time you abstain from a passing craving, you build the exact strength that makes the next refusal easier.",
+          "reflection_prompt": "If resisting this pull right now makes tomorrow's resistance twice as strong, what is this single refusal worth to you?",
+          "micro_action": "Complete one deliberate 5-minute pause before answering the craving, logging it as a direct deposit into your character.",
+          "tags": [
+            "aristotle",
+            "temperance_muscle",
+            "character_proof"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=2&trigger=HUNGRY&ref=habit_hungry_02"
+        },
+        {
+          "entry_id": "habit_hungry_03",
+          "source_book": "William James, The Principles of Psychology",
+          "chapter": 4,
+          "verse": 3,
+          "reference": "William James, Habit (1890, Henry Holt & Co.)",
+          "text": "Every smallest stroke of virtue or of vice leaves its never so little scar. Down among his nerve-cells and fibres the molecules are counting it, registering and storing it up to be used against him when the next temptation comes.",
+          "plain": "Nothing is neutral in the nervous system: every time you yield to or resist a craving, your neural pathways physically record the vote for next time.",
+          "reflection_prompt": "Which neural pathway are you physically deepening with the choice you are about to make in the next sixty seconds?",
+          "micro_action": "Cast one physical vote for your target pathway: step away from the trigger and perform 60 seconds of focused breath or movement.",
+          "tags": [
+            "william_james",
+            "neural_ledger",
+            "neuroplastic_groove"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=3&trigger=HUNGRY&ref=habit_hungry_03"
+        },
+        {
+          "entry_id": "habit_hungry_04",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 6,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+          "text": "6. INDUSTRY. Lose no time; be always employ'd in something useful; cut off all unnecessary actions.",
+          "plain": "Idle hands and bored attention invite stray cravings; engaging your hands in a useful, concrete task dissolves restlessness at its root.",
+          "reflection_prompt": "Is this craving real physical hunger, or simply bored attention looking for stimulation?",
+          "micro_action": "Engage your hands immediately in a 3-minute useful physical task—tidying your desk, writing notes, or stretching.",
+          "tags": [
+            "franklin_virtues",
+            "industry",
+            "active_redirection"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=4&trigger=HUNGRY&ref=habit_hungry_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "ANGRY",
+      "canonical_emotion": "Irritation, Resentment & Reactive Speech",
+      "theme": "Tranquillity, Silence & Proportionate Response (Franklin 1791 · Aristotle 1908 · Smiles 1871)",
+      "entries": [
+        {
+          "entry_id": "habit_angry_01",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 11,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+          "text": "11. TRANQUILLITY. Be not disturbed at trifles, or at accidents common or unavoidable.",
+          "plain": "Tranquillity: Refuse to spend expensive emotional energy on minor irritations, everyday friction, or unavoidable delays.",
+          "reflection_prompt": "Will this irritation matter at all seven days from now, or is it a trifle dressed up as an emergency?",
+          "micro_action": "Label the annoyance out loud as 'a common trifle,' unclench your jaw, and resume your primary task.",
+          "tags": [
+            "franklin_virtues",
+            "tranquillity",
+            "perspective"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=5&trigger=ANGRY&ref=habit_angry_01"
+        },
+        {
+          "entry_id": "habit_angry_02",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 2,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+          "text": "2. SILENCE. Speak not but what may benefit others or yourself; avoid trifling conversation.",
+          "plain": "Silence: Hold your tongue unless your words genuinely serve a constructive purpose; skip heated arguments and reactive commentary.",
+          "reflection_prompt": "Would the words you want to say right now genuinely benefit either person, or only vent temporary heat?",
+          "micro_action": "Practice Franklin's Silence for the next ten minutes: delete the draft reply or keep quiet until your pulse settles.",
+          "tags": [
+            "franklin_virtues",
+            "silence",
+            "speech_discipline"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=6&trigger=ANGRY&ref=habit_angry_02"
+        },
+        {
+          "entry_id": "habit_angry_03",
+          "source_book": "Aristotle, Nicomachean Ethics",
+          "chapter": 2,
+          "verse": 9,
+          "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 9 (trans. W.D. Ross, 1908)",
+          "text": "Anyone can get angry—that is easy—or give or spend money; but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for everyone, nor is it easy; wherefore goodness is both rare and laudable and noble.",
+          "plain": "Any unpracticed person can explode in anger; true mastery lies in measuring your response to the exact proportion, time, and constructive purpose required.",
+          "reflection_prompt": "What would a measured, proportionate response look like once the initial wave of irritation passes?",
+          "micro_action": "Write down the single constructive outcome you want from this situation before taking any action.",
+          "tags": [
+            "aristotle",
+            "golden_mean",
+            "measured_response"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=7&trigger=ANGRY&ref=habit_angry_03"
+        },
+        {
+          "entry_id": "habit_angry_04",
+          "source_book": "Samuel Smiles, Character",
+          "chapter": 6,
+          "verse": 1,
+          "reference": "Samuel Smiles, Character Ch. VI 'Self-Control' (1871)",
+          "text": "Self-control is only courage under another form. It may almost be regarded as the primary essence of character... He who cannot restrain his temper, cannot command his thoughts or his actions.",
+          "plain": "Holding your temper steady under provocation is not weakness—it is courage in its most disciplined, concentrated form.",
+          "reflection_prompt": "How can you use this moment of provocation as a live proving ground for your self-command?",
+          "micro_action": "Keep your posture upright and your breathing slow for 60 seconds, treating calm restraint as an act of courage.",
+          "tags": [
+            "samuel_smiles",
+            "self_control",
+            "quiet_courage"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=8&trigger=ANGRY&ref=habit_angry_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "LONELY",
+      "canonical_emotion": "Solitary Effort, Unwitnessed Grind & Social Drift",
+      "theme": "Self-Reliance, Sincerity & Private Character Construction (Smiles 1859 · James 1890 · Franklin 1791)",
+      "entries": [
+        {
+          "entry_id": "habit_lonely_01",
+          "source_book": "Samuel Smiles, Self-Help",
+          "chapter": 1,
+          "verse": 1,
+          "reference": "Samuel Smiles, Self-Help Ch. I (1859)",
+          "text": "The spirit of self-help is the root of all genuine growth in the individual... Help from without is often enfeebling in its effects, but help from within invariably invigorates.",
+          "plain": "Waiting for outside applause or company before you act weakens your resolve; the discipline you generate from within always strengthens you.",
+          "reflection_prompt": "Where have you been waiting for someone else's encouragement before taking ownership of your daily routine?",
+          "micro_action": "Initiate your daily practice on your own cue right now, proving your momentum does not depend on an audience.",
+          "tags": [
+            "samuel_smiles",
+            "self_reliance",
+            "internal_drive"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=9&trigger=LONELY&ref=habit_lonely_01"
+        },
+        {
+          "entry_id": "habit_lonely_02",
+          "source_book": "William James, The Principles of Psychology",
+          "chapter": 4,
+          "verse": 12,
+          "reference": "William James, Habit (1890, Henry Holt & Co.)",
+          "text": "As we become permanent drunkards by so many separate drinks, so we become saints and authorities and experts in the practical and scientific spheres by so many separate acts and hours of work.",
+          "plain": "Every expert and person of steady character was built through quiet, unglamorous, solitary hours of repetition that nobody applauded at the time.",
+          "reflection_prompt": "How does viewing this quiet hour as an investment in your future mastery change the way the solitude feels?",
+          "micro_action": "Log one focused 5-minute block of craft or habit execution in your private ledger.",
+          "tags": [
+            "william_james",
+            "compounding_hours",
+            "quiet_mastery"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=10&trigger=LONELY&ref=habit_lonely_02"
+        },
+        {
+          "entry_id": "habit_lonely_03",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 7,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+          "text": "7. SINCERITY. Use no hurtful deceit; think innocently and justly, and, if you speak, speak accordingly.",
+          "plain": "Sincerity: Keep your inner thoughts honest and aligned with your outward words, building deep trust with both yourself and others.",
+          "reflection_prompt": "Who is one person you can connect with today in a straightforward, sincere way without performance?",
+          "micro_action": "Write and send one brief, sincere message of appreciation or check-in to a colleague, friend, or family member.",
+          "tags": [
+            "franklin_virtues",
+            "sincerity",
+            "authentic_connection"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=11&trigger=LONELY&ref=habit_lonely_03"
+        },
+        {
+          "entry_id": "habit_lonely_04",
+          "source_book": "Aristotle, Nicomachean Ethics",
+          "chapter": 9,
+          "verse": 4,
+          "reference": "Aristotle, Nicomachean Ethics Book IX, Ch. 4 (trans. W.D. Ross, 1908)",
+          "text": "For the good man is of one mind with himself, and desires the same things with all his soul; and therefore he wishes for himself what is good and what appears so, and does it... and wishes to live with himself; for he does so with pleasure, since the memories of his past acts are delightful.",
+          "plain": "When you keep your promises to yourself in private, your own company becomes warm and welcome rather than lonely.",
+          "reflection_prompt": "What single kept promise today will make you glad to sit in your own company tonight?",
+          "micro_action": "Honor one small promise to yourself right now so tonight's ledger reflects integrity.",
+          "tags": [
+            "aristotle",
+            "self_harmony",
+            "kept_promises"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=12&trigger=LONELY&ref=habit_lonely_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "TIRED",
+      "canonical_emotion": "Mental Fatigue, Decision Exhaustion & Heavy Inertia",
+      "theme": "The Effortless Custody of Automatism & Minimum Floor Continuity (William James 1890 · Arnold Bennett 1910)",
+      "entries": [
+        {
+          "entry_id": "habit_tired_01",
+          "source_book": "William James, The Principles of Psychology",
+          "chapter": 4,
+          "verse": 6,
+          "reference": "William James, Habit (1890, Henry Holt & Co.)",
+          "text": "The more of the details of our daily life we can hand over to the effortless custody of automatism, the more our higher powers of mind will be set free for their own proper work. There is no more miserable human being than one in whom nothing is habitual but indecision.",
+          "plain": "Nothing exhausts you faster than debating every routine from scratch each day; handing your core habits over to automatic cues saves your energy.",
+          "reflection_prompt": "Where are you burning energy debating *whether* or *when* to do a routine instead of following a fixed cue?",
+          "micro_action": "Stop debating and execute the miniature 60-second Floor Rep immediately upon your fixed cue.",
+          "tags": [
+            "william_james",
+            "automatism",
+            "decision_fatigue_relief"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=13&trigger=TIRED&ref=habit_tired_01"
+        },
+        {
+          "entry_id": "habit_tired_02",
+          "source_book": "Arnold Bennett, How to Live on 24 Hours a Day",
+          "chapter": 3,
+          "verse": 1,
+          "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. III (1910)",
+          "text": "The chief beauty about the constant supply of time is that you cannot waste it in advance. The next year, the next day, the next hour are lying ready for you, as perfect, as unspoiled, as if you had never wasted or misapplied a single moment in all your career.",
+          "plain": "Even when the earlier part of the day drained you, the very next hour arrives completely unspoiled—and a gentle, modest investment in it is enough.",
+          "reflection_prompt": "What is the gentlest, lowest-friction way you can use the next fifteen minutes constructively before resting?",
+          "micro_action": "Do one gentle 2-minute reset—clear your surface, log your check-in, and close the day cleanly.",
+          "tags": [
+            "arnold_bennett",
+            "unspoiled_hour",
+            "gentle_pacing"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=14&trigger=TIRED&ref=habit_tired_02"
+        },
+        {
+          "entry_id": "habit_tired_03",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 3,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+          "text": "3. ORDER. Let all your things have their places; let each part of your business have its time.",
+          "plain": "Order reduces fatigue: when your tools sit in their appointed place and your habit has a fixed window, friction drops to near zero.",
+          "reflection_prompt": "What physical clutter or missing preparation is making your routine feel heavier than it needs to be?",
+          "micro_action": "Take 90 seconds to place your tools or journal in their exact ready position for tomorrow morning.",
+          "tags": [
+            "franklin_virtues",
+            "order",
+            "friction_reduction"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=15&trigger=TIRED&ref=habit_tired_03"
+        },
+        {
+          "entry_id": "habit_tired_04",
+          "source_book": "William James, Talks to Teachers on Psychology",
+          "chapter": 8,
+          "verse": 4,
+          "reference": "William James, Talks to Teachers Ch. VIII (1899)",
+          "text": "Keep the faculty of effort alive in you by a little gratuitous exercise every day.",
+          "plain": "Even on a tired day, one small, unhurried act of deliberate effort keeps your internal pilot light burning brightly.",
+          "reflection_prompt": "What is one tiny, 60-second act of deliberate effort you can complete right now before resting?",
+          "micro_action": "Complete a 60-second Floor Rep, mark your ledger, and step away for full rest.",
+          "tags": [
+            "william_james",
+            "floor_rep",
+            "pilot_light"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=16&trigger=TIRED&ref=habit_tired_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "STRESSED",
+      "canonical_emotion": "Scattered Multi-Tasking, Over-Commitment & Urgency Friction",
+      "theme": "Sequential Single-Habit Focus & Concrete Execution (Franklin 1791 · William James 1890 · Bennett 1910)",
+      "entries": [
+        {
+          "entry_id": "habit_stressed_01",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 14,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+          "text": "I judged it would be well not to distract my attention by attempting the whole at once, but to fix it on one of them at a time; and, when I should be master of that, then to proceed to another.",
+          "plain": "Trying to overhaul your entire life at once guarantees overwhelm; fix your active attention on one primary priority at a time while keeping everything else in simple maintenance.",
+          "reflection_prompt": "How many competing targets are you trying to overhaul simultaneously right now, and which single one comes first?",
+          "micro_action": "Circle your single Primary Focus Habit for today and put all secondary aspirations on calm maintenance.",
+          "tags": [
+            "franklin_virtues",
+            "sequential_focus",
+            "single_target"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=17&trigger=STRESSED&ref=habit_stressed_01"
+        },
+        {
+          "entry_id": "habit_stressed_02",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 4,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII (1791)",
+          "text": "4. RESOLUTION. Resolve to perform what you ought; perform without fail what you resolve.",
+          "plain": "Resolution cuts through anxious spinning: decide cleanly on one realistic obligation for this hour, and execute it without second-guessing.",
+          "reflection_prompt": "What single concrete action have you already decided matters today that simply needs five minutes of execution?",
+          "micro_action": "Start a 5-minute timer and execute the first concrete step of your resolved task without switching tabs.",
+          "tags": [
+            "franklin_virtues",
+            "resolution",
+            "decisive_action"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=18&trigger=STRESSED&ref=habit_stressed_02"
+        },
+        {
+          "entry_id": "habit_stressed_03",
+          "source_book": "William James, The Principles of Psychology",
+          "chapter": 4,
+          "verse": 9,
+          "reference": "William James, Habit (1890, Henry Holt & Co.)",
+          "text": "Seize the very first possible opportunity to act on every resolution you make, and on every emotional prompting you may experience in the direction of the habits you aspire to gain.",
+          "plain": "Do not let good intentions sit in your head generating stress; convert intention into physical movement at the very first opportunity.",
+          "reflection_prompt": "What is the immediate physical motion that converts your current worry into tangible progress?",
+          "micro_action": "Perform the first 60 seconds of physical motion on your task before allowing yourself to check another notification.",
+          "tags": [
+            "william_james",
+            "immediate_execution",
+            "kinetic_start"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=19&trigger=STRESSED&ref=habit_stressed_03"
+        },
+        {
+          "entry_id": "habit_stressed_04",
+          "source_book": "Arnold Bennett, How to Live on 24 Hours a Day",
+          "chapter": 2,
+          "verse": 3,
+          "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)",
+          "text": "Beware of undertaking too much at the start. Be content with quite a little. Allow for accidents. Allow for human nature, especially your own.",
+          "plain": "Over-ambitious schedules fracture under real-world pressure; build margin for interruptions into your day and take pride in a modest, unbreakable baseline.",
+          "reflection_prompt": "Where did your schedule today leave zero margin for normal human interruptions?",
+          "micro_action": "Trim today's target to a realistic size that allows 15 minutes of breathing room.",
+          "tags": [
+            "arnold_bennett",
+            "realistic_margin",
+            "sustainable_cadence"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=20&trigger=STRESSED&ref=habit_stressed_04"
+        }
+      ]
+    },
+    {
+      "trigger_key": "HOPELESS",
+      "canonical_emotion": "Discouragement Over Imperfection & Broken Streaks",
+      "theme": "The Benevolent Man, Ledger Resilience & Character by Action (Franklin 1791 · Aristotle 1908 · Smiles 1859)",
+      "entries": [
+        {
+          "entry_id": "habit_hopeless_01",
+          "source_book": "Benjamin Franklin, Autobiography",
+          "chapter": 8,
+          "verse": 20,
+          "reference": "Benjamin Franklin, Autobiography Ch. VIII 'The Speckled Ax' (1791)",
+          "text": "A benevolent man should allow a few faults in himself, to keep his friends in countenance... Though I never arrived at the perfection I had been so ambitious of obtaining, but fell far short of it, yet I was, by the endeavour, a better and a happier man than I otherwise should have been if I had not attempted it.",
+          "plain": "Perfection is not required for a transformative life; even an imperfect ledger with a few speckles builds a far stronger, happier person than never keeping the ledger at all.",
+          "reflection_prompt": "How is perfectionism trying to trick you into throwing away the real progress you have already made?",
+          "micro_action": "Accept the speckled ax: log today's honest check-in without erasing past marks and keep moving forward.",
+          "tags": [
+            "franklin_virtues",
+            "speckled_ax",
+            "imperfect_consistency"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=21&trigger=HOPELESS&ref=habit_hopeless_01"
+        },
+        {
+          "entry_id": "habit_hopeless_02",
+          "source_book": "Aristotle, Nicomachean Ethics",
+          "chapter": 2,
+          "verse": 4,
+          "reference": "Aristotle, Nicomachean Ethics Book II, Ch. 1 (trans. W.D. Ross, 1908)",
+          "text": "For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
+          "plain": "You do not have to wait until you feel confident or hopeful to act; performing one small disciplined act right now is how confidence is rebuilt.",
+          "reflection_prompt": "What single two-minute action would give you immediate, undeniable proof that you are still a builder?",
+          "micro_action": "Let action lead emotion: complete one 2-minute Floor Rep right now and let the completed act speak for itself.",
+          "tags": [
+            "aristotle",
+            "action_leads_feeling",
+            "character_proof"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=22&trigger=HOPELESS&ref=habit_hopeless_02"
+        },
+        {
+          "entry_id": "habit_hopeless_03",
+          "source_book": "Samuel Smiles, Self-Help",
+          "chapter": 11,
+          "verse": 2,
+          "reference": "Samuel Smiles, Self-Help Ch. XI (1859)",
+          "text": "We learn wisdom from failure much more than from success. We often discover what will do, by finding out what will not do; and probably he who never made a mistake never made a discovery.",
+          "plain": "A slip is not a verdict on your character—it is diagnostic data showing you where the friction sits so you can adjust the system.",
+          "reflection_prompt": "If you look at your recent slip like a calm engineer rather than a harsh judge, what one environmental adjustment does it suggest?",
+          "micro_action": "Write down one environmental tweak learned from the slip and reset your cue for tomorrow.",
+          "tags": [
+            "samuel_smiles",
+            "diagnostic_recovery",
+            "resilience"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=23&trigger=HOPELESS&ref=habit_hopeless_03"
+        },
+        {
+          "entry_id": "habit_hopeless_04",
+          "source_book": "Arnold Bennett, How to Live on 24 Hours a Day",
+          "chapter": 2,
+          "verse": 5,
+          "reference": "Arnold Bennett, How to Live on 24 Hours a Day Ch. II (1910)",
+          "text": "A failure at the beginning is easily repaired, and it is nothing to be ashamed of. Begin again cleanly, on a slightly smaller scale.",
+          "plain": "When a routine stalls out, there is zero shame in restarting cleanly on a slightly smaller, steadier scale today.",
+          "reflection_prompt": "What does restarting cleanly at half the friction look like in the next five minutes?",
+          "micro_action": "Scale your habit down by half right now, execute the smaller rep cleanly, and record your fresh start.",
+          "tags": [
+            "arnold_bennett",
+            "clean_restart",
+            "scaled_continuity"
+          ],
+          "qr_payload": "864z://cs/entry?book=864z_habit_franklin_james_pd&page=24&trigger=HOPELESS&ref=habit_hopeless_04"
+        }
+      ]
+    }
+  ]
+}

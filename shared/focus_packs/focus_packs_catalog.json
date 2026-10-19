@@ -1,10 +1,10 @@
 {
   "_meta": {
     "catalog_id": "864zeros_focus_packs_catalog",
-    "title": "864zeros Studio — Master Focus Packs Catalog",
+    "title": "864zeros Studio — Master Focus Packs Catalog (Volumes 1 & 2)",
     "namespace": "shared/focus_packs",
-    "version": "1.0.0",
-    "generated": "2026-10-17",
+    "version": "2.0.0",
+    "generated": "2026-10-19",
     "studio_leadership": {
       "VP-STUDIO": "Sloane Sterling (VP of Content, Media & Publishing)",
       "LEAD-CONTENT": "Julian Thorne (Head of Literary IP, Editorial & Focus Packs)",
@@ -12,12 +12,13 @@
       "LEAD-MEDIA": "Orion Kai (Head of Multimedia Production & Visual/Audio Vault)"
     },
     "provenance_lock": "sources/public_domain_classics/PROVENANCE_LOCK.json",
-    "legal_posture": "17 U.S.C. Public Domain — Pre-1931 Publication Safe Harbor + 17 U.S.C. § 102(b) Empirical Science Safe Harbor. All plain-language renderings, daily behavioral applications, and affirmations are 100% original 864zeros LLC authorship.",
-    "schema_standard": "{ id, citation, text, plain, application, focus_theme } (compatible with ClearStreak Focus Packs, OIA Focus Extensions, and standalone 864zeros Practice Books)"
+    "legal_posture": "17 U.S.C. Public Domain — Pre-1931 Publication Safe Harbor + 17 U.S.C. § 102(b) Empirical Science Safe Harbor. All plain-language renderings, daily behavioral applications, strategic prompts, micro-actions, and affirmations are 100% original 864zeros LLC authorship.",
+    "schema_standard": "{ id, day, citation, text, plain, application, strategic_prompt, micro_action, focus_theme, halt_triggers } (compatible with ClearStreak Focus Packs, OIA Focus Extensions, and standalone 864zeros Practice Books)"
   },
   "packs": [
     {
       "pack_id": "marcus_aurelius_meditations",
+      "volume": 1,
       "category": "philosophy_stoic",
       "title": "The Citadel Within: Marcus Aurelius on Daily Self-Command",
       "subtitle": "30 Curated Pre-1931 Stoic Meditations with Plain-Language Renderings & Daily Action Protocols",
@@ -31,6 +32,7 @@
     },
     {
       "pack_id": "stoic_masters_epictetus_seneca",
+      "volume": 1,
       "category": "philosophy_stoic",
       "title": "Sovereign Will: Epictetus & Seneca on Time, Agency, and Focus",
       "subtitle": "30 Curated Pre-1931 Passages from Epictetus's Enchiridion & Seneca's Minor Dialogues",
@@ -50,6 +52,7 @@
     },
     {
       "pack_id": "ben_franklin_virtues",
+      "volume": 1,
       "category": "habit_architecture",
       "title": "The 13 Virtues Ledger: Benjamin Franklin's Sequential Focus Method",
       "subtitle": "30 Structured Entries from Franklin's 1791 Autobiography on Sequential Single-Habit Mastery",
@@ -63,6 +66,7 @@
     },
     {
       "pack_id": "aristotle_character",
+      "volume": 1,
       "category": "philosophy_character",
       "title": "Excellence by Repetition: Aristotle's Nicomachean Ethics in Practice",
       "subtitle": "30 Curated Pre-1931 Passages from Book II & Book VII on Habituation and Character Proof",
@@ -76,6 +80,7 @@
     },
     {
       "pack_id": "william_james_habit",
+      "volume": 1,
       "category": "habit_neuroscience",
       "title": "The Neuroplastic Groove: William James's 1890 Maxims of Habit",
       "subtitle": "30 Curated Passages from William James (1890/1899) on Neural Plasticity, Continuity, and Floor Reps",
@@ -88,7 +93,64 @@
       "default_enabled": true
     },
     {
+      "pack_id": "seneca_shortness_of_life_30day",
+      "volume": 2,
+      "category": "philosophy_stoic",
+      "title": "Time Sovereignty: Seneca on the Shortness of Life & Peace of Mind",
+      "subtitle": "30 Curated Pre-1931 Passages from Seneca's Minor Dialogues on Reclaiming Attention and Rejecting Busyness",
+      "author_or_source": "Lucius Annaeus Seneca (Aubrey Stewart translation, 1889 — Gutenberg #64576)",
+      "path": "shared/focus_packs/seneca_shortness_of_life_30day.json",
+      "provenance_source": "sources/public_domain_classics/seneca_dialogues_stewart_1889.txt",
+      "provenance_sha256": "FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B",
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "epictetus_discourses_30day",
+      "volume": 2,
+      "category": "philosophy_stoic",
+      "title": "The Dichotomy of Control: Epictetus's Discourses on Sovereign Agency",
+      "subtitle": "30 Curated Pre-1931 Passages from George Long's 1877 Translation of the Discourses of Epictetus",
+      "author_or_source": "Epictetus (George Long translation, 1877 — Gutenberg #10661)",
+      "path": "shared/focus_packs/epictetus_discourses_30day.json",
+      "provenance_source": "sources/public_domain_classics/epictetus_discourses_long_1877.txt",
+      "provenance_sha256": "7915EAC7442DAED1FBC461B8A281ECC315C5E619126D50D914C29C39FA3B2209",
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "samuel_smiles_self_help_30day",
+      "volume": 2,
+      "category": "habit_architecture",
+      "title": "Industry & Perseverance: Samuel Smiles's Self-Help in Daily Action",
+      "subtitle": "30 Curated Pre-1931 Passages from Samuel Smiles's 1859 Classic on Patient Craft, Energy, and Character",
+      "author_or_source": "Samuel Smiles (Self-Help, 1859 — Gutenberg #935)",
+      "path": "shared/focus_packs/samuel_smiles_self_help_30day.json",
+      "provenance_source": "sources/public_domain_classics/samuel_smiles_self_help_1859.txt",
+      "provenance_sha256": "E7F4232F8880AF072453521A95D72B3476D716E2485DE08AB8E54C444F28802A",
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
+      "pack_id": "arnold_bennett_24_hours_30day",
+      "volume": 2,
+      "category": "habit_architecture",
+      "title": "The Day Within a Day: Arnold Bennett on Living on 24 Hours a Day",
+      "subtitle": "30 Curated Pre-1931 Passages from Arnold Bennett's 1910 Classic on Deliberate Evening Focus and Mental Command",
+      "author_or_source": "Arnold Bennett (How to Live on 24 Hours a Day, 1910 — Gutenberg #2274)",
+      "path": "shared/focus_packs/arnold_bennett_24_hours_30day.json",
+      "provenance_source": "sources/public_domain_classics/arnold_bennett_24_hours_1910.txt",
+      "provenance_sha256": "9B82D3168C476D0B5238768555EBD50A3CC7BBF199927E6F065D35A650EBFA16",
+      "entry_count": 30,
+      "status": "PUBLISHED_CLEAN_ROOM_VERIFIED",
+      "default_enabled": true
+    },
+    {
       "pack_id": "kjv_scripture_key_verses",
+      "volume": 1,
       "category": "faith_scripture",
       "title": "KJV & WEB Public-Domain Scripture Key-Verse Library",
       "subtitle": "Complete Canonical Public-Domain Scripture Anchor with 2026 Plain-Language Renderings & Behavioral Applications",
@@ -105,6 +167,7 @@
     },
     {
       "pack_id": "recovery_reflections_1939",
+      "volume": 1,
       "category": "recovery_resilience",
       "title": "Recovery Reflections (1939 Big Book Public-Domain Corpus)",
       "subtitle": "Moment-of-Need Passages & Secular Recovery Affirmations Derived from the 1939 Public-Domain First Edition",
@@ -120,6 +183,7 @@
     },
     {
       "pack_id": "daily_affirmations_spiritual",
+      "volume": 1,
       "category": "daily_affirmations",
       "title": "Daily Affirmations: Faith, Resilience & Steadiness",
       "subtitle": "50 Original 864zeros-Authored Daily Affirmations for Spiritual Grounding and Momentum",

@@ -1,4 +1,18 @@
 {
+  "pack_id": "aristotle_character",
+  "id": "aristotle_character",
+  "version": "2.0.0",
+  "volume": 1,
+  "title": "Excellence by Repetition: Aristotle's Nicomachean Ethics in Practice",
+  "subtitle": "30 Curated Pre-1931 Passages from Book II & Book VII on Habituation, Character Proof, and Self-Mastery",
+  "author": "Aristotle (384–322 BC)",
+  "provenance": {
+    "vault_file": "sources/public_domain_classics/aristotle_nicomachean_ethics.txt",
+    "sha256": "A68264A6537BB58B899ED68E25D1C7D8EA1BCB3E9544B4D1B464F74D99C3D059",
+    "translators_referenced": "W.D. Ross (1908, Oxford University Press) & D.P. Chase (1847 / 1911 Everyman's Library, Gutenberg #8438)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication; plain & application layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
   "pack_meta": {
     "pack_id": "aristotle_character",
     "title": "Excellence by Repetition: Aristotle's Nicomachean Ethics in Practice",
@@ -15,12 +29,13 @@
       "clean_room_verified": true
     },
     "entry_count": 30,
-    "schema_version": "1.0.0",
+    "schema_version": "2.0.0",
     "compatible_targets": [
       "ClearStreak Focus Packs",
       "864zeros Standalone Practice Books",
       "OIA Focus Extensions"
-    ]
+    ],
+    "volume": 1
   },
   "entries": [
     {
@@ -29,7 +44,14 @@
       "text": "Virtue, then, being of two kinds, intellectual and moral, intellectual virtue in the main owes both its birth and its growth to teaching (for which reason it requires experience and time), while moral virtue comes about as a result of habit, whence also its name ethike is one that is formed by a slight variation from the word ethos (habit).",
       "plain": "While technical knowledge comes from study, strength of character comes directly from daily habit—in Greek, the word for 'character' (êthos) grows directly out of the word for 'habit' (ethos).",
       "application": "Treat today's habit repetition not as a chore on a checklist, but as the direct physical construction of your character.",
-      "focus_theme": "ethos_from_habit"
+      "focus_theme": "ethos_from_habit",
+      "day": 1,
+      "strategic_prompt": "While technical knowledge comes from study, strength of character comes directly from daily habit—in Greek, the word for 'character' (êthos) grows directly out of the word for 'habit' (ethos). How will you apply this principle when friction arises today?",
+      "micro_action": "Treat today's habit repetition not as a chore on a checklist, but as the direct physical construction of your character.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_002",
@@ -37,7 +59,14 @@
       "text": "From this it is also plain that none of the moral virtues arises in us by nature; for nothing that exists by nature can form a habit contrary to its nature.",
       "plain": "No discipline is pre-installed in us by luck at birth, nor are we locked out of it by nature; we are built to receive and solidify strong habits through training.",
       "application": "Drop the story that 'I am just not a disciplined person.' Your biology is built to adapt to the repetition you execute today.",
-      "focus_theme": "trainable_nature"
+      "focus_theme": "trainable_nature",
+      "day": 2,
+      "strategic_prompt": "No discipline is pre-installed in us by luck at birth, nor are we locked out of it by nature; we are built to receive and solidify strong habits through training. How will you apply this principle when friction arises today?",
+      "micro_action": "Drop the story that 'I am just not a disciplined person.' Your biology is built to adapt to the repetition you execute today.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_003",
@@ -45,7 +74,14 @@
       "text": "The virtues we get by first exercising them, as also happens in the case of the arts as well. For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
       "plain": "We acquire every real strength by practicing it first in action: builders become builders by building, musicians by playing, and disciplined people by performing disciplined acts.",
       "application": "Provide yourself with concrete Character Proof today: perform one temperate, focused act and let action lead identity.",
-      "focus_theme": "character_proof"
+      "focus_theme": "character_proof",
+      "day": 3,
+      "strategic_prompt": "We acquire every real strength by practicing it first in action: builders become builders by building, musicians by playing, and disciplined people by performing disciplined acts. How will you apply this principle when friction arises today?",
+      "micro_action": "Provide yourself with concrete Character Proof today: perform one temperate, focused act and let action lead identity.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "aristotle_004",
@@ -53,7 +89,14 @@
       "text": "Again, it is from the same causes and by the same means that every virtue is both produced and destroyed, and similarly every art; for it is from playing the lyre that both good and bad lyre-players are produced.",
       "plain": "Repetition always trains something: sloppy, half-hearted repetitions build sloppy habits, while deliberate, attentive repetitions build mastery.",
       "application": "Bring clean, undivided attention to your repetition today—even if it is a short 60-second Floor Rep, execute it with precision.",
-      "focus_theme": "quality_of_repetition"
+      "focus_theme": "quality_of_repetition",
+      "day": 4,
+      "strategic_prompt": "Repetition always trains something: sloppy, half-hearted repetitions build sloppy habits, while deliberate, attentive repetitions build mastery. How will you apply this principle when friction arises today?",
+      "micro_action": "Bring clean, undivided attention to your repetition today—even if it is a short 60-second Floor Rep, execute it with precision.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_005",
@@ -61,7 +104,14 @@
       "text": "Thus, in one word, states of character arise out of like activities. This is why the activities we exhibit must be of a certain kind; it is because the states of character correspond to the differences between these.",
       "plain": "Lasting states of character grow directly out of repeated daily actions of the exact same kind.",
       "application": "Ensure today's action matches the exact standard of the person you intend to be six months from now.",
-      "focus_theme": "activity_to_state"
+      "focus_theme": "activity_to_state",
+      "day": 5,
+      "strategic_prompt": "Lasting states of character grow directly out of repeated daily actions of the exact same kind. How will you apply this principle when friction arises today?",
+      "micro_action": "Ensure today's action matches the exact standard of the person you intend to be six months from now.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_006",
@@ -69,7 +119,14 @@
       "text": "It makes no small difference, then, whether we form habits of one kind or of another from our very youth; it makes a very great difference, or rather all the difference.",
       "plain": "Which habits we lock into our daily routine is not a minor detail; it makes a massive difference—in fact, all the difference.",
       "application": "Protect your Primary Focus Habit today as the highest-leverage investment on your calendar.",
-      "focus_theme": "habit_leverage"
+      "focus_theme": "habit_leverage",
+      "day": 6,
+      "strategic_prompt": "Which habits we lock into our daily routine is not a minor detail; it makes a massive difference—in fact, all the difference. How will you apply this principle when friction arises today?",
+      "micro_action": "Protect your Primary Focus Habit today as the highest-leverage investment on your calendar.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "aristotle_007",
@@ -77,7 +134,14 @@
       "text": "Since, then, the present inquiry does not aim at theoretical knowledge like the others (for we are inquiring not in order to know what virtue is, but in order to become good, since otherwise our inquiry would have been of no use), we must examine the nature of actions, namely how we ought to do them.",
       "plain": "The point of studying discipline is never merely to collect theories about excellence, but to actually practice it in our daily conduct.",
       "application": "Close the gap between reading and doing: immediately follow this reflection with a physical step toward your daily check-in.",
-      "focus_theme": "practice_over_theory"
+      "focus_theme": "practice_over_theory",
+      "day": 7,
+      "strategic_prompt": "The point of studying discipline is never merely to collect theories about excellence, but to actually practice it in our daily conduct. How will you apply this principle when friction arises today?",
+      "micro_action": "Close the gap between reading and doing: immediately follow this reflection with a physical step toward your daily check-in.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_008",
@@ -85,7 +149,14 @@
       "text": "First, then, let us consider this, that it is the nature of such things to be destroyed by defect and excess, as we see in the case of strength and of health: both excessive and defective exercise destroys the strength.",
       "plain": "Just as physical strength is ruined equally by zero exercise or by reckless overtraining, sustainable habits are destroyed both by neglect and by unsustainable extremes.",
       "application": "Calibrate your effort tier today: avoid both skipping completely and burning yourself out with an unsustainable marathon.",
-      "focus_theme": "sustainable_mean"
+      "focus_theme": "sustainable_mean",
+      "day": 8,
+      "strategic_prompt": "Just as physical strength is ruined equally by zero exercise or by reckless overtraining, sustainable habits are destroyed both by neglect and by unsustainable extremes. How will you apply this principle when friction arises today?",
+      "micro_action": "Calibrate your effort tier today: avoid both skipping completely and burning yourself out with an unsustainable marathon.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_009",
@@ -93,7 +164,14 @@
       "text": "Not only are the sources and causes of their origination and growth the same as those of their destruction, but the sphere of their actualization will be the same also; for this is also true of the things which are more evident to sense, e.g. of strength; it is produced by taking much food and undergoing much exertion, and it is the strong man that will be most able to do these things.",
       "plain": "A positive feedback loop powers every habit: enduring the daily effort builds the strength, and that growing strength makes the next day's effort feel lighter.",
       "application": "Trust the Automaticity Curve today: each repetition you complete lowers the neurological effort required for next week's reps.",
-      "focus_theme": "reinforcing_spiral"
+      "focus_theme": "reinforcing_spiral",
+      "day": 9,
+      "strategic_prompt": "A positive feedback loop powers every habit: enduring the daily effort builds the strength, and that growing strength makes the next day's effort feel lighter. How will you apply this principle when friction arises today?",
+      "micro_action": "Trust the Automaticity Curve today: each repetition you complete lowers the neurological effort required for next week's reps.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "aristotle_010",
@@ -101,7 +179,14 @@
       "text": "We must take as a sign of states of character the pleasure or pain that ensues on acts; for the man who abstains from bodily pleasures and delights in this very fact is temperate, while the man who is annoyed at it is self-indulgent.",
       "plain": "As a habit matures, your relationship to the effort shifts: what once felt like friction gradually becomes a source of quiet satisfaction and pride.",
       "application": "Pause for five seconds after completing your rep today to register the clean feeling of self-command.",
-      "focus_theme": "immediate_reinforcement"
+      "focus_theme": "immediate_reinforcement",
+      "day": 10,
+      "strategic_prompt": "As a habit matures, your relationship to the effort shifts: what once felt like friction gradually becomes a source of quiet satisfaction and pride. How will you apply this principle when friction arises today?",
+      "micro_action": "Pause for five seconds after completing your rep today to register the clean feeling of self-command.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_011",
@@ -109,7 +194,14 @@
       "text": "The agent also must be in a certain condition when he does them; in the first place he must have knowledge, secondly he must choose the acts, and choose them for their own sakes, and thirdly his action must proceed from a firm and unchangeable character.",
       "plain": "Mature mastery has three markers: knowing clearly what you are doing, choosing the action deliberately for its own value, and acting from a steady, unshakeable commitment.",
       "application": "Check all three boxes on your repetition today: clear cue, deliberate choice, and steady follow-through.",
-      "focus_theme": "three_pillars_of_mastery"
+      "focus_theme": "three_pillars_of_mastery",
+      "day": 11,
+      "strategic_prompt": "Mature mastery has three markers: knowing clearly what you are doing, choosing the action deliberately for its own value, and acting from a steady, unshakeable commitment. How will you apply this principle when friction arises today?",
+      "micro_action": "Check all three boxes on your repetition today: clear cue, deliberate choice, and steady follow-through.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_012",
@@ -117,7 +209,14 @@
       "text": "Yet people do not do these acts, but take refuge in theory and think they are being philosophers and will become good in this way, behaving somewhat like patients who listen attentively to their doctors, but do none of the things they are ordered to do.",
       "plain": "Many people hide inside productivity advice and theories, imagining that reading about discipline will transform them—like patients who listen eagerly to their doctor's instructions and then follow none of them.",
       "application": "Refuse to take refuge in theory today: execute the prescribed daily rep before consuming any more content.",
-      "focus_theme": "prescription_execution"
+      "focus_theme": "prescription_execution",
+      "day": 12,
+      "strategic_prompt": "Many people hide inside productivity advice and theories, imagining that reading about discipline will transform them—like patients who listen eagerly to their doctor's instructions and then follow none of them. How will you apply this principle when friction arises today?",
+      "micro_action": "Refuse to take refuge in theory today: execute the prescribed daily rep before consuming any more content.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "aristotle_013",
@@ -125,7 +224,14 @@
       "text": "To feel these at the right times, with reference to the right objects, towards the right people, with the right motive, and in the right way, is what is both intermediate and best, and this is characteristic of virtue.",
       "plain": "Excellence is precision in action: doing the right thing, at the right time, with the right focus, and in the right measure.",
       "application": "Honor your Context Lock today: trigger your habit at the exact appointed time and context.",
-      "focus_theme": "context_precision"
+      "focus_theme": "context_precision",
+      "day": 13,
+      "strategic_prompt": "Excellence is precision in action: doing the right thing, at the right time, with the right focus, and in the right measure. How will you apply this principle when friction arises today?",
+      "micro_action": "Honor your Context Lock today: trigger your habit at the exact appointed time and context.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_014",
@@ -133,7 +239,14 @@
       "text": "That is why it is also a hard task to be good; for in everything it is no easy task to find the middle, e.g. to find the middle of a circle is not for everyone, but for him who knows; so, too, anyone can get angry—that is easy—or give or spend money; but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for everyone, nor is it easy.",
       "plain": "Anyone can act on a passing whim; what requires real craft and training is directing your energy deliberately, at the right time, in the right measure.",
       "application": "Respect the craft of consistency today by executing your scheduled rep calmly and on time.",
-      "focus_theme": "deliberate_craft"
+      "focus_theme": "deliberate_craft",
+      "day": 14,
+      "strategic_prompt": "Anyone can act on a passing whim; what requires real craft and training is directing your energy deliberately, at the right time, in the right measure. How will you apply this principle when friction arises today?",
+      "micro_action": "Respect the craft of consistency today by executing your scheduled rep calmly and on time.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_015",
@@ -141,7 +254,14 @@
       "text": "We must notice the errors into which we ourselves are most easily carried; for some of us tend to one thing, some to another; and this will be recognizable from the pleasure and the pain we feel. We must drag ourselves away to the contrary extreme; for we shall get into the intermediate state by drawing well away from error, as people do in straightening bent wood.",
       "plain": "Know your personal failure pattern—whether you tend to procrastinate, overcomplicate, or rush—and lean deliberately in the opposite direction, just as a craftsman straightens bent timber.",
       "application": "If your default drift is delaying until late at night, lean the other way today and complete your Floor Rep before noon.",
-      "focus_theme": "corrective_counterweight"
+      "focus_theme": "corrective_counterweight",
+      "day": 15,
+      "strategic_prompt": "Know your personal failure pattern—whether you tend to procrastinate, overcomplicate, or rush—and lean deliberately in the opposite direction, just as a craftsman straightens bent timber. How will you apply this principle when friction arises today?",
+      "micro_action": "If your default drift is delaying until late at night, lean the other way today and complete your Floor Rep before noon.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "aristotle_016",
@@ -149,7 +269,14 @@
       "text": "Human good turns out to be activity of soul in accordance with virtue, and if there are more than one virtue, in accordance with the best and most complete. But we must add 'in a complete life.' For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.",
       "plain": "One swallow does not make a summer, nor does a single burst of effort make a transformed life; real flourishing is built through sustained activity across weeks and months.",
       "application": "Value your cumulative consistency ratio over any single flashy day—show up today to add another brick to the long arc.",
-      "focus_theme": "long_arc_consistency"
+      "focus_theme": "long_arc_consistency",
+      "day": 16,
+      "strategic_prompt": "One swallow does not make a summer, nor does a single burst of effort make a transformed life; real flourishing is built through sustained activity across weeks and months. How will you apply this principle when friction arises today?",
+      "micro_action": "Value your cumulative consistency ratio over any single flashy day—show up today to add another brick to the long arc.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_017",
@@ -157,7 +284,14 @@
       "text": "It makes, perhaps, no small difference whether we place the chief good in possession or in use, in state of mind or in activity. For the state of mind may exist without producing any good result, as in a man who is asleep or in some other way quite inactive, but the activity cannot; for one who has the activity will of necessity be acting, and acting well.",
       "plain": "Potential sitting on the shelf accomplishes nothing; just as at the Olympic Games the crowns go not to the strongest spectators on the sidelines, but to those who actually enter the arena and compete.",
       "application": "Step off the sidelines today: put your intention into active use by logging your repetition.",
-      "focus_theme": "arena_action"
+      "focus_theme": "arena_action",
+      "day": 17,
+      "strategic_prompt": "Potential sitting on the shelf accomplishes nothing; just as at the Olympic Games the crowns go not to the strongest spectators on the sidelines, but to those who actually enter the arena and compete. How will you apply this principle when friction arises today?",
+      "micro_action": "Step off the sidelines today: put your intention into active use by logging your repetition.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_018",
@@ -165,7 +299,14 @@
       "text": "Wish relates rather to the end, choice to the means; for instance, we wish to be healthy, but we choose the acts which will make us healthy, and we wish to be happy and say we do, but we cannot well say we choose to be so; because, in general, choice seems to relate to the things that are in our own power.",
       "plain": "Anyone can wish for a distant outcome like health or mastery, but real choice operates strictly on the daily actions within our immediate power.",
       "application": "Translate your big wish into the exact daily means within your control right now: today's scheduled repetition.",
-      "focus_theme": "means_over_wishes"
+      "focus_theme": "means_over_wishes",
+      "day": 18,
+      "strategic_prompt": "Anyone can wish for a distant outcome like health or mastery, but real choice operates strictly on the daily actions within our immediate power. How will you apply this principle when friction arises today?",
+      "micro_action": "Translate your big wish into the exact daily means within your control right now: today's scheduled repetition.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "aristotle_019",
@@ -173,7 +314,14 @@
       "text": "They acquire the character by living Slackly, and by particular acts of the kind; for actions in particular spheres make men of a corresponding character, as is plain from those who are training for any contest or action; they practise the activity the whole time.",
       "plain": "Every contender preparing for a serious test practices the exact target activity consistently; our daily routines shape our capability the exact same way.",
       "application": "Train like a contender today: treat your daily habit window as protected practice time.",
-      "focus_theme": "contender_training"
+      "focus_theme": "contender_training",
+      "day": 19,
+      "strategic_prompt": "Every contender preparing for a serious test practices the exact target activity consistently; our daily routines shape our capability the exact same way. How will you apply this principle when friction arises today?",
+      "micro_action": "Train like a contender today: treat your daily habit window as protected practice time.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_020",
@@ -181,7 +329,14 @@
       "text": "So, too, to the unjust and to the self-indulgent man it was open at the beginning not to become men of this kind, and so they are such voluntarily; capabilities are formed one step at a time.",
       "plain": "Every ingrained pattern begins with small, voluntary daily steps at the outset—which means you have the full power today to start laying down a better track.",
       "application": "Use your agency at the starting line of today's window: initiate the first 60 seconds cleanly.",
-      "focus_theme": "starting_line_agency"
+      "focus_theme": "starting_line_agency",
+      "day": 20,
+      "strategic_prompt": "Every ingrained pattern begins with small, voluntary daily steps at the outset—which means you have the full power today to start laying down a better track. How will you apply this principle when friction arises today?",
+      "micro_action": "Use your agency at the starting line of today's window: initiate the first 60 seconds cleanly.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_021",
@@ -189,7 +344,14 @@
       "text": "The origin of action—its efficient, not its final cause—is choice, and that of choice is desire and reasoning with a view to an end. This is why choice cannot exist either without reason and intellect or without a moral state.",
       "plain": "Effective action is born when clear reasoning and committed purpose unite into a decisive choice.",
       "application": "Remind yourself of the 'why' behind your Primary Focus Habit before you execute today's rep.",
-      "focus_theme": "purposeful_choice"
+      "focus_theme": "purposeful_choice",
+      "day": 21,
+      "strategic_prompt": "Effective action is born when clear reasoning and committed purpose unite into a decisive choice. How will you apply this principle when friction arises today?",
+      "micro_action": "Remind yourself of the 'why' behind your Primary Focus Habit before you execute today's rep.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "aristotle_022",
@@ -197,7 +359,14 @@
       "text": "The self-indulgent man is led on in accordance with his own choice, thinking that he ought always to pursue the present pleasure; while the incontinent man does not think so, and yet pursues it.",
       "plain": "The most common failure of discipline is knowing clearly what serves our long-term good, yet letting a fleeting present distraction override our better judgment.",
       "application": "Bridge the gap between knowing and doing today by pre-committing to your When-Then Trigger before fatigue sets in.",
-      "focus_theme": "bridging_akrasia"
+      "focus_theme": "bridging_akrasia",
+      "day": 22,
+      "strategic_prompt": "The most common failure of discipline is knowing clearly what serves our long-term good, yet letting a fleeting present distraction override our better judgment. How will you apply this principle when friction arises today?",
+      "micro_action": "Bridge the gap between knowing and doing today by pre-committing to your When-Then Trigger before fatigue sets in.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_023",
@@ -205,7 +374,14 @@
       "text": "The having of knowledge without exercising it is a different state: when a man is asleep, distracted, or overwhelmed by emotion, his knowledge is present only like words recited by an actor, not yet integrated into action.",
       "plain": "Under stress or exhaustion, good intentions can go temporarily offline unless they are backed by automatic, pre-built environmental cues.",
       "application": "Do not rely on tired late-night willpower: use high Cue Visibility and a Floor Rep option to keep your streak safe when tired.",
-      "focus_theme": "cue_scaffolding"
+      "focus_theme": "cue_scaffolding",
+      "day": 23,
+      "strategic_prompt": "Under stress or exhaustion, good intentions can go temporarily offline unless they are backed by automatic, pre-built environmental cues. How will you apply this principle when friction arises today?",
+      "micro_action": "Do not rely on tired late-night willpower: use high Cue Visibility and a Floor Rep option to keep your streak safe when tired.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_024",
@@ -213,7 +389,14 @@
       "text": "Now the man who is defective in respect of resistance to the things which most men both resist and are able to resist is soft and effeminate; while the continent man masters the pulls by which most men are overcome.",
       "plain": "Resilience is built by standing firm through the ordinary discomforts and boredom where most people quit.",
       "application": "Stay with your focus block for two extra minutes past the first wave of boredom today.",
-      "focus_theme": "endurance_threshold"
+      "focus_theme": "endurance_threshold",
+      "day": 24,
+      "strategic_prompt": "Resilience is built by standing firm through the ordinary discomforts and boredom where most people quit. How will you apply this principle when friction arises today?",
+      "micro_action": "Stay with your focus block for two extra minutes past the first wave of boredom today.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "aristotle_025",
@@ -221,7 +404,14 @@
       "text": "He who is easily carried away is better than he who has the reasoned plan and does not abide by it; for the latter is conquered by a lesser passion, and does not act without previous deliberation.",
       "plain": "Making an elaborate plan and then talking yourself out of it weakens self-trust; keep your daily plan simple enough that you abide by it without fail.",
       "application": "Right-size today's commitment so there is zero negotiation when the cue arrives.",
-      "focus_theme": "plan_adherence"
+      "focus_theme": "plan_adherence",
+      "day": 25,
+      "strategic_prompt": "Making an elaborate plan and then talking yourself out of it weakens self-trust; keep your daily plan simple enough that you abide by it without fail. How will you apply this principle when friction arises today?",
+      "micro_action": "Right-size today's commitment so there is zero negotiation when the cue arrives.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_026",
@@ -229,7 +419,14 @@
       "text": "It is easier to change a habit than to change nature; for the very reason why habit is hard to change is that it is like nature, as Evenus says: 'I say that habit's but long practice, friend, And this becomes men's nature in the end.'",
       "plain": "Long practice is so powerful that a deeply grooved habit eventually operates as effortlessly as second nature.",
       "application": "Every day you log moves your habit closer to effortless second nature—complete today's rep to deepen the groove.",
-      "focus_theme": "second_nature"
+      "focus_theme": "second_nature",
+      "day": 26,
+      "strategic_prompt": "Long practice is so powerful that a deeply grooved habit eventually operates as effortlessly as second nature. How will you apply this principle when friction arises today?",
+      "micro_action": "Every day you log moves your habit closer to effortless second nature—complete today's rep to deepen the groove.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_027",
@@ -237,7 +434,14 @@
       "text": "Everyone loves his own handiwork more than he would be loved by it if it came alive; the reason of this is that existence is to all men a thing to be chosen and loved, and that we exist by activity (i.e. by living and acting), and that the handiwork is in a sense, the producer in activity.",
       "plain": "We naturally value and protect what we have invested our own effort into building—what behavioral science calls Streak Equity.",
       "application": "Look at your accumulated days in the ledger today as your own crafted handiwork, and add today's link with pride.",
-      "focus_theme": "handiwork_equity"
+      "focus_theme": "handiwork_equity",
+      "day": 27,
+      "strategic_prompt": "We naturally value and protect what we have invested our own effort into building—what behavioral science calls Streak Equity. How will you apply this principle when friction arises today?",
+      "micro_action": "Look at your accumulated days in the ledger today as your own crafted handiwork, and add today's link with pride.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "aristotle_028",
@@ -245,7 +449,14 @@
       "text": "The pleasure completes the activity, and the life which they desire; therefore with good reason do they aim at pleasure too, since for each it completes life, which is desirable.",
       "plain": "Genuine satisfaction is not a distraction from focused work; it is the natural completion that crowns a well-executed repetition.",
       "application": "Savor the immediate closure of tapping your check-in after finishing your work today.",
-      "focus_theme": "activity_closure"
+      "focus_theme": "activity_closure",
+      "day": 28,
+      "strategic_prompt": "Genuine satisfaction is not a distraction from focused work; it is the natural completion that crowns a well-executed repetition. How will you apply this principle when friction arises today?",
+      "micro_action": "Savor the immediate closure of tapping your check-in after finishing your work today.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "aristotle_029",
@@ -253,7 +464,14 @@
       "text": "An activity is intensified by its proper pleasure, since each class of things is better judged of and brought to precision by those who engage in the activity with pleasure; e.g. it is those who enjoy geometrical thinking that become geometers and grasp the various propositions better.",
       "plain": "Finding genuine enjoyment and craft in your practice sharpens your precision and accelerates your mastery.",
       "application": "Pair your habit window with an environment you genuinely enjoy—good light, a clean desk, or a favorite beverage—to strengthen the bond.",
-      "focus_theme": "reward_pairing"
+      "focus_theme": "reward_pairing",
+      "day": 29,
+      "strategic_prompt": "Finding genuine enjoyment and craft in your practice sharpens your precision and accelerates your mastery. How will you apply this principle when friction arises today?",
+      "micro_action": "Pair your habit window with an environment you genuinely enjoy—good light, a clean desk, or a favorite beverage—to strengthen the bond.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "aristotle_030",
@@ -261,7 +479,14 @@
       "text": "Now some think that we are made good by nature, others by habituation, others by teaching. The soul of the student must first have been cultivated by means of habits for noble joy and noble hatred, like earth which is to nourish the seed.",
       "plain": "Daily habits prepare the soil of your life so that every higher goal and insight can actually take root and grow.",
       "application": "Cultivate the soil today: complete your Primary Focus Habit and lock in your daily progress.",
-      "focus_theme": "cultivated_soil"
+      "focus_theme": "cultivated_soil",
+      "day": 30,
+      "strategic_prompt": "Daily habits prepare the soil of your life so that every higher goal and insight can actually take root and grow. How will you apply this principle when friction arises today?",
+      "micro_action": "Cultivate the soil today: complete your Primary Focus Habit and lock in your daily progress.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     }
   ]
 }

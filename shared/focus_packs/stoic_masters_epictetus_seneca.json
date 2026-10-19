@@ -1,4 +1,24 @@
 {
+  "pack_id": "stoic_masters_epictetus_seneca",
+  "id": "stoic_masters_epictetus_seneca",
+  "version": "2.0.0",
+  "volume": 1,
+  "title": "Sovereign Will: Epictetus & Seneca on Time, Agency, and Focus",
+  "subtitle": "30 Curated Pre-1931 Passages from Epictetus's Enchiridion & Seneca's Minor Dialogues with Plain Renderings & Daily Action Protocols",
+  "author": "Epictetus (c. 50–135 AD) & Lucius Annaeus Seneca (c. 4 BC–65 AD)",
+  "provenance": {
+    "vault_files": [
+      "sources/public_domain_classics/epictetus_enchiridion_higginson.txt",
+      "sources/public_domain_classics/seneca_dialogues_stewart_1889.txt"
+    ],
+    "sha256": {
+      "epictetus_enchiridion_higginson.txt": "15A09EBD7F782CB64390459A29555140D86FB07F168675D41088A717978C3E4F",
+      "seneca_dialogues_stewart_1889.txt": "FF92DDD84505A319D6346113900312315AB58E0FF46570FDB808C5995C5A483B"
+    },
+    "translators_referenced": "Thomas Wentworth Higginson (1865/1890), P.E. Matheson (1916), Aubrey Stewart (1889), Richard M. Gummere (1917–1925)",
+    "legal_status": "17 U.S.C. Public Domain — Pre-1931 Publication; plain & application layers are 100% original 2026 864zeros LLC authorship.",
+    "clean_room_verified": true
+  },
   "pack_meta": {
     "pack_id": "stoic_masters_epictetus_seneca",
     "title": "Sovereign Will: Epictetus & Seneca on Time, Agency, and Focus",
@@ -21,12 +41,13 @@
       "clean_room_verified": true
     },
     "entry_count": 30,
-    "schema_version": "1.0.0",
+    "schema_version": "2.0.0",
     "compatible_targets": [
       "ClearStreak Focus Packs",
       "864zeros Standalone Practice Books",
       "OIA Focus Extensions"
-    ]
+    ],
+    "volume": 1
   },
   "entries": [
     {
@@ -35,7 +56,14 @@
       "text": "There are things which are within our power, and there are things which are beyond our power. Within our power are opinion, aim, desire, aversion, and, in one word, whatever affairs are our own.",
       "plain": "Some things are up to you, and some things are not. Your choices, your attention, your effort, and how you respond are entirely your own.",
       "application": "Draw a hard boundary today: let go of one external outcome you cannot control and pour that energy into completing your Primary Focus Habit.",
-      "focus_theme": "agency_boundary"
+      "focus_theme": "agency_boundary",
+      "day": 1,
+      "strategic_prompt": "Some things are up to you, and some things are not. Your choices, your attention, your effort, and how you respond are entirely your own. How will you apply this principle when friction arises today?",
+      "micro_action": "Draw a hard boundary today: let go of one external outcome you cannot control and pour that energy into completing your Primary Focus Habit.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_002",
@@ -43,7 +71,14 @@
       "text": "Remember that desire demands the attainment of that of which you are desirous; and aversion demands the avoidance of that to which you are averse; that he who fails of the object of his desires is disappointed; and he who incurs the object of his aversion is wretched.",
       "plain": "When you tie your peace of mind to getting everything you want or avoiding every inconvenience, you set yourself up for constant frustration.",
       "application": "Shift your target today from an external result to a process metric you 100% control: showing up for your scheduled repetition.",
-      "focus_theme": "process_over_outcome"
+      "focus_theme": "process_over_outcome",
+      "day": 2,
+      "strategic_prompt": "When you tie your peace of mind to getting everything you want or avoiding every inconvenience, you set yourself up for constant frustration. How will you apply this principle when friction arises today?",
+      "micro_action": "Shift your target today from an external result to a process metric you 100% control: showing up for your scheduled repetition.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_003",
@@ -51,7 +86,14 @@
       "text": "Men are disturbed not by things, but by the views which they take of things.",
       "plain": "Events themselves do not throw you off course; it is the interpretation you attach to them that creates the turmoil.",
       "application": "When a sudden craving or frustration surfaces today, label it objectively as a passing mental weather pattern rather than an order you must obey.",
-      "focus_theme": "cognitive_distance"
+      "focus_theme": "cognitive_distance",
+      "day": 3,
+      "strategic_prompt": "Events themselves do not throw you off course; it is the interpretation you attach to them that creates the turmoil. How will you apply this principle when friction arises today?",
+      "micro_action": "When a sudden craving or frustration surfaces today, label it objectively as a passing mental weather pattern rather than an order you must obey.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "stoic_004",
@@ -59,7 +101,14 @@
       "text": "Demand not that events should happen as you wish; but wish them to happen as they do happen, and you will go on well.",
       "plain": "Stop demanding that the day unfold exactly according to your script; work skillfully with the day as it actually arrives, and you will move forward steadily.",
       "application": "If your normal routine window gets disrupted today, pivot without complaint to your Floor Rep so your continuity stays intact.",
-      "focus_theme": "adaptive_continuity"
+      "focus_theme": "adaptive_continuity",
+      "day": 4,
+      "strategic_prompt": "Stop demanding that the day unfold exactly according to your script; work skillfully with the day as it actually arrives, and you will move forward steadily. How will you apply this principle when friction arises today?",
+      "micro_action": "If your normal routine window gets disrupted today, pivot without complaint to your Floor Rep so your continuity stays intact.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_005",
@@ -67,7 +116,14 @@
       "text": "Upon every accident, remember to turn toward yourself and inquire what faculty you have for its use. If you encounter a handsome person, you will find self-restraint the faculty needed; if pain, then fortitude; if reviling, then patience.",
       "plain": "Whenever a challenge hits, turn inward and ask: which strength in me is this moment calling for—restraint, endurance, or patience?",
       "application": "Use your next moment of friction today as a live training cue to practice patience for 60 seconds before speaking or acting.",
-      "focus_theme": "response_selection"
+      "focus_theme": "response_selection",
+      "day": 5,
+      "strategic_prompt": "Whenever a challenge hits, turn inward and ask: which strength in me is this moment calling for—restraint, endurance, or patience? How will you apply this principle when friction arises today?",
+      "micro_action": "Use your next moment of friction today as a live training cue to practice patience for 60 seconds before speaking or acting.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_006",
@@ -75,7 +131,14 @@
       "text": "It is better that your servant should be bad than that you should be unhappy. Begin therefore from little things. Is a little oil spilt? A little wine stolen? Say to yourself, This is the price paid for apathy, for tranquillity, and nothing is to be had for nothing.",
       "plain": "Start practicing composure on small annoyances. When a minor plan goes sideways, tell yourself: 'Staying calm right now is the small price I pay for peace of mind.'",
       "application": "Treat the first minor annoyance of your day as the price of admission for your serenity, and refuse to let it derail your habit check-in.",
-      "focus_theme": "equanimity_pricing"
+      "focus_theme": "equanimity_pricing",
+      "day": 6,
+      "strategic_prompt": "Start practicing composure on small annoyances. When a minor plan goes sideways, tell yourself: 'Staying calm right now is the small price I pay for peace of mind.' How will you apply this principle when friction arises today?",
+      "micro_action": "Treat the first minor annoyance of your day as the price of admission for your serenity, and refuse to let it derail your habit check-in.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "stoic_007",
@@ -83,7 +146,14 @@
       "text": "Remember that you must behave as at a banquet. Is anything brought round to you? Put out your hand, and take a moderate share. Does it pass by you? Do not stop it. Is it not yet come? Do not stretch forth your desire toward it, but wait till it reaches you.",
       "plain": "Conduct yourself in life as if at a shared table: take a modest share of what is in front of you, let go of what passes by, and do not grasp impatiently at what hasn't arrived.",
       "application": "Practice deliberate pacing today: complete today's repetition cleanly without rushing ahead or overreaching into burnout.",
-      "focus_theme": "measured_temperance"
+      "focus_theme": "measured_temperance",
+      "day": 7,
+      "strategic_prompt": "Conduct yourself in life as if at a shared table: take a modest share of what is in front of you, let go of what passes by, and do not grasp impatiently at what hasn't arrived. How will you apply this principle when friction arises today?",
+      "micro_action": "Practice deliberate pacing today: complete today's repetition cleanly without rushing ahead or overreaching into burnout.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_008",
@@ -91,7 +161,14 @@
       "text": "You can be unconquerable, if you enter into no combat in which it is not in your own power to conquer.",
       "plain": "You remain undefeated when you refuse to enter contests whose outcome lies outside your own effort and character.",
       "application": "Compete only against your own yesterday ledger today: keep your focus on your personal consistency ratio.",
-      "focus_theme": "sovereign_metrics"
+      "focus_theme": "sovereign_metrics",
+      "day": 8,
+      "strategic_prompt": "You remain undefeated when you refuse to enter contests whose outcome lies outside your own effort and character. How will you apply this principle when friction arises today?",
+      "micro_action": "Compete only against your own yesterday ledger today: keep your focus on your personal consistency ratio.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_009",
@@ -99,7 +176,14 @@
       "text": "Remember that it is not he who gives abuse or blows who affronts, but the view we take of these things as insulting. When, therefore, anyone provokes you, be assured that it is your own opinion which provokes you. Try, therefore, in the first place, not to be hurried away with the appearance. For if you once gain time and respite, you will more easily command yourself.",
       "plain": "Provocation only works if you hand over your reaction immediately. Buy yourself a brief pause between the trigger and your response, and you regain full command of yourself.",
       "application": "Install a 10-second cooling pause whenever you feel a sudden pull to react or abandon your routine today.",
-      "focus_theme": "stimulus_pause"
+      "focus_theme": "stimulus_pause",
+      "day": 9,
+      "strategic_prompt": "Provocation only works if you hand over your reaction immediately. Buy yourself a brief pause between the trigger and your response, and you regain full command of yourself. How will you apply this principle when friction arises today?",
+      "micro_action": "Install a 10-second cooling pause whenever you feel a sudden pull to react or abandon your routine today.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "stoic_010",
@@ -107,7 +191,14 @@
       "text": "In every affair consider what precedes and what follows, and then undertake it. Otherwise you will begin with spirit, indeed, careless of the consequences, and when these are developed, you will shamefully desist.",
       "plain": "Before launching a commitment, count the real daily cost—both the preparation and the follow-through—so you don't start with a burst of excitement and quit as soon as friction appears.",
       "application": "Inspect your Primary Focus Habit's Action Friction today: set out your tools in advance so the real cost of starting is already paid.",
-      "focus_theme": "deliberate_preparation"
+      "focus_theme": "deliberate_preparation",
+      "day": 10,
+      "strategic_prompt": "Before launching a commitment, count the real daily cost—both the preparation and the follow-through—so you don't start with a burst of excitement and quit as soon as friction appears. How will you apply this principle when friction arises today?",
+      "micro_action": "Inspect your Primary Focus Habit's Action Friction today: set out your tools in advance so the real cost of starting is already paid.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_011",
@@ -115,7 +206,14 @@
       "text": "Immediately prescribe some character and form of conduct to yourself, which you may maintain both alone and in company.",
       "plain": "Define right now the clear standard of character you intend to uphold, whether you are completely alone or in a room full of people.",
       "application": "Honor your habit today when nobody is watching—building quiet Character Proof in your private ledger.",
-      "focus_theme": "private_integrity"
+      "focus_theme": "private_integrity",
+      "day": 11,
+      "strategic_prompt": "Define right now the clear standard of character you intend to uphold, whether you are completely alone or in a room full of people. How will you apply this principle when friction arises today?",
+      "micro_action": "Honor your habit today when nobody is watching—building quiet Character Proof in your private ledger.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_012",
@@ -123,7 +221,14 @@
       "text": "When you have received the impression of any pleasure, guard yourself, as in other things, against being carried away by it; but let the affair wait your leisure, and procure yourself some delay. Then bring to your mind both points of time,—that in which you shall enjoy the pleasure, and that in which you will repent and reproach yourself, after you have enjoyed it.",
       "plain": "When a fleeting temptation promises quick relief, delay your decision and compare two moments side by side: the brief moment of indulgence versus how you will feel an hour afterward—and compare that with the quiet pride of staying true to your path.",
       "application": "Use Epictetus's Two-Timeframe Check whenever an urge strikes today: wait five minutes and picture tomorrow morning's clean streak before acting.",
-      "focus_theme": "temporal_contrast"
+      "focus_theme": "temporal_contrast",
+      "day": 12,
+      "strategic_prompt": "When a fleeting temptation promises quick relief, delay your decision and compare two moments side by side: the brief moment of indulgence versus how you will feel an hour afterward—and compare that with the quiet pride of staying true to your path. How will you apply this principle when friction arises today?",
+      "micro_action": "Use Epictetus's Two-Timeframe Check whenever an urge strikes today: wait five minutes and picture tomorrow morning's clean streak before acting.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "stoic_013",
@@ -131,7 +236,14 @@
       "text": "As in walking you take care not to tread on a nail, or turn your foot, so likewise take care not to hurt the ruling faculty of your mind. And if we were to guard against this in every action, we should enter upon action more safely.",
       "plain": "Just as you watch your step so you don't twist an ankle or step on a nail, guard your clarity of mind in every choice you make today.",
       "application": "Protect your mental environment during your focus block: remove one obvious digital distraction from reach before you begin.",
-      "focus_theme": "cue_hygiene"
+      "focus_theme": "cue_hygiene",
+      "day": 13,
+      "strategic_prompt": "Just as you watch your step so you don't twist an ankle or step on a nail, guard your clarity of mind in every choice you make today. How will you apply this principle when friction arises today?",
+      "micro_action": "Protect your mental environment during your focus block: remove one obvious digital distraction from reach before you begin.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_014",
@@ -139,7 +251,14 @@
       "text": "Never call yourself a philosopher, nor talk a great deal among the unlearned about theorems, but act conformably to those theorems. Thus, at an entertainment, do not talk how persons ought to eat, but eat as you ought.",
       "plain": "Never boast about your system or lecture others on how to live; let your discipline speak through what you actually do.",
       "application": "Skip talking about your goals today and let your completed check-in be the only statement you need.",
-      "focus_theme": "quiet_execution"
+      "focus_theme": "quiet_execution",
+      "day": 14,
+      "strategic_prompt": "Never boast about your system or lecture others on how to live; let your discipline speak through what you actually do. How will you apply this principle when friction arises today?",
+      "micro_action": "Skip talking about your goals today and let your completed check-in be the only statement you need.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_015",
@@ -147,7 +266,14 @@
       "text": "How long, then, will you defer thinking yourself worthy of the noblest improvements, and in nothing transgressing the distinctions of reason? You have received the philosophical theorems, with which you ought to be conversant; and you have been conversant with them. What other master, then, do you wait for, to excuse this delay in self-reformation? You are no longer a boy, but a full-grown man. If, therefore, you will be negligent and slothful, and always add procrastination to procrastination, purpose to purpose, and fix day after day in which you will attend to yourself, you will insensibly continue without proficiency, and, living and dying, persevere in being one of the vulgar. This instant, then, think yourself worthy of living as a man grown up, and a proficient.",
       "plain": "How much longer will you put off demanding the best of yourself? You already know the principles. Stop waiting for a future teacher or a better week, piling excuse on top of excuse. Decide this very instant to live as someone in full command of their actions.",
       "application": "Break procrastination immediately: initiate a 60-Second Ignition rep of your Primary Focus Habit right now.",
-      "focus_theme": "zero_procrastination"
+      "focus_theme": "zero_procrastination",
+      "day": 15,
+      "strategic_prompt": "How much longer will you put off demanding the best of yourself? You already know the principles. Stop waiting for a future teacher or a better week, piling excuse on top of excuse. Decide this very instant to live as someone in full command of their actions. How will you apply this principle when friction arises today?",
+      "micro_action": "Break procrastination immediately: initiate a 60-Second Ignition rep of your Primary Focus Habit right now.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "stoic_016",
@@ -155,7 +281,14 @@
       "text": "It is not that we have a short space of time, but that we waste much of it. Life is long enough, and has been given in sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested.",
       "plain": "We are not given a short life; we simply waste a huge portion of it. Life is plenty long enough to accomplish meaningful work if we invest our hours deliberately.",
       "application": "Reclaim 15 minutes of drifted time today and invest it directly into your Primary Focus Habit.",
-      "focus_theme": "time_investment"
+      "focus_theme": "time_investment",
+      "day": 16,
+      "strategic_prompt": "We are not given a short life; we simply waste a huge portion of it. Life is plenty long enough to accomplish meaningful work if we invest our hours deliberately. How will you apply this principle when friction arises today?",
+      "micro_action": "Reclaim 15 minutes of drifted time today and invest it directly into your Primary Focus Habit.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_017",
@@ -163,7 +296,14 @@
       "text": "How small a part of our life is that which we really live! For all the rest of time is not life, but merely time.",
       "plain": "Without deliberate focus, only a tiny fraction of our hours are truly lived; the rest is just time slipping past on autopilot.",
       "application": "Turn autopilot off for one dedicated window today by locking your When-Then Trigger to a specific hour.",
-      "focus_theme": "deliberate_hours"
+      "focus_theme": "deliberate_hours",
+      "day": 17,
+      "strategic_prompt": "Without deliberate focus, only a tiny fraction of our hours are truly lived; the rest is just time slipping past on autopilot. How will you apply this principle when friction arises today?",
+      "micro_action": "Turn autopilot off for one dedicated window today by locking your When-Then Trigger to a specific hour.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_018",
@@ -171,7 +311,14 @@
       "text": "Men do not suffer anyone to seize their estates, and they rush to stones and arms if there is even the slightest dispute about the limit of their lands, yet they allow others to trespass upon their life—nay, they themselves even invite in those who will take possession of it.",
       "plain": "People fiercely guard their money and property against the smallest intrusion, yet they freely hand away their time and attention to anyone who asks for it.",
       "application": "Defend your habit time block today with the same firmness you would defend your front door.",
-      "focus_theme": "time_boundaries"
+      "focus_theme": "time_boundaries",
+      "day": 18,
+      "strategic_prompt": "People fiercely guard their money and property against the smallest intrusion, yet they freely hand away their time and attention to anyone who asks for it. How will you apply this principle when friction arises today?",
+      "micro_action": "Defend your habit time block today with the same firmness you would defend your front door.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "stoic_019",
@@ -179,7 +326,14 @@
       "text": "Nothing is less the business of the busy man than to live: there is nothing which is harder to learn.",
       "plain": "Being frantically busy is not the same as living purposefully; nothing takes more steady practice than learning how to direct your days intentionally.",
       "application": "Audit your schedule today: drop one low-value busywork task so your core daily practice gets unhurried attention.",
-      "focus_theme": "anti_busywork"
+      "focus_theme": "anti_busywork",
+      "day": 19,
+      "strategic_prompt": "Being frantically busy is not the same as living purposefully; nothing takes more steady practice than learning how to direct your days intentionally. How will you apply this principle when friction arises today?",
+      "micro_action": "Audit your schedule today: drop one low-value busywork task so your core daily practice gets unhurried attention.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_020",
@@ -187,7 +341,14 @@
       "text": "People are frugal in guarding their private property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy.",
       "plain": "We are careful with our budgets, yet careless with our hours—the one resource where healthy thrift actually matters most.",
       "application": "Be stingy with your first waking hour today: complete your morning anchor before giving your attention away to external feeds.",
-      "focus_theme": "morning_thrift"
+      "focus_theme": "morning_thrift",
+      "day": 20,
+      "strategic_prompt": "We are careful with our budgets, yet careless with our hours—the one resource where healthy thrift actually matters most. How will you apply this principle when friction arises today?",
+      "micro_action": "Be stingy with your first waking hour today: complete your morning anchor before giving your attention away to external feeds.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_021",
@@ -195,7 +356,14 @@
       "text": "The greatest hindrance to living is expectancy, which depends upon tomorrow and wastes today. You dispose of that which is in the hands of Fortune, and let go that which is in your own. Whither are you looking? Whither are you stretching forth? All that may be in the future is uncertain: live straightway!",
       "plain": "The biggest enemy of progress is waiting on tomorrow while letting today slip through your fingers. You gamble on a future you don't control and drop the present hour you actually hold. Live and act right now.",
       "application": "Refuse to say 'I will double up tomorrow.' Complete today's check-in before the day closes.",
-      "focus_theme": "present_execution"
+      "focus_theme": "present_execution",
+      "day": 21,
+      "strategic_prompt": "The biggest enemy of progress is waiting on tomorrow while letting today slip through your fingers. You gamble on a future you don't control and drop the present hour you actually hold. Live and act right now. How will you apply this principle when friction arises today?",
+      "micro_action": "Refuse to say 'I will double up tomorrow.' Complete today's check-in before the day closes.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "stoic_022",
@@ -203,7 +371,14 @@
       "text": "Life is divided into three periods—that which has been, that which is, that which will be. Of these the present time is short, the future is doubtful, the past is certain. For Fortune has lost all her rights over this last, and it cannot be brought back under any man's power.",
       "plain": "Time has three parts: the present is brief, the future is uncertain, and the past is locked in stone. Every day you complete with integrity becomes permanent Streak Equity that nothing can take away.",
       "application": "Bank today's repetition into your permanent ledger—once completed, today's win belongs to you forever.",
-      "focus_theme": "streak_equity"
+      "focus_theme": "streak_equity",
+      "day": 22,
+      "strategic_prompt": "Time has three parts: the present is brief, the future is uncertain, and the past is locked in stone. Every day you complete with integrity becomes permanent Streak Equity that nothing can take away. How will you apply this principle when friction arises today?",
+      "micro_action": "Bank today's repetition into your permanent ledger—once completed, today's win belongs to you forever.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_023",
@@ -211,7 +386,14 @@
       "text": "What we are seeking, then, is how the mind may always pursue a steady, unruffled course, may be pleased with itself, and look with pleasure upon its surroundings, and experience no interruption of this joy, but abide in a peaceful state without being ever either elated or depressed.",
       "plain": "Real peace of mind is a steady, unruffled cadence—moving forward without swinging between manic highs and discouraged lows.",
       "application": "Choose sustainable consistency over dramatic intensity today: aim for a steady, repeatable effort you can maintain all month.",
-      "focus_theme": "steady_cadence"
+      "focus_theme": "steady_cadence",
+      "day": 23,
+      "strategic_prompt": "Real peace of mind is a steady, unruffled cadence—moving forward without swinging between manic highs and discouraged lows. How will you apply this principle when friction arises today?",
+      "micro_action": "Choose sustainable consistency over dramatic intensity today: aim for a steady, repeatable effort you can maintain all month.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_024",
@@ -219,7 +401,14 @@
       "text": "We must examine ourselves first, next the business which we propose to transact, next those for whose sake or in whose company we transact it. Above all things it is necessary to appraise oneself Truly, because we generally think that we can do more than we are able.",
       "plain": "Before taking on new commitments, take an honest measure of your current bandwidth; most burnout comes from overestimating how many things we can overhaul at once.",
       "application": "Keep your habit load realistic today: one Primary Focus Habit in active growth, everything else in low-friction Maintenance Mode.",
-      "focus_theme": "bandwidth_realism"
+      "focus_theme": "bandwidth_realism",
+      "day": 24,
+      "strategic_prompt": "Before taking on new commitments, take an honest measure of your current bandwidth; most burnout comes from overestimating how many things we can overhaul at once. How will you apply this principle when friction arises today?",
+      "micro_action": "Keep your habit load realistic today: one Primary Focus Habit in active growth, everything else in low-friction Maintenance Mode.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     },
     {
       "id": "stoic_025",
@@ -227,7 +416,14 @@
       "text": "Let us learn to increase our self-control, to restrain luxury, to moderate ambition, to soften anger, to look upon poverty without prejudice, to practice thrift.",
       "plain": "Train yourself daily in the quiet fundamentals: steadier self-command, fewer distractions, tempered reactivity, and contentment with simple essentials.",
       "application": "Practice one deliberate act of restraint today alongside your primary habit check-in.",
-      "focus_theme": "self_command"
+      "focus_theme": "self_command",
+      "day": 25,
+      "strategic_prompt": "Train yourself daily in the quiet fundamentals: steadier self-command, fewer distractions, tempered reactivity, and contentment with simple essentials. How will you apply this principle when friction arises today?",
+      "micro_action": "Practice one deliberate act of restraint today alongside your primary habit check-in.",
+      "halt_triggers": [
+        "STRESSED",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_026",
@@ -235,7 +431,14 @@
       "text": "No condition is so bitter that a calm mind cannot find in it some consolation. Even a small plot of ground, if skilfully laid out, can be turned to many uses.",
       "plain": "Even a tight, crowded schedule has enough room for meaningful progress when you arrange it with calm skill.",
       "application": "When your calendar looks packed today, carve out a five-minute pocket and lock in your Floor Rep.",
-      "focus_theme": "pocket_rituals"
+      "focus_theme": "pocket_rituals",
+      "day": 26,
+      "strategic_prompt": "Even a tight, crowded schedule has enough room for meaningful progress when you arrange it with calm skill. How will you apply this principle when friction arises today?",
+      "micro_action": "When your calendar looks packed today, carve out a five-minute pocket and lock in your Floor Rep.",
+      "halt_triggers": [
+        "ANGRY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_027",
@@ -243,7 +446,14 @@
       "text": "Next, we must not allow ourselves to engage in labourious quests, or in tasks that are beyond our reach, or even in many tasks at once; for he who goes everywhere is nowhere.",
       "plain": "Stop chasing ten goals at the same time; the person who tries to be everywhere at once ends up nowhere.",
       "application": "Eliminate split attention during your habit window today—one task, one cue, one completed check-in.",
-      "focus_theme": "singular_focus"
+      "focus_theme": "singular_focus",
+      "day": 27,
+      "strategic_prompt": "Stop chasing ten goals at the same time; the person who tries to be everywhere at once ends up nowhere. How will you apply this principle when friction arises today?",
+      "micro_action": "Eliminate split attention during your habit window today—one task, one cue, one completed check-in.",
+      "halt_triggers": [
+        "TIRED",
+        "HOPELESS"
+      ]
     },
     {
       "id": "stoic_028",
@@ -251,7 +461,14 @@
       "text": "The mind must not be kept continuously at the same tension, but must be diverted to amusements. Socrates did not blush to play with little boys, Cato used to refresh his mind with wine after he had wearied it with application to affairs of state, and Scipio would move his triumphal and soldierly limbs to the sound of music.",
       "plain": "A sharp mind cannot stay under maximum tension around the clock; deliberate recovery and rest are what keep long-term discipline sustainable.",
       "application": "Pair your completed daily work with intentional, guilt-free rest tonight so tomorrow's energy is replenished.",
-      "focus_theme": "sustainable_recovery"
+      "focus_theme": "sustainable_recovery",
+      "day": 28,
+      "strategic_prompt": "A sharp mind cannot stay under maximum tension around the clock; deliberate recovery and rest are what keep long-term discipline sustainable. How will you apply this principle when friction arises today?",
+      "micro_action": "Pair your completed daily work with intentional, guilt-free rest tonight so tomorrow's energy is replenished.",
+      "halt_triggers": [
+        "LONELY",
+        "STRESSED"
+      ]
     },
     {
       "id": "stoic_029",
@@ -259,7 +476,14 @@
       "text": "No man is able to clear himself of difficulties unless he has been helped by them; you never know what you can do till you have been tried.",
       "plain": "Friction and difficulty are not proof that you are failing; they are the exact resistance training that reveals and builds your real strength.",
       "application": "When today's repetition feels heavy, recognize that a hard-day check-in builds twice the Character Proof of an easy-day check-in.",
-      "focus_theme": "resistance_growth"
+      "focus_theme": "resistance_growth",
+      "day": 29,
+      "strategic_prompt": "Friction and difficulty are not proof that you are failing; they are the exact resistance training that reveals and builds your real strength. How will you apply this principle when friction arises today?",
+      "micro_action": "When today's repetition feels heavy, recognize that a hard-day check-in builds twice the Character Proof of an easy-day check-in.",
+      "halt_triggers": [
+        "HUNGRY",
+        "TIRED"
+      ]
     },
     {
       "id": "stoic_030",
@@ -267,7 +491,14 @@
       "text": "Sextius had this habit, that when the day was spent, and he had betaken himself to his nightly rest, he would ask his mind: 'What bad habit of yours have you cured today? What vice have you resisted? In what respect are you better?'",
       "plain": "At the close of every evening, before going to sleep, conduct a quiet, honest review of your day: 'What harmful pattern did I resist today? Where did I show up better than yesterday?'",
       "application": "Run Seneca's Evening Ledger Review tonight: check off today's completed habit and note one specific moment where you held your standard.",
-      "focus_theme": "evening_ledger_review"
+      "focus_theme": "evening_ledger_review",
+      "day": 30,
+      "strategic_prompt": "At the close of every evening, before going to sleep, conduct a quiet, honest review of your day: 'What harmful pattern did I resist today? Where did I show up better than yesterday?' How will you apply this principle when friction arises today?",
+      "micro_action": "Run Seneca's Evening Ledger Review tonight: check off today's completed habit and note one specific moment where you held your standard.",
+      "halt_triggers": [
+        "HOPELESS",
+        "ANGRY"
+      ]
     }
   ]
 }
