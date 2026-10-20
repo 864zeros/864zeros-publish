@@ -1,0 +1,167 @@
+{
+  "manifest_version": "1.0.0",
+  "generated_at": "2026-10-20T00:26:00-04:00",
+  "brick_id": "BRK-MEDIA-003",
+  "authority": "864zeros Studio (864zeros-publish) — 13-Persona Neural Avatar & Voice Readiness Manifest",
+  "architects": [
+    "Orion Kai (LEAD-MEDIA)",
+    "Marcus Vance (DEV-BRICKS)",
+    "Zane Fields (CTO)",
+    "Kate Zefore (COS-001)"
+  ],
+  "compliance": {
+    "rule_001_billing_guardrail": "Uses included Edge Neural TTS + ZeroGPU A10G / Gemini AI Ultra OAuth ($0.00 metered)",
+    "rule_002_asset_preservation": "All source portraits are read-only locked; generated videos write strictly to new *-neural-*.mp4 paths",
+    "rule_003_pricing_quarantine": "All core scripts pass sanitizeCoreAvatarScript() to strip price figures"
+  },
+  "roster_avatars": [
+    {
+      "id": "kate-zefore",
+      "code": "COS-001",
+      "name": "Kate Zefore",
+      "title": "Chief of Staff & CEO Gate",
+      "homeRoom": "comms",
+      "sourcePortrait": "C:/dev/864zeros-publish/media/video/kate_avatar_rig/kate-portrait-warm.jpg",
+      "stagePortrait": "C:/dev/864zeros-pixel-office/public/kate-live-rig/kate-video-base.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-AvaMultilingualNeural", "geminiLiveVoice": "Aoede", "pitchHz": "+2Hz", "ratePct": "+2%" },
+      "diffusionEngine": "MoDA-A10G",
+      "liveVideoAssets": {
+        "idleMp4": "/kate-live-rig/kate-neural-idle.mp4",
+        "talkingMp4": "/kate-live-rig/kate-neural-talking.mp4"
+      },
+      "status": "LIVE_IN_PRODUCTION"
+    },
+    {
+      "id": "zane-fields",
+      "code": "CTO",
+      "name": "Zane Fields",
+      "title": "Chief Technology Officer",
+      "homeRoom": "desks",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/zane-fields.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-AndrewMultilingualNeural", "geminiLiveVoice": "Puck", "pitchHz": "+0Hz", "ratePct": "+3%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "audrey-chen",
+      "code": "CPO",
+      "name": "Audrey Chen",
+      "title": "Chief Product Officer",
+      "homeRoom": "whiteboard",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/audrey-chen.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-EmmaMultilingualNeural", "geminiLiveVoice": "Kore", "pitchHz": "+2Hz", "ratePct": "+2%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "prya-vance",
+      "code": "CMO",
+      "name": "Prya Vance",
+      "title": "Chief Marketing Officer & VP GTM",
+      "homeRoom": "desks",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/prya-vance.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-AriaNeural", "geminiLiveVoice": "Aoede", "pitchHz": "+3Hz", "ratePct": "+4%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "allegra-katz",
+      "code": "CFO",
+      "name": "Allegra Katz",
+      "title": "Chief Financial Officer",
+      "homeRoom": "reception",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/allegra-katz.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-JennyNeural", "geminiLiveVoice": "Kore", "pitchHz": "+1Hz", "ratePct": "+2%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "cole-mercer",
+      "code": "CLO",
+      "name": "Cole Mercer",
+      "title": "Chief Legal Officer",
+      "homeRoom": "library",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/cole-mercer.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-BrianMultilingualNeural", "geminiLiveVoice": "Charon", "pitchHz": "-1Hz", "ratePct": "+1%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "jalen-barkley",
+      "code": "LEAD-DATA-ARCH",
+      "name": "Jalen Barkley",
+      "title": "Chief Data Architect",
+      "homeRoom": "servers",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/jalen-barkley.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-GuyNeural", "geminiLiveVoice": "Fenrir", "pitchHz": "+0Hz", "ratePct": "+2%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "marcus-vance",
+      "code": "DEV-BRICKS",
+      "name": "Marcus Vance",
+      "title": "Systems & Brick Developer",
+      "homeRoom": "servers",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/marcus-vance.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-ChristopherNeural", "geminiLiveVoice": "Puck", "pitchHz": "+0Hz", "ratePct": "+3%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "orion-kai",
+      "code": "LEAD-MEDIA",
+      "name": "Orion Kai",
+      "title": "Graphics & Media Lead",
+      "homeRoom": "whiteboard",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/orion-kai.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-EricNeural", "geminiLiveVoice": "Puck", "pitchHz": "+1Hz", "ratePct": "+2%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "elena-rostova",
+      "code": "DATA-SEC-QA",
+      "name": "Elena Rostova",
+      "title": "Security & QA Lead",
+      "homeRoom": "servers",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/elena-rostova.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-GB-SoniaNeural", "geminiLiveVoice": "Kore", "pitchHz": "+1Hz", "ratePct": "+2%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "sloane-sterling",
+      "code": "VP-STUDIO",
+      "name": "Sloane Sterling",
+      "title": "VP, Head of 864zeros Studio",
+      "homeRoom": "library",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/sloane-sterling.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-MichelleNeural", "geminiLiveVoice": "Aoede", "pitchHz": "+2Hz", "ratePct": "+2%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "julian-thorne",
+      "code": "LEAD-CONTENT",
+      "name": "Julian Thorne",
+      "title": "Content Publishing Lead",
+      "homeRoom": "library",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/julian-thorne.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-GB-RyanNeural", "geminiLiveVoice": "Charon", "pitchHz": "+0Hz", "ratePct": "+1%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    },
+    {
+      "id": "vera-lindqvist",
+      "code": "STUDIO-LEGAL",
+      "name": "Vera Lindqvist",
+      "title": "Studio IP & Provenance Counsel",
+      "homeRoom": "library",
+      "sourcePortrait": "C:/dev/864zeros-web/meet-the-team/img/vera-lindqvist.jpg",
+      "voiceSpec": { "engine": "edge-tts", "voiceModel": "en-US-SteffanNeural", "geminiLiveVoice": "Kore", "pitchHz": "+2Hz", "ratePct": "+1%" },
+      "diffusionEngine": "MoDA-A10G",
+      "status": "READY_FOR_SYNTHESIS"
+    }
+  ]
+}

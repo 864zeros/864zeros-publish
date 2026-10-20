@@ -1,0 +1,693 @@
+{
+  "generated_at": "2026-10-20T04:27:39.678Z",
+  "brick_id": "BRK-MEDIA-003",
+  "total_personas_ready": 13,
+  "kate_morning_brief_job": {
+    "brickId": "BRK-MEDIA-003",
+    "version": "1.0.0",
+    "generator": "864zeros/agent-neural-avatar-pipeline",
+    "avatarId": "kate-zefore",
+    "compliance": {
+      "rule001Pass": true,
+      "rule002Pass": true,
+      "rule003Pass": true
+    },
+    "sanitizedScript": "Good morning, Jeff — Kate here. All six overnight workstreams are complete, the 13-person neural avatar manifest is locked, and our 18 Google Workspace scenario storyboards and Episode 1 podcast script are vaulted in the Corporate Library.",
+    "voiceSpec": {
+      "engine": "edge-tts",
+      "voiceModel": "en-US-AvaMultilingualNeural",
+      "pitchHz": "+2Hz",
+      "ratePct": "+2%",
+      "targetBps": "192k",
+      "sampleRateHz": 44100
+    },
+    "diffusionSpec": {
+      "engine": "MoDA-A10G",
+      "spaceId": "multimodalart/MoDA-fast-talking-head",
+      "apiEndpoint": "/generate_motion",
+      "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+      "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+      "cfgScale": 1.2,
+      "emotion": "None",
+      "resolution": {
+        "width": 640,
+        "height": 540,
+        "fps": 25
+      },
+      "zeroCutoutLayers": true,
+      "identityDrift": "ZERO (Single-Portrait Grounded)"
+    },
+    "artifacts": {
+      "audioMp3": "public/kate-live-rig/kate-zefore-neural-voice.mp3",
+      "rawDiffusionMp4": "public/kate-live-rig/kate-zefore-neural-raw.mp4",
+      "talkingMp4": "public/kate-live-rig/kate-zefore-neural-talking.mp4",
+      "idleMp4": "public/kate-live-rig/kate-zefore-neural-idle.mp4"
+    },
+    "idleInterpolationPlan": {
+      "sourceFrameCount": 13,
+      "interpFactor": 3,
+      "pingPongFrameCount": 144,
+      "durationSec": 5.76
+    },
+    "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"kate-zefore\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"kate-zefore-idle-video\" src=\"/kate-live-rig/kate-zefore-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"kate-zefore-talking-video\" src=\"/kate-live-rig/kate-zefore-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+  },
+  "roster_jobs": [
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "kate-zefore",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Good morning, Jeff — Kate here. All six overnight workstreams are complete, the 13-person neural avatar manifest is locked, and our 18 Google Workspace scenario storyboards and Episode 1 podcast script are vaulted in the Corporate Library.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-AvaMultilingualNeural",
+        "pitchHz": "+2Hz",
+        "ratePct": "+2%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/kate-zefore-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/kate-zefore-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/kate-zefore-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/kate-zefore-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"kate-zefore\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"kate-zefore-idle-video\" src=\"/kate-live-rig/kate-zefore-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"kate-zefore-talking-video\" src=\"/kate-live-rig/kate-zefore-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "zane-fields",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Zane Fields (CTO) reporting ready on station desks.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-AndrewMultilingualNeural",
+        "pitchHz": "+0Hz",
+        "ratePct": "+3%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/zane-fields-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/zane-fields-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/zane-fields-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/zane-fields-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"zane-fields\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"zane-fields-idle-video\" src=\"/kate-live-rig/zane-fields-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"zane-fields-talking-video\" src=\"/kate-live-rig/zane-fields-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "audrey-chen",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Audrey Chen (CPO) reporting ready on station whiteboard.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-EmmaMultilingualNeural",
+        "pitchHz": "+2Hz",
+        "ratePct": "+2%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/audrey-chen-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/audrey-chen-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/audrey-chen-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/audrey-chen-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"audrey-chen\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"audrey-chen-idle-video\" src=\"/kate-live-rig/audrey-chen-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"audrey-chen-talking-video\" src=\"/kate-live-rig/audrey-chen-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "prya-vance",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Prya Vance (CMO) reporting ready on station desks.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-AriaNeural",
+        "pitchHz": "+3Hz",
+        "ratePct": "+4%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/prya-vance-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/prya-vance-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/prya-vance-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/prya-vance-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"prya-vance\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"prya-vance-idle-video\" src=\"/kate-live-rig/prya-vance-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"prya-vance-talking-video\" src=\"/kate-live-rig/prya-vance-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "allegra-katz",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Allegra Katz (CFO) reporting ready on station reception.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-JennyNeural",
+        "pitchHz": "+1Hz",
+        "ratePct": "+2%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/allegra-katz-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/allegra-katz-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/allegra-katz-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/allegra-katz-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"allegra-katz\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"allegra-katz-idle-video\" src=\"/kate-live-rig/allegra-katz-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"allegra-katz-talking-video\" src=\"/kate-live-rig/allegra-katz-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "cole-mercer",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Cole Mercer (CLO) reporting ready on station library.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-BrianMultilingualNeural",
+        "pitchHz": "-1Hz",
+        "ratePct": "+1%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/cole-mercer-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/cole-mercer-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/cole-mercer-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/cole-mercer-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"cole-mercer\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"cole-mercer-idle-video\" src=\"/kate-live-rig/cole-mercer-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"cole-mercer-talking-video\" src=\"/kate-live-rig/cole-mercer-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "jalen-barkley",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Jalen Barkley (LEAD-DATA-ARCH) reporting ready on station servers.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-GuyNeural",
+        "pitchHz": "+0Hz",
+        "ratePct": "+2%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/jalen-barkley-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/jalen-barkley-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/jalen-barkley-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/jalen-barkley-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"jalen-barkley\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"jalen-barkley-idle-video\" src=\"/kate-live-rig/jalen-barkley-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"jalen-barkley-talking-video\" src=\"/kate-live-rig/jalen-barkley-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "marcus-vance",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Marcus Vance (DEV-BRICKS) reporting ready on station servers.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-ChristopherNeural",
+        "pitchHz": "+0Hz",
+        "ratePct": "+3%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/marcus-vance-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/marcus-vance-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/marcus-vance-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/marcus-vance-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"marcus-vance\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"marcus-vance-idle-video\" src=\"/kate-live-rig/marcus-vance-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"marcus-vance-talking-video\" src=\"/kate-live-rig/marcus-vance-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "orion-kai",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Orion Kai (LEAD-MEDIA) reporting ready on station whiteboard.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-EricNeural",
+        "pitchHz": "+1Hz",
+        "ratePct": "+2%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/orion-kai-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/orion-kai-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/orion-kai-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/orion-kai-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"orion-kai\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"orion-kai-idle-video\" src=\"/kate-live-rig/orion-kai-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"orion-kai-talking-video\" src=\"/kate-live-rig/orion-kai-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "elena-rostova",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Elena Rostova (DATA-SEC-QA) reporting ready on station servers.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-GB-SoniaNeural",
+        "pitchHz": "+1Hz",
+        "ratePct": "+2%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/elena-rostova-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/elena-rostova-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/elena-rostova-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/elena-rostova-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"elena-rostova\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"elena-rostova-idle-video\" src=\"/kate-live-rig/elena-rostova-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"elena-rostova-talking-video\" src=\"/kate-live-rig/elena-rostova-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "sloane-sterling",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Sloane Sterling (VP-STUDIO) reporting ready on station library.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-MichelleNeural",
+        "pitchHz": "+2Hz",
+        "ratePct": "+2%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/sloane-sterling-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/sloane-sterling-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/sloane-sterling-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/sloane-sterling-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"sloane-sterling\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"sloane-sterling-idle-video\" src=\"/kate-live-rig/sloane-sterling-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"sloane-sterling-talking-video\" src=\"/kate-live-rig/sloane-sterling-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "julian-thorne",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Julian Thorne (LEAD-CONTENT) reporting ready on station library.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-GB-RyanNeural",
+        "pitchHz": "+0Hz",
+        "ratePct": "+1%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/julian-thorne-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/julian-thorne-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/julian-thorne-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/julian-thorne-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"julian-thorne\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"julian-thorne-idle-video\" src=\"/kate-live-rig/julian-thorne-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"julian-thorne-talking-video\" src=\"/kate-live-rig/julian-thorne-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    },
+    {
+      "brickId": "BRK-MEDIA-003",
+      "version": "1.0.0",
+      "generator": "864zeros/agent-neural-avatar-pipeline",
+      "avatarId": "vera-lindqvist",
+      "compliance": {
+        "rule001Pass": true,
+        "rule002Pass": true,
+        "rule003Pass": true
+      },
+      "sanitizedScript": "Vera Lindqvist (STUDIO-LEGAL) reporting ready on station library.",
+      "voiceSpec": {
+        "engine": "edge-tts",
+        "voiceModel": "en-US-SteffanNeural",
+        "pitchHz": "+2Hz",
+        "ratePct": "+1%",
+        "targetBps": "192k",
+        "sampleRateHz": 44100
+      },
+      "diffusionSpec": {
+        "engine": "MoDA-A10G",
+        "spaceId": "multimodalart/MoDA-fast-talking-head",
+        "apiEndpoint": "/generate_motion",
+        "gpuTier": "NVIDIA A10G (ZeroGPU 24GB)",
+        "architecture": "Multi-modal Diffusion Architecture (Audio-to-Motion + Full-Head & Landmark Synthesis)",
+        "cfgScale": 1.2,
+        "emotion": "None",
+        "resolution": {
+          "width": 640,
+          "height": 540,
+          "fps": 25
+        },
+        "zeroCutoutLayers": true,
+        "identityDrift": "ZERO (Single-Portrait Grounded)"
+      },
+      "artifacts": {
+        "audioMp3": "public/kate-live-rig/vera-lindqvist-neural-voice.mp3",
+        "rawDiffusionMp4": "public/kate-live-rig/vera-lindqvist-neural-raw.mp4",
+        "talkingMp4": "public/kate-live-rig/vera-lindqvist-neural-talking.mp4",
+        "idleMp4": "public/kate-live-rig/vera-lindqvist-neural-idle.mp4"
+      },
+      "idleInterpolationPlan": {
+        "sourceFrameCount": 13,
+        "interpFactor": 3,
+        "pingPongFrameCount": 144,
+        "durationSec": 5.76
+      },
+      "dualVideoStageHtml": "<div class=\"neural-avatar-stage\" data-avatar-id=\"vera-lindqvist\" style=\"position:relative;width:640px;height:540px;overflow:hidden;border-radius:18px;background:#0b1120;\">\n  <video id=\"vera-lindqvist-idle-video\" src=\"/kate-live-rig/vera-lindqvist-neural-idle.mp4\" autoplay loop muted playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;\"></video>\n  <video id=\"vera-lindqvist-talking-video\" src=\"/kate-live-rig/vera-lindqvist-neural-talking.mp4\" preload=\"auto\" playsinline style=\"position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 0.16s ease;\"></video>\n</div>"
+    }
+  ]
+}
