@@ -72,6 +72,17 @@ const server = http.createServer((req, res) => {
   const urlObj = new URL(req.url, `http://${req.headers.host || '127.0.0.1'}`);
   const pathname = urlObj.pathname;
 
+  // API Route: GET /api/tunnel
+  if (pathname === '/api/tunnel' && req.method === 'GET') {
+    res.writeHead(200, {
+      'Content-Type': 'application/json; charset=utf-8',
+      'Access-Control-Allow-Origin': '*',
+      'Cache-Control': 'no-store, no-cache, must-revalidate, max-age=0'
+    });
+    res.end(JSON.stringify({ ok: Boolean(activeBriefingUrl), url: activeBriefingUrl }));
+    return;
+  }
+
   // API Route: GET /api/todos
   if (pathname === '/api/todos' && req.method === 'GET') {
     const todos = getTodos();
@@ -145,6 +156,9 @@ const server = http.createServer((req, res) => {
   });
 });
 
+let activeBriefingUrl = null;
+const LIVE_URL_FILE = 'C:\\dev\\cli2cli-aoe\\IGNORE\\KATE_LIVE_URL.txt';
+
 server.listen(PORT, '127.0.0.1', () => {
   console.log(`[Local Server] Serving media/video at http://127.0.0.1:${PORT}`);
   startTunnel();
@@ -170,6 +184,11 @@ function startTunnel() {
     if (match && !tunnelUrl) {
       tunnelUrl = match[0];
       const briefingUrl = `${tunnelUrl}/kate_live_call.html`;
+      activeBriefingUrl = briefingUrl;
+      try {
+        fs.mkdirSync(path.dirname(LIVE_URL_FILE), { recursive: true });
+        fs.writeFileSync(LIVE_URL_FILE, briefingUrl, 'utf-8');
+      } catch (e) {}
       const qrImageUrl = `https://api.qrserver.com/v1/create-qr-code/?size=350x350&data=${encodeURIComponent(briefingUrl)}`;
 
       console.log('\n' + '='.repeat(68));
