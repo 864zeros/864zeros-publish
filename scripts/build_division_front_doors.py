@@ -1390,9 +1390,9 @@ def build_company_division_hub_html(studio_data: dict, div_tels: dict) -> str:
         <div>
           <div class="div-head">
             <div>
-              <div class="div-code">DIVISION 1 · LLC-DIV-1-INTELLIGENCE/overview.html</div>
-              <div class="div-title">Market Intelligence, Vulture Strike &amp; Scout</div>
-              <div class="div-lead">Lead: <strong>Audrey Chen (`CPO`)</strong> · Jalen Barkley (`LEAD-DATA-ARCH`)</div>
+              <div class="div-code">DIVISION 1 · LLC-DIV-1-INTELLIGENCE/overview.html + D-UTA</div>
+              <div class="div-title">Market Intelligence, Vulture Strike &amp; Unified Telemetry (`D-UTA`)</div>
+              <div class="div-lead">Lead: <strong>Audrey Chen (`CPO`)</strong> · <strong>Jalen Barkley (`LEAD-DATA-ARCH` · `D-UTA` Head)</strong></div>
               <div class="avatars-row">
                 <img class="mini-avatar" src="file:///C:/dev/864zeros-web/meet-the-team/img/audrey-chen.jpg" title="Audrey Chen" />
                 <img class="mini-avatar" src="file:///C:/dev/864zeros-web/meet-the-team/img/jalen-barkley.jpg" title="Jalen Barkley" />
@@ -1401,9 +1401,9 @@ def build_company_division_hub_html(studio_data: dict, div_tels: dict) -> str:
             <span style="font-size:12px; color:#7dd3fc; font-weight:700;">{d1_c:,} files ({fmt_bytes(d1_b)})</span>
           </div>
           <div class="pillar-list" style="margin-top:14px;">
-            <div><strong>1. Asset Storage:</strong> <code>LLC-DIV-1-INTELLIGENCE/</code> (`strikes/`, `briefs/`, `recon/`, `scan_results/`) + <code>864zero-scout</code>.</div>
-            <div><strong>2. Functionality Growth:</strong> Vulture OS v2 review harvester, Rule of 40 opportunity scorer, autonomous distribution scout.</div>
-            <div><strong>3. Media &amp; Content:</strong> GWS Add-ons Vulture Strike + Pulse + Veo Financial Plan, Zernio Master Dossier, ChoiceGuard Dossier.</div>
+            <div><strong>1. Asset Storage:</strong> <code>LLC-DIV-1-INTELLIGENCE/</code> (`strikes/`, `briefs/`, `recon/`, `scan_results/`), <code>864zero-scout</code>, + <code>864zeros-analytics</code> (<code>D-UTA</code> Department Vault).</div>
+            <div><strong>2. Functionality Growth:</strong> Vulture OS v2 review harvester, Rule of 40 opportunity scorer, <strong>YouTube Analytics API v2 + Data v3 ETL</strong> (<code>sync_youtube_analytics.mjs</code>), Cloudflare DNS telemetry.</div>
+            <div><strong>3. Media &amp; Content:</strong> 27-Video YouTube Telemetry Report (<code>YOUTUBE_TELEMETRY_REPORT.md</code>), GWS Add-ons Vulture Strike + Pulse + Veo Financial Plan, ChoiceGuard Dossier.</div>
           </div>
         </div>
         <a class="btn" href="file:///C:/dev/864zeros-llc/LLC-DIV-1-INTELLIGENCE/overview.html">🚪 Enter Division 1 Front Door (`DIV-1/overview.html`) ↗</a>

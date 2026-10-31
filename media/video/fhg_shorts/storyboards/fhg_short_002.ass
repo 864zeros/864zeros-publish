@@ -1,0 +1,132 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: FHG_Short,Montserrat Black,74,&H00F0FFFF&,&H0000BFFF&,&H26000000&,&H26000000&,-1,0,0,0,100,100,0,0,1,4,6,2,48,192,820,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:00.04,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}The{\c&H00F0FFFF&} word meek
+Dialogue: 0,0:00:00.04,0:00:00.23,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}The {\c&H0000BFFF&}word{\c&H00F0FFFF&} meek
+Dialogue: 0,0:00:00.23,0:00:00.42,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}The word {\c&H0000BFFF&}meek{\c&H00F0FFFF&}
+Dialogue: 0,0:00:00.42,0:00:00.48,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}in{\c&H00F0FFFF&} the Bible
+Dialogue: 0,0:00:00.48,0:00:00.54,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}in {\c&H0000BFFF&}the{\c&H00F0FFFF&} Bible
+Dialogue: 0,0:00:00.54,0:00:01.04,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}in the {\c&H0000BFFF&}Bible{\c&H00F0FFFF&}
+Dialogue: 0,0:00:01.04,0:00:01.17,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}does{\c&H00F0FFFF&} not mean
+Dialogue: 0,0:00:01.17,0:00:01.46,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}does {\c&H0000BFFF&}not{\c&H00F0FFFF&} mean
+Dialogue: 0,0:00:01.46,0:00:01.67,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}does not {\c&H0000BFFF&}mean{\c&H00F0FFFF&}
+Dialogue: 0,0:00:01.67,0:00:02.38,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}weak.{\c&H00F0FFFF&} Modern
+Dialogue: 0,0:00:02.38,0:00:02.66,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}weak. {\c&H0000BFFF&}Modern{\c&H00F0FFFF&}
+Dialogue: 0,0:00:02.66,0:00:03.12,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}culture{\c&H00F0FFFF&} hears
+Dialogue: 0,0:00:03.12,0:00:03.40,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}culture {\c&H0000BFFF&}hears{\c&H00F0FFFF&}
+Dialogue: 0,0:00:03.40,0:00:04.29,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}meekness{\c&H00F0FFFF&} and
+Dialogue: 0,0:00:04.29,0:00:04.47,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}meekness {\c&H0000BFFF&}and{\c&H00F0FFFF&}
+Dialogue: 0,0:00:04.47,0:00:04.89,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}pictures{\c&H00F0FFFF&} someone
+Dialogue: 0,0:00:04.89,0:00:05.12,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}pictures {\c&H0000BFFF&}someone{\c&H00F0FFFF&}
+Dialogue: 0,0:00:05.12,0:00:05.99,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}fragile,{\c&H00F0FFFF&} passive,
+Dialogue: 0,0:00:05.99,0:00:06.87,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}fragile, {\c&H0000BFFF&}passive,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:06.87,0:00:07.11,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}or{\c&H00F0FFFF&} easily pushed
+Dialogue: 0,0:00:07.11,0:00:07.47,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}or {\c&H0000BFFF&}easily{\c&H00F0FFFF&} pushed
+Dialogue: 0,0:00:07.47,0:00:07.74,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}or easily {\c&H0000BFFF&}pushed{\c&H00F0FFFF&}
+Dialogue: 0,0:00:07.74,0:00:08.17,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}around.{\c&H00F0FFFF&}
+Dialogue: 0,0:00:08.53,0:00:08.61,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}That{\c&H00F0FFFF&} is the
+Dialogue: 0,0:00:08.61,0:00:08.68,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}That {\c&H0000BFFF&}is{\c&H00F0FFFF&} the
+Dialogue: 0,0:00:08.68,0:00:08.80,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}That is {\c&H0000BFFF&}the{\c&H00F0FFFF&}
+Dialogue: 0,0:00:08.74,0:00:09.29,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}exact{\c&H00F0FFFF&} opposite of
+Dialogue: 0,0:00:09.29,0:00:09.86,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}exact {\c&H0000BFFF&}opposite{\c&H00F0FFFF&} of
+Dialogue: 0,0:00:09.86,0:00:09.99,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}exact opposite {\c&H0000BFFF&}of{\c&H00F0FFFF&}
+Dialogue: 0,0:00:09.99,0:00:10.22,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}what{\c&H00F0FFFF&} Jesus said
+Dialogue: 0,0:00:10.22,0:00:10.88,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}what {\c&H0000BFFF&}Jesus{\c&H00F0FFFF&} said
+Dialogue: 0,0:00:10.88,0:00:11.16,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}what Jesus {\c&H0000BFFF&}said{\c&H00F0FFFF&}
+Dialogue: 0,0:00:11.16,0:00:11.23,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}on{\c&H00F0FFFF&} the
+Dialogue: 0,0:00:11.23,0:00:11.35,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}on {\c&H0000BFFF&}the{\c&H00F0FFFF&}
+Dialogue: 0,0:00:11.27,0:00:12.27,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}mountainside.{\c&H00F0FFFF&} When
+Dialogue: 0,0:00:12.27,0:00:12.44,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}mountainside. {\c&H0000BFFF&}When{\c&H00F0FFFF&}
+Dialogue: 0,0:00:12.44,0:00:13.13,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Jesus{\c&H00F0FFFF&} said in
+Dialogue: 0,0:00:13.13,0:00:13.38,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Jesus {\c&H0000BFFF&}said{\c&H00F0FFFF&} in
+Dialogue: 0,0:00:13.38,0:00:13.50,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Jesus said {\c&H0000BFFF&}in{\c&H00F0FFFF&}
+Dialogue: 0,0:00:13.47,0:00:14.09,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Matthew{\c&H00F0FFFF&} chapter 5
+Dialogue: 0,0:00:14.09,0:00:15.18,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Matthew {\c&H0000BFFF&}chapter 5{\c&H00F0FFFF&}
+Dialogue: 0,0:00:15.18,0:00:15.40,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}verse{\c&H00F0FFFF&} 5,
+Dialogue: 0,0:00:15.40,0:00:15.82,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}verse {\c&H0000BFFF&}5,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:16.23,0:00:16.77,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Blessed{\c&H00F0FFFF&} are the
+Dialogue: 0,0:00:16.77,0:00:16.90,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Blessed {\c&H0000BFFF&}are{\c&H00F0FFFF&} the
+Dialogue: 0,0:00:16.90,0:00:17.02,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Blessed are {\c&H0000BFFF&}the{\c&H00F0FFFF&}
+Dialogue: 0,0:00:16.96,0:00:17.62,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}meek,{\c&H00F0FFFF&} for they
+Dialogue: 0,0:00:17.62,0:00:17.72,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}meek, {\c&H0000BFFF&}for{\c&H00F0FFFF&} they
+Dialogue: 0,0:00:17.72,0:00:17.86,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}meek, for {\c&H0000BFFF&}they{\c&H00F0FFFF&}
+Dialogue: 0,0:00:17.86,0:00:18.12,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}shall{\c&H00F0FFFF&} inherit the
+Dialogue: 0,0:00:18.12,0:00:18.52,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}shall {\c&H0000BFFF&}inherit{\c&H00F0FFFF&} the
+Dialogue: 0,0:00:18.52,0:00:18.64,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}shall inherit {\c&H0000BFFF&}the{\c&H00F0FFFF&}
+Dialogue: 0,0:00:18.61,0:00:18.97,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}earth,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:19.36,0:00:19.44,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}the{\c&H00F0FFFF&} Greek word
+Dialogue: 0,0:00:19.44,0:00:19.68,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the {\c&H0000BFFF&}Greek{\c&H00F0FFFF&} word
+Dialogue: 0,0:00:19.68,0:00:19.90,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the Greek {\c&H0000BFFF&}word{\c&H00F0FFFF&}
+Dialogue: 0,0:00:19.90,0:00:19.97,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}He{\c&H00F0FFFF&} used was
+Dialogue: 0,0:00:19.97,0:00:20.25,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}He {\c&H0000BFFF&}used{\c&H00F0FFFF&} was
+Dialogue: 0,0:00:20.25,0:00:20.37,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}He used {\c&H0000BFFF&}was{\c&H00F0FFFF&}
+Dialogue: 0,0:00:20.37,0:00:21.04,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}praus{\c&H00F0FFFF&}
+Dialogue: 0,0:00:21.40,0:00:21.47,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}the{\c&H00F0FFFF&} military term
+Dialogue: 0,0:00:21.47,0:00:21.94,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the {\c&H0000BFFF&}military{\c&H00F0FFFF&} term
+Dialogue: 0,0:00:21.94,0:00:22.17,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the military {\c&H0000BFFF&}term{\c&H00F0FFFF&}
+Dialogue: 0,0:00:22.17,0:00:22.31,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}for{\c&H00F0FFFF&} a warhorse
+Dialogue: 0,0:00:22.31,0:00:22.35,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}for {\c&H0000BFFF&}a{\c&H00F0FFFF&} warhorse
+Dialogue: 0,0:00:22.35,0:00:22.99,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}for a {\c&H0000BFFF&}warhorse{\c&H00F0FFFF&}
+Dialogue: 0,0:00:22.99,0:00:23.38,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}trained{\c&H00F0FFFF&} to hold
+Dialogue: 0,0:00:23.38,0:00:23.43,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}trained {\c&H0000BFFF&}to{\c&H00F0FFFF&} hold
+Dialogue: 0,0:00:23.43,0:00:23.68,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}trained to {\c&H0000BFFF&}hold{\c&H00F0FFFF&}
+Dialogue: 0,0:00:23.68,0:00:24.10,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}steady{\c&H00F0FFFF&} in battle,
+Dialogue: 0,0:00:24.10,0:00:24.19,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}steady {\c&H0000BFFF&}in{\c&H00F0FFFF&} battle,
+Dialogue: 0,0:00:24.19,0:00:24.63,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}steady in {\c&H0000BFFF&}battle,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:25.08,0:00:25.16,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}or{\c&H00F0FFFF&} a sword
+Dialogue: 0,0:00:25.16,0:00:25.21,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}or {\c&H0000BFFF&}a{\c&H00F0FFFF&} sword
+Dialogue: 0,0:00:25.21,0:00:25.62,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}or a {\c&H0000BFFF&}sword{\c&H00F0FFFF&}
+Dialogue: 0,0:00:25.62,0:00:25.97,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}rested{\c&H00F0FFFF&} inside its
+Dialogue: 0,0:00:25.97,0:00:26.43,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}rested {\c&H0000BFFF&}inside{\c&H00F0FFFF&} its
+Dialogue: 0,0:00:26.43,0:00:26.55,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}rested inside {\c&H0000BFFF&}its{\c&H00F0FFFF&}
+Dialogue: 0,0:00:26.52,0:00:26.93,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}sheath.{\c&H00F0FFFF&} Biblical
+Dialogue: 0,0:00:26.93,0:00:27.26,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}sheath. {\c&H0000BFFF&}Biblical{\c&H00F0FFFF&}
+Dialogue: 0,0:00:27.26,0:00:27.87,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}meekness{\c&H00F0FFFF&} is not
+Dialogue: 0,0:00:27.87,0:00:27.99,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}meekness {\c&H0000BFFF&}is{\c&H00F0FFFF&} not
+Dialogue: 0,0:00:27.99,0:00:28.29,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}meekness is {\c&H0000BFFF&}not{\c&H00F0FFFF&}
+Dialogue: 0,0:00:28.29,0:00:28.47,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}the{\c&H00F0FFFF&} absence of
+Dialogue: 0,0:00:28.47,0:00:28.89,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the {\c&H0000BFFF&}absence{\c&H00F0FFFF&} of
+Dialogue: 0,0:00:28.89,0:00:29.01,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the absence {\c&H0000BFFF&}of{\c&H00F0FFFF&}
+Dialogue: 0,0:00:28.97,0:00:29.47,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}strength;{\c&H00F0FFFF&}
+Dialogue: 0,0:00:29.88,0:00:29.97,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}it{\c&H00F0FFFF&} is absolute
+Dialogue: 0,0:00:29.97,0:00:30.10,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}it {\c&H0000BFFF&}is{\c&H00F0FFFF&} absolute
+Dialogue: 0,0:00:30.10,0:00:30.60,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}it is {\c&H0000BFFF&}absolute{\c&H00F0FFFF&}
+Dialogue: 0,0:00:30.60,0:00:31.10,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}strength{\c&H00F0FFFF&} held under
+Dialogue: 0,0:00:31.10,0:00:31.49,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}strength {\c&H0000BFFF&}held{\c&H00F0FFFF&} under
+Dialogue: 0,0:00:31.49,0:00:31.68,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}strength held {\c&H0000BFFF&}under{\c&H00F0FFFF&}
+Dialogue: 0,0:00:31.68,0:00:31.96,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}God's{\c&H00F0FFFF&} command. When
+Dialogue: 0,0:00:31.96,0:00:32.76,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}God's {\c&H0000BFFF&}command.{\c&H00F0FFFF&} When
+Dialogue: 0,0:00:32.76,0:00:32.88,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}God's command. {\c&H0000BFFF&}When{\c&H00F0FFFF&}
+Dialogue: 0,0:00:32.85,0:00:32.97,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}you{\c&H00F0FFFF&} refuse to
+Dialogue: 0,0:00:32.97,0:00:33.48,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you {\c&H0000BFFF&}refuse{\c&H00F0FFFF&} to
+Dialogue: 0,0:00:33.48,0:00:33.60,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you refuse {\c&H0000BFFF&}to{\c&H00F0FFFF&}
+Dialogue: 0,0:00:33.58,0:00:34.23,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}retaliate{\c&H00F0FFFF&} in anger
+Dialogue: 0,0:00:34.23,0:00:34.38,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}retaliate {\c&H0000BFFF&}in{\c&H00F0FFFF&} anger
+Dialogue: 0,0:00:34.38,0:00:34.70,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}retaliate in {\c&H0000BFFF&}anger{\c&H00F0FFFF&}
+Dialogue: 0,0:00:34.70,0:00:35.12,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}today,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:35.54,0:00:35.59,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}you{\c&H00F0FFFF&} are not
+Dialogue: 0,0:00:35.59,0:00:35.68,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you {\c&H0000BFFF&}are{\c&H00F0FFFF&} not
+Dialogue: 0,0:00:35.68,0:00:35.98,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you are {\c&H0000BFFF&}not{\c&H00F0FFFF&}
+Dialogue: 0,0:00:35.98,0:00:36.34,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}losing{\c&H00F0FFFF&} ground
+Dialogue: 0,0:00:36.34,0:00:36.77,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}losing {\c&H0000BFFF&}ground{\c&H00F0FFFF&}
+Dialogue: 0,0:00:37.20,0:00:37.25,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}you{\c&H00F0FFFF&} are keeping
+Dialogue: 0,0:00:37.25,0:00:37.33,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you {\c&H0000BFFF&}are{\c&H00F0FFFF&} keeping
+Dialogue: 0,0:00:37.33,0:00:37.65,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you are {\c&H0000BFFF&}keeping{\c&H00F0FFFF&}
+Dialogue: 0,0:00:37.65,0:00:37.73,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}your{\c&H00F0FFFF&} blade
+Dialogue: 0,0:00:37.73,0:00:38.04,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}your {\c&H0000BFFF&}blade{\c&H00F0FFFF&}
+Dialogue: 0,0:00:38.04,0:00:38.83,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}sheathed.{\c&H00F0FFFF&} And that
+Dialogue: 0,0:00:38.83,0:00:38.87,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}sheathed. {\c&H0000BFFF&}And{\c&H00F0FFFF&} that
+Dialogue: 0,0:00:38.87,0:00:38.99,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}sheathed. And {\c&H0000BFFF&}that{\c&H00F0FFFF&}
+Dialogue: 0,0:00:38.99,0:00:39.07,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}is{\c&H00F0FFFF&} why...
+Dialogue: 0,0:00:39.07,0:00:39.40,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}is {\c&H0000BFFF&}why...{\c&H00F0FFFF&}

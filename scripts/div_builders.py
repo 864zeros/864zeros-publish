@@ -36,6 +36,7 @@ PIXEL_ROOT = Path(r"C:\dev\864zeros-pixel-office")
 CLEARSTREAK_ROOT = Path(r"C:\dev\clearStreak")
 DIARY_ROOT = Path(r"C:\dev\864zeros-diary")
 SCOUT_ROOT = Path(r"C:\dev\864zero-scout")
+ANALYTICS_ROOT = Path(r"C:\dev\864zeros-analytics")
 PUB_MCP_ROOT = Path(r"C:\dev\864zeros-publisher-mcp")
 
 
@@ -576,9 +577,9 @@ def build_div0_front_door() -> tuple[str, dict]:
 def build_div1_front_door() -> tuple[str, dict]:
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M EDT")
     div1_dir = LLC_ROOT / "LLC-DIV-1-INTELLIGENCE"
-    tel = scan_paths_telemetry([div1_dir, SCOUT_ROOT])
+    tel = scan_paths_telemetry([div1_dir, SCOUT_ROOT, ANALYTICS_ROOT])
 
-    # Scan strikes, briefs, docs, scrapers
+    # Scan strikes, briefs, docs, scrapers + D-UTA analytics
     intel_rows = []
     for sub in ["strikes", "briefs", "docs", "recon", "scan_results", "scrapers", "enrichment"]:
         sd = div1_dir / sub
@@ -594,6 +595,22 @@ def build_div1_front_door() -> tuple[str, dict]:
                       <td>{datetime.fromtimestamp(f.stat().st_mtime).strftime('%Y-%m-%d %H:%M')}</td>
                       <td><a href="file:///C:/dev/864zeros-llc/LLC-DIV-1-INTELLIGENCE/{rel}" target="_blank">Inspect Asset ↗</a></td>
                     </tr>""")
+
+    if ANALYTICS_ROOT.exists():
+        for root, _, files in os.walk(ANALYTICS_ROOT):
+            if ".git" in Path(root).parts:
+                continue
+            for fn in sorted(files):
+                f = Path(root) / fn
+                rel = f.relative_to(ANALYTICS_ROOT).as_posix()
+                intel_rows.append(f"""
+                <tr>
+                  <td><span class="badge badge-blue">D-UTA ANALYTICS</span></td>
+                  <td><a href="file:///C:/dev/864zeros-analytics/{rel}" target="_blank"><code>{rel}</code></a></td>
+                  <td>{fmt_bytes(f.stat().st_size)}</td>
+                  <td>{datetime.fromtimestamp(f.stat().st_mtime).strftime('%Y-%m-%d %H:%M')}</td>
+                  <td><a href="file:///C:/dev/864zeros-analytics/{rel}" target="_blank">Inspect Telemetry ↗</a></td>
+                </tr>""")
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -698,6 +715,10 @@ def build_div1_front_door() -> tuple[str, dict]:
         <div class="viewer-card">
           <div><span class="badge badge-blue">STRIKE DOSSIER</span><h4 style="margin-top:6px;">ChoiceGuard Vulture Strike Dossier</h4><p>Competitor failure analysis (Form Limiter / Choice Eliminator) that launched ChoiceGuard.</p></div>
           <a class="btn-launch" href="file:///C:/dev/864zeros-llc/LLC-DIV-4-GTM/CHOICEGUARD_VULTURE_STRIKE_DOSSIER.md" target="_blank">🎯 Open ChoiceGuard Dossier ↗</a>
+        </div>
+        <div class="viewer-card">
+          <div><span class="badge badge-green">D-UTA TELEMETRY</span><h4 style="margin-top:6px;">864zeros YouTube Telemetry Report (`D-UTA`)</h4><p>Live YouTube Analytics API v2 + Data v3 retention, traffic sources, and 27-video performance matrix.</p></div>
+          <a class="btn-launch" href="file:///C:/dev/864zeros-analytics/reports/YOUTUBE_TELEMETRY_REPORT.md" target="_blank">📈 Open YouTube Telemetry Report ↗</a>
         </div>
         <div class="viewer-card">
           <div><span class="badge badge-green">ENGINE SPEC</span><h4 style="margin-top:6px;">864z Vulture OS v2 &amp; Vulture Nest</h4><p>Core operating manual and target criteria for Vulture Strike reconnaissance.</p></div>

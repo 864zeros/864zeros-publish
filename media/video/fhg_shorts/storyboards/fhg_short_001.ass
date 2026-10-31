@@ -1,0 +1,143 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: FHG_Short,Montserrat Black,74,&H00F0FFFF&,&H0000BFFF&,&H26000000&,&H26000000&,-1,0,0,0,100,100,0,0,1,4,6,2,48,192,820,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:00.08,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}You{\c&H00F0FFFF&} are reading
+Dialogue: 0,0:00:00.08,0:00:00.22,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}You {\c&H0000BFFF&}are{\c&H00F0FFFF&} reading
+Dialogue: 0,0:00:00.22,0:00:00.45,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}You are {\c&H0000BFFF&}reading{\c&H00F0FFFF&}
+Dialogue: 0,0:00:00.45,0:00:00.52,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}the{\c&H00F0FFFF&} Bible
+Dialogue: 0,0:00:00.52,0:00:01.16,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the {\c&H0000BFFF&}Bible{\c&H00F0FFFF&}
+Dialogue: 0,0:00:01.16,0:00:01.68,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}completely{\c&H00F0FFFF&} wrong.
+Dialogue: 0,0:00:01.68,0:00:02.36,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}completely {\c&H0000BFFF&}wrong.{\c&H00F0FFFF&}
+Dialogue: 0,0:00:02.36,0:00:02.58,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Most{\c&H00F0FFFF&} of us
+Dialogue: 0,0:00:02.58,0:00:02.63,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Most {\c&H0000BFFF&}of{\c&H00F0FFFF&} us
+Dialogue: 0,0:00:02.63,0:00:02.80,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Most of {\c&H0000BFFF&}us{\c&H00F0FFFF&}
+Dialogue: 0,0:00:02.80,0:00:03.27,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}open{\c&H00F0FFFF&} it looking
+Dialogue: 0,0:00:03.27,0:00:03.36,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}open {\c&H0000BFFF&}it{\c&H00F0FFFF&} looking
+Dialogue: 0,0:00:03.36,0:00:03.61,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}open it {\c&H0000BFFF&}looking{\c&H00F0FFFF&}
+Dialogue: 0,0:00:03.61,0:00:03.74,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}for{\c&H00F0FFFF&} a quick
+Dialogue: 0,0:00:03.74,0:00:03.79,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}for {\c&H0000BFFF&}a{\c&H00F0FFFF&} quick
+Dialogue: 0,0:00:03.79,0:00:04.01,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}for a {\c&H0000BFFF&}quick{\c&H00F0FFFF&}
+Dialogue: 0,0:00:04.01,0:00:04.40,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}fix{\c&H00F0FFFF&} to today's
+Dialogue: 0,0:00:04.40,0:00:04.49,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}fix {\c&H0000BFFF&}to{\c&H00F0FFFF&} today's
+Dialogue: 0,0:00:04.49,0:00:04.82,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}fix to {\c&H0000BFFF&}today's{\c&H00F0FFFF&}
+Dialogue: 0,0:00:04.82,0:00:05.21,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}problem.{\c&H00F0FFFF&}
+Dialogue: 0,0:00:05.57,0:00:05.62,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}But{\c&H00F0FFFF&} in
+Dialogue: 0,0:00:05.62,0:00:05.74,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}But {\c&H0000BFFF&}in{\c&H00F0FFFF&}
+Dialogue: 0,0:00:05.73,0:00:06.42,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}first-century{\c&H00F0FFFF&}
+Dialogue: 0,0:00:06.42,0:00:07.37,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Jerusalem,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:07.37,0:00:07.79,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Scripture{\c&H00F0FFFF&} was never
+Dialogue: 0,0:00:07.79,0:00:07.91,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Scripture {\c&H0000BFFF&}was{\c&H00F0FFFF&} never
+Dialogue: 0,0:00:07.91,0:00:08.35,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Scripture was {\c&H0000BFFF&}never{\c&H00F0FFFF&}
+Dialogue: 0,0:00:08.35,0:00:08.85,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}read{\c&H00F0FFFF&} as isolated
+Dialogue: 0,0:00:08.85,0:00:09.14,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}read {\c&H0000BFFF&}as{\c&H00F0FFFF&} isolated
+Dialogue: 0,0:00:09.14,0:00:09.66,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}read as {\c&H0000BFFF&}isolated{\c&H00F0FFFF&}
+Dialogue: 0,0:00:09.66,0:00:10.08,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}fortune{\c&H00F0FFFF&} cookies. It
+Dialogue: 0,0:00:10.08,0:00:10.95,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}fortune {\c&H0000BFFF&}cookies.{\c&H00F0FFFF&} It
+Dialogue: 0,0:00:10.95,0:00:11.07,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}fortune cookies. {\c&H0000BFFF&}It{\c&H00F0FFFF&}
+Dialogue: 0,0:00:11.02,0:00:11.15,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}was{\c&H00F0FFFF&} read aloud
+Dialogue: 0,0:00:11.15,0:00:11.36,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}was {\c&H0000BFFF&}read{\c&H00F0FFFF&} aloud
+Dialogue: 0,0:00:11.36,0:00:11.92,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}was read {\c&H0000BFFF&}aloud{\c&H00F0FFFF&}
+Dialogue: 0,0:00:11.92,0:00:12.10,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}as{\c&H00F0FFFF&} one unified
+Dialogue: 0,0:00:12.10,0:00:12.40,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}as {\c&H0000BFFF&}one{\c&H00F0FFFF&} unified
+Dialogue: 0,0:00:12.40,0:00:12.96,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}as one {\c&H0000BFFF&}unified{\c&H00F0FFFF&}
+Dialogue: 0,0:00:12.96,0:00:13.63,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}story{\c&H00F0FFFF&} leading to
+Dialogue: 0,0:00:13.63,0:00:14.01,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}story {\c&H0000BFFF&}leading{\c&H00F0FFFF&} to
+Dialogue: 0,0:00:14.01,0:00:14.13,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}story leading {\c&H0000BFFF&}to{\c&H00F0FFFF&}
+Dialogue: 0,0:00:14.13,0:00:14.78,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Jesus.{\c&H00F0FFFF&}
+Dialogue: 0,0:00:15.14,0:00:15.25,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}In{\c&H00F0FFFF&} John chapter 5
+Dialogue: 0,0:00:15.25,0:00:15.55,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}In {\c&H0000BFFF&}John{\c&H00F0FFFF&} chapter 5
+Dialogue: 0,0:00:15.55,0:00:16.63,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}In John {\c&H0000BFFF&}chapter 5{\c&H00F0FFFF&}
+Dialogue: 0,0:00:16.63,0:00:16.93,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}verse{\c&H00F0FFFF&} 39,
+Dialogue: 0,0:00:16.93,0:00:17.53,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}verse {\c&H0000BFFF&}39,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:17.92,0:00:18.36,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Jesus{\c&H00F0FFFF&} looked at
+Dialogue: 0,0:00:18.36,0:00:18.58,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Jesus {\c&H0000BFFF&}looked{\c&H00F0FFFF&} at
+Dialogue: 0,0:00:18.58,0:00:18.70,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Jesus looked {\c&H0000BFFF&}at{\c&H00F0FFFF&}
+Dialogue: 0,0:00:18.62,0:00:18.67,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}the{\c&H00F0FFFF&} religious
+Dialogue: 0,0:00:18.67,0:00:19.10,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the {\c&H0000BFFF&}religious{\c&H00F0FFFF&}
+Dialogue: 0,0:00:19.10,0:00:19.48,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}scholars{\c&H00F0FFFF&} on the
+Dialogue: 0,0:00:19.48,0:00:19.54,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}scholars {\c&H0000BFFF&}on{\c&H00F0FFFF&} the
+Dialogue: 0,0:00:19.54,0:00:19.66,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}scholars on {\c&H0000BFFF&}the{\c&H00F0FFFF&}
+Dialogue: 0,0:00:19.61,0:00:19.84,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Temple{\c&H00F0FFFF&} steps and
+Dialogue: 0,0:00:19.84,0:00:20.42,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Temple {\c&H0000BFFF&}steps{\c&H00F0FFFF&} and
+Dialogue: 0,0:00:20.42,0:00:20.57,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Temple steps {\c&H0000BFFF&}and{\c&H00F0FFFF&}
+Dialogue: 0,0:00:20.57,0:00:20.92,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}said:{\c&H00F0FFFF&}
+Dialogue: 0,0:00:21.36,0:00:21.50,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}You{\c&H00F0FFFF&} search the
+Dialogue: 0,0:00:21.50,0:00:21.73,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}You {\c&H0000BFFF&}search{\c&H00F0FFFF&} the
+Dialogue: 0,0:00:21.73,0:00:21.85,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}You search {\c&H0000BFFF&}the{\c&H00F0FFFF&}
+Dialogue: 0,0:00:21.84,0:00:22.29,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Scriptures{\c&H00F0FFFF&} because
+Dialogue: 0,0:00:22.29,0:00:22.53,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Scriptures {\c&H0000BFFF&}because{\c&H00F0FFFF&}
+Dialogue: 0,0:00:22.53,0:00:22.60,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}you{\c&H00F0FFFF&} think they
+Dialogue: 0,0:00:22.60,0:00:22.83,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you {\c&H0000BFFF&}think{\c&H00F0FFFF&} they
+Dialogue: 0,0:00:22.83,0:00:22.96,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you think {\c&H0000BFFF&}they{\c&H00F0FFFF&}
+Dialogue: 0,0:00:22.96,0:00:23.16,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}give{\c&H00F0FFFF&} you eternal
+Dialogue: 0,0:00:23.16,0:00:23.33,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}give {\c&H0000BFFF&}you{\c&H00F0FFFF&} eternal
+Dialogue: 0,0:00:23.33,0:00:23.82,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}give you {\c&H0000BFFF&}eternal{\c&H00F0FFFF&}
+Dialogue: 0,0:00:23.82,0:00:24.23,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}life,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:24.61,0:00:24.73,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}yet{\c&H00F0FFFF&} they are
+Dialogue: 0,0:00:24.73,0:00:24.82,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}yet {\c&H0000BFFF&}they{\c&H00F0FFFF&} are
+Dialogue: 0,0:00:24.82,0:00:24.94,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}yet they {\c&H0000BFFF&}are{\c&H00F0FFFF&}
+Dialogue: 0,0:00:24.89,0:00:24.99,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}the{\c&H00F0FFFF&} very words
+Dialogue: 0,0:00:24.99,0:00:25.37,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the {\c&H0000BFFF&}very{\c&H00F0FFFF&} words
+Dialogue: 0,0:00:25.37,0:00:25.80,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}the very {\c&H0000BFFF&}words{\c&H00F0FFFF&}
+Dialogue: 0,0:00:25.80,0:00:25.96,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}that{\c&H00F0FFFF&} testify about
+Dialogue: 0,0:00:25.96,0:00:26.57,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}that {\c&H0000BFFF&}testify{\c&H00F0FFFF&} about
+Dialogue: 0,0:00:26.57,0:00:26.82,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}that testify {\c&H0000BFFF&}about{\c&H00F0FFFF&}
+Dialogue: 0,0:00:26.82,0:00:27.11,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}Me.{\c&H00F0FFFF&} When you
+Dialogue: 0,0:00:27.11,0:00:27.17,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Me. {\c&H0000BFFF&}When{\c&H00F0FFFF&} you
+Dialogue: 0,0:00:27.17,0:00:27.29,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}Me. When {\c&H0000BFFF&}you{\c&H00F0FFFF&}
+Dialogue: 0,0:00:27.24,0:00:27.43,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}pull{\c&H00F0FFFF&} a single
+Dialogue: 0,0:00:27.43,0:00:27.48,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}pull {\c&H0000BFFF&}a{\c&H00F0FFFF&} single
+Dialogue: 0,0:00:27.48,0:00:27.81,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}pull a {\c&H0000BFFF&}single{\c&H00F0FFFF&}
+Dialogue: 0,0:00:27.81,0:00:28.18,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}verse{\c&H00F0FFFF&} out of
+Dialogue: 0,0:00:28.18,0:00:28.34,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}verse {\c&H0000BFFF&}out{\c&H00F0FFFF&} of
+Dialogue: 0,0:00:28.34,0:00:28.46,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}verse out {\c&H0000BFFF&}of{\c&H00F0FFFF&}
+Dialogue: 0,0:00:28.39,0:00:28.48,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}its{\c&H00F0FFFF&} chapter,
+Dialogue: 0,0:00:28.48,0:00:29.00,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}its {\c&H0000BFFF&}chapter,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:29.37,0:00:29.52,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}you{\c&H00F0FFFF&} lose the
+Dialogue: 0,0:00:29.52,0:00:29.74,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you {\c&H0000BFFF&}lose{\c&H00F0FFFF&} the
+Dialogue: 0,0:00:29.74,0:00:29.86,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you lose {\c&H0000BFFF&}the{\c&H00F0FFFF&}
+Dialogue: 0,0:00:29.81,0:00:30.43,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}entire{\c&H00F0FFFF&} weight of
+Dialogue: 0,0:00:30.43,0:00:30.71,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}entire {\c&H0000BFFF&}weight{\c&H00F0FFFF&} of
+Dialogue: 0,0:00:30.71,0:00:30.83,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}entire weight {\c&H0000BFFF&}of{\c&H00F0FFFF&}
+Dialogue: 0,0:00:30.79,0:00:30.98,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}what{\c&H00F0FFFF&} God is
+Dialogue: 0,0:00:30.98,0:00:31.55,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}what {\c&H0000BFFF&}God{\c&H00F0FFFF&} is
+Dialogue: 0,0:00:31.55,0:00:31.68,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}what God {\c&H0000BFFF&}is{\c&H00F0FFFF&}
+Dialogue: 0,0:00:31.68,0:00:32.05,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}actually{\c&H00F0FFFF&} doing.
+Dialogue: 0,0:00:32.05,0:00:32.38,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}actually {\c&H0000BFFF&}doing.{\c&H00F0FFFF&}
+Dialogue: 0,0:00:32.74,0:00:32.91,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}So{\c&H00F0FFFF&} tonight, before
+Dialogue: 0,0:00:32.91,0:00:33.43,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}So {\c&H0000BFFF&}tonight,{\c&H00F0FFFF&} before
+Dialogue: 0,0:00:33.43,0:00:33.70,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}So tonight, {\c&H0000BFFF&}before{\c&H00F0FFFF&}
+Dialogue: 0,0:00:33.70,0:00:33.82,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}you{\c&H00F0FFFF&} ask what
+Dialogue: 0,0:00:33.82,0:00:34.21,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you {\c&H0000BFFF&}ask{\c&H00F0FFFF&} what
+Dialogue: 0,0:00:34.21,0:00:34.33,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}you ask {\c&H0000BFFF&}what{\c&H00F0FFFF&}
+Dialogue: 0,0:00:34.32,0:00:34.51,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}does{\c&H00F0FFFF&} this verse
+Dialogue: 0,0:00:34.51,0:00:34.64,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}does {\c&H0000BFFF&}this{\c&H00F0FFFF&} verse
+Dialogue: 0,0:00:34.64,0:00:34.89,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}does this {\c&H0000BFFF&}verse{\c&H00F0FFFF&}
+Dialogue: 0,0:00:34.89,0:00:35.09,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}fix{\c&H00F0FFFF&} for me,
+Dialogue: 0,0:00:35.09,0:00:35.21,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}fix {\c&H0000BFFF&}for{\c&H00F0FFFF&} me,
+Dialogue: 0,0:00:35.21,0:00:35.40,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}fix for {\c&H0000BFFF&}me,{\c&H00F0FFFF&}
+Dialogue: 0,0:00:35.88,0:00:36.29,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}ask{\c&H00F0FFFF&} what does
+Dialogue: 0,0:00:36.29,0:00:36.40,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}ask {\c&H0000BFFF&}what{\c&H00F0FFFF&} does
+Dialogue: 0,0:00:36.40,0:00:36.59,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}ask what {\c&H0000BFFF&}does{\c&H00F0FFFF&}
+Dialogue: 0,0:00:36.59,0:00:36.75,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}this{\c&H00F0FFFF&} chapter reveal
+Dialogue: 0,0:00:36.75,0:00:37.19,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}this {\c&H0000BFFF&}chapter{\c&H00F0FFFF&} reveal
+Dialogue: 0,0:00:37.19,0:00:37.48,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}this chapter {\c&H0000BFFF&}reveal{\c&H00F0FFFF&}
+Dialogue: 0,0:00:37.48,0:00:37.71,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}about{\c&H00F0FFFF&} Him. Because
+Dialogue: 0,0:00:37.71,0:00:38.19,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}about {\c&H0000BFFF&}Him.{\c&H00F0FFFF&} Because
+Dialogue: 0,0:00:38.19,0:00:38.34,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}about Him. {\c&H0000BFFF&}Because{\c&H00F0FFFF&}
+Dialogue: 0,0:00:38.34,0:00:38.50,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}until{\c&H00F0FFFF&} you shift
+Dialogue: 0,0:00:38.50,0:00:38.62,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}until {\c&H0000BFFF&}you{\c&H00F0FFFF&} shift
+Dialogue: 0,0:00:38.62,0:00:38.99,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}until you {\c&H0000BFFF&}shift{\c&H00F0FFFF&}
+Dialogue: 0,0:00:38.99,0:00:39.17,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}{\c&H0000BFFF&}that{\c&H00F0FFFF&} lens...
+Dialogue: 0,0:00:39.17,0:00:39.68,FHG_Short,,0,0,0,,{\an2\pos(468,1080)\blur6}that {\c&H0000BFFF&}lens...{\c&H00F0FFFF&}
