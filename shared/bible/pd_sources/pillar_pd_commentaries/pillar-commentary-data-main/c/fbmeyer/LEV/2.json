@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Meal-Offerings with Oil and Incense -- Leviticus 2:1-16\n\nThe meal-offering, which is described in this chapter, portrayed in emblem the perfect character of our Lord. He was as fine flour, of the best quality, without grit or coarseness. There was nothing uneven, nothing rough and harsh, nothing unseemly or forbidding in Him. He was anointed with the oil of the Holy Spirit; His perfect obedience was fragrant to the Father, and should be so to us; there was no leaven of guile or hypocrisy in His constitution. See Ephesians 5:2. We should feed on His holy character by meditation, and resemble it in daily living.\n\nThe interposition of the priest was an essential feature of the ancient ritual, informing us that our prayer and self-surrender are acceptable to God through our Savior. We are also reminded by Leviticus 2:14 that we are called to be a kind of first-fruits of His creatures to the Creator. See James 1:18."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 3
+ }
+}

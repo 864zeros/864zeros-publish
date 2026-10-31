@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "fbmeyer",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Hard Commission -- Ezekiel 2:1-10; Ezekiel 3:1-11\n\nThe people were impudent and stiff-hearted; their words as briars and thorns; their speech like the poison of scorpions; but the prophet was commissioned to go on with his divine mission, undeterred by their opposition. Under such circumstances we must be sure of a Thus saith the Lord. But no man can stand against the continual opposition of his fellows, unless his strength is renewed, as Ezekiel’s was, by eating that which God gives. Open thy mouth, and eat that which I give thee, Ezekiel 2:8. Let us specially consider the divine denunciations of sin, that our words may be sharper than any two-edged sword. Nothing makes us so strong as feeding perpetually upon the roll of the Book, and especially on the Word within the words. We must eat the flesh and drink in the life of the Son of man, if we can deal aright with the needs of the sons of men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Watchman’s Responsibility -- Ezekiel 3:12-27\n\nHe was bitter because of his message, but hot because God’s fire was burning within him. It is a blessed thing for preacher, leader, or Christian worker, when the hand of God is strong upon the soul. But whatever your inward condition, you will never be able to do your best work, unless you can sit where the people sit. In other words you must take their attitude, know by experience their circumstances, and share their lot. We must live very near to God, or we shall never hear the word of His mouth. There is no other way of obtaining messages that will effect His purpose.\n\nPonder again Ezekiel 3:17. In Ezekiel 3:20 God is said to lay a stumbling-block only in the sense that He has constituted the world in that way. When the prophet went forth into the plain God revealed Himself. Whether He bids us go to the plain, or shut ourselves in the house, the place of obedience and duty will ever be the right one for the manifestation of His glory and the communication of His message. The secret of a successful ministry is to be absolutely yielded in thought and in speech to God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 11
+ }
+}

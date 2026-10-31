@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "fbmeyer",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Punishment of Avarice -- Micah 3:1-12\n\nThe princes who as magistrates should have administered justice to others sat around the caldron, casting in the very flesh and skin of the people whom they were set to rule. Their perversion of justice would lead to their inability to distinguish between evil and good. Sin not only sears the conscience but darkens the understanding, Ephesians 4:18. Their punishment would be like their guilt. As they had refused the cry of the oppressed, so would God refuse theirs. The false prophets had wilfully misled the people.\n\nTheir one desire was to get food. For those who provided it, they uttered peace; for those who opposed them, war. Therefore they would be left without a vision; God’s Spirit would cease to strive. How great the contrast between them and Micah, who spoke with the consciousness of spiritual power! Oh, that every minister and teacher of God’s holy gospel were able to utter Micah 3:8! It may be ours through the Holy Spirit."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 4
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Through Slaughter to a Throne” -- Judges 8:29-35; Judges 9:1-6\n\nThe Children of Israel were guilty of great fickleness and instability. They soon relapsed into Baal worship and forgot to show kindness to the family of their great leader. But such is the frailty of the human heart. However hot we may be for Christ today, we may be cold and distant tomorrow. It seems as if the great adversary taunts us with this as he did John Bunyan, to whom he kept whispering. “I’ll cool you, I’ll cool you.” We must take our fickle hearts to our Lord, asking Him to keep us true and hot in our love. There are times when His friendship is the most real thing in life, but then the rainbow-glory fades in the sky. Let it not be so any more, O Lord, we beseech thee!\n\nThe terrible crime of Abimelech was extenuated by the people of Shechem, because his mother was one of themselves. Compare Judges 8:31 with 9:1, 18. But the mills of God were grinding out awful trouble for them all, Judges 9:56-57. Surely, in his lack of self-control, Gideon had much to answer for, Judges 8:30! The evil that men do lives after them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The Bramble King -- Judges 9:7-21\n\nMen must have leadership. The reason lies deep in human nature. The French Revolutionaries destroyed the royal family, but Robespierre, Danton and Marat were practically enthroned in the position from which Louis was hurled. In Oliver Cromwell’s commonwealth, he exercised the royal prerogative. Some of us enthrone the fatness of the olive, some the sweetness of the fig, and some the good cheer of the vine. In other words, the guiding ideal of some souls is Prosperity, of others Love, of others Pleasure. And yet others choose the bramble-with its prickly thorns-which, when scorched by the summer-heat, is near unto burning, Hebrews 6:8. It stands, therefore, for the useless and perilous life, which is doomed to the scrap-heap. See 1 Corinthians 9:27.\n\nIn the meanwhile Jesus waits to become the crowned King of each soul. He adventured his life and delivered us from the hand of the enemy, to whom we had sold ourselves. Do we deal truly and uprightly with Him, in allowing other lords to rule over us while we crown Him with thorns? See Judges 9:17; Judges 19:1-30."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The Kindling Fire -- Judges 9:22-40\n\nAlthough this is a sordid story, it is set out at length to teach us that God’s judgments upon sin are not reserved for some future date, but are continually being administered. The Father hath committed all judgment to the Son, and throughout the ages of human history, he has been dividing men and nations, as the shepherd divides the sheep from the goats. Peter tells us, for instance, that the cities of Sodom and Gomorrah were condemned to destruction, as an example to those who lived “ungodly,” 2 Peter 2:6. Adonibezek bore witness to the same great law, Judges 1:7. The Psalms are full of it-see Psalms 7:15-17. Here it is also. Shechem rued the evil compact with Abimelech, the fratricide. Contention and bloodshed were their plentiful reward.\n\nLet us keep calm and quiet, when wicked men attain to great power and spread themselves as “a green tree in its native soil.” We need not fret ourselves to do evil. Rest in the Lord and wait patiently for Him, for the Lord loveth judgment and forsaketh not His saints. They are preserved forever, but the seed of the wicked shall be cut off. See Psalms 37:1-40."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "The Burning of the Bramble -- Judges 9:41-57\n\nTerrible deeds like these give tokens of the power of the god of this world, the spirit that now worketh in the children of disobedience. Alas, similar atrocities are being perpetrated still, after all these centuries of what is called Christian civilization. But this Christianity is only a very shallow veneer, and when national passions break loose, there is little to choose between war today and in pre-Christian ages.\n\nMen have no right to attribute the sins, cruelties, barbarities and enormities of the present day to Christianity. They are due to its absence. The whole Gospel of the Son of man protests against them. We must sadly admit that His “enemy hath done this.” And there will be no real cessation of the evils beneath which the world groans until the King comes to His own and sets up His everlasting Kingdom. What has happened of late in Europe, notwithstanding all the efforts toward arbitration and peace, proves that something new must be brought to pass before the Father’s kingdom can come and His will be done on earth."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 10
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Beginnings -- Genesis 1:1-5\n\nAll beginnings must begin with God. Always put God first. The first stone in every building, our first thought every morning, the first aim and purpose of all activity. Begin the book of the year with God, and you will end it with the glory of the New Jerusalem. At first, as in the physical creation, your heart and life may seem to be “without form and void.” Do not be discouraged, the Spirit of God is within you, brooding amid the darkness, and presently His Light will shine through. It is the blessed presence of the Lord Jesus that stirs in your heart and will presently rule your life, John 1:4.\n\nHis Presence divides between the good and evil. You must distinguish between Christ and self. Follow the gleam, and you shall not walk in darkness, but have the light of life. God’s days begin in evenings, and always end in mornings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Sky, Earth, Seasons -- Genesis 1:6-19\n\nThere were successive stages in creation. The days probably represent long periods. It is so with the new creation in our hearts. See 2 Corinthians 5:17. In nature the clouds that float above us are separated from the waters at our feet so in Christian experience we must seek to quench our thirst not only from below, but from above. See Colossians 3:1-4.\n\nOur wells must be filled from Heaven. Notice how in creation there are repeated separations, as between Day and Night, Seas and Lands; so as we live in the Spirit, we are quicker to distinguish not only between white and black, but the different shades of gray. The test of plant-life is the power of reproducing their kind; we are always reproducing ourselves in others, and sowing wheat or poppies. If God maintains suns and planets in bright and ordered beauty, He can keep us, Isaiah 40:26-27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Man Creation’s Crown -- Genesis 1:20-31\n\nCreation reveals God’s nature, as the picture the artist. His eternal Power and Godhead are visible in His works. See Romans 1:20. And all things and beings were made through Jesus Christ. Consider Colossians 1:15-16. The hands of the Son of God wove the blue curtains above us and filled them with luminaries.\n\nThe seas are His and He made them, and filled them with living creatures. The woodlands are the outcome of His mind, and He filled them with flowers and birds. He taught them to live without care. He filled the tiny heart of the mother-bird with love to her young and blessed her. His are the cattle on a thousand hills. He molded the red earth into His own likeness and made Man.\n\nWe were made to have dominion. See Psalms 8:6-8. Ask Him to put all things, especially all the evil things of your heart, under your feet. The world is good, and if you were good, you would find it so."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 1
+ },
+ "previousChapterReference": null,
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 2
+ }
+}

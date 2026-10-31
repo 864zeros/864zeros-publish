@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Trespass-Offerings and Restitution -- Leviticus 5:14-19; Leviticus 6:1-7\n\nThe root idea of the Hebrew word for trespass is “failure of duty through negligence.” In addition to the sin itself, which is against God, as the august Custodian of the law and order of the universe, the injury, which such negligence inflicts upon one’s neighbor, must be met by a compensation and fine. Any sum which another has lost through us should, of course, be repaid, and a fifth part added, if required. But probably, the main lesson of the trespass-offering is that we cannot injure any fellow-creature without offending against God. Our offence penetrates beyond the thin veil of humanity and the visible universe into the unseen Holy.\n\nIn dealing with all failures in regard to our fellows, there are three points, therefore, always to bear in mind: First, we must confess the sin to God; second, we must seek out our brother and confess to him, and ask his forgiveness, that we may win him, as our Lord said, Matthew 18:15; and, third, we must make restitution, with an addition. This was the teaching under the Law. Should it be less under the Gospel of love?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Law of the Burned-Offering -- Leviticus 6:8-23\n\nNotice well the teaching of this paragraph, which has special reference to the fire, which was to be kept always burning upon the altar. Thrice is the injunction repeated, Leviticus 6:9; Leviticus 6:12-13. As it originally descended from God, Leviticus 9:24, so it was to be ever maintained by the watchful care of the priests. It is interesting to notice that a different Hebrew word is used for the fire that burned on the great brazen altar within the sacred enclosure from that which consumed the sin-offering without the camp, Leviticus 4:12. That symbolized the wrath of God against sin, while this symbolizes His love and grace, which descend to burn in human hearts. The Apostle was very conscious of the latter when he said: “The love of Christ constraineth us.” Whenever you feel the glow of that fire in your heart be sure to nurse it.\n\nAsk that it may burn hotly. See Son 8:6. It must be fed by the continual fuel of God’s Word, consumed and absorbed in meditation. But remember the teaching of the latter part of this paragraph: Only holy souls may partake aught of the Heavenly Bread. “Let a man examine himself!”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Laws of the Sin- and Trespass-Offerings -- Leviticus 6:24-30; Leviticus 7:1-10\n\nThe peculiar sanctity of the flesh of the sin- and the trespass-offerings is clearly emphasized throughout this paragraph. Notice the repeated phrase, “it is most holy.” This seems intended to emphasize the holiness of our Lord, who, though He became a sin-offering for us all, knew no sin, neither was guile found in His mouth. He was searched with the minutest scrutiny, but Pilate, Herod and Judas agreed in asserting that in Him there was no fault. He was holy, harmless and separate from sin.\n\nNever was our Lord more absolutely “the Holy One of God” than when He was numbered with the transgressors and bare the sin of many. The Cross was the climax of His obedience. How watchful we should be against anything that might soil us in our handling of sin in its infinite ramifications. As the priests, who dealt with these offerings, were permitted to eat of the flesh, are we not reminded that we derive the richest sustenance of our spiritual life by humble, penitent and thankful meditation on the finished work of the Cross?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 7
+ }
+}

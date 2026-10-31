@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Calamities Are God’s Warnings -- Amos 4:1-11\n\nSpeaking after the imagery of his vocation, Amos the herdsman compares the rich and powerful of Samaria, who were living in luxury and wantonness, to the kine of Bashan, a breed of cattle notorious for strength and stubbornness. They broke through hedges, threw down fences, trespassed on neighboring pastures, and gored lesser cattle. The judges and magistrates were in cruel collusion with the masters who oppressed the serfs, and were willing to condone breaches of the law for drink. Sacrifices and tithes were rigorously maintained, but the entire religious system was rotten.\n\nAlready heavy judgment had fallen upon the degenerate people. There had been famine, the intermission of the rainy seasons, blasting and mildew, pestilence and murrain-but all in vain. That God was behind these phenomena was obvious from the fact that rain showers had fallen in one place and not in another. There had been a method in God’s dealings that indicated a personal agency. The worst cities had suffered the most. But the people had refused to lay it to heart. Note the sorrowful refrain-yet have ye not returned unto me, saith the Lord. It may be that some reader of these lines may find herein a clue to the mysterious succession of strokes that have befallen himself and his household."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“Prepare to Meet Thy God” -- Amos 4:12-13; Amos 5:1-15\n\nWorse judgments than those mentioned in the previous verses were in store but before they are inflicted, the entire nation is summoned to the divine bar. Whether we choose or not, “we must all appear before the judgment seat of God.” Prepare, my soul, to meet Him! Note the sublimity of that last verse of Amo 4:1-13. How great is God, who made the mountains! How mysterious, who made the wind! How sublime, who calls to the dawn! How mighty, to whom mountains and peaks are stepping-stones!\n\nBut great and holy though God is, we are invited to seek Him. He desires to bless, but He must be sought. Were we more diligent in seeking, as the miner for gold, or the scientific man for nature’s secrets, we should be marvelously repaid. “Eye hath not seen,” etc. Amos speaks as nature’s child. Often as he had tended his flocks, he had watched the Pleiades with their gentle radiance, and Orion, the herald of storm. He had listened to God calling across the waters, and had drawn life from Him. “Seek and live!” O soul, what a God is thine! Thy springs and storms await His word of command. He can turn thy darkness into the morning. Be of good cheer!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 5
+ }
+}

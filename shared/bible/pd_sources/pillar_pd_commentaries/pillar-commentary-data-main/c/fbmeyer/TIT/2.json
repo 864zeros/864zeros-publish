@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "TIT",
+  "commentaryId": "fbmeyer",
+  "name": "Titus",
+  "commonName": "Titus",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Pattern for Old and Young -- Titus 2:1-8\n\nThe supreme test of all Christian teaching and Christian work depends on whether they produce healthy characters, which are not contaminated by the noisome and germ-laden atmosphere around. Our teaching must be healthy and also health-creating. There must be plenty of ozone in it.\n\nThe Apostle’s strophes are few but fine. In the briefest sentences he seizes the salient features of Christian character. The aged man-strong, calm, patient, full of faith and love. The aged woman-holy, reverent, beloved, honored, and obeyed by the younger women of the same household or church. So also with the young men and women. What a life is sketched here against which the tongue of slander is dumb!\n\nBut, after all, these results cannot be realized apart from the personal holiness of their minister and leader. He must furnish a pattern of good works. His attitude to things which are questionable and doubtful must be decided not by his own predilections or fancies, but by the consideration of the effect which his action is likely to have on the keen eyes that are carefully watching him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "How We May “Adorn the Doctrine” -- Titus 2:9-15\n\nThe servants addressed in this tender and priceless paragraph were household slaves, employed in the most menial drudgery, but they were taught that even they might adorn the Gospel as jewels adorn the brow of beauty. Their holy lives might display and set forth its loveliness. To please one’s superiors, in all things so far as our loyalty to Christ permits, is to commend Christ to our households, and win His approval. The grace of God has ever offered salvation, but in Jesus it was brought to our doors. In its first appearance, it came to teach; in its second appearance, it will bring us glory. Have we sat sufficiently long in the school of grace, that our gentle Teacher may instruct us how to live?\n\nIt must be soberly in regard to ourselves, righteously toward others, and godly toward God. And we cannot realize any one of these unless we resolutely deny ungodliness and worldly lusts. This was the aim and purpose of Jesus in coming to die for us. He wanted to redeem us from all iniquity, purify us as His own, and use us in all manner of good works. It is a solemn question whether that supreme purpose has been realized in our own experience. If not, why not?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 3
+ }
+}

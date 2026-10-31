@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moses Recalls the Start from Horeb -- Deuteronomy 1:1-18\n\nTo this new generation Moses spake the holy law of God, since they had not heard it at Sinai. In view of the great Lawgiver’s approaching decease, it was necessary to re-edit it. The name of this book means the second giving of the Law.The Red Sea in Deuteronomy 1:1, a.v., must be replaced by Suph, r.v. Evidently it was somewhere in the neighborhood of Pisgah. It is meet for us on a birthday, or some such anniversary, to review the way that the Lord our God has conducted us. He is the God of our fathers, and of the Covenant.\n\nBefore us is set the land of our inheritance. God calls us to go in and possess it. He hath “blessed us with all spiritual blessings… in Christ,” but we must appropriate and possess by faith. And the faith that claims depends on the obedience that conforms to the divine Law, Ephesians 1:3; 2 Peter 1:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "The Penalty of Unbelief -- Deuteronomy 1:19-40\n\nThere is little to distinguish Kadesh-barnea among the sand-dunes of the desert. It was situated on the frontier, where Canaan fades into the southern desert. But it is a notable place in the spiritual chart, and few are they that have not passed through some notable experience there. It was there that Israel thought more of their enemies and difficulties than of the right hand of the Most High. When we look at circumstances apart from God; when we account our temptations and inbred corruptions too masterful to be subdued; when giants bulk bigger than the ascended Christ, we also turn back from the Rest of God to the barren wanderings of the waste. God allows these difficulties as a foil to His power and grace and to train us to high attainments."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "Journeying and Dying in the Wilderness -- Deuteronomy 1:41-46; Deuteronomy 2:1-15\n\nWe cannot obtain by our impetuosity and insistence what God offers only as a free gift to our faith. The Land of Promise is not to be obtained by strength of hand, but by the soul that lives in the will of God. Even when we are rebellious and unbelieving, God does not forget nor forsake us, Deuteronomy 2:7. He knows our walking through the great wilderness which we have chosen. Through all the forty years He goes with His people as their fellow-pilgrim. Even under such circumstances they lack nothing that is necessary to a complete and blessed life.\n\nEdom was not to be injured, because of the ancient grant, Genesis 32:3. So with Moab. The gifts and calling of God are without repentance. He will remember His Abrahams and His Lots long after they have passed from this mortal sphere, and will care for their children and children’s children. See Isaiah 59:21."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 2
+ }
+}

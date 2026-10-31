@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sorrow Turned to Gladness -- Isaiah 25:1-12\n\nHere is a song of thanksgiving at the fall of Babylon. When she fell, a sigh of relief passed over the whole world, and strong, terrible nations over which she had exerted her tyranny gratefully recognized the goodness and righteousness of Jehovah. We may anticipate, as we read these glowing words, what that song will be when the spirited Babylon is overthrown, Revelation 19:1-7.\n\nNotice how God suits Himself to our need, whether for strength, or refuge, or shadow. Take from Him what you are needing most. As the cloud draws its veil over the burning sunshine to mitigate its heat, so does God interpose to reduce the sufferings of His own. The branch, that is, the exulting song of the terrible ones, their song of triumph, shall be hushed. From Isaiah 25:6 we learn that the hunger of man for God can only be satisfied in Jesus; and from Isaiah 25:7, that the dread of death and the hereafter, which has lain heavily on humanity as a pall shall be forever ended, when Jesus comes the second time unto salvation. Compare 1 Corinthians 15:54. God will not only wipe tears from our eyes but the fountains of tears shall be dried up, Revelation 21:4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 26
+ }
+}

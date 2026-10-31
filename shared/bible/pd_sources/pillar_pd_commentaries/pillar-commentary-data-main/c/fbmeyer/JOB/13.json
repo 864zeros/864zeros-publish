@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Though He Slay Me” -- Job 13:1-28\n\nThe sufferer first rebukes his friends, Job 13:4-12. Then he makes an appeal to God, affirming that he was no hypocrite, and asking that his sins, for which he was suffering, might be set down, Job 13:23.\n\nWhen Job said that he knew himself to be righteous, he was clearly speaking of known sin; he knew, so far as a man may know himself, that he had not committed the sins of which his friends charged him. He could bare his life to the inspection of men and angels, being sure that no accusation of which human law-courts would take cognizance could be established against him. But this is a very different matter with the divine tribunal. When a fuller light had shone upon him from the face of God, when the patriarch had seen Him instead of merely hearing of Him by the ear, then he would “abhor himself and repent in dust and ashes,” Job 42:5-6.\n\nJob 13:15 is almost the greatest sentence ever uttered by mortal lips! Let us ask for grace to affirm it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 14
+ }
+}

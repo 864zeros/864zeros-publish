@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Toting King’s Noble Leadership -- 2 Chronicles 34:1-11\n\nJosiah was as much better than his father Amon, as Manasseh had been worse than Hezekiah. How strange to find such a pure young soul in the heart of Amon’s court! What led the boy to such moral and religious attainments? Perhaps his grandfather, Manasseh, unable to change his son, focused his prayers and influence on his grandson. It is probable, also, that considerable influence for good resulted from the discovery that he had been the subject of prophecy. See 1 Kings 13:2. He felt encouraged to apprehend that for which he had been apprehended years before. Though no prophet’s voice has predicted the program and attainments of our lives, they are well known in heaven, and we are summoned to realize God’s great ideals for us.\n\nThe call of Jeremiah, also so nearly coincides with the commencement of Josiah’s reforms that we can scarcely regard the two facts as unconnected. At any rate the king’s earlier efforts seem to have been coincident with the first appearance of the prophet-statesman in the king’s court at Jerusalem."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A Disturbing Discovery -- 2 Chronicles 34:12-21\n\nThe finding of the roll of the Law was a very significant incident. That it should have become so rare-apparently this was the only copy extant-was doubtless due to the destructive and desecrating efforts of Manasseh and other kings. Some pious hand had concealed it from the search of the inquisitors, and the secret had never been divulged. It is small wonder that the king’s heart misgave him when he compared the divine ideal with the actual condition of things in Judah and Jerusalem. Here is an illustration of the way in which conscience may awake to the demands of God, which have long been buried amid the drift and rubbish of our lives, ignored and disobeyed. One day this neglect is brought suddenly and sadly home to us, and we cry out in an agony of conviction.\n\nLet us read God’s Word carefully and reverently, until we come on something which accuses us, and then stop to listen. We must submit ourselves to its scrutiny. We must allow it to divide between soul and spirit. We must enthrottle it, at whatever cost, as the critic of our lives. We must follow its leadings wherever it points the way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Renewing the Covenant -- 2 Chronicles 34:22-33\n\nThe tender heart is a humble one, 2 Chronicles 34:27. To admit that God is right and we are wrong, and to take home his rebuke, is an admirable position. The penitential tear is like the baptism of dew on foliage parched by the scorching heat. But the tender heart does not confine itself to emotion, it acts. The king gathered all the elders of Judah and Jerusalem, went up to the house of the Lord, and caused all the people to stand to the covenant he proposed. He made all that were found, even in Israel, though they were outside his jurisdiction, to serve the Lord their God.\n\nEvidently Josiah was one of those men who have a compelling force because they appeal to the conscience in the heart of all men, and are themselves in close touch with God. Why not surrender yourself wholly to God! There are temples which need repairing, priests and people who require direction and leadership, nations which must be brought back to the God of their fathers. Only be tender, humble, and trustful. The world has yet to learn what God can do by those wholly devoted to Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 35
+ }
+}

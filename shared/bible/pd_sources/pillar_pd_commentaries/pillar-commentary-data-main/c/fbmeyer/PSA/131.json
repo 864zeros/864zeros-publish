@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 131,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Out of the Depths” -- Psalms 130:1-8; Psalms 131:1-3\n\nThe cry, Psalms 130:1-2. The word Lord occurs as often as there are verses. The soul in trouble repeats again and again that precious Name, in which comfort and help are summed up. The chief cause of anguish, Psalms 130:3-4, is the memory of our sins. But our iniquities are not marked save by the jewels of forgiveness, like the pearls of an oyster that are set in the place where it was wounded. The soul’s attitude, Psalms 130:5-6. It waits! He will surely come though He seems to tarry. Plenteous redemption, Psalms 130:7. It is not enough for God to forgive. He will abundantly pardon.\n\nPsalms 131:1-3 The cry of the child-heart. The psalmist said this in all simplicity. He did not exercise himself in things beyond his powers, but left God to reveal them to him, as he was able to receive them. We are reminded of Mat 11:25. Clearly he had not reached this position without effort. He had found it necessary to still and quiet himself, as a nurse quiets a fretful babe. There had been a time when he was fed at the breast of the world’s consolations. The weaning had been hard, but he had learned to get all from God and to draw on His sustaining grace."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 131
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 130
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 132
+ }
+}

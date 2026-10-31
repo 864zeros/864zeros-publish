@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Stephen’s Defense: God’s First Called Ones -- Acts 7:1-13\n\nThere are several touches in this eloquent apology which deserve notice. Acts 7:2 : “The God of glory.” This chapter begins and ends with glory. See Acts 7:55. Note that God appeared to Abraham in Ur, before he had come to Haran at the divine bidding. It is interesting to have this discrimination between the different appearances of God to the patriarch. Acts 7:3 : We often have to leave our land before God shows us another. Acts 7:6 : God’s promises lighted up the weary bondage of Egypt. Acts 7:10 : It is God that delivers us out of our afflictions and gives us favor with people.\n\nThe drift of the whole speech, which must be borne in mind as we read it, is that again and again the Chosen People had rejected their God-sent deliverers and prophets, and had taken their own evil courses. The rejection of the Savior was only a parallel to that of Joseph by his brethren, and that of Moses by the nation. Israel had always been stiffnecked and froward, and ought not history to warn Stephen’s hearers against taking a similar attitude towards Jesus of Nazareth? Might not Jesus prove to be as great a blessing in that generation as Joseph or Moses had been in his? The parallel will be complete when Jesus returns in power and glory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Stephen’s Defense: the Deliverer from Bondage -- Acts 7:14-29\n\nMoses, we are here told, was “mighty in words;” that is, in eloquence as well as in deeds. This confirms the statement of the Jewish historian, Josephus, that in the earlier part of his career, now lost in the oblivion of history, Moses led a very successful Egyptian expedition against Ethiopia. He complains to the Lord, in Exodus 4:10, of being slow of speech, but that probably refers to the habit of long disuse amid the silence and loneliness of the desert.\n\nIt is clear that, stung by the sense of wrong, Moses at first interfered with his own right arm to deliver his people. He smote the Egyptian, and essayed to judge between his brethren. God had to bring him into the dust by repeated failure and rejection that he might become an emptied and a broken vessel. God will not give glory to man. The treasure must be held in an earthen vessel, 2 Corinthians 4:7. It is when we come to the end of ourselves that we arrive at the beginning of God. The world has ever to learn what God can do by those who are wholly emptied of self-confidence but yielded to His hand."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Stephen’s Defense: Disobedience in the Wilderness -- Acts 7:30-46\n\nThe angel who appeared in the bush that burned with fire was the angel of God’s presence, who saved the Israelites and bare them and carried them all the days of old. See Isaiah 63:9. Who could this be save our Lord Himself? Only He could speak of Himself as I am. Remember the use our Lord made of that present tense, as carrying with it evidence that Abraham, Isaac, and Jacob were all of them living, though centuries had passed since their bodies had been deposited in Machpelah’s cave. See Luke 20:38. It is very helpful to note that reference to the hand of the angel in Acts 7:35; Acts 7:38. It reminds us of Act 11:21. Would that, in our service for God, we were always conscious of the co-operating hand of the Savior!\n\nThe prophet referred to in Acts 7:37 is, of course, our Lord, and the parallel between Him and Moses is very apparent during our Lord’s human ministry-for meekness, for reference in all things to the sending of God, for the work they did, as negotiating the Law from Sinai and the Mount of Beatitudes. But the difference in their posthumous ministry is emphasized in Hebrews 3:1-6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "A Martyr’s Glorious Death -- Acts 7:47-60\n\nWords like these could not be forgiven. The growing irritation of the audience seems to have extorted those burning remonstrances, and to have hastened the final scene. But the storm that burst around Christ’s faithful confessor and first martyr could not disturb his serenity. His heart was fixed, trusting in God, Psalms 108:1. The peace of God garrisoned his heart and mind. At the moment when his foes were fiercest, the presence of Jesus, who had risen from sitting to standing, in order to encourage and welcome him, was most vital. It will always be even so. You will never know the completeness of Christ’s comradeship till you have weathered a storm in His company.\n\nThey were particular not to violate the sanctity of the Temple, but not so in respect to the pure temple of the young martyr’s body. The dying Stephen did not forget the Lord’s prayer for those who crucified Him, and he followed his Master’s steps in this also. Amid the murderous flight of stones, he slept as a tired child on his mother’s breast; and from that hour his patience, gentleness, and strength became as pricking goads in the heart of Saul of Tarsus."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 8
+ }
+}

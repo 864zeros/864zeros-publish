@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Beginning Afresh -- Acts 1:1-14\n\nLuke informs Theophilus that his Gospel told the story of what the Lord began to do and teach. Evidently this further book is a continuation of His deeds and words. It ought to be called “The Acts of the Ascended Christ.” The Gospel tells of what Jesus did through a mortal body; and this book what He did through the Church, which is His body, “the fullness of Him that filleth all in all.” Here we learn that the time between the Resurrection and the Ascension was forty days; that our Lord issued commandments, no doubt about the ordering of the Church; and that He spoke with the Apostles of the coming kingdom of God-that ideal society which is God’s great objective through the ages. It would not be established by the sword of the soldier, but by the witness-bearing of the evangelist, Acts 1:8.\n\nThen the Lord rose before their eyes, and passed within a cloud, which dropped like a curtain before Him. He passed into heaven, Hebrews 9:24, to make intercession, to guide the course of His Church, and to sit at the right hand of the Father till His enemies should be made His footstool."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Filling a Vacant Place -- Acts 1:15-26\n\nIt may be that the Apostles were acting upon Christ’s directions, when they proceeded to the election of a successor to Judas. There was awe in Peter’s voice, as he describes the traitor as the guide of the arresting band, although he had been numbered with the Apostles and had obtained part in their ministry. It was as though Peter felt that it might have been himself. He and the rest had stood at the brink of the precipice over which Judas had flung himself.\n\nEvidently there were favored and humble men who, though they did not belong to the brotherhood, had been allowed to company with the Apostles, and had been witnesses of the marvelous story as it had been unrolled before their eyes. They were thus able to give their testimony first-hand. What an honor had been theirs! And now one of them was summoned to take the place of Judas. His qualification was his ability to bear witness to the Resurrection, Acts 1:22. That was the salient point in the primitive evangel. But cannot we all bear witness to it? What but the resurrection of Jesus can account for the hot springs of religious fervor that arise in our wintry hearts!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 2
+ }
+}

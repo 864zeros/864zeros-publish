@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HAB",
+  "commentaryId": "fbmeyer",
+  "name": "Habakkuk",
+  "commonName": "Habakkuk",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Apparent Prosperity of the Wicked -- Habakkuk 1:1-17\n\nHabakkuk probably lived toward the beginning of the reign of Jehoiakim, when the Chaldeans were preparing to invade the land. Jerusalem was filled with wickedness. Crimes of violence and lawlessness had become so numerous that the prophet was appalled at the sight. He could only point to the fate of other nations, which must also befall Judah unless the people repented. Paul quotes Habakkuk 1:5 in Acts 13:41. The Chaldeans are compared to the leopard, the evening wolf, and the east wind.\n\nThe prophet turns to Jehovah in an agony of expostulation and entreaty. Was He not from everlasting? Was He not Israel’s Rock? The prophet’s solace is the reflection, “We shall not die.” An ancient reading is, “Thou canst not die.” We are reminded of Rev 1:18. O thou undying, unchanging, life-giving Savior, we cling to thee amid the storms that sweep the world, as limpets to the rock."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 2
+ }
+}

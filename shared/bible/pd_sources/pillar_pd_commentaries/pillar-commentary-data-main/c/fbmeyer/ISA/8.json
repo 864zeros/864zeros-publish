@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Foreign Foe-God’s Instrument -- Isaiah 7:18-25; Isaiah 8:1-4\n\nAhaz, as we have seen, summoned the king of Assyria to his aid. This policy, dictated by human prudence, was fraught with vast peril. He and his advisers would rue their choice, and would have to pay dearly for introducing Assyria into the complicated politics of these minor states. Though this policy might effect a temporary success, like that which Isaiah indicated in the naming of his newborn child, yet ultimately it would work out disastrously, in the depopulation and desolation of the country. The impoverished peasants would have one cow instead of a herd, and two sheep instead of a flock. Is not this true of all the expedients which we substitute for faith in God?\n\nAt first they promise well but they disappoint and fail. It is the old lesson: “Lean not to thine own understanding,” Proverbs 3:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Fear God’s Power, not Man’s -- Isaiah 8:5-18\n\nIt seems likely that Syria and Samaria attacked Ahaz because he would not join in a federation against the growing power of Assyria. A strong party seems to have pressed this policy on him, but in all such schemes they repudiated the Divine Protection, Isaiah 8:6. Compare Psalms 46:4. Ahaz and the court party on the other hand, sought to federate with Assyria. But Isaiah never ceased to urge that the true line of defense was to put away whatever was inconsistent with the fear of God. He would be the sanctuary of defense and hiding in the day of trouble, Isaiah 8:13-14.\n\nWe learn from Hebrews 2:13, how absolutely, when speaking thus, the prophet was being prompted by the Holy Spirit. If men will not build on God’s foundation-stone, they fall over it to their hurt. Compare Isaiah 8:15 and Matthew 21:44. Are we not all in danger of substituting human alliances for federation and union with the eternal God? Let our fellowship be with the Father and the Son; and let us wait for Him till the day dawn and the day star shines, 2 Peter 1:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "The Prince of Peace -- Isaiah 8:19-22; Isaiah 9:1-7\n\nWhen men cease to trust in God and rely on the help of man, they often turn to necromancy and spirit-rapping. The medium takes the place of the Mediator. The séance is sought after instead of the Law and the Testimony. What have God’s children to do with back-stair gossip, when their Father’s presence-chamber is open to them? What He does not tell us is not worth our knowing.\n\nThe land of Galilee was destined to suffer sorely, but better days would dawn on its mountains and lakes. The joy that was in store is compared to the daybreak, Isaiah 8:2; to the joy of harvest, Isaiah 8:3; and to the gladness of the harried tribes when Gideon broke the power of Midian, Isaiah 8:4. The implements of battle would become fuel for the peasants’ cottage-fires. What titles are these for our Lord! They befit no human babe! Let us place the government of our lives on His shoulders; and as it extends so shall our peace. Ask God’s zeal to do this for thee! In the power of His grace, put the government of all on the wonderful Son of God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 9
+ }
+}

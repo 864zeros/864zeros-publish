@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 97,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Be Glad in the Lord” -- Psalms 97:1-12\n\nThe keynote here is the reign of God. To the wicked, it spells misery; to the believer, it is the inauguration of harmony and joy. It is as though herald-angels step from isle to isle, from mountain peak to mountain peak, with the glad tidings of great joy. It is not always easy to trace its advent. Clouds and darkness are around him. The eye of sense cannot penetrate the black enclosing pall, but faith is ever certain that righteousness and judgment are the foundation of His throne.\n\nSometimes God comes in fire, Psalms 97:3, as at Sinai, or on the day of Pentecost, which took place on the anniversary of the giving of the Law. Days come like that on which Jerusalem fell, or when the Turks took Constantinople, or when Napoleon was shattered at Waterloo-then hills melt like wax. But through all dark and terrible dispensations the Kingdom is secretly growing, the Lord is being exalted, and light is being sown for His people, Psalms 97:11. So, believer, your tears and fightings, as they pass, are absorbing heaven’s love and power, which they will hold in reserve though buried for long in the dark. Days are at hand of unspeakable gladness. Be of good cheer."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 97
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 96
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 98
+ }
+}

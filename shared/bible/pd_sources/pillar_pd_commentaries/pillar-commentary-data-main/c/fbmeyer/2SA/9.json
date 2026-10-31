@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Kindness for Jonathan’s Sake -- 2 Samuel 9:1-13\n\nThis poor cripple at Lodebar never supposed that David would show him favor. Did he not belong to the rejected house of Saul? What could he expect from one whom his grandfather had hunted like a partridge on the mountains? Besides, his lameness made him unfit for court-life. We, like him, are the children of an apostate race; we have neither beauty nor worth to commend us. We may class together those two sentences: “What is thy servant, that thou shouldst look upon such a dead dog as I am?” and, “Depart from me, for I am a sinful man, O Lord,” 2 Samuel 9:8 and Luke 5:8.\n\nBut Mephibosheth had been included in a covenant. He might be unaware of it, but David could not forget, 1 Samuel 20:14-16. For the sake of the beloved Jonathan, David treated his son as a blood-relation. Nothing in the course of events could alter the sacred word that David had sworn to his departed friend. Our own case is similar. We were chosen in Christ before the world began, predestined to be sons, included in the covenant between the Father and our Surety. Let us join with Paul in Ephesians 1:3."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 10
+ }
+}

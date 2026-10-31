@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Humbling the Self-exalted -- Matthew 23:1-12\n\nThese words were addressed to the disciples and the crowds that had gathered around. The Jewish religious leaders divorced morality and religion, and insisted that men should respect their office, whatever might be their personal character. The craving for this has been the temptation and bane of Christ’s ministers in every age.\n\nBut how evidently our Lord condemns clerical and priestly assumption! With the two-edged sword, which pierces to the dividing asunder of soul and spirit, He cuts between the professions and performances of these men. No more awful words were ever spoken! How true is Matthew 23:4! The hypocrite always spares himself, but is merciless in his demands on others. The true servant of God never exacts these titles as a rightful homage, or as indicating either superiority or special sanctity. We all have one Master and one Father; and, though our talents greatly differ, we stand on an absolute equality so far as saving grace is concerned."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Woes for the False-hearted -- Matthew 23:13-26\n\nThese repeated woes may be translated, Alas for you! Our Lord with unfailing accuracy indicates the inevitable doom which such conduct as that of the Pharisees and scribes must incur. He forewarned them that they could expect nothing in the dread future but the judgment of Gehenna-the metaphor being taken from the valley of Hinnom, south of Jerusalem, where fires were kept burning to consume rubbish and refuse.\n\nHypocrisy is hiding under a cloak of religion the sins which the ordinary moralist and worldling would condemn. It is very injurious, because it hinders men from entering the Kingdom, Matthew 23:13. It is punctilious in its exactions, because while it strains out gnats, it swallows camels, Matthew 23:23-24. It expends itself on outward ritual-the Pharisees would not enter Pilate’s hall on the day before the Passover, but they murdered the holy Savior. Above all things, let us be true, professing to be no more than we are!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Judgment and Lament -- Matthew 23:27-39\n\nTrue goodness recognizes and rewards good in the living; while the evil-minded cannot, or will not, believe that the people whom they meet daily are purely and sincerely good. They pride themselves on what they would have done if they had lived in the great days of the past, but they miss the opportunities which are always ready to hand. In this they judge and condemn themselves.\n\nHow sad is this lament over Jerusalem! The yearning love which longed to intercept her descending judgment, as the hen the stroke of danger which menaces her brood, was about to be withdrawn. After striving His best to save them, the world’s Redeemer was abandoning His people to the results of their sin, until the time spoken of in Zechariah 14:1-4. Oh my soul, see that thou art hidden under those wings, until all calamities are overpast and the day has broken!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 24
+ }
+}

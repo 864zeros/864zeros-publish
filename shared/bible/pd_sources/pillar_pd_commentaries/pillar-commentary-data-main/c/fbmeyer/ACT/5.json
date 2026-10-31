@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Lying to the Holy Spirit -- Acts 4:36-37; Acts 5:1-11\n\nThe Spirit of God is the source of generous and liberal giving. It is a poor substitute to set up bazaars, and fairs, and ice cream suppers. When the Church is filled with the Holy Spirit, her pockets will be easily emptied before His gracious, thawing presence. Let the sun arise in the heavens, and the frozen streams are instantly liberated and begin to sing on their way to transform wildernesses into gardens.\n\nMark the contrast between Ananias and Barnabas. The same phrases are applied to each. The sin of Ananias was not in keeping back part of the purchase money, but in pretending to have brought all to the Apostle. He wished to pose as a saint, and at the same time to line his own nest. In the act of consecration, we must not allow one corner for Satan or selfishness to possess, because instantly we shall have to concede the right of way, and a thoroughfare will be opened, along which all manner of contraband may be smuggled in. Peter had no doubt as to the personality of the Holy Spirit. You cannot lie to an influence! Note the interchange of Holy Spirit and God in Acts 4:3-4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Delivered to Testify -- Acts 5:12-26\n\nWhile the Holy Spirit works mightily within the Church, He co-operates with it in its outward operations by adding men and women to the Lord. None should be added to the Church roll who have not already been led into living union with Jesus. Through the Church, as His body, the risen Savior works such miracles as are here narrated, filling the hearts of the humble with love and joy, and exciting inveterate hatred in His foes.\n\nThe angel of God comes to open prison doors. Are you in sore trouble, from which there is no apparent deliverance? Are you imprisoned in the dungeon of doubt and black despair? Are you being heavily persecuted? Oh, wrap around you the divine protection! Dare to believe that the doors will open as by unseen hands. Nothing can stay the purposes of God. Only use your God-given liberty to go forth to teach the people. The gospel is a message to the people. Let us preach to the hungry, needy crowds. Philosophers, scientists, the wise and prudent of the age, may mock, but the people know the gospel when they hear it. Let us give it to them!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Folly of Fighting against God -- Acts 5:27-42\n\nThe high priest and his party could not forget the imprecation of Mat 27:25. It haunted them. Compare Peter’s description of the Cross as the tree with Deuteronomy 21:23 and Galatians 3:13; also his own usage of the phrase in 1 Peter 2:24. Notice in Acts 5:31 the divine order-Jesus must be Prince, if He is to be Savior. It is because that order is not observed, and men therefore seek to derive His benefits before they concede His rights, that He is unable to deliver them. Christ must be the enthroned Lord and Master of your life, if you want to be saved to the uttermost.\n\nSee Romans 10:9, r.v. Repentance is His gift equally as forgiveness. Mark that reference to the witness of the Holy Spirit, Acts 5:32. Let us never stand in pulpit or class without being first assured that the truth we utter is such that He can endorse.\n\nGamaliel had been Paul’s teacher. He was very astute and non-committal. He said, “Let us wait and see; the truth will conquer.” He expected that the new enthusiasm would die down if it were let alone. He knew that a draught of wind fans a fire. But he lived to see his mistake. We must be warned by Acts 5:42 not only to preach Christ as king in the Temple, but also at home."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 6
+ }
+}

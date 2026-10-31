@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abram at Hebron; Lot Taken Captive -- Genesis 13:14-18; Genesis 14:1-12\n\nLot lifted up his eyes for himself, but when the last of Lot’s followers had streamed out of the camp, God bade Abram lift up his eyes, not to choose, but to behold what God had chosen for him. He must first estimate his possessions, and then enjoy them. Let us count up our treasures in Christ, and use them. Lot grasped at and lost his all. Abram left and inherited all. Notice how prodigal God’s provision is: “All the land… for ever… as the dust… the length and breadth.” It was a far cry from the valley of the Euphrates to Sodom, and the little confederate kings dared to rebel against Chedorlaomer, who swept over their lands like a sirocco, and marched up the valley of the Jordan, laden with booty, and carrying Lot.\n\nYou cannot have the sweets of the world and miss its bitters. The path of separation is the only way of safety and peace!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Abram and Melchizedek -- Genesis 14:13-24\n\nRecently discovered monuments confirm this narrative of the confederacy of the kings, but do not tell of their overthrow. Abram might fairly have left Lot to reap as he had sown, but his soul yearned over his weak and entrapped relative, and he set himself to deliver him. Men of faith and prayer are still able to rescue those who are taken captive by the devil at his will. Faith subdues kingdoms. The moment of success is always one of danger. The king of Sodom insidiously proposed that they should share the spoils!\n\nBut how could Abram live as a pensioner on God’s care, if he feathered his nest with the tainted wealth of Sodom? A previous interview had taken place, which made Abram strong. Melchizedek was king and priest of the tribe which held Jerusalem. Read Hebrews 7:1-28. He brought bread and wine, and a fresh revelation of the character of God, on which Abram rested his soul. What had he to do with Sodom, who was the child of such a Father?\n\nChrist always anticipates Satan. See Luke 22:31."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 15
+ }
+}

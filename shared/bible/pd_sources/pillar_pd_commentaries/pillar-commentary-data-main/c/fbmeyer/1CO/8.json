@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Consideration for Others’ Weakness -- 1 Corinthians 8:1-13\n\nIt was the heathen custom of the time to present for blessing in the idol temples the food that was sold and bought in public marketplaces. A grave question arose, therefore, as to whether the Christian convert might partake of such food without blame. Paul took a broad and common-sense view of the situation. He declared there is only one God and that an idol is an absolute nonentity. Therefore it was a matter of perfect indifference what the heathen butchers might have done before they exposed their meat for sale. At the same time if some weaker brother were really thrown back in his Christian life by seeing his fellow-believer eating in a heathen temple, that in itself would at once be a sufficient reason why the stronger should abstain for the weaker brother’s sake. There are many things which, so far as we personally are concerned, we might feel free to do or permit, but which we must avoid if they threaten to hinder the practice or divert the course of some fellow-Christian."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 9
+ }
+}

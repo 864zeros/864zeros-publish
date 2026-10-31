@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Noble Intercession; Implacable Hate -- 1 Samuel 19:1-12\n\nNot content with exchanging his dress and weapons with his friend, Jonathan pleaded David’s cause at court. He had the royal ear and spoke as David’s daysman. As he touched upon his brother-in-law’s devotion, modesty and courage, the father’s heart relented. We must not, however, take Jonathan’s interposition as illustrating our Lord’s, because Jesus stands for us in the presence of One whose love requires no argument. But learn to abide in “the secret place of the Most High,” and hide thyself, until thou hast learned what thou should do, 1 Samuel 19:2.\n\nWhile Saul’s troops were watching the house on the outside, the psalmist was appealing to God as his strength, and hiding in Him as his strong tower. See Psalms 59:9; Psalms 59:17. Wait on God during the hours when your enemy is waiting for you. We must not only pray for God’s help, but expect and look out for it. All true waiting must be combined with singing. Sing, persecuted soul, in sure confidence that the glorious deliverance awaiting you is near at hand! Notice that Holy Scripture never conceals and never palliates wrong-doing. It does not excuse “lies of necessity.” See Leviticus 19:11; Colossians 3:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Saul Checked by the Spirit of God -- 1 Samuel 19:13-24\n\nDavid hastened to apprise Samuel of the turn that events were taking, and of his grave suspicions that Saul was attempting on his life. For greater security the prophet led him to a cluster of booths, woven probably of osiers (hence the name Naioth), where a number of young men were being trained for the prophetic office. This gives us an insight into the constructive work in which Samuel was engaged during the later years of his life. They were living in an atmosphere which seemed charged with spiritual electricity. Into this sacred assembly Saul forced three successive bands of messengers to arrest David-and finally went himself.\n\nBefore he reached the place he, also, was overcome, and lay on the ground in a trance which lasted all that day and night. Such scenes were not uncommon in the days of Wesley and Jonathan Edwards. But there was a vast gulf separating Saul from David in this matter. Between David and the prophetic Spirit there was a real affinity. In purity and simplicity he had yielded himself to God. Saul was another man for the time, but not a new man. The Spirit was on, but not in him. He had gifts, but not grace. There was no root, and the plant withered away."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 20
+ }
+}

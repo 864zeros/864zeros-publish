@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Great Healer and the Lowly King -- Matthew 20:29-34; Matthew 21:1-7\n\nThe Lord is always saying: What will ye that I shall do? Let us not ask small things. We honor Him by making great demands. Our greatest requests come far short of His generosity and resources. It seems as though we are always giving Him pain by the meagerness of our expectation. Whatever people say, cry out so much the more! But remember it is not the outcry, but your need and your faith which will arrest His steps.\n\nOur Lord entered the city in fulfillment of prophetic vision, but in great lowliness, along the road carpeted by the loving enthusiasm of the crowds. It was largely a Galilean and popular outburst. The upper classes kept aloof. Remember that ancient prediction quoted here, Isaiah 62:11, and especially Zechariah 9:9. The King comes having salvation. That is the divine order! We shall never know the full power of Christ’s salvation until we have welcomed Him to our hearts as King."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "The Lord of the Temple -- Matthew 21:8-17\n\nIt was only a crowd of poor people who escorted Jesus on Palm Sunday to the Holy City; but they sent their hosannas upward to the highest, and their shouts of acclamation and praise are ever ringing down the ages. Let us take them up and pass them on. Hosanna means Save now, Psalms 118:25, which formed part of the Great Hallel, or Passover Psalms. Thus, one day, His Church, and probably the literal Israel of the future, will hail Him with transports of joy. See Zechariah 2:10. Where Jesus comes, He cleanses.\n\nAt His word the heart that was filled with the din of worldly care becomes the home of prayer, and children-the emblems of humility, simplicity, and faith-gather. While the needy and the childlike are attracted by our Lord’s gentleness, wrongdoers are driven out before the “terror of the Lord.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Fruitlessness Judged and Faith Rewarded -- Matthew 21:18-22\n\nMen have found fault with our Lord for smiting this tree with barrenness. Yet what teacher would not root up a plant, if he desired to teach his pupils some lesson, which could be taught only in that manner! Surely Jesus was perfectly justified in making that fig tree the symbol of the judgment that must overtake all who profess but do not possess. Beware lest He seek fruit of thee in vain!\n\nBut how wonderful those words on faith! He could speak thus, because He was the “author and perfecter” of faith. Paul lived by “the faith of the Son of God.” See Galatians 2:20. All things are possible to him that believeth. Faith annihilates time and distance. To her the unseen is more real than the seen; and the distant as near as the things which the hand can touch. She is the open hand of the soul, which appropriates and takes from the hand of God. But faith is impossible apart from prayer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Authority Which Silenced and Condemned -- Matthew 21:23-32\n\nOur Lord always refused to gratify idle curiosity. When an earnest seeker for truth, like Nicodemus, approached Him to know the way of life, He was willing to give time and thought without stint. But of what use was it to endeavor to satisfy these men who had refused to acknowledge the divine mission of the Forerunner! They would not speak out their inner convictions, because of the effect it would have on their worldly prospects. For such as these Christ has nothing. At all costs, we must be true to the inner light, that is, to God’s Spirit within us.\n\nThe parable of the two sons teaches that hard hearts may lie under fair words, while those of whom we expect least and whose first greeting is abrupt and disappointing, may later prove to be the most devoted and hopeful disciples. If a man repels the gospel with violence, he is more likely ultimately to be won than he who gives a polite and facile assent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "Rejecters Themselves Rejected -- Matthew 21:33-46\n\nThis parable is based on Isaiah 5:1-7. The husbandmen are the religious leaders of the people. The vineyard is of course the Hebrew nation. The servants sent for the produce refer to the prophets and others raised up from time to time to speak for God and to demand “fruits meet for repentance.” Notice that when He speaks of the mission of the Son, our Lord severs Himself, by the sharpest possible line, from all merely human messengers and claims sonship in the most intimate and lofty sense of the word.\n\nIt is said that in the building of Solomon’s Temple, a curiously shaped stone, sent from the quarry, was left to lie for many months in the entangled undergrowth, till suddenly its fitness was discovered for a place in the Temple walls. Then it was put into its right position, which it occupied thenceforward. This incident may be referred to in Psalms 118:22. How truly it portrays men’s treatment of our Lord! Is He your corner-stone?\n\nThe questions on Section 36-74, to be found on pp. 73-75, will serve as a review at this point."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 22
+ }
+}

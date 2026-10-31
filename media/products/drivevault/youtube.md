@@ -1,7 +1,7 @@
 # DriveVault — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/drivevault/`  
 **Web Product Page:** https://864zeros.com/products/drivevault  
-**Pricing Model:** $29.00 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Browse Google Drive and package folders into client-side AES-256 encrypted snaps
 👉 Try DriveVault: https://864zeros.com/products/drivevault
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $29.00 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet DriveVault — the fast, local-first solution that solves this without mess
 👉 Get DriveVault: https://864zeros.com/products/drivevault
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $29.00 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -63,7 +63,7 @@ Cloud Backup Providers Charging Perpetual Storage Rent — DriveVault #Shorts
 ```
 Why pay recurring monthly storage rent to a cloud backup company for files you already own?
 
-DriveVault gives you complete control with a single $29.00 lifetime (no recurring monthly subscriptions).
+DriveVault gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get DriveVault: https://864zeros.com/products/drivevault
 

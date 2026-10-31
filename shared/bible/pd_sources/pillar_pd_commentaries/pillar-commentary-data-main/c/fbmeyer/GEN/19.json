@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Angels with Lot in Sodom -- Genesis 19:1-11\n\nThis chapter withdraws the veil from the ministry of angels. The Lord of Angels stayed with Abraham on the heights. He also, in future ages, was to descend into human Sodoms to seek and save the lost, but at present He delegated this work to angels until the fullness of the time was come. The visit of the angels was due to Abraham’s prayer. How often do angels speed to our dear ones for whom we have prayed! To that ship laboring in the storm, to that deep, dark forest, to that new settlement, into the slums of that wicked city!\n\nTwo references in the Gospels to this scene show how carefully it was being watched by the pure and holy eyes of the Son of man. In Matthew 11:23-24, it seems as though He knew well those streets, and would gladly have passed through them, healing and saving. In Luke 17:28 He adds some further particulars of the careless unconcern of those who would not heed the warnings implied in the story of Gen 14:1-24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Sodom and Gomorrah Destroyed -- Genesis 19:12-23\n\nIt was a very weak nature that heaven was so eager to rescue. Though described as a righteous man, Lot was a very weak one. He had pitched his tent toward Sodom, but apparently had been unable to resist its attractions, and had gone to live within its precincts. It would almost appear that he had become one of its leading citizens. Therefore, his testimony for God was invalidated and worthless. He seemed as one that mocked, even to his own family.\n\nHow the angels must have loved this work. There were four people to be saved, and between them, in the human forms they had assumed, there were four hands-one for each. Is not this work in which we all should share? Let us hasten the lingerers! It is fatal to look behind. All our past is strewn with the memories of our sins and failures.\n\nThere is but one hope. Escape to the Cross of the Divine Redeemer! Shelter in the cleft Rock of Ages! Hasten to the open arms of the Father!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Lot and His Daughters Rescued -- Genesis 19:24-29\n\nGod had mercy on Lot for Abraham’s sake. A missionary told me that when, on writing home to his mother, he narrated his miraculous deliverance from an infuriated mob, she replied by quoting a special entry in her diary to the effect that, during those exact hours, she was detained before God in a perfect agony of intercession for him. Lot was saved from Sodom, but took Sodom with him. He was saved so as by fire, but his life-work was burned up. See 1 Corinthians 3:15. Even his wife might have been saved, but her heart was inveterately wedded to the city.\n\nIn modern cities there are traces of the sins that doomed Sodom. Let us bear witness against them, that we may arrest inevitable judgment. Jude tells us that in the fate of these cities we have an example of eternal fire. Have a place where you stand before God. Only from that eminence can you venture to look out on the awful retribution of human rebellion.\n\nFor Review Questions on Genesis see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 20
+ }
+}

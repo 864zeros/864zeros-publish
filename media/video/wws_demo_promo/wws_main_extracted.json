@@ -1,0 +1,536 @@
+{
+  "about-us": {
+    "texts": [
+      "@media screen and (max-width: 750px) { #shopify-section-template--27620597956919__6bfc4562-bfa2-4449-9302-ba494301924f .video__wrapper { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; } } @media screen and (min-width: 749px) { #shopify-section-template--27620597956919__6bfc4562-bfa2-4449-9302-ba494301924f .video__wrapper { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; } } .section-template--27620597956919__f122df2a-d78b-470b-a17f-415ccfe90276 a{ color: #0066cc } Enhancing the way people experience home since 1979.",
+      "World Wide Stereo is an award-winning residential technology integration firm specializing in lighting, shading, audio, video, networking, electrical, and smart home systems. We partner with homeowners, architects, interior designers, and builders to create beautifully integrated environments where technology feels effortless, intuitive, and built around the way people live.",
+      "While our roots are in high-performance audio, our expertise has grown alongside the homes we serve. Today, we create everything from immersive media rooms and outdoor entertainment spaces to whole-home lighting, shading, networking, and automation systems. Every project is thoughtfully designed to complement both the architecture and the people who live there.",
+      "Our Wayne and Montgomeryville, PA Experience Centers showcase what's possible when exceptional design meets thoughtfully integrated technology, while our ecommerce business continues to serve enthusiasts across the country with carefully curated products, expert advice, and the same personalized service that has defined us for more than 45 years.",
+      "They say \u201ctime flies when you\u2019re having fun?\u201d Yes. They say \u201cdo what you love and you\u2019ll never work a day in your life?\u201d Definitely yes. Flash back with us to August 1979\u2026 see how a tiny hi-fi store with the quirky and somewhat ambitious name \u2013 \u201cWorld Wide Stereo\u201d \u2013 goes from cassette players and boom boxes to power and illumination. And as for the secret to our success, what makes us, us? We sincerely love what we do, and we love sharing that love. So c\u2019mon, scroll along with us below\u2026",
+      "Bob Cole is born to John and Yolanda Cole of Little Silver, NJ. Bob\u2019s love of music comes early \u2013 his mom was a blues rocker and his godmother, Aunt Theresa, a music teacher.",
+      "1950s - 1960s",
+      "Bob makes his first crystal radio set with a sewing thread spool and copper wire. From there on out \u2013 Bob was hooked on gadgets. As a member in good standing in the High School Math Club, Bob visits Bell Labs and meets the inventors of the transistor. Lifelong geekness is now assured.",
+      "1968 - 1978",
+      "At Temple University, Bob studies under two renowned behavioral psychologists: Arnold Lazarus and Joseph Wolpe, which leads to a successful 12-year career as a psychologist. Along the way, Bob is fascinated by the impact of music on the behavior of emotionally disturbed patients. When the mental health center where Bob works loses funding, he quits in search of a more creative endeavor.",
+      "Bob aims high and marries Karen Shechtman, an art teacher in the Philadelphia public school system. Bob realizes he\u2019s going to have to make more money.",
+      "Bob takes a job with a retail franchise called World Wide Stereo as a way to fully embrace his lifelong passion for music, gadgets and making people happy. When the company fails, Bob opens up his own version of the store in Montgomeryville, PA with $2K in cash and $16K in loans from a local bank. He immediately starts building \u2013 at the height of a major recession and oil embargo."
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/About-Us-Header_e31ca390-f034-482e-bdec-18f5cc1841b3.jpg?v=1694025969&width=1600"
+    ]
+  },
+  "showrooms": {
+    "texts": [
+      "World Wide Stereo Showrooms",
+      "World Wide Stereo Showrooms",
+      "Our showrooms in Montgomeryville, PA and Wayne, PA are technology playgrounds, where you can see, hear, and feel what's possible.",
+      "Our showrooms in Montgomeryville, PA and Wayne, PA are technology playgrounds, where you can see, hear, and feel what's possible.",
+      "Montgomeryville, PA",
+      "754 Route 309 Montgomeryville, PA 18936",
+      "(215) 273-9687",
+      "218 E Lancaster Ave Wayne, PA 19087",
+      "(610) 649-7002",
+      "Showroom Deals",
+      "Save Over 60% On High-Performance A/V Gear",
+      "Get unbeatable deals on gently used showroom demos or customer returns. Quantities are very limited."
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Showroom-Montgomeryville-48-1200x1600_2b9fdeb6-823c-47f5-a2df-eb8ce3931a44.jpg?v=1714146270&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20250915-MKT-Wayne-Showroom-Detail.jpg?v=1757983753&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20260803-SHARED-Clearance_Financing-Email-640x850.jpg?v=1785787409&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Events-1200x1200_1200x.jpg?v=1743021755",
+      "https://www.worldwidestereo.com/cdn/shop/files/20250327-MKT-Financing-1500x1500_1500x.jpg?v=1743101659",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240423-MKT-Turntable-Tune-Ups-Hero-1500x1500_1500x.jpg?v=1713925735",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240923-WEB-Showroom-Clearance-Page-Trade-In-Trade-Up-1500x1500_1500x.jpg?v=1749155247",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Images-About-Us-1200x1600_1200x.jpg?v=1713213390"
+    ]
+  },
+  "montgomeryville-pa-showroom": {
+    "texts": [
+      "Home Audio & Theater Store \u2014 Montgomeryville, PA",
+      "Home Audio & Theater Store \u2014 Montgomeryville, PA",
+      "754 Route 309 Montgomeryville, PA 18936 Get Directions",
+      "(215) 368-8343 montgomeryville@wwstereo.com",
+      "Monday - Friday: 9am-6pm Saturday: 9am-5pm Sunday: 11am - 4pm",
+      "Showroom Specials",
+      "Save BIG on demo gear, learn about our Trade-In program and view current financing options.",
+      "Events & Workshops",
+      "Join us\u0003for unique, immersive events and workshops in our Pennsylvania Showrooms.",
+      "The Audio &amp; Theater Store &amp; Technology Experience Center",
+      "Though we opened our doors in Montgomeryville back in 1979, we've remodeled our storied, flagship store with the goal of totally rethinking the home audio and theater shopping experience. Now, instead of racks of products and supermarket-like aisles, we present home technology in a more natural environment \u2013 at work and play in rooms like you have at home. So you can see, hear and feel for yourself just how good (and often inconspicuous) today\u2019s newest home technologies can be when beautifully integrated within real-life settings. Serving Montgomery County since 1979, our intent all along is to relax and inspire \u2013 and never push. Our salespeople know their stuff about audio, video, home theater, and smart home lifestyle technologies, each one an expert. So come, discover new possibilities, get inspired \u2013 and make yourself at home. Speak to one of our friendly salespeople to help with any of your home audio, television, or stereo equipment needs.",
+      "Of course, we also come to you for free in-home consultations. Seeing your home in person gives us:"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Header-3000x1500_2800x.jpg?v=1713198534",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Header-1500x1500_1100x.jpg?v=1713198518",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Location-Icon-405x305.png?v=1713210883&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Call-Icon-405x305.png?v=1713211079&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Hours-Icon-405x305.png?v=1713211159&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Specials-1200x1200.jpg?v=1743021393&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Events-1200x1200.jpg?v=1743021755&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Images-About-Us-1200x1600_1200x.jpg?v=1713213390",
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Chris-B-Large-1200x1200_34b44824-7513-4dcb-adee-3ee37f1b70cd_1200x.jpg?v=1743080307",
+      "https://www.worldwidestereo.com/cdn/shop/files/20250327-MKT-Financing-1500x1500_1500x.jpg?v=1743101659",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240423-MKT-Turntable-Tune-Ups-Hero-1500x1500_1500x.jpg?v=1713925735",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240923-WEB-Showroom-Clearance-Page-Trade-In-Trade-Up-1500x1500_1500x.jpg?v=1749155247"
+    ]
+  },
+  "wayne-pa-showroom": {
+    "texts": [
+      "Home Audio & Theater Store \u2014 Wayne, PA",
+      "Home Audio & Theater Store \u2014 Wayne, PA",
+      "218 E Lancaster Ave Wayne, PA 19087 Get Directions",
+      "(610) 649-7002 wayne@wwstereo.com",
+      "Monday: 9am - 6pm Tuesday: 9am - 7pm Wednesday: 9am - 6pm Thursday: 9am - 6pm Friday: 9am - 5pm Saturday: 9am - 5pm Sunday: Closed",
+      "Flexible Financing",
+      "Enjoy flexible financing options on high-performance audio, TV, & video gear.",
+      "Events & Workshops",
+      "Join us\u0003for unique, immersive events and workshops in our Pennsylvania Showrooms.",
+      "The Future of Smart Living is Arriving in Wayne, PA.",
+      "World Wide Stereo's new Home Technology Experience Center is more than a showroom\u2014it\u2019s a fully immersive destination for homeowners, architects, designers, and builders to explore the future of home technology. From a jaw-dropping 150\u201d video wall and an earth-shaking 9.4.4 home theater, to a pristine two-channel listening room, every inch of this space is built to inspire. Explore reference-level audio , invisible in-wall speakers, artwork-disguised TVs, and next-gen smart home automation \u2014lighting, climate, and security all seamlessly integrated into beautifully designed spaces.",
+      "But we\u2019re not stopping at AV. With in-house electrical services and a full suite of smart lighting options , World Wide Stereo is your one-stop shop for whole-home technology solutions\u2014whether you're starting from blueprints or retrofitting your forever home."
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/20250915-MKT-Wayne-Showroom-Header-3000x1280_2800x.jpg?v=1757941863",
+      "https://www.worldwidestereo.com/cdn/shop/files/20250915-MKT-Wayne-Showroom-Header-1500x1500_1100x.jpg?v=1757942301",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Location-Icon-405x305.png?v=1713210883&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Call-Icon-405x305.png?v=1713211079&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Hours-Icon-405x305.png?v=1713211159&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20250327-MKT-Financing-1500x1500.jpg?v=1743101659&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Events-1200x1200.jpg?v=1743021755&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20250326-WEB-Wayne-Showroom-Page-Historic-Wayne-Images-1200x1500_1200x.png?v=1743008030",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-CLE-Living_01-Vertical-1200x1500_375x.jpg?v=1740693859",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-CLE-Living_01-Vertical-1200x1500_1500x.jpg?v=1740693859",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-CLE-Living_01-Desktop-Large-1920x1080_375x.jpg?v=1696337139",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-CLE-Living_01-Desktop-Large-1920x1080_1500x.jpg?v=1696337139"
+    ]
+  },
+  "our-guarantee": {
+    "texts": [
+      "Delivering Happiness Since 1979.",
+      "Delivering Happiness Since 1979.",
+      "Delivering Happiness Since 1979.",
+      "If you\u2019ve been here before, welcome back \u2013 and if you\u2019re new to World Wide Stereo: welcome to the family!",
+      "Here are just a few ways we have you covered:",
+      "Free Shipping on All Orders",
+      "We offer free standard shipping on all orders within the continental US. We don\u2019t care if it weighs 500 pounds, we don\u2019t care if it\u2019s as big as a house, we don\u2019t care if you live on Mars. You buy it, we\u2019ll ship \u2013 anywhere in the contiguous US, FREE with no minimums.",
+      "Read our full Shipping &amp; Delivery Policy.",
+      "60-Day Returns",
+      "If you\u2019re not thrilled with your purchase, you get a full 60 days to return or exchange it \u2013 whatever it is. (Our customers love this about us.) You are free to relax and shop without any trepidation or hesitation because there is no such thing as buyer\u2019s remorse at World Wide Stereo.",
+      "Read our full Return Policy.",
+      "Price Guarantee"
+    ],
+    "images": []
+  },
+  "our-work": {
+    "texts": [
+      "Start Imagining Your Experience",
+      "Start Imagining Your Experience",
+      "The Ultimate McIntosh Listening Room",
+      "The Ultimate McIntosh Listening Room",
+      "VIEW PROJECT #block-section-button_VUVMtn .banner__button { } #block-section-button_VUVMtn .banner__button-separator-vertical, #block-section-button_VUVMtn .banner__button-separator-horizontal { border-color: ; } @media only screen and (min-width: 750px) and (max-width: 989px) { #Banner-template--27620599464247__image_banner_GT3yYg.banner, #Banner-template--27620599464247__image_banner_GT3yYg.banner.banner--mobile-bottom .banner__content, #Banner-template--27620599464247__image_banner_GT3yYg.banner:not(.banner--mobile-bottom) .banner__content, #Banner-template--27620599464247__image_banner_GT3yYg.banner--mobile-bottom .banner__media, #Banner-template--27620599464247__image_banner_GT3yYg.banner--mobile-bottom .banner__media > img { min-height: 640px; } } @media only screen and (min-width: 990px) and (max-width: 1599px) { #Banner-template--27620599464247__image_banner_GT3yYg.banner, #Banner-template--27620599464247__image_banner_GT3yYg.banner.banner--mobile-bottom .banner__content, #Banner-template--27620599464247__image_banner_GT3yYg.banner:not(.banner--mobile-bottom) .banner__content, #Banner-template--27620599464247__image_banner_GT3yYg.banner--mobile-bottom .banner__media, #Banner-template--27620599464247__image_banner_GT3yYg.banner--mobile-bottom .banner__media > img { min-height: 1000px; } } @media only screen and (min-width: 1600px) { #Banner-template--27620599464247__image_banner_GT3yYg.banner, #Banner-template--27620599464247__image_banner_GT3yYg.banner.banner--mobile-bottom .banner__content, #Banner-template--27620599464247__image_banner_GT3yYg.banner:not(.banner--mobile-bottom) .banner__content, #Banner-template--27620599464247__image_banner_GT3yYg.banner--mobile-bottom .banner__media, #Banner-template--27620599464247__image_banner_GT3yYg.banner--mobile-bottom .banner__media > img { min-height: 1000px; } } @media only screen and (min-width: 1920px) { .homepage-wrapper #Banner-template--27620599464247__image_banner_GT3yYg.banner, .homepage-wrapper #Banner-template--27620599464247__image_banner_GT3yYg.banner.banner--mobile-bottom .banner__content, .homepage-wrapper #Banner-template--27620599464247__image_banner_GT3yYg.banner:not(.banner--mobile-bottom) .banner__content, .homepage-wrapper #Banner-template--27620599464247__image_banner_GT3yYg.banner--mobile-bottom .banner__media, .homepage-wrapper #Banner-template--27620599464247__image_banner_GT3yYg.banner--mobile-bottom .banner__media > img { min-height: 94rem; } } @media only screen and (max-width: 749px) { #Banner-template--27620599464247__image_banner_GT3yYg .banner--border-mobile::after { border: 0.1rem solid; border-color:#333333; } #Banner-template--27620599464247__image_banner_GT3yYg .banner__content{padding-top: 125px;padding-bottom: 0px;} } @media only screen and (min-width: 990px) {#Banner-template--27620599464247__image_banner_GT3yYg .banner__heading,#Banner-template--27620599464247__image_banner_GT3yYg .banner__text p{ max-width: 60rem; } #Banner-template--27620599464247__image_banner_GT3yYg .banner--border::after { border: 0.1rem solid; border-color: #333333; } } @media only screen and (min-width: 750px) and (max-width: 989px) { #Banner-template--27620599464247__image_banner_GT3yYg .banner--border::after { border: 0.1rem solid; border-color: #333333; } } @media screen and (min-width: 750px) { #Banner-template--27620599464247__image_banner_GT3yYg .banner__content {padding-top: 40px;padding-bottom: 40px;} } ARDMORE, PA",
+      "MaMo Architects' Design Studio",
+      "#featured-block-link_itWq9G.featured-link.animated.active { animation-duration: 0.2s; animation-fill-mode: both; -webkit-animation-duration: 0.2s; -webkit-animation-fill-mode: both; } Chestnut Hill, PA",
+      "A Lower-Level Retreat Built for the Whole Family",
+      "#featured-block-link_tgf4G7.featured-link.animated.active { animation-duration: 0.2s; animation-fill-mode: both; -webkit-animation-duration: 0.2s; -webkit-animation-fill-mode: both; } #shopify-section-template--27620599464247__home_page_featured_links_gbLwwV .featured-links__heading-wrapper.animated.active { animation-duration: 0.2s; animation-fill-mode: both; -webkit-animation-duration: 0.2s; -webkit-animation-fill-mode: both; } #shopify-section-template--27620599464247__home_page_featured_links_gbLwwV .featured-links__eyebrow { color: ; } .featured-link__content-top .featured-link__heading-wrapper { border-color: rgba(0,0,0,0); } @media screen and (max-width: 749px) { #shopify-section-template--27620599464247__home_page_featured_links_gbLwwV .featured-links {padding-top: 0px;padding-bottom: 20px;} } @media screen and (min-width: 750px) { #shopify-section-template--27620599464247__home_page_featured_links_gbLwwV .featured-links {padding-top: 20px;padding-bottom: 20px;} } WAYNE, PA",
+      "Nature's Vin, Natural Wine Bar + Shop",
+      "#featured-block-link_D98TbC.featured-link.animated.active { animation-duration: 0.2s; animation-fill-mode: both; -webkit-animation-duration: 0.2s; -webkit-animation-fill-mode: both; } SWARTHMORE, PA",
+      "A Historic Main Line Farmhouse Reimagined"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/20260922-WWS-Washington-Crossing-Listening-Room-Website-Banner-3000x1280_2800x.jpg?v=1790696029",
+      "https://www.worldwidestereo.com/cdn/shop/files/20260922-WWS-Washington-Crossing-Listening-Room-Project-Profile-1500x1875_d3b34842-6061-43a6-8710-2a3af79eb218_1100x.jpg?v=1790702471",
+      "https://www.worldwidestereo.com/cdn/shop/files/20251015-WWS-MAMO-Architects-Website-Banner-1500x2000_93ec91a9-815d-4b26-af07-f3a9c2c30cd8.jpg?v=1785859728&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20260825_WWS_Entertainment_Retreat_Chestnut_Hill_Project_Profile-1500x1875.jpg?v=1790366907&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20260720-WWS-Natures-Vin-Project-Profile-1500x2000_0deb95ee-3da5-4de4-8944-3255c26bcad2.jpg?v=1784771746&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20251030-MKT-Swarthmore-Project-Profile-V2-1500x2000_59a5fd0d-2aa5-4741-8cc6-425c7a8631f3.jpg?v=1785859864&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-CLE-Living_01-Vertical-Fade-1200x1500.jpg?v=1785866353&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Theater-Osuna-Theater-1-1500x2000.jpg?v=1746478031&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-MDL-Thumbnail-1200x1600.jpg?v=1785865322&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-TAN-Thumbnail-1200x1600.jpg?v=1785865768&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Theater-Hoff-3-Social-Square-1200x1600.jpg?v=1736446014&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Our-Work-Portfolio-Landing-Page-OSN-Mobile-1500x2000.jpg?v=1697127517&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Our-Work-Portfolio-Landing-Page-POCONO-Mobile-1500x2000.jpg?v=1697130665&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Our-Work-Portfolio-Landing-Page-WARWICK-Mobile-1500x2000.jpg?v=1697130729&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20230221-WEB-Bishop-Winery-Project-Profile-Mobile-Header-1500x2000_55c569b9-9cb0-438b-b2a1-f6b34071e3e2.jpg?v=1785858820&width=1600"
+    ]
+  },
+  "design-installation": {
+    "texts": [
+      "Making Homes More Fun, Since 1979",
+      "Making Homes More Fun, Since 1979",
+      "World Wide Stereo has been transforming the way people experience music, movies, and smart living for over four decades. As the Philadelphia area\u2019s premier home technology integrator, we design and deliver high-fidelity audio, immersive home theaters, and cutting-edge automation solutions tailored to our clients' unique needs. Everything we do is driven by a single purpose: to create an extraordinary client experience.",
+      "Beyond entertainment, we are a one-stop hub for complete home technology solutions, offering lighting and shading design, home networking, surveillance, and electrical services\u2014blending cutting-edge technology with intuitive design. Our showrooms in Montgomeryville, PA and Wayne, PA are technology playgrounds, where you can see, hear, and feel what's possible.",
+      "World Wide Stereo has been transforming the way people experience music, movies, and smart living for over four decades. As the Philadelphia area\u2019s premier home technology integrator, we design and deliver high-fidelity audio, immersive home theaters, and cutting-edge automation solutions tailored to our clients' unique needs. Everything we do is driven by a single purpose: to create an extraordinary client experience.",
+      "Beyond entertainment, we are a one-stop hub for complete home technology solutions, offering lighting and shading design, home networking, surveillance, and electrical services\u2014blending cutting-edge technology with intuitive design. Our showrooms in Montgomeryville, PA and Wayne, PA are technology playgrounds, where you can see, hear, and feel what's possible.",
+      "Electrical Services",
+      "Home Theater",
+      "Smart Home Technology",
+      "Whole House Music",
+      "Outdoor Entertainment",
+      "Lighting & Shades"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/DSC09292_2800x.jpg?v=1761836308",
+      "https://www.worldwidestereo.com/cdn/shop/files/DSC09292_1100x.jpg?v=1761836308",
+      "https://www.worldwidestereo.com/cdn/shop/files/2026-Best-of-Main-Line-and-Best_of_Style_Badge-400x400_500x.png?v=1783525553",
+      "https://www.worldwidestereo.com/cdn/shop/files/electrical-services.png?v=1781812030&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/service-home-theatre.png?v=1692727971&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/service-smart-house.png?v=1692727972&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/service-whole-house-audio.png?v=1692727972&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/service-outdoor-entertainment.png?v=1692727972&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/service-lighting-shades.png?v=1692727971&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-TAN-bar_01-Social-Square-1200x1200_5625064b-7043-47e6-9b6f-323c13f4cc9b.jpg?v=1712703803&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Theater-Osuna-Theater-3-1500x1500.jpg?v=1730251433&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Showroom-Montgomeryville-42-1200x1200_4a965a11-9487-48d8-9e31-36d030623bf7.jpg?v=1714146004&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/visit-showroom-bckg_desktop_2800x.jpg?v=1692896430",
+      "https://www.worldwidestereo.com/cdn/shop/files/visit-showroom-bck_mobile_1100x.jpg?v=1692895938",
+      "https://www.worldwidestereo.com/cdn/shop/files/wws-location-logo_30x.png?v=1692896091"
+    ]
+  },
+  "home-theater-design-and-installation": {
+    "texts": [
+      "Home Theater Design & Installation Services",
+      "Home Theater Design & Installation Services",
+      "The awe-inspiring, fully immersive, belief-suspending home theater experience we\u2019re known for doesn\u2019t come in a box \u2013 it comes with insight about you, your family and your home environment. Your favorite movies, your listening preferences, how old your kids are, how big your room is, where the windows are, where the sun sets, where the dog sits, and so on. From there, the sky\u2019s the limit. Explore all of this and more with our expert team of home theater design and installation service team.",
+      "The awe-inspiring, fully immersive, belief-suspending home theater experience we\u2019re known for doesn\u2019t come in a box \u2013 it comes with insight about you, your family and your home environment. Your favorite movies, your listening preferences, how old your kids are, how big your room is, where the windows are, where the sun sets, where the dog sits, and so on. From there, the sky\u2019s the limit. Explore all of this and more with our expert team of home theater design and installation service team.",
+      "Private Home Cinemas Private Home Cinemas Media & Gaming Rooms Media & Gaming Rooms Custom Furniture & Acoustic Treatments Custom Furniture & Acoustic Treatments Video Wall Solutions Video Wall Solutions TV Mirror Solutions TV Mirror Solutions One-Of-A-Kind Solutions One-Of-A-Kind Solutions #block-section-template--20971909153079__04a776a1-e1bc-494f-a82d-746cc959fd8f-button-1 .banner__button { } #block-section-template--20971909153079__04a776a1-e1bc-494f-a82d-746cc959fd8f-button-1 .banner__button-separator-vertical, #block-section-template--20971909153079__04a776a1-e1bc-494f-a82d-746cc959fd8f-button-1 .banner__button-separator-horizontal { border-color: ; } @media only screen and (min-width: 750px) and (max-width: 989px) { #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner.banner--mobile-bottom .banner__content, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner:not(.banner--mobile-bottom) .banner__content, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner--mobile-bottom .banner__media, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner--mobile-bottom .banner__media > img { min-height: 640px; } } @media only screen and (min-width: 990px) and (max-width: 1599px) { #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner.banner--mobile-bottom .banner__content, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner:not(.banner--mobile-bottom) .banner__content, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner--mobile-bottom .banner__media, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner--mobile-bottom .banner__media > img { min-height: 767px; } } @media only screen and (min-width: 1600px) { #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner.banner--mobile-bottom .banner__content, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner:not(.banner--mobile-bottom) .banner__content, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner--mobile-bottom .banner__media, #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner--mobile-bottom .banner__media > img { min-height: 800px; } } @media only screen and (min-width: 1920px) { .homepage-wrapper #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner, .homepage-wrapper #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner.banner--mobile-bottom .banner__content, .homepage-wrapper #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner:not(.banner--mobile-bottom) .banner__content, .homepage-wrapper #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner--mobile-bottom .banner__media, .homepage-wrapper #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f.banner--mobile-bottom .banner__media > img { min-height: 94rem; } } @media only screen and (max-width: 749px) { #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f .banner--border-mobile::after { border: 0.1rem solid; border-color:#333333; } #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f .banner__box{padding-top: 0px;padding-bottom: 40px;} } @media only screen and (min-width: 990px) {#Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f .banner__heading,#Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f .banner__text p{ max-width: 60rem; } #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f .banner--border::after { border: 0.1rem solid; border-color: #333333; } } @media only screen and (min-width: 750px) and (max-width: 989px) { #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f .banner--border::after { border: 0.1rem solid; border-color: #333333; } } @media screen and (min-width: 750px) { #Banner-template--27620599857463__04a776a1-e1bc-494f-a82d-746cc959fd8f .banner__content {padding-top: 40px;padding-bottom: 41px;} } #rich-text-template--27620599857463__f2d76ff1-ffe6-482c-a2cf-4cf18d3de121 .rich-text__text a { color: #e8c33a !important; font-size: 100%; } Connect with a System Designer for a free in-home consultation.",
+      "Call: 215-368-8343",
+      "Private Home Cinemas",
+      "Have your own Hollywood screening room In the comfort of your own home with World Wide Stereo\u2019s expert team of home theater designers. At your command, the lights dim and a 100-inch projection screen comes to life. What you'll hear: soft rain falling all around you, spacecraft flyovers that part your hair, a lead guitarist leaping from the stage to your left to land on your right.",
+      "Media &amp; Game Room Design Services",
+      "Build your dream media room designed for multi-purpose entertaining with our home theater and media room design services. Turn your family room into a home theater with concealed high performance audio by dimming the lights and lowering the shades. Experience the ultimate immersive gaming setup with a high-definition big screen display or with multiple screens networked together. Entertain your friends and family the night of the big game or practice your swing with your own personal golf simulator.",
+      "Custom Theater Furniture &amp; Acoustic Treatments",
+      "Choose from our selection of luxe home theater and lifestyle furniture designed specifically for the most comfortable viewing and listening experience. Acoustic treatments will absorb and contain sound where you want it with styles that can either blend in or add to the interest of the space. Our in-house interior designer will work with you or your own designer on selection, material, placement, you name it. Want us to choose? Our team of experts will design your space from start to finish with as much or as little involvement as you would like."
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Services-Detail-Home-Theater-Hero-3000x1685_2800x.jpg?v=1696015362",
+      "https://www.worldwidestereo.com/cdn/shop/files/Services-Detail-Home-Theater-Hero-Mobile-1500x2667_1100x.png?v=1727372938",
+      "https://www.worldwidestereo.com/cdn/shop/files/Services-Detail-Private-Home-Cinema-Side-By-Side-Section-1200x1200_1200x.jpg?v=1783706654",
+      "https://www.worldwidestereo.com/cdn/shop/files/Services-Detail-Media-Gaming-Rooms-Side-By-Side-Section-1200x1200_1200x.jpg?v=1783706672",
+      "https://www.worldwidestereo.com/cdn/shop/files/Services-Detail-Custom-Furniture-Acoustic-Treatments-Side-By-Side-Section-1200x1200_1200x.jpg?v=1783706687",
+      "https://www.worldwidestereo.com/cdn/shop/files/Video_Walls-Featured_Image-1000x1000_1000x.jpg?v=1782157257",
+      "https://www.worldwidestereo.com/cdn/shop/files/TVs_in_Mirrors-Featured_Image-V3-1000x1000_1200x.jpg?v=1783700822",
+      "https://www.worldwidestereo.com/cdn/shop/files/Unique_TV_Installations-Featured-1000x1000_1200x.jpg?v=1783707287",
+      "https://www.worldwidestereo.com/cdn/shop/files/20240404-WEB-Showrooms-Page-Images-Directions-Background-3000x1500_2800x.jpg?v=1713215033",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Location-Icon-405x305_100x.png?v=1713210883"
+    ]
+  },
+  "a-5-1-4-dolby-atmos-basement-theater-in-gladwyne-pa": {
+    "texts": [
+      "Project Profile: Gladwyne, PA",
+      "A 5.1.4 Dolby Atmos Basement Theater in Gladwyne, PA",
+      "Our clients\u2019 basement renovation was focused around a goal to create a multi-use entertaining space where friends could gather and enjoy music, movies, games, and general entertaining overflow. We went with a clean design, where products could be heard but not seen, to support the multi-function space. All electronics, except for the projector and screen, were hidden in one centralized and easily accessible closet location and wirelessly controlled by a single controller.",
+      "In the space, we designed and installed a 5.1.4 Dolby Atmos sound system with a Sony 4K projection system using a 133\u201d 2.35:1 aspect ratio acoustically transparent screen by Stewart Filmscreen. The front soundstage (Left, Center and Right Channels) are hidden behind the acoustical transparent screen featuring Focal 300 series in-wall front and rear speakers and Dolby Atmos in-ceiling speakers . The Universal MX-990 remote controls the Marantz SR6013 receiver , Sony UBP-X1000ES Blu-ray , and Comcast X-1 Cable Box.",
+      "Though not originally designed as a dedicated theater, the client has now dubbed the space as \u201cThe Man Cave\u201d.",
+      "Project Scope &amp; Team",
+      "System Designer: Tommy Gillanders, Sales & System Design",
+      "Programmers and Technicians: Jeff Brand, Paul Rainer, Paul Swencak, Ray Neiffer",
+      "Builder: Dratch Construction",
+      "Architect: Wolstenholme Associates",
+      "Working with World Wide Stereo and Tommy Gillanders in particular for my \u201cMan Cave\u201d was a phenomenal experience. Tommy and his team are incredibly knowledgeable, patient and easy to work with. We spent months figuring out the best configuration for the sound system and Tommy was always available to answer my questions and provide guidance. Tommy and his team have remained responsive and helpful when questions have arisen since the project was completed. I strongly recommend Tommy and World Wide Stereo!\u201d",
+      "Schedule Your Free Consultation"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Theater-BKR-1076-Desktop-Large-1920x1080_97c93a78-7b3c-4165-9861-915d2140a9d7_1920x.jpg?v=1742329500",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Theater-BKR-1076-Social-Square-1200x1200_2_1100x.jpg?v=1742329516",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Theater-BKR-K72A1116-Social-Square-1200x1200_1_1200x.jpg?v=1742329531"
+    ]
+  },
+  "a-9-1-channel-media-room-powered-by-bowers-wilkins-mcintosh-and-marantz": {
+    "texts": [
+      "Project Profile: North Carolina",
+      "A 9.1 Channel Media Room Powered by Bowers &amp; Wilkins, McIntosh, and Marantz",
+      "So often clients approach us thinking they have to choose between a killer home theater system or a dedicated 2-channel stereo system. But you can in fact have the best of both worlds in one space. Our client went from a home with enough room to create two entirely separate spaces for his music listening and for his dedicated home theater, to a new home with a large open layout that would only be able to accommodate one entertainment area. Our sales and design team, along with techs Noah Mastin and Brian Sowden, created a multi-purpose media room that combines Bowers & Wilkins Diamond Series speakers with McIntosh and Marantz components for a world-class 2-channel music listening set-up that doubles as a Dolby Atmos multi-channel home theater for movies. The client was so happy with the outcome that he wrote his own project profile. The profile below and the photographs are all provided by the client.",
+      "Project Scope &amp; Team",
+      "System Designer: Austin Marvel",
+      "Programmers and Technicians: Noah Mastin, Brian Sowden",
+      "\u201cIn our last home, we built a wonderful home theater and a separate 2-channel listening room with World Wide Stereo. Over a period of three years, we enjoyed both of these rooms tremendously. I wasn\u2019t going to trust the work to anyone other than World Wide Stereo to make sure that this new, and rather massive, undertaking went flawlessly. As always, the installers were amazing. Professional, respectful, and went above and beyond to ensure we were happy. The team worked tirelessly to install, program, and fine-tune every last piece of the system. The best things in life are those you can share, and this Media Room will allow us to share our love of movies, music, and art with all of our friends and family. Thank you to the World Wide Stereo team for making our vision a reality. It\u2019s just AWESOME!\"",
+      "About The System",
+      "The star of the show is the pair of gloss white Bowers and Wilkins 802 D3s . Bowers and Wilkins is truly one of the most iconic speakers out there, with the famous Abbey Road Studios using a pair of Bowers &amp; Wilkins 800 Series speakers as their studio monitors. They are complemented by the 707 S2 bookshelf speakers used as rear surrounds, and the HTM1 D3 center speaker - all in satin white finish. The CCM Cinema 7 in-ceiling speakers were installed in the ceiling.",
+      "The entire system is powered by McIntosh - an American amplifier company founded in 1949 and based out of in Binghamton, New York. McIntosh has stood the test of time as the face of high-fidelity amplifiers. The McIntosh MC462 a 450 watt by two-channel solid state amplifier was the perfect partner for the 802D3s.",
+      "Next: the pre-amp selection. Due to the client's love for vinyl we wanted to introduce tubes into the system. The McIntosh C2600 vacuum tube pre-amp is a great way to introduce the delightful tube sound without introducing noise at high volumes or losing dynamics. With a vacuum tube pre-amp and a powerful solid-state amplifier this system was destined to satisfy the clients ear for nuance.",
+      "When building a two-channel system, assessing for room correction is key. To avoid the shape and layout of the client's room from hampering the performance of his system, we used what I like to call our \"ace in the hole\": the McIntosh MEN220 room correction system . This ensures the speakers are positioned in the optimal location without using room correction software. The purpose of room correction software is to remove the peaks and nulls that cancel out soundwaves and remove reflections that the listener hears instead of the speakers. The MEN220 was so valuable to the system that, when engaged, it was the difference between just listening to a stereo system and transforming his room into a live concert and studio session with his favorite artist."
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-Weisgal-52818250-Desktop-Large-1920x1080_1_1920x.jpg?v=1743004670",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-WGAL-Thumbnail-1200x1200_1100x.jpg?v=1743004397",
+      "https://www.worldwidestereo.com/cdn/shop/files/Portfolio-Home-Entertainment-WGAL-Thumbnail-1200x1200_1200x.jpg?v=1743004397",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/Portfolio-Home-Entertainment-Weisgal-52818250-Desktop-Large-1920x1080_1_218970fc-96f5-4b54-b94e-44e0c5237303.jpg?v=1743004801",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/Portfolio-Home-Entertainment-Weisgal-53255437-Desktop-1152x648_8bf076c3-1732-4685-84cc-9ea9923d0f5f.jpg?v=1743004552",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/Portfolio-Home-Entertainment-Weisgal-IMG_9908-Desktop-1152x648.jpg?v=1743004553"
+    ]
+  },
+  "mcintosh-listening-room-washington-crossing-pa": {
+    "texts": [
+      "@media screen and (max-width: 750px) { #shopify-section-template--27620599398711__video_FQeCyi .video__wrapper { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; } } @media screen and (min-width: 749px) { #shopify-section-template--27620599398711__video_FQeCyi .video__wrapper { padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; } } #rich-text-template--27620599398711__7273840c-9373-4044-b3bb-e14824f584a2 .rich-text__text a { color: #e8c33a !important; font-size: 100%; } Project Profile: Washington Crossing, PA The Ultimate McIntosh Listening Room in Washington Crossing, PA",
+      "After 20 years living in downtown Philadelphia and Chicago, Ryan finally had the space to build the room he'd been imagining for years. Tucked into his home in Washington Crossing, Pennsylvania, his dedicated listening room brings together a lifelong love of jazz, blues, rock, a collection of more than 1,250 records, and a system built around the warmth of vacuum tubes.",
+      "We worked with Ryan to design and install a two-channel McIntosh system tuned to his room, making sure every component, speaker position, and acoustic panel worked together. The result is a warm, inviting space made for sitting back with a cocktail and listening to album after album.",
+      "Project Scope &amp; Team",
+      "Being able to hear different speakers in a fully furnished, acoustically treated room made the process so much easier. It gave me a lot more confidence in the choices I was making for my own system.",
+      "Ryan, Washington Crossing, PA",
+      "A Room Years in the Making",
+      "City living never left room for a project like this. When Ryan and his wife moved to Bucks County, the dream he'd carried since his early days listening to jazz, blues, and classic rock finally had a place to come to life.",
+      "His love of music started early. In third grade, an aunt gave him a Jimi Hendrix CD, and a deep dive into classic rock followed. An older brother introduced him to Phish, and he's since seen the band about 200 times. In college, jazz and blues took hold, and the quality of those recordings is a big part of what led him to build a room like this.",
+      "Built Around Tubes and Vinyl",
+      "Ryan knew early on he wanted tube amplification, and McIntosh was the natural choice. The American brand has been building amplifiers since 1949, from the Grateful Dead's Wall of Sound to the stage at Woodstock.",
+      "The signal chain starts with a McIntosh MT5 turntable feeding an MP100 phono preamp, then flows into the C1100 tube preamplifier. From there, a McIntosh MEN220 room correction unit, calibrated to a digital map of the room, fine-tunes the sound before it reaches the MC275 tube amplifier and a pair of Sonus Faber speakers."
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/20260922-WWS-Washington-Crossing-Listening-Room-Project-Profile-3000x1280_00051dc8-588f-4138-8d1a-af438847c6d8.jpg?v=1790603097&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/20260922-WWS-Washington-Crossing-Listening-Room-Project-Profile-Scope-1500x1500_6c0e6524-d9fd-4e13-aeae-6224da879022_1500x.jpg?v=1790603184",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05548-HDR-2_54a79870-feca-4652-a290-9d47b0dfea52.jpg?v=1790602282",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05592-HDR_90e2e81c-b40f-4ba1-a07a-35e80962b54b.jpg?v=1790602282",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05628_4710ab0c-ca63-4b5a-bca8-705e8b8efa5c.jpg?v=1790602282",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05631-HDR_be2d91ef-2493-402f-9a6c-55f73b37df6d.jpg?v=1790602282",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05648-HDR_616742dc-0aeb-4cdb-8245-ac7cd7f5e40e.jpg?v=1790602285",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05654-HDR_393fb141-0fb7-4a6a-80a4-ceba3f6ce282.jpg?v=1790602285",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05662_220e02a0-4e8d-4c44-a507-51c0d6efe215.jpg?v=1790602285",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05673_e8ef95c4-80d3-4855-b622-0019e6185fdc.jpg?v=1790602285",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05680_1e656c54-2b35-4e45-a6ec-84959f2a8530.jpg?v=1790602288",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05686_97d2383f-b838-4356-94cc-739b19f43f1d.jpg?v=1790602288",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05697_8837d9db-f9f6-448f-bdc9-5b7cafb2af3f.jpg?v=1790602288",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05710_741c8e60-5574-4811-b660-edae88a52cd5.jpg?v=1790602288",
+      "https://cdn.shopify.com/s/files/1/0727/2860/9079/files/DSC05713_840deefc-7152-48d5-835d-c3ea88f5f063.jpg?v=1790602290"
+    ]
+  },
+  "ben-morrow": {
+    "texts": [
+      "Systems Integration",
+      "Systems Integration",
+      "- Ben Morrow",
+      "I started with World Wide Stereo in 2014, but have been in the industry since 2010. I specialize in lighting control, home automation, smart home AV systems, and networking. I am certificed in Ruckus Wise 1, URC Complete Control and Total Control, Savant Systems, Cleerline Fiber, Vantage RadioLink and Wirelink, and Lutron RadioRA, Shades, and Homeworks.",
+      "I make it a hobby of installing the latest smart-tech in my own house to practice on and teach myself how to make it work best in our client's homes. My favorite movie(s) is the Lord of The Rings Trilogy and I'm a sucker for heavy emo music from the mid-2000's.",
+      "Favorite demo scene: The Avengers (2012), \"I'm always angry\" New York battle scene.",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Ben-M-Large-750x750_350x.png?v=1695067917"
+    ]
+  },
+  "chad-snedaker": {
+    "texts": [
+      "Chad Snedaker",
+      "Chad Snedaker",
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "Whole House Audio",
+      "Fill your home with the music you love with hidden speakers and built-in sound systems.",
+      "#featured-block-ca900260-e498-44c6-8c4f-1ea53dd5fefb.featured-link.animated.active { animation-duration: 0.2s; animation-fill-mode: both; -webkit-animation-duration: 0.2s; -webkit-animation-fill-mode: both; }",
+      "Home Theater & Media Rooms",
+      "Create a movie theater experience in the comfort of your own home.",
+      "#featured-block-df1cf6b8-fb71-4e3a-8d8e-5b37025b8521.featured-link.animated.active { animation-duration: 0.2s; animation-fill-mode: both; -webkit-animation-duration: 0.2s; -webkit-animation-fill-mode: both; } #shopify-section-template--27620598087991__9f07d92c-5620-4bed-a82f-f880c2f71b86 .featured-links__heading-wrapper.animated.active { animation-duration: 0.2s; animation-fill-mode: both; -webkit-animation-duration: 0.2s; -webkit-animation-fill-mode: both; } #shopify-section-template--27620598087991__9f07d92c-5620-4bed-a82f-f880c2f71b86 .featured-links__eyebrow { color: ; } #shopify-section-template--27620598087991__9f07d92c-5620-4bed-a82f-f880c2f71b86 .featured-links__heading, #shopify-section-template--27620598087991__9f07d92c-5620-4bed-a82f-f880c2f71b86 .featured-link-content__description { color: #ffffff; } .featured-link__content-top .featured-link__heading-wrapper { border-color: rgba(0,0,0,0); } @media screen and (max-width: 749px) { #shopify-section-template--27620598087991__9f07d92c-5620-4bed-a82f-f880c2f71b86 .featured-links {padding-top: 20px;padding-bottom: 20px;} } @media screen and (min-width: 750px) { #shopify-section-template--27620598087991__9f07d92c-5620-4bed-a82f-f880c2f71b86 .featured-links {padding-top: 50px;padding-bottom: 10px;} }",
+      "Outdoor Entertainment",
+      "Create an outdoor entertaining space that brings family and friends together."
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Chad-S-Large-750x750_350x.png?v=1695064828",
+      "https://www.worldwidestereo.com/cdn/shop/files/whole-house.jpg?v=1694444987&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/home-theater.jpg?v=1694445017&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/outdoor-entertainment.jpg?v=1694445260&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/lighting-control.jpg?v=1694445297&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/home-network.jpg?v=1694445313&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/smart-home.jpg?v=1694445681&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/window-treatment.jpg?v=1694446072&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/car-stereo.jpg?v=1694446088&width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/smartcare-support-logo_256x.png?v=1692808231"
+    ]
+  },
+  "chris-barnhart": {
+    "texts": [
+      "Chris Barnhart",
+      "Chris Barnhart",
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "\"I've transitioned from a life of making music to a life of enjoying music. I want to spread the joy of music to everyone, and help realize the creator's intent in the homes of all my clients. Taking someone's entertainment system to the true next level has become my favorite part about working with clients.\"",
+      "- Chris Barnhart",
+      "I've been working in the technology and AV space since 2016 and found my home with World Wide Stereo in 2021. I specialize in high-performance stereo and home theater design and I have a McMasters Certification from McIntosh Labs.",
+      "Music is where it all started for me. I grew up playing the Trombone, from 4th grade through to a collegiate level. I have a background in recording studio engineering and I have my Bachelors from degree in music composition and music technology which has greatly informed where I am today. I pride myself on my knowledge and passion of the products and brands we sell, and love to share that passion with my clients and colleagues.",
+      "Favorite song: You Look Good To Me by Oscar Peterson",
+      "Favorite movie scene: The First Challenge (The Race) from Ready Player One",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Chris-B-Large-750x750_350x.png?v=1695063351"
+    ]
+  },
+  "chris-mulhearn": {
+    "texts": [
+      "Chris Mulhearn",
+      "Chris Mulhearn",
+      "Car Sales & System Designer",
+      "Car Sales & System Designer",
+      "\"The best part of the job is designing a system with the client\u2019s collaboration. Being able to talk candidly about ideas and suggestions makes the job easy and establishes trust on both sides of the counter.\"",
+      "- Chris Mulhearn",
+      "I am the car audio (aka 12 volt) specialist here at World Wide Stereo. And even beyond car: if it rolls, floats, or flies, I can make it awesome. From speakers, to processors, amplifiers, and safety and convenience features like remote start, dash cams, you name it. I've designed marine sound systems, RV entertainment systems, vintage cars with stealth gear that sounds amazing and doesn't impact the integrity of the original design. We perform a lot of custom work in-house and specialize in build-outs tailored to each vehicle and client's needs.",
+      "In high school, car audio was a hobby. I officially started in the car audio industry in 2001 and began my career at World Wide Stereo in 2008.",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Chris-M-Large-750x750_350x.png?v=1695064801"
+    ]
+  },
+  "dave-sailer": {
+    "texts": [
+      "Dave Sailer",
+      "Dave Sailer",
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "\"That moment you turn the keys over to a client... there's nothing like it. We literally get to make people's home more fun every day and help them create memories with their families. It's a fabulous thing.\"",
+      "- Dave Sailer",
+      "I started with World Wide Stereo in 1995 and have been in the AV industry since 1988. I specialize in two-channel audio and surround sound systems, portable audio solutions headphones, TVs, and outdoor entertainment.",
+      "I'll take music over TV any day, preferably something by Pink Floyd... anything 70's (yes to disco). My go-to demo song to get the energy going is \"Make Us Stronger\" by Ghost Rider.",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Dave-S-Large-750x750_350x.png?v=1695064801"
+    ]
+  },
+  "frank-polek": {
+    "texts": [
+      "Frank Polek",
+      "Frank Polek",
+      "Car & Marine Installation Specialist",
+      "Car & Marine Installation Specialist",
+      "- Frank Polek",
+      "I grew up fascinated by all things mechanical. I remember listening to Hotel California (for hours on end) on the AM radio that I mounted to the handlebars of my bike (foreshadowing?).",
+      "I had a few jobs doing light automotive maintenance before stumbling across an ad for an Installer Trainee at World Wide Stereo back in 1988. Gobbling up information and skills from every training session possible, I quickly established a position as Lead Installer and continue to master the car bay here today at World Wide Stereo, happily making cars, boats, RVs, (you name it) sound and look awesome. With a love of classic cars, I particularly enjoy helping clients design nearly invisible systems in classics and hot rods.",
+      "When not under the dashboard of a car, you can find me road tripping around the country, wandering about on my motorcycle, or kayaking up and down the Schuylkill River (mostly down) in warmer weather. When it gets too cold to be outside I will post up on my sofa with a beer to watch Killer Clowns From Outer Space or maybe Evil Dead 2. What can I say, I know what I like!",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Frank-P-Large-750x750_350x.png?v=1695064801"
+    ]
+  },
+  "ira-segall": {
+    "texts": [
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "\"The more a sound system can be improved to be a part of an individual acoustic environment, the better the emotional listening experience is. Helping a listener get the closest to that experience is what I do.\"",
+      "- Ira Segall",
+      "I started with World Wide Stereo in late 2009 and I am now a Senior Product Specialist on our online support team. I've been in the audio industry since 1975, with my first job at a Sam Goody store and I've worked for many of the major (and not so major) audio stores in the Philadelphia area as both a sales trainer and a sales manager. I pride myself on my unique knowledge of the human experience, psychology, behavior, and the sales experience. But way beyond that, I live and breathe music and sound. I grew up in a professional music household and as an adult continue to live in one. As a former recording engineer for the Philadelphia Orchestra, I've captured an eclectic variety of music and studied the emotionality of how music is played and how it is perceived, listened to, and appreciated. I continue to mix live concert sound and practice as a musician myself. Music is raw emotion. I\u2019ve spent a lifetime studying rehearsal behavior, performance behavior and listening behavior. The more a sound system can be improved to be a part of an individual acoustic environment, the better the emotional listening experience is. Helping a listener get the closest to that experience is what I do. To that end, I fancy myself a critical listening system set up artist. Once accomplished, the emotionality of the music and the recording is witnessed on a very different level than just taking the components out of the boxes and connecting the cables.",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-M-Ira-S-Large-750x750_350x.png?v=1726686765"
+    ]
+  },
+  "mario-patelmo": {
+    "texts": [
+      "Mario Patelmo",
+      "Mario Patelmo",
+      "Regional Sales and Showroom Manager",
+      "Regional Sales and Showroom Manager",
+      "\"My favorite part of the job is at the end of the project when everything is done and I get to see the smile on the client's faces. It's so satisfying to watch them light up with giddiness.\"",
+      "- Mario Patelmo",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Mario-P-Large-750x750_350x.png?v=1695060101"
+    ]
+  },
+  "noah-mastin": {
+    "texts": [
+      "Noah Mastin",
+      "Noah Mastin",
+      "Systems Integration",
+      "Systems Integration",
+      "- Noah Mastin",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Noah-M-Large-750x750_350x.png?v=1695067530"
+    ]
+  },
+  "patrick-o-brien": {
+    "texts": [
+      "Patrick O\u2019Brien",
+      "Patrick O\u2019Brien",
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "I love building relationships with clients and helping them discover and build their dream system .Patrick",
+      "- Patrick O\u2019Brien",
+      "With over 20 years in this industry, I started with World Wide Stereo in 2014 and specialize in premium home audio, turntables, home speakers, and headphones. My background is in engineering and luxury audio and I have a McMaster's Certification from McIntosh Labs.",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Patrick-O-Large-750x750_350x.png?v=1695064801"
+    ]
+  },
+  "ron-rumer": {
+    "texts": [
+      "Chief Regional Sales Director",
+      "Chief Regional Sales Director",
+      "\"You just treat people the way you want to be treated. It's about respect, really listening, and staying focused on the experience you're creating together. The best part of my job is meeting a family for the first time who is remodeling or even building their new home and working with them to design the perfect entertainment and technology solutions and then have our WWS installation team install it \u201cjust right\u201d . You know when it\u2019s a win for all parties involved when you call your client back to check in and you hear music playing in the background!",
+      "\"I have a very strong work ethic and an obsession for detail with an eye for the focal point of any room that will have our installed WWS solutions. Planning is key along with the ability to work right alongside our technicians, project managers, and subcontractors.\" -Ron",
+      "- Ron Rumer",
+      "Ron has been with World Wide Stereo nearly since day 1, as have many of his clients. On his way to becoming an electrical engineer at Chestnut Hill College, he walked into our small stereo back in 1979 and never left. If you haven't seen this video about our story , it showcases why clients have been putting their trust in Ron for over 40 years and counting. Each project, no matter the scope, receives his full measure of energy, skills, and passion that define and are the guiding compass of World Wide Stereo's culture.",
+      "Ron specializes in all of World Wide Stereo's inspired home entertainment and technology systems including high performance Wi-Fi networks, Lutron lighting and shading control systems, and dedicated home cinemas. Ron's prefers action movies to romantic comedies - with the new Top Gun Maverick movie topping his list. When asked about his hobbies? His response: World Wide Stereo. But really, we all know that Ron's favorite pastime is riding his John Deere tractor around on his 6 acres, all of which maintain impeccable full-property Wi-Fi coverage so he can listen to music via his noise-cancelling headphones. Dog Jack in his lap, and Rascal Flatts on his playlist.",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Ron-R-Large-750x750_350x.png?v=1695060134"
+    ]
+  },
+  "roni-ben-david": {
+    "texts": [
+      "Roni Ben-David",
+      "Roni Ben-David",
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "(302) 547-7281",
+      "rbendavid@wwstereo.com",
+      "218 E Lancaster Ave Wayne, PA 19087"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Roni-Ben-David-Large-750x750_7d2a3774-4fac-4ae3-ad1c-1691a466ba28_350x.png?v=1763568919",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Call-Icon-405x305.png?v=1713211079&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Email-Icon-405x305.png?v=1717439104&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Location-Icon-405x305.png?v=1713210883&amp;width=1600"
+    ]
+  },
+  "ross-whitecavage": {
+    "texts": [
+      "Ross Whitecavage",
+      "Ross Whitecavage",
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "\"As a musician myself, I have always been close to music and how it can both transform and recall an experience. I love being able to demo an incredible music system and connect with clients over a shared love and appreciation for music.\"",
+      "- Ross Whitecavage",
+      "I've been in the AV and with World Wide Stereo for over two decades and my system design experience spans car audio, as a Mobile Dynamics graduate, and home AV.",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Ross-W-Large-750x750_350x.png?v=1695064801"
+    ]
+  },
+  "ryan-rumer": {
+    "texts": [
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "\"I love meeting new people every day. For me, it's all about collaboration and taking a clients ideas, wants, and needs and bringing that to life for them.\"",
+      "- Ryan Rumer",
+      "I have been in Sales and System design with World Wide Stereo since 2011. I specialize in new construction and home remodel projects and planning, Wi-Fi networks, home theater, outdoor audio and lighting, and two-channel audio and music systems. I work with clients and also partner directly with builders, architects, designers as a resource to incorporate technology systems into their client's projects.",
+      "My go-to demo movie is Jurassic Park. It's a classic and still delivers goosebumps every time. My go-to demo music? The Jurassic Park movie theme. Yep, the demo usually starts with a client looking at me like: \"huh?\", and then the score builds and the memories come back and the smile comes out.",
+      "Featured Articles"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/Headshot-Ryan-R-Large-750x750_350x.png?v=1695064801"
+    ]
+  },
+  "sean-mcbride": {
+    "texts": [
+      "Sean McBride",
+      "Sean McBride",
+      "Sales & System Designer",
+      "Sales & System Designer",
+      "(610) 649-7002",
+      "smcbride@wwstereo.com",
+      "218 E Lancaster Ave Wayne, PA 19087"
+    ],
+    "images": [
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Call-Icon-405x305.png?v=1713211079&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Email-Icon-405x305.png?v=1717439104&amp;width=1600",
+      "https://www.worldwidestereo.com/cdn/shop/files/WWS-Location-Icon-405x305.png?v=1713210883&amp;width=1600"
+    ]
+  }
+}

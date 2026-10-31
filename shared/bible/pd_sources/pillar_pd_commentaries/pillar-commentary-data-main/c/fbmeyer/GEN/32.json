@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob Fears to Meet Esau -- Genesis 32:1-12\n\nBefore we encounter our Esaus we are sure to meet God’s angels. If only our eyes are not holden we shall perceive them. The world is full of angel help! There are more for us than against us! The Captain of the Lord’s hosts is as near us as He was to Joshua, and His squadrons await our cry. “Thinkest thou,” said our Lord, “that I cannot beseech my Father, and He shall even now send more than twelve legions of angels!” In times of trial we betake ourselves to God, and are justified in claiming His protection, so long as we can show that we are on His plan and doing His will. It was the news brought by his messengers of Esau’s approach that elicited from Jacob this marvelous prayer; but his prayer did not prevent him making what plans he could for the safety of his dear ones."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Jacob Wrestles and Prevails -- Genesis 32:13-32\n\nThere is a fulsomeness in Jacob’s address to Esau, which sounds inconsistent with the noblest manhood and the firmest faith. Why should he speak of “my lord” Esau, and endeavor to appease his wrath with soft speeches and rich gifts? Evidently much had to be effected in his character before he could become one of the great spiritual forces of the world, and his supreme discipline came in that midnight wrestle. The Angel who wrestled with him could have been none other than the Son of man, who is also the Angel of the Covenant and Son of God. It was not that Jacob wrestled with the Angel, but that the Angel wrestled with him, as though to discover and reveal his weakness, and to constrain him to quit reliance on his own strength and to learn to cling with the tenacious grip of a lame man, who dare not let go, lest he fall to the earth. Ah, it is well to be even maimed, if through the withered thigh we may learn to lay hold on the everlasting strength of God, and learn His secret Name!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 33
+ }
+}

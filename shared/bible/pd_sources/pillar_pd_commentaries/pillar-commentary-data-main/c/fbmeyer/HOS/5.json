@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Rebuke of Apostasy -- Hosea 5:1-15\n\nThe prophet continues his grave indictment of his people. The court and the priesthood were chiefly responsible for the awful degeneracy that was eating out the national heart. The seductions of idolatry that abounded everywhere resembled the snares and nets set by hunters on the wooded heights of Gilead and Tabor.\n\nSuddenly, within a month, Hosea 5:7, an alarm sounds from hill to hill. The foreign invader has entered the country and is slowly marching southward. Even Benjamin is threatened. Ephraim must suffer because of the institutions of Omri and Ahab, Hosea 5:11; and Judah, because her princes were grasping and fraudulent. Though message after message was sent to procure the help of Jareb-a symbolical name for Assyria, “the warlike,” he would not be able to avert the approaching dissolution of the Jewish state. You cannot stop the dry-rot by grand alliances.\n\nNothing can save a nation in whose heart the worst forms of corruption are being nourished, except a wholesale return of God and a seeking of His face. It is certain that if this lesson were profoundly learned and then practiced, the horrors of a world in arms would come to a speedy and a blessed end."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 6
+ }
+}

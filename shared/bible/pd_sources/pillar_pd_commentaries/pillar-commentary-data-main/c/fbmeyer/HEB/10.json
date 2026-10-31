@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Lo, I Come To Do Thy Will” -- Hebrews 10:1-10\n\nWhen a heavenly body is in eclipse it can be examined with even greater precision than when the astronomer’s eye is directed toward its burning glory; so in Leviticus we can discover details of our Lord’s atonement otherwise overlooked. This is notably the case in Leviticus 1:1-17; Leviticus 2:1-16; Leviticus 3:1-17; Leviticus 4:1-35.\n\nThe keywords of this chapter are year by year and day by day as contrasted with continually and forever. Repetition means imperfection. The ancient offerers of sacrifice could never be sure that they were finally accepted. Each year they had to go over the odd ground. How different from us, who have heard Jesus say, “It is finished” !\n\nThe spirit of inspiration offers to us the secret of our Savior’s work in His voluntary identification with the divine purposes. It was not so much His outward anguish and blood-shedding that made reconciliation possible, as His cry, “Not my will, my Father, but thine.” His attitude reminds us of the ancient custom of boring fast to the door the ear of the servant, who desired never again to leave His master’s service. “Mine ears hast thou bored.” See Psalms 40:6, margin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The New and Living Way Open to Us -- Hebrews 10:11-25\n\nNote the contrast between the standing of the priests and the sitting of the Priest. The one indicated incompleteness, the other a finished work. All that needed to be done for our final and entire deliverance from sin was accomplished when Jesus returned to the Father. It is for us to pass in large demands and claims. The bank is full, but we must draw on it.\n\nIt is a great help, in the study of the Old Testament, to notice how explicitly the writer here attributes to the Holy Spirit the words spoken by one of the old prophets. What a comfort it is to know that God forgets our sins when we have confessed and forsaken them!\n\nThe way of prayer and faith was new, for our Lord had just opened it; living, because only those alive in Christ can tread it. The rending of the Temple veil was emblematic of the open vision of God, given through Calvary. But we must be true, believing, reliant on His death and pure through His cleansing, John 13:5-8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Beware of Backsliding -- Hebrews 10:26-39\n\nThe willful sin here referred to does not consist in isolated acts, but in a determined course of action, persisted in until the very desire for a better life wanes and dies out of the soul.\n\nThese strong remonstrances were needed in those days of sore persecution. Three considerations are adduced, urging steadfastness: (1.) The certain punishment which must follow on the rejection of the greatest gifts that God can make, so much richer than anything presented under the Mosaic covenant. (2.) The sufferings already endured, the reward for which would-be forfeited, if these harried souls were now to draw back. (3.) The near advent of the Christ, who would not fail to compensate His faithful servants.\n\nThen we are reminded that the just-those who have been accepted in the Beloved-live; that is, may derive all the reinforcements of soul strength and patience that they require, from the unseen and eternal world where Jesus waits to succor and uphold."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 11
+ }
+}

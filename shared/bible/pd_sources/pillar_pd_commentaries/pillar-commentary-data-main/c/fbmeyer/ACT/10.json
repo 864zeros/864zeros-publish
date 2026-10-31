@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Guidance for Men Who Pray -- Acts 10:1-16\n\nAt this point the Church took a new departure, and the gospel broke over the walls of Jewish exclusiveness and was preached for the first time to pure-blooded Gentiles. Caesarea, built by the great Herod, was practically a Roman city, and the official seat of the Roman government in Judea. Cornelius was an officer of high rank, and it would seem naturally of noble character. He had no sympathy with the religious fables and sensuous indulgence of his time, and was attracted to the Jewish faith, which stood alone in the world for pure and undefiled conceptions of God. He adopted some of its characteristic features-its hours of prayer, its practice of fasting, and its almsgiving.\n\nHe had apparently set apart the whole of this memorable day for earnest inquiry as to the way of salvation, and as the sun was declining an angel brought the necessary indication of the steps that he should take. In the meanwhile God was about to prepare Peter to bring Cornelius into the perfect light. On the following day, as the messengers of Cornelius were nearing Joppa, the vision of a redeemed world from which Hebrew restrictions had vanished, opened to the Apostle a new and wider conception of God’s purpose."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Jew and Gentile Meet -- Acts 10:17-33\n\nIt should be carefully noted that the mental impression which was produced by Peter’s vision was corroborated by the fact of the knocking and inquiring group at Peter’s door. This is God’s invariable method. For us all, as we contemplate taking a new and important step in life, there are the urging of the Spirit, the impression or vision of duty, and the knock or appeal of outward circumstances.\n\nEvidently Cornelius had gathered to his quarters in the barracks his kinsmen and a number of intimate friends, who were as eager as he to discover the will of God. They remained quietly waiting until the party from Joppa had completed their thirty-mile journey. Peter had taken the precaution of bringing with him six brethren, evidently with the expectation that the events of that day would not only create a new era, but would also be called into serious question.\n\nThe welcome that Cornelius gave was very significant. That a high-born Roman should prostrate himself before a Jewish evangelist was unprecedented, though it revealed the true reverence and humility of Cornelius’s soul; but the noble simplicity of Peter’s reply was also a revelation of the true greatness of the Apostle, and ought to have more obviously influenced his would-be successors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Gentiles Receive the Holy Spirit -- Acts 10:34-48\n\nThe address with which Peter answered the centurion’s inquiry was largely a recapitulation of the great facts of gospel history. The ministry of Jesus in the power of the Holy Spirit was probably already familiar to his hearers. The story of the crucifixion was equally well-known. These things were not done in a corner. But the third division of the address, Acts 10:39-41, in which the Apostle told of the Resurrection and of our Lord’s appearance to chosen witnesses, of whom he was one, was probably replete with new and startling tidings. Notice the implied invitation of Act 10:43 to them all to believe in Jesus, for the remission of sin.\n\nThe Holy Spirit fell upon the audience, as on the day of Pentecost, Acts 10:44. There must have been that wonderful stirring and moving among the people which we have beheld, in a modified form, in modern audiences, when moved by the celestial wind, as a harvest field by the breeze. Peter never finished his sermon. It seemed as if the Holy Spirit put the Apostle aside, saying, “Thou hast spoken enough; leave the rest to me!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 11
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Devoted Mother -- 2 Samuel 21:1-11\n\nThe time of this famine cannot be fixed with certainty. Probably it took place before Absalom’s rebellion. The reason for it was found in Saul’s slaughter of the Gibeonites. See 1 Samuel 22:19, etc. Though their fathers had obtained the promise of immunity from Joshua and the princes by fraud, yet it was regarded as binding, and its violation was looked upon as a grave offense, involving the whole nation in the charge of perjury. The remnant of the Gibeonites were therefore allowed to fix their own terms. This tendency to connect a national calamity with a national crime has always obtained. There seems to be a universal consciousness that uncaused judgments do not befall.\n\nNote that Merab should be substituted for Michal, 2 Samuel 21:8; 1 Samuel 18:19. Out of all the scenes of cruelty and blood with which this age was characterized, the love of motherhood shines forth undimmed. It is one of the most precious of God’s gifts to man. But what shall we not say of that divine love which clings to us in our most hopeless condition?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "More Giants Slain -- 2 Samuel 21:12-22\n\nIt was in unsettled weather that Rizpah began her watch; but no hardship daunted her, no cost was too great. She shielded the dear remains from bird and beast till the falling rain gave assurance that the long famine was ended, 2 Samuel 21:10, r.v. Her devotion seems to have aroused David to treat with similar honor the remains of Saul and Jonathan, and all were buried together in the sepulcher of Kish.\n\nLove ignites love, as fire kindles fire, without impoverishment. How often a voice raised in prayerful and passionate affection to Jesus has made volcanic fires leap out where all had seemed extinct! Do not stint your alabaster-boxes, for though they drive a Judas to desperation, they will stimulate a David or a Peter to a forgotten duty.\n\nMonstrous sin stalked the world in the person of these giants, 2 Samuel 21:16-22. They beset the old age of David, as they did his youth, though we may not be assailed by the identical temptations as at first, there never will be a time when the progeny of sin will not molest us-if not passion, then jealousy, or avarice, or pride."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 23
+ }
+}

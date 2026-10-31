@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Our Refuge and Defense -- Psalms 11:1-7; Psalms 12:1-8\n\nThe first of these is a debate between fear and faith, and dates from Saul’s persecutions. Timid friends, anxious for David’s safety, urged him to flee to the mountains. Such counsels of expediency are frequently given to the servants of God, Nehemiah 6:1-19. Luther’s diaries are full of such references. But unless our duty is performed, we must stand our ground; we “can do no other.” We must remember that God’s love is with us, and that He always exchanges glances of love with His suffering ones. Compare Psalms 11:7 with Exodus 3:7.\n\nThe opening words of the next psalm appeal for help in bad and evil days. See Micah 7:2. A double heart is literally “a heart and a heart,” Psalms 12:2. Let us be true in act and speech, else we forfeit the Spirit of truth, Ephesians 4:25; Colossians 3:9. Our sighing will make God arise, Acts 7:56. We shall be helped and kept, Psalms 12:7 and Isaiah 54:17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 12
+ }
+}

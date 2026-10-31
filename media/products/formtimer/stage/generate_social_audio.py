@@ -40,7 +40,7 @@ VARIANTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Classroom timer add-ons charging eight dollars a month per teacher? Keep your money and your students on time.",
+            "text": "Classroom timer add-ons charging recurring subscription fees per teacher? Keep your money and your students on time.",
             "lead": 0.15,
             "tail": 0.25
         },
@@ -52,7 +52,7 @@ VARIANTS = {
         },
         {
             "id": "price_scene3_cta",
-            "text": "Just a one-time nine ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+            "text": "Just a single one-time unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
             "lead": 0.15,
             "tail": 0.5
         }

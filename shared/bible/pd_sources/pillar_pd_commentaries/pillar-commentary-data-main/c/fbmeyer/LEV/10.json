@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Deed that Turned Joy into Grief -- Leviticus 9:22-24; Leviticus 10:1-11\n\nThere was a double blessing. First, Aaron blessed the people when he stood against the altar, Leviticus 9:22, and afterward, when he came out of the Tabernacle, Leviticus 9:23. We find here the analogue of the double blessing which our Lord gives His own. When He came from offering His supreme sacrifice on Calvary, which was burned-offering, peace-offering, sin- and trespass-offerings combined, He blessed His own. We are told that as He blessed them He was borne upward to heaven, Luke 24:51; but we expect another blessing from Him, when He shall come forth out of the heavenly Temple and extend His hands in benediction, using perhaps the very words of the ancient benediction. But take care lest you ever introduce strange fire into your worship-i.e., the fire of your own emotions, enthusiasm and excitement.\n\nPonder those mighty words in Leviticus 10:3. We must not rush carelessly into the divine presence, though by the blood of Jesus we have been made nigh, Ephesians 2:13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 11
+ }
+}

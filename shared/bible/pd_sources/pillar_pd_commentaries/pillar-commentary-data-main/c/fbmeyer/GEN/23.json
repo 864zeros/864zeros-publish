@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abraham Buys a Burial Place -- Genesis 23:1-20\n\nDeath is an ever-constant monitor that this world is not our home. We rise up from before our dead to confess that we are only strangers and sojourners on the earth. Though the whole country, by God’s deed and gift, belonged to Abraham, it had not as yet been made over; hence the necessity for this deliberate purchase with all the stately formalities of the leisured East. Abraham’s insistence on buying this grave, and the care with which the negotiations were pursued, show that he realized that his descendants would come again into that land and possess it. It was as though he felt that he and Sarah should lie there awaiting the return of their children and children’s children. See also Genesis 49:29-30. So the graves of the martyrs and of missionaries who have fallen at the post of duty are the silent outposts that hold those lands for Christ, as the graves of the saints await the Second Advent."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 24
+ }
+}

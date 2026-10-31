@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Entering into a New Partnership -- 1 Kings 22:1-12\n\nIt seems strange that so good a man as the king of Judah should have entered into such an alliance. It began with the marriage of Jehoram, son of Jehoshaphat, and Athaliah, Ahab’s daughter; but it was a terrible descent from the high standing of a servant of Jehovah for Jehoshaphat to say to a practically heathen king: “I am as thou art, my people as thy people, and my horses as thy horses.” Partnerships like this, either in marriage or in business, are not only absolutely forbidden, but they are disastrous, in their ultimate outworking. “Be ye not unequally yoked together with unbelievers,” 2 Corinthians 6:14.\n\nMicaiah stands out in splendid contrast. His was the proud honor of being hated by Ahab, as was John the Baptist by Herod. But the prophet in his dungeon, with the bread and water of affliction, was a happier man by far than the king, though clad in royal robes and held in high respect. Is it not clear that Ahab, in his heart of hearts, feared this man of God? We shall see that he put off his royal robes and dressed in a common uniform, that he might evade the death that Micaiah predicted as his fate. Of course it did not avail. God cannot be evaded in that way. His purpose is irresistible."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "What Jehovah Saith… That Will I Speak -- 1 Kings 22:13-28\n\nRamoth was one of the cities of refuge, situated across the Jordan. The false prophets spake as they knew would please the king and gain the popular ear. But Micaiah did not scruple to say that the spirit of a demon was making use of their lips for the utterance of beguiling falsehood. He was evidently speaking metaphorically. By an ironical method of speech he suggested that the voices of such prophets were not to be accepted as truth. He knew well enough God’s living voice.\n\nIn the silence and solitude of his prison, shut away from all the world besides, he had learned to detect the accent of truth, and could easily discriminate between it and the lying boasts of the false prophets. We must try the spirits, whether they are of God, 1 John 4:1. Beware of being beguiled by every voice that speaks in your heart. God’s voice almost always calls you to take up the cross and stand alone against the crowd. It summons to the straight gate and the narrow way.\n\n“Carry him back!” cried the king. He hated the man of God, as the thief dreads a watch-dog. But better a thousand times be in that dungeon with Micaiah than faring sumptuously at Ahab’s table. Do not hide yourself from the truth. Let it search, though it hurt you. It will save you from the unerring arrow."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "The Bow at a Venture Executes God’s Sentence -- 1 Kings 22:29-40\n\nThe cup of Ahab’s sins was full, and the arrow at a venture executed divine retribution. Had Micaiah not spoken, men would have attributed this apparently chance arrow to misfortune; now, however, it became invested with quite another significance. There is no such thing as chance in this world. The bird does not fall to the ground, the arrow does not find its way to the heart, without a superintending Providence. Whether you live or die, your life is under the immediate supervision of the Almighty. In the battlefield, not a single bullet can hit your beloved, apart from the permitting providence of God. All is under law.\n\nPut on the whole armor of God that you may be able to stand in the evil day. Take the shield of faith, as covering your whole being, lest the joints of the armor open to the fiery darts of your foe. Watch and pray that you enter not into temptation. Note the contrast in the end of these men. The one went to his own place; no disguise could avert his doom. The other seems to have returned to God, 1 Kings 22:32 and 2 Chronicles 18:31, and God gave him years of rest, victory, and prosperity, of which further details are given in 2 Chronicles 19:1-11; 2 Chronicles 20:1-37."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "“Broken Ships” -- 1 Kings 22:41-53\n\nFurther details of Jehoshaphat’s good reign are given in 2 Chronicles 17:1-19; 2 Chronicles 18:1-34; 2 Chronicles 19:1-11; 2 Chronicles 20:1-37. He made strenuous efforts to rid the land of the more obvious evils that disgraced it, though some of the abuses seemed too deeply rooted even for his strong hand, 1 Kings 22:43. The great defect of Jehoshaphat’s character was the ease with which he associated himself with Ahab and his family; for this subsequent generations paid a heavy penalty, 2 Kings 11:1-21.\n\nJehoshaphat attempted to re-open the sea-commerce with Ophir, and entered into partnership with Ahaziah to build ships in Solomon’s old port of Ezion-geber, to make the circuit of Africa en route for Spain. But, as we learn from 2 Chronicles 20:37, a prophet of Jehovah remonstrated with him for renewing the alliance with the king of Israel; and the storm that shattered the ships on the rocks, before they set sail, gave evidence of the displeasure of the Almighty. Let us beware of these alliances and partnerships with the ungodly. Sooner or later they meet with disaster. God blocks our path and defeats our plans; and if only we are led to repentance, our broken ships may give us cause for thanksgiving in eternity.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moses’ Song: the Lord’s Favor upon Israel -- Deuteronomy 31:30; Deuteronomy 32:1-14\n\nThe song of Moses, like the fabled song of the swan, was his last and sweetest. It is probably the noblest ode in the whole compass of the Bible, and is the source from which subsequent singers derived suggestions for their noblest outbursts. The marginal references prove how deeply it dyed the national sentiment.\n\nIt excels in the names and designations of the Almighty. He is the Rock: Deuteronomy 31:4; Deuteronomy 31:15; Deuteronomy 31:18; Deuteronomy 31:30; Jehovah: Deuteronomy 31:6; Father: Deuteronomy 31:6; the Most High: Deuteronomy 31:8; God: El, the strong, Deuteronomy 31:15, etc. What a study are the names of God, scattered through the Bible! Each was coined to meet some need of the human soul. What the rocks of the desert are to its shifting sands God is amid the changes of this mortal existence.\n\nThis earlier part of the song is very tender. We are God’s portion; the apple of His eye; as young eaglets, whom the mother-bird is carefully teaching to fly, the favored recipients of God’s richest gifts, Deuteronomy 31:13, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Moses’ Song: Israel’s Response -- Deuteronomy 32:15-35\n\n“Jeshurun” is a pet name for Israel, implying affection and endearment. The metaphor employed is derived from a pampered animal which, in consequence of rich and plentiful feeding, becomes mischievous and vicious.\n\nLet us be warned by these denunciations against backsliding and willful sin. The greatness of our privileges will be the measure of the anguish of our doom. They who are exalted to Heaven by privilege must be cast down to Hades if they refuse and reject. The most fervent love becomes the hottest fire when it turns to jealousy. O my soul, it becomes thee to fear God as well as love Him. Remember Hebrews 10:26.\n\nBut what privileges await those who obey! When we abide in God, no enemy can stand against us. Five, strong in His miraculous fellowship, can chase a hundred, and a hundred, ten thousand. See Leviticus 26:8; also 1 Samuel 14:1, etc. God shows “Himself strong in the behalf of them whose heart is perfect toward Him.” See 2 Chronicles 16:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Moses Views What Others Shall Possess -- Deuteronomy 32:36-52\n\nSometimes God leaves us to ourselves that we may learn our weakness and sinfulness. Then, when our power is gone and we seem destined to be destroyed, we begin to repent of our idolatry and apostasy and to long after our former blessed experiences. At such times He draws graciously near to us again, to heal, to quicken and to deliver. He renders swift vengeance to the evils that have desolated us, and is merciful with a great compassion. See Deuteronomy 32:43. In that remarkable verse, quoted in Romans 15:10, the appeal goes forth to all the world to join with God’s people in glad acknowledgment of His saving mercy.\n\nThis noble song declares for all ages the way of life and peace as contrasted with soul-death and misery. Every line of it has been fulfilled in the history of the Jews. May we not hope, also, that the time is not far distant when Jew and Gentile shall rejoice together in the bonds of common Christian fellowship? Note Deuteronomy 32:46-47. The love and service of God are life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 33
+ }
+}

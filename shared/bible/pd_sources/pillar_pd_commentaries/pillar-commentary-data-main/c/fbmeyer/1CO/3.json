@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Prosperity Comes from God -- 1 Corinthians 3:1-9\n\nIn all our relations with our fellow-men, Christ’s followers must realize their obligations as members of one great family, with one God. A man may be in Christ, truly regenerate and forgiven for his past sins, and yet be carnal; that is, according to Romans 7:18, he may be ruled by me, I, self. The marks of this inward disposition are set out here. He is a babe who needs to be fed with milk, little and often, because unable to digest solid food. He is a sectarian, throwing contempt on those who do not belong to his own school of thought. He allows himself to be infected with jealousy and strife. Let us test our Christian life by these symptoms. Where are we? And if we are conscious that self has become enthroned as the governing motive of life, let us not rest till Christ takes its place.\n\nIt is not easy to learn that the planter or the waterer is just nothing at all, and that God is all. Let us think of ourselves only as God’s instruments, and in a humble way as God’s fellow-workers. It is a most helpful thought. Constantly when engaged in tilling the soil as evangelists or in building character as preachers and teachers, let us count on success, because of the all-power of our great Partner. He must give the policy and direction; it is our part to conform wholly to His will and guidance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Build on the Sure Foundation -- 1 Corinthians 3:10-23\n\nWe are called upon to contribute our share to the building of saved souls which is rising through the ages, to be an habitation of God through the Spirit, Ephesians 2:21-22. But in addition, we must not neglect the building of our own character on the one foundation, which is Jesus Christ. God has placed Him to be the foundation of every structure which shall stand firm in all the tests of fire through which we are destined to pass. We must needs go on building day by day. Whatever we do or say is another stone or brick. It is for us to choose which heap of material we take it from; whether from that of the wood, hay, or stubble, or from that of the gold, silver, or precious stones.\n\nAll things serve the man or woman who serves Christ. The lowliest life may be a link in a chain of golden ministry which binds earth and heaven. Our Lord was constantly described in the Old Testament as the Servant of God. He said that He had come down to earth to do His Father’s will. “I am among you as he that serveth.” When we serve Him as He serves the great purposes of God, then everything begins to minister to us. The extremes of existence, of creation, and of duration, all serve us."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 4
+ }
+}

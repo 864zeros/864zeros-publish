@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PHP",
+  "commentaryId": "fbmeyer",
+  "name": "Philippians",
+  "commonName": "Philippians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Inspiring Exhortations -- Philippians 4:1-9\n\nWhat a strong and faithful heart was Paul’s! Poor and despised though he was, he had both joys and crowns of which no hostile force could deprive him. He lived in the encompassing atmosphere of eternity, as we may. Surely these two Christian women could not have withstood this tender exhortation; and all his fellow-workers must have been heartened by the thought that their names were dear to Christ, and entered in the birthday book of the twice-born.\n\nJoy and peace are the subjects of the next paragraph. How wonderful that these struggling little churches were drinking of springs of which the princes and citizens of Greece and Rome knew nothing. Note the conditions. We must be moderate in our ambitions and gentle in our behavior. We must ever practice the presence of our Lord-He is always at hand. We must turn over all causes of anxiety to the Father’s infinite care and leave them with Him. We must thank Him for the past, and count on Him for the future. While we pray, the Angel of Peace will descend to stand as sentry at our heart’s door. But we must possess the God of peace as well as the peace of God-the one condition being that we must earnestly pursue all things that are true, just, pure, and lovely."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“My God Shall Supply Every Need” -- Philippians 4:10-23\n\nThe Apostle had been glad to receive the gifts of his friends, because these evidenced their earnest religious life. It was fruit that increased to their account. On his own part he had learned one of the greatest of lessons-contentment with whatever state he found himself in. This is a secret that can only be acquired by our experience of life in the will of God. When once the soul lives in God and finds its highest ideal in the fulfillment of His will, it becomes absolutely assured that all things which are necessary will be added. All things are possible to those who derive their daily strength from God.\n\nIt is wonderful to hear Paul say that he abounded, Philippians 4:18. A prison, a chain, a meager existence! The great ones of the world would have ridiculed the idea that any could be said to abound in such conditions. But they could not imagine the other hemisphere in which Paul lived; and out of his own blessed experience of what Christ could do, he promised that one’s every need would be supplied. God’s measure is his riches in glory; and his channel is Jesus Christ. Let us learn from Philippians 4:18 that every gift to God’s children which is given from a pure motive is acceptable to Him as a fragrant sacrifice. That reference in Philippians 4:22 shows that Paul was making good use of his stay in Rome!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 1
+ }
+}

@@ -13,12 +13,75 @@
     "count": 7
   },
   "verses": [
-    { "book": "Numbers", "chapter": 6,  "citation": "Numbers 6:24",  "text": "The Lord bless thee, and keep thee:", "plain": "The Lord bless you and keep you;" },
-    { "book": "Numbers", "chapter": 6,  "citation": "Numbers 6:25",  "text": "The Lord make his face shine upon thee, and be gracious unto thee:", "plain": "the Lord make his face shine on you and be gracious to you;" },
-    { "book": "Numbers", "chapter": 6,  "citation": "Numbers 6:26",  "text": "The Lord lift up his countenance upon thee, and give thee peace.", "plain": "the Lord turn his face toward you and give you peace." },
-    { "book": "Numbers", "chapter": 11, "citation": "Numbers 11:23", "text": "And the Lord said unto Moses, Is the Lord's hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.", "plain": "The Lord answered Moses, 'Is the Lord's arm too short? Now you will see whether or not what I say will come true for you.'" },
-    { "book": "Numbers", "chapter": 14, "citation": "Numbers 14:8", "text": "If the Lord delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.", "plain": "If the Lord is pleased with us, he will lead us into that land, a land flowing with milk and honey, and will give it to us." },
-    { "book": "Numbers", "chapter": 21, "citation": "Numbers 21:8", "text": "And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.", "plain": "The Lord said to Moses, 'Make a snake and put it up on a pole; anyone who is bitten can look at it and live.'" },
-    { "book": "Numbers", "chapter": 23, "citation": "Numbers 23:19", "text": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?", "plain": "God is not human, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?" }
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "citation": "Numbers 6:24",
+      "text": "The Lord bless thee, and keep thee:",
+      "plain": "The Lord bless you and keep you;",
+      "visual_prompt": "a kneeling robed figure seen strictly from the back in quiet prayer beside a rough stone ledge in a desert oasis spring shaded by date palms",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "citation": "Numbers 6:25",
+      "text": "The Lord make his face shine upon thee, and be gracious unto thee:",
+      "plain": "the Lord make his face shine on you and be gracious to you;",
+      "visual_prompt": "the first clear rays of dawn cresting over a quiet limestone ridge in a quiet wilderness ridge under a vast sky",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 6,
+      "citation": "Numbers 6:26",
+      "text": "The Lord lift up his countenance upon thee, and give thee peace.",
+      "plain": "the Lord turn his face toward you and give you peace.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a desert oasis spring shaded by date palms",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 11,
+      "citation": "Numbers 11:23",
+      "text": "And the Lord said unto Moses, Is the Lord's hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.",
+      "plain": "The Lord answered Moses, 'Is the Lord's arm too short? Now you will see whether or not what I say will come true for you.'",
+      "visual_prompt": "a reed pen and clay inkwell beside an open manuscript on a reading desk in a quiet wilderness ridge under a vast sky",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 14,
+      "citation": "Numbers 14:8",
+      "text": "If the Lord delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.",
+      "plain": "If the Lord is pleased with us, he will lead us into that land, a land flowing with milk and honey, and will give it to us.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a desert oasis spring shaded by date palms near a stony ridge overlooking the Moab plains (numbers 14:8 motif: delight)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 21,
+      "citation": "Numbers 21:8",
+      "text": "And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.",
+      "plain": "The Lord said to Moses, 'Make a snake and put it up on a pole; anyone who is bitten can look at it and live.'",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a desert oasis spring shaded by date palms near a stony ridge overlooking the Moab plains (numbers 21:8 motif: moses)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Numbers",
+      "chapter": 23,
+      "citation": "Numbers 23:19",
+      "text": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?",
+      "plain": "God is not human, that he should lie, nor a son of man, that he should change his mind. Does he speak and then not act? Does he promise and not fulfill?",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a stony ridge overlooking the Moab plains",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

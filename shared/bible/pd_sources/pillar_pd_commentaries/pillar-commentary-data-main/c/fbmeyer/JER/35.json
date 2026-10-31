@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Lesson from the Rechabites -- Jeremiah 35:1-19\n\nAmong the refugees from the neighboring country who sought asylum within the walls of Jerusalem, was a group of Arabs, known as Rechabites. Probably they encamped in one of the open spaces. They clung tenaciously to the regulations promulgated by Jonadab some three hundred years before. See Judges 1:16; 2 Kings 10:15; 1 Chronicles 2:55. They drank no wine, did not cultivate the ground, and lived in tents. We do well not to touch alcohol; not to strike our roots two deeply into this world, where we are pilgrims and strangers; and to cultivate the pilgrim spirit, which looks for and travels toward the city that hath foundations.\n\nIsrael had not been as true to the divine precepts as the Rechabites to those of their founder. Therefore the Chosen People would be dispossessed and scattered; while the Rechabites have preserved their independence to the present day. Obedience is the only source of permanence. “He that doeth the will of God abideth forever.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 36
+ }
+}

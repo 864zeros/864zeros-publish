@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 56,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“What Can Man Do unto Me?” -- Psalms 56:1-13\n\nThis psalm was composed under the same circumstances as Psalms 34:1-22. See 1 Samuel 21:1-15. What a strange medley is here shown-David feigning madness and composing psalms! Commenting on Psalms 56:3, one says that Isaiah’s resolve is still better: “I will trust and not be afraid,” Isaiah 12:2. Note, the magnificent refrain at the close of each of the first two strophes, Psalms 56:4; Psalms 56:10. The psalmist asks: “What can flesh do?” “Nothing,” is the Apostle Paul’s emphatic answer. Neither death, nor life, nor angels, nor principalities, nor powers can hurt a man who makes God his stronghold, Romans 8:31.\n\nLet us use the last verse for our life-prayer. Live as one on whom God’s vows rest. Thank Him that by His Cross and Passion He has delivered thy soul from death. Could He have done so much at such cost, and then fail? Surely He must deliver our feet from falling, Psalms 116:8, or all the past will have been in vain. Whenever the shadows gather, and past sins threaten, and the enemies of your soul seek to overthrow, plead this prayer: Thou hast… wilt not Thou?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 56
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 55
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 57
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Angel with the Little Book -- Revelation 10:1-11\n\nIf one of God’s angels is so strong and glorious, what must the Lord of angels be! From the splendor of His retinue, we may estimate the wealth of the Prince. How exactly does this description of the little book suit the word of the Cross, that is, the message of the gospel! Things are spoken to the saints, which, as Paul says, no tongue can utter. They are sealed to the unbelieving but opened to the children of God. Notice that magnificent description of the ever-living God, the Creator, the Unfolder of the mystery of His dealings, Revelation 10:6-7. See also 1 Corinthians 2:12.\n\nThe gospel is full of sweetness and delight in its first conception. The sense of peace with God, the consciousness of pardoned sin and acceptance in the be-loved, are like the music of heaven or the dew of paradise. But the cross cuts deep into the self-life, as we carry the sentence of death in ourselves. We learn the necessity of being crucified with Christ, if we would enter into His resurrection joys; and so the Word of God, which is sharper than any two-edged sword, penetrates lower and lower, dividing soul and spirit, the joints and marrow. Our Lord never concealed this from those who sought to be enrolled as His followers; but there is blessedness in the bitterness, as springs of fresh water arising amid the brine of the sea."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 11
+ }
+}

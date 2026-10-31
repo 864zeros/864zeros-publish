@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "Song of Solomon", "chapter": 2, "citation": "Song of Solomon 2:4", "text": "He brought me to the banqueting house, and his banner over me was love.", "plain": "He has taken me to the banquet hall, and his banner over me is love." },
-    { "book": "Song of Solomon", "chapter": 8, "citation": "Song of Solomon 8:7", "text": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.", "plain": "Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of their house for love, it would be utterly scorned." }
+    {
+      "book": "Song of Solomon",
+      "chapter": 2,
+      "citation": "Song of Solomon 2:4",
+      "text": "He brought me to the banqueting house, and his banner over me was love.",
+      "plain": "He has taken me to the banquet hall, and his banner over me is love.",
+      "visual_prompt": "a heavy timber door with an iron latch set into a thick stone wall in a walled garden fountain surrounded by blooming pomegranate branches",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Song of Solomon",
+      "chapter": 8,
+      "citation": "Song of Solomon 8:7",
+      "text": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.",
+      "plain": "Many waters cannot quench love; rivers cannot sweep it away. If one were to give all the wealth of their house for love, it would be utterly scorned.",
+      "visual_prompt": "an open wooden gate in an old dry-stone courtyard wall leading to a quiet pasture in the cedar-crested slopes of Mount Lebanon",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

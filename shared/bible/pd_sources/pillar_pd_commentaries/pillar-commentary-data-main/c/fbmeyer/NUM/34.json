@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Borders of the Promised Land -- Numbers 34:1-18\n\nHere are set out the borders of the Promised Land, which were never fully reached in the days of Israel’s occupation, except perhaps for one brief period in Solomon’s glorious reign. God’s ideal for His people far exceeded their realization of it. But is it not always so! Does not His peace pass understanding? Is not His joy unspeakable and full of glory? Does not the love of Christ pass knowledge? Jesus Christ is our inheritance; let us possess our possessions. Let us follow on to know the Lord; and remember that there is an allotted space for each of us in Christ, to which no other soul has a right.\n\nIt is a great honor to be chosen to divide the lots. Year by year we ought to set forth the believer’s rights in Christ, that a divine discontent may urge to higher heights and deeper experiences."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 35
+ }
+}

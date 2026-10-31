@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "RUT",
+  "commentaryId": "fbmeyer",
+  "name": "Ruth",
+  "commonName": "Ruth",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Gleaning after the Reapers\n\nRth 2:1-13\n\nIn great desolation of soul, Naomi had returned. She was no longer the happy woman of earlier days. Ruth also must sometimes have experienced the depression of homesickness which often steals over the heart of the stranger. But the two women found solace where sad hearts will always find it, first in God and then in ministry to each other, 2 Corinthians 1:4; 2 Corinthians 7:6. In fact, Ruth’s devotion to her mother became the common talk of the village, Rth 2:11.\n\nNotice the beautiful old-time salutations between the employer and his employees. The omission of these courteous greetings is one of the mistakes of our modern civilization. We live in a time when the relations between master and servant, between mistress and maid, are strangely altered, being largely financial and selfish. Each tries to get as much as possible out of the other, and thus the personal touch is absent. Is it to be wondered at that the human machine runs hard and sometimes breaks down? But Boaz was clearly a good man. He had won the respect of the whole neighborhood, and his tender words to the young stranger, saluting her as a nestling under the wings of Jehovah, indicated that he dwelled “in the secret place of the Most High.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Kindness to the Stranger\n\nRth 2:14-23\n\nFrom the time of the Exodus, kind and thoughtful references are made to the strangers within the gates, Deuteronomy 5:14; Deuteronomy 10:19. These injunctions found beautiful exemplification in Boaz. How careful should be we who live on a higher level, so far as the knowledge of God is concerned, that we exceed the ancient Hebrews in tender regard for the lonely and bereaved! A desolate woman, whose husband had met with an accident, and was without food or fire, said the other day to a visitor whom God had sent on an errand of mercy, “I thought nobody cared.” Like Boaz, it is our business to speak kindly to such, though not of our kith and kin, and who can know how far our words may travel!\n\nWe have a glimpse into Naomi’s soul in Rth 2:20. It would seem as if she had come to the conclusion that God had forgotten and forsaken her. But when Ruth repeated the words of Boaz, the human love rekindled her faith in God’s love. She began to see God’s purpose shaping itself. The rainbow shone on the retreating cloud of her tears. What an opportunity is presented, each day we live of bringing the consciousness of God to weary and heavy-laden lives!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 3
+ }
+}

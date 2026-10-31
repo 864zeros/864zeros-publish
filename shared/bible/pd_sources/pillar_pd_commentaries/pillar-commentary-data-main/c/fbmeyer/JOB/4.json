@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Shall Mortal Man Be More Just than God?” -- Job 4:1-21\n\nThe first cycle of speeches is opened by Eliphaz. It must be remembered that he and the two others believed that special suffering resulted from and was the sign of special sin. Job’s calamities, in the light of that thought, seemed to prove that he who had been considered a paragon of perfection was not what they had supposed. According to their philosophy, if only he would confess his sin, all would be well and the sun would shine again upon his path.\n\nEliphaz recounts a visitation, in a night vision, from the unseen world, which is described with marvelous power. Emphasis is laid on the infinite distance between God and man, and on the impossibility of a mortal being accounted just in the presence of divine purity. Of course the suggestion is that Job was suffering the penalty of sin which, though it had eluded human eyes, was naked and open before God. An angel seems dark against God’s pure light, and if an angel is deficient, how much more man!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 5
+ }
+}

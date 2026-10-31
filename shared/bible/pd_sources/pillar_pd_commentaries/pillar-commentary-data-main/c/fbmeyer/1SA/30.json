@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Blow That Led Back to God -- 1 Samuel 30:1-15\n\nAs David was leaving the battlefield, a number of men of Manasseh fell to him, 1 Chronicles 12:20, so his following was greatly increased. It was as if God had anticipated his coming trial, and prepared him to encounter it. “The God of his mercy prevented (literally, went before) him.” But what a mercy it was that he had been sent back; that no garrison had been left to guard the women, which might have irritated the depredators; and that nobody had been killed, 1 Samuel 30:2!\n\nIn the first outburst of grief and horror, only divine and gracious interposition could have saved David’s life. But this was the hour of his return to God. With the charred embers at his feet and anxiety gnawing at his heart, the threat of violence in his ears, and bitter compunction of conscience, “he strengthened himself in the Lord his God.” From that hour he was his old, strong, glad, noble self. After months of neglect, he bade Abiathar bring him the ephod, and he inquired the will of God. Then with marvelous vigor he went in pursuit and recovered all. He had been brought out of an horrible pit, and again his feet were on the rock, Psalms 40:2. His “goings” could now be established."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Sharing the Spoil -- 1 Samuel 30:16-31\n\nHe that lays hold on God’s strength will be courteous in his behavior to the weak and weary, and will not quail before the clamor of men of Belial. Thus we are not surprised to learn that David kindly inquired of the two hundred as to their welfare, 1 Samuel 30:21, r.v. margin, and insisted that they should share equally with those who went to battle. This was a beautiful instance of sanctified common sense, and the reasonableness of the decision appealed to his followers. The gains and losses of the whole band must be shared equally by those at the front and in the rear. This is God’s rule! He that receives the prophet shall have the prophet’s reward.\n\nGirls who stay at home to care for aged mothers, instead of becoming missionaries; young men who maintain orphaned brothers and sisters; invalids confined to their rooms-let such take heart. They shall share in the victory of their Lord. David’s thankful joy yielded practical fruit in his generous gifts to those who had showed him kindness in his adversity. Gratitude is the trait of a noble nature. Let us share our possessions with others less favored, and increase our own enjoyment, 2 Corinthians 8:14-15."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 31
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 72,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“King of Kings” -- Psalms 72:1-11\n\nSolomon’s reign opened as a morning without clouds. Much of the imagery of this royal ode is derived from the circumstances of his life. Compare Psalms 72:1-4 with his prayer for the listening heart, 1 Kings 3:9; the anticipations of peace, Psalms 72:3; Psalms 72:7, with his name, “the peaceful one;” the rule from sea to sea, Psalms 72:8, with 1 Kings 4:24; the presents from Sheba, Psalms 72:10, with 1 Kings 10:1-29. But Solomon’s failure to realize his ideals compelled men to anticipate with great desire the advent of a greater Prince of Peace. Of Jesus alone is this psalm true in its details.\n\nNotice the foundations of Jesus’ reign, Psalms 72:1-4; the perpetuity of His kingdom, Psalms 72:5-7, and its universality, Psalms 72:8-11. The poor are His care. The peace He gives is in abundance and it passes understanding. Sun and moon may fail, but His love is unaffected by the flight of ages. The rain on mown grass and the distilling of the dew are not more gentle than His work in human souls that lie open to His approach. Take this glorious psalm and claim it, verse by verse, as true for you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“His Name Shall Endure for Ever” -- Psalms 72:12-20\n\nHow is it that lands so distant as Tarshish, by the Strait of Gibraltar; so rich as Sheba and Seba in south Arabia; tribes so wild as the Bedouin of the desert; and nations so imperial as those beyond the River, shall own the sway of Christ? The answer is given in Psalms 72:12 -For! The world is full of sorrow and injustice, and He who can stanch flowing wounds and mete out justice to the oppressed, will win all hearts and become the acknowledged Leader of mankind.\n\nHe shall live! We cannot forget our Lord’s own words: “I am He that liveth and was dead, and behold I am alive for evermore,” Revelation 1:18. Jesus is possessed of the ageless life of the eternal Word, of the human life which He bore through His sojourn on earth, and of that indissoluble life in virtue of which He exercises His priesthood, Hebrews 7:17, r.v. margin.\n\n“We pray for Christ,” says; Augustine, “when we pray for His Church, because it is His body; and when we say, ‘ Thy kingdom come.’” His name shall have issue, Psalms 72:17, r.v., margin. It will reproduce itself. The children of “the Name” are found in every land, and will ultimately people the world.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 72
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 71
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 73
+ }
+}

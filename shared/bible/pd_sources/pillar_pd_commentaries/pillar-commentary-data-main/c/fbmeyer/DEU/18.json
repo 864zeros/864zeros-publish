@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Prophet Who Was to Come -- Deuteronomy 18:1-22\n\nThose that serve the altar may live by the altar. Let us not forget the needs of those who serve us in holy things. It is a blessed thing when an individual desires “the place that the Lord chooses.” Let us be true to the inner prompting, at whatever cost. We shall be fully repaid. When Peter loaned his boat Jesus returned it, filled with fish!\n\nWe are to be “perfect with the Lord” -i.e., we are not knowingly to permit things that hurt or grieve His Holy Spirit. If the question should arise, how we are to know God’s way, we must take our question to the true Prophet. See Acts 3:22; Acts 7:37. He can answer our hard question; but we are strictly forbidden to go to crystal-gazers, palmists, fortune-tellers, and those who profess to read the future. How serious is their fault who refuse Him! Compare Deuteronomy 18:19 with Hebrews 10:28-29. Let thy Urim and Thummim be with the Holy One! 1 Samuel 23:11-12; 1 Samuel 30:7-8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 26
+ }
+}

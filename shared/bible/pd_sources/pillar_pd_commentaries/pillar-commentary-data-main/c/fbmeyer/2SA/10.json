@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Penalty of Rejecting Kindness -- 2 Samuel 10:1-19\n\nA Jewish tradition tells us that Nahash, Hanun’s father, had shown kindness to David by sheltering one of his brothers, when the king of Moab treacherously massacred the rest of the family. Civility is the daughter of Piety. The son had inherited his father’s throne but not his spirit. He was misled by foolish advisers to offer a gross insult, not only to the ambassadors, but to the king and nation whom they represented.\n\nLet us, however, contrast our Lord’s dealings with those who ill-treated Him in the person of His disciples. When they had been refused by a certain village of the Samaritans, they appealed for fire from heaven; but Jesus reminded them that the dispensation in which Elijah had lived was past. The disciples were the children of a new age, and the only fire with which they could deal was that of love, Luke 9:54, etc. Yes, and afterward the baptism of the Holy Spirit was given to Samaria, perhaps to those very villages, Acts 8:1-40. It used to be said that the best way to secure the tenderest kindness of the great and saintly Archbishop Leighton was to show him a discourtesy. He had not followed his great Master in vain."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 11
+ }
+}

@@ -1,7 +1,7 @@
 # FormQR & Barcode — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/formqr/`  
 **Web Product Page:** https://864zeros.com/products/formqr  
-**Pricing Model:** $7.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Generate permanent, non-expiring QR codes and Code-128 barcodes from spreadsheet
 👉 Try FormQR & Barcode: https://864zeros.com/products/formqr
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $7.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet FormQR & Barcode — the fast, local-first solution that solves this withou
 👉 Get FormQR & Barcode: https://864zeros.com/products/formqr
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $7.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -61,9 +61,9 @@ Paying Monthly SaaS for Static Code Generation — FormQR & Barcode #Shorts
 ```
 * **YouTube Description:**
 ```
-QR generator SaaS tools charging $12/month for static codes? Create permanent codes forever.
+QR generator SaaS tools charging one-time lifetime nth for static codes? Create permanent codes forever.
 
-FormQR & Barcode gives you complete control with a single $7.99 lifetime (no recurring monthly subscriptions).
+FormQR & Barcode gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get FormQR & Barcode: https://864zeros.com/products/formqr
 

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Establish the Things That Remain” -- Revelation 3:1-6\n\nIn other addresses to the churches our Lord began with commendation, but no such word is here. He is described in the fullness of His glorious nature, but this church is full of unfulfilled works. What a striking phrase and how true! We begin and do not finish, skirt the edges but do not penetrate to the heart, are superficial and fragmentary. How few can say with the Master, “I have finished the work” ; and of how few it can be said, as by Paul of the Baptist, “He fulfilled his course” ! Acts 13:25.\n\nThere are four evidences of spiritual life. In a living church there will be growth, compassion, unity, and love; and the Lord missed all these and bitterly lamented their absence. Of what use was the fig tree to abate His hunger, when it bore leaves but no fruit? Amid all this disappointing formalism, there were a few live souls who fulfilled their works and did not defile their robes. Does not this suggest the Transfiguration? On the holy mount, the homely garments of Jesus shone with light; and so the inner purity of the saint shines through and glorifies His simplest acts. The holiness we love in this life shall be rewarded by the white robes, Christ’s acknowledgment, and the deeds of heavenly citizenship."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Let No One Take Thy Crown -- Revelation 3:7-13\n\nFor those who have but a little strength, the Lord sets open a wide door. You may not be able to open the door, but you can enter it in His Name. Once He opens the door, all the opposition you may be called upon to encounter will not avail to shut it; and if He shuts the door against your adversaries, all their craft and strength will beat against its exterior in vain. Get Christ to shut the door against the tempting at would allure you from your allegiance, may be sorely beset, but He will keep them in the hour of trial. They shall not miss their crown, but shall become permanent and important constituents in the eternal Temple. “We have often stood to notice the strength and stability of a pillar in an old church. It has looked unmoved on generations that have grown from youth to age at its base, and so shall Christ’s saints endure.\n\nIt is marvelous how much Christ can make of our poor lives, if only we yield to Him. It was said of a great statesman recently deceased, “He was a resounding example of what a great thing a great man may make of a life.” But how much greater can Christ make a life, once a mere block of stone, but now inscribed with His own mystic handwriting and engraving!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "“I Stand at the Door and Knock” -- Revelation 3:14-22\n\nIt is better to be cold than lukewarm, for in the latter case all that God’s love can do for the soul has only produced a moderate result, while if we are cold, our soul has yet to be tried. The Gospel has a better chance with the openly profane and godless than with those who have been brought up under its influence and are so far unaffected. The mischief with men generally is that they do not know themselves, and do not want to know; and they are equally ignorant of the rich stores of blessedness that Christ waits to bestow. We think that we abound in gift and grace, when in Christ’s eyes we are most pitiable. Yet, at this moment, He is standing at the door, laden with the gifts of heaven. Admit Him, or at least lift the latch of the will, so that He may push the door back and enter.\n\nDo not attempt to deal with the squalor within; He will see to that, and cleanse, keep, and enrich. Do not try to provide supper; He will bring thee His own flesh and blood.\n\nPonder that last beatitude, which promises to all believers that if they share with Him His age-long conflict against the evil of the world, they shall share His rule and power, which they shall use with Him for the uplift and blessing of mankind. Complete and continually renewed self-surrender to Christ will admit into our hearts the royalty and power of Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 4
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moses Appeals from Pharaoh to God -- Exodus 5:15-23; Exodus 6:1\n\nGod’s way is to bring men to an end of themselves before He arises to their help. Our efforts to deliver ourselves only end in increasing our perplexities. The tale of bricks is doubled; the burdens augment; the strength of our purpose is broken; we are brought to the edge of despair. Probably this was the darkest hour in the life of the great leader. But from all the obloquy that was heaped on him, he took refuge in God. There is no other refuge for a limited man than “to return unto the Lord,” Exodus 5:22.\n\nReturn unto the Lord with your story of failure! Return unto Him for fresh instructions! Return unto Him with your appeal for his interposition! Be perfectly natural with your Heavenly Father! Humble yourself under His mighty hand! Even dare to reason with Him, saying: “Why!” Then the Lord will say to you, as to Moses: “Now thou shalt see what I will do.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "God’s Name Confirms His Promises -- Exodus 6:2-9\n\nThe statement of Exo 6:3 is at first sight, startling, because we remember several passages in Genesis where that sacred name appears. But this arises from the fact that much of Genesis was composed long after the people had left these sad experiences behind them; and it was natural to apply to God the name which was familiar to them all at the time of writing. To the patriarchs God was El, the Strong; to their descendants he was the unchanging Jehovah, who fulfilled promises made centuries before. See Malachi 3:6. Notice the seven I wills, and the three I AMs. How often with us, as with Israel in Exodus 6:9, our faith and hope are hindered by physical or temporal circumstances. But our God knows our frame and is touched with the feeling of our infirmities. Therefore He can make allowances."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The Line of Descent of God’s Spokesmen -- Exodus 6:10-27\n\nHere is an inventory of God’s jewels, in the day when He counted them up. We are reminded of Mal 3:17. Before He led forth the flock, the Good Shepherd counted them, that not one might be missing. There is a peculiar emphasis on the mention of Moses and Aaron in Exodus 6:26 : “These are that Moses and Aaron.” It was as though we were led to the hole of the pit whence they were digged, and a very poor hole it was, for their parentage and estate were quite humble and ordinary. But by means of them the Almighty wrought the deliverance of His people. It was through such feeble instruments as these that He spake to the greatest monarch of the time, the mighty Pharaoh, whose remains are with us to this day. It is His method to choose the weak and foolish things to bring to naught and confound the strong and wise, that no flesh should glory in His presence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Pharaoh Stubborn against Israel’s Release -- Exodus 6:28-30; Exodus 7:1-13\n\nHow often we say in a similar tone, “I am of uncircumcised lips, and how shall Pharaoh hearken unto me?” Forty years in the wilderness, in absolute solitude, had robbed Moses of the eloquence with which Stephen credits him in earlier life. Like Jeremiah, he felt himself a child and unable to speak.\n\nIt is an awful moment when the human will sets itself in antagonism to the divine. If it will not bend, it must break. For once the scion of an imperial race had met his superior. It were better for the potsherd to strive with the potsherds of the earth! But God is not unreasonable. At the outset He endeavored to prove to Pharaoh who and what He was. One of the chief reasons for the plagues, as well as of these miracles, was to establish the fact that the Jehovah of the Hebrews was the great Being who lives behind the whole apparatus of nature."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 7
+ }
+}

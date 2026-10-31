@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Message from the Bush -- Exodus 3:1-12\n\nThe learning of Egypt was not sufficient to equip Moses for his life-work. He is taken to the solitudes of the wilderness. That is God’s college. All who have done the greatest work in the world have graduated there-Elijah at Horeb, Ezekiel at Chebar, Paul in Arabia, and John in Patmos. God’s workers may take their arts course in the universities, but must take their Divinity course alone with Him. Often in the middle of daily duty we come on the outshining of his Presence. Let us be on the outlook for it, and take off our shoes.\n\nThis burning bush has generally been taken as the emblem of the Church amid the fires of tribulation; but there is a deeper meaning. The fire was the token of God’s presence. The bush was unconsumed, because God’s love is its own fuel. Notice the successive steps: “I have seen;” “heard;” “know;” “am come down;” “will send.” The “cry” of the previous chapter is answered by the “coming down” of this. See Luke 18:7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Moses Sent to Deliver Israel -- Exodus 3:13-22\n\nHow unlike this Moses was to the man who, forty years before, had acted with such impulsive haste, Acts 7:23. He had learned much since then, and most about himself. But there should be no shrinking when God says I am. Fill in this blank check with whatever you need for life or godliness, and God will do that and more also, with exceeding abundance.\n\nHad we been called upon to demonstrate the life beyond death from the Old Testament, we should hardly have turned to this chapter. But our Lord read the profound significance of these august words, Matthew 22:31-32. Evidently the patriarchs must have been all living when God spoke, or He would never have described Himself as being still their God. Had they ceased to exist He must have said, not I am, but I was the God of the fathers."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 4
+ }
+}

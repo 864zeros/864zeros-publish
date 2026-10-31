@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Power behind the Throne -- 2 Kings 8:1-15\n\nNothing happens in our life or in the world apart from the divine appointment or permission. Behind every event and incident there is a divine providence. The Shunammite who had done so much for Elisha was remembered and cared for, years afterward. The King has a wonderful memory for those who fed him when he was hungry, and ministered to him when he was in need. “When saw we thee…? Inasmuch as…,” Matthew 25:37. This conversation between the king and Gehazi might have seemed an accident, but it was a providence. If we abide in the will of God, life will be sown with divine coincidences.\n\nHere is another instance: Elisha comes to Damascus, evidently at God’s bidding, just when Benhadad is sick. That sickness would not be mortal, but he would die prematurely from another cause. Would that men of God today had more of this gift of weeping over sinners and their destiny! No one resented hearing D.L. Moody talk of hell, because his voice always faltered. The prophet read Hazael’s destiny from the Book of God-not from his set face-and how astounding it was! Ah, what depths of wickedness there are of which we are capable! “Keep back thy servant from presumptuous sins.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Athaliah’s Wicked Husband and Sons -- 2 Kings 8:16-29\n\nJehoram’s history furnishes a terrible example of how an ill-marriage may mar a man’s life. He had a good father, but a bad wife, and the latter more strongly influenced him than the former, 2 Chronicles 21:6. The fuller story of Jehoram’s reign, and the apparent extinction of the royal family, is told in 2 Chronicles 22:1-12. But notice especially 2 Kings 8:19. The lamp was kept burning for David’s sake, Psalms 132:17. Surely the grace of God can keep that same lamp burning in the hearts of our children. A lamp, as we learned from the Chicago fire, may make a very great conflagration.\n\nAhaziah followed in the steps of his parents. What could be expected from the training of such a mother! Misled by her, he followed the dreary steps of Ahab. The close intimacy between the two houses led to alliance in war and a common fate. Little did Jehoshaphat realize all the evil that would result from his dealings with Ahab, 1 Kings 22:4. The story told in these pages is sad reading, but through it all God’s purpose moves on. See Matthew 1:8. As a water-lily grows from a muddy bottom, so the pure life of Christ came, on the human side, out of this family. God’s purpose shall finally emerge from this present strife in a further revelation of the Son of man."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 9
+ }
+}

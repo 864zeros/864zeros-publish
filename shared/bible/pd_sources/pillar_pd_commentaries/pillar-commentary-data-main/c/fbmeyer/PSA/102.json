@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 102,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Cry of the Afflicted -- Psalms 102:1-11\n\nThis is the fifth of the Penitential Psalms. Some hold that it is one of the later psalms, asking for deliverance from captivity; others, emphasizing certain Davidic characteristics, ascribe it to the hand of the royal psalmist. Its actual authorship, however, is of comparatively small consequence; the main thing is to notice what adequate expression it gives to the sorrow of an almost broken heart.\n\nThe psalmist bases his cry for a speedy answer on the swiftness with which his days are passing away, like smoke escaping, from a chimney. His bones are calcined; his heart withers like Jonah’s gourd; he is worn to a skeleton by his long and passionate lamentations. He finds his likeness in solitude-loving creatures, such as the pelican and the owl. Still another element in his suffering is the mockery of his foes. He cannot get away from it; it haunts him. Ashes, the token of his mourning, are his food, and tears fill his cup.\n\nBut the bitterest element of all is the consciousness of God’s displeasure. It seems as if God’s hand is against him, and in the accumulated weight of grief, he deems that the day of his life must expire. However, in the concluding portion of the psalm his hope is renewed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Time to Have Mercy upon Zion -- Psalms 102:12-28\n\nWe must remember that the Holy Spirit appropriates the closing words of this psalm as addressed to our Lord. See Hebrews 1:10-12. This gives new point to these petitions. The psalmist’s sorrows, described in the previous paragraph, had their source in the desolations of Zion rather than in personal afflictions; and when the soul feels such oppression, it is a sign that deliverance is near. Finney, the great evangelist, tells of a woman who came to her pastor under such concern for the perishing that she could neither eat nor sleep. She entreated him to appoint an inquirers’ meeting, and though there had been no signs of a revival, it suddenly broke out. When Christians take pity on the stones and dust of the Church, the time has come for God to arise to her help.\n\nBehold the unchanging Christ! Creation may wax old, the heavens and earth may be laid aside as an outworn garment, the old order may give place to new; but beneath all the changed Jesus Christ remains the same yesterday, today, and forever. How delightful are those immortal words, But thou, O Lord, shalt endure, and if He endures, His servants shall continue also, and their children after them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 102
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 101
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 103
+ }
+}

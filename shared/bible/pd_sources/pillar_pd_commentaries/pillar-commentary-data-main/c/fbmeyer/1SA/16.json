@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Choice of His Anointed -- 1 Samuel 16:1-13\n\nThe anointing of the young shepherd, with his ruddy cheeks and deep, poetic eyes, is a beautiful episode, in very marked contrast to the events preceding. He had already given proof of his indomitable courage, 1 Samuel 17:34. They had to fetch him from his sheep, which he was pasturing beside the still waters and on the hillside. God had found him beforehand, Psalms 89:20. “He chose David also His servant, and took him from the sheepfolds… to feed Jacob His people, and Israel His inheritance,” Psalms 78:70-71.\n\nThe procession of David’s brethren before Samuel was very impressive. They probably remembered that Saul had been chosen for his splendid physique, and each held himself high and proud. “Surely,” said Jesse to himself, “one of them will captivate the prophet’s eye.” But no! God chooses by the inward temper and disposition. He knew that David was a man after His own heart. The lad had been faithful in a few things and was now to be made ruler over many. The anointing oil reminds us of the anointing for service which was communicated to our Lord at His baptism. In David’s case it was accompanied by a glorious Pentecost, 1 Samuel 16:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Young Harper before the Dejected King -- 1 Samuel 16:14-23\n\nIn one sentence we are told of the Spirit of the Lord coming upon David, 1 Samuel 16:13, and in the next of the departure of the Spirit from Saul. This does not necessarily imply that all religious sensibility had become extinct, but that the special enduement which had fitted him for his kingly office had been withdrawn. An evil spirit “from the Lord” troubled him; that is, God permitted this spirit to enter. The garrison of peace and love had, been willfully dismissed by Saul, and by the inevitable operation of the divine law, as He had banished the light, he was necessarily left in darkness. God gave him up to a reprobate mind, Romans 1:24; Romans 1:26; Romans 1:28.\n\nThe king’s depression demanded an antidote, which was provided by music. Philip V of Spain was helped in the same fashion. The minstrel was none other than the young shepherd so recently anointed. A directing Providence superintends every incident in life. That a servant of Saul’s had seen David in some country contest was only a link in the chain, 1 Samuel 16:18. God has a plan for each life. “All things work together for good to them that love God,” Romans 8:28."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 17
+ }
+}

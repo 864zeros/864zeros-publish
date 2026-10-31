@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Breaking Three Commandments -- 1 Kings 21:1-29; 1 Kings 1:1-53; 1 Kings 2:1-46; 1 Kings 3:1-28; 1 Kings 4:1-34; 1 Kings 5:1-18; 1 Kings 6:1-38; 1 Kings 7:1-51; 1 Kings 8:1-66; 1 Kings 9:1-28; 1 Kings 10:1-29; 1 Kings 11:1-43; 1 Kings 12:1-33; 1 Kings 13:1-34; 1 Kings 14:1-31; 1 Kings 15:1-34; 1 Kings 16:1-34\n\nFrom a worldly point of view Naboth might have done a good stroke of business by selling his estate to. Ahab. A royal price and assured favor might have been his-but he had a conscience! Above the persuasive tones of the monarch’s offer sounded the voice of God: “The land shall not be sold for ever, for the land is mine.” See Leviticus 25:23; Numbers 36:7; Ezekiel 46:18.\n\nAhab knew perfectly well that Jezebel could not give him the property of another except by foul means, but he took pains not to inquire. Though the direct orders for Naboth’s death did not come from him, yet, by his silence, he was an accomplice and an accessory; and divine justice penetrates all such specious excuses. God holds us responsible for wrongs which we do not arrest, though we have the power. The crime was blacker because of the pretext of religion, as suggested by a fast. See also 2 Kings 9:26. The blood of murdered innocence cries to God, and his requital, though delayed, is inevitable. See Revelation 6:9-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Led Astray by a False Messenger -- 1 Kings 13:11-19\n\nThe unnamed prophet from Judah had received distinct instructions not to eat bread nor drink water while on his divinely-commissioned errand. He was therefore justified in refusing the royal invitation; and it would have been well with him had he also refused the invitation of the old prophet, who followed him with the persistent invitation to return with him to his house. But the younger prophet failed, because the older man professed to speak by divine warrant and because the invitation chimed in with his own inclinations. As he sat there under the oak, tired and hungry, he was only too willing to believe that the prophet’s message was true, although it was altogether contrary to his own impression.\n\nWhen God has spoken to us, let us not dare to turn aside on the advice of others, however good they seem, even though their proposals may be draped with a show of religious phraseology. God does not say Yea or Nay; but all His commands, like all His promises, are Yea and Amen in Christ. In Him is no variableness, nor shadow cast by turning."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Sign upon Sign Unheeded -- 1 Kings 13:20-34\n\nThere is a tragic note in this paragraph. The man of God had performed God’s errand bravely and well, and his words were verified by the result; but he perished as a castaway. See 1 Corinthians 9:27. If only he had obeyed God’s word, as it came directly to himself, he might have been entrusted with many similar errands; but “Alas, my brother!” was a true elegy on the part of the man who had led to his downfall. How careful we should be never to dissuade a young soul from some heroic purpose which has formed itself in his imagination! Too many young men have perished on the threshold of their life-work, because older prophets have cried, “Spare thyself; have mercy on thy flesh.”\n\nGod never goes back on His first instructions. If He has clearly spoken to your soul, refuse to take your marching-orders from others. No man, however aged or holy, has any right to intrude into the sacred dealings of God and the individual disciple. We may always detect the false voice, because its suggestions so exactly chime in with the weakness of our nature, in its desire to eat bread, drink water, and enjoy the society of our fellows."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 14
+ }
+}

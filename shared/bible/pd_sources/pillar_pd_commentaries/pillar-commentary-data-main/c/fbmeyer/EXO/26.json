@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Curtains and Boards of the Tabernacle -- Exodus 26:1-25\n\nThe Tabernacle was constructed of upright boards, over which four sets of curtains were thrown. The innermost set, which made the ceiling, was of tapestry, embroidered with cherubim in various colors-blue, scarlet and purple-the cunning work of a damask weaver. Over these was a second set, of goats’ hair, longer and broader, so as to protect them; while the third and fourth sets were of rams’ and seals’ skins, respectively, to protect the whole from the weather. In these curtains we may find profound teaching concerning the human nature of our Lord; for we are told that, the Word of God became flesh and tabernacled among us; and that phrase naturally suggests that His human body was the tent or tabernacle in which His spirit dwelled. See John 1:14. In the fine-twined linen His holiness; in the blue His heavenly origin; in the purple His majesty; in the scarlet His sufferings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "The Veil and the Screen -- Exodus 26:26-37\n\nThe boards that made the sides and back of the Tabernacle were of wood covered with gold, and set in sockets of silver. They were knit together by the five long bars that passed through the rings, parallel with the ground. The veil typified the separation between man and God, the awful barrier that sin has caused, which shuts out from the enjoyment of God all save those who can enter into the Holiest by the blood of Jesus. Men had impressed on them their unworthiness to approach God. The cherubic forms woven on the veil reminded them of Gen 3:24. They were led to anticipate the hour when a new and living way would be opened.\n\nThe division of the Tabernacle suggests two degrees of nearness to God, or two stages in Christian living. You may know the great brazen altar which is Calvary; and the showbread table and candlestick; but there is something beyond these for those who have learned the meaning of the rent veil and the Cross! See Matthew 27:51; Galatians 2:20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 27
+ }
+}

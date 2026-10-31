@@ -6,7 +6,7 @@
   "type": "google-add-ons",
   "name": "DriveDrop Portal — Sovereign Client File Request & Direct Drive Upload Portal",
   "summary": "Collect files from external clients and contractors directly into your private Google Drive folder without requiring Google sign-in. Zero third-party servers, zero recurring subscriptions.",
-  "metaDescription": "DriveDrop Portal lets external clients drop files directly into your Google Drive folder without Google sign-in. One-time lifetime license.",
+  "metaDescription": "DriveDrop Portal lets external clients drop files directly into your Google Drive folder without Google sign-in. one-time lifetime license.",
   "icon": "drivedrop.png",
   "storeUrl": "",
   "video": {
@@ -15,7 +15,7 @@
     "tag": "⏱️ 42s Product Demo",
     "title": "Watch DriveDrop Portal in Action",
     "desc": "Create branded, password-protected file upload portals that save client submissions directly into your designated Google Drive folder. External submitters never need a Google account.",
-    "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
   },
   "social_shorts": [
     {
@@ -60,7 +60,7 @@
       "Automatic submission metadata tagging (name, email, note, timestamp)",
       "LockService mutex concurrency protection against upload collisions",
       "100% private in-account execution via non-restricted scopes",
-      "One-time lifetime license — zero recurring SaaS subscriptions"
+      "one-time lifetime license — zero recurring SaaS subscriptions"
     ]
   }
 }

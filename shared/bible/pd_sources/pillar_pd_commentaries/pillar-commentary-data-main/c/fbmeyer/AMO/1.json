@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Outside Nations Shall Suffer Judgment -- Amos 1:1-10\n\nAmos opens his prophecies with predictions against neighboring peoples, that Israel may be led to appreciate her guilt and to bear the approach of God’s righteous judgment, Luke 12:47. The formula of three transgressions and for four, Amos 1:3, etc., means several or many. Compare Job 5:19.\n\nThe order followed is Syria, Amos 1:3; Philistia, Amos 1:6; Tyre, Amos 1:9; Edom, Amos 1:11; Ammon, Amos 1:13; Moab, Amos 1:1. Each of these neighboring kingdoms was successively overwhelmed by the invasion of the great countries that lay in the valley of the Euphrates. Tiglath-pileser began and ultimately Nebuchadnezzar finished the work of desolation. But in turn the conquerors, becoming enervated by uninterrupted success and prosperity, were also swept away. We may be sure that there is One who judges in the earth and that, although might may assert its claims to be right, it is but for a moment. The constitution of the universe is in harmony with Bethlehem, Nazareth, and Calvary: and only a Christian civilization can be permanent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Judah Shall Be Judged also -- Amos 1:11-15; Amos 2:1-5\n\nEdom was Esau; that is, the people were closely akin to Israel; perhaps for that very reason the hatred on either side became more and more inveterate from the days of the Exodus to the siege and fall of Jerusalem, Psalms 137:7-8. Teman and Bozrah were principal cities, the first being named after Esau’s grandson, Genesis 36:11. Isaiah, in after years, saw the warrior Angel of Jehovah coming up from Edom to the foothills of Palestine, his garments stained with the blood of the foe whom he had overthrown, Isaiah 63:1. Thus Jesus Christ has overcome our foes, and now stands sentry between us and them.\n\nRabbah was the capital city of Ammon. The strife between the citizens and the Chosen People smoldered from the days of Saul, flaming out from time to time in terrible intensity. Moab-the terrible act referred to here was probably associated with 2 Kings 3:27. Alas that, in the divine vengeance, Judah should be associated with these heathen peoples! The indictment is not for sins against man, but for those committed against God. We are judged by the greater light and the higher standards that we possess. The fire here threatened was the invasion of Nebuchadnezzar and his Chaldeans, who have their modern counterparts. Man is often used by the Almighty for the chastening and purifying of his fellows."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOL",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 2
+ }
+}

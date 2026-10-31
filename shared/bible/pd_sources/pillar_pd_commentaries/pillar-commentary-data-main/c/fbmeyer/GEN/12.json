@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Call and Promise to Abram -- Genesis 12:1-9\n\nGod’s commands are always associated with promises. Count the shalls and wills here. He does not give His reasons, but He is lavish of His promises. The keynote of Abram’s life was Separation. Step by step, until country, kindred, Lot, worldly alliances and fleshly expedients were one by one cast aside and he stood alone with God! Though he knew not whither he went, the father of the faithful obeyed, and crossed the wide and perilous deserts.\n\nIt was this absolute and unquestioning obedience that endeared him to God. Let us ever obey and step out, though it seems as though there were nought but seething mist. We shall find it solidify under the tread of faith. Read Romans 4:16; Hebrews 11:8. Notice the combination of the Tent and Altar. The tent-life is natural to the man whose portion is God; and where he pitches his tent he will rear his altar."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Abram and Sarai in Egypt -- Genesis 12:10-20\n\nIt is a comfort that the Holy Spirit permits us to trace the successive stages through which the father of those who believe made his way to the maturity of faith. We all stumble as we step out on the difficult path. But God is patient with His dull scholars and protects them. See Psalms 105:15. It was certain that no weapon formed against him could prosper, nor God’s promise fail, yet Abram meanly sacrificed Sarai with his pitiful proposition for his own safety. This doubting outbreak would never have occurred, unless the patriarch had gone down to Egypt, which in Scripture stands for creature-confidence.\n\nSee Isaiah 30:1. The God of glory, who had sent him forth, was responsible for his maintenance in Canaan, even though famine prevailed. He ought to have stayed quietly in the position to which God had called him, leaving the Almighty to provide. Live with God in the heights; and do not go down into Egypt."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 13
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus Glorifies Humble Service -- John 13:1-11\n\nIn the Temple the laver preceded the brazen altar. It was kept filled with pure water for the constant washing of the priests; Exodus 30:18-21; Leviticus 16:4. We cannot have fellowship with Christ at Calvary or on Olivet unless we draw near with our hearts sprinkled from an evil conscience and our bodies washed with pure water.\n\nThe Synoptic Gospels tell us that on their way to the feast the disciples had yielded to contention and pride. It was needful that these should be put away, and our Lord’s love was equal to the occasion. He loved them to the end of His life and to the end of love. Only such love could have made saints and apostles out of such material.\n\nJesus began a work which has never ceased, and which will continue “till all the ransomed Church of God be saved to sin no more.” When we have contracted guilt, we have not to begin our whole life over again, but to go back to the place where we dropped the thread of obedience and begin there."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Master’s Example -- John 13:12-20\n\nNotwithstanding His great humility, Jesus expects to be regarded as Master and Lord; do we so call and treat Him? We must be as willing to obey Him as a soldier to obey his commanding officers, even when the order conflicts with his comfort, convenience, or safety. We must also do for each other, in our poor measure, what He has done for us, taking on us the form and work of a slave, that we may remove from each other any stain that may have been contracted. It is only when we have stooped to the simplest and lowest humility that we are able to lift our brethren to a purer and nobler life. Let us watch over each other’s souls, as those who must give an account.\n\nWhat sorrow must have constantly weighed on our Savior’s heart in knowing that all His love and care would be resisted by Judas, as the rock in a flower garden refuses to respond to the genial influences of spring! To lift up the heel, that is to kick is emblematic of brutal malice. This treachery, foreseen by Christ, was transformed into a support of the disciples’ faith. When the incident took place, as predicted, they knew that Jesus was all that He had declared Himself to be."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Kindness to the Traitor -- John 13:21-30\n\nIn the circle of the Twelve, Judas represented the carnal idea of the Messiah, which was directly opposed to the spirit just manifested in the washing of their feet. If he would not humble himself and renounce that spirit, Judas must depart; and a great sense of relief must have been experienced by our Lord, and to an extent by them all.\n\nThe people of the East lay rather than sat at table, each guest having his left arm on a cushion, so as to support the head, the right being at liberty for eating. Thus the head of each was near the breast of his companion on the left. Such was the place of John with regard to the Master at the Last Supper, and it was easy to whisper the inquiry of Joh 13:25. In the course of the Paschal meal, the father would offer to the guests pieces of bread dipped in a sauce of fruit, representing the fruits of the Promised Land. It was a sign of special attention, and was one more appeal to the conscience of Judas. He might yet have found pardon. But John saw, as his attention was attracted to him, a change pass over his features, which indicated that the traitor had finally cast the wavering balance on the side of Satan."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "The Sign and Seal of Discipleship -- John 13:31-38\n\nIt was a relief when the traitor was gone. The Lord could now speak freely of His love and of His approaching glory, expatiating on the shining tablelands, but not as yet revealing even to Peter the dark ravine which separated Him from them, and the shadows which He was already entering. Peter was most anxious to be with Jesus wherever He was. Life without Jesus seemed impossible.\n\nPeter relied upon his strong resolution to keep him faithful to his Master, but found it unavailing, as we have ourselves experienced many a time. Do not vaunt in self-confidence what you will or will not do, but seek strength from the living Lord. How little we know ourselves! Yet the time would come when this ardent spirit would be able to fulfill its vow through the Spirit of Pentecost, John 21:18; 2 Peter 1:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 14
+ }
+}

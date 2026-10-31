@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“A Godly Jealousy” -- 2 Corinthians 11:1-9\n\nAs the Bridegroom’s friend, Paul was eager to bring the Corinthian church to the Bridegroom of souls. But false teachers disturbed the purity and simplicity of their faith, as in Eden Satan perverted Eve. There would have been excuse if these false teachers had given his converts another and a better Savior or a greater Pentecost; but since these were impossible, he was well able to hold his ground, even though they were pre-eminent apostles in their own estimation. Paul was very conscious of the rudeness of his speech, of which apparently he had many reminders, but he was equally conscious of the direct knowledge that God had imparted to him.\n\nHe acknowledges that he had not taken their pecuniary support, which in itself was quite legitimate; but he altogether denies the inference which his enemies drew, that therefore he admitted his inferiority to the other servants of the Cross. He answers that insinuation by saying that he expressly refrained from accepting gifts, because of his desire to rob his critics of their argument that he was evangelizing the world for the purpose of making money. That they should make such wanton suggestions proved that they were Satan’s emissaries."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Constrained to Silence Boasters -- 2 Corinthians 11:10-21\n\nIn vivid language, which proves how greatly he had been moved, the Apostle contrasts the false teachers who were injuring his converts with himself. They brought their disciples under bondage, exalted themselves, and lived in self-indulgence. He did not hesitate to unveil their true character and to designate them as emissaries of Satan. We need to fear a white devil even more than a black one. Satan conceals his deeds under the guise of an angel clothed in light; and as it is with him, so with his instruments; as their deeds are, so will be their end.\n\nIn the succeeding category, 2 Corinthians 11:16-21, Paul confesses freely that his words might seem in conflict with the humility that Jesus taught, and might savor of boastfulness and pride; but for the sake of the truth he stooped to the level of these false teachers, and adopted their own methods. Though he would not think of plundering or of smiting the disciples as these intruders did, yet he would meet the latter on their own ground. The proverb says, “Answer a fool according to his folly,” and this is an exact description of the Apostle’s defense. This much at least was clear: that the motive of his life was absolutely pure and selfless, and was capable of lifting him to a career of unparalleled heroism."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Pre-eminent in Labor and Suffering -- 2 Corinthians 11:22-33\n\nIt has been truly said that this enumeration represents a life which up to that hour had been without precedent in the history of the world. Self-devotion at particular moments or for some special cause had been often witnessed before; but a self-devotion involving such sacrifices and extending over at least fourteen years, in the interests of mankind at large, was up to that time a thing unknown. The lives of missionaries and philanthropists in later times may have paralleled his experiences; but Paul did all this, and was the first to do it.\n\nThe biography of the Apostle, as told by Luke, comes greatly short of this marvelous epitome. Of the facts alluded to only two-the stoning and one of the Roman scourgings-are mentioned in the book of the Acts; from which we gather that the book is, after all, but a fragmentary record, and that the splendid deeds of the disciples and apostles of that first age will be known only when the Lamb Himself recites them from His Book. But even this enumeration omits all that the Apostle suffered after the writing of this Epistle, including, of course, the sufferings between his arrest and his appearance before Nero."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 12
+ }
+}

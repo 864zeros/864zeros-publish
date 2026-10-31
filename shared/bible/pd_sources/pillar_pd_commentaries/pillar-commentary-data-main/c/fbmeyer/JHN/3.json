@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "New Life from above the Need of All -- John 2:23-25; John 3:1-8\n\nA solemn question is suggested by John 2:24. Can Jesus trust Himself to us? We must show ourselves worthy of His trust. In John 3:1-36; John 4:1-54 we have two remarkable instances of the Lord’s intimate knowledge of the human heart.\n\nApparently Nicodemus had shrunk from identifying himself with John’s baptism. He was one of the richest men in Jerusalem, and our Lord addressed him as the teacher, John 2:10, r.v. He was willing to talk about systems of truth and schemes of philosophy; but the Master knew that more, much more, was necessary; there must be the emergence of His soul into the experience of an enlarged and fuller life. The phrase, “the new birth,” the Jews always used for Gentiles, and it greatly startled Nicodemus to learn that there was needed for himself the same change as was required by Gentiles before entering the Jewish commonwealth. In speaking of water, our Lord probably refers to the baptism of John, in which men confessed their sins and expressed their desire to leave the past behind and to enter a fuller experience of the life of God. The new life begotten by the Spirit of God is as mysterious as the wind. That Spirit, bearing the germ of a new life, rejoices to enter each open casement and to fill each vacuum, wherever one will."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Love’s Great Gift: Received or Rejected -- John 3:9-21\n\nThough physically on earth, our Lord was spiritually in touch with the heavenly realities. He was living among them and bore witness to them. Notice that must, John 3:14. He was the Lamb slain from the foundation of the world, and the divine purpose of redemption would fail unless He fulfilled His part in the eternal compact. That which had been resolved upon before the foundations of the hills were laid must be carried out in all its terrible detail. He must be accounted as a sin offering, and go forth as a scapegoat. He must tread the winepress alone, and pour out His soul unto death. Yet He was not rebellious, nor did He turn back. He rejoiced to do the Father’s will. For the joy that was set before Him, He endured the Cross.\n\nRedemption originated in God’s great love. Notice the pairs in John 3:16 : God and the Son; loved and gave; the world and whosoever; believe and have; not perish but have life. The judgment is already in process, and the turning point with each who has known the gospel will be his attitude toward the light he has enjoyed. Evil men avoid the light, as an inflamed eye the sun. No true heart fears Christ, and on coming to Him it discovers that unconsciously it has been wrought upon by God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "John Shows the Greatness of Humility -- John 3:22-30\n\nIt is expressly stated in John 4:2 that Jesus baptized through His disciples. This controversy arose with a Jew, who was comparing the respective baptisms of John and the Lord. Perhaps he stirred John’s followers with jealousy as he contrasted the crowds that gathered round the new teacher with the waning popularity of the old. But the Baptist had no sense of being aggrieved. His answer is one of the noblest ever made by human lips: “My work has been definitely assigned to me. It has been enough for me to fulfill it. The rapture of the Bridegroom and His success in wooing hearts is not for me. It is enough to behold His joy. He must increase, and I must decrease, but I sorrow not. Indeed, my joy is filled to the brim because of His success.”\n\nWhat a blessing it would be if we could enshrine in our hearts this immortal maxim: A man can receive nothing except it have been given him from heaven! What we have is God’s gift; let us hold it reverently. What another person has is God’s gift to him; we have no right to find fault with His dealings with another of His servants. Our orbits are distinct; all we have to do is to shine our brightest where He has placed us, confident that He knows best."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "A Witness to Be Trusted -- John 3:31-36\n\nLet us all seek to live more habitually in heaven, that is, in contact with the spiritual world. To do our best work in the world it is not necessary to be great in argument or rhetoric, but simply to bear witness of what we have seen and heard. It is true that the natural man will not receive our testimony. Paul found that out in after years, 1 Corinthians 2:14. But where our witness is accepted by the spiritually-minded, another seal is placed upon it as being the truth of God. Notice also that when a man is sent on God’s errand and speaks God’s word, he can count on the supply of God’s spirit without stint. There is no careful measurement of how much or how little. For long years and to any extent, he may count upon God.\n\nNote the present tenses of the last two verses. They are as true today as when first uttered. Our eternity dates not from our dying moment, but from that in which we first trust in Jesus Christ. If you can do nothing else, be willing to trust Him as soon as He is revealed to you, and in the meanwhile obey Him; that path will bring you into the open."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 4
+ }
+}

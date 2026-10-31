@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Message from the True God -- 2 Kings 1:1-8\n\nThe king’s accident was probably due to the giving way of the balustrade that surrounded the roof of his palace. The Law expressly provided that this lattice-work should be made very strong to obviate just such an occurrence, Deuteronomy 22:8. Let us be careful to maintain the barriers of good custom, whether of purity, or total abstinence, or the observance of the Lord’s day. In this manner we shall preserve our children and ourselves from peril. All good habits are strong battlements.\n\nTo reach Ekron the messengers must pass Jerusalem. What a direct insult to Jehovah! Even Ahab had some regard for Micaiah, but Ahaziah went beyond his father in openly flouting the religion of David and Moses. In the interests of the whole nation, this insult could not be passed over in silence, and at God’s bidding Elijah appeared upon the scene. He rebuked the messengers for their idolatrous quest and told them that the king would surely die. They returned with the report that a man clad in a hairy garment had met them, and had said that the king would not recover. It was enough. The apprehensions of Ahaziah’s guilty conscience were confirmed, and he said, “It is Elijah the Tishbite!”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Consuming Fire -- 2 Kings 1:9-18\n\nAn awful fate overtook the first two captains; but it must be noted that they were extremely violent and arrogant in their behavior and speech. The altered tone of the last captain wrought an instant alteration in the prophet’s attitude and response. That there was no personal malice in Elijah is clear from his willingness to accompany the third captain into the royal presence. Our Lord expressly cautioned His followers from attempting to imitate this episode. We belong to another dispensation, which savors of forbearance and meekness. See Luke 9:54.\n\nOn a former day Jezebel’s message made the prophet flee; but now he does not hesitate to pass through the crowded streets of the capital and to enter the palace of the king. Elijah was dwelling in the secret place of the Most High and standing before Jehovah, as aforetime. His faith was able to avail itself of the panoply of God. He quenched the violence of fire, escaped the edge of the sword, and out of weakness was made strong. Let us admire the loving forbearance of God who restores the wavering ones, brings them up from the grave, holds them as stars in His right hand, Revelation 1:16, and uses them once more in His glorious service."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 2
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Memorable Passover -- 2 Chronicles 35:1-15\n\nThis Passover was memorable, not only for the imposing grandeur of the ceremonial, and the concourse of worshipers, but because of the strict adherence, even in minute particulars, to the prescriptions of the Law. Josiah was the soul and life of the movement. First the Levites were addressed, and reminded that as they were not required to carry the Ark from place to place, as in the days of the Exodus, they might fitly undertake other work and assist the priests, who were likely to be overwhelmed by the demands of the approaching celebration. Let us not cling to stereotyped conditions, but adapt ourselves cheerfully to new demands. One of their first duties was to bring the Ark out of the side chamber to which neglect had relegated it, and re-establish it in the Most Holy Place.\n\nVast preparations were made for the poor and those unable to provide for themselves. Munificent offerings were made by the king and the princes. True love to God is always accompanied by unselfish care for others. If you really love God, you will desire to promote the knowledge of, and participation in, His love. Never forget to leave a place for worship and praise!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "A Fatal Conflict -- 2 Chronicles 35:16-27\n\nThe huge masses of people were admitted according to their families into the sacred courts, and the gates were closed as soon as these were filled. Thus all the fathers’ houses came, one after another, in solemn procession to the altar, offering such part of the sacred victims as was required and receiving part for their own use. While this was in progress the Levite choir chanted Psalms 113:1-9; Psalms 114:1-8; Psalms 115:1-18; Psalms 116:1-19; Psalms 117:1-2; Psalms 118:1-29.\n\nWhat a misfortune that so auspicious a reign should end so disastrously! Josiah opposed Pharaoh, because Palestine was under the tutelage of Babylon, and had become the cockpit of the two warring nations, which were then contending for the mastery of the world. It would seem from 2 Chronicles 35:21, as if the Egyptian kings acknowledged the supremacy of one over-ruling Deity and considered that they were inspired by him. Blame appears to be attached to Josiah for not recognizing the voice of God. The lamentation over his death became proverbial for its excessive grief, Zechariah 12:11. Josiah’s reign was the last gleam of light in his doomed country, but it was good for him to be removed before the storm burst."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 36
+ }
+}

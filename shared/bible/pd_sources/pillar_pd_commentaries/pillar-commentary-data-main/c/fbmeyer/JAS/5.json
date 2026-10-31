@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JAS",
+  "commentaryId": "fbmeyer",
+  "name": "James",
+  "commonName": "James",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Patiently Await the Lord’s Coming -- James 5:1-11\n\nThere are many among the rich who are using money as a sacred trust. Not against these does the Apostle utter his terrible anathemas, but against those who make money by oppression and hoard it for their selfish ends. Riches, which have not been gotten righteously, ever bring a curse with them; and the rust of unused or misused wealth eats not only into the metal but into the miser’s flesh. In the light of this passage, it is as great a wrong to hoard up for selfish ends money entrusted as a stewardship, as it is to obtain it unrighteously.\n\nThere is a sense in which the Lord is ever at hand and present. But He shall come again at the end of this age. Then all wrongs shall be righted and the oppressed avenged. Everything comes to him who can wait for it; do not judge the Lord by His unfinished work. Be patient till He unveils the perfected pattern in glory. Await the end of the Lord!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Effectual Prayer -- James 5:12-20\n\nIn view of the judgment-seat, at which we shall have to give an account of our words, we shall do well to employ the simplest, plainest speech, Matthew 5:34; Matthew 12:36-37.\n\nHow shall we act in any given situation? The Apostle says in effect, be perfectly natural. The suffering should pray, the glad sing, the sick confess his sins and call for believing prayer. The oil is the symbol of the Holy Spirit. The body is the Holy Spirit’s temple, and He is asked to bring it to the level of that spiritual wholeness which is His ideal. Where He gives the prayer that can affirm and claim, there is no doubt that perfect health will result. But there is all the difference between human telepathy and divine healing, which is God’s gift to faith.\n\nElijah became what he was by faith and prayer. Naturally he was subject to the same fears and failings as ourselves. There are two reasons why we should endeavor to convert men: (1) for their salvation, (2) for the arrest of their baleful influence."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 1
+ }
+}

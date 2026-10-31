@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s True Servants Safely Kept -- Psalms 17:1-15\n\nThis also dates from the Sauline persecutions. In the earlier verses David protests his innocence, pleads for deliverance from his foes, and ends with glad anticipation of the vision of God. The psalm may have been composed for use at eventide; two at least of its verses point in that direction, Psalms 17:3; Psalms 15:1-5.\n\nWhat a comfort it is to appeal from the accusations of men to the judgment-bar of God! Yet our sufferings at their hands are God’s smelting-furnace. The Hebrew word translated tried is “melted,” Psalms 17:3. But we cannot be kept without constant use of God’s Word, Psalms 17:4. And then how safe we are! The apple of the eye-that is, the pupil-is defended by eye lash, lid, brow, bony socket, and uplifted arm. Thy wings, see Deuteronomy 32:11.\n\nNote the contrast between Psalms 17:14 and Psalms 16:5; Psalms 16:11. The worldly are filled with this world-I with thee. They look for the things of this life-I for the unseen and eternal. They are satisfied with children-I with thy likeness."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 18
+ }
+}

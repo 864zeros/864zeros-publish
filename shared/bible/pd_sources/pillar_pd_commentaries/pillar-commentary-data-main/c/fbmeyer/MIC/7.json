@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "fbmeyer",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Compassion for an Erring People -- Micah 7:1-20\n\nThings had come to an awful pass in the favored city. Oppression, bribery, and bloodshed, were everywhere in the ascendant. Men wrought evil with both hands. Husbands could not trust their wives. At such a time there is no refuge for God’s children save in God, Micah 7:7-13.\n\nWhen we have learned our lesson we find God appearing for our help. He brings forth to the light and vindicates us. Then those that hated us, and suggested that He had forsaken, will be compelled to admit that He has completely vindicated us from their reproach. Be of good cheer, believer; wait for God. He will bring out thy righteousness as the light and thy judgment as the noonday, Micah 7:10-12.\n\nNext, the prophet pleads with Israel’s Shepherd to repeat the marvels of the Exodus. He knows that God will not only pardon iniquities but subdue them, trampling them beneath His feet. This anticipates the Ascension, Ephesians 1:20-23. When a stone sinks into ocean depths, it cannot be recovered; and when sin is forgiven God never recalls it either here or hereafter."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 47,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“King over All the Earth” -- Psalms 47:1-9\n\nThis psalm may have been sung in the valley of Berachah, where Jehoshaphat celebrated his victory over the Moabites. See 2 Chronicles 20:1-37. When some great deliverance has been granted, we should break out in blessing and praise. Notice Psalms 47:3-4! They are rightly placed side by side; because God will not subdue our enemies under us, unless we have allowed Him to choose our life-plan. Live on that plan and you are unconquerable.\n\nIn the second division, Psalms 47:5-9, Jehovah is depicted as returning from the war to his dwelling-place in the height of Zion. This seems to anticipate the Ascension, when Jesus became the enthroned King of men. They fail to recognize Him now, but some day the princes of the people shall be gathered together, and the kingdoms of the world shall have become the one kingdom of the Christ, Revelation 15:4. The shields of the earth, Psalms 47:9, are its princes and leaders. See Hosea 4:18, r.v., margin. The kings of wealth, science, art, literature, and power will one day bring their glory and honor into the gates of the New Jerusalem, Revelation 1:5; Revelation 21:24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 47
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 46
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 48
+ }
+}

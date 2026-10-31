@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOL",
+  "commentaryId": "fbmeyer",
+  "name": "Joel",
+  "commonName": "Joel",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Summons to Penitence\n\nJoe 1:1-20; Joe 2:1-11\n\nWe know nothing of Joel beyond this book. He was content to be God’s mouthpiece and remain unknown. His message was one of unparalleled woe. The memory of God’s loving kindness ought to have kept His people faithful and loyal, but since grace and love had failed to affect them awful judgments were announced. A small insect, the locust, was to prostrate man’s boasted power. The four kinds of locusts here described and which doubtless devastated the country, were also symbols of the four world-empires, Assyria, Babylon, Greece, and Rome, which were to lay waste the Holy Land.\n\nSuch judgments call for acts of repentance, such as fasting, humiliation, and intercession. There are days in national experience when it becomes us to gird ourselves and lament. The ministers and elders of the Church should lead the way. Where there has been infidelity to the great Lover of souls, when the visible Church or the individual member has turned from Christ to the wanton world, then joy withers away, Joe 1:12, spiritual worship ceases, Joe 1:9, and there can be neither peace nor safety until there has been repentance and return."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Averting of Judgment\n\nJoe 2:12-27\n\nTo rend the garment is easy, but a broken and contrite heart can be imparted only by the grace of the Holy Spirit. The love of God should bring us to repentance. He takes no pleasure in our miseries and if men repent and turn from their sin they find an immediate and loving welcome to the Father’s heart and home. Joel had called for the trumpet to announce war; he now directs the trumpet blast to summon the people, from the highest to the lowest, to plead for help. Prayer and true repentance and faith bring an immediate answer. As the husband yearns over his erring but repentant wife, and is indignant with those who have maltreated her, so will Jehovah remove from us, when we turn to Him, those who have cruelly oppressed us.\n\nThe great things Jehovah did against Egypt and Babylon are an earnest of what He will do again. The earth, Joe 2:21; the lower animals, Joe 2:22; and, above all, the children of Zion, literal and spiritual, Joe 2:23, have good reason to rejoice in what awaits them. God promises not only to forgive sin, but to make us happy and well provided as if the locust and cankerworm had never settled upon our lives."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "“The Valley of Decision”\n\nJoe 2:28-32; Joe 3:1-21\n\nHaving stated the outward blessings that would follow repentance, Joel unveils the extraordinary spiritual blessings that were in store. The outpouring of the Spirit, described in Acts 2:16-17, does not exhaust these glorious words. This blessing is for all whom the Lord our God shall call to Himself, and as one to whom His call has come, you have a perfect right to claim your share in Pentecost. The promise is to all that are “afar off” in space and time. The very slaves, the most degraded and despised of men, become free when they yield themselves to Jesus and have an equal right to the same Spirit.\n\nJoe 3:1-21 refers to the last desperate effort made by the powers of the world against Christ and His people. This will be the closing scene of man’s apostasy. But the Lord will vindicate and deliver His oppressed from the hand of their oppressors; and the same judgment will bring them blessing. Having cleansed His people from their stains, Messiah will tabernacle among them, Revelation 21:3."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOL",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOL",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOL",
+  "chapter": 3
+ }
+}

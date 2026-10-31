@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2PE",
+  "commentaryId": "fbmeyer",
+  "name": "2 Peter",
+  "commonName": "2 Peter",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Doom and Deliverance -- 2 Peter 2:1-11\n\nAlready the early Church was threatened with destructive heresies introduced by men who desired only their self-aggrandizement. All the Apostles give warning against such, and point to character as the one supreme test of doctrine. The real drift of the heresies is to deny the Master, who bought us as slaves in the market of the world. Of all the bidders, there is none who has bidden so high as he.\n\nMany instances are quoted from the past to prove the fearful judgments which must overtake such false teachers. The angels who placed their self-will in antagonism to their Maker were cast down to Tartarus-a Greek word used only here in the New Testament. The people who lived previous to the Flood, and they who afterward at Sodom disregarded the laws of purity and self-restraint, dictated alike by nature and conscience, were overwhelmed in destruction. But even amid such judgments, God discriminates His Noahs and His Lots, preserves and delivers them, and numbers them among His jewels, Malachi 3:17. God has His eye on you and will succor you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Dark Way of Animalism -- 2 Peter 2:12-22\n\nThe description of these false teachers is terrific! They are slaves to their brute instincts. They are as abusive as they are ignorant. They destroy and will be destroyed. They feast daintily in the broad daylight, instead of leading abstemious and sober lives. With them, the very church feasts were occasions for self-indulgence. Their eyes never ceased from the sin against which the Lord warns us in Matthew 5:28. Balaam is an awful example of such, torn, as he was, between the celestial vision of his spirit and the sensual appetite of his soul.\n\nThe will of man, as in Balaam’s case, is always poising itself between its knowledge of good and evil and its strong bias toward evil. Only the help of God can correct this. Let us “who are just escaping,” 2 Peter 2:18, r.v., from the meshes of the world, beware lest we be caught in the guiles and nets of false teaching, which would drag us back into the evils of the worldly life. It is in our heart-felt union with the Lord Jesus Christ alone that we can be permanently secure."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 3
+ }
+}

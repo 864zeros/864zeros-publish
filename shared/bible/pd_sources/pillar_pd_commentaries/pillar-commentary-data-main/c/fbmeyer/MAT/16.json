@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Beware of Evil Influences -- Matthew 16:1-12\n\nThe signs of the times in our own day are much as they were in that. Still men are lovers of pleasure rather than of God. Still they who will live a godly life must be prepared to suffer persecution. The forms of hatred and dislike of the gospel change, but the hatred of the Cross is as inveterate as ever. The sign of Jonah was his resurrection to take up his cry against Nineveh; the resurrection of Jesus is the Father’s seal of endorsement. See to it that He shall rise, not only in Joseph’s garden, but in thy heart! That is the best evidence of the truth of our holy faith.\n\nThere is abroad today much teaching which may be compared to leaven. The germs of hurtful and false doctrine are as thick as microbes. Propagated by the agencies of the spoken address and the written page, they produce fermentation and unrest in the young and unstable. We must judge these pernicious teachings, not by their pleasant and innocent appearance, but by their effect on heart and character."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "“The Son of the Living God” -- Matthew 16:13-20\n\nThe shadows of Calvary were beginning to gather and the Lord desired to prepare His friends for all that it stood for. His questions elicited Peter’s magnificent confession.\n\nNotice the date of the Church. It was still future when He spoke. I will build. The materials may have been prepared beforehand, but the actual building began at our Lord’s resurrection. He is the Architect. Through the centuries He has been building, and if we are in His Church today, we are there because He excavated us out of the first Adam, and placed us in the very position we now occupy. The foundations of that Church were not in the Apostle (Petros) but in his confession (petra)of the divine sonship of Jesus. See John 5:18. Its impregnability is attested, for the Lord Himself defends it. See Revelation 2:1. The gates of Hades, that is, the unseen world, include all the principalities and powers that are allied against God’s people. They cannot prevail, Ephesians 6:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Bear the Cross for Jesus -- Matthew 16:21-28\n\nThe gospel has two parts: Jesus is the Christ; and the Christ must suffer, if He shall enter His glory. Our Lord made sure of the first, before He held to the second. There had been veiled hints of His death before, as in John 2:19; Matthew 9:15; Matthew 12:40; but henceforth it was taught without a veil. The Cross had always cast its shadow over our Lord’s path. He did not die as the martyr on whom death comes unexpectedly, but He stepped from the throne and became incarnate that He might die. Notice that solemn must, Matthew 16:21.\n\nHow soon Peter fell from his high estate! Beware! The voice that bids us spare ourselves is Satan’s. Self-pleasing ends in destruction. Self-denial and self-sacrifice are the divine path to life. Let us be more eager to lose ourselves than to find ourselves; more set on the cross than on the glory; more eager to promote the well-being of others than our own. We do not choose or make our cross; Christ gives each a little bit of His true Cross to bear as He pleases."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 17
+ }
+}

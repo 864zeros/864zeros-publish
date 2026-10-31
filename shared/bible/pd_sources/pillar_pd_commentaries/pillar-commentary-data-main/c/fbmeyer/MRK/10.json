@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Divine Law of Marriage -- Mark 10:1-22\n\nGod made one man for one woman; therefore divorce is not permissible, unless the one act be committed which severs the nuptial tie. Then only is the bond broken by which husband and wife are one. There should be no compulsory celibacy. Some can live the single life; others cannot. Each must work out his own possibilities, and none may judge another.\n\nIt would appear that the fathers brought the little ones. They had a truer perception of the heart of Jesus than the disciples. All through the ages men have supposed that strength, wisdom, and wealth have the greatest attractions for our Lord, whereas it is precisely the reverse. Of such is His Kingdom.\n\nYouth, with all its fervor and impetuosity, is very beautiful to the Lord Jesus. In this case it was combined with station, high standing, and wealth. It is not necessary that all should sell their goods, and give away the proceeds; indeed, it is often harder to retain and administer them rightly for God. But it was necessary for Christ to prove to this young man that he was not living the life of love, as he seemed to suppose. That alone can fulfill the law, and secure the highest and most perfect blessedness of which we are capable. It was a severe but necessary test for this young man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "True Riches and Real Greatness -- Mark 10:23-52\n\nWealth brings many temptations. It is not said that rich men cannot get through the gate, but they will have to stoop very low and be stripped of the love of wealth, though not necessarily of wealth itself. In Christ’s kingdom to give all is to get all. The surrendered life needs no pity, for what it loses on the material side is more than compensated by its enormous spiritual gains, Mark 10:30-31. Perhaps the request of the two brethren was dictated rather by the desire to be near the Master than by ambition; but in any case there is only one price to be paid. We must know the fellowship of His sufferings, if we are to share His glory, 2 Timothy 2:11, etc.\n\nIt is easy to say, “We are able;” but had they not experienced the day of Pentecost, these two aspirants had certainly failed, Philippians 4:13. If you are not called to suffer with Him, then serve. Service like Christ’s will bring you near His throne, as will also a share in His suffering. With us as with Bartimaeus, obstacles and difficulties should not daunt, but rather incite to more eager prayers. Christ is ever saying to men-Courage! Only faith could make a blind man cast away his garment, but he knew that he would be able to find it again with the sight that Jesus would certainly bestow."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 11
+ }
+}

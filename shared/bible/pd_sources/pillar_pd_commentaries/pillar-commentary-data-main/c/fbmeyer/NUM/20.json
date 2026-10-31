@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Sin of Moses and Aaron -- Numbers 20:1-13\n\nAgain the people, as the long years of their Wilderness life drew to an end, gathered around the Tabernacle at Kadesh. Again the murmuring spirit broke out, as it had done forty years before. To the end we shall be liable to the outbreak of the old sins; and can never relax our vigilance or sheathe the sword.\n\nMoses was to speak to the rock, not smite it. See Exodus 17:6. The Rock of Ages was smitten only once. “It is appointed unto men once to die,” and “Christ was once offered to bear the sins of many.” It is now only needful for the soul to speak to Him, though in the lowest and most faltering accents, to elicit streams of help and salvation.\n\nIt was lack of faith that led Moses to smite the rock twice. Speaking seemed too slight an effort for the production of such a marvel! He forgot that neither rod nor speech effected the result, but the power of God that wrought through and with him. See 1 Corinthians 3:4. “She only touched the hem of His garment!” Matthew 9:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Edom Refuses Passage; Aaron Dies -- Numbers 20:14-28\n\nIt was an ungracious act on the part of the Edomites-descendants of Esau, Jacob’s brother-to forbid the passage of the chosen people through their territory; and it was never forgotten. It is referred to again and again in the strongest terms by prophet and psalmist. See Deuteronomy 2:4; Deuteronomy 2:8; Deuteronomy 23:7; Amos 1:11; Obadiah 1:10; Obadiah 1:12; Psalms 137:7.\n\nAaron’s death was arranged so as to give him a distant glimpse of the Land which had so long beckoned him onward. But he was not suffered to continue. His death is quoted in evidence of the imperfection of the Aaronic priesthood, in contrast to the indissoluble priesthood of our Lord, Hebrews 7:16.\n\nThis is a sad chapter! Moses’ failure, Aaron’s and Miriam’s death, Edom’s refusal! But God’s purpose moved steadily on. He wrought for His own sake, because of the Covenant."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 21
+ }
+}

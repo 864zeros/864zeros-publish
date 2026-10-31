@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus Shows Divine Glory -- Matthew 17:1-8\n\nMoses’ face shone after having absorbed the divine glory, as some diamonds burn with sunlight after being carried into a dark room. Stephen’s face shone because for a moment he had seen the Son of man. But the face of our Lord shone, not from without but from within. The shekinah of His heart was for the most part hidden, but here it burst through the frail veil of flesh, John 1:14.\n\nThe Apostle uses the same word when he says, “Be ye transfigured,” Romans 12:2. He does not mean that for a brief moment we should see and reflect our Lord’s face. He wants us to enshrine Him in our hearts, and then to rid ourselves of all hindering veils, so that the light of the knowledge of the glory of God may make even the common garb of daily drudgery beautiful.\n\nThis was the great climax of our Lord’s earthly life, when He definitely turned away from the glory that was set before Him, to endure the Cross for our redemption."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Lack of Faith Rebuked -- Matthew 17:9-21\n\nAs Raphael suggests in his great painting, there is a close connection between the mountain and the valley. The glory of the one did not make our Lord indifferent to the bitter need of the other. It seems as though He desired to impress on us the great truth, that we must have the seclusion and exaltation of communion with God before we can successfully deal with the anguish and terror that devastate human lives. See Matthew 17:21.\n\nIn Matthew 17:17 our Lord grieves over the unbelief of His disciples. Though they had enjoyed His careful teaching, they had failed to grasp His secret, which He here again elaborates. Faith is openness to God. It is the lifting of the curtain, that the healing light may enter. The tiny seed unlocks its little doorway to welcome the entering life of nature; and as this continues to enter, it forces the rootlet downward and the green shoot upward. It is thus also with the life of God in the soul. Let this life of God in and there is no limit to what it will effect."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Pay Tribute Where It Is Due -- Matthew 17:22-27\n\nAll Jews were required to pay the half-shekel for the maintenance of the Temple services. See Exodus 30:13. As God’s own Son, our Lord might surely have claimed exemption from taxation for His Father’s house. But He waived His claims, that He might not put a stumbling-block in the way of others. We must often conform to requirements that seem needless, because of the effect of our example on others who have not had the advantages of our illumination.\n\nIn the miracle that followed, our Lord sweetly teaches that He is responsible for the expenses of those who have given up other means to livelihood in order to devote themselves to His service. It is as though we are encouraged to go to Him to meet the demands made on us for taxes of one kind and another. He will give us what we need, kindly classing Himself with us, not in two coins, but in one. Make Christ’s interest your aim; He will make your taxes His care. See 1 John 1:3."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 18
+ }
+}

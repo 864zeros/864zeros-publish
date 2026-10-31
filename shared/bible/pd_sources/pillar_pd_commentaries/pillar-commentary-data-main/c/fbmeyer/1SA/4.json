@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Trusting in the Ark, not in God -- 1 Samuel 4:1-11\n\nThe predictions against Eli’s house now begin to be fulfilled. It was fitting for Israel to institute an inquiry into the causes of defeat. This is always the first step toward victory. There was no doubt as to the ancient Covenant with Israel; the one question was to ascertain what had suddenly neutralized that divine assistance which in former days had always been forthcoming. Failure often indicates that something has happened to cut off the supply of God’s saving help.\n\nIn this instance, however, Israel did not carry the inquiry into God’s presence, but endeavored to supply the lapse of divine help by introducing the symbol of the Covenant. “Fetch the Ark!” they cried. They supposed that, in some mysterious way, it would bring God into their camp and ally Him with their arms. In the same manner a brigand might expect an amulet or charm to preserve his life, while violating the laws of God and man. These materialized views of the Israelites’ relations with God had to be corrected; and hence defeat ensued. Our only safety lies, not in an outward act or token, but in simple, pure-hearted and unbroken fellowship with God. Then we become invincible."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Glory Departed from Israel -- 1 Samuel 4:12-22\n\nNotwithstanding their high hopes, disaster again overtook the hosts of Israel. No symbols of God will help us, until we have put away our idols and laid our hearts bare before Him.\n\nThe bad news traveled quickly over the land and everywhere brought dismay. The death of Eli and that of his daughter-in-law were tragedies, but in each ease there was a beautiful touch of true devotion to God’s holy cause. The old man succumbed only when the messenger told of the capture of the Ark; while the mother could not be rallied from her death-swoon, even by the cry of her child, because, with the Ark, the glory of her people had passed away. May we not all pray to be equally devoted to the cause of Jesus Christ, so that its victories or its delays may touch us to the quick? The glory of our lives, as of the Church, should ever consist in the possession, not of the symbol, but of the real presence of our Lord, recognized, revered, loved and enshrined in our tenderest emotions."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 5
+ }
+}

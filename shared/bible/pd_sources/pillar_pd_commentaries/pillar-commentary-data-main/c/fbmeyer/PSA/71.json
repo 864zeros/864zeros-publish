@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 71,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“My Trust from My Youth” -- Psalms 71:1-12\n\nSome commentators ascribe this psalm to Jeremiah. His pensive, plaintive tone is certainly present in it. But whoever the author, he must have written in his old age, Psalms 71:9; Psalms 71:17-18. One keynote is great and greatly, Psalms 71:19-21; Psalms 71:23; another is all the day, Psalms 71:8; Psalms 71:15; Psalms 71:24.\n\nOld men need have no failure in their buoyancy and gladness, if they will fix their thoughts where the psalmist fixed his. Other subjects will soon wear out, but they who make God’s righteousness and salvation their theme will ever have material for meditation and praise. We have here an inexhaustible subject, and one which will keep us young. Let us ask for help, that we may disappoint the calculations of those who hate us, whether men or demons. It is a piteous spectacle when apparently prosperous careers” are overclouded, and age is overwhelmed in catastrophes which there is no time to surmount. But such is not God’s way with His loyal servants. His rivers do not end in swamps and marshes, but broaden and deepen till they kiss the mighty ocean."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Greatest of All Workers -- Psalms 71:13-24\n\nThe singer glances both backward and forward. He goes back in thought to the time when he was cast on God at birth, and acknowledges that God has taught him from his youth and has enabled him to declare God’s wondrous works. We may make the same retrospect, and as we muse on all that God has been to us, we may be assured that He will not forsake the work of His own hands, Psalms 138:8. His deliverances will give cause for endless praise, even when our eyes are closing and the heart waxes feeble in death.\n\nBut let us also think of those who are following us, and see to it that we leave behind some record of God’s righteousness and salvation. Let us place a flaming torch in the hands of our children for them in turn to pass on. Let us show God’s strength and power to those who are to come.\n\nThe best occupation for the aged is praise, Psalms 71:8; Psalms 71:14; Psalms 71:22-23. Thy mouth shall be filled… shall tell… shall talk. When our hearts are bubbling over with good matter, Psalms 45:1, we can leave our speech to take care of itself. Love will not lack for means of expression."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 71
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 70
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 72
+ }
+}

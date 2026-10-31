@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Pharaoh Stubborn against Israel’s Release -- Exodus 6:28-30; Exodus 7:1-13\n\nHow often we say in a similar tone, “I am of uncircumcised lips, and how shall Pharaoh hearken unto me?” Forty years in the wilderness, in absolute solitude, had robbed Moses of the eloquence with which Stephen credits him in earlier life. Like Jeremiah, he felt himself a child and unable to speak.\n\nIt is an awful moment when the human will sets itself in antagonism to the divine. If it will not bend, it must break. For once the scion of an imperial race had met his superior. It were better for the potsherd to strive with the potsherds of the earth! But God is not unreasonable. At the outset He endeavored to prove to Pharaoh who and what He was. One of the chief reasons for the plagues, as well as of these miracles, was to establish the fact that the Jehovah of the Hebrews was the great Being who lives behind the whole apparatus of nature."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Sign of the Waters Turned to Blood -- Exodus 7:14-25\n\nSatan will mimic God’s work up to a point. We are told that Jannes and Jambres withstood Moses; but even then Moses’ rod swallowed their rods. They were defeated in their own realm, that Pharaoh’s faith in them might be shaken. But it was in their predictions of what was coming that the Hebrew brethren specially attested their superiority. The sky was roseate with the blush of dawn, as Pharaoh, accompanied by his court, came to perform his customary ablutions or to worship at the brink of the Nile. Moses met him with the peremptory summons, “Let my people go…” and in accordance with his prediction the Nile became as blood. But since by their clever legerdemain the magicians appeared able to do as much, his heart was hardened-i.e., “he did not set his heart to it.” In other words, he would not consider the message sent to him by the hand of God’s accredited messengers."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 8
+ }
+}

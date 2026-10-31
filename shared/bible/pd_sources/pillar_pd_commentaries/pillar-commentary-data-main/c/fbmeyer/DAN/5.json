@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Handwriting on the Wall -- Daniel 5:1-16\n\nThe name of Belshazzar has been deciphered in inscriptions found at Babylon, from which it is inferred that he was associated with his father in the kingdom, and was left to defend Babylon. He was therefore a grandson of Nebuchadnezzar, the word “father,” Daniel 5:11, being used in the sense of “ancestor.” The great walls of the banqueting hall covered with sculptures and sumptuous decorations; the tablets covered by cuneiform descriptions of the triumphs of former kings; what a feast this was with the thousand lords; the most beautiful women of the land; the concourse of magnates of religion and the state! The wine flowed in rivers, and laughter rang through the vaulted hall. Upon the table stood the vessels of the Temple, and notably the seven-branched candlestick, which cast its radiance on the wall, clearly illumining the fingers of the hand that wrote. The words, though Chaldee, may have been written in Hebrew characters. Conscience anticipated Daniel, and filled the king’s heart with foreboding.\n\nThe queen may have been the great Nitocris, wife of Nebuchadnezzar, the ancestor of the present king. God has His own way of bringing His people to the front when He needs them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Weighed and Found Wanting -- Daniel 5:17-31\n\nDaniel was unperturbed and undismayed. Calm and collected, he recognized his Father’s handwriting, and read it, as the instructed may decipher a scroll which is illegible to the ordinary gaze. What to him were the gewgaws of the palace? With the wings of the angel of death overshadowing that awe-struck throng, it was of small importance that Belshazzar promised him the purple robe and chain of gold. It seems sometimes as though those fingers were busy still writing their awful sentence on the walls of national revelry. While a nation is drinking deep at its cups and countenancing uncleanness, the divine assay may be in progress and the verdict going forth: weighed and found wanting.\n\nThere may be gold and glitter, revelry and mirth, the splendor of state, and the profusion of rich viands; but what of these if the people are ignorant, irreligious, and impure? Then, indeed, dry-rot has set in! The root sin of all is pride. May the Spirit of God, who ever brings with Him light and understanding and excellent wisdom be found in us, as in Daniel."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 6
+ }
+}

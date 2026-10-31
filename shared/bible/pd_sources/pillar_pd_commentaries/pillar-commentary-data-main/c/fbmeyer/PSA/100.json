@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 100,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Universal Praise -- Psalms 100:1-5\n\nIf we could enter into the spirit of this psalm, every day would be a Thanksgiving Day. The psalmist invites all the earth to enter into the courts of God’s house with joyful songs. In many of the Psalms the minor chords overpower the major ones, and weeping prevails over rejoicing. But this psalm is full of unclouded sunlight. The reason for this gladness is suggested in the words: We are His: His by creation, by providence, and by grace; and His also by the glad consecration of our hearts to His service. We belong to Him by right; it is for us to see to it that we are also His by choice. And His ownership involves His shepherd-care. We are His flock; it is for Him to lead us into green pastures and beside still waters.\n\nTo the psalmist’s eye the nations of the world pour into the Temple through the wide-open portals. “Hark!” he cries. “Listen to the burst of thanksgivings which roll forth from the mighty throng!” The great attraction is the goodness of Jehovah, and the everlastingness of His love and troth. This psalm reveals the true genius of religion. We cannot be satisfied till all men share our knowledge of the love of God. There is nothing which will better promote the true happiness and gladness of mankind."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 100
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 99
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 101
+ }
+}

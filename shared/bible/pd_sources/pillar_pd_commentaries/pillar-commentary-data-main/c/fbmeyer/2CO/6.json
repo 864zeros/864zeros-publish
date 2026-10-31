@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ambassadors for Christ -- 2 Corinthians 5:20-21; 2 Corinthians 6:1-10\n\nOn God’s side the work of reconciliation is complete. Everything has been done and is in readiness to make forgiveness and justifying righteousness possible as soon as a penitent soul asks for them. He only waits for us to make application for our share in the atonement of Calvary. Many as our trespasses have been, they are not reckoned to us, because they were reckoned to Christ. God wants this known, and so from age to age sends out ambassadors to announce these terms and urge men to accept them.\n\nGod sends none forth to entreat men without cooperating with them. When rain falls on a slab of rock, it falls in vain. Be not rock, but loam to the gentle fall of God’s grace. Let none of us be stumbling-blocks by the inconsistencies of our character, but all of us stepping-stones and ascending stairways for other souls.\n\nThe three marvelous series of paradoxes in 2 Corinthians 6:4-10 deserve careful pondering. The first series enumerates Paul’s sufferings on behalf of the Gospel; the second, his behavior under them; the third, the contrast between appearance and reality, as judged respectively by time and eternity. The stoic bears life’s sorrows with compressed lips; the Christian, with a smile. Let us be always rejoicing, many enriching, and all things possessing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Separate from All Uncleanness -- 2 Corinthians 6:11-18; 2 Corinthians 7:1-4\n\nPaul’s love failed to be appreciated by his converts because the channel of receptiveness, that is, of their faith and love, was so straitened. How often is this the case between Christ and us! Let us dredge the channel. Be ye enlarged! Open your mouth wide and He will fill it.\n\nThe best method of doing this is to be only, always, and all for Him. We must not offer Him a share of our heart and devotion. There must be no division between Him and others. Whenever iniquity, darkness, Belial, and unbelievers seek to share our nature with the Holy Spirit, and we permit the partnership, He withdraws. No idols must be permitted in any hidden shrine of the heart. The whole nature-spirit (that is, the Holy of Holies) soul (that is, the seat of our individuality), and body-must be the temple of the Eternal, who rules it from the Shekinah, which is enthroned on the Ark of the Covenant.\n\nGod still walks the world in those who love Him and are wholly yielded to His indwelling. The loneliest spirit finds Him to be father, mother, brother, sister, all. What an incentive to cleanliness not only of flesh but of spirit! Hebrews 10:22. The Apostle concludes by expressing his intense thankfulness that his converts had not misunderstood the urgency of his former letter."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 7
+ }
+}

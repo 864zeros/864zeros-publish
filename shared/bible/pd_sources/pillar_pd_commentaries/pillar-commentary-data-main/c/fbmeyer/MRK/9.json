@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Cost of following Jesus -- Mark 8:22-38; Mark 9:1\n\nOur attention has been drawn to the Master’s sighs; here, however, was another characteristic act. He spat on the eyes of the blind man, perhaps to excite his expectation and faith. Repulsive as ophthalmia is in the East, it did not repel Him nor staunch the flow of His pity.\n\nWe do not at once see everything clearly, but step by step we come unto perfect vision. Here we see through a glass darkly, there face to face. There was a great price to be paid; it was only through suffering and death that Jesus could do His greatest work, in redeeming and cleansing the children of men. He might have been the miracle-worker apart from Calvary; but to be the Savior, He must not spare Himself but be willing to pour out His soul even unto death. It was hard for the Apostles to learn this lesson; they wanted the Master to spare Himself. Peter, especially, sought to dissuade Him; but the Lord knew better the desperate need of men and how it must be met.\n\nThere are three conditions to be fulfilled by those who have resolved to follow the Lamb whithersoever he goeth. 1. We must deny self; 2. Each must take up his cross; 3. We must think more of others than of ourselves. If these are realized, the soul is following Christ and making progress, even though it deems itself stagnant or drifting back."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Rapture and Service -- Mark 9:2-29\n\nThe Apostles had been gladdened by the promise of the coming Kingdom. The transfiguring light that shone from our Lord’s face differed from the shining of Moses’ face. With Moses the light was from without, and faded; but with Christ the light shone from within. Surely at that moment He might have stepped back into heaven by the open door, through which the representatives of the Law and the prophets had come; but He turned His back on the joy of the Father’s home, and set His face to endure the cross, that He might become, not the example only, but the Redeemer of men. What a contrast between that scene on Hermon’s slopes, where the glory of Jesus was brighter than the glistening snows about Him, and that below, where the demoniac child writhed in pain! Raphael does well to group these two incidents in one picture, for we are shown here that the duty of the Church is not to build tabernacles on the mount of vision, but to take her way into the haunts of crime and misery and cope with the power of Satan.\n\nFaith is the channel through which the divine power passes. Its quantity is of less importance than its quality. It may be minute as a mustard seed, but, like it, must contain the principle of life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "The Path to Greatness -- Mark 9:30-50\n\nSuch were the hopes awakened by the Transfiguration and the following miracles that the disciples were led to speculate upon their relative position in the Kingdom. Jesus therefore took a little child for His text, and preached to them a sermon on humility. How constantly the Master speaks of the little ones! He says that we must be converted to become like them; that to cause them to stumble will involve terrible penalties; that they are not to be despised; that each has an angel of the Father’s presence-chamber appointed to his charge; that to seek and to save one He is prepared as the shepherd to traverse the mountains; that it is not the Father’s will that one of them should perish. How infinitely tender and humble was His love for them!\n\nLet us strive to cut off whatever causes us to stumble. It may be a friendship, a pastime, a pursuit, a course of reading; but there must be no quarter given, no excuse accepted. As soon as the soul dares to make this supreme renunciation, there is an accession of life. Whenever the body loses the use of one member, such as the eye, there is an accession of vigor in others; so, to deny the lower is to open the door to the higher, and, though maimed, to enter into life. Mark 9:44-48 evidently refer to the valley of Hinnom, where fires were kept burning to consume waste."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 10
+ }
+}

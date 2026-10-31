@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Breaking Three Commandments -- 1 Kings 21:1-29; 1 Kings 1:1-53; 1 Kings 2:1-46; 1 Kings 3:1-28; 1 Kings 4:1-34; 1 Kings 5:1-18; 1 Kings 6:1-38; 1 Kings 7:1-51; 1 Kings 8:1-66; 1 Kings 9:1-28; 1 Kings 10:1-29; 1 Kings 11:1-43; 1 Kings 12:1-33; 1 Kings 13:1-34; 1 Kings 14:1-31; 1 Kings 15:1-34; 1 Kings 16:1-34\n\nFrom a worldly point of view Naboth might have done a good stroke of business by selling his estate to. Ahab. A royal price and assured favor might have been his-but he had a conscience! Above the persuasive tones of the monarch’s offer sounded the voice of God: “The land shall not be sold for ever, for the land is mine.” See Leviticus 25:23; Numbers 36:7; Ezekiel 46:18.\n\nAhab knew perfectly well that Jezebel could not give him the property of another except by foul means, but he took pains not to inquire. Though the direct orders for Naboth’s death did not come from him, yet, by his silence, he was an accomplice and an accessory; and divine justice penetrates all such specious excuses. God holds us responsible for wrongs which we do not arrest, though we have the power. The crime was blacker because of the pretext of religion, as suggested by a fast. See also 2 Kings 9:26. The blood of murdered innocence cries to God, and his requital, though delayed, is inevitable. See Revelation 6:9-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Learning the King’s Will -- 1 Kings 1:15-27\n\nThe attempt of the usurper was met and defeated through Nathan’s prompt action, and by the concerted appeal that he and Bathsheba made to the king, who seems to have sunk into premature old age. Bathsheba and David probably met for the last time on this dark day, and each of them must have remembered the solemn promise given them years before, through Nathan, who was still with them as friend and counselor. Much had happened since, but, amid all the changes in human affairs, the word of God is immutable and the promise of 1 Chronicles 22:9 must stand.\n\nProbably only Bathsheba and Nathan knew of that solemn compact; and, knowing it, they at once took action. It is not enough that God should make a promise to His people; they must claim its fulfillment and put themselves at His disposal, that it may be fulfilled through them. The ancient prediction that the kingdoms of this world shall become the kingdom of our Lord is true, but we must pray for and hasten its advent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Anointing the Chosen One -- 1 Kings 1:28-40\n\nDavid aroused himself and acted with commendable prudence and celerity. The crisis required promptness of decision and energy in execution. The whole nation was waiting to know the king’s will regarding the succession to the throne, and David left no doubt as to his choice. His orders were quickly carried out by Nathan, Zadok, and Benaiah, and the royal action was also endorsed by popular acclaim.\n\nWhat tumultuous joy burst over Jerusalem when Solomon was enthroned! The earth rang again with jubilant shouts which struck terror among the guests at Adonijah’s feast. But all such opposition shall be forgotten in that day for which the whole creation-groaning in travail, Romans 8:22 -waits: when Jesus shall be manifested, and those who love Him shall be manifested with Him in glory, Colossians 3:4. Then we shall hear that new song, in which ten thousand times ten thousand voices shall acknowledge that Jesus is worthy to receive power and riches and wisdom and strength and honor and glory and blessing. He must reign! Revelation 5:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "Justice and Brotherhood the Foundations of the State -- 1 Kings 1:41-53\n\nAccording to popular usage, Adonijah was the rightful heir to the throne. He was handsome and kingly in appearance and behavior. He was also in his prime, while Solomon was just out of his teens. So plausible was his address that the nation was bewildered, and old retainers of David’s throne were seduced. We are reminded in all this of the god of this world, 2 Corinthians 4:4, who blinds the eyes of those who believe not, lest the light of the glorious knowledge of God should shine in upon them.\n\nSolomon displayed remarkable clemency in dealing with Adonijah. He was willing to let bygones be bygones. He promised that if Adonijah proved himself a worthy man, no harm should befall him. But as the following chapter records, the evil that wrought in Adonijah came out in a further plot to secure the throne, and he paid the death penalty. Let us see to it that we walk, not according to the course of this world or the spirit that works in the children of disobedience, but, remembering that we have been quickened together with Christ and made to sit with Him in heavenly places, let us walk worthy of our high calling."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 2
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "OBA",
+  "commentaryId": "fbmeyer",
+  "name": "Obadiah",
+  "commonName": "Obadiah",
+  "numberOfChapters": 1
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Obadiah, the Coming Doom of EdomA vision was granted to Obadiah of the penalty to be meted out to Edom for his cruelty to his brother Israel. Instead of showing sympathy, the Edomites had feasted their eyes on the misery of their kinsfolk, eagerly watching for their destruction. See Numbers 20:14-21 and Psalms 137:7. But the very calamities which had befallen Jacob would visit them.\n\nSince we know not how soon we may be called upon to suffer, we should feel compassion for rather than exultation in, the sufferings of others. Malice harbored in any form contains the seed of future suffering. The great day of God is at hand, Obadiah 1:15, which shall bring retribution to all who have set themselves against the kingdom of God. “When our Lord returns He will bring redemption to His saints, and His people shall possess their possessions. This suggests the solemn inquiry whether as the heirs of God, we have yet entered upon our inheritance. O happy day, when the kingdom shall be the Lord’s and we shall reign with Him!\n\nOwing to the brevity of this book, review questions are omitted."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "OBA",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 1
+ }
+}

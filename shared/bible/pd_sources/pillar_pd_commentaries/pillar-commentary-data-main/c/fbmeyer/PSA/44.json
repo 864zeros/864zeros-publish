@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 44,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Courage from Former Deliverances -- Psalms 44:1-8\n\nThis psalm, like Psalms 60:1-12, came out of one of the early wars in David’s reign, as described in 2 Samuel 8:13-14. Some refer it to 2 Chronicles 20:1-37. It befits the Church when her former prosperous state contrasts sadly with her depressed and suffering condition.\n\nIt is a great argument in prayer when we can quote to God the mighty things of the past, and ask that He should do the same again. The great revivals and advances of the past were not achieved by human wisdom or might, but by faith. It is always God’s right hand and the light of Hiscountenance that win the land in possession; but why should He not command similar deliverances again! And what is true of the Church is equally true of the individual. Why not lift thy heart to God, O defeated soul, and claim that He should command victories for thee? Psalms 44:2, r.v., margin. Make thy boast in God and thou wilt have reason to give thanks unto Him forever! But before we can claim God’s deliverances, we must be able to say, Thou art my King, Psalms 44:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "A Plea for Present Help -- Psalms 44:9-26\n\nIn Psalms 44:11 God’s people are compared to sheep appointed for meat, which are sold by the shepherd for naught, so worthless are they. Before their savage foes sheep are defenseless and unresisting. Their bitter lot is aggravated by their fear lest the shepherd has forgotten them. The reference in Psalms 44:19 to jackals suggests the further picture of a harried and panting flock. It is hardly to be wondered at that God’s tender mercies seemed withdrawn from his people!\n\nBut notice how the Apostle Paul uses these words in Romans 8:36. He does not complain of forsakenness, nor appeal for help. On the contrary, he declares that in all these things we are more than conquerors, and that nothing can separate us from the love of Christ. This is the lesson of the New Testament-that we conquer when we are defeated; overcome when we are slain; are strongest when we are beaten to the dust; and ascend to the throne only when we fie in the grave where Jesus, our Master, lay! John 12:24; 2 Corinthians 13:3-4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 44
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 43
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 45
+ }
+}

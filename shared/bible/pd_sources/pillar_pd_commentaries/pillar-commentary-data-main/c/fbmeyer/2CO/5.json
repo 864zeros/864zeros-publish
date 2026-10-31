@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Longing to Be “at Home with the Lord” -- 2 Corinthians 5:1-10\n\nThis mortal life is a pilgrimage, and our body is a tent, so slight, so transitory, so easily taken down; but what does it matter, since there is awaiting us a mansion prepared by God? Often in this veil of flesh we groan. It cages us, anchors us down to earth, hampers us with its needs, obstructs our vision, and becomes the medium of temptation. How good it would be if our physical body could be suddenly transmuted into the glorified ethereal body which should be like the resurrection body of our Lord! It would be sweet to escape the wrench of death. But if not, then through death we shall carry with us the germ of the glorified body. That which shall be quickened will first die, but God will give it a body as it shall please Him.\n\nThe gate of death may look gloomy on this side, but on the other it is of burnished gold, and opens directly into the presence-chamber of Jesus. We long to see Him and to be with Him; and such desires are the work of the Holy Spirit and the first fruits of heaven. But remember that just inside the door there is Christ’s judgment seat, where He will adjudge our life and apportion our reward. Prepare, my soul, to give an account of thy talents!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Constrained by the Love of Christ -- 2 Corinthians 5:11-19\n\nIt was of small importance in Paul’s eyes what his critics thought of him. He desired only to please his supreme Lord, whether he lived or died, was considered cold and staid or hot and impassioned. He was overmastered by his love of Christ. This may have been the sense of Christ’s love to his unworthy self, or the emotion that burned in his soul toward Christ, or the very love of Christ received into his heart, as a tiny creek on the shore receives the pulse of the ocean tide.\n\nThe Apostle had arrived at the deliberate conclusion and judgment that the “all” who realized what Christ had done for them (and he among them) must live with as much devotion toward Him as others toward themselves. A new world had been opened by Christ’s resurrection. All things had become new. Let us live in daily touch with that world of faith and glory, refusing to be judged by the old standards. It is clear that the reconciliation of the world is as complete as God can make it, but it is for us to urge men to fall in with and accept God’s proposals."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Ambassadors for Christ -- 2 Corinthians 5:20-21; 2 Corinthians 6:1-10\n\nOn God’s side the work of reconciliation is complete. Everything has been done and is in readiness to make forgiveness and justifying righteousness possible as soon as a penitent soul asks for them. He only waits for us to make application for our share in the atonement of Calvary. Many as our trespasses have been, they are not reckoned to us, because they were reckoned to Christ. God wants this known, and so from age to age sends out ambassadors to announce these terms and urge men to accept them.\n\nGod sends none forth to entreat men without cooperating with them. When rain falls on a slab of rock, it falls in vain. Be not rock, but loam to the gentle fall of God’s grace. Let none of us be stumbling-blocks by the inconsistencies of our character, but all of us stepping-stones and ascending stairways for other souls.\n\nThe three marvelous series of paradoxes in 2 Corinthians 6:4-10 deserve careful pondering. The first series enumerates Paul’s sufferings on behalf of the Gospel; the second, his behavior under them; the third, the contrast between appearance and reality, as judged respectively by time and eternity. The stoic bears life’s sorrows with compressed lips; the Christian, with a smile. Let us be always rejoicing, many enriching, and all things possessing."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 6
+ }
+}

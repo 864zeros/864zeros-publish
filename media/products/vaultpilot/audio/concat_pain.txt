@@ -1,0 +1,4 @@
+file 'pain_scene1_hook.wav'
+file 'pain_scene2_payoff.wav'
+file 'pain_scene3_walkthrough.wav'
+file 'pain_scene4_cta.wav'

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Leave Judgment unto God -- Romans 2:1-11\n\nIn this chapter the Apostle turns to address the Jews. His purpose is to prove that though they may deem themselves superior to the Gentiles and capable of judging them, they may be therefore liable to more severe judgment; because, notwithstanding their superior knowledge, they commit the same sins. God will judge men, not by their professions but by their works. Those who are harshest in condemning others are often guilty of the same sins, though in their own ease they manage to find some excuse which extenuates their shortcomings. Rid yourself of the beam in your own eye, that you may see clearly how to rid your brother of his mote, Matthew 7:5.\n\nGod’s silence does not mean indifference, but the desire to give opportunity to repent. The Lamb is in the midst of the throne, Revelation 5:6. Our redemption is by His precious blood, and that alone; but the rewards of the future, and the enjoyment of what God means by life, are conditioned upon our obedience. Glory, honor, and peace are within your reach, if you will accept the reconciliation offered you in Christ, which will bring you into at-one-ment with God; and if you will live to do your Heavenly Father’s will."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Searcher of All Hearts -- Romans 2:12-20\n\nThe Apostle goes on to show that all men, whether Jews or Gentiles, will be judged by the same standard. For the Jew that law was written upon the pages of the Old Testament; but for the Gentiles, who possessed neither Moses nor Sinai, it was written on the tablets of the heart and known as “conscience.” The difference between the two is comparable to that between the time of day indicated by the sun and by the watch which each man carries in his pocket. It is a blessed and profound truth, which makes all men amenable to God’s judgment, that deep down in every man’s soul He has engraven His holy law.\n\nHow clearly Scripture bears witness to the eternal judgment! Acts 17:31. The secrets of men are to be judged, Romans 2:16. How thankful we should be that those who stand in Christ shall not come under condemnation! He has borne the curse of a broken law for us, and is not ashamed to call us brethren, Hebrews 2:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "He Requires Heart-Obedience -- Romans 2:21-29\n\nThe Jew relied upon the position given him by the privileges and rites of Judaism, although his religious life, as such, had shrunk within these outward things, as a seed rattles in its pod. The Apostle’s argument is meant to show that personal irreligion and unbelief will neutralize all the benefit that outward rites might promise; while humble faith will compensate for any disadvantage which might result from heathen origin and environment.\n\nThe Jew will become as a Gentile, unless he have the spiritual counterpart to outward rites, while Gentiles will become as the Chosen People of God, if they have that separation of soul and life which was set forth in the initial rite of the Jew. See Colossians 2:11. The mere outward rite does not constitute sonship to Abraham; and he who has never undergone it, but by faith has put away all filthiness of flesh and spirit, is entitled to all the promises made to Abraham and his seed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 3
+ }
+}

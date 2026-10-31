@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joshua Appointed Moses’ Successor -- Numbers 27:1-23\n\nUp to the last Moses was faithful as a servant to Him that had appointed him in all his house, Hebrews 3:2. Notice that he did not attempt to legislate for these young girls, who pleaded for a possession in their father’s right; but he brought their case before God. It was ever “as the Lord commanded Moses,” Numbers 27:11; Numbers 22:1-41. And when he was bidden to ascend the mountain and die his main anxiety was to secure a successor to shepherd the people. Notice that expressive phrase, “the God of the spirits of all flesh!” See Hebrews 12:9.\n\nThe great Lawgiver may bring the people to the borders of the land of rest, but there he must resign his charge. The law, with its demands for an obedience which we cannot give, cannot bring the soul to rest. That is the prerogative of Joshua-Jesus, Hebrews 4:8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 31
+ }
+}

@@ -13,8 +13,35 @@
     "count": 3
   },
   "verses": [
-    { "book": "Lamentations", "chapter": 3, "citation": "Lamentations 3:22", "text": "It is of the Lord's mercies that we are not consumed, because his compassions fail not.", "plain": "Because of the Lord's great love we are not consumed, for his compassions never fail." },
-    { "book": "Lamentations", "chapter": 3, "citation": "Lamentations 3:23", "text": "They are new every morning: great is thy faithfulness.", "plain": "They are new every morning; great is your faithfulness." },
-    { "book": "Lamentations", "chapter": 3, "citation": "Lamentations 3:25", "text": "The Lord is good unto them that wait for him, to the soul that seeketh him.", "plain": "The Lord is good to those whose hope is in him, to the one who seeks him." }
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "citation": "Lamentations 3:22",
+      "text": "It is of the Lord's mercies that we are not consumed, because his compassions fail not.",
+      "plain": "Because of the Lord's great love we are not consumed, for his compassions never fail.",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in a solitary oil lamp glowing in a ruined stone archway",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "citation": "Lamentations 3:23",
+      "text": "They are new every morning: great is thy faithfulness.",
+      "plain": "They are new every morning; great is your faithfulness.",
+      "visual_prompt": "the first clear rays of dawn cresting over a quiet limestone ridge in a solitary oil lamp glowing in a ruined stone archway",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Lamentations",
+      "chapter": 3,
+      "citation": "Lamentations 3:25",
+      "text": "The Lord is good unto them that wait for him, to the soul that seeketh him.",
+      "plain": "The Lord is good to those whose hope is in him, to the one who seeks him.",
+      "visual_prompt": "a solitary robed watchman seen from the back standing on a stone rampart overlooking morning dew glistening on rough fallen masonry at dawn",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    }
   ]
 }

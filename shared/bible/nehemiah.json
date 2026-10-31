@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "Nehemiah", "chapter": 8, "citation": "Nehemiah 8:10", "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the Lord is your strength.", "plain": "Then he said to them, 'Go, enjoy good food and sweet drinks, and send some to those who have nothing prepared. This day is holy to our Lord. Do not grieve, for the joy of the Lord is your strength.'" },
-    { "book": "Nehemiah", "chapter": 9, "citation": "Nehemiah 9:17", "text": "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.", "plain": "But you are a forgiving God, gracious and compassionate, slow to anger and abounding in love. Therefore you did not desert them." }
+    {
+      "book": "Nehemiah",
+      "chapter": 8,
+      "citation": "Nehemiah 8:10",
+      "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the Lord is your strength.",
+      "plain": "Then he said to them, 'Go, enjoy good food and sweet drinks, and send some to those who have nothing prepared. This day is holy to our Lord. Do not grieve, for the joy of the Lord is your strength.'",
+      "visual_prompt": "a solitary pilgrim seen strictly from the back ascending worn stone steps toward a mason's plumb line and trowel resting on a rebuilt wall",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Nehemiah",
+      "chapter": 9,
+      "citation": "Nehemiah 9:17",
+      "text": "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.",
+      "plain": "But you are a forgiving God, gracious and compassionate, slow to anger and abounding in love. Therefore you did not desert them.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a heavy wooden gate hung between stone bastions",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

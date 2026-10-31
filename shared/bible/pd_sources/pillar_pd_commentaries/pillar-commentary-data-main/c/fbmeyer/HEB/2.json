@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Author of Our Salvation -- Hebrews 2:1-9\n\nDrifting away, Hebrews 2:1-4. The r.v. gives this solemn rendering. Unless we watch, the strong currents of the world will drift us away from God’s great harbor of Salvation; and sins against His offered love are even more to be dreaded than those under the ancient Law. To neglect is the equivalent of to reject. Notice in Hebrews 2:4 how God co-operates with His messengers. See John 15:27; Acts 5:32.\n\nJesus crowned, Hebrews 2:5-9. How can Jesus be greater than angels? He did for man what they could not do. It is through His death that humanity may be lifted to a supreme position in the universe of being. Man failed to realize his original Magna Charta in Genesis 1:26; but the divine purpose could not be frustrated, and there was a needs-be for the manger, the Cross and the Ascension mount. As we look around, Psalms 8:1-9 seems a mockery; as we look up, we discover in Jesus the psalmist’s dream more than realized. They who are one with Him will share His glory and honor."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“Made Like unto His Brethren” -- Hebrews 2:10-18\n\nCaptain reminds us of Act 3:15. It means file-leader. The Church follows its Leader, Jesus Christ, in single file through this world, the cross and the grave, to the glory. But notice that God Himself is engaged in bringing us through; and He cannot lose one. See John 10:29. But He is not only our Captain, He is our Brother. We also are born of God. He is sanctifying us and we are being sanctified for a marvelous future, John 17:19. How great is His love, that He is not ashamed of us!\n\nOur Elder Brother has encountered our foes, and won deliverance for all who believe. Death remains, but its teeth are drawn and its power is annulled. We need not fear what men call death; to us it is only as falling asleep. He has taken hold of us with a grasp that will never let us go again, Hebrews 2:16. He has been tempted that He might be able to succor us in our temptations. He has suffered that He might tread our darkened paths at our side. He has made reconciliation for our sins, and as our merciful and faithful High Priest, pleads the cause of our souls."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 3
+ }
+}

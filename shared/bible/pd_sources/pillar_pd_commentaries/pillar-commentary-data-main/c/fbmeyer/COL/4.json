@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "COL",
+  "commentaryId": "fbmeyer",
+  "name": "Colossians",
+  "commonName": "Colossians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Home and Business Relations -- Colossians 3:18-25; Colossians 4:1\n\nFrom these high flights into the eternal and divine, Paul turns to the daily duties of the home, and demands that in the simplest domestic concerns the disciple should ever keep in mind the high claims of Christ. No act of life can be left outside the sacred enclosure of His everlasting love. As the moon affects the tides around the world, even in the smallest indentations of the coast, so must the power of Christ’s resurrection make itself felt in the behavior of the servant and the child.\n\nIt is especially beautiful to notice the Apostle’s constant reference to the bond-slaves who formed so important an element in the early Church. There they learned that in Christ all souls were free, and that in Him also master and slave were brethren. Stealing out at night from the arduous labors of his lot, many a poor slave would return with new conceptions of his daily tasks, to be applied to the service rendered to his Lord. No angel in heaven’s high temple has more definite service to the King than any honest and industrious servant may daily render to Jesus. Here is the dignity of labor indeed! And, masters, remember your Master."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Prayer and Daily Living -- Colossians 4:2-9\n\nWe must pray more. Our lives cannot maintain the Godward attitude without prolonged seasons of communication with Him through the Word. This is so important that we must be ever on the watch against whatever might mar the life of devotion. Intercession will often unlock frost-bitten lips and make our souls glow. Withal praying also for us. If we are shut in and cannot perform active service, we can surely pray for those who are entrusted with the mystery of Christ; and let those who are called to active service be ready to step in when God opens the door, Colossians 4:3. The limitations of life are no excuse for idleness, Colossians 4:4.\n\nIt is not easy to walk in wisdom towards those that are without. But God will teach us how to buy up opportunities and crowd each of them with good service. Our talk may sparkle like salt and purify as it does. Paul bound his fellow-workers to himself by the high estimate he placed on them. Love idealizes. Probably we should have thought some of these men to be very ordinary, but the Apostle saw them in hues borrowed from his own heart. Onesimus, a runaway slave, recently converted, is described as a faithful and beloved brother!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Christian Greetings -- Colossians 4:10-18\n\nWhat a noble group had gathered round the Apostle in his enforced residence in Rome! That hired room of his must have been filled time after time with most interesting groups; and each friend was dear to the lion-heart, and intent on some act of loving devotion. Aristarchus had been with him in the Ephesian riot; Mark was endeavoring to make good his former lapse of courage; Epaphras, who had come from Colosse, was remarkable for his soul-agony and prayer-labor on his friends’ behalf; Luke, the beloved physician, always on the alert to minister to the malaria or other malady that afflicted him; and Demas, of whom perhaps he had begun to have suspicions, 2 Timothy 4:10. Archippus is believed to have been a son of Philemon, and chief presbyter of Laodicea. Does the injunction, Colossians 4:16, imply that already the church there had begun to grow cold, Revelation 3:15? The closing words were probably written in autograph. The clumsy handwriting was accounted for by the weight of the fetters on the poor wrists, yet his heart was full of love and joy."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 1
+ }
+}

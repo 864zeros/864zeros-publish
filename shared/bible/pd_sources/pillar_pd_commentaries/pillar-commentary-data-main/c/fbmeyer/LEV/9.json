@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Aaron’s Offerings for Himself and the People -- Leviticus 9:1-21\n\nIn the concluding verses of Lev 8:1-36 we read of Aaron and his sons feeding together on the flesh of the consecration-offering; and that for seven days, during which time they were not permitted to leave the Tabernacle-a striking figure of the present position of our Lord and His own, during this dispensation, shut in with God, and awaiting the manifestation of His glory.\n\nMay not this eighth day, on which the glory of the Lord appeared, be an emblem of that bright millennial morning when the congregation of Israel shall behold the true Priest issuing from the sanctuary, where He is now hidden from the eyes of men; and with Him, when He is manifested, we shall be manifested also, “the companions of His retirement, and the happy participators of His glory?” Oh, that none of us may miss that share in His epiphany, and that now our life may be hidden with Christ in glory! See Colossians 3:1-4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "A Deed that Turned Joy into Grief -- Leviticus 9:22-24; Leviticus 10:1-11\n\nThere was a double blessing. First, Aaron blessed the people when he stood against the altar, Leviticus 9:22, and afterward, when he came out of the Tabernacle, Leviticus 9:23. We find here the analogue of the double blessing which our Lord gives His own. When He came from offering His supreme sacrifice on Calvary, which was burned-offering, peace-offering, sin- and trespass-offerings combined, He blessed His own. We are told that as He blessed them He was borne upward to heaven, Luke 24:51; but we expect another blessing from Him, when He shall come forth out of the heavenly Temple and extend His hands in benediction, using perhaps the very words of the ancient benediction. But take care lest you ever introduce strange fire into your worship-i.e., the fire of your own emotions, enthusiasm and excitement.\n\nPonder those mighty words in Leviticus 10:3. We must not rush carelessly into the divine presence, though by the blood of Jesus we have been made nigh, Ephesians 2:13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 10
+ }
+}

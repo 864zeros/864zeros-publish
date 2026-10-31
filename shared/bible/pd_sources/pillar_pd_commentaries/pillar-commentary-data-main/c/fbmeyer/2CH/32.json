@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Prepared to Meet the Foe -- 2 Chronicles 32:1-15\n\nWe might have supposed that Hezekiah’s faithfulness in cleansing the Temple and restoring the worship of Jehovah would have secured for him and his people complete immunity from invasion. Surely for such a loyal servant, God would graciously interpose and defend from Sennacherib’s encampment on the sacred soil of the south country. We are taught the lesson that faith is not rewarded by the unbroken summer of prosperity, but tried, tested, and matured by the stormy blasts of attack and peril. The great Husbandman mined Hezekiah that he might bring forth more fruit.\n\nThese careful preparations made by the king and his people for cutting off the water-supply and equipping the soldiers and fortifications against attack, were perfectly consistent with a true faith. Hezekiah’s ultimate confidence was not in these things, but in that Greater One who was undoubtedly with them, 2 Chronicles 32:7. There was considerable subtlety in Sennacherib’s messages, but he did not understand how much that one altar meant, and how different Jehovah was from the idols of the nations, 2 Chronicles 32:12; 2 Chronicles 15:1-19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The Cry to Heaven Answered -- 2 Chronicles 32:16-23\n\nSennacherib’s generals were even more insolent than himself. Their aim was to discourage the people and undermine their faith. To destroy confidence in God is the surest method of attack and victory. A significant description of their braggart boastfulness is given in 2 Chronicles 32:19. The only effect, however, was to drive the king and the prophet to prayer, 2 Chronicles 32:20. This is the talisman of victory. Isaiah tells how Hezekiah spread out the blasphemous letter of the invader before God, and challenged His help, that the kingdoms of the earth might know His power, inasmuch as His character was at stake before the heathen.\n\nOne angel sufficed for the work of deliverance and Sennacherib returned home a discredited man, to be murdered by his own children. The Lord not only saved Israel, but “guided them” on every side. Shall we not claim similar treatment? And when we are true to God, we may rely on Him to give us favor with men, and enrich our lives with His hid treasures. “Them that honor me, I will honor.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "One Flaw in a Good Life -- 2 Chronicles 32:24-33\n\nWhat this sign was is more clearly told in Isaiah 38:1-8. Great interpositions on the part of God impose corresponding responsibilities. If you have received special benefits, be sure to render again according to the benefit done. When visited by the Babylonian ambassadors, as in 2 Kings 20:13, Hezekiah received them in a Spirit of vanity-all too natural to most of us-and displayed a conceit in his acquisitions which shut out such acknowledgment of the divine love and care as was due. In man’s view, that was merely a little weakness, something to be smiled at and excused, but it was inconsistent with the intimacy into which Hezekiah had been introduced by his heavenly Friend.\n\nHowever pious and devoted a man may be, if he does not walk carefully, he will break down in some crucial test. It is easier to withstand the invasion of Sennacherib than the flattery of Babylon. We need to guard against pride of heart. Compare 2 Chronicles 32:25; 2 Chronicles 31:1-21. Hezekiah’s ostentatious display of his wealth and treasure excited the cupidity of the Babylonian envoys, and sowed the seed of Nebuchadnezzar’s invasion, though the blow was temporarily averted by the repentance of the king and nation, 2 Chronicles 32:26."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 33
+ }
+}

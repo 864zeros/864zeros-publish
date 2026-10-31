@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Death of the First-born Threatened -- Exodus 11:1-10\n\n“One plague more.” These are ominous words! This final act of judgment would smite the fetters from Israel’s neck forever. It is vain for man to enter into conflict with God. God does not crush him at once, because He is long-suffering and forgiving. See 2 Peter 3:9. But if man persists, the inevitable blow falls. See Psalms 7:12. The word borrow is better rendered ask, Exodus 11:2, r.v. The Hebrew phrase has no suggestion of a return being expected. This was befitting payment for their long and unrewarded labor.\n\nThe great cry, Exodus 11:6, recalls the piercing wail that rings through an eastern home when death takes place. The world shall hear one other such cry, as we learn from Revelation 1:7. There is no difference between God’s people and others when sin is concerned. All have come short of God’s glory. Nor is there difference in His redeeming grace. But there is all the difference between those who shelter under the blood of the Lamb and those who refuse."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 12
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "New Life in the Spirit -- Romans 8:1-9\n\nThis may fitly be called the “chapter of the Holy Spirit.” The Apostle has carefully kept this great theme in the background till he has well prepared the ground, by showing us our inability to attain our ideals apart from reinforcements of divine energy. Here is the motive power to drive our machinery! Here is the life-giving power of spring, which shall cause the seeds buried within us to burst forth in the garden of the Lord! See Isaiah 61:10-11.\n\nThere is no need to live in perpetual self-condemnation. As the living bird, obeying the laws of flight, is superior to the down-pull of gravitation, so where the life of Jesus is wrought and sustained in the heart by the incessant communications of the Holy Spirit, victory is given us over the perpetual down-pull of sin. We can only hate the spirit that crucified our Lord. The believer reckons himself dead to it, but alive to each prompting of God’s Holy Spirit. Life, and peace, and righteousness dwell in the temple within. A more perfect goodness is thus produced in us than any external obedience to Sinai’s code could ever have achieved."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Children and Heirs of God -- Romans 8:10-17\n\nThe Spirit here is of course the Holy Spirit, by whom Christ our Lord lives within us. It is passing wonderful that as the life which throbs in the heart beats also in the pulse, so the very life which is in Christ in glory is also in our hearts. Our main task is to put aside every barrier to its full expression. This is what the Apostle means by doing to death the practices, stratagems, and lawless promptings of the body, which are ever calling for ease and self-indulgence. There is no stage of our earthly pilgrimage at which we can dispense with the power of the Spirit of God for deliverance from the deeds of the body.\n\nBut there is another most blessed function of the divine Spirit, Romans 8:14. He is willing to lead us, to prompt our actions, to inspire our purposes, and to mold our characters. The more we yield to Him, the deeper becomes our awareness of that filial relationship with God which breathes in the cry, Abba, Father. But note the wonderful climax, Romans 8:17. If we yield to the Holy Spirit, He will conduct us into the divine treasure-house and bid us avail ourselves of the infinite resources which are there stored for our use, not in the next life, but in this."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Hoping for the Completed Redemption -- Romans 8:18-30\n\nCreation groans for freedom from the serpent’s trail. Like a captive maiden she sighs to be delivered from the curse which sin has brought upon her. The saints groan for the resurrection of the body and their full admission into the complete enjoyment of redemption. The Spirit also groans for the speedy accomplishment of God’s purposes-the salvation of the lost, the unity of the Church, and the advent of the Father’s kingdom. His yearnings express themselves through the prayers of the saints.\n\nSorrowful soul, take comfort from Romans 8:28! All things are working; there is no stagnation. They are working together, like the cogs of two wheels revolving in different directions. They are all working for good. The only condition is love on our part. Those who love God are loved by God, and all winds blow from the quarter of God’s love. And that love is a sure sign and token that they have been called; and if called, they may be sure that they are on the moving stairway which is bearing them up and on through successive stages to glory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "No Separation from Christ’s Love -- Romans 8:31-39\n\nThis is the close of the Apostle’s argument. He has shown that believers are dear to God because they are in Christ; that their every need has been anticipated and provided for; that their guilt has been canceled and provision made for their holy and victorious character; that the Holy Spirit is in them and with them forever; that sin is under their feet and heaven over their heads-what, then, have they to fear?\n\nPaul then goes on to show that the love of God is unaffected by even the most extreme changes of our condition-neither death, nor life, Romans 8:38. That it is undiverted from us by any other order of beings, whether angels, principalities, or powers. That it is universally present throughout creation. And finally, that this love is in Christ Jesus our Lord. But in order to know and experience this love, we must be united to the Lord Jesus by a living faith. Then we shall be more than conquerors, that is, we shall not only be victorious, but shall get spoil out of the very things that have hurt us."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 9
+ }
+}

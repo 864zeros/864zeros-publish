@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "fbmeyer",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Keeping the “Unity of the Spirit” -- Ephesians 4:1-10\n\nPaul here admonishes lowliness in the presence of another’s excellence; meekness in suffering injury; long-suffering under provocation; forbearance toward the trying mistakes and failures of others. Remember that the unity of the Church, as the body of Christ, is already made; but it is for us to maintain it. We must avoid whatever in word or deed would break it. There are seven different bonds of unity, but of these the greatest is the nature of God, which is transcendent, who is above all; penetrant, through all; and immanent, in all. Each saint has some grace or gift; use it. On the whole, after we reach maturity, we had better center on what we can do best.\n\nWhat a magnificent conception is given in Ephesians 4:8-9 of the ascended Christ! The original conception was supplied by Deborah in her noble song. Descending from her morning vigil on Tabor, she summoned Barak to lead captive the foe who for so long had held the land in captivity. But in Jesus’ ascension, a long procession of yet mightier foes was led captive by Him. Among them were Death, the Grave, and Hades, the underworld. It is from the hands of Jesus that even the rebellious may obtain their gifts. There is no depth to which Jesus will not go to save; no height to which He will not lift us"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Building up the “Body of Christ” -- Ephesians 4:11-19\n\nApostles, prophets, pastors, teachers, evangelists, are the gifts of the risen Christ to His Church. There should be no rivalry among them. Each has his own work to do, as each wheel in a watch has its special function. None can do the work of another, and none should try to do it. The Apostles laid the foundations of the City of God, and the work of each is represented by a different stone. The pastor prepares the ground and sows the seed for the harvest which the evangelist reaps; but God will proportion the reward between them. The teacher is as much needed as the evangelist, but neither is so essential as God, who giveth the increase. Without that all labor would be in vain.\n\nWe learn from Ephesians 4:12 that the prime duty of all these agents is not to baptize, marry, and bury the saints, to comfort and console them, and to get them somehow into heaven, as the Arab guides get travelers to the top of the Pyramids. Their duty is to perfect, that is, to adjust the saints for the work of ministry, that they may contribute to the building up of the Church. A minister is a failure if he does all the work himself. The people must all be at work-in the quarries, or shaping the stones, or fitting them into their places."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Putting on the “New Man” -- Ephesians 4:20-32\n\nThe Lord Jesus is our text-book and our teacher, the schoolhouse in which we are taught, and the object lesson in which all truth is enshrined. But all is in vain unless we definitely and forever put away the old man; that is, our old manners and customs in so far as they are contrary to the Spirit of Christ. With equal decision we are called upon to seek the daily renewal of our spirit and the outward conformity of our mode of life to the example of Jesus. But it should never be forgotten that the latter will be a dry husk unless it is energized from the true vine. There can be little of Christ without unless He dwells without a rival within. But the Holy Spirit will see to this, if only we grieve Him not.\n\nWhat a transformation immediately ensues! Truth instead of falsehood, gentleness for anger, earnest toil for dishonesty, cleansed instead of filthy speech. If all believers were to live like this, the world would know that the Son of God has come. It is not enough that a man should believe to secure deliverance from the wrath of God; he must daily seek to attain to such resemblance of Jesus as shall make men recall Him to mind."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 5
+ }
+}

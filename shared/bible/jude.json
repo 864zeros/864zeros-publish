@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "Jude", "chapter": 1, "citation": "Jude 1:24", "text": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,", "plain": "Now to him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy," },
-    { "book": "Jude", "chapter": 1, "citation": "Jude 1:25", "text": "To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.", "plain": "to the only wise God our Savior be glory, majesty, power, and authority, now and forevermore. Amen." }
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "citation": "Jude 1:24",
+      "text": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,",
+      "plain": "Now to him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy,",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in an ancient stone boundary wall guarding a hilltop vineyard",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Jude",
+      "chapter": 1,
+      "citation": "Jude 1:25",
+      "text": "To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.",
+      "plain": "to the only wise God our Savior be glory, majesty, power, and authority, now and forevermore. Amen.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in an ancient stone boundary wall guarding a hilltop vineyard",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

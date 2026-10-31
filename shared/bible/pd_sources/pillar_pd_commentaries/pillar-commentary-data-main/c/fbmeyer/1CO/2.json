@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Glory in Men’s Weakness -- 1 Corinthians 1:26-31; 1 Corinthians 2:1-5\n\nLike the sons of Jesse before Samuel, so do the successive regiments on which the world relies pass before Christ. The wise, the mighty, the noble, the great, the things that are! And the King says, I have not chosen these. The warriors with whom He will win the world to Himself are the nobodies, the ciphers, the people who in the world’s estimate do not count. Do not depreciate yourself, but give yourself to Him; He will find a niche for you and make your life worth living. Notice that God has put you into union with Christ Jesus. Everything we need for life and godliness is in Him; only let us make all that we can of our wonderful position and possessions.\n\nPaul came to Corinth from Athens, where he had sought to win his hearers by a studied and philosophical discourse as best adapted to their needs. But as he entered Corinth, he appears to have deliberately determined that his theme would be the crucified Lord, and expressed in the simplest phrases. When we speak the truth as it is in Jesus, the Spirit is ever at hand to enforce our testimony by His demonstration and power."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "God’s Wisdom Spiritually Revealed -- 1 Corinthians 2:6-16\n\nThe perfect are those who are full grown and matured in Christian experience. They need strong meat. For them there are blessed unveilings of the secret things of God, such as the profoundest thinkers of this world have never reached. The words in 1 Corinthians 2:9 must not be applied to heaven alone; in their first intention they belong to us in this mortal life. The human eye that has seen the fairest of earth’s things, and the ear that has heard the sweetest strains of human melody, have never experienced the depths of enjoyment of those who have found the love of God in Christ. They who know Christ should not be content with the mere rudiments of the gospel, but should follow on to know those deeper things which evade men who are merely clever, but are revealed to those who are really good.\n\nThere are two types of men. There is the spiritual man, whose spirit is the temple and dwelling-place of the Spirit of God. He knows the thoughts of God, because he has a living union with the eternal Mind. And there is the natural man, possessing merely the intellect and conscience of ordinary humanity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 3
+ }
+}

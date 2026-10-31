@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 73,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Deceptive Prosperity -- Psalms 73:1-15\n\nThe opening psalms of this third Book of Psalms are by Asaph; see 2 Chronicles 29:30. The r.v. margin substitutes only for surely in Psalms 73:1. There is none good but God and God is only good. “His every act pure goodness is; His path unsullied light.” Israel, as here intended, is not after the flesh, but after the Spirit. See John 1:47 and Romans 2:28-29.\n\nWe have in these verses a good man’s temptation. In every age God’s people have asked whether God can possibly know all that is taking place on the earth, and if He does know, why He allows evil to prosper. The dark spirit who is ever at our elbow whispers that we should have done as well, and better, if we had not been quite so scrupulous in our business dealings; and we are held back from giving expression to our thoughts only by the fear that we might cause God’s weaker children to stumble. This reticence is, of course, wholly commendable. A Christian man confessed the other day that the irreligion of his children was due to his critical and captious speech. By all means keep these dark and faithless thoughts locked in your own breast; you have no right to scatter thistle-down."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The true place in which to form a right estimate of life is where Asaph found it-in the sanctuary of God; because from its elevation and the purity of its atmosphere, one can take into view the unseen as well as the seen, the eternal as well as the transient. If in this life only we have hope in Christ, we may dwell upon our losses with disappointment and regret, 1 Corinthians 15:19. But if the future is taken into consideration, what Lazarus would exchange his lot with Dives? Luke 16:19-31. When once the soul crosses the frontier between this life and the next, it finds that the current-coin on this side is valueless on that.\n\nOne day as Asaph, more bowed down than usual, entered the sanctuary, deliverance came. Whether it was when the sacrifice was being offered, or when the holy psalm was being sung, the clouds suddenly broke and the burden rolled away. He saw that God did not reward goodness with things, but with Himself, and he turned to Him with adoring love. Even in the present life the righteous may count on the constant presence of God. His hand holds them; His counsel guides. He is our strength and our portion; and when we change worlds, we shall only enter more fully and absolutely on our inheritance.\n\nWhy should the soul a drop bemoan.\n\nThat has an ocean near?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 73
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 72
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 74
+ }
+}

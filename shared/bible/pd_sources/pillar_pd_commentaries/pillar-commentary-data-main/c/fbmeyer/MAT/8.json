@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rewards of Faith -- Matthew 8:1-10\n\nThe Lord can touch thy heart, leprous with impurity, and make its stain depart, so that, as in the case of Naaman, its foulness shall become like “unto the flesh of a little child.” See 2 Kings 5:14. The psalmist cried, “Purge me with hyssop, and I shall be clean,” alluding to the rite for the cleansing of the leper. Compare Psalms 51:7; Leviticus 14:4, etc. But one touch of Christ’s hand is enough, for He is the great High Priest.\n\nHe also can heal the paralysis which has limited thy service and pinned thee down in helplessness. As the centurion recognized, because Christ was obedient to the Father’s law He was able to wield the Father’s power. He humbled Himself and became obedient to the death of the Cross; therefore God hath highly exalted Him, that He might send tides of living energy into the paralyzed will. The Apostle Paul testified, “I can do all things through Christ which strengtheneth me.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Great Physician -- Matthew 8:11-17\n\nA feast was the Hebrew conception of heaven. The Jews thought they were secure of it, because of their descent from Abraham. Grace is not hereditary; to receive it, every man has to exercise a personal faith in Christ. Let us see to it that our religion is absolutely true, lest it land us in hopeless disappointment.\n\nNotice that faith is the measure of divine performance-as… so…. Our Lord can deliver from the fever-heat of passion and make the soul calm, quiet and pure. It was a wonderful thing that the patient could at once arise and minister in Peter’s humble home to their great Guest, but it is even more wonderful when a helpless spirit suddenly emerges from the dominion of passion into strength and beauty.\n\nThe key to all true service is furnished in Matthew 8:17. We must take to ourselves the infirmities, sorrows and sins of those whom we would really help. This is the law of Christ, Galatians 6:1-4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Leader of Men and Ruler of Nature -- Matthew 8:18-27\n\nChrist winnows men. Before any enter upon His service, He places before them the inevitable trials which they must meet, among which loneliness and homelessness bulk large. See that in your heart Christ has a home. Where, however, there is lethargy, the Savior stirs the soul to follow Him. Do not mourn about the grave of the past; leave it and enter the life of resurrection and ascension.\n\nStorms must sweep over all our lives. The Master’s sleep indicates the peace and security of His nature. What a contrast between our impatience and His infinite serenity! Our Lord was sure that the Father was with Him, John 8:29. Near though the enemy may be, the Father is nearer. The everlasting arms are beneath you. You are beset behind and before, but no boat can sink when Christ is on board."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "An Unwelcome Visitor -- Matthew 8:28-34\n\nThe demon spirit seems still to tenant the lives of human beings. To what else can we attribute the paroxysms of passion, the awful cruelties and inhumanities of men? There is only one devil, but many demons; only one prince of the power of darkness, but many emissaries. Take heed, lest you open the door of your nature to the spirit of evil and he possess you. Watch and pray, and trust the keeping of your soul to the hands of Christ. He is stronger than the strong man.\n\nNotice that the demon is set upon destruction. If he may not destroy the souls of men, he will destroy swine. This is the mark of evil. It is always destructive; whereas the Spirit of God is constructive and builds up from the ruins of Satan’s work a new heaven and a new earth, both in the soul and in the universe.\n\nAll the city besought Jesus to depart, because men count their gains more valuable than His presence. The same spirit rules in the commercial world of today. Let us beware. What shall it profit to gain the world, if we lose our souls?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 9
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sparing His Enemy’s Life -- 1 Samuel 26:1-12\n\nThe Ziphites’ treachery served as a foil to the intrinsic nobility of David’s character. God made the wrath of man to praise Him, and restrained the remainder, Psalms 76:10, so that His servant escaped as a bird out of the fowler’s snare. Read here, Psalms 54:1-7.\n\nIt was a bold act for David and Abishai to thread their way between watch-fires and sentries, and talk in whispers over the prostrate body of the sleeping monarch. As David says in one of the Psalms, “By thee I have run through a troop; and by my God have I leaped over a wall.” The special share attributed here to God is the deep sleep which had fallen on the camp, 1 Samuel 26:12. The Lord who put the resolve into David’s mind, cooperated in its execution. We are sometimes led by a divine impulse, and God will set His seal on our act; but we should not throw ourselves into peril unless the occasion plainly requires it. We are not at liberty to cast ourselves down from the mountain, unless it is clearly God’s will. In David’s case, there was sufficient reason for this adventure; first, that Saul might be warned once more; and second, that the integrity of the young outlaw might be established."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Facing the Truth at Last -- 1 Samuel 26:13-25\n\nIt is good to notice David’s frequent references to the living Lord. See 1 Samuel 26:10; 1 Samuel 26:16; 1 Samuel 26:23. The fact is that he was always waiting on God. See Psalms 40:1-17, which may have emanated from this period in his life. David would take no mean advantage of his adversary. He would not retaliate nor avenge his wrongs. He refused to admit the specious argument that opportunity means permission, and license, liberty. He quieted the fever of his soul, resisted the subtle temptation of the adversary, and elected to wait for the slow unfolding of the divine purpose. Calm thyself; God is working out the plan of thy life! In His own time-the best time-he will give thee thy heart’s desire!\n\nWhen David gave such unmistakable evidences of his loyalty, innocence and affection, Saul was overcome with emotion, and confessed that he had played the fool. It is thus that we may win men still. The man who can watch with God shows that he is possessed of spiritual strength which others must acknowledge. Fret not thyself because of evil-doers; trust in the Lord; delight in the Lord; roll the way of thy life on the Lord, and wait patiently for Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 27
+ }
+}

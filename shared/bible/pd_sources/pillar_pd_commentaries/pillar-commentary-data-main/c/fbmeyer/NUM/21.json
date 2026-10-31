@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Brazen Serpent; Journeying to Pisgah -- Numbers 21:1-20\n\nIt often falls to our lot to compass the land of Edom! It is bad enough to have to fight the desert tribes, but it is harder to traverse the long circuitous route, which a little kindness on our brother’s part might have rendered needless. What discouragement, heart-break and fainting we cause one another!\n\nThe story of the brazen serpent was quoted by our Lord to Nicodemus, John 3:14. It exemplifies the law that like cures like. Our Lord came in the likeness of sinful flesh and for sin, and as such was nailed to the tree, that the progress of sin and death might be arrested. Whosoever directs to Him the look of faith shall have everlasting life.\n\nNear the pole-foot sprang up the brook, Numbers 21:17-18. We are reminded of the connection between the Cross and Pentecost. Spring up, O well of the Holy Spirit, in our hearts, and churches, and schools! The living water is within; summon it!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Victory over the Amorites -- Numbers 21:21-35\n\nTwo great victories opened the eastern lands to the possession and settlement of two tribes and a half. It is not enough to know our heritage in Christ; we must possess our possessions.\n\nSihon, the king of the Amorites, made an unprovoked attack on Israel; and his action was the less excusable, because he had himself been an invader. As a proof of this, a passage is quoted from one of their national songs, in which the poet describes his invasion of the land, the burning of Heshbon and Ar, and the erection of new cities in their stead, Numbers 21:27-30. See also Judges 11:13-27. Sihon and Og suffered the same fate at the hands of Israel. General Gordon, when crossing the Sudan to attack the slave-trader, often heard these words in his heart: “Fear him not, for I have delivered him into thy hand.” See Psalms 135:11; Psalms 136:19-20. Behind all history is divine and everlasting love!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 22
+ }
+}

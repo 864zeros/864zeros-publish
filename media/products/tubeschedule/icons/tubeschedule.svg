@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="fhgBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDFCF8"/>
+      <stop offset="100%" stop-color="#F6EFE4"/>
+    </linearGradient>
+    <linearGradient id="fhgBronze" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A67C52"/>
+      <stop offset="100%" stop-color="#6E4F32"/>
+    </linearGradient>
+  </defs>
+  <!-- FHG Rounded Tile Container -->
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="url(#fhgBg)" stroke="#8B6642" stroke-width="5"/>
+  
+  <!-- Calendar Top Header Bar -->
+  <path d="M22 36 C22 28.268 28.268 22 36 22 H92 C99.732 22 106 28.268 106 36 V46 H22 Z" fill="#2D2D2D"/>
+  <!-- Calendar Rings -->
+  <rect x="38" y="15" width="8" height="15" rx="4" fill="#8B6642"/>
+  <rect x="82" y="15" width="8" height="15" rx="4" fill="#8B6642"/>
+  
+  <!-- Calendar Body Card -->
+  <rect x="22" y="46" width="84" height="60" rx="0" fill="#FFFFFF" stroke="#E6DAC8" stroke-width="3"/>
+  <path d="M22 46 H106 V92 C106 99.732 99.732 106 92 106 H36 C28.268 106 22 99.732 22 92 Z" fill="#FFFFFF" stroke="#2D2D2D" stroke-width="4"/>
+
+  <!-- 6/Day Quota Drip Dots (Top Row Inside Calendar) -->
+  <circle cx="36" cy="57" r="3.5" fill="#1F7A54"/>
+  <circle cx="47" cy="57" r="3.5" fill="#1F7A54"/>
+  <circle cx="58" cy="57" r="3.5" fill="#1F7A54"/>
+  <circle cx="69" cy="57" r="3.5" fill="#1F7A54"/>
+  <circle cx="80" cy="57" r="3.5" fill="#1F7A54"/>
+  <circle cx="91" cy="57" r="3.5" fill="#1F7A54"/>
+
+  <!-- Crafted Bronze Play Badge (YouTube publishAt Centerpiece) -->
+  <rect x="40" y="65" width="48" height="32" rx="9" fill="url(#fhgBronze)"/>
+  <polygon points="59,73 59,89 73,81" fill="#FDFCF8"/>
+</svg>

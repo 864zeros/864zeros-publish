@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOL",
+  "commentaryId": "fbmeyer",
+  "name": "Joel",
+  "commonName": "Joel",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Valley of Decision”\n\nJoe 2:28-32; Joe 3:1-21\n\nHaving stated the outward blessings that would follow repentance, Joel unveils the extraordinary spiritual blessings that were in store. The outpouring of the Spirit, described in Acts 2:16-17, does not exhaust these glorious words. This blessing is for all whom the Lord our God shall call to Himself, and as one to whom His call has come, you have a perfect right to claim your share in Pentecost. The promise is to all that are “afar off” in space and time. The very slaves, the most degraded and despised of men, become free when they yield themselves to Jesus and have an equal right to the same Spirit.\n\nJoe 3:1-21 refers to the last desperate effort made by the powers of the world against Christ and His people. This will be the closing scene of man’s apostasy. But the Lord will vindicate and deliver His oppressed from the hand of their oppressors; and the same judgment will bring them blessing. Having cleansed His people from their stains, Messiah will tabernacle among them, Revelation 21:3."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOL",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOL",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 1
+ }
+}

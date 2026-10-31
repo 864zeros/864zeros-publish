@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Superior to Moses -- Hebrews 3:1-11\n\nDwell on those opening words:-holy, such is God’s ideal for us; brethren, by reason of our union with Christ, and with one another in Him; partakers, etc., God is ever calling upward and heavenward. Jesus comes from God as Apostle and goes for us to God as Priest. In His human life, how humble and faithful; but He originally built the Jewish polity and commonwealth! He was and is as much greater than Moses as the architect than the foreman and the son than the servant.\n\nIt is not enough to begin the Christian race; we must hold fast our confidence and hope to the end. That was the point specially to be emphasized among these harried people. These Hebrew Christians missed the splendid ceremonial of their ancient faith, and were suffering heavily from persecution and opposition. But was it not worthwhile to persevere, if only to be recognized as belonging to the household of God? Surely for them and for us the experiences of Israel in the forty years of wandering are full of warning. Be admonished by that Wilderness cemetery!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“Harden Not Your Hearts” -- Hebrews 3:12-19\n\nThere is a peril lest familiarity with God’s words should beget indifference to them. The path may be trodden hard by the sower’s feet. That story of the Wilderness wanderings is for all time. Still men disbelieve and disobey; still they doubt that God is able; still they err in their hearts and therefore fail to understand with their heads; still they wander to and fro, with weary souls and restless feet. But if they who failed to believe in words given by Moses were wrapped around by the winding sheets of sand, what will not be the fate of those who refuse the words of Christ!\n\nHow wonderful it is that by just trusting we may be partners with our Lord of His rest, life, glory and resources, Hebrews 3:14! But we must listen to the inner voice, soft and low speaking in the Horeb of our hearts, 1 Kings 19:12. Obey it, and you will enter into the rest of God; refuse it, and you will be as certainly excluded from the divine rest as they from Canaan."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 4
+ }
+}

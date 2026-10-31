@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 49,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob Foretells the Future of His Sons -- Genesis 49:1-13\n\nOnce more Joseph visited his father’s dying-bed. This was the third time and the last. He stood as one of twelve strong bearded men, gathered around the aged form, whose face was shadowed by death, but aglow with the light of prophecy. How intense their silent awe as they heard their names called one by one, by the old man’s trembling voice, speaking with difficulty! The character of each was delineated with unerring insight: the outstanding incidents of their past history enumerated and their future forecasted. The scene was an anticipation of the final judgment, where men shall hear their lives reviewed and the sentence passed. Shiloh means Peace-Giver. What a fragrant name for our Lord! What wonder that He shall gather the nations to His cross and throne!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Joseph Specially Blessed -- Genesis 49:13-27\n\nThe position of Zebulun and the following tribes in the land of promise is accurately foretold. Compare the allotments of Jos 18:1-28. Notice the exclamation of the dying man in Genesis 49:18. Such a spirit of waiting cannot be disappointed. See Isaiah 26:8-9. Joseph’s blessing is pre-eminently beautiful: Fruitful!\n\nThis is mentioned twice, reminding us of Joh 15:8. But fruitfulness is only possible where there is the wall for separation, and the well for communion. When these are present, the branches droop over the wall with clusters of blessings to a thirsty world. Let us seek divine strength and ask that the mighty hands of the God of Jacob may be placed under our own poor weak hands! See Psalms 141:1. The separated life is the crowned life.\n\nTo the heart of the dying man came the memory of his native land and its mountains. What mountains are to a country, God is to His people!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Jacob’s Last Directions and Death -- Genesis 49:28-33; Genesis 50:1-3\n\nJacob gave a final charge as to his burial in Machpelah-that his dust at least should be there to welcome his children and children’s children, when they came thither in due course, as God had promised. Then the weary pilgrim gathered up those tired feet, which had paced out their last mile, into the bed, and gave up his spirit to God. When we are told that he was gathered to his people it must mean more than that his dust mingled with their dust in the place of burial. There are great gatherings of loving friends awaiting us on the other side. See Hebrews 11:40. At the ladder-scene in Bethel, God had told him that He would not leave him till He had done what He promised, and surely not one good thing had failed.\n\nLife may be hard and sad, but God will end it rightly. Be of good cheer and trust!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 49
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 48
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 50
+ }
+}

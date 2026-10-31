@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 58,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“There Is a God That Judgeth” -- Psalms 58:1-11\n\nThis psalm is launched against wicked rulers. It may have been occasioned by the attitude of Abner and others of Saul’s party, who accounted David as a rebel and outlaw and urged vindictive measures against him.\n\nTheir sin, Psalms 58:1-6 Poison is literally “burning heat.” Such is the effect of venomous words, into which the malice of the great serpent is infused. Evil men, capable of such speech, resemble the snake tribe, which will respond only to the shrillest notes. Hot speech to man and deaf ears to God go together.\n\nTheir doom, Psalms 58:6-9 For let them read they shall, Psalms 58:7. The imperative and predictive future are in Hebrew expressed by similar words. Note the remarkable comparisons-the lion’s broken jaw-tooth, the ebbing tide, the snail scorched by intense heat, the untimely birth, the quickly-expiring fire, the cyclone! Sin inevitably brings penalty, and herein is God’s moral government vindicated.\n\nThe contrast, Psalms 58:10-11 As the weary traveler is refreshed when his feet are washed, so the saints are glad to see God’s vindication of the righteous. There is a wide difference between the gratification of personal vengeance, and a consuming zeal to uphold God’s character."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 58
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 57
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 59
+ }
+}

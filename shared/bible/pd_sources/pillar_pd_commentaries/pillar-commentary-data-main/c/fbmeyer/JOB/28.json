@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Pearl of Great Price -- Job 28:1-28\n\nA search for this pearl of great price has occupied men in every age. Job compares it with the search of the miner for the hidden treasures of the earth, Job 28:1-12. This paragraph should be read in the r.v. The shaft into the earth, the miner’s exile from the cheerful haunts of human life, his exposure to dangers from foul air, water, and the falling-in of the mine, the binding up of the streams, are vividly portrayed. But the miner perseveres through all till he obtains his golden spoil. Would that we were as persistent in our quest for the knowledge of God! Paul was a great miner; he went down into caverns of pain and sorrow, that he might bring to light the treasures of God’s wisdom and love.\n\nOnly God knows God, Job 28:23. In the depths of His nature, dark with excess of light but hidden from the falcon’s eye of human genius, are both knowledge and understanding. He waits to reveal these things to babes, saying, “Fear God, and you will be wise. Depart from evil, and you will understand,” Job 28:28. Christ is the Word and the Wisdom of God, 1 Corinthians 1:24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 29
+ }
+}

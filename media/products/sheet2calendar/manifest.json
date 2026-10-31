@@ -6,7 +6,7 @@
   "type": "google-add-ons",
   "name": "Sheet2Calendar Sync — Two-Way Spreadsheet to Google Calendar Sync Engine",
   "summary": "Turn Google Sheets rows into synchronized Google Calendar events with dynamic two-way updates and scheduled background triggers. Zero third-party servers, zero recurring subscriptions.",
-  "metaDescription": "Sheet2Calendar Sync turns Google Sheets spreadsheet rows into Google Calendar events with two-way updates and background sync. One-time lifetime license.",
+  "metaDescription": "Sheet2Calendar Sync turns Google Sheets spreadsheet rows into Google Calendar events with two-way updates and background sync. one-time lifetime license.",
   "icon": "sheet2calendar.png",
   "storeUrl": "",
   "video": {
@@ -15,7 +15,7 @@
     "tag": "⏱️ 42s Product Demo",
     "title": "Watch Sheet2Calendar Sync in Action",
     "desc": "Map spreadsheet columns directly to Google Calendar event properties. Automatically generate calendar events, write back unique event IDs, and keep scheduled meetings in sync when sheet rows are edited.",
-    "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever"
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
   },
   "social_shorts": [
     {
@@ -60,7 +60,7 @@
       "LockService mutex concurrency protection against race conditions",
       "Support for all-day events, timed appointments, and multi-day workshops",
       "100% private in-account execution via non-restricted scopes",
-      "One-time lifetime license — zero recurring SaaS subscriptions"
+      "one-time lifetime license — zero recurring SaaS subscriptions"
     ]
   }
 }

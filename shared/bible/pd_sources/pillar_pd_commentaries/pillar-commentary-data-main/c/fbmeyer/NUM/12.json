@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Protects Moses against Criticism -- Numbers 12:1-15\n\nThis Ethiopian wife may have been Zipporah, or some other woman whom Moses married after his first wife’s death. That Moses, the great lawgiver and leader, who could rule a turbulent multitude and face the great king of Egypt, should take the taunts of his brother and sister so quietly, indicates how deep and far-reaching had been the transformation of his character. Compare Exodus 2:12, etc. “Fret not thyself because of evildoers…. Rest in the Lord and wait patiently for Him,” Psalms 37:1-40.\n\nWhen we hand our cause over to God He comes down, Numbers 12:5. He rebukes the enemy and avenger. Be faithful to Him and you may reckon on His faithfulness to you! That commendation of faithfulness, which Moses received, may be won by all! See Mark 13:34.\n\nOur intercession may bring pardon and healing; but sin leaves its mark, Numbers 12:15. You are shut out of the enjoyment of the camp, and the march is delayed. Ponder James 3:5-6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The Spies Sent to Canaan -- Numbers 12:16; Numbers 13:1-20\n\nBy comparing the opening verses with Deuteronomy 1:19-22, it appears that the suggestion about the spies emanated from the people, and that their proposal was graciously acquiesced in by God. But let us remember that it is a profound mistake to spy out or criticize the land or lot into which we are being led. We are almost certain to see the difficulties apart from the grace, and they sometimes appear to be insurmountable.\n\nIt is better to await with calm trust the unfoldings of divine providence. The book of the future is in the hands of the Lamb that was slain, Revelation 5:7-8. Take no thought for tomorrow! Go steadily on! God will go before you, and cleave your way! Unbelief sees giants and spells them with “G;” faith sees God, and spells giants with “g.” “Looking unto the promise of God,” Abraham “wavered not,” Romans 4:20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 13
+ }
+}

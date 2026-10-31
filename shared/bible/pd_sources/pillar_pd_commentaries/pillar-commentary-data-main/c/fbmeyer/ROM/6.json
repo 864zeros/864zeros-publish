@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Dead unto Sin, but Alive unto God” -- Romans 6:1-11\n\nIt is not sufficient merely to apprehend, however clearly, our standing in Christ; we must see to it that the doctrine issues in a holy life. Nothing is more hurtful than to hold a truth intellectually, without giving it expression in character. Many who fight for the minute points of doctrinal accuracy are careless of the great demands of Christ for a life of godlike love. Therefore, after the Apostle’s massive statements of doctrine, he now turns to discuss the way of a holy life. The work of Christ for us must lead to His work in us and deliverance from the power of sin.\n\nAll who believe in Christ are reckoned as having been included in His death. They did not make atonement for sin; but they died to the life of self-will, of self-pleasing, of subjection to the world-spirit, of citizenship in the earth-sphere, and passed with Him into the life of resurrection glory. This is the significance of the rite of baptism. “Mark that seal!” cries the Apostle. “You belong to the resurrection side of death. Live in union with the risen Redeemer.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“Sin Shall not Have Dominion” -- Romans 6:12-23\n\nStanding with Christ on the resurrection side of death, we must present our whole being to God for His use. We have left forever behind, nailed to the Cross, the body of sin, Colossians 2:14, and henceforth must see to it that every faculty shall become a weapon in God’s great warfare against evil. Let your powers be monopolized by God, so that there shall be no room left for the devil, Ephesians 4:27.\n\nAll serve some higher power, but which? Our real owner and master, whatever we may say to the contrary, is indicated by our life. We belong to the one whom, in a crisis, we obey. Service to sin leads to uncleanness, iniquity, and death. Service to God leads to righteousness, and that to sanctification, and that to eternal life. Run your life into the mold of holy precept, as the obedient metal into the sand-cast, Romans 6:17, r.v. We have our reward in the present consciousness of the life which is life indeed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 7
+ }
+}

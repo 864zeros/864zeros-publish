@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Blessings upon the Obedient -- Deuteronomy 28:1-19\n\nA remarkable chapter! The epitome of what Israel might have been, contrasted with what she became! It is on account of the transgressions that the centuries have augmented her sum of misery. Oh, that we may never have to lament what we might have been!\n\nThese opening verses contain the Beatitudes of the Old Testament. They have their counterparts in the New. Remember that God bends over your life, rejoicing to do you good, and finding pleasure in whatever may enrich your life or flow through it to enrich others. Ask especially that in His great power and grace He shall smite your enemies before you, and establish you unto himself, and open to you His good treasure. If you are in Christ, all things are yours. Possess your possessions, 1 Corinthians 3:21-22; Obadiah 1:17; Obadiah 1:19-20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The Fearful Results of Disobedience -- Deuteronomy 28:20-46\n\nIf we compare this chapter with Exodus 23:20-23 and Leviticus 26:1-46, we shall see how Moses resumes and amplifies the promises and threatenings already set forth in the earlier editions of the Law. The blessings are declared in fourteen verses, while the curses require four times as much space. This is due to God’s eagerness that men should be warned from courses that injure, and shut up to those that lead to blessedness. Note the language, which rises to the sublimest level, especially in the latter part. The forecasts of the dispersion and the degradation of the Hebrew people are especially remarkable.\n\nIt is not only that God goes out of His way to reward the obedient and to punish the ungodly, but these rewards and punishments are part of the nature of things, just as fire stings and burns, when we transgress its laws, but blesses when we obey. If we are at one with God, through Jesus Christ, we are at one with the universe. But if not, “the stars in their courses” fight against us. See Judges 5:20; 1 Corinthians 3:21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "The Bitter Fruits of Disobeying God -- Deuteronomy 28:47-68\n\nThese predictions against the Hebrew people were partially fulfilled in earlier invasions, as for instance, those of Nebuchadnezzar and his generals; but it is to the Roman conquest of Judea that we must look for complete fulfillment. One only needs to compare these words with the narrative of Josephus to see the exact accomplishment which took place during the wars of Vespasian and Titus. The Jews themselves admit this. Deuteronomy 28:68 was literally fulfilled when Titus transported myriads of Jews to Egypt to be employed in the public works or to fight in the amphitheater.\n\nBut if the punishments have been so heavily suffered during these weary centuries, what shall not be the joy when the Lord shall bring back His people to their own land, and all Israel shall be saved! What is this new Euphrates Valley railway but the preparing of the road for their return from the Eastern portions of the world! In the near future, our children, if not we, shall see a fulfillment of Isa 60:1-22; Isaiah 61:1-11. See Acts 3:19-20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 29
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Murrain of Cattle and the Plague of Boils -- Exodus 9:1-12\n\nThe plague on the cattle reminds us that the whole creation groans and travails from the effects of human sin. See Romans 8:20. But those groans are the cries of birth, not of death; and herald a happier day when the creation shall be delivered from the bondage of corruption into the glorious liberty of the sons of God. There is a hint of this here, for the children of Israel lost not so much as one of their cattle from this pestilence. The Lord knoweth how to deliver his own, and our religion should make a difference for the living things of our firesides and farms.\n\nHow terribly does sin affect our physical health! These boils and blains on man and beast remind us of the inevitable brand with which sin marks its slaves. Let us read again Psalms 91:1-16, in the light of this passage. The souls that shelter under God’s wing, from the charmed circle of his presence, look, unharmed and unfearful, on pestilence and plague."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Mighty Thunderings and Hail -- Exodus 9:13-35\n\nThis paragraph recalls Revelation 7:3. The great angel there commanded that no wind should blow on the earth, or on the sea, or upon any tree, until the servants of God had been sealed on their foreheads. Only when this had been effected did the trumpets give signal of the disasters that broke successively on the earth. See Revelation 8:7, etc. The only spot in which the soul is safe is within the encircling provisions of the covenant. Israel stood there and was safe, not only from the hail but from the destroying sword.\n\nIt was as safe a spot as the center of a cyclone is said to be. God had bound Himself by the most solemn sanctions to be a God to His people and deliver them. It was in pursuance of this pledge that He was their pavilion and canopy in this awful hour, catching the hailstones on His pinions, and securing them from hurt. Directly we trust in Christ He becomes our hiding-place from the storms of judgment and condemnation, Hebrews 13:20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 10
+ }
+}

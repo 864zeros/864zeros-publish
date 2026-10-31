@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 51,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Prayer of the Contrite Heart -- Psalms 51:1-10\n\nThis psalm is a ladder which climbs from the horrible pit, with its miry clay, into the heights of sunny joy, where the song breaks from the forgiven penitent. Here is the cry of the lost sheep which has been torn by briers, harried by wild dogs, drenched in the morass, but which the shepherd has found and brought home rejoicing. This path has been worn by myriads of penitents. Psalms 51:17 was written on the wall of St. Augustine’s cell.\n\nThere is no doubt as to the occasion or the authorship of this psalm. It abounds in references to 2 Samuel 11:1-27; 2 Samuel 12:1-31. It is remarkable that such a confession should have been handed to the chief musician; but the publicity thus given has made it a means of grace to myriads. Note the epithets for sin: transgression, “the violation of law;” iniquity, “crookedness from the straight line of rectitude;” sin, “missing the mark.” However much God longs to forgive, He cannot, until confession is made. We must acknowledge our lapse from virtue! Blot out, as from a record; wash, as foul stains from linen; cleanse, as a leper by the touch of Christ. Our only plea is the multitude of God’s tender mercies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Sacrifices God Accepts -- Psalms 51:11-19\n\nIt is not enough to be forgiven; the true penitent longs to be kept from breaking out into the old sins. He desires a clean heart that abhors the least taint of sin; a right or steadfast (r.v., margin) spirit, influenced by God’s holy Spirit, and therefore a willing spirit as well. Then shall follow the joy of salvation, success in soul-winning, humility of soul, the blessing of Zion, and the upbuilding of the Church. What glorious results are these-like the fair colors extracted from coal-tar!\n\nThere are no sacrifices so dear to God as broken hearts; no offerings so precious as contrite spirits. It would be impossible to compute all the walls that have been built; all the Jerusalems, that have been blessed, all the congregations that have been moved, all the revivals that have resulted because sinful men and women have been loved back from the pit of corruption and reinstated into the clear shining of God’s forgiveness and favor. Do not be content with forgiveness; seek restoration to the old place and then strive for a better."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 51
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 50
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 52
+ }
+}

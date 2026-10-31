@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Two Ways and the Two Ends -- Psalms 1:1-6\n\nLike a signpost, this psalm points the road to blessedness. The opening word may be read, “Oh, the blessedness!” The psalm begins with the same message as the Sermon on the Mount, Matthew 5:1-48. Beneath the lintel of benediction we pass into the temple of praise.\n\nBlessedness is obtainable in two ways: negatively, we may avoid the society of the irreligious; positively, we must enter the company of prophets and kings, of psalmists and historians, and especially of God Himself, speaking in Scripture. Do not simply read the Bible; meditate upon it. Better one verse really masticated than a whole chapter bolted.\n\nThe rewards are, to be planted by rivers, to bear fruit, and to prosper. See Genesis 39:3-4; Genesis 49:22. How blessed it is, also, to realize that God knows and loves! See Psalms 56:8. The sinner begins with ungodliness, goes on to scorning, and ends as chaff, Matthew 13:30."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 42
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 2
+ }
+}

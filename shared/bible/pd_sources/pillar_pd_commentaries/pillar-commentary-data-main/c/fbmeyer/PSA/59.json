@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 59,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“God Is My High Tower” -- Psalms 59:1-17\n\nThis is the fifth of the Michtams, or “Golden Psalms.” Compare Psalms 16:1-11; Psalms 56:1-13; Psalms 57:1-11; Psalms 58:1-11. The contents correspond to the title and to 1 Samuel 19:11.\n\nThe most noticeable feature is the twice-repeated refrain of Psa 59:9; Psalms 17:1-15. In each case David appeals to God as my strength, and describes Him as my high tower and the God of my mercy. The possessive pronoun my is very remarkable. Each of us needs mercy of a very special sort. My mercy would not help you, nor would yours help me. Note also that God’s mercy prevents, that is, “goes in front,” Psalms 59:10. As the mother’s thought prepares beforehand for the child, so God thinks ahead for us, and leads us into the good things which He has prepared for them that love Him, 1 Corinthians 2:9; Psalms 31:19.\n\nIn the first refrain David says, “I will wait for thee;” in the second, “I will sing praises.” Waiting on God leads to singing. All night Saul’s emissaries might prowl around David’s home, like the wild dogs of an Eastern city. But within he was singing aloud of God’s mercy, and when the morning broke he was in safety."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 59
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 58
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 60
+ }
+}

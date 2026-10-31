@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Bargaining Spirit Rebuked -- Matthew 20:1-16\n\nThis parable originated in Peter’s question. He had seen the rich young man go away sorrowful, because he could not meet the test which had been put to him; and he contrasted with that great refusal the swift willingness with which he and his fellow Apostles had left all to follow the Lord Jesus.\n\n“Take care,” said Jesus, “or your bargaining for the rewards of the Kingdom, will put you down among the lowest; while they who don’t bargain will come out at the top.” The last made no agreement; they came in at the eleventh hour, and were only too glad to take the vineyard path, leaving the vine owner to give what he thought right. The first “agreed,” taking care to strike a bargain of so much money for so much work. But they would have done better if they had left the payment to the grace of their employer. “For this cause it is of faith, that it may be according to grace, to the end that the promise may be sure to all the seed,” Romans 4:16, r.v."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Serving Nobler than Self-Seeking -- Matthew 20:17-28\n\nFor the third time our Lord foretells His death. In Matthew 16:21, He dwelt especially on the shame of His rejection; in Matthew 17:23, He told how the gates of death would open on the Easter joy. Now He declares the method of His death, and tells how Gentiles would join with His own people in the tragedy of the Cross. He was no martyr, who went unknowing to his doom. He set His face to go to the Cross. Others die because they were born; He was born that He might die.\n\nMany desire the power of the throne, without being prepared to pay the price of suffering. Others say glibly and easily, We can, little realizing what their choice involves, and that nothing but the grace of God can make their vow possible of fulfillment. But it is sufficient! Only claim it. God will not fail you! Notice Matthew 20:28. The Lord ministers to us all, daily, patiently, lovingly. He took on Him the form of a servant and became obedient. Serve all men for His sake! We have to go down to reach His side."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "The Great Healer and the Lowly King -- Matthew 20:29-34; Matthew 21:1-7\n\nThe Lord is always saying: What will ye that I shall do? Let us not ask small things. We honor Him by making great demands. Our greatest requests come far short of His generosity and resources. It seems as though we are always giving Him pain by the meagerness of our expectation. Whatever people say, cry out so much the more! But remember it is not the outcry, but your need and your faith which will arrest His steps.\n\nOur Lord entered the city in fulfillment of prophetic vision, but in great lowliness, along the road carpeted by the loving enthusiasm of the crowds. It was largely a Galilean and popular outburst. The upper classes kept aloof. Remember that ancient prediction quoted here, Isaiah 62:11, and especially Zechariah 9:9. The King comes having salvation. That is the divine order! We shall never know the full power of Christ’s salvation until we have welcomed Him to our hearts as King."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 21
+ }
+}

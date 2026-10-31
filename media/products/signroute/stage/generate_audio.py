@@ -7,7 +7,7 @@ import edge_tts
 SCENES = [
     {
         "id": "scene1_hook",
-        "text": "Tired of paying forty dollars every month just to collect simple internal signatures on standard agreements?",
+        "text": "Tired of paying recurring monthly fees just to collect simple internal signatures on standard agreements?",
         "lead_silence": 0.3,
         "tail_silence": 0.4
     },
@@ -25,7 +25,7 @@ SCENES = [
     },
     {
         "id": "scene4_pricing",
-        "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. SignRoute Local is a one-time nineteen ninety-nine unlock forever.",
+        "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. SignRoute Local is a single one-time unlock forever.",
         "lead_silence": 0.15,
         "tail_silence": 0.25
     },

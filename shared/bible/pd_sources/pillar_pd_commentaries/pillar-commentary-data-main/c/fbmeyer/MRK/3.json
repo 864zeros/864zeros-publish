@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord of the Sabbath -- Mark 2:23-28; Mark 3:1-19\n\nThe ritualist demands the outward, the conventional, the ancient usage of the past. Christ says, “Be natural.” The needs of man, whether of body or of soul, are greater than ceremonial restriction. Ceremonies are only expressions of life, and where life is wanting, they are meaningless and void.\n\nThe withered hand, Mark 3:1-6. Through long disuse of powers which God has given, but which we have refrained from exercising, degeneration may have set in; Christ, however, bids us exert them again. In so far as we dare to obey, we shall find ourselves able. Dare to speak, or pray, or work, not at the impulse of your nature, but at His bidding, and you will suddenly find yourself given power.\n\nThe Apostolate, Mark 2:7-19. On three occasions Christ used the boat as His pulpit, Mark 4:1; Luke 5:3. We must be disciples (learners), before we can be apostles (those sent). As the Father sent the Master, so the Master sends us. Our mission is threefold-to bear Him company, to perform His errands, and to cast out devils. What infinite variety in the apostolic band! The Boanergic group of four; the group of questioners who were sometimes doubters; and the group of practical men, whose business capacity was a snare at least to one. If there was a traitor even amid the Twelve, who can expect to find his fields free from tares?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Brother to All Who Will -- Mark 3:20-35; Mark 4:1-9\n\nThe Pharisees circulated this infamous charge-not because they believed it, but to satisfy the questions that were being asked on all sides. What they affirmed they knew to be untrue; but for selfish reasons they would not confess what they really thought. Such denial of truth is a deadly and unpardonable sin, because it injures the sensitiveness of conscience and produces moral death.\n\nFamily ties, Mark 3:31-35. The family of Jesus needed to be taught, though with the utmost delicacy, that they must not attempt to control His public ministry. All who love God and do His will are welcomed into the divine family circle and become blood relations of the Son of God.\n\nThe sower, Mark 4:1-9. Note the perils of the hearer, that you may guard against the waste of precious seed. There is a grave peril in the effect of light, fanciful, wandering thoughts. There is great peril also in a mere emotional response-the “straightway springing up” which has no root, because the heart is hard. There is danger lest the cares of the poor, the riches of the wealthy, and the too eager pursuit of things by other classes may drain away the strength of the soul, so that the Word of God shall be a slender stalk, without an ear or fruit. It is not enough to hear the Word, we must accept it and bear fruit; otherwise the plowing, sowing, and all the operations of nature are in vain. Live up to what you know. Obedience is the key to understanding."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 4
+ }
+}

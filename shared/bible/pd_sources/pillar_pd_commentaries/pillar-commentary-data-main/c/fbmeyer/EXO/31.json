@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Wise Workmen for the Tabernacle -- Exodus 31:1-18\n\nWhenever there is special work to be done God will find and endow the men who are to do it. “I have called,… I have filled,… I have appointed,” etc. There is a niche for each of us in God’s service, to each a special work is given; and for each those talents are imparted, which are requisite and adequate. “Created unto good works,” says the Apostle, “which God has before prepared that we should walk in them,” Ephesians 2:10. The talent for the sphere and the sphere for the talent-God’s call binding the two with golden clasps.\n\nBut amid all our work for God there should be Sabbath-keeping-i.e., the inner rest of the soul. We are by nature full of our own works and schemes and plans; but when the spirit of rest enters us, all this is altered. Then we are not agents, but instruments; we do not work for God, but God works through us; we enter into His rest, and cease from ourselves. See Hebrews 4:10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 32
+ }
+}

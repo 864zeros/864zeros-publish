@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "An Alien’s Surprising Faith -- Luke 7:1-10\n\nIt is interesting to find these wild flowers of natural faith, humility and love growing outside the carefully cultured garden of the Hebrew religion. God has never been without witnesses among the nations. We recall Cyrus in the Old Testament, Isaiah 45:1-7; and Cornelius in the New, Acts 10:1-8. “In every nation.” See Acts 10:35. But of course the propitiation of Christ underpins the salvation of all men, Romans 3:25.\n\nBecause the centurion was under the authority of Rome and was loyally obedient to it, he was able to exercise authority; and since he was so sure that Christ was obedient and loyal to God, he felt that he, too, was able to exert authority over all other forces, especially those which were injuring and torturing human lives. Let us seek to be such obedient servants that Christ may be able to say to us also, with the absolute certainty that we shall obey, “Go” and “Come” and especially “Do this.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "“God Hath Visited His People” -- Luke 7:11-23\n\nNain lay near the plain of Esdraelon, on the slopes of Little Hermon. Two confluent streams met there-those with Christ and those with death, Luke 7:11-12. He wipes away tears by removing the cause. When the young are being borne by their young companions to graves of sin, it is thus that the Master arrests them. See Ephesians 5:14. There was a threefold gradation in the power He put forth-to Jairus’ daughter, just dead; to this young man, on the way to burial; and to Lazarus, who was three days dead.\n\nThe depression from John’s long confinement in the gloomy fortress of Machaerus, east of the Dead Sea, and the fact that Jesus had not sent to deliver him, were the double root of this sad lapse from the position taken up on the Jordan bank, when he recognized and indicated the Lamb of God. But our Lord did not chide; He understood, Psalms 103:9. His miracles of mercy and power are His best evidences, and He left John to draw his own conclusions, Isaiah 35:5-6. May ours be the blessedness of the un-offended, who will trust Christ, even though He does not hasten to deliver them just as they had hoped!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "A Great Man and a Still Greater -- Luke 7:24-35\n\nThe Master chose the moment of John’s fainting fit to pass this high eulogium on the Baptist’s stalwart character, his indifference to worldly bribes and his divine commission. When we write hard things against ourselves, He may be judging us with infinite tenderness and wisdom. Heaven does not estimate us by our passing moods. But the least believer in this Christian age has a clearer knowledge of Christ and a closer relationship to Him, than had the Baptist. He was a servant; we are brothers, sons, heirs, Romans 8:16-17.\n\nIf we will not accept the lower call of duty, as was manifested in the appeal of the Baptist, we shall never profit by Christ. Accept the dim light of the morning star and it will lead to the dawn.\n\nIt ill becomes us to observe the winds of human caprice. If we please one party, we shall displease the other. There is but one path through life, and that is to do the will of God, in which, as Dante puts it, is our peace. But the children of wisdom recognize her alike in the anxiety of the Baptist and in the graces of the Son of man."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "The Forgiven Sinner’s Grateful Love -- Luke 7:36-50\n\nWhat a trio! Christ stands here as a manifestation of the divine love, as it comes among sinners. The love of God is not dependent on our merits; frankly, Luke 7:42, is “freely.” It is not turned away by our sins: she is a sinner. It ever manifests itself as the clearing of debts. But it demands recognition and service: thou gavest me no kiss.The woman represents those who penitently and lovingly recognize the divine love. She was not forgiven because of her love; but her love was the sign that she had been forgiven and recognized it. What will not God’s love do! The tropical sun produces rare fruit. What Jesus did for her He can do for your many sins. Pardon will lead to much love, and love becomes the gate of knowledge and the source of obedience.\n\nSimon, the Pharisee, stands for the unloving and self-righteous, who are ignorant of the love of God. They may be respectable in life, rigid in morality, unquestioned in orthodoxy, but what are these without love? See 1 Corinthians 13:1-13. Note the contrasts between thou and she, thy and her."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 8
+ }
+}

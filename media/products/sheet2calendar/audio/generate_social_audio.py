@@ -38,7 +38,7 @@ SCRIPTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay ninety-nine to two hundred ninety-nine dollars every single year just to sync spreadsheet rows to Google Calendar?",
+            "text": "Why pay ninety-nine to two hundred ninety-recurring fees every single year just to sync spreadsheet rows to Google Calendar?",
             "lead": 0.25,
             "tail": 0.35
         },

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "fbmeyer",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Missionary Journey -- Ezra 7:1-18\n\nAn interval of sixty years intervened between the events of Ezr 6:1-22 and Ezra 7:1-28, and in that time the history recorded in the book of Esther took place. This chapter is full of helpful thoughts. Note the description of Ezra’s character-A ready scribe- Ezra 7:6. He not only knew the Law, but he set his heart to seek and do, Ezra 7:10. The only way to understand Scripture is to be prepared to do it. What a contrast to Matthew 23:3!\n\nLet us not resemble the finger-post, which directs the traveler, but stirs not a step along the road it points. Note the secret of Ezra’s success, the good hand of God. This is a characteristic phrase of Ezra and Nehemiah. That hand answers prayer, Ezra 7:6; speeds our way, as much in railway trains as in caravans, Ezra 7:9; and strengthens us for service, Ezra 7:28. The strong, tender hand of God is laid on our hands, as a father’s on those of the son learning to draw a bow, Genesis 49:24. And when God’s hand is on us, it is also on others, preparing them to cooperate.\n\nWhen God needs an instrument, He will come to men of Ezra’s spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "A King’s Bounty -- Ezra 7:19-28\n\nEzra’s commission was very ample. Those who officiated or assisted in Temple service were exonerated from taxation. Full permission was given to take all voluntary gifts of money. Orders were issued for the supply of food and other necessities. He was also appointed governor of all Jews west of the Euphrates. The royal bounty was very generous.\n\nHere was the harvest of Daniel’s prayers and tears. God did exceeding abundantly unto His people beyond all that they had asked or thought. Notice how Ezra’s love for God’s law impressed Artaxerxes with the conviction that it was perfect. He commanded that the will of God should be the supreme court of reference to Ezra and his brethren in the disposal of the free-will offerings. He further enjoined that they should do exactly the commands of the God of heaven, and ordained that all who refused should be punished. So great was his respect for the Law, that he left Ezra to do very much as he thought best.\n\nThis reverence on the part of a heathen monareh for God’s law shames us. Let us make more of it ourselves! Let us be people of the Book, and exalt it as we are exalted by it, in the judgment even of those who do not revere it!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 8
+ }
+}

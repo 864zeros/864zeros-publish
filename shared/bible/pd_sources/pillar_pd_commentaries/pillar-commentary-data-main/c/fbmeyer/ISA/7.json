@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Sign of Immanuel -- Isaiah 7:1-17\n\nA new cycle of prophecy begins here, covering the reign of Ahaz. The complete history which illustrates these chapters is given in 2 Chronicles 28:5. The invasion of Judah by Syria and Samaria was permitted because a severe warning was needed to enforce Isaiah’s remonstrances and appeals. See 2 Kings 15:37. The Holy City, as Isaiah predicted, was not to be trodden by the invader, though it would pass through severe suffering and anxiety. This immunity, which neither Ahaz nor his people deserved, was secured by Isaiah’s faith and prayer, pleading as he did, God’s ancient covenant.\n\nThis great prophecy of the coming Immanuel must have greatly encouraged that generation, as it has all succeeding ones. It inspired Psalms 46:1-11. What greater comfort have we than that Jesus is the companion of our pilgrimage? See Matthew 1:21-23. Though the corn-lands were desolate, the cattle on the mountain-pastures would yield butter and the wild bees honey; and this would supply the nation’s needs till the invader had withdrawn. Though God chastens us, He will not forget our daily bread."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "A Foreign Foe-God’s Instrument -- Isaiah 7:18-25; Isaiah 8:1-4\n\nAhaz, as we have seen, summoned the king of Assyria to his aid. This policy, dictated by human prudence, was fraught with vast peril. He and his advisers would rue their choice, and would have to pay dearly for introducing Assyria into the complicated politics of these minor states. Though this policy might effect a temporary success, like that which Isaiah indicated in the naming of his newborn child, yet ultimately it would work out disastrously, in the depopulation and desolation of the country. The impoverished peasants would have one cow instead of a herd, and two sheep instead of a flock. Is not this true of all the expedients which we substitute for faith in God?\n\nAt first they promise well but they disappoint and fail. It is the old lesson: “Lean not to thine own understanding,” Proverbs 3:5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 8
+ }
+}

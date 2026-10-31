@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Trumpets Sound the March -- Numbers 10:1-16\n\nEach trumpet was made of a solid piece of silver. They fulfilled several purposes, summoning an assembly, sounding the march, gathering for battle. They are referred to symbolically in Matthew 24:31, and 1 Corinthians 15:52. We are constantly being called to arise and depart! Is not the trumpet calling today to a slumbering Church to move out to the evangelization of the world? For a whole year Israel had sojourned under Sinai.\n\nThey left Egypt an undisciplined crowd; they had become a nation, and a marshaled host. Each knew his pedigree and standard; every tribe had its appointed place. The soul must visit Sinai, but not live there. It must journey forth to Hermon, Olivet, and Calvary. The Church is moving on! Find thy place in the great procession and keep it.\n\nRemembered by God and saved from your enemies! Compare Numbers 10:9 and Isaiah 52:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "“Come Thou with Us” -- Numbers 10:17-36\n\nThe invitation of Moses to Hobab is one that we may all give to our friends: “We are journeying to the place of which the Lord hath spoken.” “We should always be on the alert for those who are not formally united to the Church, and we can always promise that we can do them good. Only good awaits those who travel with their backs to Egypt and their faces toward the Heavenly City. God has prepared for those who love Him such good things as it is beyond words to declare. See 1 Corinthians 2:9.\n\nAnd how much we may benefit by such companionships! Hobab was probably Moses’ brother-in-law, and Jethro having returned to Midian, he was all the more needed to lead Israel to the best routes and the most suitable halting-places, where shade and water could be found. Such a guide would be invaluable. Ministers are such! For Hobab’s reward see Judges 1:16; Judges 4:11. Who would not follow where the Ark of the Covenant leads, and rest where the cloud broods? John 10:4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 11
+ }
+}

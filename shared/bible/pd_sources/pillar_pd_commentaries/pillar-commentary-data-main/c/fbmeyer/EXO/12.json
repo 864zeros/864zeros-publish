@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Passover Lamb and its Sprinkled Blood -- Exodus 12:1-14\n\nHenceforth, for Israel, there was to be a new beginning of the year. We should date our birthdays not from the cradle, but from the Cross. The Paschal Lamb was an evident foreshadowing of Christ. See 1 Corinthians 5:7.\n\n(1). He was without blemish. Searched by friend and foe, no fault was found in Him.\n\n(2). He was in His prime, when He laid down His life.\n\n(3). Set apart at the opening of His ministry, it took three years to consummate His purpose.\n\n(4). His blood-that phrase being equivalent to His sacrificial death-speaks of the satisfaction of the just claims of inviolable law, where His flesh is “meat indeed.”\n\n(5). Roasting with fire, unleavened bread and bitter herbs denote the intensity of His sufferings, and the chastened spirit with which we draw nigh.\n\nAnd does not the pilgrim’s attitude bespeak the attitude of the Church, which, at any moment, may be summoned to go forth at the trumpet sounding? 1 Corinthians 15:52."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Feast of Unleavened Bread -- Exodus 12:15-28\n\nThe inmate of the house did not see the sprinkled blood. It was not necessary to be always going forth to look at it. It was clearly not a matter for his emotion or his intelligence. It was an accomplished fact, and it was enough for God to see it: “When I see the blood I will pass over.” Abide thou in Christ. It is not necessary to try to understand, or feel; just be quiet and trust the finished work and the sworn promise of God. He hath said: “Whosoever believeth shall not perish.” The Lamb slain is in the middle of the throne; it is enough.\n\nLet us keep the feast, not with the leavened bread of malice and wickedness, but with the unleavened bread of sincerity and truth. Remember that you must put away all ferment, and all that partakes of disease, decay, or death that God may be able to tarry in the house of your life, and be your fellow-pilgrim in the march of life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "The First-born of Egypt Slain -- Exodus 12:29-36\n\nIt was night, the time for peace, rest and silence. None anticipated evil, unless some few among the Egyptians had begun to believe in the veracity of Moses, that man of God. Suddenly, without warning, there was death everywhere. Death can enter the palace, elude the sentinels, pass locked doors, and smite the son of Pharaoh; while the lowly obscurity of the woman grinding corn and the captive in the dungeon, will not save them from his blow. There is no difference between us all in the fact of our sinnership, or the inevitableness of penalty, unless redeemed, as Israel was, by sacrifice.\n\nPharaoh’s surrender was complete. Children? Yes! Flocks and herds? Yes! There was also a great popular uprising, and the people readily supplied the Israelites with whatever they asked-their wages for long unpaid servitude. They went forth as a triumphant host, “more than conquerors” through Him who loved them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Israel Led out of Egypt -- Exodus 12:37-51\n\nThe 600,000 were males above 20 years of age, Numbers 1:3-43. This would make the entire body not less than 2,000,000 of people of all ages. Succoth was the first rallying point on which the various bands converged. It stood in open country, over which their flocks and herds spread themselves. It was, indeed, a night to be observed, when the Exodus took place, because, as Bunsen says, it was the beginning of history; and we may almost say further that it was the hour when Israel was born as a nation. God called His son out of Egypt. At that moment also the period of which Abraham had been apprised ran out. See Genesis 15:13; Galatians 3:17; and Exodus 12:40 here.\n\nNotice the stress laid on circumcision, which was the type of putting away the sins of the flesh. See Colossians 2:11. We must be separated from sin, before we can claim our portion in the Paschal Lamb, or join the Exodus."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 13
+ }
+}

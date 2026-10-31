@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Stimulating to Liberality -- 2 Corinthians 8:1-15\n\nSurely the plea for a generous gift of money toward the collection which Paul was making for the poor saints in Jerusalem, could not have been more tenderly and convincingly urged than it is urged here. He begins by mentioning the generosity of the Christians in Philippi, Thessalonica, and Berea, who were very poor, the inference being that the wealthier Corinthians would make similar sacrifices. He quotes the example of the Lord Jesus, who made Himself poor that they might be enriched and who for nineteen centuries since has had the joy of enriching myriads of souls. Paul reminds the Corinthians that a year ago they had resolved to make this gift. Finally he sketches his fair dream of reciprocity between church and church, so that wherever there was need the supplies of Christian benevolence should flow forth to meet it.\n\nNotice, then, that Christian liberality originates in the grace of God, ministers abundant joy to those who give, is not staunched by deep poverty, begins with the consecration of the giver’s soul to God, and does not wait to be entreated, because it demands the privilege of ministering thus to the lack of Christ’s body."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "“Things Honorable” Both to God and Men -- 2 Corinthians 8:16-24\n\nThose who handle the gifts of the Church should be extremely careful that all their financing be above the slightest suspicion. The Apostle shrank from handling these gifts himself, lest any should insinuate that he was appropriating them to his personal use. Even when we have no reason to accuse ourselves in the sight of the Lord, we should be careful of appearances in the sight of men; and whatever is entrusted to us should be administered by us to the glory of God.\n\nIn the present instance the Apostle designated three brethren to attend to this matter. First, Titus, his partner and fellow-worker; next, the brother whose praise was in all the churches and who had been appointed for this very purpose; and thirdly, another brother, referred to in 2 Corinthians 8:22. Titus represented the Apostle, and the others represented the churches themselves. These brethren are distinctly mentioned as the glory of Christ, 2 Corinthians 8:23. It must be an encouragement to those who handle the financial matters of our churches, that they also may promote Christ’s glory and participate in its transfiguring beauty."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 9
+ }
+}

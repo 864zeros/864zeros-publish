@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEP",
+  "commentaryId": "fbmeyer",
+  "name": "Zephaniah",
+  "commonName": "Zephaniah",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fullness of Salvation -- Zephaniah 3:1-20\n\nThe sins of Jerusalem, Zephaniah 3:1-7. Uninfluenced by judgments upon other nations, Jerusalem pursued her course, morally impure, oppressive, refusing instruction, estranged from God. Yet God still dwelt in the city which He had chosen. Morning by morning His Spirit was appealing for repentance and righteousness. Through His faithful ones He was still shedding the light and glory of a holier civilization through the community, but the population at large refused to heed.\n\nThe effects of cleansing judgment, Zephaniah 3:8-20. These closing verses are marked by great tenderness, showing as they do, the results that God’s dealings are designed to effect. A pure life; service with one consent; the trust of the afflicted soul in the love of God; the weaning of the heart from all iniquity-what great and lovely results of that long captivity! Let God have His way with you! He will change your sorrow into songs; will cast out your enemies and turn again your captivity; will manifest His infinite love, now in brooding tenderness, and then in outbursting songs. Those who have been filled with sorrow, and have borne the burden of reproach for God, shall be comforted.\n\nEven the halt and exiled shall participate, and become a name and a praise. The captives would be liberated and the dispersed would be gathered home."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAG",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Race Prejudice Breeds Hatred -- Esther 3:1-15\n\nJosephus says that Agagite means a descendant of Agag, the common name for the kings of the Amalekites, Numbers 24:7. It is probably that something of the nature of religious homage to Haman was demanded, and this Mordecai could not tolerate for a moment. It would have been as bad as the falling down to worship the golden image of Dura. He, therefore, sturdily refused. What diabolical cruelty was here, to meditate the destruction of a nation to satisfy a personal grudge! The resolve was taken in the first month, when Esther had been queen for five years; but the lot indicated the twelfth month for its execution, so that Esther had twelve months in which to oppose the plan.\n\nThe disposing of the lot was evidently God’s, Proverbs 16:33. The bribe of four millions sterling, which Haman hoped to get from the spoils of the slaughtered Jews, without doubt helped to pave his way, and make the king favorable to his request. The matter was soon settled, and the posts were carrying the edict of slaughter to the furthest limits of the realm. It reminds us of the decree for the massacre of the Huguenots. But God was over all. The strongest assaults are vain against Him, Psalms 2:4.\n\nHe will not let high-handed wrong proceed beyond a certain point, 2 Kings 19:28. Let us shelter behind Him and be at peace, Isaiah 54:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 4
+ }
+}

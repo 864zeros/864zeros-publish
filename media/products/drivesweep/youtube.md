@@ -1,7 +1,7 @@
 # DriveSweep Local — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/drivesweep/`  
 **Web Product Page:** https://864zeros.com/products/drivesweep  
-**Pricing Model:** $14.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Local-first Google Drive storage cleaner that finds and removes duplicate files,
 👉 Try DriveSweep Local: https://864zeros.com/products/drivesweep
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet DriveSweep Local — the fast, local-first solution that solves this withou
 👉 Get DriveSweep Local: https://864zeros.com/products/drivesweep
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet DriveSweep Local — the fast, local-first solution that solves this withou
 * **Suggested Thumbnail:** `media/products/drivesweep/video/thumbnail-drivesweep-social-price.png`
 * **YouTube Title:**
 ```
-Paying $30–$60/Year for Drive Cleaner Subscriptions — DriveSweep Local #Shorts
+Paying one-time lifetime for Drive Cleaner Subscriptions — DriveSweep Local #Shorts
 ```
 * **YouTube Description:**
 ```
 Stop paying annual subscriptions to clean files stored inside your own Google Drive.
 
-DriveSweep Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
+DriveSweep Local gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get DriveSweep Local: https://864zeros.com/products/drivesweep
 

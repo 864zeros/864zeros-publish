@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "Malachi", "chapter": 3, "citation": "Malachi 3:6", "text": "For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.", "plain": "I the Lord do not change. So you, the descendants of Jacob, are not destroyed." },
-    { "book": "Malachi", "chapter": 3, "citation": "Malachi 3:10", "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.", "plain": "Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this, says the Lord Almighty, and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it." }
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "citation": "Malachi 3:6",
+      "text": "For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.",
+      "plain": "I the Lord do not change. So you, the descendants of Jacob, are not destroyed.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in the first morning sunbeams cresting over a stone barn wall",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Malachi",
+      "chapter": 3,
+      "citation": "Malachi 3:10",
+      "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+      "plain": "Bring the whole tithe into the storehouse, that there may be food in my house. Test me in this, says the Lord Almighty, and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.",
+      "visual_prompt": "a mason's plumb line hanging beside a newly repaired course of fieldstones in the first morning sunbeams cresting over a stone barn wall",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

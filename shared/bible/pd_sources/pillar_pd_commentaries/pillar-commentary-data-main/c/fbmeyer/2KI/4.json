@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Every Vessel Filled -- 2 Kings 4:1-7\n\nElisha’s ministry was not startling. It was redemptive and constructive. Widows came to him for help against their creditors; mothers appealed on behalf of their children; poison was rendered powerless; and loaves were multiplied. Do not judge power by the noise it makes. The dew excites less notice than a thunder-storm, but it may be more refreshing. A life filled with quiet ministry will bear comparison with one whose outbursts of passion are followed by reaction and depression. Twelve hours of daily sunshine, year in and year out, are preferable to the summer of daylight in the Arctic Circle, followed by months of midnight.\n\nWhen our need is urgent, and we spread it before God, the question is never about the amount of oil, but of the empty vessels. We fear that there will not be enough oil; God is concerned lest we fail to bring sufficient vessels to hold all He wants to give. The oil was multiplied in the pouring, as the meal of the other widow was increased in the spending. God’s oil will never be exhausted so long as we can receive and impart. According to our faith will it be done. It is not a question of how much God can give, but how much we can use."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Entertaining a Prophet -- 2 Kings 4:8-24\n\nThe real man needs a very small supply of outward comfort, because his life is hid in God. It does not consist in the abundance of things that he possesses, but in faith, love, and hope. What a noble testimony it would be to our character, if people who saw us going to and fro became convinced that “this is an holy man of God,” 2 Kings 4:9!\n\nSunstroke in the tropics is a frequent cause of death, Psalms 121:6. When a child is taken sick, it is the mother who is the best comforter; but there are limits to a mother’s power to help. This woman of Shunem must be referred to in Hebrews 11:35. She was so sure of the life-restoring prayers of the great prophet that she did not feel it necessary to tell her husband what had befallen. Why should she grieve him, when the child would soon be given back to them! In noble confidence she dared to say that all would be well, and God did not disappoint nor fail. Shunem was fifteen miles from Carmel, and there was not an inch of the road which was not covered by the mother’s splendid faith that God would make all-grace abound toward her."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The Dead Boy Restored to Life -- 2 Kings 4:25-37\n\nThere is fine illustration in this chapter of a noble reverence for goodness, of a good man’s gratitude, and of the large reward that never fails those who deal kindly with God’s children.\n\nIt is not enough to put the staff, even though it be the prophet’s, on the cold, sweet face of a child. Our doctrine and precept may be quite good and straight, but something more is needed. There must be not a staff, not a servant, not an intermediary, but ourselves, our heart against the heart that is still, our lips against the dear, cold lips. It is as we give ourselves to the children, imparting our tenderest, strongest sympathy, that new life will come to them.\n\nWalk to and fro in your house! Shut the door on yourself and the child! Pray to the Lord! Give yourself to the great work of saving the soul from death! Let the mother be praying in the room downstairs! Call to the little soul to awake and live. Your faith and prayer cannot fail of an answer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "“Who Giveth Food to All Flesh” -- 2 Kings 4:38-44\n\nThis miracle, it has been justly remarked, is a faint foreshadowing of our Lord’s marvelous feeding of thousands with even scantier materials. As Elijah was a type of John the Baptist; so Elisha was, in many respects, a type of our Lord. In his peaceful, human life, his mild and gentle character, his constant circuits, his many miracles of mercy, he resembles, more than any other prophet, the Messiah.\n\nWe have also, in this miracle, the great province of the Gospel to counteract the ancient curse of a forfeited Paradise and meet the hunger of the soul. The grace of God will turn an evil into a blessing and multiply a little to feed a multitude. See Mark 16:18; Psalms 132:15. Can there be any doubt that to faith and prayer resources are open which are closed to all else? If nature contained all we need, ready to our hand, of what use would prayer be? The very injunctions to prayer and the success of those who have prayed, prove that God has forces available, which can operate in behalf of those who love Him and are the called according to His purpose."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 5
+ }
+}

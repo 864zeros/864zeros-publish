@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Clean Life -- Job 31:1-40\n\nJob had specially guarded against impurity, for its heritage is one of calamity and disaster. He is sure that even if he were weighed by God Himself there would be no iniquity discovered in him. He even goes so far as to invoke the most awful results if he has sinned against the seventh commandment. It is well for us if we are able with similar sincerity to appeal to the verdict of God and of our own heart. Let us ask the Holy Spirit to beget in us purity and separateness from sin, that we may walk with unsullied garments.\n\nJob also protests the even-handedness of his dealings with his servants, alleging the principle which underlies the whole Christian teaching on the point, that we all have been made by the same Creator. He insists on his benevolence to the widow and the fatherless. He is careful to show that he had not failed in doing all the good that was within his reach. Alas, how few of us can say as much! How many such occasions cross our path every day, which we heedlessly let pass!\n\nWith this appeal Job goes into the presence of God, and asks for a reply. In the strong gospel light we are too deeply convicted of sin to dare to do this, and must rely upon the merits of Christ. In these alone can we approach the uncreated light."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 32
+ }
+}

@@ -13,8 +13,35 @@
     "count": 3
   },
   "verses": [
-    { "book": "Micah", "chapter": 6, "citation": "Micah 6:8", "text": "He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?", "plain": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God." },
-    { "book": "Micah", "chapter": 7, "citation": "Micah 7:7", "text": "Therefore I will look unto the Lord; I will wait for the God of my salvation: my God will hear me.", "plain": "But as for me, I watch in hope for the Lord, I wait for God my Savior; my God will hear me." },
-    { "book": "Micah", "chapter": 7, "citation": "Micah 7:18", "text": "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.", "plain": "Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance? You do not stay angry forever but delight to show mercy." }
+    {
+      "book": "Micah",
+      "chapter": 6,
+      "citation": "Micah 6:8",
+      "text": "He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+      "plain": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+      "visual_prompt": "a narrow footpath bordered by stacked fieldstones winding into a quiet valley in a quiet Judean village nestled among olive-draped foothills",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "citation": "Micah 7:7",
+      "text": "Therefore I will look unto the Lord; I will wait for the God of my salvation: my God will hear me.",
+      "plain": "But as for me, I watch in hope for the Lord, I wait for God my Savior; my God will hear me.",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in a quiet Judean village nestled among olive-draped foothills",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Micah",
+      "chapter": 7,
+      "citation": "Micah 7:18",
+      "text": "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy.",
+      "plain": "Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance? You do not stay angry forever but delight to show mercy.",
+      "visual_prompt": "an unhewn twelve-stone altar standing quietly on a wind-swept hilltop in a quiet Judean village nestled among olive-draped foothills",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

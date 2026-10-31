@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "New Catchers of Men -- Luke 5:1-11\n\nNot their first call, recorded in John 1:35-42, but another which preceded their appointment to the apostolate.\n\nThe Lord always supersedes us. He superseded Peter in his command of the boat, which he had navigated since he was a lad. There is always a testing-point for the soul. Will you surrender the command and let Christ be captain? If so, in the teeth of great difficulties-for fish are not caught generally in the glare of day-He will fill your boat to the water’s edge. He does beyond all we asked or thought.\n\nChrist will be in no man’s debt. If you lend Him your boat, He will return it filled with silver fish. The boats were filled; the upper room was filled with the Holy Spirit; and all Martha’s hospitality was well repaid when Lazarus was raised.\n\nAt the day of Pentecost when Peter’s net landed 3,000 souls, was not our Lord’s promise fulfilled? “Thrust out a little,” is the beginning of long voyages and fishing expeditions with Christ!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Cleansing, Power and Pardon -- Luke 5:12-26\n\nJesus did not hesitate to touch the leper, because He could no more be polluted by uncleanness than could a ray of light by passing through a fetid atmosphere. The question is never in can or will, as applied to Christ, but whether we will trust Him and can believe.\n\nThe Mosaic offering was a pair of birds, one of which was killed over running water; while the other, having been dipped into this mingled blood and water, was freed to fly away in its native air. Is not this the meet emblem of the forgiven and cleansed soul? See Leviticus 14:2-32.\n\nAt first the bed bore the paralytic, but after the power of Jesus had entered into him, he bore the bed. So Jesus pours His energy into our anemic natures, and we master what had mastered us. The miracle in the physical sphere, which men could test, approved His power in the realm of the spiritual, where only the forgiven one could actually know.Do not forget to withdraw from the crowd, however eager it is, that you may pray, Luke 5:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Feasting and Fasting -- Luke 5:27-39\n\nMatthew in his Gospel says nothing of this great feast; the Spirit of God saw that it should not be forgotten. “When saw we thee an hungered, and fed thee?” Matthew 25:37. Advertise yourself and God will leave you unnoticed. You will have had your reward. Be content to do things, as Jesus appointed, and Matthew 6:4 will follow.\n\nLet us not cling to the broken bottle-skins of the past, whether they be out-worn ceremonies, creeds or formulations of truth. Let the ferment of each great religious movement and new era express itself in its own way. We must not encourage the ill-judged speed of those who want to force the pace, and fling away the bottle-skins before they are done with. But if the bottle-skins have evidently served their purpose and lie discarded on the ground, that will not affect the vintage, which is reddening on the hills. Go and pick the fruit God is giving you, place it carefully in baskets and let it have new skins."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 6
+ }
+}

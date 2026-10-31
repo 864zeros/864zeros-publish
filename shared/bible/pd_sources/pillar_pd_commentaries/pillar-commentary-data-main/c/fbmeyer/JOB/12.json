@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“God’s Paths in Deep Waters” -- Job 12:1-25\n\nJob sets himself to disprove Zophar’s contention that wickedness invariably causes insecurity in men’s dwellings; and in doing so he bitterly complains that his friends mocked at him so contemptuously. He says that they remind him of those who are glad enough of a torch when their foot is slipping in the dark, but cast it aside when they reach their quarters, Job 12:5.\n\nThose who rob are often the most prosperous, Job 12:6, and nature teaches that the animals and plants which are most sturdy in their self-assertion are most secure. Is not the vulture more secure than the dove, the lion than the ox, the shark than the dolphin, the rose than the thorn which tears it? In all such cases you cannot explain the mystery except by referring it to the will of God, whose reasons are past finding out. Similar mysteries beset human life.\n\nJob still further illustrates his point from human life, showing that the lives of counselors, judges, kings, priests, princes, and elders are exposed to the same apparent anomalies and inequalities of treatment. We know, however, that suffering is purifying to the soul, and often redemptive, as Christ’s was, for others."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 13
+ }
+}

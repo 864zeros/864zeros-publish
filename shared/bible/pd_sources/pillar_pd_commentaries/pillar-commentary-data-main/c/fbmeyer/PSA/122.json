@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 122,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joy in God’s House -- Psalms 122:1-9\n\nAs in the other psalms of the series there is here alternation between soloist and choir. In Psalms 122:1 the soloist rejoices in the proposal made to go on a pilgrimage. The chorus announces that the journey is already accomplished, Psalms 122:2-5. The Church of Christ is compacted, built together, by His tears, and blood, and risen power. In Psalms 122:6, the soloist bids the company salute Jerusalem, r.v. margin, and the chorus replies. In Psalms 122:7-9 the soloist announces three reasons why they should pray for Jerusalem’s peace: They who love her prosper; those who reside within her precincts are our brethren and companions; hers is the house of God builded for His habitation.\n\nPsalms 123:1-4 The life of the pilgrim is full of sharp contrasts. Yesterday he was rejoicing in Jerusalem and sharing her peace; today he is grieved with the contempt of her foes. Hence this tiny psalm, which has been compared to “a sigh, an upward look, a sigh.” The oriental servant is an adept at reading the meaning of his master’s slightest gesture, Psalms 123:2. Let us live, as our Savior did, with our eye fixed on the least indication of God’s will. See Acts 16:1-10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 122
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 121
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 123
+ }
+}

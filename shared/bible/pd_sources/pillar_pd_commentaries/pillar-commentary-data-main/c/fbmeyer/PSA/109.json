@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 109,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Persecutor of the Needy -- Psalms 109:1-16\n\nThis psalm is like a patch of the Sahara amid a smiling Eden. But, terrible as the words are, remember that they were written by the man who, on two occasions, spared the life of his persecutor, and who, when the field of Gilboa was wet with Saul’s life-blood, sang the loveliest of elegiacs to his memory. These maledictions do not express personal vindictiveness. Probably they should be read as depicting the doom of the wrong-doer. The Apostle, quoting this psalm, expressly says that the Spirit of Inspiration spoke before by the mouth of David, Acts 1:16. The imperative let might better be translated by the future shall. This would be in perfect conformity with Hebrew usage.\n\nNotice in Psalms 109:4 that by omitting the three words in italics, a beautiful suggestion is made of the life of prayer: But I-prayer. The only response of the psalmist to the hatred of his enemies was to give himself more absolutely to prayer. His whole being was consumed in the one intense appeal to God. Such times come to us all. Such prayers always end in praise and thanksgiving, Psalms 109:30. Happy are we who also can count on the Advocate with the Father, Psalms 109:31. Jesus prays our prayers with us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The Deliverer of the Needy -- Psalms 109:17-31\n\nThis psalm emphasizes the difference, indicated by our Lord, between His teaching and that addressed to “them of old time,” especially on the point of forgiveness. It is in such teaching as this that the psalmist’s mood is distinctly inferior to that which has now become the law for devout men. This at least may be said, that these ancient saints did not desire vengeance for private injuries, but that God’s name and character might be vindicated. Devout men could not but long for the triumph of good and the defeat and destruction of its opposite.\n\nThe closing paragraph voices some of those lowly, sad petitions for help, which occur in so many of the psalms. This combination of devout meekness and trust with the fiery imprecations or predictions at the core of this psalm, substantiates what has been said above as to the spirit in which the psalm was conceived. It is not personal, but the voice of the Church asking God to make known the righteousness of His government. The psalm begins and ends with praise. It starts by picturing an adversary at the right hand of the wicked, Psalms 109:6, and closes with assurance that Jehovah stands at the right hand of His afflicted servant to deliver him. “I have set the Lord always before me: because He is at my right hand, I shall not be moved,” Psalms 16:8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 109
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 108
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 110
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Aaron and His Sons Consecrated -- Leviticus 8:1-17\n\nHere we have our Lord’s eternal Priesthood presented in miniature. The whole congregation had to be present, because each had a claim on Aaron’s services, as each believer has a claim on Christ’s. Each portion of Aaron’s dress told of some trait or feature in Jesus’ fitness to stand for us-the girdle of His zeal; the robe and ephod of His beauty and glory; the breastplate that our names are written on His heart; the Urim and Thummim of His wisdom to direct; the miter of His holiness.\n\nThe garments of the priests, the sons of Aaron, remind us of the spotless dress in which we should be habited, ever remembering that in the lowliest act we may minister to God. We, too, must be anointed, as Jesus was, with the fresh oil of Pentecost. The identification of our Lord with His people is typically set forth in the joint laying of hands on the victims. Jesus had no sins of His own, but He bore our sins, and stood with us in the sinner’s place that He might raise us to His throne."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Offerings at Their Consecration -- Leviticus 8:18-36\n\nThe blood of the ram of consecration was used in a remarkable way, to symbolize deep truths: on Aaron’s ear to express Christ’s obedience unto death; on the right thumb, to express Christ’s willingness to do all that the Father required of Him; on the right toe, to express that all His ways pleased God. Our Lord was washed in His baptism, anointed with oil on the Mount of Transfiguration, and received the final baptism of consecration in blood on the Cross. The sons of Aaron were treated in like manner, to show that in all these things Christians are called to be like Christ. See Matthew 20:22-23. This remark specially applies to those who have been called to lead the flock.\n\nConsecration, according to the Hebrew word, means filling the hand. Too many of us suppose that the consecrated soul renounces all-nay, it receives all. The nets are full of fish; the baskets are full of the broken pieces; the soul is full of grace and glory. Let us keep the charge of the Lord till the day break, and we enter the Most Holy Place beyond the veil!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 9
+ }
+}

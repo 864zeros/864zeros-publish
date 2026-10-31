@@ -1,7 +1,7 @@
 # SignRoute Local — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/signroute/`  
 **Web Product Page:** https://864zeros.com/products/signroute  
-**Pricing Model:** $19.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Capture digital signatures via HTML5 canvas, embed verified signature stamps int
 👉 Try SignRoute Local: https://864zeros.com/products/signroute
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $19.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -36,14 +36,14 @@ DocuSign Per-Envelope Fees & Monthly Minimums — SignRoute Local #Shorts
 ```
 * **YouTube Description:**
 ```
-Tired of paying $40 every month just to collect simple internal signatures on standard agreements?
+Tired of paying one-time lifetime every month just to collect simple internal signatures on standard agreements?
 
 Meet SignRoute Local — the fast, local-first solution that solves this without messy cloud tools or broken exports.
 
 👉 Get SignRoute Local: https://864zeros.com/products/signroute
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $19.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet SignRoute Local — the fast, local-first solution that solves this without
 * **Suggested Thumbnail:** `media/products/signroute/video/thumbnail-signroute-social-price.png`
 * **YouTube Title:**
 ```
-Stop Paying $40/Month Per User for Internal Signatures — SignRoute Local #Shorts
+Stop Paying one-time lifetime nth Per User for Internal Signatures — SignRoute Local #Shorts
 ```
 * **YouTube Description:**
 ```
 Enterprise e-sign platforms charge per envelope and per user. Keep your signatures sovereign.
 
-SignRoute Local gives you complete control with a single $19.99 lifetime (no recurring monthly subscriptions).
+SignRoute Local gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get SignRoute Local: https://864zeros.com/products/signroute
 

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fidelity in Worship -- Daniel 6:1-15\n\nThough he was the most distinguished man of his day, and full of public business, Daniel managed to find time for prayer, in the evening, morning, and at noon, according to the Hebrew custom, Psalms 55:17. He was outwardly a great magnate of the Persian court, but inwardly he was as true as ever to the city of his fathers and to the Temple now in ruins, Daniel 6:10. What a marvelous tribute was afforded to his saintly character by his foes, when they could find no fault in him except as concerned his religious life! Time spent in prayer is not lost time to the suppliant. Luther used to say: “I have so much to do today that I cannot get through with less than three hours of prayer.” It was customary for the Jews to turn the face toward the Holy City, which for so long had been the center of their great religious system, 1 Kings 8:44; Jonah 2:4. With us, the upturned face and the references we make to the great High Priest, are significant of a posture of soul analogous and yet superior to the open window. See to it that your windows are always open towards the New Jerusalem, of which you are a citizen, but from which for a little while you are exiled."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "“Persecuted for Righteousness’ Sake” -- Daniel 6:16-28\n\nThe plot was an atrocious one, but it hurt its perpetrators more than the victim of their vindictive hatred, Daniel 6:24. They dug a pit into which they fell themselves. They thought to flatter the king, and secure Daniel’s fall; but their stratagems were like the mines laid at the mouth of a harbor, which are more perilous to those who set them than to others. Still God sends His angels to shut the lions’ mouths, that they may not hurt His people, strongly conscious of uprightness before God and man. It is not necessary to suppose that Daniel saw the angel any more than we behold the horses and chariots in the mountains around us. Dare to believe that the ministering angels, though unseen, engirdle you and intercept the blows and plots of your adversaries.\n\nWalk before God in righteousness and peace, and be sure that you are immortal till your work is done. That a heathen king should publish such a proclamation is a glimpse into the divine wisdom that can make His mighty power known by the strangest circumstances."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 7
+ }
+}

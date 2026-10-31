@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 75,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Putteth down and Lifteth up -- Psalms 75:1-10\n\nThis psalm dates probably from Sennacherib’s invasion, and therefore the North is omitted in Psalms 75:6, that being the quarter from which the enemy came.\n\nGod is near, Psalms 75:1-3. There are high moments in life when we realize how real and near God is. The ground on which we stand is holy. We know that we are safe in the pavilion of our Father’s care. Then we give repeated thanks, Psalms 75:1. Presently God speaks and assures us that when the earth and its inhabitants dissolve, He will sustain its pillars. What an encouragement is this, when the whole world seems about to be dissolved!\n\nTurning from God to man, the psalmist rebukes his enemies and bids them cease their arrogant talk and behavior, Psalms 75:4. The horn is the strength of certain beasts, and is a symbol of power, Deuteronomy 33:17; Daniel 7:7. But God is the supreme Ruler of men. Our position or promotion in life is His arrangement, to be held as a sacred trust for Him. Let us, amid a world in arms, be light-hearted and sing. God will take care of those who trust Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 75
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 74
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 76
+ }
+}

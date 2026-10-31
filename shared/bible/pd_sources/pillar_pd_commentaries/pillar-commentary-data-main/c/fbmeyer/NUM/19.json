@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Purification for Uncleanness -- Numbers 19:1-22\n\nWe might have expected this chapter to occur in Leviticus. Is it not incongruous in this narrative of the pilgrimage? Nay; this is the most appropriate place, since in the desert march we are more exposed to the touch of defilement, such as needs daily cleansing, lest we be shut out from fellowship with God.\n\nThe ashes of an heifer are emblematic of the work of our Lord. See Hebrews 9:13. No blemish; never a yoke; “slain without the camp,” counted an unclean thing! It was easy for the Jew to contract ceremonial defilement. To walk over a grave was enough. But the ashes of the heifer mingled with spring-or running-water restored the polluted soul to the family and the Tabernacle. So as we confess our sins, we are sprinkled from an evil conscience, we are restored to unity with God and His people, and we walk in newness of life.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 20
+ }
+}

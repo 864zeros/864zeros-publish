@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The One Essential for All -- 1 Corinthians 13:1-13\n\nWith what wonder his amanuensis must have looked up, as the Apostle broke into this exquisite sonnet on love! His radiant spirit had caught a glimpse of the living Savior. Jesus sits for His portrait in these glowing sentences, and of Him every clause is true. Substitute His name for love throughout the chapter, and say whether it is not an exact likeness. With Paul love stands for that strong, sustained, and holy subordination of self for others, which begins in will and act and is afterward suffused by emotion, as a cloud lying in the pathway of the rising sun. But if you want the divine love, you must get it after the manner of the bay which opens its bosom to the incoming tide.\n\nGod is love, and if you would love, you must abide in Him and He in you. Love is better than miracles, gifts, or philanthropy, 1 Corinthians 13:1-3. Love is the parent of all that is most delightful in the moral sphere, 1 Corinthians 13:4-7. Love is the best of all, because it is eternal. All else will perish. Our highest attainments will be as the babblings and playthings of childhood.\n\nBut when we are in touch with the reality of things, love will be all in all."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 14
+ }
+}

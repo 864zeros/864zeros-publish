@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Do All to the Glory of God” -- 1 Corinthians 10:23-33; 1 Corinthians 11:1\n\nThere seems to be a, clear distinction in the Apostle’s directions between feasting in an idol temple on the one hand, and the acceptance of an invitation to a private house, as in 1 Corinthians 10:25; 1 Corinthians 10:27, on the other. The believer in Christ knew that an idol was nothing in itself, and the fact of food having been offered before a shrine did not make it better or worse. It was a common practice, and meant nothing so far as Christian disciples were concerned. But if an unbeliever were to make the meal a test of faith, by reminding believers that in partaking of such food they were implicitly partners in heathen rites, then there was no course but to refuse and abstain.\n\nIn every meal and act we must so conduct ourselves that praise and honor may redound to God. The thankful enjoyment of God’s gifts of food, which constitutes the essence of a Christian meal, must always be subordinated to our consideration of the religious scruples of others; and we must avoid doing anything which would blunt and injure their faith. Though our intelligence may give us a wide liberty in regard to personal conduct, we must allow a check to be placed on it by the thoughtfulness of Christian love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "Covering the Head -- 1 Corinthians 11:2-10\n\nNo soul is complete in itself. The man is not complete apart from Christ, as the woman is not complete apart from man. As God is the head of the nature of Jesus on its human side, so must Jesus be head of man, and man of woman. But in each case the headship is not one of authority and rule, but of the impartation of resources of love, wisdom, and strength, without which the best cannot be realized. The covered head of woman in our sanctuaries as contrasted with the uncovered head of man is a sign and symbol of this interdependence.\n\nBut it is very interesting to notice that while the Gospel so clearly insists on the divine order, it has elevated woman to be man’s true helpmeet, and has caused her to be honored and loved as the glory of man. Neither society, nor family life, nor woman herself, can be happy unless she attains her true position. On the one hand she finds her completion in man; on the other she is his queen and he ministers to her in all gentleness and tenderness and strength."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Unity and Order in Public Assembly -- 1 Corinthians 11:11-22\n\nThe power on a woman’s head in 1 Corinthians 11:10 probably refers to the veil or covering which the Grecian woman assumed at marriage as the sign that she was not free from the sacred ties and duties of wedlock. In Paul’s thought of the matter, therefore, it was unseemly for the Christian matron to lay this aside. He conceded the absolute freedom and equality of male and female in Christ, and yet he stood for the observance of the best customs of the age, lest the gospel should be brought into disrepute. The women, therefore, must veil their heads in the Christian assemblies as the angels veil their faces in the presence of God.\n\nThe uncovered face of man is to the glory of God, but the covered face of woman recognizes that she finds her glory in her husband’s love and care. Each is dependent on the other-the man on God, and the wife on her spouse. These precepts and reasons are somewhat foreign to modern thought, but at least we must notice that there was no subject too trivial-even the headdress-to be brought into subjection to Christ and related to the great principle of His supreme Headship and Lordship."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Observing the Lord’s Supper -- 1 Corinthians 11:23-34\n\nThere was much disorder in the Corinthian church, because the love-feast, which preceded the Holy Supper, was the scene of riot and conviviality, of ostentation and jealousy. In the love-feast of the early Church each brought his own supply of food, which was put into a common stock and shared by all alike; but at Corinth each family or group retained their own provisions, and a great distinction was thus made between rich and poor. This caused much heart-burning and was unworthy of Christians.\n\nNote that the Apostle received the words of institution by direct revelation. The Lord’s Supper is intended not only to commemorate the supreme act of Calvary, but to enable us spiritually to incorporate into ourselves the very life and death of Jesus, so that we may truly be crucified with Him and nevertheless live. “That I may know Him and the fellowship of His sufferings.” We are liable to condemnation if we do not recognize the Body of Christ-that is, the Church-the unity of which is disturbed and obscured when there is dissension. If we judge ourselves, we escape the judgment and chastisement of the Almighty."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 12
+ }
+}

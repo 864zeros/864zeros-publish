@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Plot of the Ambitious Son -- 2 Samuel 15:1-12\n\nDavid’s government had become lax. Many causes were awaiting trial. Cases demanding his royal decision had accumulated. Suitors could get nothing done. Discontent was rife. The king had forfeited the former love and respect of his people. Perhaps the story of his sin had leaked out. It is thought, also, that at this time he was smitten by disease and that Psalms 41:1-13; Psalms 55:1-23 record the sufferings of those withered years. Meanwhile, Absalom was undermining the throne and dividing the heart of the people.\n\nHow soon the heart may become alienated from its rightful king! The Absaloms ingratiate themselves, and wean away our loyalty, and love from Jesus. Is there a favorite that fawns on you, and entices you to a lower level than you occupied in earlier, happier days? If so, your King may be driven from the citadel of your soul, and you may be left to mourn over the tragedy caused by the transference of your heart’s affections. Be warned ere it be too late. Deal sternly with Absalom!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Loyal Stranger -- 2 Samuel 15:13-23\n\nDavid was conscious of ill desert; hence his resolve to flee. How different his bearing now from that great hour when Goliath fell before him! Ah, conscience doth make cowards of us all! And yet there was a beautiful spirit of resignation welling up amid the salt waves of his bitter sorrow. When we are called to pass through dark hours, we cannot do better than repeat the words of this royal penitent: “Behold, here am I; let him do to me as seemeth good to him.” What thoughtfulness of Ittai! What pathos in the king’s words to Zadok! What humility as he climbed Olivet! What trust still in God to turn the counsel of Ahithophel into foolishness! It is an impressive picture of the resignation of a broken and a contrite heart.\n\nThey were noble words that Ittai uttered! His name associates him with David’s residence in Gath, among the Philistines. He was a stranger and an exile in Israel, but the king’s friendship had made a home for him. In these days of our Lord’s humiliation, let us address Him in the chivalrous and noble words of 2 Samuel 15:21. See John 12:26; 1 Thessalonians 5:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "The Friends of the Fleeing King -- 2 Samuel 15:24-37\n\nOutside the story of our Lord, the Bible records nothing more admirable than David’s behavior as he passed through this thicket of thorns. He never appeared to better advantage than during those awful days. Tribulation had wrought patience, and patience experience, and experience hope, and his hope was destined not to be ashamed. The psalms in which he embalms these experiences are the heritage of the saints. Among them are Psalms 3:1-8; Psalms 4:1-8; Psalms 26:1-12; Psalms 27:1-14; Psalms 28:1-9, and probably 62. The procession reminds us of another-only that was still more sorrowful-led by his Son and Lord, Matthew 26:1-75.\n\nAdversity sifts out the false from the true, the spurious from the genuine. The trusted counselor turns traitor, 2 Samuel 15:31; but against this must be set the loyalty of Zadok and Abiathar, and the devotion of Hushai. There are indications that Bathsheba was Ahithophel’s granddaughter. This would explain why Absalom sent for him, why he was so bitter, and why he committed suicide. The Cross has been the touchstone of trial to myriads! Have you been true to your exiled King? Let us go forth to Him without the camp, bearing his reproach! Hebrews 13:13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 16
+ }
+}

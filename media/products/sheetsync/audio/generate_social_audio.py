@@ -40,7 +40,7 @@ VARIANTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay 40 or 80 dollars a month for enterprise database sync middleware just to merge numbers across sheets?",
+            "text": "Why pay recurring subscription fees every single month for enterprise database sync middleware just to merge numbers across sheets?",
             "lead": 0.15,
             "tail": 0.25
         },

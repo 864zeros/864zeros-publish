@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Returning Good for Evil -- 1 Samuel 24:1-15\n\nEngedi is situated on the western shore of the Dead Sea. As Saul entered the cave, a very insidious temptation presented itself to David. Why not rid the kingdom of this cruel and oppressive monarch? Would it not confer a public benefit? Had not Samuel promised David the kingdom? Even if he himself did not strike the blow, why not let his men, who were not so squeamish, do so!But the man of God must not yield to such suggestions. He insisted on waiting the Lord’s own time. He would not anticipate, by a single hour, the fulfillment of the great word on which he had been taught to rest through these weary years. The sensitiveness of his conscience was indicated in his compunction at having cut off a piece of the royal robe.\n\nNever forget that opportunity does not make a wrong thing right. That the ship was waiting to sail to Tarshish did not make it right for Jonah to take passage. Our actions must not be determined by the opening of the door of circumstance, but by conscience, faith, obedience, and the high sense of Christian honor."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Kindness Wakens a Better Spirit -- 1 Samuel 24:16-22; 1 Samuel 25:1\n\nDavid’s noble self-restraint, followed as it was by no less noble words, awoke the best side of Saul’s nature. Chords began to vibrate that had long been silent. The memory of happier days, before their intercourse had become clouded by jealousy and hatred, came trooping back, and Saul was himself again. Indeed, David’s appeal called forth from Saul a confession of his sin; and he went so far as to ask David to spare his house in the coming days, when David would assuredly be king. But, as the sequel proved, this better spirit was but temporary. It was a change of mood, not of will. Let us not form the habit of trusting in our emotional life. Nothing is permanent save the will that is energized by the will of God. Psalms 142:1-7 throws a light on David’s state of heart at this period.\n\nThe death of a good man is a serious loss at any time, but to Israel, governed by a cruel, wayward king, Samuel’s death was cause for special lamentation. His holy life, his fearless denunciation of wrong, his self-sacrifice for the people’s welfare, and especially his power in intercessory prayer, made him one of the most important national assets. Let us so live that we may be missed when we go home!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 25
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "fbmeyer",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Vision of God’s Majesty -- Ezekiel 1:1-21\n\nA dark storm-cloud approaches the prophet, from which an incessant blaze of lightning scintillated. As it drew near, the forms of four living creatures became visible, combining, under various figures, intelligence, strength, patience, and soaring aspiration. The wheels were evidently symbolical of the cycles of divine providence, which cooperate with the ministers of the divine will. The slab of blue expanse supported a human semblance, suggestive of that great after-event-God manifest in the flesh. The whole conception impresses us with the reality, order, majesty, and humanness, of the Eternal God. Those holy beings surely represent the intelligent company of innumerable angels and servants, while the wheels represent the material creation.\n\nAll these are sent forth to minister to the heirs of salvation. Angels and nature minister to us, if we are in union with God. All things serve the servants of the Most High."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 2
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 53,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sinners All-God Alone Can Help -- Psalms 53:1-6; Psalms 54:1-7\n\nThat Psalms 53:1-6 should be a repetition of Psa 14:1-7, with very few variations, suggests, as does the “verily, verily” of Christ, that the truths contained in these words are worthy of special attention. They supply the Apostle, in Romans 3:1-31, with his phraseology for describing the state of the ungodly before the searching eye of Omniscience.\n\nWe have here a photograph of the human heart. Jew and Gentile are alike in their innermost texture. There is nothing to choose between the Pharisee and the publican, except when either turns the balance by humble confession, as in Luke 18:9, etc.\n\nPsalms 54:1-7 is probably founded on 1 Samuel 23:19. It is short, as if compressed by the urgency of David’s need. Evidently he was in sore straits, though conscious of the rectitude of his cause. Notice how he makes his transition from prayer to praise, Psalms 54:4. He affirms, in spite of everything, that God is still his helper. He hears the approaching footsteps of those who are pledged to uphold Him, and God is with them. As he speaks thus in the confidence of faith, the storm clears away. He is delivered; his eye has seen the defeat of his foes."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 53
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 52
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 54
+ }
+}

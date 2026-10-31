@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Great Leader’s Exodus -- Deuteronomy 34:1-12\n\nWhat inimitable beauty in this closing scene! The majestic withdrawal of the illustrious Lawgiver in view of the assembled nation! The panorama that greeted his undimmed gaze! The Lord’s showing of it to him! The kiss, according to the ancient tradition, in which his spirit passed rapturously to its reward! The burial of his body with proper honor, Jude 1:9! Well might the people weep!\n\nThere is dispensational truth here also. Moses represented God’s Law, which never shows signs of age; but it cannot lead the soul into the rest of God, nor give victory over our spiritual foes. For the world and each soul Moses must give place to Joshua-that is, Jesus.Be ours that face to face fellowship, that doing of His will, those divine credentials of the mighty hand, of deeds wrought in God! Psalms 90:16-17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 1
+ }
+}

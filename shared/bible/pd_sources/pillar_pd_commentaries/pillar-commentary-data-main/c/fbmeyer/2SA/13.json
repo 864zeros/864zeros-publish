@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sin in David’s Household -- 2 Samuel 13:1-14\n\nThe law of Moses clearly forbade the union which Amnon sought, Leviticus 18:11. It was an infamous passion, and the suggestion of Jonadab, if it was any reflection of his father’s character, would show why the Lord had said of Shammah, “Neither hath the Lord chosen this,” 1 Samuel 16:9. Passion is deaf to the remonstrances and pleadings of its victim, and strangles pity and honor. Let us walk in the Spirit, that he may save us from ourselves; for there is no knowing to what lengths we may go if not kept by the grace of God.\n\nIt seems difficult to believe that this was the home-life of the man that wrote the Psalms. It had been better to remain in the valley of the wild goat than amid the luxury of Jerusalem, which made so great an inroad upon the peace and purity of his home. We prosper better amid the bleak climate of the mountains than in the enervating atmosphere of the plains.\n\nThus David’s sin began to bear the entail of misery to his own household. None of us can limit the far-reaching harvests of the seeds that we drop upon the flowing stream."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Absalom Executes Judgment -- 2 Samuel 13:15-27\n\nWhen men yield to irregular passion, they go from one extreme to the other-from wicked love to wicked hate. If women would but realize this, how often it would save them from lives of misery. To yield to a man’s impulse is not to secure his loyalty, but to alienate and perhaps destroy it.\n\nAbsalom was Tamar’s own brother and, since her father had failed her, was therefore her natural protector. Recommending her to hold her peace, Absalom quietly awaited a suitable opportunity for wreaking vengeance; but she, poor girl, had to face a blighted life. The crime of her betrayal would hang over it as a dark cloud which even the vengeance that Absalom was about to take could never remove. How many myriads of girls have had to face the same sad lot!\n\nIt was David’s duty, as her father, to punish the evildoer. The law enjoined the penalty of death for such an offense, Leviticus 18:9; Leviticus 18:29. But David’s hands were not clean. He had himself incurred the same penalty, and could not condemn in another what he had condoned in himself. Besides this, the Septuagint adds, “he loved Amnon, because he was his first-born.” How tortuous are the ways of sin!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Absalom Flees While David Mourns -- 2 Samuel 13:28-39\n\nFor two years Absalom nursed his anger. Time did not alter his resolve, though it lulled to sleep any suspicion that might have been excited if he had taken immediate steps to get Amnon into his power. Then came the festival of a sheep-shearing, the enticement of Amnon from the shelter of the palace and his murder, the rumor that reached David, and the flight of the murderer to his mother’s father, Talmai, the king of Geshur. Of course, if David had insisted upon his surrender, Absalom would have had to be handed over for punishment; but again, the memory of his own sin withheld David’s hand. Had he not treacherously plotted Uriah’s death! How could he punish the avenger of a sister’s wrong! His own sin had come home to roost.\n\nThe punishment of sin is much more swift and certain than many seem to suppose, not only in the next life, but also in this. We need not climb the throne to exercise vengeance. That is God’s part, and it is carried out by the inevitable working of law. What a man sows, he is invariably called to reap."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 14
+ }
+}

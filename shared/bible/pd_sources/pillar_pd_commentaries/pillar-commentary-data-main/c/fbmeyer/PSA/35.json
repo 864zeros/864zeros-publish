@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rescuing the Poor and Needy -- Psalms 35:1-17\n\nThis psalm dates from the Sauline persecution, or else from the disturbed condition of the kingdom in David’s later years. Each of the three divisions into which the psalm naturally falls ends with praise, Psalms 35:9; Psalms 35:18; Psalms 35:28.\n\nThroughout the psalm we meet with strong imprecations on the wicked. The spirit of the New Testament inculcates a higher law of love and forgiveness, Luke 9:55-56. Therefore our Lord rebuked His Apostles when they called for fire from heaven. He said: “You do not understand that you have passed out of the Old Covenant into the New.” It has been suggested that the maledictions of these verses should be read as predictions. Thus, “Let them be confounded” would read, “They will be confounded.” “Their way will be dark and slippery.” “The angel of the Lord will oppose them,” etc.\n\nWhat a thrill passes through the soul when God whispers the assurance, I am thy salvation! “Who is like unto thee!” Exodus 15:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "An Appeal to the Righteous Judge -- Psalms 35:18-28\n\nPsalms 35:20 : “The Quiet in the Land” was the title adopted by holy men and women in Germany, during long dark days when religion was under an eclipse. It is beautifully appropriate to those whose life is “hid with Christ in God.” “We are in Him that is true,” Colossians 3:1-4; 1 John 5:20.\n\nPsalms 35:24 : Judge me, O Lord! What a comfort it is to appeal from the judgments of men to the bar of God! We know that the soul’s Advocate there will plead its cause with the eloquence of love. His interposition and vindication will clear us. God has seen! God will not keep silence! He is not far away!\n\nPsalms 35:27-28 : We desire that others should join us in praise. “One seraph cried to another” in Isaiah’s vision. There should be a holy emulation in thanksgiving. Oh, that the resolution of the psalmist might characterize us all; and that all our days might be full of praise, instead of the constant murmuring and complaining which are so rife even among God’s children!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 36
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“A Throne Set in Heaven” -- Revelation 4:1-11\n\nThe vision of the ascended Lord introduced the seven letters to the churches, so the visions of this and the next chapters introduce the seven seals. They resemble the frontispiece or illuminated capitals of the old missals. There is no form for the Divine Being. God is Spirit, and His glory can only be hinted at by appropriate imagery. His being should excite emotions in our spirit similar to those which these objects excite in our mind. The jasper with its transparent brilliance, the sardine or cornelian with its fiery red, the emerald with its refreshing beauty, are laid under contribution to describe what cannot be described.\n\nThe throne bespeaks majestic authority and power. The worship of the elders reflects that of Israel and the Church, Revelation 21:12; Revelation 21:14; the thunder, God’s awful holiness; the seven lamps, the searching, cleansing purity of His Spirit; the glassy sea, the mystery of His ways; the four living creatures, the homage of creation.\n\nHere is the song of creation, Revelation 4:11. Originally all things did the will of God, and if creation is now subject to vanity, some day it will be delivered into the glorious liberty of the sons of God, and God’s will shall be done on earth as it is in heaven. Notice that the will of God brought all things into existence, and that that will guarantees their ultimate redemption."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 5
+ }
+}

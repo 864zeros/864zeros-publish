@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "20-25, the Parable of the Girdle -- Jeremiah 13:1-11\n\nThis parable of the girdle may really have been transacted. By some such striking symbol before them the attention of the people must have been powerfully arrested. Or, it may be that this is only a vivid style of presentation. Whichever it is, the chief idea is the intimacy of relationship between the Chosen People and their God, Jeremiah 13:11. Oh, that He would cause us to cleave to Him! The degradation of the best produces the worst, and nothing more strikingly sets forth the condition to which those may sink who have abused the highest possibilities, than the condition of this marred and profitless girdle. Let us beware! since capable of God’s best and highest, we are also liable to the weeping and wailing and gnashing of teeth.\n\nJerusalem is apostrophized, and asked where was the beautiful flock of sister and daughter towns which had gathered under her lead. They had been destroyed, and their people were in captivity. Their destruction had come from those who had been allies and friends, Jeremiah 13:21; but their sin was so deeply seated and inveterate that such a fate was inevitable. There was no hope of reformation, Jeremiah 13:23. It was easier to expect a negro to become white, or for a leopard to change his spots than that Israel should do good. Only Christ can do this for us. He can with a word arrest a Niagara in its fall and bid it leap back. His grace can cause the leprosy of inbred sin to cease its hold, never again to pollute the soul."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 17
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Revelation of Jesus Christ -- Revelation 1:1-8\n\nIn His capacity as mediator, our Lord receives from the Father and transmits to His servants, that they may in turn transmit to the world of men, the great panorama of the future, known to Him from before the foundation of the world. Let us not miss the special benediction which is attached to the patient reading and consideration of this wonderful book.\n\nThe seven churches represent the one Church under different phases and possibly in successive stages of its history; the letters addressed to them are therefore universally applicable. Notice the august reference to the Holy Trinity-the eternal Father, the sevenfold Spirit, and our Lord. Our Lord bore a faithful witness even to death; that death was a birth into the risen life, as ours may be; all kings are His vassals.\n\nHow wonderful it is to be told in the next verse that He loves us, and has not only washed, but loosed us, as though He had broken the terrible entail. “He breaks the power of canceled sin.” Jesus often comes with clouds. We cannot understand His dealings with us, yet those clouds are gold with His light. So He shall come at last. As Alpha He begins, but He never begins without carrying into full effect His purpose as our Omega."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "From the Living Lord to the Churches -- Revelation 1:9-20\n\nThe tribulation and patience of Jesus are essential conditions of His Kingdom. We cannot exert the divine energies of the latter, unless we are willing to take our share of the former. There should be no Lord’s Day without our definite claim to be in the Spirit; and if we are in the Spirit, every day is a day of the Lord. The seven churches are distinct in their several characteristics, but one in their blended light.\n\nHere is variety, but unity. Jesus was in the midst on the Cross; He is in the midst where two or three are gathered; He is the Lamb “in the midst of the throne” but He is, also in the midst of the collective life of the Church in her earthly ministry and warfare.\n\nThe manifestation of His glory may overwhelm our mortality, but the touch of His pierced hand encourages the soul. His favorite assurance is, Fear not. Here is life in its threefold aspect! In its original source, first and last. In its triumph over death-I became dead. In its eternal reign-I am alive for evermore. The things which John had seen are probably comprehended in this chapter; “the things which are” in Revelation 2:1-29; Revelation 3:1-22; and the things which are to come to pass in the remainder of this book."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JUD",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 2
+ }
+}

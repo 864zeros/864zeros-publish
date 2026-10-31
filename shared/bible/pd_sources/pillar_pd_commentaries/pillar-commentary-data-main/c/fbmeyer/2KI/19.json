@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Facing the Enemy’s Threatenings -- 2 Kings 19:1-13\n\nThat bowed form of Hezekiah before the altar of God, while his servants and elders were conferring with Isaiah, is a beautiful emblem of the true way of meeting trouble. And it is very blessed when our cause is so closely identified with God’s that we can appeal to Him to intervene for His own sake, 2 Kings 19:4.\n\nAll through this crisis, Isaiah acted the part of a patriot and a saint. His intrepid figure stands out in bold relief amid the storm. He even dared to compose a funeral ode for the burial of this imperious tyrant. In all literature there is nothing more sublime than Isaiah 10:11-14. When bitter and threatening words are flung at us, let us go up to the house of God. See Psalms 73:17. Let us get in touch with some holy soul, of the type of Isaiah, and ask for his prayers on our behalf. The prayer of a righteous man is very effectual. To stand in God’s secret place is to be in the calm center of the cyclone. Around us the elements may rage and the people imagine a vain thing; but they shall pass away as the chaff of the threshing-floor, while not a hair of our head shall perish."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Spreading the Case before the Lord -- 2 Kings 19:14-24\n\nThat bowed form of King Hezekiah, kneeling before God with this insolent and blasphemous effusion spread out before him, is a beautiful suggestion of our duty under similar circumstances. When we receive letters of rebuke and unkindness, whether they are signed or anonymous, let us treat them as Hezekiah treated this one. Let us spread them before God, and plead with Him to interpose for His holy Name’s sake. How blessed it is when our lot is so identified with God’s that we can forget ourselves in the one sincere desire that His character shall be vindicated and His Name honored! The selfish element has been so strong in our praying and doing!\n\nIn all Scripture there is nothing finer than the magnificent answer to Sennacherib’s challenge which God gave through Isaiah. The phrase, “virgin daughter,” fittingly indicates that the foreign invader was not to set his foot in the Holy City. Listen to her gleeful laughter, as strong in the Lord of hosts, she derides her foes, 2 Kings 19:21, etc. But that faith may be ours. Others who have not made God their trust are like the green herb that withers in the drought: but they who are planted in God send their roots deep down to the moist earth and draw perennial freshness and strength."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The Answer of the King of Kings -- 2 Kings 19:25-37\n\nThese verses, taken with Isaiah 10:5-15, form a most suggestive and sublime comment on the words, “the Lord reigneth.” They show us God using the Assyrian as “the rod of His anger,” and working personally and mightily through the politics of the world. Isaiah’s faith, through all this terrible crisis, was the one bulwark behind which king and people lay entrenched. What a gift one such man is to an entire people! His heart is fixed, trusting in the Lord, and he cannot be made afraid by evil tidings.\n\nIt has been suggested that this was a Sabbatic year, the produce of which sufficed for two years, 2 Kings 19:29. In any case, the Sabbatic peace and calm had entered Isaiah’s soul. They who have learned to stay themselves on God may sing triumphal odes, in sure conviction of coming victory. Thus, also, it befell. The angel of God’s deliverance wrought through some terrible outbreak of plague, and thus the tents were strewn with the silent corpses of men who had yesterday been full of manly vigor. The Lord was Judge, Lawgiver, and King; and saved His people, as the mother-bird, with outspread wing, protects her brood against the hawk. God’s presence, like an invisible river, surrounded and saved His people. “The Lord of hosts is with us; the God of Jacob is our refuge,” Psalms 46:11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 20
+ }
+}

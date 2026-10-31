@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAL",
+  "commentaryId": "fbmeyer",
+  "name": "Malachi",
+  "commonName": "Malachi",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sincerity of Worship Sought -- Malachi 1:1-14\n\nThe love referred to in these opening Malachi 1:1-5, was exemplified in the divine choice, that through Israel the whole world might be blessed. Hate does not mean positive dislike but a forfeiture of the supreme place of privilege and ministry. Esau’s sensuous nature preferred the mess of pottage to the birthright, and this was characteristic of his people. In Malachi 1:6-14 the prophet turns to the priests. They despised God’s name and without scruple offered on his altar the lame, the blind, and the sick. They did not hesitate to speak of the routine of Levitical service as a weariness.\n\nNotice the pathetic appeal of Mal 1:10, r.v., “Oh that there were one to shut the doors of my house, that ye might not offer vain sacrifices!” In contrast to this indifference, the truly marvelous outlook in Malachi 1:11 is very significant. Far away from Jewish altars, God’s name was revered in Gentile lands, and sacrifices were offered which He accepted. The words remind us of Act 10:34-35."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAL",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAL",
+  "chapter": 2
+ }
+}

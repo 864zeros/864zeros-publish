@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "fbmeyer",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jerusalem’s Day of Mourning -- Zechariah 12:1-14\n\nThis vision refers to a time yet future, when the Jews shall have returned to their own land, but still in unbelief; and will be assailed by their foes, though in vain, Zechariah 12:2-3; Zechariah 12:6. The Lord will defend them, Zechariah 12:7-8. Then the nation will mourn. Their repentance will be universal, from the highest to the lowest; lonely, and on account of the sufferings they inflicted on Jesus. The Agent of this mourning will be the Holy Spirit; and it will eventuate in the full forgiveness of sin through the blood of atonement and an entire cleansing from idols."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 13
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Offerings for Atonement Day -- Leviticus 16:1-14\n\nThis chapter contains the ritual of the great Day of Atonement, when the high priest entered within the veil, and in virtue of the blood sprinkled upon the mercy seat, and still more of the faith exercised therein, Israel was cleansed from every sin before the Lord, Leviticus 16:30. The death of his two sons acted as a solemn warning that Aaron should not deviate from the prescribed ceremonial in the smallest particular.\n\nEvery step is worthy of notice, each illustrates some feature in the sacrifice of Calvary, each is meant by the Holy Spirit of God to signify something. See Hebrews 9:8-9. The first goat was “for the Lord,” representing the work of Christ in its Godward aspect. The second, like the second bird in Leviticus 14:6, signified its manward aspect. It is necessary that we should personally avail ourselves of its efficacy. Our faith must “lay its hand on that dear head of thine!” It was necessary that Aaron, as himself a sinner, must first offer for his own sins; and his offerings had to be repeated every year. See the triumphant contrast of Heb 9:24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Scapegoat -- Leviticus 16:15-34\n\nThe loneliness of the high priest, Leviticus 16:17; the sprinkling of blood within the veil upon the mercy seat, Leviticus 16:16; the fragrant incense, emblematic of a well-pleasing offering, Leviticus 16:13; the confession of sin and its bearing-away into a solitary land, Leviticus 16:22; the linen garments of simplicity and humility, Leviticus 16:23; the destruction of the carcasses of the beasts “without the camp,” Leviticus 16:27; the ultimate coming forth of the high priest to bless the people, bringing them the assurance of a finished and accepted work, Leviticus 16:24, compare Hebrews 9:28 all these points are carefully elaborated in the Epistle to the Hebrews.\n\nThe fate of the scapegoat was very moving! Laden with the sins of the people, it is led forth through the crowd of penitents, innocent yet execrated, dumb yet eloquent of the doom of the sin bearer, escaping death by the knife, to be forsaken even unto death! So Jesus died, with the cry of “Forsaken” on His lips."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 17
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Exalted in Judgment -- Isaiah 33:1-12\n\nHere we have the final prediction against Sennacherib. He had dealt very treacherously by returning against Jerusalem, though he had taken a heavy ransom to leave it unmolested, 2 Kings 18:16. In Isaiah 33:2 Isaiah recalls the daily prayer offered by the priests in the Temple, when they heard of the steady advance of the foe. It was quite true that nations had fled before the dreaded Assyrian, Isaiah 33:3; but in this case those precedents would be reversed, Isaiah 33:4, because the Lord would appear for His people, Isaiah 33:5. That was a sweet assurance that the prophet gave to Hezekiah in Isaiah 33:6 -to sustain his spirit through the strain of the invasion described in Isaiah 33:7-8. God always gives us a promise on the eve of trial.\n\nHe victuals His ships ere He exposes them to the storm. Though God sometimes seems to sleep yet when the hour strikes for the deliverance of His people, He will not tarry for a single moment. Be of good cheer; He will ride upon the wings of the wind to succor you!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Reward of the Righteous -- Isaiah 33:13-24\n\nThe devouring fire and everlasting burnings of Isa 33:14 are clearly the emblems of the divine presence. The righteous dwell in God as the bush which was baptized in the Shekinah-glory and was not consumed. The fire of His holy presence makes them holy at the same time that it protects them from their enemies. Compare with Psalms 15:1-5. They are characterized by their walk, speech, the closed fist, the stopped ears, and the shut eyes. They dwell in heights which are inaccessible to the foe, and no oppressor can cut off their supplies of hidden manna or water of life.\n\nHezekiah, Isaiah predicts in Isaiah 33:17, would soon put off his sackcloth, and the citizens would cease to be penned up in a beleaguered city. They should recall the terror of that hour as a bad dream, recalled to be dismissed and forgotten. Zion had no river, but God would be all that a river was to other cities, without the disadvantages of navigable water which might serve for the passage of a hostile fleet. Be sure to make God your judge, lawgiver, and king. Then, notwithstanding that you limp in weakness, you shall gather your share in the great spoils of victory."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 34
+ }
+}

@@ -1,7 +1,7 @@
 # Form2Docx Local — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/form2docx/`  
 **Web Product Page:** https://864zeros.com/products/form2docx  
-**Pricing Model:** $14.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Merge Google Forms submissions into customized Google Docs and downloadable PDFs
 👉 Try Form2Docx Local: https://864zeros.com/products/form2docx
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet Form2Docx Local — the fast, local-first solution that solves this without
 👉 Get Form2Docx Local: https://864zeros.com/products/form2docx
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -61,9 +61,9 @@ Document Generation SaaS Charging Monthly Per Seat — Form2Docx Local #Shorts
 ```
 * **YouTube Description:**
 ```
-Document generation tools charging $20/month per seat? Generate infinite documents inside your Drive forever.
+Document generation tools charging one-time lifetime nth per seat? Generate infinite documents inside your Drive forever.
 
-Form2Docx Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
+Form2Docx Local gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get Form2Docx Local: https://864zeros.com/products/form2docx
 

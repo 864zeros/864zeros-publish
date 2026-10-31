@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GAL",
+  "commentaryId": "fbmeyer",
+  "name": "Galatians",
+  "commonName": "Galatians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Hold Fast Your Freedom -- Galatians 5:1-12\n\nWe are free. The Son has made us free, and we are free indeed, though not free to disobey the dictates and promptings of our new nature. We are set free from minute prescriptions, from priestly rules and requisitions, from all that would cramp and hinder our spiritual development; but we are still under the law of Christ, who will see to it that the essential righteousness of the Mosaic law is fulfilled in us, “who walk not after the flesh, but after the Spirit,” Romans 8:1.\n\nIf the Mosaic law is kept as a means of salvation, we must fulfill it all, Galatians 5:3. For himself, as “we” suggests, Galatians 5:5, Paul had an assured confidence that his hope could not be disappointed. Christ is ever calling us upward, Galatians 5:8. Be on guard against the ferment of false teaching, Galatians 5:9. The Apostle shows the absurdity of supposing that he was in favor of circumcision, since, if that were the case, the long persecution of his life would cease, Galatians 5:11. These verses were in Bunyan’s mind when he depicted Mr. Worldly Wiseman, of the town of Carnal Policy, as endeavoring to turn Christian out of the Way of the Cross to the house of Mr. Legality."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Produce the Fruit of the Spirit -- Galatians 5:13-26\n\nThat Christ has freed us from the Law as a means of salvation does not free us from moral restraint, but brings us under the constraint of a higher law, the law of love. We do not keep this law to be saved; but, being saved, we keep it out of love toward Christ. The power of the new life is the indwelling of the Holy Spirit. Unite yourself with His life that you find rising up within you. Live in the Spirit. A child was much disappointed because when she took a cupful of water out of the blue lake, it did not look blue in the cup; so her teacher told her to throw the cup into the midst of the lake and leave it there. As we live and walk in the Spirit, we are safe.\n\nThe Holy Spirit brings influences to bear which act upon the germs of sin, as a disinfectant upon the germs of disease. If we yield ourselves to these influences, and are filled with the Spirit of Jesus, we shall be delivered from the self-life, which the Apostle describes as the flesh. As Jesus is more and more formed in us, the new flower and fruitage of the risen life will appear, while the corrupt works of the flesh will shrink and drop away,"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 6
+ }
+}

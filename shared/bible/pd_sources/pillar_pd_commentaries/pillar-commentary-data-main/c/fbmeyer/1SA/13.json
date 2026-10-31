@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Saul’s First Act of Folly -- 1 Samuel 13:1-12\n\nThe story of a great tragedy! Here was the overcasting of a bright sunrise. The king was certainly subjected to a tremendous test. He had been bidden to wait until Samuel came, before offering the sacrifice, because from the first it was understood that Saul was on the throne only as the nominee and vicegerent of Jehovah. And Saul did wait, with growing impatience, for seven weary days; then, when the allotted period had nearly expired, he “forced” himself and offered the sacrifice. Apparently he had done this within half-an-hour of Samuel’s arrival, because the offering would hardly have taken longer.\n\nThe one lesson for us is that the man after God’s own heart will obey God to the uttermost, will wait till the last moment with assured faith, will dare to stand amid a dwindling army and with disaster imminent for the lack of marching-orders. Man thinks God slow, behind the appointed time, and forgetful. Nay, but God is waiting to be gracious-waiting for the precise moment when He can intervene with most effect, Isaiah 30:15; Isaiah 30:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Left in the Spoilers’ Hands -- 1 Samuel 13:13-23\n\nSternly and sorrowfully the old prophet pronounced the sentence of Saul’s deposition, and suggested that already God had sought and found another prince for his people. In Jesse’s home was found the stripling who in after-years would say: “Wait on the Lord: be of good courage and He shall strengthen thy heart: wait, I say, on the Lord,” Psalms 27:14.\n\nWait thou thy Lord’s leisure! Bid thy heart stay its feverish beating, and thy pulse subside! To act prematurely and in self-will would mar the divine purpose, and set in motion stones that could not be slopped. “Let your moderation be known unto all men; the Lord is at hand.” Never say, “Circumstances compelled me; I had to do it: my hand was forced” ! No, child of God, thou art greater than circumstances and superior to the crowd of base spirits around thee. Wait thou on God, for He shall yet interpose in thy behalf. Allow no circumstances to provoke or excuse the doing of evil. In quietness and confidence shall be thy strength; in returning and rest shall thou be saved."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 14
+ }
+}

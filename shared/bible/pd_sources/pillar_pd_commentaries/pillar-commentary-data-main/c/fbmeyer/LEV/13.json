@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Test of Leprosy -- Leviticus 13:1-17\n\nLeprosy was a sort of living death, involving exclusion from the fellowship of the living, and from the sanctuary. Consequently the process of restoration consisted of two stages: re-admission, through the cure of disease, into the fellowship of the living, Leviticus 13:1-59, and then to the camp and sanctuary, through the due performance of prescribed rites, Leviticus 14:1-32. The enumeration of the symptoms is very deliberate. The priest was required to conduct his examination with the greatest care, lest he should pronounce that to be leprosy which was not really so.\n\nHow different this to the sweeping and hasty judgments that we pass on each other! We judge by appearances only, and are not especially concerned to judge righteously. Sin, of which leprosy is the type, is not a superficial disease; it is “deeper than the skin.” See Leviticus 13:3-4; Leviticus 13:25; Leviticus 13:30-32; Leviticus 13:34. They who know us best are not aware of the secret springs of impure motive, and the polluted things that hold empire within the soul. But the body of sin must be brought to an end at the Cross. See Romans 6:6."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 14
+ }
+}

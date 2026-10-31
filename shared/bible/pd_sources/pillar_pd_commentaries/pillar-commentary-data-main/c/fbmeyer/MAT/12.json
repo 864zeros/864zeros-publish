@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Right Use of the Sabbath -- Matthew 12:1-14\n\nThe Pharisees had introduced a large number of minute and absurd restrictions on Sabbath observance; so our Lord set Himself to recover the day of rest for the use of the people. He never hesitated, therefore, to work miracles of healing on that day, and so set at defiance the Pharisees and their evil amendments. He contended also that all ritual observance must take the secondary place, and that the primary concern must always be the deep and pressing claims of humanity. Thus it was perfectly legitimate for David to eat the showbread.\n\nEven if a sheep should fall into a pit on the Sabbath, it would be lifted out by the most punctilious of ritualists. How absurd and illogical it was to prohibit deliverance to this man with his withered hand! Notice that this man’s condition is symbolic of many who pose as good Christians, but do nothing. They have the power, but do not use it and it becomes atrophied. That power can be given back by Jesus. Dare to act and you will find yourself able to act."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Testimony of Deeds of Mercy -- Matthew 12:15-23\n\nA reed is not of much account. You may see hundreds of them encircling a stagnant pond and bending before the breeze. A bruised reed is still more worthless to the eye of the world. Yet the Master does not despise a bruised or broken reed. No, He bends over it and tries to restore its shape. He makes out of it a reed-organ for music, or the paper manufacturers weave it into paper on which are printed His messages.\n\nFlax does not burn readily. It only smolders. The spark runs feebly up the fibers; and anything like a flame is impossible. Such is our poor love. It sometimes seems but a spark. Yet Jesus does not despise it. So far from quenching it, He breathes on it, places it in the oxygen of His love, and screens it from the wind that would extinguish it.\n\nHow gentle, quiet and unobtrusive is our Master’s behavior! He is so frugal of His resources, so careful that nothing be wasted, so eager to make the most of us. And it is out of such materials that He makes His ever-victorious army."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Slander from Evil Hearts -- Matthew 12:24-37\n\nSpite and hatred absolutely blind the eyes and distort the judgment. They reached their climax in this effort of the Pharisees to discredit Christ. They could not deny His miracles, so they imputed them to a collusion between Him and Satan. On the face of it, this charge was absurd. But our Lord showed clearly that in making the allegation, His enemies were violating their spiritual sense and deliberately blinding their eyes and dulling their ears to God’s Spirit. This is the sin that hath never forgiveness, because the soul that acts thus ceases to wish for or seek it.\n\nWhat a glimpse is given of our Savior’s sore temptations and glorious victory in Matthew 12:29! He had already bound the strong man, and for this reason was able to spoil his house and deliver his captives. Let Jesus into your heart, and no foe, though he may batter the door, shall break in to destroy!\n\nThe one test that Jesus proposes is fruit. The nature of a man or doctrine or movement can be rightly estimated only when the results have had time to develop. How splendidly Christianity has stood this test!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Opposing or Doing God’s Will -- Matthew 12:38-50\n\nIt was an evil and adulterous age. It had no spiritual appreciation, and was intent on getting an outward and sensible sign. Nineveh itself would have condemned it. The queen of Sheba, without the advantage attaching to the Hebrew race, appreciated Solomon; but the people of this generation had no appreciation of the Christ. They were nearing the last days of corruption and reprobation. They were a deserted palace given over to demons. Seven demons possessed them and urged them, as they did the swine in Matthew 8:31, to destruction.\n\nBut amid the general apostasy, there were faithful souls who recognized Jesus as the Son of God and drew near to hear His words. They recognized His kinship to the Father and revealed their kinship to Him. Let us not look back to Nazareth and Bethany with longing eyes. See Solomon’s Son 8:1-2. We are privileged to occupy a closer relationship than that of natural birth. See John 1:12-13; Galatians 4:1-6; Romans 8:16. O Brother Christ, make us more like thee!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 13
+ }
+}

@@ -38,7 +38,7 @@ SCRIPTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay twelve dollars every single month to QR generator SaaS tools just for static codes?",
+            "text": "Why pay recurring subscription fees every single month to QR generator SaaS tools just for static codes?",
             "lead": 0.25,
             "tail": 0.35
         },

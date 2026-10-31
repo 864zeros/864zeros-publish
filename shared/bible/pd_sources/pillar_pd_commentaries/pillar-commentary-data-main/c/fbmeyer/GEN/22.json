@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abraham Ready to Offer Isaac -- Genesis 22:1-13\n\nFaith must be proved. Only in trial does she put forth her strength or dare the impossible. Satan tempts to bring forth the bad, God to call forth into exercise our highest and best. God went every step of the way with His servant, who was called into closer fellowship with himself than any other of the human race. Moriah was a miniature of Calvary, where God spared not His only Son. Abraham’s obedience was immediate.\n\nHe arose early in the morning. It was exact. It was performed in the spirit of worship. It was contagious, for Isaac used the same expression to his father, as he to God-“Here am I.” Apparently he had no need to acquaint Sarah with the object of his journey; he was so sure that the divine promise could not fail. He said to his young men, “We will come unto you.” If it were necessary, he knew that God would raise him from the dead. See Hebrews 11:19.\n\nIsaac asked, “Where is the lamb?” John the Baptist answered in John 1:29."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Promise Sealed with an Oath -- Genesis 22:14-24\n\nIt was only at the last moment that the ram was shown and substituted. It is when we get to the mount of sacrifice that God’s deliverance is seen. It was when Pharaoh had almost overtaken Israel that their way was cleft through the Red Sea. It was in the early dawn that Jesus came walking on the water. The angel delivered Peter just before the time of his execution. God is never a moment too soon, or too late.\n\nWhat an outburst of blessing! It was a perfect cloudburst! When we have obeyed God to the uttermost and glorified Him in the fires, there is no limit to the fruit-fullness or increase with which we shall become enriched. God puts His key into the hands of the faith that absolutely trusts Him, saying, “Take what you will.” Let us not forget that, as the children of Abraham by faith, we are His heirs, and may reverently lay claim to a share in these glorious promises. See Galatians 3:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 23
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Better Day Dawns -- 1 Kings 15:1-15\n\nAgain we meet with those references to David that we found in the previous chapter. See 1 Kings 15:3-5; 1 Kings 15:11. His name lingers as sweet fragrance in the air, or as the after-glow of sundown. But Abijam’s mother was descended from Absalom, and it is hardly surprising that the unhappy ancestry conflicted with the other and holier influence. Though the lamp burned low, however, it was not entirely extinguished. What a pathetic touch that is in 1 Kings 15:5! One moment of passion may be a long regret to God and to the soul! Yet there is forgiveness with God, that He may be feared, Psalms 130:4.\n\nFor Asa’s reign, we must turn to the book of Chronicles, where further evidence is given of his truly religious character-at least during the earlier portion of his rule. Even his grandmother was removed from her position. Compare 1 Kings 15:2; 1 Kings 10:1-29; the words father and mother are used loosely, as may be seen in 1 Kings 15:3. On the whole, Asa’s policy was directed to the overthrow of the heathen worship, but he seems to have shrunk from a root-and-branch extermination of the evil, 1 Kings 15:14; and the result was personal deterioration and the springing up again of idolatry. Our Lord asks us never to compromise. The right hand that offends must be cut off. The brood of the viper must be stamped out to the last egg."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Warring Brethren -- 1 Kings 15:16-34\n\nWe obtain a fuller view of the events described in the earlier part of this passage by reference to 2 Chronicles 16:1-6. Asa’s early piety, which shone out in his drastic purging of idolatry and the corruptions which sprang up like fungi on a damp soil, cannot be questioned. Strange that such a man, who, by faith in God, had driven back Zerah’s formidable invasion, should in later years succumb to the craven methods of mere expediency in his conflict with Baasha.\n\nThis league with Ben-hadad arose from unbelief. Even true believers are sometimes hard pressed to maintain their integrity, because the trials of faith tend to increase. When Peter looked at the rising billows, his heart became troubled and he began to sink. To Asa’s alliance with this heathen king may be traced the beginning of the downfall of both kingdoms-of the ten tribes and of Judah. Palestine was no longer a neutral state, but became involved in the political combinations of the time. Those that honor God are honored, 1 Samuel 2:30; those that put their trust elsewhere rue it all their days."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 16
+ }
+}

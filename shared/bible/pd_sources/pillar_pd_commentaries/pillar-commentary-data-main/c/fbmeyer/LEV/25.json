@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Sabbatical Year and the Jubilee -- Leviticus 25:1-17\n\nAs the weekly Sabbath was to give septennial rest for man and beast, so the sabbatical year, returning after six years of unbroken harvests was to be a rest for the land “unto the Lord.” The year of jubilee, at the end of seven weeks of years, gave an opportunity of restoration for the poor and those who had been compelled to alienate their lands. The year of jubilee points onward to the “redemption of the purchased possession,” Ephesians 1:14, when all the disabilities which have befallen us shall be made good, and we shall regain all that glorious inheritance which was ours in the divine purpose, but which we have alienated by our sin.\n\nWith what joy must thousands have heard the notes of that trumpet sounding out over the land! Yes, and the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. Then incorruption shall inherit the kingdom of God! See 1 Corinthians 15:52."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Consideration for the Poor -- Leviticus 25:18-34\n\nIt was good for the land to lie fallow for one year in seven; and it was a wise provision that it should not be sold in perpetuity. This enactment prevented the stamping out of the small land owners, and the accumulation of the land in the hands of a few wealthy families. Though a man might be compelled by stress of circumstances to sell his little farm to a wealthy creditor, when the fiftieth year came around it returned to his possession and there was no further claim on the part of the creditor against him and his estate.\n\nWith what joy must debtors and bondservants have heard the notes of the trumpet ring out. For us, the lesson is that our Lord has proclaimed “the acceptable year of the Lord.” All that we lost in Adam is restored to us in the redemption; that is, in Christ Jesus. Nay, we have greatly gained! Where sin abounded, grace has super abounded. For innocence, we have purity; for a garden, a city; for the evening fellowship with God, the knowledge that we are sons and heirs."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Freedom in the Year of Jubilee -- Leviticus 25:35-55\n\nIf a man, through misfortune, were forced to sell himself into serfdom to meet his debts, he could not be legally retained after the trumpet had sounded; but was free to return to his home and family. His rich neighbor, during the time of his distress, was not to exact usury on any loan that he might make, but must give him food, lodging, and help, without charge. The poor man was to be treated not as a slave, but as a hired servant and fellow-citizen whose engagement was of a temporary character, and who might be redeemed at any time before the jubilee, through friendly interposition of a relative.\n\nNothing in modern legislation equals the jubilee in the interests of religion, social order, and liberty. Is it to be believed that when we, in our various distresses, go to our Heavenly Father, we shall fare any worse than the poor peasant did at the hands of his rich neighbor? And in Jesus have we not one nigh of kin who will redeem us at all costs?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 26
+ }
+}

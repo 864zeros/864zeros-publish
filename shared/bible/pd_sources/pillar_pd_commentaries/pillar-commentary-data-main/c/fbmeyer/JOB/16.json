@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Turning from “Miserable Comforters” unto God -- Job 16:1-22\n\nWith bitterness the sufferer turns from his comforters to God. As the r.v. makes clear, he says that if he were in their place and they in his, instead of joining words together and evincing the pride of the immaculate, he would set himself to speak strengthening words and to assuage their grief by tender sympathy.\n\nHe compares his pains to the attack of a wild beast, Job 16:7-14; and from this he proceeds to describe the anguish of his grief, Job 16:15-20. But toward the end of the chapter a new thought begins to shape itself; and from his lowest despair he catches sight of a Vindicator and a vindication that must someday be his. Job 16:21 should be read as in the r.v., margin. Job wanted a son of man to plead for him; and his prayer has been more than answered in the Son of man, who pleads for us “not after the law of a carnal commandment, but after the power of an indissoluble life,” Hebrews 7:16. “O Lord, thou hast pleaded the causes of my soul,” Lamentations 3:58."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 17
+ }
+}

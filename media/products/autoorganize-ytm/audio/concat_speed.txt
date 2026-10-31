@@ -1,0 +1,4 @@
+file 'speed_scene1_hook.wav'
+file 'speed_scene2_payoff.wav'
+file 'speed_scene3_walkthrough.wav'
+file 'speed_scene4_cta.wav'

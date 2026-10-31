@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Blessedness Follows Faith -- Romans 4:1-8\n\nIn this chapter the doctrine of justification by faith is illustrated from the life of Abraham. It is evident that he was not justified because of his good works. Nothing is said of them, though he had crossed the desert in obedience to the divine command. No; he believed God, and it was counted unto him for righteousness, Romans 4:3. The life of God in the soul of man is one and the same in every age. The measure of light may vary from the twilight in Ur to the meridian glory of Patmos, but the attitude of the soul toward God must always be the same.\n\nFrom the earliest times men have been justified by faith, Hebrews 11:4. Faith has two invariable elements: attitude and receptiveness; that is, the right position toward God, and the power of receiving the full inflow of the divine nature. We are made “partakers of the divine nature,” 2 Peter 1:4. This was the case with the great Hebrew pilgrim-first of the pilgrim race. Rising above the rest of his contemporaries, he saw the advance gleam of the day of Christ and was glad, John 8:56. David also sings of the same grace which justifies the sinner and counts him as righteous, notwithstanding his iniquities and sins, Psalms 32:1-2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "This Blessedness Is for All -- Romans 4:9-15\n\nIn Abraham’s case it is clear that he was justified when he was still a Gentile. The initial badge of Judaism was stamped upon him long after he had believed God. The Apostle lays great stress on this order of time: first faith, then obedience, and afterward circumcision, that made him the father and founder of the Jewish people. Justification is imputed to him in the first stage-not in circumcision, not even in obedience, but in the simple act of believing God, as we have it in Genesis 15:6. We do not hear of circumcision till Genesis 17:1-27.\n\nClearly, then, if we Gentiles have Abraham’s faith, we may also claim the same justifying righteousness, though we have not received any outward rite. And also, we may be reckoned among his children. If we enter into the meaning of these earlier stages of the patriarch’s life, we may claim the promises made to him in uncircumcision. Count them up; they are yours. We, too, may become heirs of the world; in us also, because we are his seed, all mankind may be blessed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Following Abraham in Faith in God -- Romans 4:16-25\n\nNotice the remarkable alteration made by the r.v. in Romans 4:19. The a.v. suggests that Abraham refused to consider the physical disabilities which seemed to make the fulfillment of God’s promise impossible; the r.v. says that he looked them all quietly in the face, as though taking into account all their significance and force. Then he looked to the promise; and after balancing one against the other, he decided absolutely and confidently that the Word of God must stand, however great and forbidding the difficulties in the way. He was fully persuaded that what God had promised he was able to perform.\n\nLet us remember, then, that from the time we trust Christ-whatever may have been our present frailties and temptations-we are reckoned as righteous in the sight of God. Yes, and in addition, we may count on absolute deliverance from the power of sin. Do not look down, brooding over your weakness! Do not look back upon your past, strewn with failure! Look up to the living Christ! All the promises of God are yea and amen in Christ Jesus, 2 Corinthians 1:20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 5
+ }
+}

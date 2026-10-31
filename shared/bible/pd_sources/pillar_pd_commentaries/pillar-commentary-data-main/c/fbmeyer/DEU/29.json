@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 29,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Covenant that Brings Prosperity -- Deuteronomy 29:1-13\n\nIn one great final convocation Moses rehearsed the Covenant, and endeavored to bind the people to its provisions. It becomes us all from time to time to look into the vows that we have made, reviewing them to see if we have carefully observed and kept our pledges. We need also to enlarge their scope as one new department after another is added to the experience of our souls. A review also of God’s great love and care through past years should constrain us, as by the mercies of God, to present ourselves anew to Him, as a “living sacrifice,” Romans 12:1-2.\n\nNotice the double aspect of Deu 29:12-13. It is not enough for us to be willing to enter into a covenant with God and to take His oath; we need that God should establish us unto Himself that we may become His peculiar people. The established heart and character are the very special gifts of the Holy Spirit, 1 Thessalonians 3:13, 1 Peter 5:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Penalty of Serving False Gods -- Deuteronomy 29:14-29\n\nDeuteronomy 29:15 clearly refers to the future generations, who were included in this solemn act. The word “gall,” Deuteronomy 29:18, indicates the poisonous character of idolatry. The application of this passage to any man who falls short of the grace of God shows that the tendency to idolatry has its root in the apostasy of the heart, Hebrews 12:15.\n\nWe cannot say that religion is a matter of indifference; or, if we say it, we are destined to a terrible awakening. A man may say, “I shall have peace,” etc., Deuteronomy 29:19, but there is no peace short of the peace of God, Isaiah 48:22; Romans 5:1-2.\n\nWith respect to Deuteronomy 29:24, the infidel Volney wrote of the present condition of Palestine: “Why is not the ancient population reproduced and perpetuated? God has doubtless pronounced a secret malediction against this land.” This is one of His “secret things!” Compare Deuteronomy 29:29 with Romans 11:33."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 29
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 30
+ }
+}

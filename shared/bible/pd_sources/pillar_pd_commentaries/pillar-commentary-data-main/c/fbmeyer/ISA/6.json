@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Call to Heroic Service -- Isaiah 6:1-13\n\nKings die; Jesus lives. See John 12:41. We are here reminded of Act 22:17-18. How great the contrast between the worship of these seraphim in the Unseen-Holy and man’s perfunctory rites! Six wings-two for meditation, two for humility, and two for service. Service should take only a third of our energy.\n\nOne cried unto another-one inspired spirit will awaken others. The threefold repetition of the word holy, implies the Trinity. If door-posts tremble, much more should the hearts of sinful men! Isaiah, in the previous chapter, had uttered six woes against others, but his seventh and sorest woe is against himself. The sinner, like the leper, cries, Unclean! Leviticus 13:45.\n\nThe seraph did not wait to be told; he knew that there was only one cure for such need as the prophet’s, Isaiah 6:9-13. When men refuse God’s offered grace, every refusal hardens. It is either “the savour of death unto death” or of “life unto life,” 2 Corinthians 2:16. The life of the oak and the terebinth only seems to become extinct in winter; there is revival in the spring. Is it winter with you? Pray for the springtime!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 7
+ }
+}

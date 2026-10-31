@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Altar of Incense -- Exodus 30:1-10\n\nIt seems late in the story of the Tabernacle that the incense-altar should be only mentioned now; but it is not unsuitable, because intercessory prayer, which it represents, is the crown and climax of the religious life. When our Lord had finished His sacrificial death, He passed into the heavens to make intercession for us. In Revelation 8:3-4, r.v., the veil is lifted, and we are allowed to behold Him, standing by the golden altar in heaven, and adding much incense to the prayers of all saints. What a wealth of prayer is ever passing through those gracious hands and that loving heart! John 17:1-26 is the Golden Altar of Scripture; let us often worship there. But, alas, these earthly altars soon get defiled, even by our prayers, and need the blood that speaketh peace. All our prayer requires the blood of at-one-ment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Atonement Money and the Laver -- Exodus 30:11-21\n\nThe atonement money was paid by all alike, to remind them that they were a redeemed race, and that so far as their value was concerned, neither rank, nor age, nor money made any difference. See Romans 3:22-24; Romans 10:12-13. The rich might not give more, lest he be made proud; the poor must not give less, so that he might be leveled up by the common mercy of God.\n\nThe laver reminds us of our need of daily washing. See John 13:1-38. It is very necessary to our peace and strength to repair constantly to Christ with confession and prayer. See 1 John 1:6-7. The laver was made out of the looking-glasses of the women. See Exodus 38:8. It was a good use for them, and was altogether appropriate, for the Word of God is compared to a mirror for its revealing qualities, and to water for cleansing. See James 1:23; Ephesians 5:26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The Anointing Oil and the Incense -- Exodus 30:22-38\n\nThe anointing oil was extremely rich and costly. Pure myrrh; sweet cinnamon, imported probably from Sumatra or China; sweet calamus, the product of India or Mesopotamia; cassia, from Java, were the principal ingredients. Such a combination must have produced a delightful fragrance! The use of this oil was restricted to the holy service of the Tabernacle, and reminds us of “the unction of the Holy One” -i.e., the anointing by the Holy Spirit. See Leviticus 8:10-12 and 1 John 2:20.\n\nChrist is the Anointed, and He sheds the oil of joy on our heads, as one by one we yield ourselves to His service. See Acts 2:33. The oil was not to be poured on “the flesh of man.” We must deny the flesh, with its affections and lusts, that we may be filled with the Spirit. Calvary before Pentecost!\n\nThe incense also was carefully prepared, and thus we are taught that prayers should not be uttered rashly or lightly; but with reverence, deliberation and forethought."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 31
+ }
+}

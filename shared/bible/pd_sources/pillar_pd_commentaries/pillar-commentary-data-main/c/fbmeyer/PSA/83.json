@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 83,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Most High over All the Earth” -- Psalms 83:1-18\n\nThis psalm was composed on the occasion described in 2 Chronicles 20:1-37, where we learn that at a great crisis the Spirit of God came on Jahaziel, one of the sons of Asaph, Psalms 83:14. It was written to be sung before the battle, in anticipation of certain victory. The Levites chanted it, with a loud voice on high, as Jehoshaphat’s army marched out against the great confederacy of nations, which threatened the very existence of Israel. There were strong reasons for God’s interposition, for Israel’s foes were God’s foes also. It was His people that were the target of this crafty conspiracy. Were they not His hidden ones, Psalms 83:3? Should a hostile world pluck them from the hollow of His hand? When our life is “hid with Christ in God,” we may confidently appeal for His safe-keeping.\n\nThe fate here imprecated savors of Moses rather than of Jesus Christ, Psalms 83:9-18. Our Lord’s way is to seek the conversion of the heathen. At the same time it may at least be urged that Israel did not pray thus to gratify a personal vindictiveness, but that the great world of men might know God to be Jehovah. Out of the mighty convulsions that sweep across society, we know that the coming of the divine Kingdom is somehow being prepared. God can make even the wrath of man to praise Him, Psalms 76:10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 83
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 82
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 84
+ }
+}

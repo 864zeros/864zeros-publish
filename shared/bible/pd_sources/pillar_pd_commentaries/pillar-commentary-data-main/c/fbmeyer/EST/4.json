@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Opportunity for Patriotic Devotion -- Esther 4:1-17\n\nIt seemed as if the whole nation would suddenly be cut off to satisfy the hatred of Haman, and Mordecai knew that he had been the cause of the plot. Esther was evidently living in close sympathy with her uncle, though now separated from him. In reply to the demand that she should hazard her life for the people, there was at first a natural reluctance. Was her love for her people greater than her love for herself? In her resolve there was surely something of the great love of Christ. We may be quite sure that God will carry out His plans-with us, if possible; if not, in spite of us, to our utter loss.\n\nWe should look upon our position as a sacred trust to be used for others. We are created for good works, which God hath prepared for us to walk in. There can be no presumption in action which is preceded by prayer and heart-searching."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 5
+ }
+}

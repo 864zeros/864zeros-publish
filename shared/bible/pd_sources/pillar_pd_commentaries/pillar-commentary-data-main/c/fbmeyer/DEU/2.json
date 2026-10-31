@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Journeying and Dying in the Wilderness -- Deuteronomy 1:41-46; Deuteronomy 2:1-15\n\nWe cannot obtain by our impetuosity and insistence what God offers only as a free gift to our faith. The Land of Promise is not to be obtained by strength of hand, but by the soul that lives in the will of God. Even when we are rebellious and unbelieving, God does not forget nor forsake us, Deuteronomy 2:7. He knows our walking through the great wilderness which we have chosen. Through all the forty years He goes with His people as their fellow-pilgrim. Even under such circumstances they lack nothing that is necessary to a complete and blessed life.\n\nEdom was not to be injured, because of the ancient grant, Genesis 32:3. So with Moab. The gifts and calling of God are without repentance. He will remember His Abrahams and His Lots long after they have passed from this mortal sphere, and will care for their children and children’s children. See Isaiah 59:21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Conquering beyond Jordan -- Deuteronomy 2:16-37\n\nIn the earlier verses of this portion we catch a glimpse of the former history of Palestine, with the wars of conquest and changes of tenure that swept over it. The Almighty Governor of the world was, as the Apostle Paul said afterward, determining seasons and frontiers. Nations enervated by their sins are continually being judged by the Prince of the kings of the earth. See Leviticus 18:28; Acts 17:26-27; Revelation 1:5; Matthew 25:32.\n\nA pacific and fair offer, in all good faith, was made to Sihon, which he refused to accept. The heart which is already hardened by sin becomes harder with every fresh rejection of God’s love. In that sense we understand how the Lord hardened his heart. No ice is so hard as that which freezes at night after a day of thaw. The sun that melts wax, hardens clay; but the fault is not with the sun, but with the clay."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 3
+ }
+}

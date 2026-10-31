@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 46,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Salvation Shall not Tarry -- Isaiah 46:1-13\n\nHere is a startling contrast! Babylon is broken up. An invading army of stern monotheists have slain the idolatrous priests at their altars and are engaged in carrying out the idols for the bonfire. And as the Jewish remnant is witnessing the extraordinary spectacle, they are reminded that their God does not require to be borne. Nay, on the contrary He has borne His people from the earliest days and will continue to bear them till the heavens have passed away.\n\nThe contrast is a perpetual one. Some people carry their religion; others are carried by it. Some are burdened by minute prescriptions and an external ritual; others yield themselves to God, to be borne by Him in old age as they were in the helplessness of childhood. They are persuaded that He will bear them “as a man doth bear His son,” in all the way that they go, until they come to the prepared place. See Deuteronomy 1:31; Isaiah 63:9. God immediately responds to a trust like that, and His salvation does not tarry."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 46
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 45
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 47
+ }
+}

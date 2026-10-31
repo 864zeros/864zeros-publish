@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Removing Stumbling-Blocks -- Matthew 18:1-9\n\nOur Lord’s transfiguration suggested that the time to take up His Kingdom was near; and the Apostles began to arrange their plans. The Master therefore used a child for His text and preached a sermon on humility. We must not be childish, but childlike. See 1 Corinthians 13:11. The beauty of a little child is its unconsciousness, humility, simplicity, and faith. Christ’s kingdom abounds with the rare blending of the warrior and the child. See 2 Kings 5:14. God’s best gifts are placed, not on a high shelf for us to reach up to, but on a low one to which we must stoop.\n\nAn offence is anything that makes the path of a holy and useful life more difficult for others. Be sure, in all your actions, to consider the weaker ones who are watching and following you. “Father,” said a boy, “take the safe path; I am coming.” A man, whose arm was caught in a machine, saved his boy from being drawn in by severing the arm with a hatchet. All that hurts us or others, however precious, must be severed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Saving the Straying -- Matthew 18:10-20\n\nHow tenderly the Master speaks of the children! We must turn back to become like them, Matthew 18:3. To cause them to stumble is to incur terrible penalties, Matthew 18:6. Not one of them is to be despised, Matthew 18:10. Each has an angel from the Father’s presence chamber-one of the most exalted-to take charge of him, Matthew 18:10. To seek and to save one of these, the Good Shepherd is prepared to traverse the mountain paths, Matthew 18:12. It is not the Father’s will that one should perish.\n\nWhen we have sinned against our brother, we must seek him out and be reconciled. See Matthew 5:23-24. But when our brother has sinned against us, we are to make three efforts before we give him up as hopeless. It is the presence of Jesus with His people that brings them into unison with the unseen world, so that their decisions and prayers are simultaneous with the divine mind. The Advocate-Paraclete in our hearts is at one with the Advocate-Paraclete on the throne, John 14:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Forgiven yet Unforgiving -- Matthew 18:21-35\n\nSeventy times seven is illimitable forgiveness. These numbers denote the perfection of perfection; and if God asks so much of us, what is He not prepared to do! Despair of yourself, but never despair of God’s forgiving mercy! The cause of soul-ruin is not sin, but the unbelief that thinks sin too great to be forgiven.\n\nThe difference between the two amounts of debt named in the parable sets forth the vast difference between our indebtedness to man and to God; and the free pardon of the king teaches us that God desires not only to forgive us, but to wipe out all memory of our sins. We could never pay all, but God will forgive all. Yet, notice that this servant forfeited the king’s pardon, so that it ceased to operate. Similarly we may shut ourselves out of the benefits of Christ’s death-though it has reconciled the world unto God-by an unforgiving and merciless spirit."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 19
+ }
+}

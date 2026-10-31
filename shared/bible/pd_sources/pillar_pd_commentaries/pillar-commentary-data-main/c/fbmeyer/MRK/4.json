@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Brother to All Who Will -- Mark 3:20-35; Mark 4:1-9\n\nThe Pharisees circulated this infamous charge-not because they believed it, but to satisfy the questions that were being asked on all sides. What they affirmed they knew to be untrue; but for selfish reasons they would not confess what they really thought. Such denial of truth is a deadly and unpardonable sin, because it injures the sensitiveness of conscience and produces moral death.\n\nFamily ties, Mark 3:31-35. The family of Jesus needed to be taught, though with the utmost delicacy, that they must not attempt to control His public ministry. All who love God and do His will are welcomed into the divine family circle and become blood relations of the Son of God.\n\nThe sower, Mark 4:1-9. Note the perils of the hearer, that you may guard against the waste of precious seed. There is a grave peril in the effect of light, fanciful, wandering thoughts. There is great peril also in a mere emotional response-the “straightway springing up” which has no root, because the heart is hard. There is danger lest the cares of the poor, the riches of the wealthy, and the too eager pursuit of things by other classes may drain away the strength of the soul, so that the Word of God shall be a slender stalk, without an ear or fruit. It is not enough to hear the Word, we must accept it and bear fruit; otherwise the plowing, sowing, and all the operations of nature are in vain. Live up to what you know. Obedience is the key to understanding."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Growth in God’s Kingdom -- Mark 4:10-41\n\nHow quick the Master was to observe the meaning of natural symbols! To Him all things were unfoldings of eternal mystery, and the ways of men unconsciously mirrored the unseen. Are there bushels in your life? Use them as lamp stands, not as coverings. All secrets come out; beware of what you say. All measures come back to us; take care how you mete. The mysterious co-operation of God in nature, and the gradual process of growth, are analogous to the co-working of the Holy Spirit with all faithful sowers of the Word, and the imperceptible stages through which the soul reaches maturity.\n\nThe stilling of the storm, Mark 4:35-41. They that bear Christ’s company must prepare for squalls. Yet, why should we fear, when the Master is on board, who can impress His commands on wind and sea-to the wind, Peace; to the sea, Be still! “The Lord on high is mightier than the waves of the sea.” A moment ago he was so weary as to sleep amid the storm, but at a word of appeal from those He loves, He shows Himself able to save to the uttermost."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 5
+ }
+}

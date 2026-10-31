@@ -13,17 +13,125 @@
     "count": 12
   },
   "verses": [
-    { "book": "1 Peter", "chapter": 1, "citation": "1 Peter 1:3", "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,", "plain": "Blessed be the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead," },
-    { "book": "1 Peter", "chapter": 1, "citation": "1 Peter 1:7", "text": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:", "plain": "so that the tested genuineness of your faith — more precious than gold, which perishes even though refined by fire — may result in praise, glory, and honor when Jesus Christ is revealed." },
-    { "book": "1 Peter", "chapter": 1, "citation": "1 Peter 1:8", "text": "Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:", "plain": "Though you have not seen him, you love him; and even though you don't see him now, you believe in him and are filled with an inexpressible and glorious joy," },
-    { "book": "1 Peter", "chapter": 2, "citation": "1 Peter 2:9", "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:", "plain": "But you are a chosen people, a royal priesthood, a holy nation, God's special possession — so that you may declare the praises of him who called you out of darkness into his wonderful light." },
-    { "book": "1 Peter", "chapter": 2, "citation": "1 Peter 2:24", "text": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.", "plain": "He himself bore our sins in his body on the cross, so that we might die to sin and live for righteousness; by his wounds you have been healed." },
-    { "book": "1 Peter", "chapter": 3, "citation": "1 Peter 3:15", "text": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:", "plain": "But in your hearts honor Christ as Lord. Always be ready to give an answer to everyone who asks you the reason for the hope you have — but do so with gentleness and respect." },
-    { "book": "1 Peter", "chapter": 3, "citation": "1 Peter 3:18", "text": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:", "plain": "For Christ also suffered once for sins, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit." },
-    { "book": "1 Peter", "chapter": 4, "citation": "1 Peter 4:8", "text": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.", "plain": "Above all, love each other deeply, because love covers over a multitude of sins." },
-    { "book": "1 Peter", "chapter": 4, "citation": "1 Peter 4:10", "text": "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.", "plain": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms." },
-    { "book": "1 Peter", "chapter": 5, "citation": "1 Peter 5:6", "text": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:", "plain": "Humble yourselves, then, under God's mighty hand, so that he may lift you up in due time." },
-    { "book": "1 Peter", "chapter": 5, "citation": "1 Peter 5:7", "text": "Casting all your care upon him; for he careth for you.", "plain": "Cast all your anxiety on him, because he cares for you." },
-    { "book": "1 Peter", "chapter": 5, "citation": "1 Peter 5:8", "text": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:", "plain": "Be alert and clear-minded. Your enemy the devil prowls around like a roaring lion, looking for someone to devour." }
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "citation": "1 Peter 1:3",
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,",
+      "plain": "Blessed be the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,",
+      "visual_prompt": "two robed companions seen strictly from the back walking side by side along a fieldstone trail into a goldsmith's clay crucible beside a quiet hearth",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "citation": "1 Peter 1:7",
+      "text": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:",
+      "plain": "so that the tested genuineness of your faith — more precious than gold, which perishes even though refined by fire — may result in praise, glory, and honor when Jesus Christ is revealed.",
+      "visual_prompt": "a clay refining crucible resting beside warm hearth stones in a dressed living cornerstone set firmly into a stone foundation",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 1,
+      "citation": "1 Peter 1:8",
+      "text": "Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:",
+      "plain": "Though you have not seen him, you love him; and even though you don't see him now, you believe in him and are filled with an inexpressible and glorious joy,",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a shepherd's crooked staff leaning against a sheepfold gate",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "citation": "1 Peter 2:9",
+      "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:",
+      "plain": "But you are a chosen people, a royal priesthood, a holy nation, God's special possession — so that you may declare the praises of him who called you out of darkness into his wonderful light.",
+      "visual_prompt": "a bronze oil lantern hanging from a rough wooden peg beside a stone doorway in a dressed living cornerstone set firmly into a stone foundation",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 2,
+      "citation": "1 Peter 2:24",
+      "text": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.",
+      "plain": "He himself bore our sins in his body on the cross, so that we might die to sin and live for righteousness; by his wounds you have been healed.",
+      "visual_prompt": "a fresh green olive shoot springing up from a weathered tree stump in a goldsmith's clay crucible beside a quiet hearth",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 3,
+      "citation": "1 Peter 3:15",
+      "text": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:",
+      "plain": "But in your hearts honor Christ as Lord. Always be ready to give an answer to everyone who asks you the reason for the hope you have — but do so with gentleness and respect.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a shepherd's crooked staff leaning against a sheepfold gate near a dressed living cornerstone set firmly into a stone foundation (1 peter 3:15 motif: sanctify)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 3,
+      "citation": "1 Peter 3:18",
+      "text": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
+      "plain": "For Christ also suffered once for sins, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a goldsmith's clay crucible beside a quiet hearth",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "citation": "1 Peter 4:8",
+      "text": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+      "plain": "Above all, love each other deeply, because love covers over a multitude of sins.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a goldsmith's clay crucible beside a quiet hearth",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 4,
+      "citation": "1 Peter 4:10",
+      "text": "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.",
+      "plain": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms.",
+      "visual_prompt": "an unhewn twelve-stone altar standing quietly on a wind-swept hilltop in a dressed living cornerstone set firmly into a stone foundation",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 5,
+      "citation": "1 Peter 5:6",
+      "text": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:",
+      "plain": "Humble yourselves, then, under God's mighty hand, so that he may lift you up in due time.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a dressed living cornerstone set firmly into a stone foundation",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 5,
+      "citation": "1 Peter 5:7",
+      "text": "Casting all your care upon him; for he careth for you.",
+      "plain": "Cast all your anxiety on him, because he cares for you.",
+      "visual_prompt": "a robed shepherd seen strictly from the back standing beside a low dry-stone wall with a wooden staff in hand looking out toward a shepherd's crooked staff leaning against a sheepfold gate",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "1 Peter",
+      "chapter": 5,
+      "citation": "1 Peter 5:8",
+      "text": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:",
+      "plain": "Be alert and clear-minded. Your enemy the devil prowls around like a roaring lion, looking for someone to devour.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a goldsmith's clay crucible beside a quiet hearth near a shepherd's crooked staff leaning against a sheepfold gate (1 peter 5:8 motif: sober)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

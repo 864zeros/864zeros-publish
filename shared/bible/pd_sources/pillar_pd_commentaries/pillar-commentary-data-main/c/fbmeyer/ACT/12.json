@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Loosened Bonds -- Acts 12:1-12\n\nThis Herod was the grandson of Herod the Great. He courted the goodwill of the Jews, though he was dissolute, cruel, and unscrupulous. How wonderful that God can spare from His work men like James, whom it has taken him so long to train!-but doubtless other and higher service awaits them.\n\nA quaternion numbered four: the total number of soldiers that guarded Peter, therefore, would be sixteen, exclusive of prison officials. But a praying household is stronger than the strongest precautions of human might.\n\nGod often delays His answers till the eve of our extremity; but Peter’s sleep is typical of the quiet faith that can trust God absolutely, whether to live or die. When God bids us arise and obey, we must do so without considering the obstructions that confront us. It is our part to arise and gird ourselves; it is for Him to cause the chains to fall off and the iron gates to open. What are iron gates to Him who cleft a path through the Red Sea! The angel guides us super-naturally, only so long as we are dazed and unable to form a judgment for ourselves. As soon as we are able to consider a matter, he leaves us to make use of our God-given faculties,"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Beyond Their Faith -- Acts 12:13-25\n\nMark’s mother was evidently a woman of property, as her house was large enough to receive the many who felt that prayer was the key to open Peter’s prison. Rhoda is Rose. Her portrait has charmed every generation. It is so lifelike and natural. How good for every servant-maid to love the devotional meeting, and to be welcomed to it! Christianity had introduced a new spirit into the world.\n\nHow often our deliverances seem too good to be true! These praying friends of Peter would not believe the maid, though she told them that their prayers were answered. This proves that while their faith was very imperfect, their request was granted. When we believe not, God remains faithful; He cannot deny Himself, 2 Timothy 2:13. The James mentioned in Acts 12:17 was the brother of our Lord, and afterward head of the church in Jerusalem, Acts 15:13. See James 1:1.\n\nWhat a contrast between Peter’s deliverance and Herod’s death! Be not afraid of the reproach of men, for “the moth shall eat them up like a garment,” Isaiah 51:8. During these happenings Paul and Barnabas were in Jerusalem, and in after years their minds must often have reverted to them. Probably Paul’s remembrance of this incident inspired his constant request for prayer in his own behalf, Ephesians 6:18-20.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 13
+ }
+}

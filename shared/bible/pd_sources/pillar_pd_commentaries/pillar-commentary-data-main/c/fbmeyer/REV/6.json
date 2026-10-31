@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Riders on the Four Horses -- Revelation 6:1-8\n\nThe seals signify those events which prepare the way for the coming of the Kingdom. The breaking of the first seals is accompanied by the summons of one of the living creatures to the glorified Lord to hasten His advent. Come, glorious Redeemer, and bring about the wondrous consummation for which thy bride is waiting. The white horse signifies the victorious progress of the gospel; the red, war with its bloodshed; the black, scarcity and want; the pale, or livid, pestilence and death. Compare with Ezekiel 14:21 and Matthew 24:6-14. “Thus good and bad their several warnings give of his approach, whom none can see and live. Faith’s ear, with awful, still delight, counts them as minute bells at night.”\n\nThree lines of interpretation have been adopted for these and the following mysterious utterances of this book. We shall not go into these questions, but present the main spiritual lessons which are generally accepted. That treasure is buried here none can deny; and the perpetual turning over of these sods to discover it, has greatly enriched the Church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "“The Wrath of the Lamb” -- Revelation 6:9-17\n\nThis imagery is very majestic; but we cannot really think that the holy martyrs desire to be revenged, except in love and grace. That their persecutors should be forgiven in Pentecosts of revival must be the highest conception of vengeance that they permit themselves to have. The striking command that they should rest, each enclothed in a white robe of acceptance and purity, until the full roll of martyrs is complete, suggests that every age must yield its tale of those who love not their lives unto the death, because they love the Master so much more. We, too, have our daily martyrdoms, for it may be harder to live for Jesus always against continued opposition and scorn than to die once for Him.\n\nRevelation 9:1-21; Revelation 10:1-11 answer to Matthew 24:6-7. Revelation 12:1-17; Revelation 17:1-18 to Matthew 24:29-30. Probably the words here refer, not to the final judgment, but to those revolutionary changes which always accompany the closing of one era and the opening of another; Hebrews 12:26-27."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 7
+ }
+}

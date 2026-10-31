@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "An Exhortation to Humility and Reverence -- Isaiah 2:12-22; Isaiah 3:1-12\n\nIf men will not repent, they must suffer. If they will not voluntarily put away their idols and sorceries, they will be compelled to do so in the anguish of their disappointment with their helpless deities, Isaiah 2:20. Nothing in that great civilization would be spared. High towers, fenced walls, ships, treasures, armor-all would perish. Their vaunted faith in man would cease. Life would become elemental in its simplicity amid the shelter of the ragged rocks.\n\nIn sarcastic phrase the prophet depicts a despairing nation choosing for ruler the first man that came along with a decent coat on his back, Isaiah 2:6; but in vain. We can almost hear the sob of the prophet’s soul in Isaiah 2:8-9, and recall the tears of a greater than Isaiah, Who wept over this same Jerusalem eight hundred years afterward. Patriotism is one of the purest passions that can burn in the heart of man! “Lives there a man, with soul so dead, that never to himself has said, This is my own, my native land!”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Vanity and Selfish Luxury Condemned -- Isaiah 3:13-26; Isaiah 4:1-6\n\nThis paragraph opens with the majestic figure of Jehovah Himself, who arises to judge the misrulers and plead the cause of the poor. The prophet enumerates the trinkets of the women of Israel, who had given themselves up to luxury and corruption. Woman is the priestess and prophetess of the home and religion, and when she forsakes the level of spiritual influence for that of physical adornment, the salt has lost its savor and the whole commonwealth suffers. The manhood of a land is lost, morally and spiritually when woman falls from her high estate; and there could be no hope for Jerusalem until the divine fire had consumed the filth of her daughters, and the oppressive selfishness of her sons. Then once more each home in Jerusalem would have the same blessed signs of the divine presence as had once been granted to the Tabernacle-the shadowing cloud by day and the gleam of the Shekinah-fire by night. Let us claim these for our homes also!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 4
+ }
+}

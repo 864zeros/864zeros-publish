@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Great Ministry in a Great City -- Acts 18:1-17\n\nPaul tells us, in 1 Corinthians 2:1-4, that he entered Corinth with fear and trembling and made no effort to attract by human wisdom or eloquence. From the first he preached “Christ and Him crucified.”\n\nSimilarity in trade discovered friends who were to be of the utmost assistance; nothing in our life may be attributed to chance. Sitting at their common toils, he won them for Christ.\n\nConstrained in spirit, Acts 18:5, r.v. The heart of the Apostle yearned with irrepressible desire. He was weary of forbearing. God’s word was as a fire in his bones. The guilty city appealed to him and tugged at his heartstrings. So Jesus wept over Jerusalem. Do we participate in this soul anguish? Are our hands free of the blood of men? Are we prepared to suffer if only we may save others?\n\nGallio was a typical man of the world, intent upon matters of law and order, philosophical and cultured. But when questions of religion were in debate, he was absolutely indifferent. How vast the contrast between him and Paul!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "New Helpers in the Gospel -- Acts 18:18-28\n\nIn unimportant matters Paul was still amenable to Hebrew customs and rites, Acts 18:18. Probably he desired to conciliate his Judaizing opponents so far as he could without surrendering vital principles. He took his new-found friends with him to Ephesus. Though none of them realized it, there was important work awaiting them in that mighty city. The plans of Apostles, and of ordinary travelers as well, must be subordinated to the divine will. See 1 Corinthians 4:19; James 4:15.\n\nApollos combined the eloquence of the Greek with the religious instinct of the Jew. A student from the great university at Alexandria, a convert to the gospel, deeply conversant with the Old Testament, gifted with marvelous eloquence, he was a strong ally of the Christian forces of his age. But he needed to know of the death, resurrection, and ascended power of Christ, and to experience the Pentecostal gift. Into all these he was led by Aquila and Priscilla. How wonderful is that holy wisdom which the Spirit of God gives to simple and humble believers, so that they can become teachers of men who are intellectually their superiors!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 19
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "fbmeyer",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 37,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Resurrection of a Dead Nation -- Ezekiel 37:1-14\n\nA marvelous chapter-the vision is so graphic. Time does not rob it of its significance. Indeed every sign points to speedy fulfillment. The Jewish nation has long resembled those dry and bleaching bones; and the state of sinners generally may truly be described in the same terms. The condition of many souls and neighborhoods is comparable to the harrowing scenes of a recent battlefield. We may preach so as to effect an outward revolution, but there can be no life until the divine breath passes over them.\n\nWe must preach the Word, instant in season and out; but we must also call on the Spirit of Life. Those that are in their graves must hear the voice of the Son of God. The promises of Eze 37:13-14 await literal fulfillment in the case of the Jews, but let us plead that they may be also realized in our own congregations and neighborhoods. Revival will assuredly end in unity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 37
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 1
+ }
+}

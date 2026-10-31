@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Burned-Offerings of the Herd, Flocks and Fowls -- Leviticus 1:1-17\n\nJehovah speaks with Moses, not from Sinai’s summit, but from the Tabernacle, because He has come to dwell with men on the earth. Compare Exodus 20:22; Exodus 25:8. The early chapters of this book contain the law of the offerings. He who was to be worshiped prescribed the manner in which He was to be approached. These sacrifices also were intended to typify the great offering which our Lord would one day, in the fullness of time, consummate on Calvary. Here we have the burned-offering, presenting the more general aspect of our Lord’s self-giving.\n\nIt represents His entire surrender to the Father’s will. See Hebrews 10:8-9. The principal feature of this offering was that the whole body of the victim was consumed and ascended in fire and smoke. The Hebrew word comes from a root which means to ascend. Three grades of this offering were permitted-herd, flock, fowl-to bring it within the means of all, and to typify the varying degrees in which men apprehend and value Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 40
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 2
+ }
+}

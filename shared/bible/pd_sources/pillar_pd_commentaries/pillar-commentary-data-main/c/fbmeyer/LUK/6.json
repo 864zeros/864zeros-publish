@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Right Use of the Sabbath -- Luke 6:1-11\n\nIt was a brave and bold step for Jesus to set Himself against the ritualistic proscriptions of the ruling religious party of His age. How many who had hoped that He would redeem Israel, must have been hurt by what seemed to be ruthless iconoclasm. But there was no hope of the holy thoughts of God ever emerging from the mass of hide-bound rules and regulations with which the Pharisees had covered them, unless the frost of literalism was broken up with a strong hand. Christ was not destroying religion, but freeing it from the formalist. Reality, reality! Be true and real!\n\nThe grave question today is, whether, in our revolt from Puritan strictness in observing Sunday, we have not gone to the other extreme. The Church of God will have to stand for God’s day, not only for God’s sake, but for the sake of the masses, who are menaced by a seven-days’ working week. The Sabbath was made for man; he needs it. If God made it for him, let God’s children preserve it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "New Leaders and New Principles -- Luke 6:12-26\n\nThere are three circles here: First, Christ and His Apostles-the men who were to be sent into all the world to preach the gospel and to lay the foundations of the Church. How little did these single men imagine that one day their names would become inscribed on the foundation stones of the New Jerusalem!\n\nThe next circle is that of the disciples, Luke 6:17. You must be a disciple before you can be an apostle. You must learn, if you are to teach. You must sit at the feet of Jesus, till some day He calls you out from the class and commissions you to the world. The sheep becomes a shepherd.\n\nThe third great outer rim is the poor, needy world. What a gathering of sick folk! But if only people knew the distempers of their soul-life they would gather with equal eagerness to Jesus. How wonderful that secret touch! Luke 6:19. But many still touch Him in the press!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "How to Treat Our Fellow-Men -- Luke 6:27-38\n\nLuke’s version of the Sermon on the Mount differs from that of Matthew, only as each views the great discourse from his own standpoint. By one it is viewed as the manifesto of the King; by the other, as the proclamation of “the Man Christ Jesus” to man.\n\nNotice the secret of blessedness! Here is the draught-sketch of a life of abounding blessing, overflowing with mercy and lovingkindness. With what measure we mete out our love to men, they will measure back their love to us, using our own measures for the purpose.\n\nEach of these Beatitudes is a gateway into blessedness. It is not that blessedness is the reward of virtue, but it is the necessary and invariable result. Only we must be good, because it is right and God-pleasing to be so, and the blessedness will be as natural as the bloom on the peach."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "The Test That Reveals Character -- Luke 6:39-49\n\nYes, it is true! Some day we shall be perfected. The long discipline will be over, and we shall be able to close our lesson books and go home. We shall then be found to be like Christ, our Lord. The promise of Luk 6:40 is very beautiful, though it sometimes seems far away.\n\nWe need to look at home first, before we essay to judge or condemn others. It is blundering waste to deal with other people’s eyes if you have a defect in yours. Colorblind men ought not to run trains. Speech betrayeth men; what they say, that they are. The man who is quickest to judge and discuss the faults of another does so because of his own experience of the same sin. How else could he know so much about it?\n\nThe rock is not the Church, nor doctrine, nor even the Bible, but Christ, Isaiah 28:16."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 7
+ }
+}

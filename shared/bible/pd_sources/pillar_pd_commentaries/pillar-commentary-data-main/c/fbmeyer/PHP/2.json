@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PHP",
+  "commentaryId": "fbmeyer",
+  "name": "Philippians",
+  "commonName": "Philippians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Following His Example of Self-Surrender -- Philippians 2:1-11\n\nIn all Scripture-indeed, in all literature-there is no passage which combines such extraordinary extremes as this. The Apostle opens the golden compasses of his faith, placing one jeweled point on the throne of divine glory and the other at the edge of the pit, where the Cross stood; and then he asks us to measure the vast descent of the Son of God as He came down to help us. Mark the seven steps: He was in the form of God, that is, as much God as He was afterward a servant; being in the form of God… took the form of a servant. He was certainly the latter and equally so the former. He did not grasp at equality with God, for it was already His. He emptied Himself, that is, refused to avail Himself of the use of His divine attributes, that He might teach the meaning of absolute dependence on the Father.\n\nHe obeyed as a servant the laws which had their source in Himself. He became man-a humble man, a dying man, a crucified man. He lay in the grave. But the meaning of His descent was that of His ascent, and to all His illustrious names is now added that of Jesus-Savior. This must be our model. This mind must be in us.\n\nIn proportion as we become humbled and crucified, we, in our small measure, shall attain the power of blessing and saving men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Lights in the World -- Philippians 2:12-18\n\nThe sublime visions of the Apostle of the glory of the divine Redeemer are always linked with practical exhortation. Do nothing through pride and vainglory. Look on the things of others. Count others better than yourself. Work out what God is working in. Your heart is God’s workshop! His Spirit is there, striving against selfishness, pride, impurity, and vanity, but you must consolidate each holy impulse in speech and act. Be careful of every such movement in your soul; it will become clearer and more definite as you yield to it, and it will be corroborated by outward circumstances, which God will open before you. But exercise fear and trembling, just as the young pupil of a great master will be nervously careful not to lose one thought or suggestion which he may impart.\n\nIn this manner you will become as a lighthouse on a rockbound coast, shining with blameless and beneficent beauty among your companions. Light is silent, but it reveals. Light is gentle, but it is mighty in its effects. Light departs when the sun is down, but it may be maintained by various luminaries until dawn again breaks. As we shine, we shall be consumed, but the sacrifice will not be in vain."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Honoring Christian Messengers -- Philippians 2:19-30\n\nThe Apostle nobly honored the younger men who wrought with him. He speaks of Timothy as his son, and expatiates on the genuineness of his loving interest in each of his converts. He describes Epaphroditus as his brother, fellow-worker, and fellow-soldier. How tenderly he refers to his sickness and recovery, as though God had conferred on himself special favor in giving back this beloved comrade in the great fight!\n\nIt is well worth while to ponder the remark that God does not add sorrow to sorrow, Philippians 2:27. He tempers His wind to the shorn lamb. He cautions the accuser that he must not take Job’s life. With the trial He makes the way of escape. He keeps His finger on the wrist while the operation is in progress, and stays it as soon as the pulse flutters. Not sorrow upon sorrow!\n\nNote also that “hazarding” of life, Philippians 2:30, r.v. It was a common experience in those great days of Christ’s suffering Church, Acts 15:26. How strange it is today to watch the sacrifices that men and women will make in times of war, when a new spirit is stirring in the world and men adventure everything for liberty, righteousness, and fatherland, and then compare this extravagant expenditure of blood and treasure with what we have done for Jesus."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 3
+ }
+}

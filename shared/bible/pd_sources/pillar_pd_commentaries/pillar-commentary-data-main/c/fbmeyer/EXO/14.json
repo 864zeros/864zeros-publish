@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The People are Led out and Pursued -- Exodus 13:17-22; Exodus 14:1-9\n\nThere were two routes to Canaan, the nearest through the land of the Philistines; but to take that would have exposed the Hebrews to the very sights that so dismayed the twelve spies. See Numbers 33:1-56. They might have had to fight every mile of advance. This would have been too great an ordeal for their young faith. So God, like the mother eagle, bore them on His wings. The Angel who conducted the march in the cloud chariot, led them about.\n\nThus God deals with us still, tempering the wind to the shorn lamb. Patience and faith are still severely tested by the circuitous and laborious route, but when in the afterwards we understand God’s reasons, we are satisfied. There are many lessons learned on the wilderness route. How often God leads us into what seem to be impossible positions, that in our absolute extremity there may be room for Him to work. All is love. See Psalms 136:1-26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The Murmuring People Encouraged -- Exodus 14:10-20\n\nWe cannot wonder at their consternation. Before, the surf of the beach; behind, the serried ranks of Egypt’s chivalry; on either side, impassable cliffs. It seemed a veritable death-trap. But Moses reckoned confidently on the salvation of God. All they had to do, in the first instance, was to stand still and see it. It is hard to stand still when the situation becomes acute.\n\nIf you don’t know what to do, stand still until you do; it is God’s business to direct and defend the believing soul. Let God do the fighting, Exodus 14:14. This Angel, Stephen tells us, was our Lord, Acts 7:38. He always puts Himself between us and our strong enemies. Note Exodus 14:19. The ordinary man puts circumstances between himself and God, but the consecrated soul inserts God between himself and circumstances.\n\nWhen God says Forward! He will open the path and lead His people, as a shepherd leads His flock, by a way they know not."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The Egyptians Destroyed in the Sea -- Exodus 14:21-31\n\nAs the front ranks of Israel approached the surf, the billows parted. The very waves they dreaded became a wall. By faith Israel passed through the Red Sea as on dry land. They went through the flood on foot. So shalt thou, oh frightened child of God! Behind thee, the terror of the foe; before thee, the horror of the unknown. But God is with thee. The sheen of the Presence-Cloud shines upon and before thee. Be of good cheer, though thou passest through the waters, thou shalt not be overwhelmed. See Psalms 66:6; Psalms 78:13; Isaiah 43:2.\n\nThe Egyptians owed their safety at first to the presence of Israel; but it was only for a time. The ungodly owe more to the presence of God’s children than they realize. See Genesis 19:22. On which side of God’s cloud are you? In Christ we may stand without fear before the searchlight of God! Compare Exodus 14:24 with Hebrews 4:13 and Revelation 6:16."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 15
+ }
+}

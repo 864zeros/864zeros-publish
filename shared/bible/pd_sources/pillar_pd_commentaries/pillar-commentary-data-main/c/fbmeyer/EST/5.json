@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Hatred Breeds Crime -- Esther 5:1-14\n\nThus the soul clad in the royal garments of Christ’s righteousness stands in the throne-room with its request. It has already obtained favor, for has it not been accepted in the beloved? The Lord waits that He may be gracious. Delay is not denial, and in the meanwhile there are things to be seen and heard, which fill the soul with rapture. Have you touched the top of the sceptre? Have you claimed unto the half of the Kingdom?\n\nHave you invited the King Himself to your banqueting table? For the King Himself is willing to be your guest. We feast at His table, but He comes and sups with us at ours. In all earthly joy there is alloy, something which detracts from full gratification; a Mordecai for Haman, because of whom all else availed nothing. The joy that this world gives is at the mercy of the least untoward circumstances, but “he that drinketh of the water that I shall give him shall never thirst.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 6
+ }
+}

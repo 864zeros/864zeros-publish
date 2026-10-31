@@ -1,7 +1,7 @@
 # Sheet2Calendar Sync — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/sheet2calendar/`  
 **Web Product Page:** https://864zeros.com/products/sheet2calendar  
-**Pricing Model:** $12.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Turn Google Sheets rows into synchronized Google Calendar events with dynamic tw
 👉 Try Sheet2Calendar Sync: https://864zeros.com/products/sheet2calendar
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet Sheet2Calendar Sync — the fast, local-first solution that solves this wit
 👉 Get Sheet2Calendar Sync: https://864zeros.com/products/sheet2calendar
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $12.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet Sheet2Calendar Sync — the fast, local-first solution that solves this wit
 * **Suggested Thumbnail:** `media/products/sheet2calendar/video/thumbnail-sheet2calendar-social-price.png`
 * **YouTube Title:**
 ```
-Paying $299/Year Domain Subscriptions for Calendar Sync — Sheet2Calendar Sync #Shorts
+Paying one-time lifetime Domain Subscriptions for Calendar Sync — Sheet2Calendar Sync #Shorts
 ```
 * **YouTube Description:**
 ```
-Domain subscriptions charging $299 a year just to sync team spreadsheets to Google Calendar?
+Domain subscriptions charging one-time lifetime a year just to sync team spreadsheets to Google Calendar?
 
-Sheet2Calendar Sync gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
+Sheet2Calendar Sync gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get Sheet2Calendar Sync: https://864zeros.com/products/sheet2calendar
 

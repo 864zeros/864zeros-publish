@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Her Sins Have Reached unto Heaven” -- Revelation 18:1-13\n\nWe have seen that the scarlet woman represents the false religion of human wit and fashion. It is found in every age. There is not a city, town, or village where it does not seek to allure men from Christ. The mischief is that so many really godly people are misled by it. In this they resemble Obadiah, who hid the prophets in a cave and fed them but was hand and glove with Ahab. To all such, who are endeavoring to keep in touch with the true Bride and with the apostate Church, the summons of Rev 18:4 has a very profound significance.\n\nIt was the unanimous verdict of the reformers that the great city here described, Revelation 18:10, was intended to represent Rome, as the seat of the great apostasy. If that be the case, the merchandise described here does not refer to literal commerce, but to the carnal delights which are often permitted and fostered by false religious systems to win the adhesion of the worldly and unclean."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Fallen Like a Stone into the Sea -- Revelation 18:14-24\n\nThis section delineates the utter desolation which will ensue when the judgments of God have finished their mission against professing but unfaithful Christendom. How near we are at the present hour to their fulfillment, we dare not say. But it often seems as if we are living in the last days of “the times of the Gentiles,” and very near the fulfillment of all that is written in this book. It is the universal comment that all religious values are being altered. The church systems, as such, give signs that they are losing their hold on the vast masses of the people, while the heart of man cries out as eagerly as ever for the living God. We can only heed the Lord’s command to watch, and see to it that we may be found of Him in peace, and standing patiently at our post.\n\nIn the meantime events in the distant East are symptomatic of the fig tree putting forth her leaves. See Matthew 24:32."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 19
+ }
+}

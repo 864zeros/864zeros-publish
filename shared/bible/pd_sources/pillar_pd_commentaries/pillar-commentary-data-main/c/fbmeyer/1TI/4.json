@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Timothy",
+  "commonName": "1 Timothy",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Reject False and Foolish Teaching -- 1 Timothy 4:1-8\n\nWe have here the Apostle’s forecast of the last times, i.e., the condition in which men will find themselves as the age draws to a close. Notwithstanding all that Christ has done, the prevalence of evil will be enormous, not because of any failure in God but because the Church has failed to be the organ through which His saving help could reach mankind. The symptoms are set forth with great clearness, such as demon spirits dwelling and working in men, error taught under the specious guise of excessive religious devotion, consciences seared, natural instincts thwarted and outraged. On the contrary, let us believe that the whole body, and all gifts that are natural and innocent, are to be cherished and used under three sanctions:\n\nThey must be accepted and enjoyed with thanksgiving to the Creator and Father.\n\nThey must be sanctioned by the Word of God.\n\nTheir use and enjoyment must, not interfere with our prayer-life.\n\nThe minister of Christ must be daily nourished by the words of Christian truth. If he is not fed on Christ’s body and blood, his teaching will soon deteriorate, John 6:1-71. He must also exercise himself in godliness with as much care as the gymnast, who is continually exercising his joints and muscles so as to keep supple and alert. This is also God’s purpose in the spiritual trials and discipline which He sends."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "“Take Heed to Thyself” -- 1 Timothy 4:9-16\n\nIn all Christian service we must set our hope on the living God. Nothing counts apart from God. Prayer implies that all our gifts and efforts cover only a small part of our efficiency. There are infinite resources in God, which He is waiting to employ in human affairs, and of which we fail to make use. The Christian worker, therefore, must not only labor and strive, but must hope in the living God, whose saving grace is at the disposal of our faith. The faith exercised by the average man results in obtaining only natural things; the supernatural is secured by the faith of those who have made profounder discoveries of God, and can therefore make demands on His resources, which are hidden from the princes of this world.\n\nIn order to succeed, we must give ourselves wholly to our work for God. In answer to prayer great gifts had been communicated to Timothy, but he had to give heed to them, use them, and stir up the slumbering embers of the fire, kindled at his ordination. It is worthy of notice that the Apostle’s injunctions do not include a single allusion to priestly or sacramental service, but urge to boldness of character, 1 Timothy 4:12; diligent study, 1 Timothy 4:13; rigorous orthodoxy, 1 Timothy 4:16; and the daily self-watch of the soul, 1 Timothy 4:16. Take to heart the blessed assurance of the closing sentence of the chapter."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 5
+ }
+}

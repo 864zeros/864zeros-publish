@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Out of the Smoke of the Pit” -- Revelation 9:1-11\n\nThis chapter reminds us of the prophet Joel who, under the imagery of a swarm of locusts, depicted the coming invasion of hostile nations. Whether these warriors are intended for barbarian hordes which swept over the Roman Empire previous to its fall, or whether they represent the Saracens, between whose appearance and the details of this vision there is much in common, is not within our province to determine. The point which specially concerns us is that only those escaped who had received the imprint of God’s seal. Of old the destroying angel passed over the houses, on the lintels of which the blood was visible.\n\nBut there are spiritual foes, against whose invasion we must seek the sealing of God’s Spirit. “Grieve not the Holy Spirit of God, in whom ye were sealed unto the day of redemption,” Ephesians 4:30. What is impressed with the royal seal is under special protection; and when temptation assails you, you may assuredly claim that divine protection, which shall surround you as an impenetrable shield. “The angel of the Lord encampeth round about them that fear Him, and delivereth them,” Psalms 34:7. We fight not against flesh and blood, but against wicked spirits in heavenly places, and only the spiritual can secure for us immunity against the spiritual."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Impenitent in Spite of All -- Revelation 9:12-21\n\nThe river Euphrates possibly stands for nations and hordes of men emanating from that region; and these verses are held by a large number of expositors to foretell the invasion of Europe by the Turks, who have desolated and held the sacred places of the Jewish faith. The Church of that time was eaten through with idolatry. Image worship had become almost universal, and the invariable consequence of this relapse from the noble spiritual ideals of the Jewish and Christian dispensations was materialism, sensuality, and the greed of the priest. On the other hand, the Turks were fierce iconoclasts, and their progress everywhere was marked by the demolition of Christian emblems.\n\nDemons contrive to get themselves worshiped under the effigies of idolatry; and murders, sorceries, fornication, and theft infest their temples. There is perpetual controversy between the spirit of truth and these perversities; and this conflict must continue, not only in the Church, but in the heart, until everything that opposes the reign of the Spirit is overthrown, and every thought is brought into captivity to the obedience of Christ, 2 Corinthians 10:5. Is this supremacy of the Spirit secured for thee, my reader?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 10
+ }
+}

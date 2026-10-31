@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Seeking a King like Other Nations -- 1 Samuel 8:1-9\n\nThe sin that Samuel, as a lad, rebuked in Eli, reappeared in his own family and undermined his influence. The names of Samuel’s sons are suggestive of his own piety-“Jehovah is God” and “Jehovah is my Father” -but, alas, they failed to walk in His steps! It was a mistake to delegate authority to men whose character was corrupt, and this precipitated the desire of Israel for a king. They failed to value the glory and strength of their position as a theocracy-a nation directly ruled by God-and craved to be as other nations. This finally led to their undoing. Be not conformed to the world; or you will share in its condemnation as well as in its penalty, Hosea 13:9-11.\n\nSamuel felt the rebuff keenly, but ultimately he took the one wise step of laying the whole matter before the Lord. It is a good example! When the heart is overwhelmed; when we are hemmed in by difficulty; when men rise up and breathe out cruelty against us, let us roll back our trouble on our Lord and Savior, who has identified Himself with our life. Tell Him all, though your heart is almost too broken for utterance. “He will be very gracious unto thee at the voice of thy cry,” Isaiah 30:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Rejecting the Prophet’s Warning -- 1 Samuel 8:10-22\n\nThe people had entreated Samuel to cry unto God in their behalf; and now we see him going to and fro between the people and God, as a true mediator and intercessor. “He told all the words of the Lord unto the people,” 1 Samuel 8:10; and, “He rehearsed all the words of the people in the ears of the Lord,” 1 Samuel 8:21. See also 1 Samuel 8:22. Samuel is fitly described in the Psalter as one who called upon God’s name, Psalms 99:6. How much we may influence the life of a nation or of an individual if we will only pray with persistent and believing earnestness! We cannot dispense with our statesmen, but our prophets-the Samuels and the Elijahs-are the most efficient chariots and horsemen of protection, 2 Kings 2:12.\n\nThe people could not answer Samuel’s grave and graphic words. They contented themselves with repeating their request, and soon they learned the bitterness of imposing their own will upon God. They would have a king, and God gave them their hearts’ desire, but see Psalms 106:15. When Samuel had received God’s reply, he set himself, with all his power, to further the matter, at all cost to himself. We are reminded of that noble reply of the Baptist in John 3:31. God’s will ever first and supreme!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 9
+ }
+}

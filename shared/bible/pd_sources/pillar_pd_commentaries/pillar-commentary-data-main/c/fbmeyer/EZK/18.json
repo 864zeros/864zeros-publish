@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "fbmeyer",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Reversal of the Divine Judgment -- Ezekiel 18:14-32\n\nThe Jews of Ezekiel’s day asserted that God’s dealings with their nation were not just, because they were suffering, not for their own sins, but for their fathers’ . God here makes it clear that He deals with individuals according to their deserts. The guilty son of a good father does not escape punishment because of his father’s virtues; and the good son of evil parents reaps the reward of his own goodness. What a well of comfort is supplied by Ezekiel 18:21-22! God pledges Himself that forgiven sin shall not even be mentioned. This solemn covenant should be appropriated and its fulfillment claimed, by those who through all their lifetime have been subject to bondage because of their past.\n\nWe must not be content with an outward amendment; there must be, and there can be, through the grace of the Holy Spirit, an inward and radical change. This impossible command drives us to the Holy Spirit, Psalms 51:10; Psalms 51:12. As Augustine puts it: “Give what thou requirest, and require what thou wilt.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 33
+ }
+}

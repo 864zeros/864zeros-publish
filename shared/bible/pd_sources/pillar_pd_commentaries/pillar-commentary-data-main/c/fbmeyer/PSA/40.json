@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 40,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Joyous Testimony -- Psalms 40:1-10\n\nThis psalm follows appropriately on the two former, in which the psalmist had been detailing his sufferings. Here he celebrates deliverance. But a Greater than David is here. Hebrews 10:5-7 puts Psalms 40:6-8 upon the lips of Christ, and we hear His voice speaking through these olden words.\n\nIn deep distress, Psalms 40:1-3, what can the soul do but wait patiently until the Lord inclines and hears? The horrible pit is a “pit of roaring;” that is, a ravine where the deep waters rush and roar. What Jeremiah experienced literally, Jeremiah 38:6, we pass through spiritually. But God will leave no child of His there; He will lift him to stand on the rock, his mouth filled with songs.\n\nWhen we are delivered let us set our gladness to music and embody it in renewed consecration, Psalms 40:4-10. Let us not hide God’s love in our hearts, but tell it out. The bored ear, Psalms 40:6, in reference to Exodus 21:6, means obedience forever, absolute consecration, the glad submission of the will. This is dearer to God than the most elaborate ceremonial or ritual."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "A Cry for Deliverance -- Psalms 40:11-17\n\nTo the end of life we shall continually need God’s lovingkindness, to deal mercifully with our failures and sins, and His truth, that is, His faithfulness. The Covenant, ordered in all things and sure, and that which binds him irrevocably, is the rock of our comfort, whether we are compassed by innumerable evils or overtaken by iniquities, Psalms 40:12.\n\nOur sense of sin grows with our increasing knowledge of the holiness and love of God. They who are nearest to the heart of God are least able to forgive themselves, though they know that they are forgiven. But while we think hard thoughts against ourselves, and confess ourselves to be poor and needy, we may take great comfort in God’s thoughts for us, Psalms 40:17. They are tender and loving, Jeremiah 29:11. Poverty and need are never reasons for despair. These things do not alienate God’s interest. They rather attract Him; just as a sick child will get more of the mother’s care than the healthy members of the home-circle."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 40
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 39
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 41
+ }
+}

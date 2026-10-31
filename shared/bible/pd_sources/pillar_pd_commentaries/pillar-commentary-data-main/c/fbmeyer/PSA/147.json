@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 147,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Why We Praise the Lord -- Psalms 147:1-11\n\nIt has been supposed that this psalm was prepared for use when the new walls of the city were completed in the days of Nehemiah. It contains a further enumeration of God’s present tenses. The psalmist never tires of celebrating the immediateness of God. He will not tolerate the intervention of second causes, which are the artifice of scientific explanation. Laws are, after all, only the convenient statement of the regularity of God’s methods. The couplets of this psalm are amazingly suggestive.\n\nBy contrast they complete each other. God builds up the great city of Jerusalem, but His heart goes out to the individual prodigal. He is equally at home in the hospital where broken hearts congregate, and among the stars, which He names and counts as a shepherd His flock. He upholds the meek and overthrows the proud. Spring, with its clouds and rain and sprouting grass, is His work; but so also the wild life of the forest, with its beasts and birds. He has no such delight in athletic strength or speed as He has in the reverent worship of His people.\n\nThere is a perfect balance and rhythm in God’s nature."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Peace and Prosperity -- Psalms 147:12-20\n\nFrom Psalms 147:12 on there is a more personal address to Jerusalem and Zion. The thee and thou justify the application of the psalm to the spiritual condition of the Church and the individual. God’s work in nature illustrates His dealings with His children. Are we strengthened against temptation, as a city with bars and bolts, blessed with peace, and filled with the fine flour of gospel truth? It is because He hath so appointed it by His commandment and swiftly-running word. Is it winter, the air full of blinding snowflakes; rime everywhere, as if the frost-king had powdered the earth and bound the waters with His chain?\n\nBe of good cheer; God is in it all. Winter is needed to pulverize the soil; but as soon as it has done its necessary work, the warm breath of His manifested love will breathe over desolations, and all the frost and snow will hasten to be gone. Will God give so much thought to garnishing the home in which His children live and neglect them? Besides, He has shown us so many wonderful judgments and such discoveries of His character, that He is pledged to us. Hallelujah!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 147
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 146
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 148
+ }
+}

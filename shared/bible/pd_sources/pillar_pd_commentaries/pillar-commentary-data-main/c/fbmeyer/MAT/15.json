@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Truth above Men’s Teaching -- Matthew 15:1-9\n\nThe legal washing of hands before eating was especially sacred in the eyes of the Pharisees. “He who does not wash His hands before eating,” says the Talmud, “is as bad as a murderer.” Jesus had no sympathy with a system that reduced religion to a slavery to outward forms. His new kingdom was in the heart, in loving sonship to God, and in faith. All outward observances had value only as expressions of the inner spirit. He waived aside their deadly pedantry and told His hearers to care above everything for the cleanliness of the heart.\n\nHe did more; He accused the Pharisees of putting their commandments on a level with the divine requirements, and so rendering the whole of Israel’s worship vain. The divine authority for what is commanded is greatly weakened when it is mixed up with the purely human. A multitude of saints’ days weakens the claims of the Lord’s day. Remember that no gift to God’s service is acceptable if you neglect the claims of those who are related to you by natural ties. Morality in God’s eyes stands far above ritual."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "What Really Defiles -- Matthew 15:10-20\n\nIt is good to study our Lord’s list of the sources of soul-pollution. Evil thoughts come first. We cannot prevent an evil suggestion being presented to our minds, but we can refuse to dwell on it. To resist the inclination to dwell on it strengthens us in the opposite direction; to yield to it is to commit the sin in our heart, which, in God’s sight, is equivalent to the outward act. Notice that railing, that is, unkind and uncharitable speech, is in this black-list.\n\nThe heart, rather than the body, is the source of sin. Out of the heart! The body is the dial-plate on which the soul registers its improvement or deterioration. Do not find fault with your members: look to your heart and keep it beyond keeping, for out of it are the issues of life. Ask God to create in you a clean heart. See that you distinguish between the first Adam and the second. Deny what you inherit of human weakness and sin, and affirm all that is of Christ’s imparting. The cross of Calvary and the uprising of the living Christ are facts of perpetual experience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The Reward of an Outsider’s Faith -- Matthew 15:21-28\n\nA crumb from the table of our Lord can make the heart satisfied and glad. But the suppliant must take the right place and give Him His right place. This poor Gentile mother had no claim on Jesus as the son of David-He was therefore silent. It was impossible for her to come in by the door of the covenant, but His silence led her to knock at another door, and taught her to cry, Lord, help me.There was yet another lesson for her to learn and the Lord knew that she was capable of learning it. She must realize that for the time His ministry was confined to the Chosen People, so that the Gentile claim could be recognized only incidentally. But when she was willing to take the low place under the table and ask for the children’s crumbs, He put the key of His unsearchable riches into her hand, saying, “Woman, great is thy faith: be it unto thee even as thou wilt.” Those who yield to God most absolutely are able to decree things! See Job 22:28; John 15:7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Ministering to the Multitudes -- Matthew 15:29-39\n\nOur Lord’s mission of grace and truth was at its height. His help was sought with the utmost eagerness. Large numbers of sick were cast at His feet in hot haste. The crumb was given to the woman of Canaan, but whole loaves were distributed to the crowds of Jews, because it was befitting that they should have a full chance to appreciate and accept Christ. For a brief moment they glorified the God of Israel, but the spasm of gratitude was transient. “His own” rejected Jesus. They would have His miracles, but would not own His claims. Take care that you do not become content with getting His help; love Him for Himself.\n\nDo not suppose that these miracles were confined to His earthly life. He is still the great storehouse of divine and healing energy. He is still moved with compassion, and longs to help each weary and sin-sick soul. His thought still is lest they faint by the way. The wilderness can place no bar on “the saving strength of His right hand.” Disciples especially are meant to be intermediaries and mediators. They take and give."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 16
+ }
+}

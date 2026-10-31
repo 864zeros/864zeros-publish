@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 46,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob and His Family Go to Egypt -- Genesis 46:1-27\n\nEvidently Joseph’s invitation to his father to come to him in Egypt aroused very earnest questionings in Jacob’s soul. Was it a wise step for him to take? Perhaps he remembered Genesis 15:13, and dreaded to take the risk. Under these circumstances he went to Beersheba, the well of the oath, so intimately associated with the lives of Abraham and Isaac, and from which he had gone forth on his life’s pilgrimage. There he offered special sacrifices and received special directions and promises. He was not only to go down into Egypt, but to go there under the divine guidance and protection.\n\nWhen we visit Egypt at our own impulse we shall land ourselves, as Abraham and Isaac did, in temptation and failure; but when God bids us go, we may make the journey with absolute impunity. Though we walk through the dark valley, we need not fear, if He be with us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Pharaoh Welcome’s Joseph’s Relatives -- Genesis 46:28-34; Genesis 47:1-12\n\nWhat a meeting between father and son! If the old man were sitting in the corner of the lumbering wagon, weary with the long journey, how he must have started up when they said, “Joseph is coming!” What pathos there is in the expression, “wept a good while,” as though the long-pent-up streams took a long time to exhaust themselves. Had Joseph been less noble he might have shrunk from introducing his lowly relatives to the mighty Pharaoh! But such thoughts were submerged in the great love which claimed that withered, aged, halting man as his father. Let us never be ashamed of our Savior, who has done more for us than even Jacob for his sons. This confession that the days of his pilgrimage had been few and evil is set to a sad minor chord; and to the superficial gaze Esau had enjoyed a much more prosperous career; but when Jacob stood before Pharaoh the mighty monarch recognized his moral supremacy, and bent beneath his benediction.\n\nSurely the less is blessed of the greater. Here was the harvest of his tears!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 46
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 45
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 47
+ }
+}

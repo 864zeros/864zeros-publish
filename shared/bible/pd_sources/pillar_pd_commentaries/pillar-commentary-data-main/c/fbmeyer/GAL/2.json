@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GAL",
+  "commentaryId": "fbmeyer",
+  "name": "Galatians",
+  "commonName": "Galatians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Stand Firm for Truth -- Galatians 2:1-10\n\nThe great controversy in Paul’s career was over the initial rite of Judaism. It would have been comparatively calm, if he had been willing to admit that Christianity was a sect of Judaism, and that men must become Jews before becoming Christians. His contention was that the ceremonial aspect of the Law did not apply to converts from heathendom. Gentile sinners had the right to go directly to Jesus Christ for salvation, without traveling around the circuitous route of Judaism. When men insisted on the outward rite, he resisted it with all the fiery vehemence of his nature, Galatians 2:3; Galatians 2:12. But when his opponents were willing to admit that circumcision was not essential, he administered it to one of Jewish blood, as a concession to the weak and uninstructed, Acts 16:3.\n\nWhat blessed intercourse the four men here named must have enjoyed together! James would tell of the earlier biography of Jesus, in the home of Nazareth; Peter would dwell upon his own fellowship with Christ throughout our Lord’s active ministry; John would unfold Jesus’ inner life, as he afterwards did in his Gospel; Paul would tell of that revelation of the risen Christ on the Damascus road. Note that God must work in and for us, if we are to succeed in the gospel ministry. See Galatians 2:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Living by Faith in Christ -- Galatians 2:11-21\n\nEvidently Peter had gone back from the clear revelation of Act 10:1-48, and from his former practice as stated in Galatians 2:12. The fear of the conservative party of the mother Church had brought him into a snare. His example had a very unfortunate effect upon the rest of the Hebrew Christians, who took their lead from him. But Paul’s remonstrance probably brought Peter back to his former and happier practice.\n\nPaul goes on to show that the death of Christ has taken us altogether out of the realm of the ancient Law, with its restrictions and distinctions between clean and unclean, Jew and Gentile, Galatians 2:15-19. If the conservative view was right, and it was wrong to eat with the Gentiles, then all that Christ had done and taught was in vain. Indeed, he had become a minister to sin, Galatians 2:17, because he had taught his people to associate with Gentiles. But such a suggestion was, of course, unthinkable, and therefore Peter was wrong in withdrawing from Gentile fellowship.\n\nThen the Apostle breaks out into the memorable confession of the power of the Cross in his own life, Galatians 2:20-21. It stood between him and the past. His self-life was nailed there, and this new life was no longer derived from vain efforts to keep the Law, but from the indwelling and uprising of the life of Jesus-the perennial spring of Joh 4:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 3
+ }
+}

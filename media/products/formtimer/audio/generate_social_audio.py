@@ -40,7 +40,7 @@ VARIANTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Classroom timer add-ons charging eight dollars a month per teacher? Keep your money and your students on time.",
+            "text": "Classroom timer add-ons charging recurring subscription fees per teacher? Keep your money and your students on time.",
             "lead": 0.15,
             "tail": 0.25
         },

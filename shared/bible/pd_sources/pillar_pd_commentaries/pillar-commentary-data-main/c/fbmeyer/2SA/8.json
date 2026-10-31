@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Victorious on Every Side -- 2 Samuel 8:1-18\n\nTwice in this chapter we are told that the Lord gave victory to David “whithersoever he went,” 2 Samuel 8:6; 2 Samuel 8:14. Indeed, he was more than a conqueror, for he obtained not only victory but the spoils of his foes, of which he afterward made large donations to the house of God. We are reminded of those great words: “Now thanks be unto God, who always leadeth us in triumph in Christ;” and, “They also shall overcome that are with Him [the Lamb], called and chosen and faithful,” 2 Corinthians 2:14 and Revelation 17:14, r.v.\n\nNever in this world shall we be able to lay down our weapons. Often temptations that we thought had passed out of our lives, will revive in their old vigor and present themselves with even greater subtlety and force. Resolutions and vows will fail us. We shall be constantly kept in mind of our weakness and dependence. The only victory which is permanent is our faith, which receives from Him what we cannot achieve for ourselves. It is a very humbling experience, but it is our safeguard against overweening pride."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 9
+ }
+}

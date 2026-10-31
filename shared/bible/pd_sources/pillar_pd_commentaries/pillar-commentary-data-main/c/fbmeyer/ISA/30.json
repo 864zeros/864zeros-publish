@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fatal Reliance on Human Aid -- Isaiah 30:1-17\n\nToward the close of the 8th century, b.c. Jerusalem sent ambassadors to seek help from Egypt against Assyria, in distinct defiance of God’s repeated warnings. Isaiah denounced this as adding sin to sin. Even though their princes reached Zoan and Hanes, capital cities, and succeeded in their object, it would not help them. The beasts of burden might traverse the deserts with presents and bribes, but all would be in vain. These truths, however, were unpalatable, and the politicians endeavored to silence the prophet, Isaiah 30:9-11.\n\nAll sin recoils on the sinner. At first his efforts seem to protect him, but soon the wall begins to bulge, then it totters, finally it falls. The true policy, urged by Isaiah in Isaiah 30:15, would be to renounce these efforts for Egyptian help and return to rest in the loving care of God. In returning and rest they would be saved! Oh, that we were more quiet and calm in the face of danger, hushing our fears, stilling our throbbing hearts, and leaning back on the everlasting arms! God cannot fail you, ye fearful saints."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Goodness of God’s Severity -- Isaiah 30:18-33\n\nJerusalem refused God’s invitation to return to Him and rest; they preferred to trust in Egyptian cavalry. Their Almighty Friend knew that this would end in disappointment, but He said that He would wait till they had exhausted every expedient and returned to Him. Then would He be gracious and have mercy. The results of repentance and forgiveness are set forth with singular beauty: no more tears; great grace; answered prayer; divine teaching; guidance in the right way; no more idols; good harvests and rich pasture-lands; the dumb creation benefiting by man’s repentance; and thus, in Isaiah 30:26, we come to the light of the millennial dawn.\n\nIn Isaiah 30:27-33 Jehovah is represented as coming to avenge His people and to judge their enemies. Their welcoming gladness is compared in Isaiah 30:29 to the songs of the Hebrew festivals. What a magnificent description in Isaiah 30:30-31 of Jehovah as a man of war! Every stroke He inflicted on the foe would awaken the music of tabrets and harps in the temple at Zion. Tophet, near Jerusalem, was the place where refuse was burnt. The spiritual counterpart of its fire is ever burning up the waste-products of men and nations."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 31
+ }
+}

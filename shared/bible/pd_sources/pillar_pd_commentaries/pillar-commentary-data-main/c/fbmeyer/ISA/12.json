@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Song of Thanksgiving -- Isaiah 11:10-16; Isaiah 12:1-6\n\nThe prophet’s vision extends. He has seen the effect of redemption, as it emanates from Jesus Christ, upon the whole physical creation; now he beholds also the ingathering of all Israel. The ancient enmity between Ephraim and Judah would pass away. As Paul puts it afterward, “All Israel shall be saved,” Romans 11:25-26. As they were brought out of Egypt, so shall they be brought from all the countries of the world, where they have dwelt during these Christian centuries. The return of the Jews under Ezra included those of one tribe only, and cannot fulfill the great dreams of all the prophets as here of Isaiah.\n\nThe following chapter is the counterpart of Exo 15:1-27. When their enemies are overwhelmed in the great battle of Armageddon, the ransomed hosts of Israel shall break forth in this anthem.\n\nThe Isaiah 12:3 was chanted by the priests on the last day of the Feast of Tabernacles, John 7:37-38. The little possessive pronoun my is the bucket with which we draw water from the depths of God. Our pilgrimage way is lined by these wells of saving help."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 24
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "89, Princely Generosity; the Voice of God -- Numbers 7:1-11\n\nThis and the two following chapters conclude the account of the stay at Sinai. The transport of the furniture of the Tabernacle was committed to the Levites, and the wagons, enumerated here, made their work much simpler. Two were assigned for hangings and drapery, and four for the more solid and cumbersome portions. The sacred vessels were borne on the shoulders of living men-the Kohathites.\n\nInstead of bulking together these twelve gifts, the divine Spirit lingers lovingly over each. In God’s book of remembrance each alabaster box is noted by itself. Note that the vessels were not only costly, but filled! “Both of them full!” Numbers 7:13, etc.\n\nPonder Numbers 7:89. Would that our ears were opened that we might ever hear that voice speaking from between the cherubim, directing in perplexity, and revealing the deep things of God!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 8
+ }
+}

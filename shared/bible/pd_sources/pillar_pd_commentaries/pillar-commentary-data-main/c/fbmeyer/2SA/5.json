@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "David King in Jerusalem -- 2 Samuel 5:1-12\n\nDavid was anointed thrice: by Samuel in his home, by the men of Judah, and here. So our Lord has been crowned in the Father’s purpose and by his Church. There awaits another day, when he will be recognized as King by the entire universe, Revelation 11:15, etc. The reasons for David’s coronation apply equally to our Lord: (1) kinship; (2) power to lead; (3) God’s eternal purpose.\n\nBecause of its impregnable position, it was wise policy to secure Jerusalem as the site of the capital. Here was the beginning of new prosperity for Israel, and for Jerusalem as well, which was now to become “the joy of the whole earth.” See 1 Chronicles 12:23, etc. David’s influence increased by leaps and bounds, 2 Samuel 5:10. There broke on his mind a perception of the divine purpose, 2 Samuel 5:12. Often we are unable to descry this in the earlier stages of our life. We see no meaning, no purpose. But as year is added to year, God’s great scheme begins to unfold. Only be sure that any position or opportunity is intended, not for us alone, but for his people’s sake."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Jehovah’s Victories over the Philistines -- 2 Samuel 5:13-25\n\nDavid’s prosperity led to luxurious living and sensual indulgence, out of which sprang the troubles of his after-life, 2 Samuel 5:13; 2 Samuel 5:15.\n\nThe Philistines watched the acquisition of Jerusalem with profound anxiety. It was against their policy for David to be the head of a united nation. It would seem that their first onset drove him back to the cave of Adullam, 2 Samuel 5:17. This was a startling reversal of fortune, but it was salutary that, now as ever, David should learn how dependent he was on God, and that God, who had given him so much, might at any time withdraw his gifts. Loneliness, failure, solitude are necessary for us all! Twice David sought direction as to the ordering of the fight.\n\nOn the first occasion, the command was, Go up; on the second, Thou shalt not go up. In the first battle the Philistine position was carried by assault; in the second it was turned by ambush. The movement in the trees suggests the footfalls of angel-squadrons. Oh, for the quick ear to detect the goings-forth of God’s help, and grace to bestir ourselves to follow!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 6
+ }
+}

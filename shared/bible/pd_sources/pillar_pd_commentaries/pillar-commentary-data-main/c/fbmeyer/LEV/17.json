@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Life of the Flesh is in the Blood” -- Leviticus 17:1-16\n\nEvery animal that was slain for food was regarded as a kind of peace-offering, and was therefore slain at the door of the Tabernacle. This law, though it expressed a great principle, was only provisional. It was kept as long as Israel dwelled in the Wilderness, but repealed when they entered the Land of Promise, where their numbers and diffusion would have rendered its strict observance impossible. See Deuteronomy 12:15-24.\n\nVery earnest insistence is laid on the prohibition of blood as an article of diet. See Leviticus 17:10, etc. The reason of this is in the repeated announcement that the life (or soul) is in the blood, Leviticus 17:11 and Leviticus 17:14. When we are told that the blood maketh atonement, we learn that it does so because it represents the soul of the victim. Life is given for life, soul for soul.\n\nThus our Lord gave His blood, i.e., His life or soul, a ransom for many. “He poured out His soul unto death.” See Isaiah 53:12. It was His blood, not as it was in His veins, but as poured out, that effected the reconciliation. See Ephesians 1:7. It is the death of Christ in which the sinner finds peace. Compare Leviticus 16:30 and 1 John 1:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 23
+ }
+}

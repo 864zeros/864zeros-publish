@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Herald Prepares the Way -- Matthew 3:1-12\n\nMatthew’s Gospel heralds the Kingdom. We are allowed to see and listen to the forerunner, whose voice again awoke the hearts of men with prophetic utterance after a silence of four hundred years. He leaps into the arena with the suddenness of Elijah.\n\nHis message was twofold-the need for repentance and the announcement of the nearness of the Kingdom; it thrilled his generation with a strange wonder and interest. All of the southern part of the country seemed to empty itself into the Jordan valley. Yes, if a man is not a reed shaken by the wind, not effeminate in court dress, not a copy but an original, who speaks what he sees and knows of God, men will come to Him in every age.\n\nTo us also John the Baptist must come, if we shall properly appreciate the Redeemer. We must expose ourselves to the fire, the ax, the winnowing-fan, that we may learn what we really are and come, like Paul, to reckon our own righteousness as loss, if only we may win Christ and be found in Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Baptized with the Spirit -- Matthew 3:13-17\n\nWhile John was denouncing the sins of others, he was very conscious of his own. He melted in holy humility before the one nature in which his keen eye detected no trace of impurity, and he strenuously strove to forbid the incongruity of his polluted hands baptizing so pure a being as he felt Christ to be.\n\nOur Lord accepted the disclaimer but overruled it. He alone of all holy men had no consciousness of sin. “He did no sin, neither was guile found in His mouth,” 1 Peter 2:22. As God’s designated Lamb, He was narrowly searched, but those who knew the most about Him were compelled to attest His innocence and purity. Yet He was baptized that He might assume the sinner’s guilt, standing with him and for him and identifying Himself with his lot. Then He was anointed by the Spirit, and attested by the Father’s voice. Probably only John and He were aware of these celestial tokens. See John 1:32. But let us stand beneath the same chrism which made Him the Christ. See 1 John 2:20; 1 John 2:27."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 4
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1PE",
+  "commentaryId": "fbmeyer",
+  "name": "1 Peter",
+  "commonName": "1 Peter",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Building on the Precious Corner-Stone -- 1 Peter 2:1-10\n\nIt is easy to lay aside malice, guile and evil speaking, when we are constantly feeding on the unadulterated milk of spiritual truth. If you have tasted of the grace of Jesus, you will not want to sip of the wine of Sodom. Drink, O beloved, eat and drink abundantly, that we may grow, casting aside sinful and childish things.\n\nThe changing imagery of the next paragraph is remarkable. As we touch the Living Stone we live, and we touch others who are touching Him, and so a temple begins to grow up. Then we become a holy priesthood in the temple, and finally the sacrifices which are offered within its precincts. If Christ is not that Living Stone for you, He will be your undoing.\n\nAll that God said of His ancient people may be realized by us in and through Christ. Compare 1 Peter 2:9 with Exodus 19:6. Thus songs of praise are ever ascending to Him who has called us into His light."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Christian Pilgrim’s Walk -- 1 Peter 2:11-17\n\nStrong desires must be kept under the stronger hand of the Christian soul-not extirpated but turned into right directions as God’s providence points the way. Our desires ultimately rule our prayers and our life. We must therefore keep them above all else, for out of the heart are the issues of life. “Cleanse thou the thoughts of our heart by the inspiration of thy Holy Spirit, that we may perfectly love thee.” God does not wish the extirpation of any element of our nature, but its consecration. We must not allow wrong things; and we must not allow the abuse or excess of right ones. The silent witness of a holy life or a well-ordered home is of incalculable worth. Oh that people in contact with us may turn from us to glorify God! See 1 Peter 2:12.\n\nThough we do not belong to this world, but are passing through it to our home, we should show ourselves willing to conform to the institutions and customs of the world around us, so far as we can do so without injury to conscience or betrayal of the rights of Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Following the Shepherd of Souls -- 1 Peter 2:18-25\n\nThe argument from this point seems to be: Since you have been redeemed, live worthily of your heavenly calling in relation to your fellow-believers, to God, and to the state, 1 Peter 2:17; to your employers, 1 Peter 2:18; to husbands, 1 Peter 2:1; to wives, 1 Peter 2:7; to everyone, 1 Peter 2:8.\n\nSome of the tenderest words in the Epistles are addressed to the household slaves, who constituted a very important part of the primitive Church. Masters and mistresses had absolute control over their chattels; and might put them to death without interference from the state. The Apostle endeavors to cheer them while bearing their nameless wrongs. They were to bear all their sorrows patiently and silently, following in the footsteps of their Lord, and certain that He would vindicate them.\n\nLet employees remember that they have been placed in worldly and ungodly homes as lamps on dark landings, in order to bear witness to Jesus by the simplicity and beauty of their conversation. And the way of the Cross is the only safe way for us all, if we would keep in touch with our Shepherd and Protector."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 3
+ }
+}

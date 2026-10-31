@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 50,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Help for Those Who Trust in Him -- Isaiah 50:1-11\n\nIt is impossible for God to put away the soul that clings to Him in penitence and faith. Heaven and earth may be searched, but no bill of divorce can be found. See Deuteronomy 24:1. And He sends His great servant, our Lord, of whom this chapter is full, to deliver and assure our trembling faith.\n\nNotice the difference in Isaiah 50:4, between the Authorized Version and the Revised Version which reads, Jehovah hath given me the tongue of them that are taught, that I may know how to sustain with words him that is weary…. He wakeneth mine ear to hear as they that are taught. This quality of teachableness was primarily true of Jesus. It was the habit of His human life to listen to the secret teaching of the Father, breathed into His heart. See John 8:28; John 8:40. So also must we allow ourselves to be wakened by Him, each morning, that we also may know how to help men more efficiently and tenderly.\n\nFrom the first, Jesus knew that He must die. See Mark 10:34. But He did not turn back. See Hebrews 10:5, etc. Was not His choice abundantly vindicated? The Father who justified Him was always near, John 8:29. See John 16:22. Let us who may be walking in darkness learn from our King to stay ourselves on God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 50
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 49
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 51
+ }
+}

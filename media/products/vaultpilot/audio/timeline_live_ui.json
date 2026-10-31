@@ -1,0 +1,67 @@
+{
+  "variant": "live_ui",
+  "total_duration": 28.406,
+  "soundtrackWav": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\soundtrack_live_ui.wav",
+  "scenes": [
+    {
+      "id": "live_step1_hook",
+      "stepLabel": "STEP 1 \u00b7 THE PROBLEM (0\u20132s)",
+      "caption": "Copying web articles into Obsidian ruins tables and code blocks.",
+      "text": "Copying web articles into Obsidian ruins tables and code blocks.",
+      "duration": 3.772018,
+      "durationMs": 3772,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step1_hook.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step1_hook_raw.mp3",
+      "start": 0.0,
+      "end": 3.772
+    },
+    {
+      "id": "live_step2_payoff",
+      "stepLabel": "STEP 2 \u00b7 INSTANT UI PAYOFF (2\u20135s)",
+      "caption": "Click 'Clip Selection' \u2014 clean Markdown drops into your vault immediately.",
+      "text": "Watch this: click Clip Selection, and clean Markdown lands in your vault immediately.",
+      "duration": 4.98,
+      "durationMs": 4980,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step2_payoff.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step2_payoff_raw.mp3",
+      "start": 3.772,
+      "end": 8.752
+    },
+    {
+      "id": "live_step3_configure",
+      "stepLabel": "STEP 3 \u00b7 CUSTOMIZE RULES & TAGS",
+      "caption": "Toggle frontmatter metadata, code-fence tags, and target vault folder.",
+      "text": "In the side panel, toggle your frontmatter tags, keep code syntax intact, and choose your target vault folder.",
+      "duration": 6.684014,
+      "durationMs": 6684,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step3_configure.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step3_configure_raw.mp3",
+      "start": 8.752,
+      "end": 15.436
+    },
+    {
+      "id": "live_step4_write",
+      "stepLabel": "STEP 4 \u00b7 DIRECT LOCAL DISK WRITE",
+      "caption": "Writes directly to your local folder with zero cloud servers or accounts.",
+      "text": "Every note saves directly to your computer with zero cloud servers and zero tracking.",
+      "duration": 4.788005,
+      "durationMs": 4788,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step4_write.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step4_write_raw.mp3",
+      "start": 15.436,
+      "end": 20.224
+    },
+    {
+      "id": "live_step5_outro",
+      "stepLabel": "STEP 5 \u00b7 NO MONTHLY RENT \u00b7 TRY FREE",
+      "caption": "Free Markdown mode included \u00b7 one-time lifetime unlock \u00b7 Chrome & Edge",
+      "text": "No monthly rent, one-time unlock. Try the interactive demo or install on Chrome and Edge at eight sixty-four zeros dot com.",
+      "duration": 8.182018,
+      "durationMs": 8182,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step5_outro.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\vaultpilot\\audio\\live_step5_outro_raw.mp3",
+      "start": 20.224,
+      "end": 28.406
+    }
+  ]
+}

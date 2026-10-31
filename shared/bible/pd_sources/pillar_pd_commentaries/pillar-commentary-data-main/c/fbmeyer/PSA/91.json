@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 91,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Security in Trusting the Lord -- Psalms 91:1-16\n\nIn harmony with the new light cast upon it by the Revised Version, this psalm has been divided as follows: Psalms 91:1-2, a soliloquy in which the believer states the blessedness of dwelling under God’s sheltering care, and encourages his heart to exercise personal faith; Psalms 91:3-8, the assurance of a chorus of voices, which emphasize the safety of those who believe; Psalms 91:9 a, an exclamation in which the believer again expresses his resolve to exercise this personal faith; Psalms 91:9 b-13, the second assurance of a chorus of reassuring voices; Psalms 91:14-16, God’s ratification of the whole attitude and expressions of the psalmist and his friends.\n\nThe psalm abounds in metaphors familiar to the East: the lion with its roar and leap in the open; the adder with its stealthy glide through the grass; the nocturnal assault; the devastating plague; the fowler’s snare; the eagle’s wing; the transitory tent. This is the traveler’s psalm, and may well be read in private or with the family, whenever we are starting on a journey.\n\nBut notice the closing, Psalms 91:14-16. Our conceptions of God’s care are too narrow. We fail to make enough use of the power, love, and presence of His fatherhood, which is waiting and longing to be called upon. Only we must exercise an appropriating faith."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 91
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 90
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 92
+ }
+}

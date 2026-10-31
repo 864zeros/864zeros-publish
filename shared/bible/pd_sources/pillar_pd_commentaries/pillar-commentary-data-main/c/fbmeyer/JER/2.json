@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ungrateful Forgetfulness -- Jeremiah 2:1-8; Jeremiah 26:1-24; Jeremiah 27:1-22; Jeremiah 28:1-17; Jeremiah 29:1-32; Jeremiah 30:1-24; Jeremiah 31:1-40; Jeremiah 32:1-44\n\nGod regarded Israel as His bride, who had responded to His love, or as a vineyard and cornfield which were expected to yield their first fruits in response to the careful cultivation of the owner. Why had they failed to respond? For the answer let us question our own hearts. What marvels of perversity and disappointment we are! Who can understand or fathom the reason of our poor response to the yearning love of Christ! The heathen, in their punctilious devotion and lavish sacrifices at their idol-shrines, may well shame us.\n\nThe root of the evil is disclosed in Jeremiah 2:31. We like to be lords, to assume and hold the mastery of our lives. But God has been anything but a wilderness to us. He has given us ornaments, and we owe to His grace the garments of righteousness which He has put on us. In return we have forgotten Him days without number, Jeremiah 2:32. Let us ask Him to call us back-nay more, to draw us by the chains of love."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 3
+ }
+}

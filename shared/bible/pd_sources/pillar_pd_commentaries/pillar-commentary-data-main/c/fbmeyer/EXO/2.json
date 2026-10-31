@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moses Preserved by Pharaoh’s Daughter -- Exodus 2:1-10\n\nWhen matters had reached their worst in respect to Israel’s condition, God was preparing a deliverer. The child was more than ordinarily beautiful, Acts 7:20. His parents hid him by faith, Hebrews 11:23. Perhaps they had received a special revelation of his great future, on the strength of which they became strong to resist the royal command. They launched the ark, not on the Nile only, but on God’s Providence. He would be captain, steersman, and convoy of the tiny bark. Miriam stood to watch. There was no fear of fatal consequences, only the quiet expectancy that God would do something worthy of Himself. They reckoned on God’s faithfulness, and they were amply rewarded, when the daughter of their greatest foe became the babe’s patroness. See Psalms 76:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Moses Slays an Egyptian and Flees to Midian -- Exodus 2:11-25\n\nAmid all the allurements of Pharaoh’s court, the heart of Moses beat true to his own people. Neither the treasures of Egypt, nor the pleasures of sin; the attraction of human love, nor the glamour of the world’s smile, could turn him aside from his own folk. A light shone for him over the humble huts of Goshen, before which that of Pharaoh’s palaces paled. Some glimmering knowledge of the promised Christ appears to have been present to his mind; and he esteemed that hope to be greater riches than the treasures of Egypt. Hebrews 11:26.\n\nHe had, however, much to learn. By strength no man can prevail. The battle is not to the strong, nor the race to the swift. The salvation of Israel from their untold miseries must be due, from first to last, to the outstretched hand of their Almighty Protector. Hence the failure of Moses’ first attempt. Instead of looking “this way and that,” he must look upward."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 3
+ }
+}

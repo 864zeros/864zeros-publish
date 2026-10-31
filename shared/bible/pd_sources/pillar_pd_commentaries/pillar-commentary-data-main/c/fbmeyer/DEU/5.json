@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Decalogue Repeated -- Deuteronomy 5:1-21\n\nThe Law of God is for “all Israel.” None are exempt. “Not with our fathers” means not with them only; Moses also uses the expression because many of the references of the Decalogue were to the settled life of Canaan. “Face to face,” not in dark visions, but clearly and lucidly, Job 4:12-13. Our “face-to-face” vision is yet to come, 1 Corinthians 13:12; Revelation 22:4. Notice in Deuteronomy 5:5 the ideal mediator, Galatians 3:19; 1 Timothy 2:5.\n\nEvery soul has two givings of the Law. First, we stand under Sinai to be judged, condemned, and shut up to Christ as our only hope; then we come to it a second time, asking that the Holy Spirit should write it in our hearts, and make us to walk in obedience to its precepts, Galatians 3:23; Romans 8:4.\n\nAdolphe Monod, on his death-bed, said: “Sin has two divisions; the evil that we have done and the good that we have left undone. As to the first, there is not a single command that I have not transgressed in letter or spirit; as to the second, it weighs on me even more than the first.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Moses between God and the People -- Deuteronomy 5:22-33\n\n“He added no more” -i.e., the Law is perfect. It is written in stone, and therefore is permanent. When the conscience has not learned the efficacy of the blood of Jesus it shrinks from contact with God’s holiness, Deuteronomy 5:24-26. But such fear does not save us from going back to our calf-making and license.\n\nTurn from Moses to our blessed Lord, who went into the middle of the thunder and lightning which our sin had incurred. On Him the full force of the storm broke, and we were delivered. Adolphe Monod said: “I have a firm and peaceful confidence in the redemption of Jesus Christ, in His blood and sacrifice, accepted before God, taking the place of the good which I have not done and repairing the evil that I have done.”\n\nNote the yearning of Deu 5:29. It repeats itself elsewhere, Isaiah 48:18; Matthew 23:37. See also Ezekiel 36:26."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 6
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Widening Fields -- Mark 6:1-20\n\nIn the opening paragraph of this chapter, we learn of hatred and rejection of those who had enjoyed the rich privileges of being the neighbors and associates of our Lord from His earliest days. They could not discern the divine in the human, the heavenly under the earthly veil. The Savior, therefore, driven from their towns, goes about among the villages, depriving Himself of the companionship of His disciples, in order to spread the good news as far as possible. The Lord is still in His Church through the Holy Spirit, but His power is limited and neutralized by our unbelief. It is useless to ask Him to put forth His great power and save us, so long as we have made it practically impossible for Him to do as we ask. The oldtime cry was: “Why shouldst thou be as a mighty man that cannot save?” The answer is supplied here: He could do no mighty work,… and he marveled at their unbelief. Faith is our capacity for God, and there are several conditions for its nurture and growth.\n\nWith what simplicity the Twelve were started on their mission, Mark 6:7. But with what authority they spoke! Simplicity and power are closely allied. The truly strong soul is not in need of the external surroundings and circumstances on which others lean; and in proportion to our willingness to deprive ourselves of the sources of human confidence may we lay hold on and possess divine power."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Martyrdom of a Witness-Bearer -- Mark 6:21-29\n\nBetter the dungeon with John than the palace with Herod, for conscience filled the palace with the ghost of the murdered Baptist! A woman brought Herod to that. How careful women should be of the influence they exert over men; how careful men should be of yielding to any but the noblest influence! This family was eaten with lust, usually coupled with cruelty. No vice ever dwells alone. John the Baptist had a brief and tortuous career; for a few months the central figure of the nation, and then hurled down into the darkness of the dungeon, like some extinguished torch.\n\nNo wonder that his specter haunted the heart of Herod, who thought that in Jesus he had become reincarnate. The messenger may fall, but the message is taken up and passed on by a thousand lips. Notice the contrast between John’s end and that of our Lord. In John’s case the disciples who had hearkened to his every word dispersed. The head had fallen, and the members were scattered. None thought of proclaiming their departed leader as still the living head and center of the movement he had set on foot.\n\nBut when our Lord died, His true influence over men began. Up to that time he had been the Jewish rabbi; thenceforward he became the Redeemer of the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "The Sympathy and Compassion of Jesus -- Mark 6:30-56\n\nWhen the Apostles returned they had much to tell. Some were flushed with success, others radiant with victory over demons, others, perhaps, overstrained and weary, and all needing the quiet, holy influence of repose and silence in the Lord’s company. And in those quiet hours or days, as the fever passed out of them, He taught them memorable lessons of how He would feed the world by His Church, and how His people would be safe amid the storms that swept the sea, for always he would watch them from the height, and come to them at the moment when His help was most needed. Christ sits as host at the great table of the Church, and the meager resources of His servants yield the starting point for His multiplication of bread. He bids us go and consider how little we have, that we may properly estimate the greatness of His help. Notice how the upward look precedes the breaking and giving.\n\nThere is enough for each, not of bread alone, but of fish; and the disciples are refreshed by another kind of ministry. So the Lord recreates us by turning exhausted energies into new channels. What threatens to overpower us brings Christ to our side. But His footsteps must be arrested, if we would have His company. Where Jesus is, storms cease and the sick are made whole."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 7
+ }
+}

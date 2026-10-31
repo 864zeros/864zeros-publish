@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --parchment: #F6EFE4;
+    --alabaster: #FDFCF8;
+    --charcoal: #2D2D2D;
+    --muted: #5C574F;
+    --bronze: #8B6642;
+    --sage: #8BA888;
+    --sage-deep: #3E5A3C;
+    --line: rgba(139, 102, 66, 0.22);
+  }
+  body {
+    width: 1920px; height: 1080px; overflow: hidden;
+    background: radial-gradient(circle at 75% 20%, #FDFCF8 0%, #F6EFE4 68%, #EAE0D0 100%);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    color: var(--charcoal); position: relative; user-select: none;
+  }
+  .top-progress { position: absolute; top: 0; left: 0; height: 10px; width: 0%; background: linear-gradient(90deg, var(--sage-deep), var(--bronze)); z-index: 100; }
+  .header {
+    height: 86px; padding: 0 64px;
+    display: flex; align-items: center; justify-content: space-between;
+    border-bottom: 1.5px solid var(--line); background: rgba(253,252,248,0.82);
+  }
+  .brand { display: flex; align-items: center; gap: 14px; font-size: 28px; font-weight: 900; }
+  .brand img { width: 46px; height: 46px; border-radius: 10px; }
+  .brand span { color: var(--bronze); }
+  .pill { background: rgba(139,168,136,0.22); border: 2px solid var(--sage-deep); color: var(--sage-deep); padding: 8px 20px; border-radius: 999px; font-weight: 800; font-size: 18px; }
+  .workspace {
+    display: grid; grid-template-columns: 1.15fr 0.85fr; gap: 36px;
+    padding: 36px 64px; height: 840px; align-items: stretch;
+  }
+  .browser-pane {
+    background: var(--alabaster); border: 2px solid var(--line); border-radius: 22px;
+    box-shadow: 0 24px 60px rgba(45,45,45,0.12); display: flex; flex-direction: column; overflow: hidden;
+  }
+  .browser-bar {
+    background: #EFE7D8; padding: 14px 22px; border-bottom: 1.5px solid var(--line);
+    display: flex; align-items: center; gap: 14px; font-size: 17px; font-weight: 700; color: var(--muted);
+  }
+  .dots { display: flex; gap: 8px; }
+  .dots i { width: 12px; height: 12px; border-radius: 50%; background: var(--bronze); opacity: 0.55; display: inline-block; }
+  .url-pill { background: var(--alabaster); border: 1px solid var(--line); padding: 6px 16px; border-radius: 8px; flex: 1; color: var(--charcoal); font-family: Consolas, monospace; }
+  .article-body { padding: 34px 40px; flex: 1; display: flex; flex-direction: column; justify-content: space-between; }
+  .kicker { display: inline-block; color: var(--bronze); background: rgba(139,102,66,0.12); border: 1.5px solid var(--bronze); padding: 6px 16px; border-radius: 999px; font-size: 15px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 14px; }
+  .art-title { font-size: 40px; font-weight: 900; line-height: 1.15; margin-bottom: 14px; color: var(--charcoal); }
+  .art-sub { font-size: 22px; line-height: 1.48; color: var(--muted); margin-bottom: 22px; }
+  .obsidian-window {
+    background: #1B1F23; border: 2px solid var(--sage); border-radius: 16px; padding: 20px 24px;
+    color: #E8ECEA; font-family: Consolas, monospace; font-size: 17px; line-height: 1.5;
+    transition: all 0.3s ease;
+  }
+  .obsidian-head { display: flex; justify-content: space-between; align-items: center; color: #8BA888; font-family: sans-serif; font-weight: 800; font-size: 16px; margin-bottom: 10px; }
+
+  .sidepanel {
+    background: #14171A; color: #E8ECEA; border-radius: 22px; border: 2.5px solid #2C3439;
+    box-shadow: 0 26px 65px rgba(45,45,45,0.24); display: flex; flex-direction: column; overflow: hidden;
+  }
+  .sp-head { background: #1B1F23; padding: 18px 22px; border-bottom: 1px solid #2C3439; display: flex; align-items: center; gap: 10px; font-size: 20px; font-weight: 800; }
+  .sp-pill { background: #8BA888; color: #12160F; font-size: 13px; font-weight: 900; padding: 3px 9px; border-radius: 6px; }
+  .sp-body { padding: 18px; display: flex; flex-direction: column; gap: 12px; flex: 1; }
+  .sp-save { background: #8BA888; color: #12160F; border-radius: 12px; padding: 13px; text-align: center; font-weight: 900; font-size: 18px; }
+  .sp-tags { display: flex; gap: 8px; }
+  .sp-tag { background: #1B1F23; border: 1px solid #2C3439; color: #9AA6A2; padding: 4px 12px; border-radius: 999px; font-size: 14px; font-weight: 700; }
+  .sp-tag.on { background: #8BA888; color: #12160F; border-color: #8BA888; }
+  .sp-card { background: #20262B; border: 1.5px solid #8BA888; border-radius: 14px; padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+  .sp-card-title { font-size: 18px; font-weight: 800; color: #fff; }
+  .sp-note { background: #14171A; border: 1px solid #2C3439; border-radius: 10px; padding: 10px 12px; font-size: 15.5px; color: #E8ECEA; line-height: 1.4; }
+  .sp-actions { display: flex; gap: 10px; padding-top: 8px; border-top: 1px solid #2C3439; }
+  .sp-btn-obs { background: #8BA888; color: #12160F; padding: 8px 16px; border-radius: 8px; font-weight: 900; font-size: 15px; }
+  .sp-btn-md { background: #14171A; border: 1px solid #2C3439; color: #E8ECEA; padding: 8px 14px; border-radius: 8px; font-weight: 700; font-size: 15px; }
+  .sp-card-compact { background: #1B1F23; border: 1px solid #2C3439; border-radius: 12px; padding: 13px 16px; display: flex; justify-content: space-between; font-size: 16px; font-weight: 600; color: #C7CEDB; }
+
+  .caption-strip {
+    position: absolute; bottom: 24px; left: 64px; right: 64px; height: 104px;
+    background: var(--charcoal); border: 2.5px solid var(--bronze); border-radius: 20px;
+    display: flex; align-items: center; justify-content: center; padding: 0 36px;
+    color: var(--alabaster); font-size: 27px; font-weight: 800; text-align: center;
+  }
+</style>
+</head>
+<body>
+  <div class="top-progress" id="progressBar"></div>
+  <div class="header">
+    <div class="brand">
+      <img src="data:image/png;base64,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" alt="LinkLater" />
+      864<span>zeros</span> · LinkLater v1.0.1 Live UI Walkthrough
+    </div>
+    <div class="pill">100% Local Queue · Free .md Export · 1-Click Send to Obsidian</div>
+  </div>
+
+  <div class="workspace">
+    <div class="browser-pane">
+      <div class="browser-bar">
+        <div class="dots"><i></i><i></i><i></i></div>
+        <div class="url-pill" id="urlBar">https://example.com/blog/pricing-teardown</div>
+      </div>
+      <div class="article-body">
+        <div>
+          <span class="kicker" id="stageKicker">LIVE BROWSER + OBSIDIAN VAULT HANDOFF</span>
+          <h1 class="art-title" id="stageTitle">Save Any Page With Notes &amp; Send Straight to Obsidian</h1>
+          <p class="art-sub" id="stageSub">LinkLater captures the active tab in your browser side panel, auto-saves your personal notes and #tags, and routes clean YAML-frontmatter Markdown directly into Obsidian via obsidian://new.</p>
+        </div>
+        <div class="obsidian-window" id="obsidianBox">
+          <div class="obsidian-head">
+            <span>🟣 OBSIDIAN VAULT · Pricing page teardown.md</span>
+            <span>✓ OPENED VIA OBSIDIAN://NEW</span>
+          </div>
+---<br/>
+title: "Pricing page teardown: 12 SaaS examples"<br/>
+source_url: "https://example.com/blog/pricing-teardown"<br/>
+timestamp: "2026-10-28T18:00:00.000Z"<br/>
+status: "unread"<br/>
+tags: ["pricing", "obsidian", "research"]<br/>
+---<br/>
+# Pricing page teardown: 12 SaaS examples<br/>
+&gt; A breakdown of how 12 companies structure their pricing pages.<br/>
+Use the 3-tier anchor pattern on slide 4 for our launch page.
+        </div>
+      </div>
+    </div>
+
+    <div class="sidepanel">
+      <div class="sp-head"><span class="sp-pill">CMC</span>LinkLater<span style="margin-left:auto;color:#9AA6A2;font-size:15px;">v1.0.1 ⚙</span></div>
+      <div class="sp-body">
+        <div class="sp-save" id="saveBtn">+ Save this page</div>
+        <div class="sp-tags">
+          <span class="sp-tag on">#pricing</span>
+          <span class="sp-tag">#obsidian</span>
+          <span class="sp-tag">#research</span>
+          <span class="sp-tag" style="margin-left:auto;">Unread (3)</span>
+        </div>
+        <div class="sp-card">
+          <div class="sp-card-title">Pricing page teardown: 12 SaaS examples</div>
+          <div style="font-size:13px;color:#8BA888;">example.com · saved just now</div>
+          <div class="sp-note">Use the 3-tier anchor pattern on slide 4 for our launch page.</div>
+          <div class="sp-actions">
+            <span class="sp-btn-obs" id="obsBtn">⚡ Send to Obsidian</span>
+            <span class="sp-btn-md">Export .md</span>
+          </div>
+        </div>
+        <div class="sp-card-compact"><span>The Design of Everyday Things — key ideas</span><span style="color:#8BA888;">#design ›</span></div>
+        <div class="sp-card-compact"><span>How memory works — plain-language guide</span><span style="color:#8BA888;">#research ›</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="caption-strip" id="captionText">Keeping forty browser tabs open just so you don't lose one good link?</div>
+
+  <script>
+    const SCENES = [
+      {
+        start: 0.0, end: 3.922,
+        kicker: "0–2s · THE 40-TAB READING QUEUE PROBLEM",
+        title: "Stop Keeping 40 Browser Tabs Open Just to Save a Link",
+        text: "Keeping forty browser tabs open just so you don't lose one good link?"
+      },
+      {
+        start: 3.922, end: 12.504,
+        kicker: "INSTANT LIVE UI PAYOFF · 1-CLICK OBSIDIAN BRIDGE",
+        title: "Click Save, Jot Your Note & Click Send to Obsidian",
+        text: "Watch this: click Save in LinkLater, jot a quick note, and click Send to Obsidian—your note lands inside your local vault in one second."
+      },
+      {
+        start: 12.504, end: 23.438,
+        kicker: "TAGS, UNREAD FILTER & FULL DIGEST HANDOFF",
+        title: "Filter by #Tags, Export .md Free, or Send Full Digest to Obsidian",
+        text: "Tag every link, filter unread versus read, export clean Markdown files free, or send your entire reading digest straight to Obsidian with zero cloud accounts."
+      },
+      {
+        start: 23.438, end: 33.796,
+        kicker: "NO MONTHLY RENT · SOVEREIGN OWNERSHIP",
+        title: "Free Reading Queue & .md Export Forever · One-Time Obsidian Bridge",
+        text: "Saving pages, notes, tags, and Markdown file export are free forever—with a one-time lifetime Obsidian Bridge unlock and zero monthly subscriptions."
+      },
+      {
+        start: 33.796, end: 39.074,
+        kicker: "TRY THE LIVE SANDBOX AT 864ZEROS.COM",
+        title: "Own Your Reading List — 864zeros.com/products/link-later.html",
+        text: "Own your reading list. Get LinkLater at eight sixty-four zeros dot com."
+      }
+    ];
+    const TOTAL_DURATION = 39.074;
+    const progressBar = document.getElementById('progressBar');
+    const captionText = document.getElementById('captionText');
+    const stageKicker = document.getElementById('stageKicker');
+    const stageTitle = document.getElementById('stageTitle');
+
+    window.renderAtTime = function(t) {
+      t = Math.max(0, Math.min(TOTAL_DURATION, t));
+      progressBar.style.width = ((t / TOTAL_DURATION) * 100) + '%';
+      let cur = SCENES[0];
+      for (const s of SCENES) {
+        if (t >= s.start && t < s.end) { cur = s; break; }
+      }
+      if (t >= SCENES[SCENES.length - 1].start) cur = SCENES[SCENES.length - 1];
+      stageKicker.textContent = cur.kicker;
+      stageTitle.textContent = cur.title;
+      captionText.textContent = cur.text;
+    };
+    window.renderAtTime(0);
+  </script>
+</body>
+</html>

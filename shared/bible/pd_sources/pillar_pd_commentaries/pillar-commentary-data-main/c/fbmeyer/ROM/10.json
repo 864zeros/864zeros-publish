@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Missing God’s Way of Salvation -- Romans 10:1-10\n\nHow earnestly the Apostle loved his own people! All their hatred of him could not extinguish the passionate devotion which he entertained for them. “Apostle to the Gentiles” he might be, but he was essentially an Israelite, of the seed of Abraham, of the tribe of Benjamin, Romans 11:1. The whole reason of their rejection of the gospel lay in their inveterate refusal to submit, Romans 10:3. Is not that the difficulty with us all? It is not that we cannot believe, but that we will not submit to God’s way of righteousness, so humbling is it to our pride.\n\nIf only God would allow us to scale the heights or plumb the depths, to do some great thing, to make some vast sacrifice, we should be satisfied to be saved, and His help in the process would not be resented. But it is intolerable to our proud hearts to be told that our own efforts are useless, and that the exclusive source of salvation is God’s grace.\n\nNotice the distinction between righteousness and salvation, Romans 10:9. The one is objective; the other subjective. The first, our standing before God, the latter, the sanctification of our inner life, which not only depends upon the belief of the heart, but requires the confession that Jesus Christ has become Lord and King of the whole nature."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Needing Messengers of Good Tidings -- Romans 10:11-21\n\nThe Chosen People chafed, not only at the freeness of God’s justifying grace, but because there was no difference made, so far as salvation was concerned, between them and the Gentiles. Surely there ought to be a special doorway for them into eternal life, apart from that trodden by the feet of the ordinary heathen world! Were they not the children of Abraham, the friend of God? Here the Apostle was compelled to withstand them. No, said he, it cannot be! There is no difference between Jew and Greek. All have sinned, and the same Lord is over all, rich to those who call upon Him, of whatever nationality.\n\nThe guests for whom the marriage feast was prepared refused to come, and therefore it was decreed that the servants of the great King should preach the gospel to every creature, and scour the highways and byways of the world for guests. The remainder of the chapter, Romans 10:14, etc., therefore vindicates the Apostle in his determination to preach the gospel beyond the limits of his own people; and in doing so, he was acting upon the old words of Deu 32:21. God would provoke their jealousy by a no-people, as they had provoked His by no-gods, Romans 10:19."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 11
+ }
+}

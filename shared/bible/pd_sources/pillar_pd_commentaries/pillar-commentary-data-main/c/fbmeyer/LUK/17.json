@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Take Heed to Yourselves” -- Luke 17:1-10\n\nThe world is full of stumbling-blocks. Men are perpetually placing them in each other’s way; and especially before little children, the simple and the weak. Let us take heed to ourselves and endeavor to make life’s pathway easier for others. Let us spend lives of helpfulness and sympathy, full of love and forgiveness, of light and joy.\n\nDo these precepts seem too difficult? Does a sevenfold forgiveness seem impossible? Then learn the lesson of the mustard seed, which opens its tiny door to the inflow of Nature’s energy and is therefore enabled to produce what, to its unaided strength, would be impossible. Open your soul to God! His love through you will forgive and save to the uttermost!\n\nBut when you have done all, you have nothing to be proud of, and neither God nor man is under any obligation to you. Love is the elementary duty of the follower of Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Man Who Was Grateful -- Luke 17:11-21\n\nTheir common misery drew these poor outcasts together and made them forget the fierce national antipathies of Jew and Samaritan. When bidden to go to the priest, before there were any outward signs of healing, they started, and thus gave evidence of their faith that they were healed. It was this faith that saved them, because faith like this lets in the whole tide of God’s saving health. In the case of the poor alien, it was clear that he was not only healed, but saved, as his gratitude and worship indicated. Do we thank God, not only for His miracles, but for His daily providence?\n\nThe best things are stillest. The deepest work of God, in the individual and in the community, does not reveal itself to the newspaper reporter, but steals on the world like Spring through garden and woodland."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "“The Days of the Son of Man” -- Luke 17:22-37\n\nClearly enough, our Lord foresaw the approaching dissolution of the Jewish state. There was no help for it, notwithstanding all that the Baptist and Christ Himself had done. Suddenly and inevitably its doom must befall, as the deluge in the old world and the overthrow of Sodom. The Roman eagles would gather round the devoted city and only instant flight would avail. The early Christian disciples were warned by these words, and escaped to Pella, before Titus struck the last blow.\n\nSince then other catastrophes have befallen, and finally the day of doom will break upon the world-to all of which the Master’s words have been and are appropriate. In one sense, the advent of Christ took place at the fall of Jerusalem, the scenes of which were probably a miniature of the travail through which the new heavens and the new earth will be born. Let us not seek our own, but the things that belong to the Kingdom; then all other things “will be added,” Matthew 6:33."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 18
+ }
+}

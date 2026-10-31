@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 60,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Prayer for Help against Foes -- Psalms 60:1-12\n\nThis was a national psalm to be taught the people. See title; also Deuteronomy 31:19. A strong coalition had been formed against David at that time. See 2 Samuel 10:6; 2 Samuel 10:8; 2 Samuel 10:17; 2 Samuel 10:19; 1 Chronicles 18:12-15. Israel was threatened with disaster. It was as if an earthquake had rent the soil.\n\nBut the king-psalmist argued that God had given His people a mission in the world, which could not be forfeited. First, Israel carried a banner for the truth, Psalms 60:4. In addition, God had “spoken in His holiness” and had promised that the seed of Abraham should possess Canaan. Standing on a hill-summit, the psalmist sees the Land of Promise outspread before him. Shechem and Succoth, Psalms 60:6, one west, the other east, of the Jordan, indicate the breadth of the land. All had been given over to Israel by covenant, and therefore the surrounding peoples must become subject.\n\nAs yet the strong city of Petra, rock-girded, Psalms 60:9, had laughed David to scorn; but he had confidence that God would lead him within its mighty walls, to tread down his adversaries, Numbers 24:18. Man could not, but God could. The question is never, Can God? but always, Can we trust and follow Him?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 60
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 59
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 61
+ }
+}

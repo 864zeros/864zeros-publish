@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Spies Sent to Canaan -- Numbers 12:16; Numbers 13:1-20\n\nBy comparing the opening verses with Deuteronomy 1:19-22, it appears that the suggestion about the spies emanated from the people, and that their proposal was graciously acquiesced in by God. But let us remember that it is a profound mistake to spy out or criticize the land or lot into which we are being led. We are almost certain to see the difficulties apart from the grace, and they sometimes appear to be insurmountable.\n\nIt is better to await with calm trust the unfoldings of divine providence. The book of the future is in the hands of the Lamb that was slain, Revelation 5:7-8. Take no thought for tomorrow! Go steadily on! God will go before you, and cleave your way! Unbelief sees giants and spells them with “G;” faith sees God, and spells giants with “g.” “Looking unto the promise of God,” Abraham “wavered not,” Romans 4:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The Majority and Minority Reports -- Numbers 13:21-33\n\nIt was August. Eshcol lay southeast of Hebron. Its sloping hills were covered with choice grapevines, the clusters of which weighed ten to twelve pounds. The tall, muscular Canaanites presented a strong contrast to the more diminutive Egyptians. The spies compared the Canaanites with themselves, instead of with Almighty God. Do not look at God through circumstances, but at circumstances through God.\n\nThere is no land worth possessing which has not its giants; but, like Caleb, faith looks not at giants, but to the living God. See Numbers 14:8. The doubters said Can God? Caleb affirmed, God can! Only follow God fully! Be utterly yielded to Him.\n\nPresent yourself to God as alive from the dead, and eternally united to the living Christ; then He will bruise Satan under your feet and make you tread upon the lion and adder, Psalms 91:13; Romans 16:20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 14
+ }
+}

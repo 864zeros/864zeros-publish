@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Breaking Three Commandments -- 1 Kings 21:1-29; 1 Kings 1:1-53; 1 Kings 2:1-46; 1 Kings 3:1-28; 1 Kings 4:1-34; 1 Kings 5:1-18; 1 Kings 6:1-38; 1 Kings 7:1-51; 1 Kings 8:1-66; 1 Kings 9:1-28; 1 Kings 10:1-29; 1 Kings 11:1-43; 1 Kings 12:1-33; 1 Kings 13:1-34; 1 Kings 14:1-31; 1 Kings 15:1-34; 1 Kings 16:1-34\n\nFrom a worldly point of view Naboth might have done a good stroke of business by selling his estate to. Ahab. A royal price and assured favor might have been his-but he had a conscience! Above the persuasive tones of the monarch’s offer sounded the voice of God: “The land shall not be sold for ever, for the land is mine.” See Leviticus 25:23; Numbers 36:7; Ezekiel 46:18.\n\nAhab knew perfectly well that Jezebel could not give him the property of another except by foul means, but he took pains not to inquire. Though the direct orders for Naboth’s death did not come from him, yet, by his silence, he was an accomplice and an accessory; and divine justice penetrates all such specious excuses. God holds us responsible for wrongs which we do not arrest, though we have the power. The crime was blacker because of the pretext of religion, as suggested by a fast. See also 2 Kings 9:26. The blood of murdered innocence cries to God, and his requital, though delayed, is inevitable. See Revelation 6:9-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "“Solomon in All His Glory” -- 1 Kings 10:14-29\n\nHow dazzling is this description of Solomon’s glory! And yet our Lord said that it was excelled by a single lily of the field, Matthew 6:28. Solomon’s glory was put on from without; the real beauty is that which unfolds from within. If only your soul is planted in the soil of God’s grace, it will array itself in the beauties of a holy life. The stainless robes are those which are washed in the blood of the Lamb.\n\nObserve again-this was not the glory of June, but of October. Already the germs of disease were in Solomon’s heart; already the autumn decay was in the air. The secret is told in the significant words of Neh 13:26. Among many nations there was none like him and he was beloved of his God, but strange women were turning away his heart. It was a true statement that our Lord made concerning the rich, that with difficulty they enter the Kingdom. A holy man had good reason to pray earnestly for a young believer, who had suddenly come into a large estate.\n\nThe questions on, Sections 1-30, to be found on pages 177 and 178, will serve as a review at this point."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 11
+ }
+}

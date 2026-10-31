@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Citizen of Zion and His Inheritance -- Psalms 15:1-5; Psalms 16:1-11\n\nThe first of these psalms was probably composed to celebrate the bringing of the Ark to Mount Zion, 1 Samuel 6:20. It describes the character of those who have fellowship with God and dwell in His house all the days of their earthly lot. To the challenge of the soloist, Psalms 15:1, the choir makes response, Psalms 15:2-5, first positively, then negatively. We must act as non-conductors to evil; must mind what company we keep; and must cultivate a spirit of love and self-sacrifice which will never take advantage of others, Psalms 15:5. Here is the secret of permanence and peace.\n\nMichtam means “golden,” and may be truly applied to the next psalm, as also to Psalms 56:1-13; Psalms 57:1-11; Psalms 58:1-11; Psalms 59:1-17; Psalms 60:1-12. Others explain the word as a “secret.” It is the song of the golden secret. The key is furnished in Acts 2:25. The Apostle Paul expressly emphasizes the divine authorship in Acts 13:35-38. Our Lord may have repeated Psalms 16:8-11 when He was descending the dark valley, and so may we."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 17
+ }
+}

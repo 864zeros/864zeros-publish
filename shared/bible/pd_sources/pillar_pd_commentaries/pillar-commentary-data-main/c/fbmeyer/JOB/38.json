@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 38,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Divine Power and Human Ignorance -- Job 38:1-18\n\nWhen the storm had ceased and the thunder was hushed, a voice spoke out of the golden splendor of the sky. See Job 37:21-22. Job had challenged God to answer him and now he is taken at his word. We recall Horeb’s ancient cave, where, after wind and earthquake, there came a sound of gentle stillness. “Arise,” said the Eternal to Job, “and gird thyself,” Job 38:3. In after years, under similar circumstances, the Spirit entered Ezekiel to strengthen him. Surely some such strengthening was forthwith given the patriarch!\n\nA sublime series of questions is now addressed to him, not by a God of judgment and wrath, but by a Father arguing and pleading with His child and pointing out two things: first, the inability of mortal man to understand the ways of God; and second, the minuteness and tenderness of God’s providence. Job had thought of Him as remote, but He is near and is ordering all things wisely and lovingly. Can He forget His child?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "What Man Cannot Do -- Job 38:19-41\n\nIn this chapter a number of nature-pictures pass before us. These include the creation of the earth, Job 38:4-7; the sea, Job 38:8-11; light, Job 38:12-15; the mysteries of the unseen, Job 38:16-18; snow and rain, Job 38:22-30; the constellations of heaven, Job 38:31-38; and the recesses of the forest-glades, Job 38:39-41.\n\nWhat does it all mean? Ah! there are times when the voice of God through nature falls on our hearts like sweet music, and we hardly know whence or how, but we are comforted and strengthened. The peace passes understanding. Besides, the frequent question, Hast thou? was intended to turn Job’s attention to the great mysteries contained in common and ordinary things. If he could not unravel these, how could he hope to fathom all the wonderful dealings of God with the human soul? His ways are above ours and His thoughts higher than ours; but we are sure from Calvary that He is love. Let us quiet ourselves, therefore, and trust."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 38
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 37
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 39
+ }
+}

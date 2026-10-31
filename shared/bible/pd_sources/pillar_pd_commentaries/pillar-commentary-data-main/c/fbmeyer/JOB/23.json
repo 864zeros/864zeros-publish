@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“He Knoweth the Way That I Take” -- Job 23:1-17\n\nThis chapter is threaded by a sublime faith. Job admitted that his complaint seemed rebellious, but God’s hand had been heavy on him. From the misunderstandings of his friends, he longs for the calm, holy presence of God Himself.\n\nIt seemed as if nothing would content the sufferer but a personal audience with the Almighty. He felt that he could plead his cause there without fear. He was sure that his Almighty Judge would not contend against him with His great power, but would listen to him. Yet it seemed impossible to find Him. Job did not realize that he was already in God’s audience-room. We are made nigh through Jesus Christ. God hides Himself, because mortal eyes could not bear the burning glory of His presence. But though we fail to see Him, we are never for a moment out of His view. He knows the way that we take. Speak to Him, weary, suffering soul; the Lord is at hand!\n\nIt was not a mere self-righteous boast that the sufferer made in Job 23:7; Job 23:11-12. David also used similar words of himself, Psalms 18:20-23. We are always sinners, needing the precious blood; but we may be very thankful if we have been kept from “the great transgression.” Yet the perfect man is still troubled in the divine presence, and his heart becomes faint, Job 23:15-16, unless he can claim something more than creature or natural goodness. “On Christ, the solid rock, I stand; all other ground is sinking sand.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 24
+ }
+}

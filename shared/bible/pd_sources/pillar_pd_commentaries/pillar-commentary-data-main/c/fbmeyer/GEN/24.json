@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Wife Sought for Isaac -- Genesis 24:1-9\n\nIt is all-important that the children of God’s people should marry only in the Lord. See 1 Corinthians 7:39. So only can we hope to perpetuate, as Malachi teaches, a godly seed. But those who live in fellowship with Him may confidently count on His angels being sent to co-operate in securing this desirable issue. Every marriage should be a matter for profound concern and much prayer, both for the parents of each, as well as for those that are to be wed. What wonder that so many marriages turn out to be a disappointment and a curse when they are entered upon so lightly and thoughtlessly!\n\nIn this graphic chapter we may find a close analogy to the work of the Holy Spirit, who has come forth during the present age to seek a bride for the Son of God, in the Church that He is gathering out of the world. There is always a “peradventure” that the soul may be unwilling at first, but He plies it with overwhelming arguments, as we shall see."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Rebekah Meets Abraham’s Servant -- Genesis 24:10-27\n\nAs we enter upon a new day, or a fresh undertaking, it is always wise and right to ask for good-speed. Good-speed is God-speed. Praying times are not lost times. The reaper saves time when he stops to whet his scythe. Eliezer had learned a sincere respect for his master’s piety, and felt that his name was a sure talisman with God. How much more may we ask in the name of Jesus!\n\nJohn 14:13. What a concentration of heaven-contrived circumstances gathered around this event! Abraham planning, the servant praying and waiting expectantly, the Angel of God leading, the very camels kneeling patiently beside the well as though they counted on the troughs being filled, the damsel coming at the precise hour! It is thus that all our daily life might be aglow with the presence and help of God. Such things take place, but, alas, our eyes are holden! Compare prosper in Genesis 24:21; Genesis 24:40; Genesis 24:42; Genesis 24:56, with Psalms 1:3.\n\nSee Acts 10:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Abraham’s Servant Fulfills His Mission -- Genesis 24:28-49\n\nThis worthy man was almost garrulous about his master. Count the number of times in which he contrives to introduce those two words, “my master.” He put the errand on which he had come before his necessary food, and poured out his story in a stream of crystal utterance, which was the highest eloquence. This identification of his thought and speech with his master’s interests is full of teaching for us all. He could talk of nothing else, was only anxious not to fail for Abraham’s sake; and took the favorable reply as kindness shown to him whom he represented. George Herbert caught the same spirit when he spoke of “the aromatic fragrance” of “My Master” when applied to Jesus. We, too, are called to be ambassadors, as though God did beseech men by us. If we are in the way of God’s will, be sure that the Lord will not only lead, but lead “in the right way,” and will create for us a sympathetic reception whither we go."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 50,
+    "content": [
+     {
+      "text": "Rebekah Marries Isaac -- Genesis 24:50-67\n\nRebekah’s relatives recognized the hand of God in what had taken place, and could not demur. The maiden herself was not asked, according to Oriental custom, but in her readiness on the following morning to start forthwith, it was clear that her heart had been already won. This favorable reply prostrated Eliezer to the earth with thankfulness. Would that we were always as eager to praise as to pray. The precious gifts with which the whole family were enriched, remind us of those gifts and graces with which the Holy Spirit, the Divine Wooer, enriches the soul that accepts His invitation to yield itself to the Divine Master, Christ. When her friends suggested delay, Rebekah would not hear of it.\n\nWith his jewels on her person, the young girl longed to see the bridegroom himself. Her “I will go” settled the matter. The foretastes of our heavenly inheritance whet our appetite to see and be with him, whom, not having seen, we love."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 25
+ }
+}

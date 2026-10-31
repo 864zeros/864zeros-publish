@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Saving Strength of God’s Right Hand -- Psalms 20:1-9\n\nThis may have been written on such an occasion as 2 Samuel 10:1-19.\n\nThe prayer of the soldiers, Psalms 20:1-4. Ready, drawn up for the battle, they salute their king. God’s name is His character. The God of Jacob cannot forsake us, though we are unworthy as the patriarch. “Thou worm Jacob!” Isaiah 41:14.\n\nThe resolve, Psalms 20:5. Our banners may wave proudly in the breeze, but all is vain if God be not our trust. The Lord is our “banner,” Exodus 17:15. We succeed only as we set out in His name and for His glory.\n\nThe king’s voice, Psalms 20:6. Strength is plural, signifying the variety and infinity of God’s resources, on which we may count.\n\nThe final chorus of the host, Psalms 20:7-9. As they look across the field, they contrast the might of their foes with their slender equipment. But as they gaze, those embattled hosts are dispersed, as clouds before a gale. Save! is the battle-cry."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 21
+ }
+}

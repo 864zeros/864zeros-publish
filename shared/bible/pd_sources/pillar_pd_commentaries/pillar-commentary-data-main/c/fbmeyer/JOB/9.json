@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Daysman” -- Job 9:1-35\n\nPonder the sublimity of the conceptions of God given in this magnificent passage. To God are attributed the earthquake that rocks the pillars on which the world rests, Job 9:6; the eclipse which hides the heavenly bodies, Job 9:7; the storm in which he bows the heavens and treads majestically on the waves, Job 9:8; and the creation of the constellations, Job 9:9. Who can dare to argue with or call to account so great a God as this? Job 9:10-19. Even if a man be outwardly and inwardly righteous (that is, so far as the measure of his light), yet in such a Presence the heart of the most perfect must condemn him. “If we say that we have no sin, we deceive ourselves…. God is light, and in Him is no darkness at all.” We cannot but feel that this old-world thinker had a truer view of that conscious imperfection and sin which must be experienced by every mortal who has a right appreciation of the holiness of God, than have those who refuse to say the Lord’s Prayer because it contains a petition for forgiveness!\n\nTruly we need that Daysman! But we have Him in Jesus our Mediator, who can lay His hand on God and us, Job 9:33; 1 Timothy 2:5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 10
+ }
+}

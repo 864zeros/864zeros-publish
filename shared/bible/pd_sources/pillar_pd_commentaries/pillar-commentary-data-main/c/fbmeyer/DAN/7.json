@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Everlasting Dominion -- Daniel 7:1-14\n\nThis chapter enumerates the succession of world-empires and rulers which bridge the gulf of centuries from the Captivity to the Second Advent. The lion represents Babylon, whose cruel and mighty kingdom was animated by marvelous intelligence; the bear, Persia; the leopard, Greece under Alexander the Great; and the fourth beast, with great iron teeth, Rome. The ten horns are ten kings, and these probably represent great European kingdoms which have succeeded, or may yet succeed, to the heritage of the Roman empire. The Ancient of Days is sitting today upon His throne, His snow-white raiment betokening His purity, the fire of His throne bespeaking His antagonism to all things that offend and work iniquity. The government of the world is on shoulders which are well able to carry it, and He will cause all things to work out His purpose, which is to promote and assure the glory of Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 8
+ }
+}

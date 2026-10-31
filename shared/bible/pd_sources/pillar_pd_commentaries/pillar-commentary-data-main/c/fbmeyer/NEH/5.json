@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Securing Justice for the Poor -- Nehemiah 5:1-19\n\nThe prospects of the poor people among the returned exiles were deplorable. There had been deficient rains and poor harvests, Haggai 1:6-11. They had mortgaged their lands to their richer brethren, and had even sold their children to pay the royal taxes and procure means of subsistence. The rich had taken advantage of their necessities, oppressing them with grievous exactions and heavy usury. When Nehemiah heard of it, he seems to have withstood the wrong with strenuous protest, depending on his God for support. And, in a great assembly, he carried the day against selfishness and greed.\n\nThere is nothing here to condemn mortgage, or interest in themselves. Each is a legitimate method of trade, except when undue advantage is taken of a brother’s necessities. The Nehemiah 5:14-19 were evidently added at a subsequent period to the rest of the chapter, and relate the habits of Nehemiah’s administration. How full is this book of ejaculatory prayer! Even from his writing-table, this true-hearted man would lift up his eyes to God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 6
+ }
+}

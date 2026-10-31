@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Vain Attempt to Destroy God’s Word -- Jeremiah 36:1-32\n\nThese written words had been directly given from God, Jeremiah 36:18. The fast was instituted to seek divine help in the approaching conflict with Nebuchadnezzar. But of what good is a fast while the evils of apostasy and disobedience are unredressed? It was against these that Jeremiah protested; and his words were read to a vast concourse of people by Baruch his faithful friend. It was the month of December, and the royal chamber was warmed by a brazier of burning charcoal. As Jehudi read, the godless king cut the roll with a penknife and consigned it to the fire.\n\nAll down the ages false priests have dealt thus with the Word that condemned them. But a sailor does not escape shipwreck by destroying the chart which indicates the rocks on which he is drifting. God’s words are eternal, though the material on which they are written may perish. He who rejects God’s truth does so at his peril, while God hides His faithful servants in the secret of His presence, secure from the attacks of enemies."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Destruction of the Midianites -- Numbers 31:1-20\n\nIn reading such a chapter as this we must remember that the Bible is the history of the slow advance of a nation toward the knowledge of God, and its preparation to become one of the greatest of spiritual forces. That process could only be a prolonged one. Only by slow degrees could the grossness of the period be eliminated. Our Lord distinctly said that certain things were allowed for a time because of the hardness of their hearts. See Matthew 19:8. Many times He made the clear distinction between what “they of old” had said and what He said. See Matthew 5:21; Matthew 5:27; Matthew 5:33; Matthew 5:38; Matthew 5:43. The highest law for dealing with our enemies is found in his teachings.\n\nThe first steps of purification had to do with the women who might introduce heathen vices into Israelite homes, and the leisurely dealing with spoils and captives, so that passion might have time to cool."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The Disposition of the Spoils of War -- Numbers 31:21-54\n\nThis law, which subjected the victors to a whole week of separation and to special purification, instead of an immediate welcome into the camp, was intended to wean the Hebrews from the practice of war, giving them a higher standard than that of surrounding nations. Thus God educates us, by placing before us an ever higher standard, as we are able to obey it. It is easy to say hard things against this treatment of Midian, but extermination is sometimes the only way to safety.\n\nFor us the lesson is one of rigid separation. Some may be able to stand God’s searching fire; but others cannot bear that flame. Yet these may not go altogether free. See Numbers 31:23. As strangers and pilgrims we must abstain from fleshly lusts. God demands our holiness, but discriminates in the method of producing it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 32
+ }
+}

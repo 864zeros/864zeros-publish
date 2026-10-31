@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "2 Kings", "chapter": 6, "citation": "2 Kings 6:16", "text": "And he answered, Fear not: for they that be with us are more than they that be with them.", "plain": "'Don't be afraid,' he answered. 'Those who are with us are more than those who are with them.'" }
+    {
+      "book": "2 Kings",
+      "chapter": 6,
+      "citation": "2 Kings 6:16",
+      "text": "And he answered, Fear not: for they that be with us are more than they that be with them.",
+      "plain": "'Don't be afraid,' he answered. 'Those who are with us are more than those who are with them.'",
+      "visual_prompt": "a sower in a simple tunic seen from behind walking a plowed furrow across an upper-room stone chamber along a Shunem courtyard",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    }
   ]
 }

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2TI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Timothy",
+  "commonName": "2 Timothy",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Stir Up the Gift Which Is in Thee” -- 2 Timothy 1:1-11\n\nLonely and facing death the Apostle fell back on the bedrock of the will of God. If it were the divine plan that he should finish his life-work in that miserable plight, he was content that it should be so. But he longs to see his beloved son in the faith once more. He desires to stir up the dead coal of his ardor, in which there was fire and heat, but not enough flame.\n\nApparently the young evangelist was becoming daunted by the gathering difficulties of the time and so Paul sets himself to encourage him. With this purpose in view he adduces his own example, 2 Timothy 1:3, his fervent affection, 2 Timothy 1:4, the memory of the sainted dead, 2 Timothy 1:5, the solemn vows by which Timothy had bound himself at his ordination, 2 Timothy 1:6, the divine donation of grace and power and love, 2 Timothy 1:8, the eternal purpose which had received its fruition in the advent of Jesus, 2 Timothy 1:9, the clear light which His resurrection had thrown on death and the hereafter, 2 Timothy 1:10. Surely such a chain of arguments must have proved irresistible! God’s soldiers must be brave and unflinching in meeting the opposition of the world. When once we realize that the stores which reside in God are at the disposal of our faith, we, too, shall be invulnerable and irresistible."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“Hold the Pattern of Sound Words” -- 2 Timothy 1:12-18\n\nHow striking Paul’s reference to the double committal, as if there had been an agreed exchange between his Master and himself! Paul had handed over to Christ as a sacred deposit all that concerned his well-being in time and eternity, and Christ had handed over to him the interests of His Kingdom, which, by the grace of the Holy Spirit, he was required to maintain inviolate. It is a mutual exchange of which we all ought to know something. Give all to Christ and Christ becomes all to you. The proportion of your self-giving is the measure of your discovery of what Jesus will be to you.\n\nSome of Paul’s former friends shrank from identifying themselves with a suspect-the inmate of the condemned cell. It was no light matter to visit the bearer of a name which the world of that day detested, one who belonged to a sect accused of burning Rome. Demas, 2 Timothy 4:11, and others forsook him, but the good Ephesian, Onesiphorus, set about seeking him through all the prisons of Rome, and was not ashamed of his chain nor content with a single visit. He oft refreshed his friend. Paul sends a grateful message to his family, 2 Timothy 4:19. Perhaps there is here a gentle hint to Timothy. Compare 2 Timothy 1:8 and 2 Timothy 1:16. Never shrink from taking your place beside Christ’s prisoners!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 2
+ }
+}

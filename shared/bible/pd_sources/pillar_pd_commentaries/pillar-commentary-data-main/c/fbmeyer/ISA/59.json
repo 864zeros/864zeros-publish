@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 59,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Iniquities Separate from God -- Isaiah 59:1-15\n\nIsrael’s sins, Isaiah 59:1-8. Much of our suffering in life results from our sins, which cut off God’s health and help. Let us not blame Providence, but set ourselves to discover the cause of controversy. When the law courts-the fountains of justice-are demoralized, the community is in a hopeless condition, Isaiah 59:3-4. Instead of stamping out evil in the egg, the sinful heart hatches it out, and it yields the poison of vipers, Isaiah 59:5. Ah, the hapless state of the ungodly! Their feet, and their thoughts, and their paths, are fatal to the peace of others and to their own. The way of peace can be entered only at the Cross, and maintained only by constant watchfulness. See Luke 1:79.\n\nIsrael’s confession, Isaiah 59:9-15. Here the stricken people pour out their complaint before God, confessing, first, the bitterness of their sufferings and then the blackness of their sins. The roar of the hungry bear for food and the dove’s mourning for her mate, Isaiah 59:11, are apt descriptions of the complaint of the penitent soul. It is a good sign when a man cannot lift up his eyes to heaven and beats upon his breast, Luke 18:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Divine Arm Brings Redemption -- Isaiah 59:15-21\n\nIsrael’s Savior. The Almighty Lover of souls is described as looking round to see if help were forthcoming from any other quarter; and there being none, He girds Himself for the conflict with the enemies of His people. He dons breastplate and helmet, clothing and cloak, and hastens to deliver, Isaiah 59:17. This is surely a portrait of our Lord Jesus, who stands up to plead the cause and to achieve the redemption of the penitent and believing soul. When, the enemy threatens to pour in like a pent-up stream, look to Jesus to raise the standard against him. Let Him fight your battles! Let the blows that are meant for you be caught on His shield!\n\nAll parents and grandparents should ponder the precious promises of Isa 59:20-21. As God gives us children, let us place our fingers on this sure word of promise and claim that it shall be literally fulfilled in children and children’s children. In thousands of godly families there has been an unbroken succession of piety."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 59
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 58
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 60
+ }
+}

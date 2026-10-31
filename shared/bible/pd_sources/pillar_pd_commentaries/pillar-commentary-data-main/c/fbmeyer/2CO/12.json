@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Secret of Strength -- 2 Corinthians 12:1-10\n\nIt is a sublime phrase-a man in Christ. We reach our full stature only when we are in Him. We are but fragments of manhood until the true man is formed in us. Of course the presence of Jesus is always with us, but its manifestation is reserved for special emergencies, when it is peculiarly needed. It is thought that this supreme revelation was synchronous with Paul’s stoning at Lystra, Acts 14:1-28. While the poor body was being mangled, his spirit was in the third heaven, that is, in Paradise. What a contrast between being let down in a basket and being caught up into glory! How indifferent to the derisions of men is the soul that lives in God!\n\nWe do not know what this thorn, or stake, was-whether eye trouble, or imperfect utterance, or some deformity in appearance-but it was the source of much suffering and many temptations. At first Paul prayed for its removal, but as soon as he learned that its continuance was the condition of receiving additional grace, he not only accepted it, but even gloried in its presence. May we not believe that all disabilities are permitted to drive us to realize and appropriate all that Jesus can be to the hard-pressed soul!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "“I Seek not Yours, but You” -- 2 Corinthians 12:11-21\n\n“The long burst of passionate self-vindication has now at last expended itself,” says Dean Stanley, and Paul returns to the point whence he diverged at 2 Corinthians 10:7, where he was avowing his intention to repress the disobedience of those who still resisted his authority at Corinth. “Now,” he says, “my folly is over. That I should have indulged in it is your fault, not mine.” What a comfort it is that he lays such repeated stress on his weakness! Instead of complaining of it, he used it as an argument with Christ that He should put forth more grace, and as an argument with his converts, that the results of his work had been granted as the divine endorsement of his apostolate.\n\nPaul felt that his paternal relation to this church gave him the right to rebuke them, as a father rebukes his children. But he realized that they did not reciprocate his love, probably because they permitted the evil things enumerated in the closing verses. Often moral obliquity accounts for the decline and failure of love. Among other things, they had even accused him of getting money, if not directly, yet through Titus. But there were worse things still that needed to be dealt with, 2 Corinthians 12:20-21. Would that we were more often humbled to the dust by the sins of our brethren!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 13
+ }
+}

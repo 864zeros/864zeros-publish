@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 47,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Penalty of Trusting in Wickedness -- Isaiah 47:1-15\n\nBabylon dwelt in careless security. She was given to pleasures, Isaiah 47:8; and said in her heart that her vast crowd of astrologers, magicians, and priests, would certainly warn her of impending evil and deliver her. But nothing could be more absolute than her fall. For centuries she has been buried under mounds of desolation, while the Hebrew people, whom she so cruelly oppressed, are the monument of God’s preserving mercy. The fact is that Babylon exceeded her duty. She was used as Jehovah’s chastising rod upon the Hebrews, but she was merciless in the extreme in her behavior and for this excess she suffered. Compare Isaiah 47:6 with Zechariah 1:15.\n\nNotice Isaiah 47:4. The prophet turns from the overthrow of the proud city to remind his people that Babylon’s tribulation is due to the redeeming arm of God; and we must never forget that in the midst of her overthrow there was a thread of golden mercy. The loved that brooded over Nineveh must have been there. See Jonah 4:10-11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 47
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 46
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 48
+ }
+}

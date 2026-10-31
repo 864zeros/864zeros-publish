@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GAL",
+  "commentaryId": "fbmeyer",
+  "name": "Galatians",
+  "commonName": "Galatians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Our Own and Others’ Burdens -- Galatians 6:1-10\n\nThe spirit of the world gloats over sin; the Spirit of Christ leads us to restore the sinner. Our first thought should never be of revenge or contempt, or of the adjustment of our own claims, but rather of how to help our fallen brother to regain his old place in the love of God. The memory of our own temptations and failures should make us very pitiful and tender. The Apostle does not speak, in this place, of premeditated sin, but of that by which we are entrapped and taken unawares.\n\nThe most spiritual men in the Church are needed for this holy work of restoration, and they must do it with great meekness and humility. It is thus that we bear one another’s burdens; but there are some burdens that each must bear for himself alone, such as his own existence and personal accountability to God.\n\nLife is a seedtime. It is the opportunity of preparing for heavenly harvests. The open furrows invite the seed, and every moment, in some form, we scatter seeds that we shall inevitably meet again in their fruition. Let us remember especially our obligations to God’s own children."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Glorying in the Cross Alone -- Galatians 6:11-18\n\nPaul usually dictated his letters, but this was written with his own hand. The characters were large and clear, Galatians 6:11, r.v. Perhaps this was due to the trouble with his eyesight referred to in Galatians 4:15. But the Apostle gloried in the scars that suffering had left upon his frame, because they seemed to him the brand-marks of the happy slavery of Jesus, Galatians 6:17. If Judaizing teachers gloried in their brand-marks, how much more did he in his! The Cross had cut him off from the world. He was indifferent to worldly praise or blame; he took his marching-orders from Christ alone. This is the third time in his Epistle that Paul names the reflex influence of the Cross. See Galatians 2:20; Galatians 5:24; Galatians 6:14. Compare Galatians 6:15 with 1 Corinthians 7:19.\n\nNotice the breadth of the Apostle’s benediction, Galatians 6:16. When we have been created anew in Christ’s likeness and are walking by that rule, we find ourselves at once introduced into a family of kindred spirits, who have passed through the same radical change and are united beneath the gracious canopy of mercy and peace. Such are God’s Israel. See Galatians 3:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 1
+ }
+}

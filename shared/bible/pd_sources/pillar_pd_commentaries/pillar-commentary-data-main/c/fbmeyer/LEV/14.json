@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Law of the Cleansed Leper -- Leviticus 14:1-20\n\nThe penalty, when leprosy had unmistakably declared itself, included compulsory severance from the camp, the rent garments, the bare head, the covered lip, the cry “unclean,” Leviticus 14:45. Sin severs us from fellowship with God and His saints, and makes us a source of contamination to all in contact with us, though they may not realize that we are defiling them.\n\nBeing cured, the leper was first restored to the camp, Leviticus 14:1-9. The birds are striking types of death and resurrection. Notice that the blood of one was mingled with fresh, i.e., running, water, because of the perennial freshness of the blood of Christ; and that the ascension of the other, when liberated, is significant of the freedom from the law of sin and death which the soul of the believer experiences through the power of the Holy Spirit. See Romans 8:1-4.\n\nSecondly, the leper was restored to the sanctuary, Leviticus 14:10-20. On the eighth day of resurrection, the blood and oil were placed on thumb and toe and ear, because all our senses have been purchased and consecrated to the service of God. Let us, in gratitude for our own cleansing from sin, consecrate ourselves anew to God!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 16
+ }
+}

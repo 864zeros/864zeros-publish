@@ -13,16 +13,115 @@
     "count": 11
   },
   "verses": [
-    { "book": "1 Timothy", "chapter": 1, "citation": "1 Timothy 1:15", "text": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.", "plain": "Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners — of whom I am the worst." },
-    { "book": "1 Timothy", "chapter": 2, "citation": "1 Timothy 2:1", "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;", "plain": "First of all, then, I urge that petitions, prayers, intercession, and thanksgiving be made for everyone," },
-    { "book": "1 Timothy", "chapter": 2, "citation": "1 Timothy 2:5", "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;", "plain": "For there is one God and one mediator between God and mankind, the man Christ Jesus," },
-    { "book": "1 Timothy", "chapter": 3, "citation": "1 Timothy 3:16", "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.", "plain": "Beyond all question, the mystery from which true godliness springs is great: He appeared in the flesh, was vindicated by the Spirit, was seen by angels, was preached among the nations, was believed on in the world, was taken up in glory." },
-    { "book": "1 Timothy", "chapter": 4, "citation": "1 Timothy 4:8", "text": "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.", "plain": "Physical training is of some value, but godliness has value for everything, holding promise for both the present life and the life to come." },
-    { "book": "1 Timothy", "chapter": 4, "citation": "1 Timothy 4:12", "text": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.", "plain": "Don't let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith, and in purity." },
-    { "book": "1 Timothy", "chapter": 5, "citation": "1 Timothy 5:8", "text": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.", "plain": "Anyone who does not provide for their own, and especially their own household, has denied the faith and is worse than an unbeliever." },
-    { "book": "1 Timothy", "chapter": 6, "citation": "1 Timothy 6:6", "text": "But godliness with contentment is great gain.", "plain": "But godliness with contentment is great gain." },
-    { "book": "1 Timothy", "chapter": 6, "citation": "1 Timothy 6:10", "text": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.", "plain": "For the love of money is the root of all kinds of evil. Some, eager for it, have wandered from the faith and pierced themselves with many griefs." },
-    { "book": "1 Timothy", "chapter": 6, "citation": "1 Timothy 6:11", "text": "But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.", "plain": "But you, person of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance, and gentleness." },
-    { "book": "1 Timothy", "chapter": 6, "citation": "1 Timothy 6:12", "text": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.", "plain": "Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made your good confession before many witnesses." }
+    {
+      "book": "1 Timothy",
+      "chapter": 1,
+      "citation": "1 Timothy 1:15",
+      "text": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+      "plain": "Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners — of whom I am the worst.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a tall stone pillar supporting the timber roof of a meeting hall",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "citation": "1 Timothy 2:1",
+      "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;",
+      "plain": "First of all, then, I urge that petitions, prayers, intercession, and thanksgiving be made for everyone,",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in a clean wooden water vessel resting beside a clay bowl",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 2,
+      "citation": "1 Timothy 2:5",
+      "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;",
+      "plain": "For there is one God and one mediator between God and mankind, the man Christ Jesus,",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a tall stone pillar supporting the timber roof of a meeting hall",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 3,
+      "citation": "1 Timothy 3:16",
+      "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.",
+      "plain": "Beyond all question, the mystery from which true godliness springs is great: He appeared in the flesh, was vindicated by the Spirit, was seen by angels, was preached among the nations, was believed on in the world, was taken up in glory.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a clean wooden water vessel resting beside a clay bowl",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "citation": "1 Timothy 4:8",
+      "text": "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
+      "plain": "Physical training is of some value, but godliness has value for everything, holding promise for both the present life and the life to come.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a tall stone pillar supporting the timber roof of a meeting hall near a clean wooden water vessel resting beside a clay bowl (1 timothy 4:8 motif: bodily)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 4,
+      "citation": "1 Timothy 4:12",
+      "text": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+      "plain": "Don't let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith, and in purity.",
+      "visual_prompt": "two inscribed stone tablets resting beside an olive branch on a rough ledge in a clean wooden water vessel resting beside a clay bowl",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 5,
+      "citation": "1 Timothy 5:8",
+      "text": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.",
+      "plain": "Anyone who does not provide for their own, and especially their own household, has denied the faith and is worse than an unbeliever.",
+      "visual_prompt": "an open wooden gate in an old dry-stone courtyard wall leading to a quiet pasture in a tall stone pillar supporting the timber roof of a meeting hall",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "citation": "1 Timothy 6:6",
+      "text": "But godliness with contentment is great gain.",
+      "plain": "But godliness with contentment is great gain.",
+      "visual_prompt": "a fisherman seen from behind standing on the shore mending a net beside a wooden boat along a tall stone pillar supporting the timber roof of a meeting hall",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "citation": "1 Timothy 6:10",
+      "text": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
+      "plain": "For the love of money is the root of all kinds of evil. Some, eager for it, have wandered from the faith and pierced themselves with many griefs.",
+      "visual_prompt": "an ancient gnarled olive tree with deep roots gripping a terraced limestone hillside in a tall stone pillar supporting the timber roof of a meeting hall",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "citation": "1 Timothy 6:11",
+      "text": "But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.",
+      "plain": "But you, person of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance, and gentleness.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a tall stone pillar supporting the timber roof of a meeting hall near a clean wooden water vessel resting beside a clay bowl (1 timothy 6:11 motif: thou)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Timothy",
+      "chapter": 6,
+      "citation": "1 Timothy 6:12",
+      "text": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.",
+      "plain": "Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made your good confession before many witnesses.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a clean wooden water vessel resting beside a clay bowl near a tall stone pillar supporting the timber roof of a meeting hall (1 timothy 6:12 motif: fight)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

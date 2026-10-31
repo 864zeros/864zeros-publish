@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "David’s Lord Testing Men and Women -- Luke 20:41-47; Luke 21:1-4\n\nIt was the Master’s turn to question. As man, He was David’s descendant and son; as the Son of God, He was his Lord. Though it sealed His doom, our Lord tore the veil from before these hypocrites, that when He had passed, His followers might be warned against these sunken rocks, Jude 1:12.\n\nWe note the difference between the false teachers, who devoured widows’ houses, and the true Leader and Teacher, who set so high a value on a widow’s gift. Our gifts to God should cost us something, else they are not reckoned in the accounts of eternity. The real value of a gift is to be estimated by what is left behind. Remember that the fragrance and beauty of this act have lasted, while the stones of the Temple have crumbled to dust. Holy deeds are imperishable! Jesus is still sitting by the treasury, watching and estimating our gifts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Days That Try Men’s Souls -- Luke 21:5-19\n\nWhen we ask speculative questions, the Master bids us take heed to ourselves. His predictions in this passage were literally fulfilled in the events which culminated in the siege and fall of Jerusalem, forty years afterward. “The whole creation groaneth and travaileth in pain together,” and through these throes and agonies mankind steps up to a new level of experience. The devil will not surrender his kingdom, any more than the bodies of men, without a grievous rending first: but there is a mightier than he.\n\nThe Church is called to follow her Lord. No easier path than His may she choose. Where there is no outward suffering there may be the inner cross and the death to all that the soul had once prized. Jesus has always stood beside His own wherever they have been called to witness for the truth; and the testimony given by His witnesses has reached the great ones of the earth and reverberated through courts and palaces. In suffering our souls become searched as by fire. We learn to know ourselves and to come into possession of an experience and a self-knowledge with which only suffering could have endowed us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The Coming of the Son of Man in Glory -- Luke 21:20-28\n\nThis paragraph clearly has its first reference to the fall of Jerusalem, which took place a.d. 70. The directions given by our Lord were of the greatest service to the Christian church, the members of which in large numbers, fled to Pella, across the Jordan, and so escaped the horrors of the siege. But beyond this each great event, such as the dissolution of the Hebrew state, the overthrow of the Roman Empire, the rise of the Reformation, the French Revolution, and so forth, is another stage in the advent of our Lord. He is always “coming in a cloud” so far as the eyes of men are concerned; but with the growing glory of clearer revelation and increased spiritual power. And all these stages are leading up to His final unveiling at His second advent.\n\nThat generation did not pass away before these portents were fulfilled; but each great period or chapter of history closes with similar signs. It is as though nature were as sympathetic to the experiences of the race, as the body is to the motions of the soul. Again behold the travail-pangs of creation, through which the new heavens and the new earth are being born. See Romans 8:22, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "The Need of Constant Watchfulness -- Luke 21:29-38\n\nThe summer of the world is yet before us! This is but the springtide, when the seeds are beginning to sprout, but the winds are cold. Ah, halcyon days of unbroken summer glory, make haste to break!\n\nIn a limited significance, our Lord’s words were fulfilled within forty years of their utterance; but we are still to see how much more is contained in them than has yet been realized. In the meanwhile let us beware of His warning. Note that cares endanger our soul’s health equally with surfeiting and drunkenness. It is impossible to live as we should apart from constant watching and prayer. The snare is so deftly laid that we may be entangled in it, before we are fully aware. But, oh how great the honor to be one day accounted “to stand before the Son of man!” See 1 Kings 10:8.\n\nThese last hours of our Lord’s ministry were very full. The days were days of activity, interspersed with snatches of blessed intercourse with the beloved group at Bethany; while the nights were spent on Olivet in prayer."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 22
+ }
+}

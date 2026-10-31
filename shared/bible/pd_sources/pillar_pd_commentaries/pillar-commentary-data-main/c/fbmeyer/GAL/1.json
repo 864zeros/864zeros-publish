@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GAL",
+  "commentaryId": "fbmeyer",
+  "name": "Galatians",
+  "commonName": "Galatians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Danger from a Perverted Gospel -- Galatians 1:1-10\n\nNote how strenuously Paul insists upon the genuineness of his call as an Apostle. It had come directly from the lips of Christ. Neither by man, but by Jesus Christ, Galatians 1:1. We who are redeemed have been lifted out of the present age, Galatians 1:4, into the next age, which may soon break forth in manifestation. It is now concealed, but it shall be unveiled. The age which preceded the fall of Jerusalem was notoriously corrupt. Speaking of the Jews at that time, Josephus says that they exceeded Sodom.\n\nThe false teachers who dogged Paul’s footsteps suggested that he had only one side of the gospel, and that there was therefore abundant room for their statement of it. But this the Apostle indignantly repudiated, Galatians 1:8. No, he said; there is no gospel other than that which you have heard from my lips. These are solemn questions that each of us should ask: “What has been the effect of the gospel upon my life? Have I been redeemed out of the world that passes away, into that unseen and eternal kingdom of which my Lord is Center and Chief? Do I live according to the will of my God and Father?” Galatians 1:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The True Gospel a Revelation -- Galatians 1:11-17\n\nWhen men belittle the Apostle’s teaching as being purely Pauline, we should recall these strong statements, which attribute his knowledge of the gospel to the direct revelation of the Lord. He received from Christ Himself that which he delivered to the Church. See also Acts 1:2. It was this that made his message authoritative.\n\nWhat intensity of interest must have gathered for him about Mount Sinai, which doubtless was the objective of his journey into Arabia! Moses and Elijah had been pupils before him in its majestic solitudes. As the Apostle dwelt there, with unlimited opportunity for communion with God, his mind was turned in the direction of that massive system of thought which at once distinguishes his Epistles and connects the New Testament with the Old. It is a profound discovery when God reveals His Son as resident in the believer’s soul. That Christ is in each of us, if we be truly regenerated, is indubitable. See 2 Corinthians 13:5.\n\nBut it seems that, in many cases, a veil hides that blessed fact from our consciousness. We need a miracle of grace, similar to that which at the Crucifixion rent the veil in twain, from the top to the bottom, Matthew 27:51."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "From Christ, not from Men -- Galatians 1:18-24\n\nPaul’s first visit to Peter must have been of absorbing interest. Doubtless the two traversed together the holy scenes of the Lord’s ministry, and Peter told the story of Gethsemane and Calvary with minute detail to ears that drank in every circumstance. How many inquiries would be addressed to the eyewitness of that sacred death and of the open grave! Paul was not ignorant of the facts, but wished to view them in the new light of faith and love. Such conversation as that which occupied these two souls gives us a glimpse of what may be expected when God’s people are gathered into the many mansions of the Father’s house.\n\nThe sudden termination of this visit to Jerusalem is described in Acts 9:28. Without delay Paul had to leave the city and start for his home in distant Tarsus, where he was to spend two or three years until the good Barnabas came to summon him to help in Antioch. See Acts 11:25-26. Probably during this interval the Apostle began to evangelize the regions named in Galatians 1:21. Let us see to it that we receive no glory from man, but that men see God in us and us in God. We are nothing; He is all, and to Him be the glory, Psalms 115:1."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 2
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Gift of “Prophesying” -- 1 Corinthians 14:1-12\n\nThe word prophesy is used here, as so largely in Scripture, not in the limited sense of foretelling the future, but of pouring forth heaven-given speech. There was a strong tendency at Corinth to magnify the use of tongues; that is, forms of utterance which the assembly could not understand. The Apostle rebukes this, and says that it is far better to be able to speak to the edification of the hearers. Indeed, he directs that speech in an unknown tongue should be withheld, unless someone were present who could explain and interpret it.\n\nThe gift of tongues was a special sign intended for the convincing of that age, but it was not a necessary accompaniment of the filling of the Holy Spirit, and is certainly of inferior value. A mere blare of a trumpet, without note or modulation, conveys no meaning to the waiting ranks of soldiers; and the mere sound of an unknown tongue startles without teaching. Do not be content merely to make a sound; say something. Seek to do actual service to others is one of the three directions suggested in 1 Corinthians 14:3. Edification is the building up of the soul in truth. Comfort is for the distressed and weary. Consolation is the heartening of the soul to fresh enterprise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Understanding Promotes Edifying -- 1 Corinthians 14:13-25\n\nThe Apostle here gives two practical directions, in order to restore the rule of the understanding above the babble of incoherent sounds, which was confusing the Corinthian church.\n\nThe first was that worship should be conducted in a form that the assembled congregation could understand. To utter prayer or thanksgiving to which the audience could give no assent; to utter sounds which were meaningless, was inconsistent with the true nature of Christian worship. It was therefore from this chapter that the Reformers drew their arguments against the practice of conducting the services of the Church in Latin. The second was that instruction was a most necessary part of worship, 1 Corinthians 14:19.\n\nThe effect of prophesying, that is, preaching, is set forth very forcibly and beautifully in the closing verses of our reading. We must always have in mind the unbelieving and the unlearned. If he hears the solemn voice of God speaking through human lips to his conscience, stirring its depths, moving it to repentance and faith, he will bear speedy testimony to the truth of what he has heard. We must seek to have in our assemblies the convincing power of God’s Word, accompanied by the corroborating witness of the unhindered Spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Order of Church Services -- 1 Corinthians 14:26-40\n\nAgain the Apostle sums up his directions in two simple rules: 1. Let all things be done unto edifying; that is, to building up individual character, and to fitting each member as a brick or stone into the rising fabric of the Church. Hence the stress laid on prophesying or speaking under the impulse of God’s Spirit. All who had that gift should certainly have a chance to use it, because the whole Church would be thereby profited and enriched. 2. Let all things be done decently and in order: decently, so as not to interrupt the dignity and gravity of the services; in order, not by hazard or impulse, but by design and arrangement.\n\nThe Apostle’s ideal is that of the calm and simple majesty which should mark all solemn assemblies, as distinct from fanatical and frenzied excitement. Hence he discountenances the disuse of the Eastern veil (the badge of modesty), the speaking of women in public, and the interruption of speakers by each other. That the spirits of the prophets are subject to the prophets is a truth of universal application. It condemns every impulse of a religious character which is not under the intelligent control of those who display it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 15
+ }
+}

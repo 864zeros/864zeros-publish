@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Forgiver of Sins -- Matthew 9:1-8\n\nHow inventive and ingenious is human love! Not improbably this was a young man and the others had been his schoolmates and friends for years. They had come to a steadfast faith in Jesus, and it was in response to their faith that the miracle was wrought. If only four earnest Christians would take one unbeliever or sinner in hand, we should see new miracles of grace.\n\nSin lies at the root of all suffering and disease. God’s ideal is a fair and healthy body adapted to all the demands we make on it. In this ease there was evidently a close connection between the man’s paralysis and some former act or acts of sin that lay heavily on conscience and heart. It was as easy for our Lord to utter one sentence as another, and the power which accompanied His utterance in the physical sphere proved that He had equal power in the spirit-world.\n\nHis critics were perfectly right. Either He blasphemed or He was the Son of God. Note that title, Son of man. Jesus was the last Adam, the second man. See 1 Corinthians 15:45."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The Friend of Sinners -- Matthew 9:9-17\n\nThe name Levi indicates that Matthew sprang from a priestly line. He had lost all self-respect to become the abhorred instrument of the Roman government, collecting dues on the merchandise that crossed the lake. But our Lord sees veins of gold and precious gems in most unlikely places, and He detected the apostle and evangelist in this despised publican.\n\nWherever a man is found by Christ, He sets Himself to find others, and the Lord is willing to co-operate in any effort to bring others to know Him. He will sit with perfect grace among publicans and sinners, lifting them to His own pure and holy level. He is always to be found where there are sin-sick souls; and where hearts are famished for love and joy, He is with them as their bridegroom.\n\nBut the joy of Christ will make for itself its own impression. The ancient forms will not suffice. The old skin-bottle will not contain the ferment of the new wine. How wonderfully Christ could extract lessons from familiar objects!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Lord of Life and Death -- Matthew 9:18-26\n\nNo grief appeals to Christ in vain. He always arises to follow. Let us as His disciples ever follow where He leads. We are permitted to be His fellow-workers and to help by our sympathy, prayers, and faith.\n\nThis poor woman’s faith was very imperfect. She believed that there was virtue in His dress, as the ritualist in the emblems of His death. She cared more for her healing than for the healer. She was full of fear and trembling. But her touch was a magnificent evidence of her faith. It might be as slight as featherdown, but it was enough. Not grasping, but lightly touching!\n\nThe incident at first fretted Jairus by its delay; but afterward it helped him. Perhaps it was permitted in order to strengthen his faith and thus prepare him to meet the tidings then upon the way to him. He can awake a girl from death as easily as her mother from sleep at morning prime. Let Jesus take the tiny hands of your children in His. Summon them to life and love!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "The Merciful Deliverer -- Matthew 9:27-34\n\nIt is thus that the Master speaks to us: Believe ye that I am able to make you happy, though you are cut off from the light and gladness of the world? Believe ye that I am able to enrich you in poverty, strengthen you in weakness, and raise you even out of death itself, so that the barren rod may bear blossom and fruit? Believe ye that I am able to give a knowledge of God which eye hath not seen nor the heart of man conceived?\n\nIt may be with a trembling faith that we answer, Yea, Lord. But how blessed is the soul that dares to say Yea to the Master’s challenge. Understand that there is no limit to what He will do for you, if only you will trust Him. The measure of His giving is according to the measure of your faith, and the measure of your faith will be according to the measure of your abandonment to Him. Spread abroad His fame. Pharisees hate Him, but demons flee."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Planning the Harvest -- Matthew 9:35-38; Matthew 10:1-4\n\nA new chapter in our Lord’s ministry opens at this point. As He walked amid the crowded towns and villages of Galilee, His heart was deeply moved. His was the shepherd’s nature, which, ever forgetful of self, expends its all for the flock. Jesus loved the poor people tenderly-those vast multitudes were a scattered, harassed flock. Fainted has the meaning of being cast panting on the ground. It was as though they could not move another step. Let us-like our Master-behold, pity, intercede, do our best to send out laborers, and go ourselves, even to a cross, if only we may save.\n\nPray for laborers, and you will become a laborer. Begin as a disciple, and you will become an apostle. Our Lord is king, and if He sends, He gives His signet ring of authority. See Matthew 28:18. How little did these men dream that their names would be engraved on the foundations of the New Jerusalem, Revelation 21:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 10
+ }
+}

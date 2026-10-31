@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Paul Permitted to Speak for Himself -- Acts 26:1-11\n\nThough Paul’s defense before Agrippa is in substance the same as that from the castle stairs at Jerusalem, it differs in the extended description of the remarkable change which had passed over his life in consequence of the direct interposition of Jesus Christ. And in the opening paragraph he lays great stress on his determined opposition to the doctrine of Christ, as a proof that his conversion was trustworthy evidence.\n\nStretching out his hand, the Apostle began by congratulating himself on the opportunity of laying his case before the great-grandson of Herod the Great, whose elaborate training in all matters of the Jewish religion made him unusually competent to deal with the matters in debate. He asked why it should be so hard to credit the attested fact of the Lord’s resurrection. He granted that he himself had resisted the evidence when he had first heard it. Indeed, he had everything to lose if he accepted it. His fiery persecution of the Christians proved at least that he was an impartial witness. So he pleaded before that group of high and mighty potentates.\n\nWhat a contrast between their splendid robes and sparkling jewels, and the poor, worn, shackled prisoner! But they are remembered only because of this chance connection with Paul, while Paul has led the mightiest minds of subsequent ages."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Obedient to His Heavenly Vision -- Acts 26:12-21\n\nNowhere else is there such deliverance from the glare and cross-lights of earth as is afforded by a vision of the face of Jesus, brighter than the sun at noon. To everyone there comes the opportunity of catching a vision of that face, sometimes reflected in a human one, as Paul first saw it in the countenance of Stephen. It confronts us when we go on forbidden paths, and summons us to arise and follow the life which is life indeed.\n\nActs 26:16 : What we have seen is only a part of the great unveiling. He will show us other and greater things than these. Acts 26:17 : We shall be delivered, even as we are sent. The Master holds Himself responsible for our safety while we are engaged in His work. Acts 26:18 : We have here an anticipation of Col 1:19.\n\nWe must not disobey the heavenly visions that visit us. When Paul in his dream beheld the beckoning Macedonian, he made a straight course for Europe. Sometimes, in obeying, the first appearances are discouraging, as when the missionaries, on landing at Philippi, met only a few women beside the little river; but the final results will justify the first stepping-out of faith."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Convincing His Inquisitors -- Acts 26:22-32\n\nPaul was in his element. He was delivering to kings and governors the testimony which it was the constant object of his life to give, when suddenly he was stopped by Festus, who, on hearing of the resurrection of the dead, accused Paul of madness. Paul addressed him with perfect respect, and then turned to King Agrippa for justification. But Agrippa did not choose to be entrapped in the discussion of these deep religious truths. With the contempt of a man of the world he smiled at the enthusiastic earnestness of this man who fancied that a wearer of purple would embrace faith in a crucified Messiah. It was as if he said, “In a little while you’ll be making me-a Christian!”\n\nPaul immediately caught up his words. With evident sincerity he broke in with, I would to God that not only thou, but also all that hear me this day, were both almost and altogether such as I am (here he must have raised his fettered hands) except these bonds. He was no common criminal, as his judges were fain to admit, and the proceedings of that day probably, under God, saved Paul’s life, for Nero could hardly condemn to death a man who had been pronounced innocent by such hearers as these."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 27
+ }
+}

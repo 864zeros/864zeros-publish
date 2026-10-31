@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sabbath, Passover and First-Fruits -- Leviticus 23:1-14\n\nThe year of Israel’s national life was marked out by high and blessed convocations, which preserved its unity, kept the people in mind of the great past, and kindled high ideals and enthusiasms. There is a divine precedent, therefore, in the observance of the Christian Year, with its holy services and commemorations. In its earlier stages the religious life requires the help of special times and seasons, when it may realize itself and catch sight of the Delectable Mountains or the Golden City.\n\nA pause must be called in life’s busy haste, and families should have an opportunity of gathering at solemn ceremonials, participation in which will leave lasting memories with the coming generation. Probably the mature soul outgrows these, and ceases to observe days. See Colossians 2:16. But remember that the absence of the temple in the New Jerusalem did not imply that there was no worship, but that every moment was worship."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Wave-Loaves, Trumpets and Atonement -- Leviticus 23:15-32\n\nThe Hebrew feasts divide themselves into two groups, connected with the Passover and the Day of Atonement, respectively, and occurring in the first and seventh months of the year. First came the Passover, on the fourteenth day of the first month, followed closely by the Week of Unleavened Bread, and at a distance of seven weeks further on by the Feast of Pentecost (Pentecost is the Greek word for fifty; see Leviticus 23:16).\n\nThese three form the first group. Six months afterward, on the tenth day of the seventh month, came the most solemn day in the whole year-the Day of Atonement. It was preceded by the Feast of Trumpets, and followed closely by the Feast of Tabernacles. This was the second group. But each group set forth a distinct aspect of redemption. In the Passover, we are reminded that we were redeemed from sin: in the Atonement, that we are redeemed to God. Do not forget to find Christ’s resurrection in Leviticus 23:11, and the first-fruits of the Spirit in Leviticus 23:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "The Feast of Tabernacles -- Leviticus 23:33-44\n\nThe annual Feast of Tabernacles was a beautiful custom, when the whole people removed from their dwellings to spend the days and nights in the booths, constructed out of the verdant boughs gathered from woodland and forest. How the children must have reveled in the experience, and what a healthy change it made for them all! The great lesson, of course, was to recall the Wilderness experience of their fathers, during which the Almighty was their fellow-pilgrim.\n\nIn figure they confessed that they were still pilgrims and strangers on the earth, and had no abiding city, but sought one to come. It was the custom of the feast in later years to pour water, drawn from Siloam, on the Temple pavement, in memory of the water supplies of the Wilderness-the rock that followed them. And it was on that occasion that Jesus uttered His memorable appeal. See John 7:37."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 24
+ }
+}

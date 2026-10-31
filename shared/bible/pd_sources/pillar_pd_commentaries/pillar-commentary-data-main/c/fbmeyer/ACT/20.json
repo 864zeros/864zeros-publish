@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Messenger of Truth and Life -- Acts 20:1-12\n\nThe Second Epistle to the Corinthians should be read with the introductory verses of this chapter, as it reveals the Apostle’s inner mind at this time. He seems to have been less impressed with the imminent peril from which he had been rescued, and more solicitous as to the condition of the church at Corinth, to which he had addressed his first Epistle during the early days of his Ephesian ministry.\n\nInto how small a compass, Acts 20:3, the evangelist crowds the three months’ ministry in Greece, where he visited the scenes of his memorable first journey. In a few lines he enumerates the companions of his return journey, and before we are well aware we are back again in Troas and on our way to Jerusalem.\n\nNotice that reference to the breaking of bread on the first day of the week, Acts 20:7. This proves that the primitive Church was adopting the first day of the week for its characteristic meal; and as the Gentile element became predominant, it is easy to see how gradually and inevitably Sunday superseded Saturday as the rest day. See also Colossians 2:16. It is possible that Eutychus was not already dead, although believed to be so. In that case, Paul’s loving embrace and prayer restored him from the swoon that might easily have become death. Can we not imagine the theme of that talk which lasted till dawn!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "A Parting Message -- Acts 20:13-27\n\nThe vessel had to stop at Miletus and Paul sent word to the Ephesian elders, urging them to come and see him. He spent the day in their company, and before parting delivered this pathetic and helpful address. There are many incidental touches revealing the nature of his work in the great city, of which there is little or no mention elsewhere in the Acts. For instance, we were not aware of his tears and trials through the opposition of the Jews, Acts 20:19, nor of the labors of his toil-worn hands, Acts 20:34. We hardly realized that his ministry was not simply the public proclamation of the gospel, but a visitation from house to house as well, Acts 20:20.\n\nThe Greek word in Acts 20:20; Acts 20:27 for kept back and shunned is a nautical word which literally means “reefed up.” It was so natural for Paul to use a nautical word which he must have been hearing every day. But, notice how this heroic soul alludes to the lightness with which he held comfort and life, if only he might serve his Master perfectly, and fulfill in full measure his opportunities. How Paul loved that great word grace! It was his perpetual theme, and as we come to know ourselves better, and consider how little we have deserved of God, we also shall have but one theme. We are debtors to the sovereign grace of God, and have nothing to pay."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Commended to God -- Acts 20:28-38\n\nNotice the change of the Revised Version in Acts 20:28. The elder, whether presbyter or bishop, is not put over the flock; he is in it like the rest, needing redemption through the same precious blood. Notice also that remarkable expression, the Church of God, which He hath purchased with His own blood, Acts 20:28. It clearly indicates Paul’s view of the deity of our Lord.\n\nThe prediction of Act 20:30 was but too soon fulfilled, 1 Timothy 1:19-20. Tears are thrice mentioned in this short passage: tears of suffering, Acts 20:19; of pastoral anxiety, Acts 20:31; and of personal affection, Acts 20:37.\n\nThe master builder was withdrawn before the edifice was completed, but he knew that God would continue, through other hands, to complete what he had begun, Acts 20:32. We are in the company of God’s heirs. Let us meditate on the word of His grace, as fellow-heirs with Christ and all His saints; let us enter into possession of our inheritance. In Acts 20:35 we have the only saying of our Lord in the New Testament which is not preserved in the Gospels. The blessedness applies to our Lord as well as to ourselves. Let us not think that he is tired of our requests. Every time we ask for anything that He can give us, we add to His blessedness, as well as to our own."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 21
+ }
+}

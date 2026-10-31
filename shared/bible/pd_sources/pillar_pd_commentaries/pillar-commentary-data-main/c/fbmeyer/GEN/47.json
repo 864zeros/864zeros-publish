@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 47,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Pharaoh Welcome’s Joseph’s Relatives -- Genesis 46:28-34; Genesis 47:1-12\n\nWhat a meeting between father and son! If the old man were sitting in the corner of the lumbering wagon, weary with the long journey, how he must have started up when they said, “Joseph is coming!” What pathos there is in the expression, “wept a good while,” as though the long-pent-up streams took a long time to exhaust themselves. Had Joseph been less noble he might have shrunk from introducing his lowly relatives to the mighty Pharaoh! But such thoughts were submerged in the great love which claimed that withered, aged, halting man as his father. Let us never be ashamed of our Savior, who has done more for us than even Jacob for his sons. This confession that the days of his pilgrimage had been few and evil is set to a sad minor chord; and to the superficial gaze Esau had enjoyed a much more prosperous career; but when Jacob stood before Pharaoh the mighty monarch recognized his moral supremacy, and bent beneath his benediction.\n\nSurely the less is blessed of the greater. Here was the harvest of his tears!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Egyptians Saved in Famine -- Genesis 47:13-26\n\nThe slender stores of the Egyptians were soon exhausted, and had it not been for Joseph the streets would have been filled with the dying and dead. His Egyptian name means “the savior of the world;” and the confession of the Egyptians proved how true it was: “Thou hast saved our lives.” How closely the parallel holds! Joseph rose from the pit and the prison to save his brethren as well as the myriads of his adopted fellow-countrymen: Jesus rose from the grave to be a Prince and a Savior. Joseph’s bread cost him nothing, while Jesus gave us that which cost him Calvary. Joseph sold his corn for money; our Lord gave himself without money or price. You may go to Him without reluctance, though your sack is empty and you have no money in your hand; but He will give and give again, without stint."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Joseph Visits His Dying Father -- Genesis 47:27-31; Genesis 48:1-7\n\nHow inexorable is the must of death! For many years Jacob had exceeded the ordinary span of human life, and now, like the last apple on the tree, he must be gathered. For seventeen years he had been familiar with Egypt’s splendid temples, obelisks and pyramids; he had been surrounded with all the comforts that filial love could devise; but nothing could make him forget that distant cave in the land of Canaan. In his judgment Egypt’s most splendid pyramid was not to be compared with that humble sepulcher where the mortal remains of Abraham and Sarah, of Isaac and Rebekah, and of the faithful Leah awaited his. On Joseph’s second visit he was weaker, and with an effort nerved himself for the interview. The angel-ladder and Rachel’s death stood prominently out before the dying eyes. When he returned from this pathetic reverie he turned to the two boys who stood awestruck beside him and adopted them, for their beloved father’s sake."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 47
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 46
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 48
+ }
+}

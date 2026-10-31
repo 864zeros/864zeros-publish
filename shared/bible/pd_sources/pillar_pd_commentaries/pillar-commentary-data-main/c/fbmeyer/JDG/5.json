@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Song of a “Mother in Israel” -- Judges 5:1-11\n\nOne of the noblest odes in literature! It celebrates a mighty victory through the enthusiastic consecration of the people, who laid themselves as freewill offerings on the altar of their country’s deliverance, Judges 5:2; Judges 5:9. There is a greater cause that summons us today, for we fight “not against flesh and blood, but… against the rulers of the darkness of this world,” Ephesians 6:12.\n\nThe singer recites the mighty deeds of the Exodus, Judges 5:4-5. She feels that the present hour is not less full of God. Let us dare to believe that today is as sublime as any day of the past, and live as though it were. She describes the desolations caused by the foe: the divested caravans, the deserted roads, the defenseless, weaponless people, Judges 5:6-8. She tells how men mustered in the city gates to take their part in the great effort to which she called them, Judges 5:9-11. Ye daughters of Deborah, who know God, wake again and sing till your hearts grow hot again; and ye brethren of Barak, arm yourselves for battle against the lies, fashions and sins that curse both the Church and the world!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Stars in Their Courses -- Judges 5:12-23\n\nThis noble psalm contains memorable sentences. The “captivity” phrase in Judges 5:12 is quoted in Psalms 68:18 and Ephesians 4:8; and in the latter is applied to the ascension of our Lord. He led in captivity those evil powers which had for so long held mankind in captivity. Let us not fear death, or the grave, or Hades. They have been bound to the chariot-wheels of our Lord, and their keys hang at his girdle, Revelation 1:18.\n\nLevies and reinforcements poured in from the hill-country of Ephraim, once owned by Amalek, Judges 12:15; from little Benjamin; from the northern tribes: but the main brunt of the war of liberation fell on Zebulun and others adjacent to the plain of Esdraelon, one of the great battlefields of history. Megiddo stands to the south of this famous site and has given its name to the last momentous struggle of Armageddon. Clearly Deborah refers to a terrific storm that broke, perhaps at night, upon the plain, flooding the river Kishon and the adjacent lands, so that Sisera’s chariots were rendered useless. O my soul, thou, too, mayest tread under foot thy foes, Judges 5:21, r.v., margin; but be sure never to refuse, as Meroz did, to respond when God needs thy help, Judges 5:23."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "At the Mercy of Midian -- Judges 5:24-31; Judges 6:1-6\n\nWhat a contrast our reading suggests between those that love the Lord and go from strength to strength in the undimming luster and influence of their life, and the evil that once more brought the tyrant’s yoke upon this neck of Israel! Yet these alternations have too often befallen us. At one moment Sisera and his hosts are chased before us as sheep before the dog; then a reaction sets in and the hand of Midian prevails against us. Why are we not always glad, strong, and victorious? Is it not because we look to our moods, we relax our close walk with God, and we set up the images of Baal in our hearts? We are then reduced to the plight described here and in Haggai 1:6.\n\nWhy are there not more conversions in the Church? Why is there so little difference between the Church and the world? Why is so much of our Sunday-school teaching ineffective? Ah, the Midianite is in our midst and we acquiesce! The urgent, primal need of the present day is for the Church to realize her true condition, and cry mightily unto God for help. Note Judges 6:6 and Joe 1:14, etc."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 6
+ }
+}

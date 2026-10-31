@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Social Injustice Condemned -- Isaiah 9:18-21; Isaiah 10:1-4\n\nThe terrible indictment of the preceding paragraphs is continued here. Notice the awful monotony of the refrain, Isaiah 9:12; Isaiah 9:17; Isaiah 9:21; Isaiah 10:4. Internal anarchy spread with the rapidity of a prairie fire. Jealousy and distrust awoke murderous hatred. Even the ties of brotherhood would not avail to arrest the knife of the assassin. In the horrors of starvation men would consume their own flesh, Isaiah 9:20.\n\nCivil strife would exhaust the forces, which, combined with God’s blessing, might have arrested the invader. The weak would become the spoil of the strong; and there would be no appeal. What pathetic questions are suggested in Isaiah 10:3! What will ye do? To whom will ye flee? See Hebrews 9:26-28.\n\nWhat hope is there for the soul that has known and refused the offer of forgiveness in Jesus! Dear soul, make haste to the cleft of the Rock!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The Mighty Laid Low -- Isaiah 10:5-19\n\nThis question is addressed to the Assyrian invader, described as God’s staff and rod. He was the means of inflicting deserved penalty on the world of that age, and especially on the Chosen People. He had no thought of this, but considered himself free to wreak his will without reference to that Higher Power whose agent he was. But the ruthless manner in which he carried out his work was destined to come under the divine judgment, Isaiah 10:12-15.\n\nThe capture of Jerusalem seemed as sure as the taking of a nest of eggs. The strongest barriers that the nations could oppose to his arms had fallen before the Assyrian king; and surely the Hebrew city should not escape. But God had yet to be reckoned with, Isaiah 10:16-19. The conception here is borrowed from a forest fire, which begins among the brushwood and presently consumes the loftiest and stoutest trees; so would the fire of destruction be kindled during the attack on the Holy City, which finally would involve the whole Assyrian empire. Let us not fear the wrath of man. God makes some portion of it to praise Him, and He restrains the remainder."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "The Kingdom of the Messiah -- Isaiah 10:33-34; Isaiah 11:1-9\n\nThe advance of the Assyrian along the great north road is graphically described. It was marked by raided villages and towns. The night sky was lurid with flames. But his collapse would be as sudden and irretrievable as the felling of forest timber. As the one chapter closes we can almost hear the crash of the Assyrian tree to the ground, and there is no sprout from his roots. But in the next the prophet descries a fair and healthy branch uprising from the trunk of Jesse’s line.\n\nThe vision of the King is then presented, who can be none other than the divine Redeemer on whom rests the sevenfold Spirit of God. The second verse defines the work of the Comforter, and is evidently the model of that royal hymn, Veni Creator Spiritus. But remember that He on whom this divine unction rested longs to share the pentecostal gift with the least of His disciples, 1 John 2:27. Note that as man’s sin brought travail and groaning on all creation, so will His redemption deliver it, Romans 8:19-25."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 11
+ }
+}

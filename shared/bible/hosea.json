@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "Hosea", "chapter": 6, "citation": "Hosea 6:3", "text": "Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.", "plain": "Let us press on to know the Lord. As surely as the sun rises, he will appear; he will come to us like the winter rains, like the spring rains that water the earth." },
-    { "book": "Hosea", "chapter": 6, "citation": "Hosea 6:6", "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.", "plain": "For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings." }
+    {
+      "book": "Hosea",
+      "chapter": 6,
+      "citation": "Hosea 6:3",
+      "text": "Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.",
+      "plain": "Let us press on to know the Lord. As surely as the sun rises, he will appear; he will come to us like the winter rains, like the spring rains that water the earth.",
+      "visual_prompt": "morning light streaming through a narrow stone window onto an open parchment scroll in plowed fallow ground waiting for spring rain",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Hosea",
+      "chapter": 6,
+      "citation": "Hosea 6:6",
+      "text": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.",
+      "plain": "For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings.",
+      "visual_prompt": "a small stone incense altar in a quiet courtyard corner at daybreak in plowed fallow ground waiting for spring rain",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

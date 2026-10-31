@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "A Pledge of Better Service -- Nehemiah 10:28-39\n\nThe chapter opens with a list of the signers of the covenant, which was signed on behalf of the people. The consecration covenant involved-first, obedience; then, the purity of the holy seed from intermarriage with heathen peoples; next, the observance of the Sabbath, and of the Sabbatic year. In addition there was the yearly charge for the maintenance of divine worship. The great lack among Christian people is system in the apportioning of their incomes. They leave their giving to impulse, and thus often give the merest fraction of their possessions to the cause of God. We should at least give a tenth, and as much more as we can afford.\n\nIf only all who read these words would resolve to imitate these impoverished exiles, and to set aside the tithe of all they earn or receive, they would discover the luxury of giving, and a new zest in receiving. The first-fruits of increased wages and revenue should also be given to God, as a tribute of thanksgiving. Let the first produce of hen-roost, orchard, and field be His. Do not neglect or forsake God’s house, Nehemiah 10:39."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 12
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Worthy Woman -- Proverbs 31:1-9\n\nIn these words of King Lemuel, we notice a mother’s influence in the education of her son. A woman is never more nobly occupied than in warning her son against the seductions of pleasure and in giving him a high sense of that which is right. The sins of the flesh have been the peculiar snare of royal personages, preventing them from pleading the cause of the desolate and ministering judgment to the poor and needy. What a contrast to the glory of the sovereignty of Jesus! When Savonarola preached with his burning eloquence in Florence, the people cried, “Jesus is our King, only Jesus!” That is what we all need. He is the King of whom His subjects need never be ashamed.\n\nWe cannot interpret Proverbs 31:6 and Proverbs 31:7 as a divine injunction, but rather as an admission that alcohol imparts a temporary stimulus to the despairing and the dying. We must remember Proverbs 20:1. Still speaking of the king, Lemuel shows how best his influence can be employed, Proverbs 31:8 and Proverbs 31:9. But the same obligation and privilege rests on us all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“Her Works Praise Her” -- Proverbs 31:10-31\n\nThe ideal woman, as portrayed here, is a wife. She is the stay and confidence of her husband. Not only when she comes as a young bride into his home, in the glory and beauty of her youth, nor only when her womanly beauty holds his admiration, but long after and to the end of life she does him good. She is always busy. She is thrifty in administering his earnings. If he brings the money to her, she expends it economically for their common weal. When a friend of mine was sixty, his wife came to him with an annuity which she had purchased for them both, by her wise administration of the money entrusted to her through forty years of married life.\n\nIt is in the home-place that the man’s strength is gathered for public life. The woman in the home communicates the inspiration and strength which make him “known in the gates.” Her secret, unobtrusive loyalty, counsel, and thrift inspire a growing depth of appreciation; so that the man who chose her in the spring will say of her amid the snows of age, “Other women may be good and true, but ‘thou excellest them all.’”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 1
+ }
+}

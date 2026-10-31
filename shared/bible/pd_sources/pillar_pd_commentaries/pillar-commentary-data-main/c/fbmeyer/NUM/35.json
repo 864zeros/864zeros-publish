@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Cities of Refuge for the Manslayer -- Numbers 35:1-15\n\nThis chapter is full of provision for the Levites, the chosen ministers of God’s house. They who serve there may be at rest about their maintenance. He is not unrighteous to forget their labor of love.\n\nThese forty-eight cities must have been centers of religious influence throughout the land. As cities set on a hill that could not be hid, as salt staying corruption, as lights along a rock-bound coast-so must they have stood in the Holy Land. So should our homes be in our land.\n\nSix of the Levite cities were set apart for those who were guilty of manslaughter-i.e., those who had killed some one unwittingly. They were within easy access from all parts of the land, and offered sanctuary until a judicial inquiry could be held. In Jesus we find refuge, Hebrews 6:18. No avenger following the track of past sin can hurt the soul that shelters in Him. Only we must never venture beyond the precincts of His salvation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The Penalty for the Murderer -- Numbers 35:16-34\n\nFor murder the penalty was death, Numbers 35:30-31; but for accidental homicide there was freedom within the city limits until the death of the high priest, when all these refugees might return to their homes with impunity. The institution of the blood-avenger was almost a necessity in those lands of scattered population and without communal organization. Here, without destroying the practice, it has been placed under careful limitations. We are our brethren’s keepers, and instead of passing on a slander, we should stand for them against those who have wrongfully maligned them.\n\nWhat an exquisite promise is contained in Numbers 35:34! To think that Jehovah actually dwelled in the Holy Land! He dwells also in each assembly of His saints and in our hearts. See Ezekiel 48:35; Matthew 18:20; 2 Corinthians 6:16; Revelation 21:3.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Praise and Fear Greet Jesus’ Approach -- Mark 11:1-19\n\nOn the first day of Passion Week a gleam of light fell athwart the Master’s path as He rode into Jerusalem. It was a lowly triumph. The humble ass was escorted by poor men, Galilean pilgrims, and children, who excited the haughty criticism of the metropolis. May a similar procession enter your heart and mine! “Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.”\n\nWith irresistible might the Lord drove forth the buyers and sellers from the Temple. According to the ancient prediction, He sat as a refiner and purifier of silver, to purify the sons of Levi. And whenever He enters the heart, He performs a similar work. He drives out bestial forms of sin, and mere traffic, so that the whole nature-spirit, soul, and body-may be surrendered to God. What our Lord said of the Temple should be true of each church of the living God. It should be His residence, where men of all nationalities should come to a unity, as they worship, confess sin, and intercede. Certainly God’s house must not be a place of merchandise and traffic."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The Conditions of Prayer -- Mark 11:20-33\n\nThe great lesson taught by this stricken tree justified its doom. It was not yet the time of the fig harvest, but some of last year’s fruit might still be found; and the hope of this was still further aroused by the abundance of young leaves. It was a type of profession without performance. In addition to proclaiming the doom of promise which is not followed by performance, our Lord drew from the miracle the great lesson that faith can absolutely reckon on God’s faith, that is, His faithfulness. Throughout His life, as we look into the heart of Jesus, we find only forgiving love, humility, faith. Forgiveness and love are the conditions of all successful prayers, Mark 11:24-26.\n\nWe do not show sufficient appreciation for our Lord’s marvelous intellectual power. He was more than equal to these clever intellects trained to argument. They were beaten at their own game."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 12
+ }
+}

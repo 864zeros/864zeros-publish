@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Doom of the House of Ahab -- 2 Kings 10:1-11\n\nWhat an iconoclast was this Jehu! Before his strong hand the whole structure of Baal-worship received its death-blow. And as we meet Elijah’s name in this chapter, connecting him with these events, we turn back to the story of Horeb, with its solemn words: “And it shall come to pass that him that escapeth from the sword of Hazael shall Jehu slay: and him that escapeth from the sword of Jehu shall Elisha slay.” God has many nets, and if the fish escape one set of meshes, they will be caught by another-none shall finally escape. “Everyone shall give an account of himself to God.” See 2 Kings 10:10.\n\nIt is a searching thought! Because men escape one judgment, they count themselves immune; but it is not so. He that escapes Hazael shall meet Jehu. “As if a man did flee from a lion and a bear met him; or went into the house and leaned his hand on the wall, and a serpent bit him,” Amos 5:19. “There shall fall unto the earth nothing… which the Lord spake,” 2 Kings 10:10. “How shall we escape if we neglect so great salvation,” and trifle with such a God, whose love is as searching as His chastening wrath? Jeremiah 16:16-17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Wiping out Baal-Worship -- 2 Kings 10:12-24\n\nFor the well-being of the race it is sometimes necessary to cut off evil-doers, lest they spread such a contagion of evil as to involve the whole body politic. The actual brethren of Ahaziah were slain by the Arabians, 2 Chronicles 22:1. Jehu’s work seems to have been complemented by an invasion of the Bedouins: the men mentioned here were probably, as the margin suggests, cousins or acquaintances. “Brethren” is a wide word, covering many degrees of blood-relationship.\n\nJehonadab was head of a remarkable tribe, and himself a man of unusual strength of character. The influence of his example and precepts left its mark on following generations, 1 Chronicles 2:55; Jeremiah 35:1-19. Jehu evidently respected Jehonadab’s good opinion, and was careful to advertise his own zeal for Jehovah. But the really good man has no need to parade his excellencies; and certainly Jehu could not count that his manner of going to work would be acceptable to the Most High. He might have achieved the same results by less objectionable methods. We must, of course, remember that this Baal-worship was very licentious, and that every Israelite who entered that temple did so in direct defiance of repeated warnings from Elijah and others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Jehu’s Own Failure -- 2 Kings 10:25-36\n\nJehu was earnest enough in uprooting all traces of Baal-worship, but he permitted the worship of the calves and was careless in the matter of personal religion, 2 Kings 10:31. How much easier it is to see and rebuke the sins of others, than to take heed to our own ways! It is comparatively easy to detect and destroy the sinner, without personally yielding to the claims of God ourselves. The judge who administers the law may be a transgressor of it, and all the more keen in inflicting penalty as if to satisfy his own uneasy conscience. And we who utter God’s solemn warnings against sin must not yield in thought to the sins that we denounce in act.\n\nThe Israelites were short in their duty to God, and God cut them short in territory, in wealth, and in power. Hazael thus fulfilled Elisha’s anticipations, 2 Kings 8:12. Those eastern tribes that were attracted by the fatness of the land and settled there first, were the first to suffer. Those who choose for this life only, are the first to deteriorate and perish. It was so with Lot!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 11
+ }
+}

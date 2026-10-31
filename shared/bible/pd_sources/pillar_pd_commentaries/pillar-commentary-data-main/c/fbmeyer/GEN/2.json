@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Man in Eden, Innocence -- Genesis 2:1-17\n\nThe first paragraph belongs to the previous chapter, as is clear from the use of the same term for God-Elohim. God’s Rest was not from weariness, or exhaustion, but because His work of Creation was finished. He is ever at work, remember John 5:17. We enter into His rest, when we cease to worry, and trust Him in all and for all. In Genesis 2:4, Moses incorporates another of those wonderful God-given narratives, which had been handed down from the lips of the patriarchs. It is marked by the use of another term for God-Jehovah Elohim. Every man is entrusted with a garden, that he may keep it. God’s goodness is no excuse for idleness. Whether your heart and life shall produce weeds, or flowers and fruits, depends on yourself. Ponder Proverbs 4:23; Proverbs 24:30-31."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Man and Woman, Temptation -- Genesis 2:18-25; Genesis 3:1-8\n\nHuman love is God’s best gift to man. Without it even Eden would not be Paradise. That Adam was able to name the animals, affixing a title suggested by some peculiarity or characteristic, indicated his royal supremacy, and, in so far as we live in God, that supremacy is restored. See Daniel 6:22; Mark 1:13. But what is power without love, or a throne without a consort? Eve was, therefore, given to crown his bliss; taken from his side, as afterward the Church from the opened side of Christ. See John 19:34, and Ephesians 5:25. Still God brings Eve to Adam; and such a marriage is truly blessed.\n\nThe order of temptation is always the same. The Tempter without, and within the strong desire for sensual gratification, with the secret hope that somehow the consequences may be avoided. The eye inflames passion; passion masters the resistance of the will; the body obeys its impulse; the act of gratification is followed immediately by remorse and guilt. Then we need the second Adam!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 3
+ }
+}

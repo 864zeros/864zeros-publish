@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob Blessed at Bethel -- Genesis 35:1-15\n\nThirty years before Jacob was at Bethel. Life was young then. He had only his staff. The future was unshaped and unknown. It was on the occasion of his first night from home; and he made many vows. How much had happened since then!\n\nMarriage, prosperity, children! But he had drifted down the stream, and had traveled into the far country from God. It was well that he should get back to Bethel, and consider the whole story of his life, as you may trace a river from source to mouth from an overlooking hill. The divine summons is always bidding us be clean and change our garments, and be rid of idols. There God gave him the great new name of Israel; and took to himself the reassuring name of El-Shaddai. It was as though, as the Almighty, he pledged himself to realize the highest and best.\n\nLet us take heart! God will make us fruitful, will give us the land, and will ward off the results of our misdeeds, Genesis 35:5.\n\nFor Review Questions on Genesis see the e-Sword Book Comments for Genesis."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Jacob’s Sons; Esau’s Sons; Isaac’s Death -- Genesis 35:16-29; Genesis 36:1-8\n\nFrom Bethel to Bethlehem is not far. The one, the House of God; the other, the House of Bread. We need them both, if we are to bear up under the repeated shocks of life, such as the death of the old nurse Deborah, the death of our beloved Rachels, the sins of our children, and the breakup of the old home, as when our father is borne to his grave. Well was it for Jacob that he had got right with God before these repeated waves broke upon him. Isaac had not lived a great life, but his full years gave him a claim on the veneration of his sons, who forgot their jealousies and feuds as they stood together at his bier. But how greatly men misjudge death.\n\nIt is not the end, but the beginning. We find hereafter Isaac associated with Abraham and Jacob, as welcoming the saints homeward. Death greatens good men!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 36
+ }
+}

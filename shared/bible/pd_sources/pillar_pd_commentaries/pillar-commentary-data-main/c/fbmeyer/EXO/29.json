@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 29,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Priests Prepared for Consecration -- Exodus 29:1-18\n\nThe consecration of the priests was an elaborate and impressive ceremony. Notice how Aaron and his sons are classed together, as though to remind us that Jesus and we stand together forever-more. He is the faithful High Priest, but we also have been made priests unto God. First came the washing with water, intimating the necessity for personal purity. See Hebrews 10:22. Then the donning of official robes; for God’s priests must be arrayed in the beauty of holiness. See Psalms 110:3.\n\nThe anointing oil is the emblem of the Holy Spirit. See Psalms 132:1-18 and 1 John 2:27. It is not enough to have the Holy Spirit in us for character; His anointing must be on us for service. The slain bullock, as sin offering, reminds us of the contrast between our Lord and us. He knew no sin; we require the propitiation for sin. The burned-offering reminds us of Rom 12:1-2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "The Consecration Offerings -- Exodus 29:19-30\n\nThe second ram of the consecration ceremony yielded its blood to be placed on ear and hand and foot. We are thus taught that our senses, deeds and goings are to be dedicated to God. Though the garments, which had just been put on, were perfectly new, they were besprinkled with blood and oil from head to foot. To our eyes a grievous disfigurement; but the Holy Spirit thus signified that even beauty is subordinate to the necessity for God’s forgiveness and anointing. Whenever the priest beheld his dress he was reminded of his unworthiness, and of the abundant grace of God. Of course, the Lord Jesus needed no such preparation. He was holy, harmless and separate from sinners.\n\nPart of the flesh was waved heavenward and burned, as though God fed on it, while part was eaten by the priests. It was as though God and they feasted together in one holy sacrament, the symbol of their at-one-ment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "The Continual Daily Offerings -- Exodus 29:31-46\n\nThe consecration ceremony was repeated on seven succeeding days, and must have produced a profound impression. Thus line was upon line; and we may magnify God’s patience, in being willing through these repeated ordinances to educate the Hebrew people to the sublimest spirituality.\n\nNotice the injunctions for daily services! No religious life can thrive without its regular hours and habits of devotion, such as these offerings suggest. Morning and evening prayers have been the custom in all ages. With the one we go forth to our labor till the evening, asking our Father to give guidance and protection. With the other we entreat forgiveness and mercy. See Psalms 55:17; Daniel 6:10. The chapter ends with many great and precious promises, which we who believe in Jesus may claim and enjoy."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 29
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 30
+ }
+}

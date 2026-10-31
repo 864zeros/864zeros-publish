@@ -187,6 +187,62 @@ const htmlViewer = `<!DOCTYPE html>
   .app-box .section-tag { color: var(--accent-dark); }
   .app-text { font-size: 13.5px; color: var(--accent-dark); margin: 0; line-height: 1.5; }
 
+  /* Book Progression Navigation (Top & Bottom) */
+  .book-nav-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+  .nav-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    background: var(--panel);
+    color: var(--ink);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.15s;
+  }
+  .nav-btn:hover:not(:disabled) {
+    border-color: var(--accent);
+    background: var(--accent-light);
+    color: var(--accent-dark);
+  }
+  .nav-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+  .nav-btn.primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .nav-btn.primary:hover:not(:disabled) {
+    background: var(--accent-dark);
+    color: #fff;
+  }
+  .book-footer-nav {
+    margin-top: 28px;
+    padding: 22px 26px;
+    background: var(--panel);
+    border: 2px solid var(--line);
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+  }
+
   @media (max-width: 800px) {
     .app { grid-template-columns: 1fr; height: auto; }
     aside { height: 350px; }
@@ -202,6 +258,11 @@ const htmlViewer = `<!DOCTYPE html>
       <div class="brand-tag">864zeros Publish</div>
       <h1>Bible Study Library</h1>
       <div class="sub">66 Books · 660 Actionable Lessons</div>
+      <div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;">
+        <a href="bible_viewer.html" style="font-size:11px;font-weight:600;padding:4px 8px;border-radius:5px;text-decoration:none;border:1px solid var(--line);color:var(--muted);background:var(--bg);">📜 834 Verses</a>
+        <a href="bible_study_viewer.html" style="font-size:11px;font-weight:600;padding:4px 8px;border-radius:5px;text-decoration:none;border:1px solid var(--accent);color:#fff;background:var(--accent);">🧭 660 Lessons</a>
+        <a href="bible_questions_viewer.html" style="font-size:11px;font-weight:600;padding:4px 8px;border-radius:5px;text-decoration:none;border:1px solid var(--line);color:var(--muted);background:var(--bg);">🎯 762 Questions</a>
+      </div>
     </div>
     <div class="search-box">
       <input type="text" id="searchInput" placeholder="Search books, lessons, or topics..." oninput="handleSearch()" />
@@ -219,8 +280,26 @@ const studyData = ${JSON.stringify(masterDoc)};
 let currentBookIndex = 0;
 
 function init() {
+  const params = new URLSearchParams(window.location.search);
+  const bookParam = params.get('book');
+  if (bookParam) {
+    const idx = studyData.books.findIndex(b => b.book.toLowerCase() === bookParam.toLowerCase());
+    if (idx !== -1) currentBookIndex = idx;
+  }
   renderSidebar();
-  renderBook(0);
+  renderBook(currentBookIndex);
+}
+
+function goToBook(index) {
+  if (index < 0 || index >= studyData.books.length) return;
+  currentBookIndex = index;
+  renderSidebar();
+  renderBook(index);
+  const activeEl = document.querySelector('.book-item.active');
+  if (activeEl) activeEl.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  const url = new URL(window.location.href);
+  url.searchParams.set('book', studyData.books[index].book);
+  window.history.replaceState({}, '', url.toString());
 }
 
 function renderSidebar(filteredBooks = null) {
@@ -245,10 +324,7 @@ function renderSidebar(filteredBooks = null) {
     const li = document.createElement('li');
     li.className = \`book-item \${origIndex === currentBookIndex ? 'active' : ''}\`;
     li.onclick = () => {
-      currentBookIndex = origIndex;
-      renderBook(origIndex);
-      document.querySelectorAll('.book-item').forEach(el => el.classList.remove('active'));
-      li.classList.add('active');
+      goToBook(origIndex);
     };
     li.innerHTML = \`<span>\${b.book}</span><span class="book-num">\${b.order}</span>\`;
     ul.appendChild(li);
@@ -260,10 +336,26 @@ function renderSidebar(filteredBooks = null) {
 function renderBook(index) {
   const b = studyData.books[index];
   if (!b) return;
+  const prevBook = index > 0 ? studyData.books[index - 1] : null;
+  const nextBook = index < studyData.books.length - 1 ? studyData.books[index + 1] : null;
   
   const container = document.getElementById('mainContainer');
   
   let html = \`
+    <div class="book-nav-bar">
+      <button class="nav-btn" onclick="goToBook(\${index - 1})" \${!prevBook ? 'disabled' : ''}>
+        \${prevBook ? \`← Prev: \${prevBook.order}. \${prevBook.book}\` : '← First Book (Genesis)'}
+      </button>
+      <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+        <a class="nav-btn" href="bible_questions_viewer.html?book=\${encodeURIComponent(b.book)}" title="Take a Quiz on \${b.book}">
+          🎯 Quiz Yourself on \${b.book}
+        </a>
+        <button class="nav-btn primary" onclick="goToBook(\${index + 1})" \${!nextBook ? 'disabled' : ''}>
+          \${nextBook ? \`Next Book: \${nextBook.order}. \${nextBook.book} →\` : 'Final Book (Revelation) ✓'}
+        </button>
+      </div>
+    </div>
+
     <div class="book-banner">
       <div class="book-meta-row">
         <span class="pill">\${b.testament === 'OT' ? 'Old Testament' : 'New Testament'}</span>
@@ -309,11 +401,35 @@ function renderBook(index) {
         </div>
       \`).join('')}
     </div>
+
+    <div class="book-footer-nav">
+      <button class="nav-btn" onclick="goToBook(\${index - 1})" \${!prevBook ? 'disabled' : ''}>
+        \${prevBook ? \`← Previous Book: \${prevBook.order}. \${prevBook.book}\` : '← First Book'}
+      </button>
+      <div style="text-align:center;">
+        <div style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--muted);">Completed \${b.book} (Book \${b.order} of 66)</div>
+        <a href="bible_questions_viewer.html?book=\${encodeURIComponent(b.book)}" style="font-size:12.5px;font-weight:700;color:var(--accent);text-decoration:none;">🎯 Test your knowledge on \${b.book} →</a>
+      </div>
+      \${nextBook
+        ? \`<button class="nav-btn primary" style="padding:10px 18px;font-size:14px;" onclick="goToBook(\${index + 1})">Next Book: \${nextBook.order}. \${nextBook.book} →</button>\`
+        : \`<button class="nav-btn primary" onclick="goToBook(0)">↺ Restart at Book 1: Genesis</button>\`
+      }
+    </div>
   \`;
 
   container.innerHTML = html;
   container.parentElement.scrollTop = 0;
 }
+
+window.addEventListener('keydown', e => {
+  const tag = (e.target && e.target.tagName) ? e.target.tagName.toUpperCase() : '';
+  if (tag === 'INPUT' || tag === 'SELECT' || tag === 'TEXTAREA') return;
+  if (e.key === 'ArrowRight') {
+    if (currentBookIndex < studyData.books.length - 1) goToBook(currentBookIndex + 1);
+  } else if (e.key === 'ArrowLeft') {
+    if (currentBookIndex > 0) goToBook(currentBookIndex - 1);
+  }
+});
 
 function handleSearch() {
   const query = document.getElementById('searchInput').value.toLowerCase().trim();

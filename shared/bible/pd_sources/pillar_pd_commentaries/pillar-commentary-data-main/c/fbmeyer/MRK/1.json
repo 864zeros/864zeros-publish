@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Beginning of Jesus’ Ministry -- Mark 1:1-20\n\nThe ministry of John the Baptist, Mark 1:1-8. Always the message of John precedes that of Jesus Christ; first the changed attitude of the will, then faith. The greatness of the Baptist revealed itself in his humility. He saw what we must see, that a negative religion, symbolized by water, is not enough: we need to be set on fire.\n\nThe opening pages of Christ’s public life, Mark 1:9-20. Jesus was recognized by the Baptist, who beheld the opened heavens and the descending Spirit. If the Lord was thus anointed ere He commenced His life-work, how much more must we be! Hast thou become united with Him in His death, made one with Him in His resurrection, and anointed by that same Spirit? Then be sure that thou, too, must be tempted. Sons of men must go the way of the Son of man, now under the opened heavens, then tempted of the devil; on one side the wild beasts, on the other the angels; now driven to loneliness, and then to the crowded street of the cities, there to gather disciples by the energy and beauty of a victorious life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The Helper of the Needy -- Mark 1:21-39\n\nThe word straightway is typical of our Lord’s life. It occurs at least eleven times in this chapter (r.v.), and is the keynote of Mark’s Gospel, which is pre-eminently the gospel of service. The ancient symbol for this Gospel was the ox. There is comparatively little said in it, as in Matthew, about the King; or, as in Luke, about the details of Jesus’ humanity; or, as in John, about His divine sonship. There are suggestions of all these, but emphasis is laid on the unresting labors of Jesus, who went about doing good. In illustration of this trait in the Master’s life, the evangelist narrates the proceedings of two typical days, the one at the beginning, the other at the close of His ministry.\n\nThe first typical day is recorded in this chapter, Mark 1:21-38. The morning was spent in the synagogue, where at the close of the service the demon was cast out; the afternoon witnessed the healing of Peter’s wife’s mother; the evening beheld the throng at the door, whom he healed. Early next day He had gone forth for prayer, and forthwith started on a mission throughout all Galilee. The second typical day is recorded in Mark 11:20-33; Mark 12:1-44; Mark 13:1-37."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "The Friend of Sinners -- Mark 1:40-45; Mark 2:1-22\n\nThe leper, Mark 1:40-45. The news of Christ spread fast and far until it reached the outcasts from Jewish society, the very dregs of humanity. As the story of the wonderful miracles wrought by our Lord was pondered deeply by this man, He concluded that the only question which remained was that of Christ’s willingness to hear. As to His power there could be no doubt. But no one of all the religious world of that time had ever thought of extending a helping hand to such as he. Note the instantaneousness of our Lord’s response to this appeal. His love and power are commensurate; when you gauge the one, you have measured the other.\n\nThe paralytic, Mark 2:1-12. The disease had resulted from sin. It was necessary to deal with the soul before the body could be emancipated. As soon as we sin, God’s pardon awaits our asking for it, and of this fact our Lord gave the paralytic man definite assurance. Jesus’ right to speak was evidenced by His power to heal. If the latter was effectual, so was the former.\n\nThe sinner’s friend, Mark 2:13-22. They thought to coin a term of reproach, but they added a crown of glory. In eternity the Friend of sinners will surround His table with saved sinners who have become His guests."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 2
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Offending the Righteous God -- Deuteronomy 9:1-14\n\nWho can read this chapter without emotion and admiration for its sublime eloquence! It is one of the most striking and moving chapters in this book!\n\nMoses sets himself to convince the people that they must not suppose that their easy entrance to Canaan was due to conspicuous virtue, but rather to God’s covenant with their fathers, and also to the sinful practices of the Canaanites. Compare Deuteronomy 9:5 with Genesis 15:16. The contagion of these sins might have infected and poisoned humanity; therefore they had to be extirpated. Whatever we enjoy is due, not to our merit, but to the infinite grace of God in Jesus Christ, 1 Corinthians 15:10.\n\nAh, my soul, ponder this, for this is true of thee also! All thy past has been filled with failure and rebellion. If thou art still used for God’s service, and art credited with a good name among His people, remember the reason is in the sovereign grace of Jehovah!\n\n“A debtor to mercy alone,\n\nOf covenant mercy I sing.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Moses’ Intercession for a Rebellious People -- Deuteronomy 9:15-29\n\nDuring the remainder of this chapter Moses continues to remind the people of their rebellions. It is well, when we are tempted to self-adulation, to listen to that faithful monitor, conscience, recording our evil past. We are apt to forget our many provocations of God, especially when the smart of the rod is over. But we have all had our Horebs, Taberahs, Marahs, Kibroth-hataavahs and Kadesh-barneas, 1 Corinthians 10:11.\n\nAgain and again would the people have been destroyed, if human justice had decided their case. But Moses, the mediator, knew the holy love of God’s heart; and expressed it in his prayers on their behalf. See Deuteronomy 9:18; Deuteronomy 9:20; Deuteronomy 9:25-29. We are reminded of Him who ever liveth to make intercession for us within the veil, Hebrews 6:20; Hebrews 7:26-27; Hebrews 9:24. Let us imitate Moses in his life of intercessions; and mark well his arguments that we may use them for ourselves and others."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 10
+ }
+}

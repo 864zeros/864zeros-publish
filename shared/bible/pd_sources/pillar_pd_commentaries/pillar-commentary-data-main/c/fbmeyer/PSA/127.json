@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 127,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Lord Hath Done Great Things for Us” -- Psalms 126:1-6; Psalms 127:1-5\n\nThe circumstances under which this psalm was written are evident upon its face. The exiles, lately back from Babylon, are rejoicing in the gladness of their return. But their joy was not complete so long as the larger portion of their nation were still in bondage. The metaphor of streams in the South is derived from the rapidity with which dry water-courses become flushed with torrent streams. The returned exiles longed to see the vacant solitudes of their land suddenly filled with returning crowds. They asked that their tears might be the seeds of mighty harvests. Let not the Christian worker count as lost the seeds he sows or the tears in which he steeps them. That doubtless is God’s guarantee.\n\nPsalms 127:1-5 This psalm was probably suggested by Ezra’s efforts to rebuild the Temple. We cannot succeed apart from God, but must be His fellow-workers. See Proverbs 10:22. The bread of trouble is that which is hardly obtained, where labor is severe, and the results slow. Beware of needless anxiety. As builders, Psalms 127:1, look to God for plan, materials, and co-operation. As watchers, Psalms 127:1, commit all keeping to God’s watch and ward. As toilers, Psalms 127:2, have a little more quiet rest and ease of mind. As parents, Psalms 127:3-5, do not shrink from parental responsibilities; when you are old, your children will answer for you."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 127
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 126
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 128
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Among the Ashes” -- Job 2:1-13\n\nIt gives God deep pleasure when He can point to one of His servants who has borne fiery trial with unwavering patience and faith. The adversary comes back from his restless, ceaseless rounds, 1 Peter 5:8; but there is one soul at least which has resisted his worst attacks. Observing Job, the principalities and powers in the heavenly places have learned that God can make a man love Him, not for His gifts, but for Himself, Ephesians 3:10.\n\nThe adversary suggests a severe test, and God permits it because he knows His child. A limit, however, is put upon the ordeal, 1 Corinthians 10:13, r.v. The story is very comforting, because we see that we are not the sport of chance, but in every detail our education is being carried out by our Father’s hand. Our dearest friends may advise us to renounce God and die, but in Gethsemane our Lord taught us to take the Father’s will at all costs-though it seem to spell death-sure that he will not leave us in the grave, Psalms 16:10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 3
+ }
+}

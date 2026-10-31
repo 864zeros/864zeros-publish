@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEP",
+  "commentaryId": "fbmeyer",
+  "name": "Zephaniah",
+  "commonName": "Zephaniah",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Meekness Saves, Pride Destroys -- Zephaniah 2:1-15\n\nThe nation, on the whole, had no remorse, no desire for God; but there were a few meek and lowly souls, and the hope was held out to them that they would be hidden from the coming overthrow. God discriminates in His judgments, and sends His angels to conduct Lot out of Sodom. The judgment of the surrounding nations occupies Zephaniah 2:4-15. Philistia, Moab, Amnion, Ethiopia and Assyria, are mentioned. God never forgets the treatment meted out to His people by their foes, Zephaniah 2:8-10. The captivity of Israel would be turned again, but there was no hope of recovery for the peoples that had rejoiced in their overthrow.\n\nWhat a picture is given in Zephaniah 2:11 of famished gods! It seemed incredible that great Nineveh should become a wilderness, yet so it has been for centuries. Whenever an individual or nation dwells carelessly, destruction is not far away."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 3
+ }
+}

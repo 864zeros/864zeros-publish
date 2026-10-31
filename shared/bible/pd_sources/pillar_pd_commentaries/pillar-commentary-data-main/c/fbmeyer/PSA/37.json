@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 37,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Sure Cure for Fretting -- Psalms 37:1-17\n\nThis is an acrostic psalm, grappling with the problem of the inequality of human life and the apparent failure of God to reward His servants and punish His enemies as they deserve. Life and immortality, where we know that the balance will be readjusted, had not then been brought to light, and therefore the solution was far harder before the advent of our Lord than for us.\n\nBut though the psalmist’s solution is therefore not complete, his teaching of the blessedness of absolute trust in God’s providence is very delightful. Fret not thyself; that is, do not give way to passionate resentment or bitter disappointment. Live in God; find your delight in contemplating His nature and His works; roll on Him the decision of your life-choices; trust in Him to supply all your need and work in your behalf. Be silent and rest!\n\nHow dramatically this picture of the happy, restful child of God is contrasted with the wicked and his certain doom-like barren pastures scorched by heat, or thin smoke-columns vanishing in the air! “Wait and trust!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Ways That God Establishes -- Psalms 37:18-29\n\nGod takes pleasure in our lives. In each He is working out a plan. Even our failures do not turn Him away from us, for He keeps fast hold of our hands, Psalms 37:24, r.v., margin. Long after His people have passed home, God sees to their children. If they follow in their parents’ ways, they are borne along in the stream of providential care; but obviously they may depart from it. What precious promises in Psalms 37:28; Psalms 37:31; Psalms 37:33; Psalms 37:37; Psalms 37:39-40! Never forsaken! Always sure of an Advocate in the Divine Presence! Not left to the mercy of our foes! Safely housed in the time of need! Dying in peace! Such are the blessings which accrue to the servant of God. Such has been the observation of one no longer young, Psalms 37:25.\n\nWhen taunted, persecuted, maligned, desperate, go into a silent place and lift your tear-stained face to Him. He understands the unspoken language of sighs and tears. Do not hurry Him; He has ages to work in. Wait patiently and rest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Steps That Shall not Slide -- Psalms 37:30-40\n\nHow dear this psalm has been to God’s saints! It has been peculiarly prized by them in all ages. Gerhardt has paraphrased it in his noble hymn:\n\nGive to the winds thy fears,\n\nHope, and be undismayed.\n\nWhen banished from Berlin by the Elector, he turned into a small wayside hostelry, not knowing where to go. Seeing his wife greatly depressed, he turned to find comfort for them both in these verses, and the conception of his hymn broke upon him. That evening messengers arrived from the Duke of Mecklenburg, offering Gerhardt an honorable position in his kingdom. Among many others, Psalms 37:5 was frequently quoted by David Livingstone.\n\nBishop Coverdale’s translation of Psa 37:37 is noteworthy: “Keep innocency and take heed unto the thing that is right, for that shall bring a man peace at the last.” But the psalmist repeatedly insists that the fulfillment of God’s promises is conditioned by our faith, Psalms 37:40. The day may break stormily, but the storms expend themselves before nightfall and the sunset is golden."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 37
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 38
+ }
+}

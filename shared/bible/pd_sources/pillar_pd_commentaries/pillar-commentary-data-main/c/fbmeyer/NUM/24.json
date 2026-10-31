@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Balaam’s Vision of Israel’s Prosperity -- Numbers 24:1-14\n\nIn these remarkable words Balaam describes the condition and prospects of God’s people. They reveal the innermost thought which even a bad, double-dealing man has of the saint. Balaam had his times of illumination, when he touched the very truth of things. A man may know and speak truth, which he does not himself obey. Would that we all realized the high ideals which sinful men have of religion!\n\nWe are intended to be as gardens by the river, lign-aloes planted by the Lord, and cedars fed by perennial streams. Oh, for more of exalted royalty of soul, the invincible strength, the victory that eats up the adversary, and actually feeds on what threatens to destroy! We can only attain to such an ideal by a close union with the risen Savior. Let us live on the plane which is ours in Him and for which He imparts the Holy Spirit!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The “Star out of Jacob” -- Numbers 24:15-25\n\nWhen your heart is dismayed because of the hatred and opposition of Satan; the great accuser, turn to this chapter. If he stands up to resist, the Son of God stands in your defense. The Eternal God is on your side, not because you are perfect, but because you have linked your little life with Jesus Christ in His glory and beauty. In Deuteronomy 23:5 we learn the blessed secret that explained Balaam’s failure.\n\nBalaam describes in glowing anticipation Israel’s future, and his forecast is marvelously accurate. It is clear that a man may speak the truth of which his soul is destitute, as a marble fountain may dispense water which it does not taste.\n\nBalaam started for his home, but never reached it. You may long to die the death of the righteous, but it is a vain dream unless you live their life. Compare Numbers 23:10 with 31:8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 25
+ }
+}

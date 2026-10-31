@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 29,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob in Laban’s Home -- Genesis 29:1-20\n\nWell might Jacob lift up his feet! See margin. When we are sure of God we receive strength that enables us to run with patience the race that is set before us. The steps of a good man are ordered by the Lord, and we have a special claim on His guidance in our matrimonial alliances-the most solemn and momentous step of all. There were many good qualities in Rachel, fitting her to be a good wife. Her humility and industry, her patience under the oppression of the unmannerly shepherds, her haste to share her joy with her father-all these elicited Jacob’s love.\n\nWhat a touch of old-world and new-world poetry is in those words of Gen 29:20! Where Love is queen time is too short, labor never hard, distance never long, sacrifice unheard of! Oh, that we so loved our Lord, that for the missionary toiling through long years, and the invalid condemned to a life of pain, affliction might appear light and but for a moment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Jacob Marries Leah and Rachel -- Genesis 29:21-35\n\nThe chief lesson of this paragraph is its illustration of the awful nemesis which accompanies wrongdoing. No thoughtful person can watch the events of history or experience without realizing that we are already standing before the judgment-seat of God, and that His sentences are in process of being executed. Jacob deceived his father, and was himself deceived. “With what measure ye mete, it shall be measured to you again.” What disappointments there are in life! We think that we are to be dowered with Rachel, and lo! Leah is substituted; but in after-days Jacob spoke of Reuben as his might, the beginning of his dignity and excellency. The names of Leah’s sons suggest the blessings that accrue through heartbreak.\n\nFor the Leahs of the world there are great compensations. God remembers and hears them. Brokenhearted and forsaken, they live again in the lives of those whom they have borne either naturally or spiritually."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 29
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 30
+ }
+}

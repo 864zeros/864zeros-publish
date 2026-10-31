@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 46,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Our Refuge and Strength” -- Psalms 46:1-11\n\nThe historical origin of this psalm cannot be certainly determined. Probably it was composed when Jerusalem was beleaguered by Sennacherib’s hosts, 2 Kings 18:1-37. It befits every era in which the Church is in danger from her foes, and foretells the final destruction of Antichrist. It was Luther’s favorite psalm, and is rendered into verse in his memorable hymn, Ein’ Feste Burg. During the sitting of the Diet of Augsburg he sang it every day to his lute, standing at the window and looking up to heaven. The theme of the psalm is the security of God’s people, and this is elaborated in three stanzas, each of which ends with Selah.Alone among great cities, Jerusalem lacked a river; but God was willing to become all that a river could be and more.\n\nYour deficiencies give more room for God’s all-sufficiency. Mark the beautiful alternative translation of Psa 46:5, r.v., margin, “at the dawn of morning.” Your sorrow is limited to a single night. See also Isaiah 37:36; Matthew 14:25. Be still, O troubled heart! The God of the nations is your Father! Desolations are the snapping off of the dead branches to prepare for the spring."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 46
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 45
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 47
+ }
+}

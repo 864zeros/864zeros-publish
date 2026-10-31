@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Remnant Saved by Grace -- Romans 11:1-12\n\nIn the worst days of Hebrew apostasy there was always an elect handful that did not go astray after other gods. It was so in the days of Elijah; and it was a comfort to the faithful heart of Paul to believe that, amid the general opposition excited by the preaching of the gospel, there were many secret lovers of the Cross who were true to the Messiah and His claims. Man can never count these quiet, unknown, holy souls, who, like the sweetest wild flowers, can be detected only by the fragrance of their lives. But God counts them, to whose grace and care all that is good in them is due.\n\nThe few seek and find, because they stoop to seek in God’s predetermined way and along His lines. But when men set themselves against these, they become hardened and overwhelmed by a “spirit of stupor,” Romans 11:8, r.v. When Scripture says that God gives them this, it simply means that such state of insensibility is the working out of an inevitable law. But the Apostle cherished the secret hope that the avidity with which the Gentiles were accepting the gospel would, in the mystery of God’s providence, have the ultimate effect of bringing the Chosen People back to Him whom their fathers crucified, Romans 11:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Others Grafted in by Faith -- Romans 11:13-24\n\nPaul never abandoned the hope that ultimately Israel would come back to God in Christ. He believed that God’s promises pointed in that direction, and that, though centuries might pass, those sure guarantees would be abundantly fulfilled. Notice his expressions: how much more their fullness, Romans 11:12; what shall the receiving of them be, but from the dead? Romans 11:15; God is able to graft them in again, Romans 11:23; all Israel shall be saved, Romans 11:26; that He might have mercy upon all, Romans 11:32. He realized, however, that Israel must temporarily make way for the ingathering of the Church, in which there is neither Jew nor Greek; and that when the Church has been formed and gathered to its Lord, then the time for the ingathering of the Jewish people will have arrived.\n\nLet us see to it that we Gentiles understand our position as being permitted to partake of the root and fatness of the olive tree, Romans 11:17. Christ was the root of that tree, and it is from His rich nature that all the freshness and fatness, all the quickening and energy, all the love and grace of the Hebrew Scriptures and heritage of promises were gained. Whatever Israel had, we may have. Let us go up and possess the land!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "That God “Might Have Mercy upon All” -- Romans 11:25-36\n\n“Mysteries” are the reasons and principles of the divine procedure which are hidden from ordinary minds, but revealed to the children of God by the Spirit, who searches the deep things, 1 Corinthians 2:10. We cannot tell how near the brim we are, or when the fullness of the Gentiles will fill the predestined measure. It may be much nearer than we suppose, and then the door will be closed, and the Hebrew nation will be grafted in to serve the divine program in the last stages of human history. They are still beloved for their fathers’ sake, and the day is coming when all their sins will be forgiven and taken away.\n\nWe may go a certain distance in the devout understanding of the ways of God, but there is a point beyond which we cannot advance; and as we gaze down into the profound abyss of the divine dealings, we must cry, O the depth! Romans 11:33. The origin, the maintenance, and the ultimate end of creation, providence, and redemption, is God. To Him must be the glory! In other words, we shall find that the whole story of sin, redemption, and salvation will unravel and reveal the nature of God, as the prismatic band of color the sunlight."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 12
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Deliverance by the Sword -- Esther 9:1-32\n\nWhen the fateful day arrived, the Jews throughout the empire stood on the defense. As it appears from Esther 9:16, seventy-five thousand of their assailants fell in the provinces and five hundred in Susa alone. Among these were the ten sons of Haman. No attempt at plunder was made by the victors. The second day was asked for probably to confirm the settled policy of Ahasuerus, and the exposure of the bodies of Haman’s sons was rendered necessary by the virulent hatred entertained towards the Jews. Decisive measures were demanded to show their enemies the risk they would incur by pursuing Haman’s policy.\n\nHaman was an Amalekite, and in this light we may recall Exodus 17:14; Exodus 17:16; Deuteronomy 25:19. In all this, especially in this terrible act of vengeance, we are reminded repeatedly of the change that Christ’s coming made in the world, even among religious people. Contrast Esther and Mary of Bethany!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The Feast of Purim -- Esther 9:20-32; Esther 10:1-3\n\nThe Feast of Purim-so called from Esther 3:7 -was held on the 14th and 15th of Adar, our February. The whole of this book was read on the previous evening in the synagogue. Whenever Haman’s name was pronounced, the whole congregation made a terrible noise, and every voice shouted imprecations, “Let his name rot!” The reference to tribute in Esther 10:1 shows that this book is a historical document, preserved in the state archives, and probably written by a Jewish chronicler, who may have owed his position to Mordecai himself. The providence of God is clearly discernible in all the incidents recorded here. Through all human governments and events a divine purpose runs; and as God exalted Mordecai to honor and glory, so will He work for those who love Him, and so ultimately will He put all enemies under His feet."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 10
+ }
+}

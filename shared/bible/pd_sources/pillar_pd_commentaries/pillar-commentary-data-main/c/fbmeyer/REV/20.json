@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Millennial Reign -- Revelation 20:1-6\n\nIn the preceding chapter the beast and the false prophet are depicted as meeting their punishment in the lake of fire. In this, the devil, death, and Hades are consigned to a similar fate. The imagery is apparently drawn from that fearful tragedy which left so deep an impression on the ancient world. See Genesis 14:10; Genesis 19:24; Jude 1:7. The last reference is especially interesting, because there the fate of the cities of the plain is quoted as an example of eternal fire. May it be ours to participate in the first resurrection!\n\nLet our loins be girded and our lamps trimmed, that we may be found of Christ in peace, at our posts, and prepare to enter with Him into the bridal feast. This is a more solemn and critical consideration than the majority of Christians seem to suppose. In fellowship with their Lord, His people are to exert in a godly direction the same kind of influence over the affairs of men, as the rulers of darkness in an ungodly sense now exercise. Thank God, every morning brings that blessed day nearer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Before the Great White Throne -- Revelation 20:7-15\n\nGog and Magog take us back to Genesis 10:2; see also Ezekiel 38:1-23; Ezekiel 39:1-29. It would seem that this great confederacy of the northern nations against the beloved city, Jerusalem, will be led by Satan, and overwhelmed once and for all by the direct judgment of God.\n\nThe final judgment is depicted in Revelation 20:11-15. God’s people will not appear at that bar. All the human family will be arraigned, save those whose names are in the book of life, John 5:24. See Exodus 32:32; Daniel 12:1; Philippians 4:3; and Revelation 21:27. Death and Hades will surrender their contents. What a marvelous audience! The throne is great, because of the destinies to be decided; and white, because of the immaculate purity of the Judge, who will be none other than our Lord. See John 5:22; Acts 17:31. The books will surely include conscience; Romans 2:15-16; God’s Word, John 12:48; and the tablets of memory, Luke 16:25."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 21
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abraham Again Denies His Wife -- Genesis 20:1-18\n\nIt is wonderful that Abraham should fall like this. He had walked with God for so many years, and experienced so many deliverances, that we should have expected him to have reached an unassailable position. But the best of men are men at the best; and God, who knows us better than we know ourselves, remembers that we are dust. He often steps in by His providence to intercept the full consequences of our wrongdoing, provided always that our heart is really true to Him. There is delightful reassurance in the words, “I withheld thee.” God may have to chastise His children for their backslidings, but He will not hand them over to the will of their enemies, nor allow His covenant to fail. He rebukes king’s for the sake of His people.\n\nSee Psalms 105:15. There is a high-toned morality in some who are outside our religious pale, which may put us to shame. It crops up in unexpected places, as here in Abimelech’s remonstrance. It was terrible that He was compelled to address Abraham as in Genesis 20:9. God has direct dealings with such men, but they need our prayer and help. See Genesis 20:3; Genesis 20:17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 21
+ }
+}

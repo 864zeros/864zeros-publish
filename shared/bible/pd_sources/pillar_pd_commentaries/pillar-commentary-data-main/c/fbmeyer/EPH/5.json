@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "fbmeyer",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Walk as Children of Light -- Ephesians 5:1-12\n\nIt is indeed a high calling to imitate God and to walk in love after the measure of Christ; but it will be impossible unless we open our innermost heart to the Holy Spirit. We must not only sacrifice ourselves for others, but there should be a fragrance in all that we do. “An odor of a sweet smell.” Note carefully the injunctions of Eph 5:3-4, especially as they concern speech. It is by our speech that we betray the true condition of our hearts.\n\nWe must be as distinct from the worldly as light is from darkness. There should be no twilight in our testimony for our Lord, though there may be considerable obscurity in our views of truth. Whatever is unfruitful; whatever we should blush to have transcribed and read to the world; whatever would be inconsistent with the strong, clear light of the throne of God and the Lamb, must be avoided. We must walk in the light of the Lord. Then we ourselves shall become luminous, as some diamonds do after being held in sunshine. People who love darkness will avoid and hate us; but their treatment may be only a cause for our own encouragement, as God becomes increasingly precious to us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "“Redeeming the Time” -- Ephesians 5:13-21\n\nThe earlier verses remind us of Isa 60:1-22. Awake, thou Christian soul; arise from the, dust and put on thy beautiful garments! Stand on the mountain-peak of prayer and Christ shall shine on thee as when morning gilds the highest Alps! The child of God must arise from among those who are yet in their graves, dead in trespasses and sins. He can have no complicity or fellowship with such. Is there effort in this, and cost? Christ will more than compensate. He will satisfy.\n\nThe opportunities of life are fleeting past; let us buy them up. They are most valuable, because they form the seed plot of eternity. In the other life we shall reap the harvests which we have prepared for here. “Give every flying minute something to keep in store.” Chrysostom, as a young man, kept silent for days together to break himself of a bad habit of detraction. But the Apostle’s method is better. Make room for the Holy Spirit. Be filled with Him, and He will use heart and lip in the service of praise and thanksgiving. It is as much our duty to be filled with the Spirit as it is not to get drunk. Remember to give thanks always for all things. Whether you like the packing-case or not, you may be sure that the contents are the very best that God could send you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Love of Husband and Wife -- Ephesians 5:22-33\n\nThe Apostle has been urging us to be filled with the Spirit, and now proceeds to show how Spirit-filled people should act in their homes. He has been exhorting to praise and joyfulness, and now urges that our lives, as well as our lips, should be attuned to music.\n\nWhat a lofty ideal of wedded love is here! Chrysostom says: “Wouldest thou that thy wife obey thee as the Church doth Christ? Have care for her, then, as Christ for the Church.” Our earthly relationships are similitudes and emblems of sacred realities, and the more we can import into the time sphere the inspiration and virtue of the eternal, the more transcendental and beautiful will they become. The Lord has taught us the utter renunciation of love. Men of the world reckon how much love they can get; the children of eternity how much they can give; but such giving always means getting back with compound interest. Notice those phrases about nourishing and cherishing. O wounded member of Christ’s body, He suffers in thee, nourishes, cherishes, and will heal!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 6
+ }
+}

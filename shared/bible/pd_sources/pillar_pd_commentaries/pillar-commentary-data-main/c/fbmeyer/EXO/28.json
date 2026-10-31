@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Beaten Oil; the Ephod -- Exodus 27:20-21; Exodus 28:1-14\n\nAlways in Scripture oil is an emblem of the Holy Spirit. It is His grace communicated to the wick of our character and life, which makes them capable of giving a bright light for God. This oil was pure, because none shine brightly for God who are not pure in heart and poor in spirit. It was beaten, because our best work is often the result of our sorrows. McCheyne used to say, “Beaten oil for the sanctuary,” referring to the care with which ministers and teachers should prepare for their work. Get your oil direct! See Zechariah 4:2-3.\n\nIt is befitting that we should consider the priestly garments. We minister within the curtained court; order the lamp of testimony till daybreak, and stand before the altar of incense-it is meet that we should be arrayed in the beauty of holiness. Our Lord bears our names, graven indelibly and eternally, and we are accepted in the Beloved."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Breastplate and its Stones -- Exodus 28:15-30\n\nThe breastplate bore twelve precious stones, on each of which the name of a tribe was engraved-the smallest as well as the greatest, Benjamin as well as Judah, Simeon which faded in the desert, as well as Ephraim which occupied the center of the Promised Land. Whatever might be their sins and failures, their chastenings and penalties, nothing could remove them from that sacred place. They might even be at enmity among themselves, but still they would abide there in perfect unity. So it is with ourselves. Our names are engraven on the heart of Jesus, and ever presented before God. Neither life nor death can separate us from His love.\n\nDo not look at your shortcomings and failures, but at your standing in Christ Jesus. You cannot be forgotten by God. The dark waters may flow over your soul, the voice of the accuser may be hoarse in your ear, your heart and your flesh may fail, but you are precious in God’s sight, and sparkle in His light like a jasper or sapphire."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Aaron’s Holy Garments -- Exodus 28:31-43\n\nThe robe was worn under the ephod. It was of blue, the color of heaven, of deep lakes, of the gentian and the forget-me-not. It was of one piece. See John 19:23. It ended in a fringe, in which bells and pomegranates alternated. We are as the skirts of his garments, and the holy oil will reach us there, so the psalmist says.\n\nSee Psalms 133:2. We may receive the unction of the holy Christ. The Spirit so richly given to Him may anoint even us, and it will reveal itself in the fruit of the pomegranate and the sweetness of the golden bell. Aaron’s head plate bore an inscription, which the prophet tells us should be written also on our commonest duties and most prosaic service. See Zechariah 14:20-21. For ordinary priests the clothing was very simple.\n\nPure white linen! Such is the garb which befits us all! Revelation 19:8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 29
+ }
+}

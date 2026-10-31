@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus, the Way, the Truth, and the Life -- John 14:1-11\n\nAs He neared the end, our Lord could speak of little else than the Father. Heaven was His Father’s house, where a prepared mansion awaits each of us, perfectly adapted to the peculiarities of our temperament. The yearning of the heart of man was truly set forth by Philip in his request to see the Father; but never before had it dawned upon human intelligence that the divine can find its supreme revelation in the simplicities and commonplaces of human existence. While Philip was waiting for the Father to be shown in lightning and thunder and the splendor of Sinai, he missed the daily unfolding of the life with which he dwelt in daily contact. To see Jesus was to see the Father. Nothing could more certainly prove the need of the Holy Spirit, by whom alone we can know the Lord."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Spirit of Truth -- John 14:12-24\n\nThere is no adequate translation for the word Paraclete. It may be rendered “interpreter,” “comforter,” “advocate,” but no one word suffices. The Greek means “one whom you call to your side in the battle or law-court.” His advent depends upon the praying Christ (I will pray the Father), and upon the praying Church (ye shall ask). The Holy Spirit must be a person, or He could not be compared as “another” to Christ. It is characteristic of this dispensation that He shall be in us, and His indwelling brings with it that of the Father and the Son.\n\n“We will… make our abode.” That word abode is the same Greek word as is rendered mansions in the former part of this chapter. God prepares a mansion for those who believe in Christ, and asks in return that we shall prepare our hearts as guest chambers for Him to dwell in. As He enters the loving, cleansed, and believing heart, we hear Him say: “This is my rest for ever: here will I dwell; for I have desired it,” Psalms 132:14. And what a word is that, my Father will love him. That He should love the world is wonderful, but that He should love us would be incredible, were He not infinite, and did He not see us in Jesus Christ our Lord."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Christ’s Gift of Peace -- John 14:25-31\n\nOur Lord gives the fourfold basis of His peace: (1) The vision of the Father. Throughout these wonderful chapters He seems able to speak of nothing else. If we lived in the thought and consciousness of God, our peace also would be as a river. Let us wrap that thought around us, as a man his overcoat on a stormy day. (2) Disentanglement from the world. We must stand clear of the ambitions of the world, of its fear and favor, of its craving for wealth and fear of poverty. The world must have no charms for us. (3) A constraining love, as in John 14:31. (4) Obedience to God’s supreme authority. When we put the government on His shoulder, He sets up the inward reign as Prince of Peace.\n\nWhat a contrast to the world’s peace, which consists in the absence of untoward circumstances and the possession of material goods! Where the Holy Spirit is, there the peace of God rests. The world may be in arms, death may be imminent, and the prince of this world intent to injure; but the heart which reposes on the will of God is free from alarm and fear. The peace He leaves is that of forgiveness; the peace He bequeaths, that of His own indwelling. “Arise, let us go hence!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 15
+ }
+}

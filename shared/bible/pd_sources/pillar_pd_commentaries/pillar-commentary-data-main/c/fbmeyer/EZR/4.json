@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "fbmeyer",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Building of the Temple Opposed -- Ezra 4:1-10\n\nSo long as you lead a languid and unaggressive life, the enemy will leave you alone, but directly you begin to build God’s temple, you may count on His strenuous opposition. When we are permitted to go on from day to day without much temptation, we may fear that we are doing little to destroy evil and construct good. But the virulent hate of the wicked one is a comfortable sign that his kingdom is suffering serious damage. Let us so live that we may give the devil good reason to fear and hate us. There is a stronger than he. We must beware of the proposal to join in with the ungodly.\n\nTheir arguments may sound very fair and appeal to a false liberality of sentiment, but the golden cup contains poison, and beneath the kiss is the traitor’s hand. This is why so many fair enterprises have miscarried. They have seemed to afford common ground for cooperation with the false and counterfeit Israel, but they have ended in disillusion and disappointment. Though the Jews excited the intense hatred and opposition of their would-be helpers, their policy of exclusiveness was amply justified by the result. The old proverb reminds us that we must never trust our enemies when they offer blandishments and gifts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Enemy’s Short-Lived Triumph -- Ezra 4:11-24\n\nThe promoters of this letter were descendants of the heathen colonists who had been sent into the land by the Assyrians, 2 Kings 17:24. It was written to the then reigning monarch, Artaxerxes, which Ezra seems to have copied from the records of Persia, because it stands in the original in the Chaldee language. Notice that now the Israelites are first called Jews, i.e., Judahites, Ezra 4:12. They urge that the Temple-building should be stayed for the king’s own sake. Secret enmity to God’s kingdom is often hidden under pretended devotion to Caesar, John 19:12. We, too, have our maintenance from the God of heaven, we have eaten the salt of the palace, Ezra 4:14; and we should never allow His name to be dishonored without doing our best to prevent it.\n\nThe king was imposed upon by their representations, and ordered the work to cease. But it is probable that something was due to the supineness of the Jews, who were already half-hearted in their endeavors, Haggai 1:2-9. The rebuilding of the Temple stopped during the reigns of Cambyses and the Magia Smerdis; but in the second year of Darius Hystaspes it was recommenced, and was then finished in four years, or nineteen years after its commencement, Zechariah 8:9; Haggai 2:18."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 5
+ }
+}

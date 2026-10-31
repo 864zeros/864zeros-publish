@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Timothy",
+  "commonName": "1 Timothy",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fitness for Christian Leadership -- 1 Timothy 3:1-7\n\nOne of Timothy’s most urgent duties was to take care that those who held office in the churches were beyond reproach. The tone of a Christian community is largely that of its leaders. As the margin suggests, the bishop of the early Church was an overseer or presbyter. See Acts 20:28, r.v. God’s minister must not only be irreproachable as far as the outside world is concerned, but exemplary in his domestic relations. Such was the facility of divorce among the Jews that it was a common thing for a man to have more than one woman living who had been his wife: but by Paul’s ruling this would debar him from holding office, unless his divorce be for cause as provided in Matthew 19:9.\n\nNotice how often those words grave, sober-minded, temperate occur in this chapter. The effect of a good sermon will be spoiled if a man yields to foolish levity or intemperate habits. Moderation, serenity of temper, freedom from love of money, a well-ordered household, an obedient and reverent family-these are signs that a man may aspire to the sacred work of the ministry; and these are the qualities which people should look for in candidates for pulpits, more than those of rhetoric, brilliance, or outward attractiveness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Qualifications of Church Officials -- 1 Timothy 3:8-16\n\nYounger men, referred to as deacons, were appointed to subordinate tasks, especially the relief of the poor, Acts 6:1-15. Though their service was less important, their character must be of the highest quality. The strength of a church is as much in the godliness of those who fill subordinate offices, as in its acknowledged leaders. The caretaker of a church should be a man of as high ideals as its chief pastor. Nothing is common or unclean, nothing trivial and unimportant, where Christ’s honor and glory are concerned. In the prophet’s vision the very snuffers of the candlestick were of gold.\n\nThe women mentioned here are deaconesses, Romans 16:1. Governor Bradford, describing the church of the Pilgrim Fathers, says of a deaconess: “She honored her place and was an ornament to the congregation. She did frequently visit the sick and weak, and would gather relief for them. She was obeyed as a mother in Israel.”\n\nThe Church is the earthly dwelling-place of God. It lifts up and maintains the standard of truth in the midst of men, therefore it is hated. It is most necessary that Christians should bear witness to the truth, collectively as well as individually. The facts given us to witness to are enumerated here in the six clauses of an ancient antiphonal chant."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 4
+ }
+}

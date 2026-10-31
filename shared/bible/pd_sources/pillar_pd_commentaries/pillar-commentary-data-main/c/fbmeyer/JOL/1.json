@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOL",
+  "commentaryId": "fbmeyer",
+  "name": "Joel",
+  "commonName": "Joel",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Summons to Penitence\n\nJoe 1:1-20; Joe 2:1-11\n\nWe know nothing of Joel beyond this book. He was content to be God’s mouthpiece and remain unknown. His message was one of unparalleled woe. The memory of God’s loving kindness ought to have kept His people faithful and loyal, but since grace and love had failed to affect them awful judgments were announced. A small insect, the locust, was to prostrate man’s boasted power. The four kinds of locusts here described and which doubtless devastated the country, were also symbols of the four world-empires, Assyria, Babylon, Greece, and Rome, which were to lay waste the Holy Land.\n\nSuch judgments call for acts of repentance, such as fasting, humiliation, and intercession. There are days in national experience when it becomes us to gird ourselves and lament. The ministers and elders of the Church should lead the way. Where there has been infidelity to the great Lover of souls, when the visible Church or the individual member has turned from Christ to the wanton world, then joy withers away, Joe 1:12, spiritual worship ceases, Joe 1:9, and there can be neither peace nor safety until there has been repentance and return."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOL",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOL",
+  "chapter": 2
+ }
+}

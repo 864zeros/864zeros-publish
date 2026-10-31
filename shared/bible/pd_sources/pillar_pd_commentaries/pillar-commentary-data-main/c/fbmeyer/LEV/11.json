@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "41-47, the Distinction between Clean and Unclean -- Leviticus 11:1-23\n\nThere were good and sufficient reasons for excluding certain animals from Israel’s dietary. Devout medical men insist that this is the finest sanitary code in existence, and that many of the diseases of modern life would disappear if it were universally adopted. God made these distinctions matters of religion, that the well-being of His people might be doubly assured. These restrictions were also imposed to erect strong barriers between the chosen people and the heathen. So long as they obeyed, it was clearly impossible to participate in the heathen festivals, where many of these animals were partaken of.\n\nWe are not now bound by these enactments. Our Lord made all meats clean, Mark 7:19, r.v. Peter was bidden to kill and eat all manner of creeping things, and his protest was overborne by the assurance that God had cleansed all. See Acts 10:11-16. Religion consists not in outward rites, but in the inward temper. See Hebrews 9:10. Note that touching was forbidden, because the least contact with evil hurts the soul."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 12
+ }
+}

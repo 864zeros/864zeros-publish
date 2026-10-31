@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JUD",
+  "commentaryId": "fbmeyer",
+  "name": "Jude",
+  "commonName": "Jude",
+  "numberOfChapters": 1
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Contend Earnestly for the Faith” -- Jude 1:1-11\n\nKept is the keynote of this Epistle. It occurs in Jude 1:1; Jude 1:6; Jude 1:21, and in another form in Jude 1:24. Many evil doctrines and practices were intruding into the Church. Certain persons had crept in, who quoted the mercy of God as an excuse for immorality and practically disowned the teachings of the Lord Jesus.\n\nIn contrast with these were the disciples whom Jude addresses and who owned the Lord Jesus as their beloved “Despot,” (the Greek for Master, Jude 1:4, r.v.) They were kept for him, as the others were kept in chains. Let us also keep ourselves in the love of God, Jude 1:21. It is much easier to live consistently in hours of storm than in hours of ease.\n\nLet us be warned against drifting back from our first faith. Let us take heed from the fate of fallen angels, of Sodom and Gomorrah, of Cain and Balaam, of Korah and others. Let us watch and pray and earnestly contend for the faith which was once delivered unto the saints, Jude 1:3, bearing it through the world as the pilgrim host bore the sacred vessels in the days of Ezra. See Ezra 8:28."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Beware of the Touch of the Ungodly -- Jude 1:12-25\n\nWhat traps and pitfalls beset us! How many have fallen who had as good or a better chance than we! The angels kept not their first estate; Adam, though created in innocency, fell; Cain was rejected; Balaam, who saw with open eyes, was slain; Korah, who had carried a censer filled with holy fire, was hurled into the abyss! How can we expect to stand! Be of good cheer! He is able to keep you from falling, and to present you faultless, Jude 1:24.\n\nIn the succession of terrible metaphors in Jude 1:12-13, notice that in each case there is promise without fulfillment and appearance without reality. Such is much of the Christian profession of the present day. And from time to time, as Enoch foretold, the day of the Lord comes, with its retribution for all such.\n\nThe four exquisite admonitions of Jud 1:20-21 are worth pondering. Keep yourselves in the main current of God’s love. Build your character after the likeness of Christ. Pray in the Holy Spirit; keep at the oriel window of hope. Christ is able to keep, and when at last we are presented by Him to the Father, we shall realize how much we owe Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JUD",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "3JN",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 1
+ }
+}

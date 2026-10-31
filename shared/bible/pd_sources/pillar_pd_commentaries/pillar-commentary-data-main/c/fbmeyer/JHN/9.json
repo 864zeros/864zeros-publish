@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus Opens Blind Eyes -- John 9:1-12\n\nAt the close of the previous chapter our Lord bore the contradiction of sinners against Himself. The Jews had caught up the stones gathered to repair the Temple, in order to inflict the doom of the blasphemer; but Jesus passed through them unscathed and began to descend the great steps. To human gaze there was need for Jesus to hasten from His foes, John 8:59; in His thought there was greater need to heal this blind beggar. In the most leisurely manner, therefore, He made clay and wrought this miracle of sight. His heart was at rest in God. No great thing is wrought by those who live in perpetual ferment. Through the quiet heart God works His own works, and there will be time enough to get them all done before “the night cometh when no man can work,” John 9:4.\n\nOur Lord perceived that beneath the unpromising exterior of this man were elements of nobility, which He set Himself to elicit. The clay which the man found suddenly applied to his eyes awakened wonder, hope, expectation, and faith. It was a ladder by which he climbed from the pit of despair to the mount of joy. The walk to Siloam was a further venture of faith; but there were other steps to be taken ere he attained to the full stature of his discipleship. Some were forced on him by opposition; to others he was led by Christ Himself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Testimony of Personal Experience -- John 9:13-25\n\nThe jealous Pharisees now set themselves to discredit the miracle and to throw suspicion upon the witness. But their hostility, prompted by jealousy and vindictiveness, forced the healed man to realize the moral majesty of Jesus. His eyes became opened to the true values of things, as well as to the world of nature. In a day he had grown far away from the parents, who were simple people, unaccustomed to the glare of publicity, and very much afraid of these religious magnates.\n\nIt is marvelous to note this man proving himself more than a match for his opponents, and answering them with a simplicity and a majesty that confounded them. Matthew 10:19. He needed, however, a touch that no human wisdom could impart, and this was given by Christ, who always seeks those whom man casts out and those who dare to live up to the truth they know. Notice the steps: He is a prophet; He is not a sinner; He is from God; he worshiped Him. None come in contact with Christ without being blinded or enlightened. Our guilt is proportioned to our refusal of the light."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Willful Blindness -- John 9:26-34\n\n“What a contrast between the opening and the closing of this chapter! The blind sees! The beggar is enriched! The outcast on the Temple steps is a worshiper in the temple of the spirit! And how vast a contrast to the deterioration at work in the hearts of these professedly religious men! From the mouth of a babe in the divine life God can elicit strength to quell the enemy and the avenger. “O God, our God, how excellent is thy name in all the earth!”\n\nThe man’s judges cast in his teeth the life-long deprivation from which he had suffered, as a conclusive evidence of his sins. This was the common Jewish interpretation of such a calamity, John 9:2. Our Lord, however, taught that suffering is permitted to befall for wise and good reasons, which are compatible with the character of God, and it provides a platform on which the grace and power of God may manifest themselves, each new phase of evil leading to a fresh manifestation of the power and love of God. How often He seems to say, when we are perplexed with the world’s sin and sorrow, “These things are not unto death, but to manifest the works of God!” Look not at the pain, but at its results! See what humility and patience God gives; wait to see the harvest of these sowings!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "“A Stone of Stumbling” -- John 9:35-41; John 10:1-6\n\nIn John 9:35 we hear of Jesus finding the outcast, whom the Pharisees had excommunicated; and this story is appropriately followed by a picture of the true Shepherd as contrasted with the false. At night sundry flocks are brought to the Eastern sheepfold and committed to the care of the keeper or porter. In the morning the shepherds knock at the barred door of the enclosure, and the porter opens from within. Each separates his own sheep by calling their names, and when thus summoned the flock follows its shepherd, wherever he may lead.\n\nThe sheepfold in this parable holds the Jewish people. The stranger is the religious Teacher who fails to speak in the familiar phrase of Moses and the prophets. The Pharisees and scribes are the thieves and robbers who have stolen God’s glory and made profit of his flock. Note that whenever you are put forth, you will find Christ going before.\n\nGod has sent many true shepherds from out His presence chamber, to care not only for individuals or churches but for nations."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 10
+ }
+}

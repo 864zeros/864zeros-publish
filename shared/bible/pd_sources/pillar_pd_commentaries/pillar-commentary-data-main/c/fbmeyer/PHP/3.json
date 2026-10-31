@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PHP",
+  "commentaryId": "fbmeyer",
+  "name": "Philippians",
+  "commonName": "Philippians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Losing All to Know Christ -- Philippians 3:1-12\n\nPrecept must be on precept, line on line. The false teachers who dogged Paul’s steps insisted on rigid conformity to Judaism, with its rabbinical accretions, as the condition of being saved by Christ. Paul’s answer was that he had gone through all the requirements of Judaism, but had found it absolutely unsatisfactory and inefficient to subdue the sin of his soul. But in Christ he had found everything he needed. What had been gain to him now seemed but dross. He had found the pearl of great price, and was only too glad to sacrifice all else to purchase and keep it, as the talisman of complete victory.\n\nThe essence of Judaism was not external but within. True circumcision was deliverance from the self-life, and that could only be gained by the Cross of Christ. The “Israelite indeed,” like Nathanael, had three traits of character-his worship was spiritual, he gloried in the Crucified, and he was delivered from reliance upon the self-life. Let us ask the Holy Spirit to teach us to know Jesus in the intimacy of personal fellowship, to feel the pulse of His resurrection life, to experience the power of His death, and to realize the whole of His divine program. For this we might be more than content to trample on our boasted pride."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Pressing on “unto the Prize” -- Philippians 3:13-21\n\nThe nearer the saint comes to the perfect life, the farther he feels from it. It is only when we have climbed the foothills that we realize how lofty the mountain summits are. But there is no need for discouragement. We have eternity before us, the expanding landscape of truth is our inspiration, and the loving Spirit of God bears us upward on eagle’s wings. Our Savior had a distinct purpose in view when He apprehended us. Its full scope was only known to Him; let us strive that we may not fail to realize His ideal. We can do this best by forgetting past failures, past sins, and past successes, and pressing on toward the goal. Will not the prize be the Lord Himself? Let us always remember that God’s call is upward. This will help us when there seems collision between two duties.\n\nInstead of judging another, let us walk together along the path of obedience. Those who leave the narrow track and still profess godliness are greater enemies to the Cross than avowed antagonists. We are citizens of the skies, who come forth to spend a few hours each day on earth. This is our inn, yonder is our true home. Thence Jesus will come to complete the work of salvation by giving us a body like His own."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 4
+ }
+}

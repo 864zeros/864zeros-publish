@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Servant of the Lord of Battles -- 2 Kings 6:1-13\n\nTo us, the first of these miracles may appear somewhat trivial, but we must remember the value of an iron axe-head at that time, the inconvenience and delay caused to the builders, and the slur accruing to religion if it were irreparably lost. The story shows how keen was the sympathy of the great prophet for a poor man overtaken by an ordinary trouble, and how ready Elisha was to seek the help of God to redress the mischief. See John 2:1-14. It is right to go to God about matters of this kind, as well as greater issues. What wonders faith can do! Hearts may be as heavy as lead at the bottom of the stream, but when a splinter of the Cross of Calvary is inserted, they rise to the surface and swim.\n\nThe king believed that Elisha could wield superhuman power and knowledge, yet he thought to secure him with chariots and horses. He acknowledged that Elisha was a servant of the Most High God, yet he expected to take him captive, by sending a mighty host! To such folly men descend when they begin to fight against the Most High!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Opened Eyes -- 2 Kings 6:14-23\n\nThis is an acted parable of extreme beauty and suggestiveness. First, the stroke of trouble-swift, unlooked for, and apparently insurmountable; then the vivid contrast between the despair of the man of this world and the undaunted faith of him to whom the unseen is as real as the visible, because he possesses the second-sight of faith. Faith visualizes the unseen and eternal. A good man’s intercession will still obtain spiritual vision for those who are spiritually blind. For many whom we love we may breathe Elisha’s prayer, 2 Kings 6:17. Notice that the last sentence of 2 Kings 6:19 in the r.v. begins with and. The objective of the Syrian army was the king of Israel, and Elisha led them to him.\n\nThe lesson of this narrative is the proximity of God’s guardian hosts. They are a cordon of protection to His children. The mountain is full of them. Elisha had seen them convoy his master home; he never expected that he would have the honor of their care. We do not need more help than is already within reach, but we do need grace to see the things that are freely given to us of God, John 4:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "The Dire Straits of Those Who Forsake God -- 2 Kings 6:24-33\n\nThis siege was the result of Ahab’s foolish and misplaced leniency. See 1 Kings 20:42. The children are often called to suffer for the misdeeds and follies of their parents. Let us bear this in mind. “No man liveth to himself.” Conduct yourself so that none may be offended through long years after you have passed from earth.\n\nApparently Elisha had counseled the king not to surrender, with the further assurance of deliverance on condition of his repentance. Jehoram therefore assumed the signs of penitence and contrition without the reality; and when the promised deliverance was not forthcoming, he put the blame of Israel’s calamities on the prophet, and vowed vengeance against his life. The elders were gathered with Elisha, perhaps for prayer, when Elisha apprised them of the advent of the king’s messenger, with his announcement of the royal determination not to wait for God any longer. The trial of our patience is more precious than of gold, but how few of us can endure it!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 7
+ }
+}

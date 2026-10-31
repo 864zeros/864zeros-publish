@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 108,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Victorious through God -- Psalms 108:1-13\n\nTwo fragments of Davidic psalms are here joined together with very slight alterations. In Psalms 108:1-5 are from Psalms 57:7-11, and Psalms 108:6-13 from Psalms 60:5-12. We need the fixed heart, ever constant to God, as is the needle to the pole. When we are right with God we go through the world, awakening song and hope in forlorn hearts. Note the themes for constant adoration, Psalms 108:3-5.\n\nApparently David stood in imagination at the beginning of those conquests which made Israel great and extended her frontiers to the great river Euphrates. He felt that God had spoken in His holiness, and had already given him the territories here enumerated. All that remained for him to do was to occupy and possess what the Almighty had allotted. There is a close analogy here to our appropriation of those heavenly blessings which are ours in the risen Lord. It is not we who can tread down our adversaries. They are too strong and insidious. But when our heart is fixed, God goes before us, vanquishing our foes, and we have but to follow after, gathering in the spoils. In our inner conflicts, vain is human help, even the best. Go before us, Great Shepherd, with thy rod and staff!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 108
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 107
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 109
+ }
+}

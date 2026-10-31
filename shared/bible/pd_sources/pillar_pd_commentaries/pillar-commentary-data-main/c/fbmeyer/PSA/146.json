@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 146,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord Loveth the Righteous -- Psalms 146:1-10\n\nThis and the four following psalms are the “Hallelujah” Psalms. Each begins with that word. They were probably composed for use in the second Temple. In the Septuagint this psalm is ascribed to Zechariah and Haggai. The key to it is Psalms 146:5, which is the last of the twenty-six “Blesseds” in the Psalter. What can bring more blessedness into life than the recognition of Jehovah as Help and Hope?Psalms 146:6-10 emphasizes the present tense in a way which reminds us of the words of our Lord: “My Father worketh hitherto.” It is true that with the oppressed and the prisoners in iron circumstance, the blind and the bowed-down, the stranger, the fatherless, and the widowed, the promises appear unfulfilled. This, however, is probably due to the failure of God’s Church and of themselves to realize that the Kingdom has been set up in the unseen sphere, but that we need to appropriate its deliverances by faith. “They which receive abundance of grace and of the gift of righteousness shall reign.” But all God’s promises, like the great promise of salvation, are contingent on the exercise of faith."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 146
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 145
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 147
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Braving Ridicule and Treachery -- Nehemiah 2:12-20; Nehemiah 4:1-12\n\nSuspicion, Nehemiah 2:12-20. Sanballat was probably a Moabite, a native of Horonaim; Tobiah had been a slave. There are many descendants of these two men in all our Christian communities today, hindering God’s work. This heroic soul met their scorn and the depression of the people by unwavering faith and calm confidence in the good hand of God, Nehemiah 2:18. How small do our difficulties seem when brought into the sight of the God of heaven!\n\nReproach, Nehemiah 4:1-6. Whenever God’s work revives, there is sure to be evil-speaking and reproach. It is a mistake to reply. Let us hand over our cause to God, and go on with His work. It matters very little what men say, as long as He is pleased. Had Nehemiah had the message of Christ he would not have prayed as in Nehemiah 2:5. Our Lord taught us to intercede for our enemies, Matthew 5:44. But let us emulate Nehemiah’s zeal for the name of God, and let us remember that increased light means increased responsibility, Matthew 11:11.\n\nActive opposition, Nehemiah 2:7-12. In time of hostility, our friends and allies are apt to grow discouraged and to advise the suspension of our work. “We are not able;” but faith looks to God alone and triumphantly holds on its way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Triumph of Courage and Devotion -- Nehemiah 4:13-23\n\nThe work of rebuilding the ruins of Zion is typical of our efforts as Christians to counteract the deterioration which is ever at work in our own hearts, in the professing Church, and in society. No one who attempts this work will escape hostility, covert or manifested. That is a suggestive attitude pictured here; the girded sword, the spear in one hand, and the trowel in the other. So they wrought, with ear intent for the trumpet sound, ready for any emergency, and yet sure that God would fight for them. All the people of God should make common cause against a common foe. We stand or fall together, Nehemiah 4:20. Our hands must be familiar with the sword against the attack of our spiritual enemies, and with the trowel to contribute our bit of work towards God’s building."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 5
+ }
+}

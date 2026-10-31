@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 80,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Turn Us Again, O God” -- Psalms 80:1-7\n\nThe ten tribes were in captivity, and the hearts of their brethren, still living at Jerusalem under the reign of David’s line, seem to have turned with great longing toward them. This psalm is full of intercession on their behalf. Three times, at the turning-points of the psalm, the refrain is repeated that God would turn them again and cause them to be saved, Psalms 80:3; Psalms 80:7; Psalms 80:19. Note the ascending climax: God; God of Hosts; Jehovah, God of Hosts.\n\nIn Jacob’s blessing of Joseph, God is appealed to as Shepherd, Genesis 48:15; Genesis 49:24. To sit enthroned above the cherubim is an emblem of omnipotence. Notice how the gentleness of the Shepherd blends with His almightiness. In the Wilderness march the three great tribes of Ephraim, Benjamin, and Manasseh immediately followed the Ark, which was borne by the priests. This ancient litany surely befits the present condition of the Church, when she is rent by internal divisions, or infected with a spirit of skepticism and unable to exorcise the demons that possess society. Let us plead with God to enlighten us by His face and quicken us by His Spirit.’ God must defend His cause, else there is no help for it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "“Cause Thy Face to Shine” -- Psalms 80:8-19\n\nThe imagery of the vine is taken from Jacob’s dying words, in which he compared Joseph to a fruitful bough which had grown over the wall, Genesis 49:22. It is therefore a very apt and appropriate figure in this psalm, of which the northern tribes are the special subject. The figure of the vine is wrought out with extreme beauty. The book of Exodus tells of the transplanting, and those of Joshua and Judges of the ground that was cleared to receive it. In the days of Solomon, the boughs of the kingdom reached to the Euphrates on the east, and the Great Sea (the Mediterranean) on the west. But the walls were broken down by invasion, and the vine lay at the mercy of every passer-by or the wild creatures of the forest.\n\nWe, too, know the havoc which ensues when the Church no longer lives within the ring-fence of God’s care. Revive us! Restore us! Cause thy face to shine! The man of thy right hand, Psalms 80:17, may be another term for Israel, Genesis 35:18. But our Lord alone can fulfill this description; and God’s power is pledged to arrest the advance of the enemy, and to cause the true Vine and its branches to cover the earth. We must turn to John 15:1-27 to find the antitype of Israel, in the relation between Christ and His Church."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 80
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 79
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 81
+ }
+}

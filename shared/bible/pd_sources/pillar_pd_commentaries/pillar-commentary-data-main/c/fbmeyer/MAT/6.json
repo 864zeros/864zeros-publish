@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Secret Giving and Secret Praying -- Matthew 6:1-8\n\nFirst we have the general proposition that righteousness, that is, one’s religious duties, should not be done for the sake of display; and that principle is then applied to alms, prayer, and fasting-the three departments into which the Jews divided personal religion.\n\nThe words take heed in Matthew 6:1 are very searching! We are all likely to put better goods in the window than we have anywhere on our shelves; and to show fairer samples than we can supply in bulk. The Greek word for hypocrite means stage actor. “We are tempted to assume on Sunday a religious attire which we certainly do not wear in the home or in business.\n\nIn her account of the first Burman convert, Mrs. Judson says: “A few days ago, I was reading with him Matthew 6:1-34. He was deeply impressed and solemn. ‘ These words,’ said he, ‘ take hold of my very heart. They make me tremble. When our people visit the pagodas, they make a great noise with trumpets. But this religion makes the mind fear God.’”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "How to Pray and How to Fast -- Matthew 6:9-18\n\nThis might more fitly be termed the “disciples’ prayer.” As we tread its stately aisles, we cannot but think of the myriads who have stood on the same pavement, and have found, in every age, that these seven brief petitions express sufficiently their deepest and holiest longings. Old men and little children, Roman Catholics and Protestants, the servant and his master, east and west, stand together in this noble temple not made with hands.\n\nPrayer should be direct, simple and earnest. It must be reverent, hallowing the Name; and unselfish, employing, we, us, and our,-not “I,” “me,” “mine.” It must breathe the filial spirit which cries, “Abba, Father.” It must be conceived in love and breathe forgiveness and trust for the supply of all the hunger of our nature. When God forgives, He forth-gives; that is, He casts out of His hand and mind and memory every trace of our sin. We may claim that God should repair as well as forgive; but we must be willing to deal with all others as God has dealt with us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "What to Seek and Whom to Serve -- Matthew 6:19-26\n\nWhat is in our inner life which answers to the eye of the body? Some have said that it is the intellect; others the heart. But it is truer to say that it is the inner purpose and intention of the soul.\n\nWhen our physical eye is in an unhealthy condition, the image is doubled and blurred. To use a common expression, it has a squint, such as affected the noble face of Edward Irving, the noted English clergyman. We are told that as a babe he was laid in a wooden cradle, in the side of which was a small hole through which he watched what was going on. This distorted his vision through life. So we may look two ways at once.\n\nThe endeavor to serve God and mammon, to stand well with both worlds, to lay up treasures on earth and at the same time be rich toward God, is a spiritual squint. John Bunyan tells of Mr. Facing-Both-Ways, who kept one eye on heaven and the other on earth; who sincerely professed one thing and sincerely did another. He tried to cheat God and Devil, but in the end cheated only himself and his neighbors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "The Cure for Anxious Care -- Matthew 6:27-34\n\nThe Lord’s tone is gentle and tender when He turns to address the poor. He says three times over, “Don’t be anxious.” He never forgot that He sprang, according to His human nature, from the ranks of poverty. His references to patching garments, using old bottle-skins, the price of sparrows, and the scanty pittance of a laborer’s hire, indicate that He was habituated to the shifts of the poor.\n\nThere is all the difference between foresight and foreboding. It is the latter that Jesus chides. The farmer must sow in the autumn that he may reap in the summer, but there is no need for him to lie sleepless through the nights of winter, worrying about the yet distant harvest. Do not be anxious about the supply of your needs, whether of body, mind, or heart. God knows what you need. If He has given life, will He not maintain it? Does He not care for the birds and flowers? Did He not give His Son, and will He withhold any good? Trust Him and be at peace."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 7
+ }
+}

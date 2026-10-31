@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PHM",
+  "commentaryId": "fbmeyer",
+  "name": "Philemon",
+  "commonName": "Philemon",
+  "numberOfChapters": 1
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Plea for the Returning Slave -- Philemon 1:1-14\n\nOnesimus had known the Apostle well in the old days when Paul visited at the house of his master Philemon, who seems to have been a man of importance. His house was large enough to admit of a church assembling in it, and to accommodate the Apostle and his traveling companions when they came to the city. Apphia, his wife, was also a Christian, and Archippus, their son, was engaged in some kind of Christian work in connection with the infant Christian community which they were nursing. Compare Philemon 1:1-2 with Colossians 4:17. It is beautiful to observe the Apostle’s humility in associating these obscure people with himself as fellow-workers.\n\nOnesimus had been a runaway slave, and fleeing to Rome, had been converted by the ministry of Paul-whom I have begotten in my bonds. The converted slave had become very dear and useful to his benefactor, Philemon 1:12-13. The Apostle now sends him back to his former owner with this letter, pleading that he be once more received into the household of Philemon."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "To Be Received as a Brother -- Philemon 1:15-25\n\nThe Apostle’s pleas for the restoration of Onesimus to his old trusted position in the household of Philemon are very touching. He suggests, first, that there may have been a divine purpose in it all, and that the former’s flight had been permitted as a step in the entire renovation of the slave’s nature. And, therefore, because Philemon and Onesimus were two Christians, their relationship had been transformed. “In the flesh, Philemon has the brother for his slave; in the Lord, Philemon has the slave for his brother.” Then in Philemon 1:17 Paul identifies himself with Onesimus; and we are taught to think of our Lord identifying Himself with us, because, as Luther says, “we are all Onesimuses.” Further, in Philemon 1:18 Paul offers to assume all the losses which Onesimus had brought on Philemon, and signs the bond with his autograph, as our Lord paid the great ransom price for us all. Finally, Paul delicately reminds his friend, in Philemon 1:19, that Philemon owed him a great deal more than a trifle of money, namely, his spiritual life. Does not our Lord address us in similar terms? We surely owe ourselves to Him!\n\nOwing to the brevity of this Epistle Review Questions are omitted."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHM",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Resolute Religious Reformer -- 2 Kings 18:1-12\n\nIt is wonderful that such a man as Ahaz should have had so good a son, but it is likely that Hezekiah had a good mother. See 2 Chronicles 29:1; 2 Chronicles 26:5. No doubt the fall of Samaria was a great incentive with the king and his advisers to root out idolatry. There is no better way of neutralizing evil than by accentuating good, and Hezekiah was wise to reopen and purify the Temple at the very beginning of his reign. See 2 Chronicles 29:3; 2 Chronicles 29:19; 2 Chronicles 29:21-35. It has been supposed that the prophecy of Mic 3:12 and Jeremiah 26:18 was made effective by the power of the Holy Spirit.\n\nWhen a soul is all for God, God is all to it. “The eyes of the Lord run to and fro throughout the whole earth, to show Himself strong in the behalf of them whose heart is perfect toward Him.” See 2 Kings 18:7. Let us see to it that we follow the suggestion of Psa 1:1-6, and strike our roots deep into the Word of God, pondering it carefully and obeying it reverently; then our leaf shall not fade, and whatsoever we do shall prosper. It is a good thing to cleave to God and keep His commandments. Compare 2 Kings 18:6 with Deuteronomy 10:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Threatened by Worldly Might -- 2 Kings 18:13-25\n\nIt is an interesting fact that this siege of Lachish is mentioned on the Assyrian monuments, and Sennacherib is depicted as giving orders for its destruction. Also the names and Jewish physiognomy of these ambassadors are clearly recognizable. It was a mistake to bribe the foe; the bribes only excited his cupidity. You may as well come to blows with Apollyon as soon as he straddles across your path; sooner or later the conflict will have to come to a head. Three years afterward, Rabshakeh appeared before the gates of Jerusalem.\n\nIt has been suggested that this bold blasphemer was an apostate Jew. He drew a false inference from the recent destructions of altars, etc., which had been reported to him. His taunts were barbed with biting satire. He spoke contemptuously of the little army that was absolutely unable to cope with the disciplined troops of Assyria. It seemed a most unequal conflict which could end only in one way. But he failed to take into account the covenant mercy of God and the heavenly forces which were allied with Hezekiah."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Silent before the Boaster -- 2 Kings 18:26-37\n\nThe Jews met the taunts of Rabshakeh with silence. It was wise policy. It is infinitely better to hand over our cause to God, and leave Him to answer for us and avenge our wrongs. He will undertake our case, if we will but leave it unreservedly in His hands. The only exception is when some simple explanation will relieve the cause we love from any evil imputation. Rabshakeh could not have been made to understand the attitude of king and people. See Isaiah 37:22. Men of the world cannot read the secrets of the heart that is stayed upon Jehovah. God’s hidden ones are as great a mystery as was our Lord. Their life is hid with Christ in God, but some day He will be manifested, and they shall be manifested with Him in glory.\n\nWhen our Lord was threatened, He remained calm and quiet. “As a sheep that before her shearers is dumb, so He opened not His mouth,” Isaiah 53:7, r.v. We are bidden to follow His steps and to do as He did, silently committing our cause to Him who never fails to vindicate those who put their trust in Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 19
+ }
+}

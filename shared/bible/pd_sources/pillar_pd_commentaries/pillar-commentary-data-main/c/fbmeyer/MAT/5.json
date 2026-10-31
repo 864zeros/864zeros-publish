@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Opening Words of Grace and Truth -- Matthew 5:1-9\n\nThere are many doors into the life of blessedness. It does not depend on outward possessions, such as worldly goods or high birth. There is no soul of man, however illiterate, lonely, or poor, that may not step suddenly into this life of beatitude and begin to drink of the river that makes glad the city of God. Our Lord lived this life before He described it. He has opened the doors for us. If you cannot enter by the gate of purity, can you not come in by that which is reserved for those who hunger and thirst?\n\nNote the passive side of the blessed life. To be poor in spirit, that is, to be lowly in one’s self-estimate; to be meek, not always interested in one’s rights; to mourn for the evils of one’s own heart and for the sin and sorrow around; to hunger and thirst after Jesus Christ, the Righteous One. These dispositions do not purchase blessedness, but to cultivate them is to be blessed. On the positive side are mercy, purity, peace and willingness to suffer all things for Christ. Here Isaiah 1 Corinthians 13:1-13 anticipated!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The New Salt and Light of Human Society -- Matthew 5:10-16\n\nWe must expect to be persecuted, if we hold up the pure light of a consistent life amid the evils of the world. Men hate the light which exposes their misdeeds. They will tolerate you only so long as you leave them alone. But the universal testimony of those who have suffered thus is that the Son of man walks through the furnace beside His faithful martyrs.\n\nOur holy lives ought to act as salt to arrest the corruption around us. It is said that the presence of a child has arrested many a crime. A sudden silence should fall on certain kinds of conversation when we enter the room. But it is very easy to lose our saltness, as did Lot in Sodom and the seven churches of Asia. See also Ezekiel 15:2-5. Our lives ought to serve also as light. The spirit of man is a candle. See Proverbs 20:27. We need to be kindled by the nature of God. Men light candles and God will light you. Let us burn and shine as John did, John 5:35. Beware of the bushel and ask God to choose your stand."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "New Heart Righteousness -- Matthew 5:17-26\n\nOur Lord’s mission was not to destroy but to construct. As noon fulfils dawn, and summer, spring; as manhood fulfils childhood and the perfect picture, the rude sketch, so does Jesus gather up, realize and make possible the highest ideals ever inspired in human hearts or written by God’s Spirit on the page of inspiration.\n\nUnder the terms, “the law and the prophets,” our Lord includes the entire range of the Old Testament. See Luke 24:44; Acts 13:15. Nothing could exceed our Lord’s reverence for the oracles of God. He repeatedly refers to them as of divine authority. His words and teachings are the endorsement of the venerable Scriptures which had nourished His people, preparing them for His further instruction. See Romans 3:31; Romans 8:4.\n\nThe local magistrates’ court had the power of life and death, which was inflicted by beheading; the Sanhedrin executed by stoning; the outrageous criminal was cast out to Gehenna, Matthew 5:22. In Christ’s kingdom unwarranted anger is equivalent to the first, contempt to the second, and vehement passion to the third. To allow hate to smolder is a capital offence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Pure Eyes and Clean Speech -- Matthew 5:27-37\n\nThe legislation of the old time insisted that no member of the commonwealth should commit adultery, and enforced terrible penalties. See Deuteronomy 22:22-24. But the Divine Man, who reads the human heart with perfect accuracy, goes behind the deed to its premonitory stages, legislates about the look that may inflame passion, and condemns the soul that does not instantly turn the eye from that which allures it, to the All-Holy, asking to be cleansed not with tears only but with blood. The first act in the religious life is to detect right and wrong in the thought or intention. If the tempter is arrested there, He is powerless to hurt. Kill the snake in the egg!\n\nThe prohibition against swearing does not deal with taking an oath in the law court. During His trial by the high priest, our Lord did not resent being put on His oath. On rare and solemn occasions we may have to bare our heads before God and ask Him to corroborate our word. But how different is this from the frequent and flippant use of expletives and extravagances of speech."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Brotherly Relationship -- Matthew 5:38-48\n\nIn mentioning the second mile, our Lord refers to a well-known Eastern custom of forwarding messages by relays of forced labor. We leave our homes on a given morning, anticipating no evil. Suddenly and unexpectedly there are sounds of horses’ hoofs and a great demand is thrust upon us. We are sent off in a direction we never contemplated and are compelled to go one mile. It is the second that tests character; and your actions with respect to it will determine whether you have entered into the spirit of Christ and are willing to serve others for love’s sake and at cost of peril and inconvenience to yourself.\n\nLove to one’s neighbor appears in many passages in the Old Testament. See Exodus 23:4-5. But we have to love enemies and resemble God’s sun and rain, Matthew 5:45. You say that it is impossible! Remember those sweet old words: “I taught Ephraim to go,” Hosea 11:1-4. Ask your Heavenly Father to teach you to love. Remember Galatians 5:22. Dare to believe that He will perfect what concerneth you."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 6
+ }
+}

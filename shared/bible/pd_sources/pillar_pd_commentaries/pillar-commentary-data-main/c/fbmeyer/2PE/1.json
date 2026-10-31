@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2PE",
+  "commentaryId": "fbmeyer",
+  "name": "2 Peter",
+  "commonName": "2 Peter",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Rule of Christian Growth -- 2 Peter 1:1-11\n\nThe keynote of this paragraph is these things, 2 Peter 1:8-10. Precious faith, 2 Peter 1:1, answers to precious promises, 2 Peter 1:4. Notice that God has given us every provision for a godly life, through the knowledge of Jesus, but that we must avail ourselves of it. The promises are great and precious, but we must appropriate and absorb them, if we are through them to partake of the divine nature. Our redemption has been secured by our Savior, but we must constantly advance and add to the golden links already securely stapled in faith.\n\nIn 2 Peter 1:5-7, a choir with linked hands passes before us, each member of which leads another; or we may use another similitude, and say that each grace, here mentioned, is contained in the next, as a series of Chinese boxes. To be deficient in these things is to be barren and unfruitful, 2 Peter 1:8, and to be shortsighted, 2 Peter 1:9. We may well desire the abundant entrance, 2 Peter 1:11, not like waterlogged vessels, but with every sail unfurled-hot landing on the celestial shore unexpected and unwanted, but welcomed by those we have helped."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“Eye-Witnesses of His Majesty” -- 2 Peter 1:12-21\n\nPeter could never forget what the Master had predicted of his death. See John 21:18. Oh, that in our death, whatever be its mode, we may glorify God! The fulfillment of those words was already looming before Peter’s eyes, but he had no fear. He describes his home-going by the word used by Moses and Elijah when they spoke of the decease (lit., exodus) which the Lord would accomplish. Compare 2 Peter 1:15 with Luke 9:31, r.v., margin.\n\nThen the whole scene of the Transfiguration rose before his mind. It seemed as if he were again on that holy mount, beholding the majesty of the Lord and hearing the Father’s attesting voice. There are three infallible proofs of Christianity: (1) the witness of the Apostles; (2) the light of prophecy as fulfilled in Christ; (3) the testimony of the Holy Spirit. These three burn in the dark night of the present and we may count on them till we see the first glimmer of dawn. Then we shall need no candle, for the Lord God will give us light."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 2
+ }
+}

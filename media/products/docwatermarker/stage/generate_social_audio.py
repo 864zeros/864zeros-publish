@@ -52,7 +52,7 @@ VARIANTS = {
         },
         {
             "id": "price_scene3_cta",
-            "text": "Just a one-time nine ninety-nine unlock. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+            "text": "Just a single one-time unlock. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
             "lead": 0.15,
             "tail": 0.5
         }

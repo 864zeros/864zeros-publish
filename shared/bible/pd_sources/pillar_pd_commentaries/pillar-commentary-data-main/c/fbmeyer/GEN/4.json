@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Offerings by Cain and Abel -- Genesis 3:22-24; Genesis 4:1-8\n\nIt was good that man should be driven from Eden. Soft comfort enervates. The natives of the South Sea Islands are moral pulp. Man goes forth from the Eden of innocence, of home, of the land of his birth, to create gardens out of deserts, and to become a pilgrim to the abiding City of God. Angels of Love forbid our return. Heaven lies before us, the City gleams with light on the far horizon.\n\nFor the Tree of Life see Revelation 2:7. The inner motive of Cain’s ruthless deed is supplied in 1 John 3:12. Abel, deeply conscious of sin, felt that a sacrifice was needed; therefore his faith saved him and links him with all who believe. See Hebrews 11:4. Cain had no sense of sin, and thought a gift of produce enough. But all the while sin was crouching at the door, like a hungry tiger, waiting for the chance to enter.\n\nWatch and pray, lest ye enter into temptation! “Thou shouldst rule.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Cain’s Career -- Genesis 4:9-26\n\nGod’s first question to the soul is, “Adam, where art thou?” The next, “Where is thy brother?” We are our brother’s keepers. All related to us, within our reach, or needing our help have a claim. We must not take advantage of them. Their well-being and our own are inseparable. God keeps an inventory of His saints, and will avenge them. Their blood will cry to God against those who have wronged them.\n\nThere is only one cry in the world which is stronger-“the blood of Jesus.” See Hebrews 12:24. It cries for mercy and pardon. A numerous family sprang from our first parents, and as these intermarried a large population began to people the early seat of human life. Cain founded a city, dedicated to all that ministered to sensuous enjoyment. This was “the way of Cain,” brilliant but godless, away from the presence of the Lord."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 5
+ }
+}

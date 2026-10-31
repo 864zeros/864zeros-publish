@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HAG",
+  "commentaryId": "fbmeyer",
+  "name": "Haggai",
+  "commonName": "Haggai",
+  "numberOfChapters": 2
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The True Glory of God’s House -- Haggai 1:12-15; Haggai 2:1-9\n\nOne earnest man can arouse an entire community. Let a fire glow in our hearts, and it will spread. Assured of God’s presence and favor, within three weeks the whole land was awake. Note the cooperation of God’s Spirit with the message of His servant, “the Lord stirred up.” Let us ever seek and rely on His cooperation! “We are witnesses, so also is the Holy Spirit!” Three prophecies occupy the following chapter. In the first, Haggai 1:1-9, the Jews are encouraged to persevere. Although there was no comparison between the glory of Solomon’s Temple and the splendor of this, they must not be discouraged.\n\nThough they might deplore the absence of the sacred fire of the Shekinah, of the Ark with its cherubim, of the Urim and Thummim, and of the spirit of prophecy, yet the Messiah’s presence, which would be associated with the second Temple would more than compensate for their deficiency, since He was the antitype of them all. If we lack many of the advantages and attractions in which others excel, let us be more than satisfied to possess Christ. And be it always remembered that Christian worship seeks to realize the presence of Him who said: “I am in the midst.” Without that a cathedral is an empty void; with that, a barn will be heaven. For Haggai 1:6-7 see Hebrews 12:26-28. This little while in God’s arithmetic lasted for 517 years."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "God’s Judgment upon the Nations -- Haggai 2:10-23\n\nTwo months after the foregoing prophecy, the prophet again remonstrated with the people for still neglecting the Temple, though they appear to have maintained religious rites. As the holy flesh did not sanctify what it touched, so religious observance did not compensate for neglecting the Temple; such neglect would make their service unclean, Haggai 2:14. The earnest toils of the people had met with persistent unsuccess because God was against them, but from the moment of their repentance He would bless them, Haggai 2:18-19. Amid all the upheavals described in Haggai 2:7 the Jews would be preserved, and their safety guaranteed. Disturbances preceded the Savior’s first advent, as they will the second; but amid the shaking and overthrowing that are ushering in the new era, let us not fear. All that cannot be shaken will remain; and as God remembered Noah amid the tossings of the deluge, He will care for us, not because of our deserts, but because of His grace. We did not choose Him, but He us."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAG",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAG",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 1
+ }
+}

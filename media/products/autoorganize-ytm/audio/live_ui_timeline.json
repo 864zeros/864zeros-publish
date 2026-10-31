@@ -1,0 +1,67 @@
+{
+  "variant": "live_ui",
+  "total_duration": 28.862,
+  "soundtrackWav": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\soundtrack_live_ui.wav",
+  "scenes": [
+    {
+      "id": "live_step1_hook",
+      "stepLabel": "STEP 1 \u00b7 THE PROBLEM (0\u20132s)",
+      "caption": "1,280+ Liked Songs mixed together in YouTube Music with no genre sort.",
+      "text": "YouTube Music dumps every liked song into one unsorted list.",
+      "duration": 3.628005,
+      "durationMs": 3628,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step1_hook.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step1_hook_raw.mp3",
+      "start": 0.0,
+      "end": 3.628
+    },
+    {
+      "id": "live_step2_payoff",
+      "stepLabel": "STEP 2 \u00b7 INSTANT UI PAYOFF (2\u20135s)",
+      "caption": "Click 'Scan & Group by Genre' \u2014 tracks split into clean genre playlists immediately.",
+      "text": "Watch this: click Scan Library, and your tracks group into clean genre playlists immediately.",
+      "duration": 5.484014,
+      "durationMs": 5484,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step2_payoff.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step2_payoff_raw.mp3",
+      "start": 3.628,
+      "end": 9.112
+    },
+    {
+      "id": "live_step3_select",
+      "stepLabel": "STEP 3 \u00b7 PREVIEW & MERGE GENRES",
+      "caption": "Select genre buckets, strip duplicates, or merge styles into one custom playlist.",
+      "text": "Preview every song, select the genre buckets you want, or merge styles together before creating anything.",
+      "duration": 6.228005,
+      "durationMs": 6228,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step3_select.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step3_select_raw.mp3",
+      "start": 9.112,
+      "end": 15.34
+    },
+    {
+      "id": "live_step4_create",
+      "stepLabel": "STEP 4 \u00b7 CREATE IN YOUTUBE MUSIC",
+      "caption": "One click creates the playlists right in your account and syncs to your phone.",
+      "text": "Click Create Playlists and they appear right inside your YouTube Music account, synced to your phone.",
+      "duration": 5.34,
+      "durationMs": 5340,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step4_create.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step4_create_raw.mp3",
+      "start": 15.34,
+      "end": 20.68
+    },
+    {
+      "id": "live_step5_outro",
+      "stepLabel": "STEP 5 \u00b7 NO MONTHLY RENT \u00b7 TRY FREE",
+      "caption": "First playlist free \u00b7 one-time lifetime unlock \u00b7 Chrome & Edge",
+      "text": "No monthly rent, one-time unlock. Try the interactive demo or install on Chrome and Edge at eight sixty-four zeros dot com.",
+      "duration": 8.182018,
+      "durationMs": 8182,
+      "wav_path": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step5_outro.wav",
+      "raw_mp3": "C:\\dev\\864zeros-publish\\media\\products\\autoorganize-ytm\\audio\\live_step5_outro_raw.mp3",
+      "start": 20.68,
+      "end": 28.862
+    }
+  ]
+}

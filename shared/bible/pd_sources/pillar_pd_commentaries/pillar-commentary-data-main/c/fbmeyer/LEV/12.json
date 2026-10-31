@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Purification after Child-Bearing -- Leviticus 12:1-8\n\nThe birth of a boy involved seven days’ ceremonial defilement; of a girl, fourteen. Not the child, but the mother, was adjudged to be unclean, securing her a period of retirement and rest. The gracious gradation in the sacrifices made it possible for the poorest to obey, and it is a memorable fact that the mother of our Lord brought two pigeons or doves-meet emblems of her gentle nature-when she presented her babe in the Temple. See Luke 2:24. Our Lord became poor, that through His poverty we might be eternally enriched. In the light of this ceremonial, we are led back to Psalms 51:5, which we must personally and sadly ponder.\n\nThe initial rite of the Hebrew religion stood for separation. The parent taught the child to remember that he belonged to a separated race. It was impossible for him to consort with those who were aliens from the commonwealth of Israel. We all need to undergo the circumcision of Christ, which consists in putting away the sins of the flesh, and ceasing to trust in our own energy. See Colossians 2:11-12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 13
+ }
+}

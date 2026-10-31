@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Son upon His Throne -- Psalms 2:1-12\n\nThis is one of the sublimest of the Psalms, and can find its fulfillment only in our Lord. See Acts 4:25; Acts 13:33; Hebrews 1:5; Hebrews 5:5; Revelation 2:27. The mold in which the psalm is cast is highly dramatic.\n\nThe determined hate of the peoples, Psalms 2:1-3 Rage conveys the idea of gesticulations and cries of frenzy. For Psalms 2:2, see Luke 23:12-13; Acts 4:25-26.\n\nThe divine tranquillity, Psalms 2:4-6 The scene shifts to heaven. In spite of all, the eternal purpose moves on. I have set-that is, “anointed.” “Messiah” and “Christ” alike mean anointed, Acts 10:38.\n\nThe manifesto of Messiah, Psalms 2:7-9 Before time began He was the only begotten Son of God, John 17:5. But His sonship was declared at His resurrection, Acts 13:30-37. The world is His, to be won by the Cross and intercession.\n\nOvertures of peace, Psalms 2:12 Kiss, 1 Samuel 10:1. This psalm closes as the first began, “Oh, the blessedness!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The New Leader’s Commission -- Joshua 1:1-9\n\nJoshua was a prince of the tribe of Ephraim, and was born in Egypt. After the Exodus he became captain of the host, Exodus 17:9. With Caleb he brought back a good report of the land of Canaan, Numbers 14:7. Having been found faithful in the smaller sphere, he was promoted to the wider one. As we have seen, one of Moses’ closing acts was to give him a charge. He represents the Lord Jesus, in His risen glory, as the Captain and Leader of the Church.\n\nThe land of Canaan was Israel’s by deed of gift; but Israel had to go up to possess it. Similarly God’s grace is ours, but we must claim it by putting the foot of our faith on God’s promises. Though Hittites-our old evil habits-revolt, if we meet them in the power of the Holy Spirit, they must yield. God is with us. Joshua 1:5 is the perquisite of all believers. See Hebrews 13:5-6. But note that the weapon of successful conflict is God’s Word. It is our sword, Ephesians 6:17. See also Jeremiah 15:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Provisioned and United for Conquest -- Joshua 1:10-18\n\nIt was enough that God had spoken and promised. Nothing more was necessary. Joshua took immediate steps, dictated by sanctified common-sense, to prepare the people for the great step in advance to which God was calling them. We are not to throw away prudent foresight when we go forth on God’s errands. Faith does not supersede precaution and preparation, where these are possible; although she does not rely on them, but on the living God.\n\nWhen Joshua addressed the two tribes and a half, there was no faltering in his tone. He was absolutely certain that God would fulfill His promise, Joshua 1:15. This inspired the people with similar courage. It was very helpful to have the reassurance of those who were least likely to be enthusiastic, since the campaign must sever them from their families. God often speaks to us through the lips of others. Can we utter Joshua 1:16 to our Lord?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 2
+ }
+}

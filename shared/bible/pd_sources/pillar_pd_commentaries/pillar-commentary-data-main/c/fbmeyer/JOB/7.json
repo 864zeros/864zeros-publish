@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Longing for the Evening -- Job 7:1-21\n\nThe servant eagerly longs for the lengthening shadow, which tells him that his day of labor is at an end, and we may allow ourselves to anticipate the hour of our reward and deliverance.\n\nIn plaintive words, which have so often been on the lips of heavy sufferers, Job tells the story of his sorrow and bitterness. The sufferer addresses God directly-almost suggesting at first that God was persecuting him without cause. Let those who have been disposed to think God unmindful and hard in His dealings, ponder these words. Even this saint of patience has trodden that path before them, and he came out right at last. But a softer tone follows; Job realizes that he has sinned, pleads to be forgiven, and asks that the word of forgiving love may not tarry, lest it be too late. The psalmist uses expressions similar to Job 7:17-18, but with a more wholesome application, Psalms 8:4; Psalms 144:3.\n\nNotice that wonderful name for God-the watcher of men, Job 7:20, r.v. Not to discover their sins, but to learn their sorrows and needs with the intent of helping them with His saving strength."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 8
+ }
+}

@@ -1,55 +1,79 @@
-{
+﻿{
   "slug": "vaultpilot",
   "category": "browser-extensions",
   "pillar": "864F",
-  "ingested_at": "2026-09-07T02:39:25.361Z",
-  "type": "extension",
-  "pageFile": "vaultpilot.html",
+  "ingested_at": "2026-10-28T19:15:00.000Z",
+  "type": "browser-extensions",
   "name": "VaultPilot — web clipper for your Obsidian vault",
-  "summary": "Clip any page or selection to clean Markdown — straight into your local Obsidian, Logseq, or Capacities vault. 100% local, no account.",
-  "metaDescription": "Clip any page or selection to clean Markdown — straight into your local Obsidian, Logseq, or Capacities vault. 100% local, no account. One-time $3.99 Direct-to-Vault.",
+  "summary": "Clip any web page or selection to clean Markdown, straight into your local Obsidian, Logseq, or Capacities vault. Local-first, no account.",
+  "metaDescription": "VaultPilot clips web pages, tables, and code blocks into clean Markdown with YAML frontmatter directly into your local Obsidian, Logseq, or Capacities vault. 100% local-first, zero cloud relays.",
   "icon": "vaultpilot.png",
   "storeUrl": "",
+  "edgeStoreUrl": "https://microsoftedge.microsoft.com/addons/detail/pffcnoafpchnmfejlngkikmkecplconb",
+  "demoUrl": "https://864zeros.com/demo/vaultpilot/index.html",
+  "vsUrl": "https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html",
+  "playlist": "Local-First Productivity (Obsidian, VaultPilot, Signal2Noise)",
+  "video": {
+    "src": "vaultpilot-short.mp4",
+    "liveUiDemo": "vaultpilot-live-ui-demo.mp4",
+    "poster": "vaultpilot-thumbnail.png",
+    "tag": "⚡ Product Demo",
+    "title": "How to Clip Web Articles to Obsidian Without Cloud Proxies",
+    "desc": "Clip any page or selection to clean Markdown — straight into your local Obsidian, Logseq, or Capacities vault. 100% local, no account.",
+    "sub": "<b>Free Markdown mode forever</b> · Direct-to-vault engine: one-time lifetime unlock (no subscriptions)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mok0lCl117o",
+    "legacyShortsUrl": "https://www.youtube.com/watch?v=Lu-3sSA-M1E"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "vaultpilot-social-pain.mp4",
+      "poster": "thumbnail-vaultpilot-social-pain.png",
+      "title": "How to Fix Broken Tables & Code Blocks When Clipping to Obsidian #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_broken_tables",
+      "duration": 20.93
+    },
+    {
+      "id": "social-hook-price",
+      "src": "vaultpilot-social-price.mp4",
+      "poster": "thumbnail-vaultpilot-social-price.png",
+      "title": "How to Replace Monthly Read-It-Later Subscriptions With a Local Obsidian Clipper #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_zero_subscription",
+      "duration": 21.36
+    },
+    {
+      "id": "social-hook-speed",
+      "src": "vaultpilot-social-speed.mp4",
+      "poster": "thumbnail-vaultpilot-social-speed.png",
+      "title": "How to Clip Any Web Selection to Obsidian Markdown in 1 Click #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_1_click_speed",
+      "duration": 20.16
+    }
+  ],
   "shots": [
     {
       "img": "vaultpilot-1.png",
-      "alt": "VaultPilot — clip any page to clean Markdown in your own vault",
-      "cap": "Clip any page to clean Markdown — into your own vault, not a cloud."
+      "alt": "VaultPilot marquee selection & clean Markdown preview",
+      "cap": "Highlight or marquee-select any web section and preview clean GFM Markdown + YAML frontmatter."
     },
     {
       "img": "vaultpilot-2.png",
-      "alt": "VaultPilot — every capture keeps its source, tags, and notes",
-      "cap": "Every capture keeps its context — source, tags, and a note field."
+      "alt": "VaultPilot direct-to-vault File System Access API folder write",
+      "cap": "Write .md files directly into your local Obsidian, Logseq, or Capacities folder with zero cloud intermediaries."
     },
     {
       "img": "vaultpilot-3.png",
-      "alt": "VaultPilot — Direct-to-Vault writes straight into your Obsidian folder",
-      "cap": "Direct-to-Vault: write .md straight into your Obsidian folder. No Downloads shuffle."
+      "alt": "VaultPilot one-time lifetime license vs recurring cloud clippers",
+      "cap": "Free Markdown liberation mode forever, plus one-time lifetime unlock for direct-to-vault automation."
     }
   ],
   "jsonld": {
-    "description": "Clip any web page or selection to clean Markdown, straight into your local Obsidian, Logseq, or Capacities vault. Local-first, no account.",
+    "description": "Local-first Web-to-Markdown clipper for Obsidian, Logseq, and Capacities using the File System Access API.",
     "featureList": [
       "Marquee / selection / full-page capture",
       "Clean Markdown + YAML frontmatter",
       "Liberate to Markdown (free)",
       "Direct-to-Vault write (File System Access API)"
-    ],
-    "offers": [
-      {
-        "@type": "Offer",
-        "name": "Free",
-        "price": "0",
-        "priceCurrency": "USD",
-        "description": "Capture + individual Markdown export, forever."
-      },
-      {
-        "@type": "Offer",
-        "name": "Direct-to-Vault",
-        "price": "3.99",
-        "priceCurrency": "USD",
-        "description": "One-time unlock: write .md straight into your vault folder."
-      }
     ]
   }
 }

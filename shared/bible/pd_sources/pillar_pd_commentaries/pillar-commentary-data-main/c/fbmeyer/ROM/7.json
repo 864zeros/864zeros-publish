@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Law Makes Sin Known -- Romans 7:1-13\n\nTo make his meaning clear the Apostle now enters upon a parable drawn from domestic life. He says that we are married to the Law as our first husband, and seek, through union with it, to bring forth fruit unto God. Every convert earnestly endeavors, in the first impulse of the new life, to be good and to form, by incessant effort, a life that is pleasing to God. Like Cain we bring the fruit of the ground, extorted from the soil by the sweat of the brow.\n\nBut we are soon disappointed in the result. Our laborious care ends in failure. Sinful desires are too masterful. As Luther said, “The old Adam is too strong for the young Melanchthon.” Then we see that the Cross has put death between us and our painful effort. We learn that the marriage contract which bound us to our first husband, the Law, has been dissolved. We are set free to enter into marriage union with the blessed Lord, and He, by His indwelling Spirit, effects in us what our own energies have failed to produce. We are joined to Him that was raised up from the dead, and bring forth fruit unto God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Conflict Within -- Romans 7:14-25\n\nThe Apostle gives a further statement of his personal experience of the inability of the soul to realize the divine ideal which has been revealed to it as the norm and type of its attainment. Life does not run smoothly. There are effort, strain, failure, the consciousness of sin, the dazzling glory of sunlight on inaccessible peaks. Why is this? It is due to the lack of “power unto salvation.” We are not strong enough to win any victory. We are weak through the flesh. There is a leakage through which our good desires vanish, as water through a cracked vessel.\n\nSelf is ever the difficulty. Before we find Christ, or are found of Him, we try to justify ourselves, and afterward to sanctify ourselves. Notice how full these verses are of I, and how little is said of the Holy Spirit. As the corpse of a criminal that was, in the old barbarous days, hung around the neck of a living man, so the flesh is to us, with all its evil promptings. But this background of dark experience, ending in vanity, vexation, disappointment, and misery leads to the following chapter, which is saturated with Pentecostal power. The distant anticipation of this revives us, like the scent of land to animals sick with a long voyage; and we thank our God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 8
+ }
+}

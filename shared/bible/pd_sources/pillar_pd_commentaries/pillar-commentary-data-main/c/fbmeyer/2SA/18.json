@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The End of an Unfilial Son -- 2 Samuel 18:1-15\n\nAbsalom’s army was soon across the river under Amasa, David’s nephew, 2 Samuel 17:25-26. Though political reasons constrained David to flight, his heart bled for his wrong-headed and evil-hearted son, and he gave urgent directions for his safety. Let us here learn something of God’s own heart of love. We may have been heartless and thoughtless, have defied His authority and refused to give Him His rightful place; but He gives charge concerning us, desires that we may be spared the full results of our actions, and yearns for our return.\n\nThe eastern tribes had rallied so enthusiastically around David’s standard, that he soon found himself at the head of a great army, which, to judge from 2 Samuel 18:12, was absolutely loyal to him. But Joab saw farther than the ordinary soldiers and knew that there could be no peace while Absalom lived. He had forfeited his life, according to Deuteronomy 21:18; Deuteronomy 21:21; Deuteronomy 21:23. See also 2 Samuel 17:2; 2 Samuel 17:4. His head being caught in the fork of a tree, it seemed, indeed, as if he were cursed according to the law, Galatians 3:13; Deuteronomy 21:23."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Tidings That Failed to Bring Joy -- 2 Samuel 18:16-30\n\nAhimaaz was far-famed for his swift running. He had already served the royal cause, and his family was intimate with the king, 2 Samuel 15:36; 2 Samuel 17:17. Joab was therefore unwilling to entrust the youth with tidings which must give the king bitter sorrow, and perhaps cause him to associate them ever after with the bearer. Perhaps Joab also feared that the part which he himself had taken in Absalom’s death would be exposed by Ahimaaz. The tidings were therefore entrusted to an Ethiopian slave. He ran along the straight road to Mahanaim, but the young priest took the way of the plain and outran him.\n\nTidings are constantly pouring in upon us, some by the stranger, some by the friend. But if we trust in the Lord we shall not be afraid of them, Psalms 112:7. Only let our heart be fixed. For us also there shall arise light in the darkness, our heart shall be established, and we shall not be moved. When next you break the seal of the dreaded letter, lift your heart to God. He will bring good out of evil."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Mourning Too Late -- 2 Samuel 18:31-33; 2 Samuel 19:1-8\n\nWhat an awful day that was for David, seated between the inner and outer gates, scanning the landscape, and speaking now and again to the sentry posted above him. Did not the Spirit work an even deeper repentance than ever before, recalling the self-indulgence, the failure to watch, the lapse of fellowship? But was it not also an hour when David put his finger on the Covenant and asked God, notwithstanding all, to do as he had said, 2 Samuel 7:15?\n\nAs David waited, his heart interceded for Absalom. How exactly his attitude is that of many who read these words, who are unable to join in the activities of life, and who spend days and nights in uttering one dear name before God! But he loves our Absaloms more than we do! David wished that he might have died for his son, and you have felt the same. But did not Jesus die for the ungodly? We must leave all with Him, the Judge of all the earth, but also its Redeemer and Savior."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 19
+ }
+}

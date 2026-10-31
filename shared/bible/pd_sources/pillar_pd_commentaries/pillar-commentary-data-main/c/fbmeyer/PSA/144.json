@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 144,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s People Are Happy -- Psalms 144:1-15\n\nThis psalm savors of the rocky caverns from which David and his men emerged to fight. Each day the chieftain asked God to teach him to fight, and realized that all his need would be met. The names he gives to God indicate that all-sidedness which becomes the complement of every conceivable necessity on our part.\n\nWhat a striking conception opens in Psalms 144:4! Saul was but a “breath” ! r.v., margin. The persecuting bands were as the shadows that pass across the hills! From them all he appealed to God to bow the heavens and come, to touch the mountains, and to rescue him from the rising waters. And when the storm has passed he sings his new glad song, Psalms 144:9. Psalms 144:12-15 were probably added at a later time, when David was established in his kingdom. They describe a summer afternoon of prosperity, when sons have grown from plants to trees, and daughters resemble the carved figures which support the beams of a palace. No breaking in of the foe, no need to go forth to fight, no outcry of oppression or want; but the halcyon sunset of a well-spent life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 144
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 143
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 145
+ }
+}

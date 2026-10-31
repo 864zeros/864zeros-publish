@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus Prays for His Own -- John 17:1-10\n\nIn Christ’s own oratory we hear Him pray. But how wonderful! There is a tone of expectant faith in this marvelous prayer of assured trust, as if He knew that He was asking what was in His Father’s heart and thought. The Lord speaks as if He had already passed through death, and were pleading before the throne. He is glad to have authority only that He may use it to give life.\n\nThe Father’s gift to Jesus consisted in the men who followed Him, the word He spoke, the works He did, the name He bore. How careful the Good Shepherd was of those who had been given to Him! He prayed for them, He kept them, He entrusted them as His dying legacy to His Father’s care. Though He did not pray directly for the world, He was doing His best for it, in concentrating all His solicitude on those who were to be the messengers of His gospel.\n\nIn John 17:10 we are reminded of Luk 15:31. The very words which the father said to the elder brother are here appropriated by our Lord; and we are taught that we have the privilege of entering on the same inheritance of grace and power as our Lord had. He won for us, unworthy though we are, the privilege of saying, All thine are mine. If only we believed this, and lived as children in our Father’s house, how different life would become."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "In the World but not of the World -- John 17:11-17\n\nWhat is the world? The inspired definition is given in 1 John 2:16. Enumerating her three offsprings, the Apostle goes on to say, “All that is in the world… is not of the Father,” that is, does not originate or proceed from Him. We might reverse the proposition and say, “All that does not emanate from the Father, and which is inconsistent with perfect love and purity and truth, is of the world.”\n\nThe spirit of the world permeates society. All its plans, aims, and activities belong to the present passing show. “Under the sun” is the suggestion of Ecclesiastes. The world has always been in collision with Christ, because His teaching reverses everything that the world prizes. In its beatitudes, its methods of pleasure and acquisition, its view and use of power, and its attitude toward God, the difference is wide as the poles. But its hatred is welcome to the followers of Christ, as proving that they are on the Master’s track, and in His fellowship they are abundantly compensated."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Master’s Commission -- John 17:18-26\n\nIn John 10:36 we are told that the Father consecrated our Redeemer to the great work by which He had brought nigh them that were far off, Ephesians 2:13. What a scene that must have been when Jesus was set apart to destroy the works of the devil, bring in everlasting salvation, and gather into one family the scattered children of God! In that act we were included. We are bound, therefore, to a life of consecration and devotion to the world’s redemption.\n\nTrue unity is spiritual. When we abide in Christ, we abide in each other. Men do not recognize it, but the spiritual unity exists already. If we are one with our Lord, we must be one with all who are members of His mystical body. In different ages the Church has varied outward organization, but there has always been the unity of the one body, the one flock, the one temple. We cannot make that unity, but we must endeavor to keep it, always remembering it, especially when dealing with our fellow-believers. If we are one on earth, we must be with Him forever."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 18
+ }
+}

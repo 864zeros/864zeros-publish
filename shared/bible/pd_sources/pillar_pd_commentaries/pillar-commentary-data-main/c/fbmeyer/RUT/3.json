@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "RUT",
+  "commentaryId": "fbmeyer",
+  "name": "Ruth",
+  "commonName": "Ruth",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Part of a Kinsman\n\nRth 3:1-18\n\nAccording to the old Hebrew law, Ruth was already married to Boaz, on the supposition that he was next of kin. Naomi apparently had no knowledge of a nearer kinsman than he. Compare Rth 2:20, R.V., 3:12; Deuteronomy 25:5-10. There was therefore no immodesty in Naomi’s proposals, though they are foreign to our modern practice. But clearly Boaz acted with admirable self-restraint. His earnest concern was for the good name of the young girl who had thrown herself on his protection, Rth 2:11; Rth 2:14. Next to God’s grace, the one thought which helps us in the hour of testing is to put the interests of another before our own. Love to our neighbor is ultimately love to ourselves.\n\nWhat confidence these two helpless women reposed in Boaz! The words with which Naomi closed their conversation suggest a character of absolute reliableness. His word was his bond. He was prompt, decisive and instant in carrying out any measure to which he felt himself pledged. Dilatoriness will wear out the heart of those who trust us. Let us finish promptly what we undertake! “Diligent in business, fervent in spirit!” Remember that when you trust Christ with anything, He also will not rest till He has finished it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 4
+ }
+}

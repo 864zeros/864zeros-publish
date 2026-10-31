@@ -18,7 +18,7 @@ SCRIPTS = {
     "pain": [
         {
             "id": "pain_scene1_hook",
-            "text": "Paying forty dollars every single month to DocuSign just to get a signature on a Google Doc?",
+            "text": "Paying recurring fees every single month to DocuSign just to get a signature on a Google Doc?",
             "lead": 0.25,
             "tail": 0.35
         },
@@ -50,7 +50,7 @@ SCRIPTS = {
         },
         {
             "id": "price_scene3_cta",
-            "text": "A one-time nineteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+            "text": "a single one-time unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
             "lead": 0.15,
             "tail": 0.5
         }

@@ -1,0 +1,55 @@
+{
+  "variant": "speed",
+  "total_duration": 20.16,
+  "soundtrackWav": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\soundtrack_speed.wav",
+  "scenes": [
+    {
+      "id": "speed_scene1_hook",
+      "stepLabel": "0-2s Problem Hook",
+      "caption": "Still copy-pasting web notes by hand?",
+      "text": "Still copy-pasting web notes by hand?",
+      "duration": 2.38,
+      "durationMs": 2380,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\speed_scene1_hook.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\speed_scene1_hook_raw.mp3",
+      "start": 0.0,
+      "end": 2.38
+    },
+    {
+      "id": "speed_scene2_payoff",
+      "stepLabel": "2-5s Immediate Visual UI Payoff",
+      "caption": "Select any paragraph and watch it appear as a formatted Obsidian note in one second.",
+      "text": "Select any paragraph and watch it appear as a formatted Obsidian note in one second.",
+      "duration": 5.1,
+      "durationMs": 5100,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\speed_scene2_payoff.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\speed_scene2_payoff_raw.mp3",
+      "start": 2.38,
+      "end": 7.48
+    },
+    {
+      "id": "speed_scene3_walkthrough",
+      "stepLabel": "5-15s Quick Setup Walkthrough",
+      "caption": "VaultPilot strips page clutter automatically, adds your frontmatter tags, and writes straight to your computer.",
+      "text": "VaultPilot strips page clutter automatically, adds your frontmatter tags, and writes straight to your computer.",
+      "duration": 6.084014,
+      "durationMs": 6084,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\speed_scene3_walkthrough.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\speed_scene3_walkthrough_raw.mp3",
+      "start": 7.48,
+      "end": 13.564
+    },
+    {
+      "id": "speed_scene4_cta",
+      "stepLabel": "15-21s Pricing Advantage & CTA",
+      "caption": "No monthly rent, one-time unlock. Test the live demo right now at eight sixty-four zeros dot com.",
+      "text": "No monthly rent, one-time unlock. Test the live demo right now at eight sixty-four zeros dot com.",
+      "duration": 6.596009,
+      "durationMs": 6596,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\speed_scene4_cta.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\speed_scene4_cta_raw.mp3",
+      "start": 13.564,
+      "end": 20.16
+    }
+  ]
+}

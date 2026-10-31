@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Guided to New Fields -- Acts 16:1-13\n\nPaul had a wonderful influence over young men. Timothy, Titus, and Mark bore his impress. When circumcision was insisted upon, as in the previous chapter, no one opposed it more stoutly than Paul; when it conciliated Jewish prejudice, he was quite willing to concede it, since in itself it was a matter of perfect indifference. As the stoning of Stephen was the first step toward winning Paul, so his own stoning at Lystra on the former occasion, as we have noted, probably gave him Timothy.\n\nOur path through life will often be indicated by the fact that the doors which lead off the straight track are barred and bolted, so that we have no option save to go on. Paul was blocked first on the left, that he should not go into the province of Asia; then on the right, that he should not go into Bithynia. Finally he reached Troas, and stood face to face with the ocean that lay between him and Europe.\n\nHere he had a vision which made a deep impression upon him. He saw a man of Macedonia standing in an attitude of entreaty and saying, Come over into Macedonia and help us. Note that word, concluding, Acts 16:10. God often leaves us to infer our course. He does not ignore His own great gift of reason."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Welcomed; Attested; Imprisoned -- Acts 16:14-24\n\nThis was an epoch-making moment, but how quietly it is recorded. There was no heralding of the gospel which was to transform Europe. The need for it was unspoken and unfelt. It stole in like the dawn.\n\nPaul’s first experiences in Europe were not promising. In most cities there was a Jewish synagogue; but here only a small group of pious women in an arbor by the riverside. Let none despise the day of small things. What a contrast between Lydia, who had come over from Asia Minor, and employed a number of hands in the dyeing trade, and the poor girl who was possessed by the demon! Yet each of them recognized the divine ministry of the newly arrived messengers. What a contrast, also, between the gradual response of Lydia’s heart in the revelation of the risen Christ, to whom it opened as a flower to the sun, and the sudden awakening of the jailor!\n\nWhen Christ touches the pockets of worldly men, He arouses their direct opposition. The world is troubled when it loses its gains; the saints are troubled when they see Christ’s property being injured! See Acts 16:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Salvation in the Jail -- Acts 16:25-40\n\nSome, as we have seen, are converted by the gentle opening of the heart; others amid the convulsions of the storm. The first knowledge of salvation may have reached the heart of the jailer through the saving of the possessed girl, Acts 16:17. If only the heart is right with Christ, it can sing in the darkest night; and the impression of those holy songs must have wrought still further upon the conscience of this rough Roman official, who had treated his prisoners with uncommon severity, Acts 16:24. The inner prison! Perhaps some of our readers have been in it! They have come to an end of themselves and their feet are fastened!\n\nBut God has His own way of deliverance and never forsakes His own. Art thou in the stocks today? Then pray and sing praises! Choose, for instance, Psalms 103:1-22. God will be thy very present help. Thou shalt win thy jailer, and become a monument of God’s saving mercy. There is no course for the convicted sinner but to trust in the salvation wrought upon the Cross; or still better, in Him who wrought it.\n\nPaul was perfectly justified in insisting upon his civil rights when he had the opportunity, Acts 16:37. It made the way easier for his new converts."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 17
+ }
+}

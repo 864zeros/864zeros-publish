@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "What the Lord Requires of Us -- Deuteronomy 10:1-22\n\nThe second writing of the Law reminds us of the work wrought in us by the Holy Spirit. When first we hear the Law, we are condemned; but when we have repented and believed, God writes it on the fleshly tablets of our hearts, Hebrews 8:10. Together with this deepening love and delight in God’s Law, we enter into the spiritual equivalent of Levi’s calling, standing to minister, and blessing in God’s name.\n\nEvery word of the magnificent parable from Deuteronomy 10:12 deserves careful pondering. Let us learn what God requires and then ask Him to create such things in us. As Augustine puts it: “Give what thou commandest, and then command what thou wilt.” But we must be willing to enter into the inner significance of the initial Jewish rite, which; is also taught in baptism, Romans 2:26-29; Colossians 2:11-12. The separation of Calvary’s Cross leads to the filling of Pentecost!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 11
+ }
+}

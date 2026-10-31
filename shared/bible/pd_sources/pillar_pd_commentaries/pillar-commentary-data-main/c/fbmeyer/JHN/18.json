@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus Accepts His Suffering -- John 18:1-11\n\nOur Lord went forth from the city and across the brook Cedron to Gethsemane, but not for the purpose of concealment, as John 18:2 clearly shows. How characteristic it was that He should meet the band and ask that He should be taken, while the disciples should be permitted to escape! Was not this what He was ever doing-meeting peril, temptation, and death, that the great company whom He was bringing to glory might be saved? What meekness and majesty are here! Meekness-that He should subject Himself to the binding thong; majesty-that He should be able to use the unspeakable name of God-I AM, for the word “He” is not in the Greek.\n\nThe cup probably referred to the anguish caused to His holy nature in being numbered with the transgressors, and bearing the sin of many. There was much in it from which His spirit recoiled, but He chose to do the will of God, however the flesh might start and shrink. Let us ever take the cups of life’s pain and sorrow direct from the hand of God, not seeing Judas, but the Father.\n\nJoseph told his brethren that it was not they who had sent him to Egypt, but God. David would not have Shimei silenced, because he felt that God had allowed him to utter his anathema. Here our Lord reposes absolutely on the Father, who loved Him before the world was made."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Fear Undermines Loyalty -- John 18:12-18\n\nApparently a preliminary and private examination was held while the Sanhedrin was being hastily summoned. The other disciple was evidently John. It was a mistake for Peter to throw himself into such a vortex of trial. His foolhardiness and curiosity led him thither. While the Master was before one bar, Peter stood at another, but how egregiously he failed! In spite of his brave talk, he was swept off his feet-as we shall be, unless we have learned to avail ourselves of that power which is made perfect only in weakness. Peter’s fall was due to his self-confidence and lack of prayer. Those who are weak should beware of exposing themselves in places and company where they are liable to fail. Do not warm yourself at the world’s fires.\n\nThree lessons emerge from Peter’s failure: (1) Let us not sleep through the precious moments which Heaven affords before each hour of trial, but use them for putting on the whole armor of God, that we may be able to stand in the evil day. (2) Let us not vaunt our own strength. We need more than resolution to sustain us in the hour of conflict. (3) Let us not cast ourselves down from the mountainside, unless absolutely sure that God bids us to do so. He will not otherwise give His angels charge to keep us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Jesus before His Persecutors -- John 18:19-24\n\nAnnas was the father-in-law of the high priest. For many years he had worn the high priest’s robes, and though now he had nominally retired from his office, he still kept his hands on the reins. He was the most powerful factor in the high-priestly circles. He was awaiting the return of the expedition in the hall of his palace, and at once began a preliminary inquiry, in the hope of extracting something on which to base his case against our Lord. Jesus penetrated his crafty purpose, and referred Annas to the army of spies who had been always on his track. There was no anger in Jesus’ heart.\n\nHe desired simply to show how absolutely pure and true His words had been; that though He was exposed to searching scrutiny, yet this secret measure had to be resorted to by Annas to incriminate Him. Jesus did not resist evil, but endeavored to bring His accusers and judges calmly to face their own consciences."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Pilate’s Weak Evasion -- John 18:25-32\n\nIt may be that while Peter was thus denying his Lord, Jesus was passing from Annas to Caiaphas, and in doing so cast on the stumbling disciple that look of mingled sorrow and love which broke his heart. John does not dwell on the trial before Caiaphas, because the other evangelists have already described it; but passes on to tell more minutely of the vacillation and weakness of Pilate. The Roman governor first sought to rid himself of the responsibility of deciding the ease. He refused to consider that it came within his jurisdiction, because it seemed connected with some religious dispute involving a technical knowledge which he did not possess. He suggested, therefore, that the Jewish leaders should deal with it under their own statutes. There was no apparent need for Roman law to interfere.\n\nWhen, however, the murderous intent of the high priests emerged, it became evident that their charges against Jesus were of a much more serious character, and Pilate was compelled to give his earnest attention to them. How little he realized the momentous issues to be decided that day!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 33,
+    "content": [
+     {
+      "text": "The King of Truth -- John 18:33-40\n\nThere was a tone of satire in Pilate’s question: “Thou poor, worn, tear-stained outcast, forsaken by every friend in this hour of need-art thou a king?” Human ears have never heard more majestic words than our Lord’s reply. But when He said, My kingdom is not of this world, He did not mean that it had nothing to do with this world, but that it did not originate here. It has descended from heaven, and seeks to bring the inspiration, principles, and methods of heaven into all the provinces of human activity. The one conspicuous proof of its absolutely foreign origin is its refusal to employ force. We do not fight, but sacrifice and suffer, for its maintenance. Our Lord therefore hastened to show that His Kingdom is based on the manifestation of the truth. There is no soul of man which is pure and true that does not recognize Christ’s royalty, as King of Truth, when it hears Him speak."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 19
+ }
+}

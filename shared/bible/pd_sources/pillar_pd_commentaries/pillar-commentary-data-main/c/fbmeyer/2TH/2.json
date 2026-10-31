@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2TH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Thessalonians",
+  "commonName": "2 Thessalonians",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Untroubled by Threatening Rumors -- 2 Thessalonians 2:1-12\n\nThe Apostle sets himself to correct certain erroneous impressions which had unsettled the church in Thessalonica. Notice how reverently he speaks of our Savior. Once and again he alludes to Him as the Lord Jesus Christ. He is surely coming, and as surely will His saints be gathered to Him, as the drops of moisture are drawn up from ponds and oceans, to cluster in the clouds in radiant beauty around the sun.\n\nBut certain events must take place first. There must be a great apostasy and the unveiling of “the mystery of lawlessness,” which even at that time was already at work. First, the man of sin; then, the Son of man. First, He that set Himself forth as God; then, God manifest in the flesh. First, the revelation of sin; then, the revelation of perfect salvation. Daniel 11:36 seems to have suggested Paul’s words, which have been applied to Nero or Caligula, to Judaism or the Papal Church, and to some future manifestation of Satanic hatred toward the Church of God.\n\nBut whatever form it may assume, the coming of Jesus will absolutely destroy this power of Antichrist. Let us be warned by the doom of those that are involved in this great apostasy, and ever cherish the love of the truth of Christ, that we may be saved."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Held Firm and Guarded from Evil -- 2 Thessalonians 2:13-17; 2 Thessalonians 3:1-5\n\nThis closing section is full of comfort and inspiration. Believers in Christ are the beloved of God; their salvation dates from His eternal love and choice, and His purpose for us is being wrought out in our characters by the Holy Spirit, who ministers to us through the truth. Our comfort is eternal and our hope is unfailing.\n\nPaul was now preaching at Corinth, and he asks that the gospel may run, 2 Thessalonians 3:1, r.v. Oh, for a divine impatience that we may be content with nothing short of this! When unreasonable and wicked men try you, turn to the Lord, who is faithful to His promises and to His saints. The stronger the gales of opposition and hatred, the deeper should we become established and rooted in the truth. The word direct in 2 Thessalonians 2:5 may be rendered, make a thoroughfare through; that is, we desire that our hearts should be a highway down which the love of God and the patience of our Lord may pass to a world of sin and fret. Let us ever connect the patience and kingdom of our Lord, as in Revelation 1:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 3
+ }
+}

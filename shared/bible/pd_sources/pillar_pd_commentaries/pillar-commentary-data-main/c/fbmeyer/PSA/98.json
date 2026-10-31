@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 98,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Worthy of Praise from All the Earth -- Psalms 98:1-9\n\nThis psalm is parallel to Psalms 96:1-13. That dealt with the reign of God; this deals with the victory on which that reign is based, Psalms 98:1. God could create without restraint, but before He could redeem, He had to quell the resistance of evil and to overcome the prince of this world. Hence the long conflict; but salvation was wrought by that Holy Arm which was outstretched on the Cross, and by the Right Hand which gave itself to the nails. In the Resurrection and Ascension our Lord’s righteousness and salvation were openly manifested. See Colossians 2:15.\n\nThe “Hallelujah Chorus” of Psalms 98:4-9 well befits the triumph of Christ. Earth that shared in the fall of man shall participate in his redemption. See Isaiah 32:1-20. Too long has nature groaned and travailed, like an imprisoned captive; but she shall have her rebirth. When Jesus is King, seas and floods, mountains and hills, are filled with music. Nature is like a stringed instrument that awaits tuning and the touch of a master-hand. Revelation 5:1-14, gives the counterpart of the psalmist’s summons; here the Apostle tells us that the song which started from the elders was echoed back from all things in heaven, on earth, and in the sea, and all that is in them. Be optimistic. Eat your meat with gladness and singleness of heart. You are on the winning and singing side."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 98
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 97
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 99
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Results of Obedience and Disobedience -- Leviticus 26:1-20\n\nThere is a vast contrast between the ideal life of the first thirteen verses of this chapter and the remainder; just the distinction which God ever makes between a life of obedience and faith, and one of disobedience and disbelief. In our inner life we also may have that blessed rain of spiritual grace; the fruit-fullness and the peace, the safety and the victory, the old store reaching to the new, the breaking of our bars and the snapping of our yoke.\n\nIf these privileges are not yours, think back on your past to ascertain whether you are walking in all God’s commandments, or are in anything walking contrary to them. Confess your sins and return, and dare to believe that He will bring you again, if penitent and believing, into the old glad position. But if “ye will not,” Leviticus 26:14; Leviticus 26:18; Leviticus 26:21; Leviticus 26:23; Leviticus 26:27, heavy penalties must befall. God loves us too well to allow us to drift, unwarned and unrestrained, to perdition."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Desolation and Captivity for the Stubborn -- Leviticus 26:21-46\n\nNotwithstanding the solemn and appalling pictures placed before Israel in these verses, they forsook the Lord and served other gods. Thus, they brought upon themselves the sore judgments threatened against them, consisting of defeat, scarcity, wild beasts, pestilence and famine, the horrors of siege and desolation, followed by dispersion to the four winds of heaven. The book of Judges illustrates the first, and the destruction of Jerusalem, as told by Josephus, the last of these plagues.\n\nUnder the curse of this chapter the chosen people are suffering to this very hour. Scattered and peeled, wasted and outcast, they are monuments of God’s truthfulness to His word. They teach an impressive lesson which the nations of the world would do well to lay to heart. Note that remarkable expression about accepting their punishment, as the necessary condition of forgiveness and restoration. The same condition always holds.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 1
+ }
+}

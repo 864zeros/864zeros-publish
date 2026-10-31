@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "An Unbelieving and Rebellious People -- Numbers 14:1-12\n\nWhat in any other nation would have been described as a panic of fear, was, in the case of Israel, a panic of unbelief, which deserved the reproachful expostulation of Jehovah in Numbers 14:11. The transition is easy from unbelief to open rebellion against God, as expressed in the words, “Let us make a captain, and let us return into Egypt.” The connection between the fearful and unbelieving is very close, Revelation 21:8. On the other hand, we have the exhortation of 2 Peter 1:5 (A.V.), “Add to your faith virtue (or courage),” as exemplified in the language of Joshua and Caleb. But their words of faith and encouragement only elicited hatred and murder.\n\nCompare Numbers 14:10 with Genesis 4:4 and Hebrews 11:4. God’s two stalwart witnesses did not minimize the strength or the numbers of the foe, but magnified the mighty power pledged to fulfill the ancient covenant with Abraham: “The Lord is with us; fear them not.” He cannot fail the trustful soul!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Pardon by Moses’ Intercession -- Numbers 14:13-25\n\nMoses was free from selfish ambition. His one thought was for the glory of God. When for a moment the suggestion presented itself to his mind that his own seed should take the place of this rebellious race he instantly dismissed it. It was not to be entertained for a moment, lest the Egyptians make capital of it. He had no desire to be the ancestor of a great nation, if it would tarnish the divine honor. He would rather be consigned to oblivion himself than that one jewel in the glorious galaxy of God’s glory should be bedimmed.\n\nThere were three arguments in his intercession: God’s reputation, God’s consistency with Himself and God’s mercy. Methinks I hear the voice of the Supreme Mediator these pleadings! His prayer was heard, but the generation that believed not could not enter the land. You may escape Egypt and yet miss Canaan. See Hebrews 3:12-19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "The Penalty of Unbelief and Rashness -- Numbers 14:26-45\n\nThe old translation in Numbers 14:34 was unfortunate. “Breach of promise” is rendered in r.v. “my alienation.” It is still better to notice the marginal reading, “the revoking of my promise.” But even this hardly gives us the true meaning of the words, which teach us that God’s promises are conditional on our faith. He cannot do what we fail to trust Him to do.\n\nThe key of faith will unlock every drawer and cupboard in the divine treasury, but we must use it. If we will not trust God with our life we shall be left to perish in the wilderness of drought, of restlessness and of peril. Unbelief paralyzes God’s arm. See Matthew 13:58, And let us learn from the closing paragraph that the might of our own right hand will never avail to accomplish what is forfeited by unbelief. “It shall not prosper.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 15
+ }
+}

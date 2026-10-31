@@ -1,7 +1,7 @@
 # ChoiceGuard — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/choiceguard/`  
 **Web Product Page:** https://864zeros.com/products/choiceguard  
-**Pricing Model:** $7.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Dynamically eliminate options in Google Forms as capacity fills. Concurrency-saf
 👉 Try ChoiceGuard: https://864zeros.com/products/choiceguard
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $7.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet ChoiceGuard — the fast, local-first solution that solves this without mes
 👉 Get ChoiceGuard: https://864zeros.com/products/choiceguard
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $7.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -63,7 +63,7 @@ No Monthly Rent for Form Limiters — ChoiceGuard #Shorts
 ```
 Stop paying monthly subscription fees just to count how many times an option was chosen.
 
-ChoiceGuard gives you complete control with a single $7.99 lifetime (no recurring monthly subscriptions).
+ChoiceGuard gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get ChoiceGuard: https://864zeros.com/products/choiceguard
 

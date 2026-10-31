@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Personal Interest in Fellow-Christians -- Romans 16:1-16\n\nHere is a window into Paul’s heart. He was apparently disowned by his own kindred, yet, as the Lord had promised, He had mothers, sisters, and brothers a hundred-fold. What a contrast there is between the spirit of this chapter and that of the mere disputant or theologian, the stoic or monk. We see also the courtesy, purity, thoughtfulness, and tenderness of Christian relationships.\n\nWomen are here-Phoebe, Priscilla, Mary, Junia, Persis, Julia, and others. The Apostle realized the immense help that holy women could furnish in the ministry of the gospel. Men are here-old and young, fathers, brothers, and sons. Lovely titles are given with a lavish, though a discriminating hand-succorer, helpers, beloved, approved in Christ, saints. How especially beautiful the appellation, the beloved Persis, who labored much in the Lord! The kiss was the common mode of greeting, but there was to be a new sanctity in it, as though Christ were between. This church in Rome was a model for other churches. Would that we could realize the same spiritual unity that presided over the gatherings of these early saints!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Receive Helpers: Shun Hinderers -- Romans 16:17-27\n\nThose who cause divisions on obscure points of doctrine are to be avoided, lest they lead us away from the fundamentals. We need to be wise in heavenly wisdom and guileless in regard to evil. The pure, childlike heart is quick to discern the right and wrong, because of the breath that evil leaves on its clear mirror.\n\nIn the ease of each believer, however weak and helpless, God is pledged to fulfill to us Genesis 3:15. Not merely will He help us to do it, but He will do it for us. It is a remarkable conjunction; God against the devil and peace bruising.These postscripts, from Romans 16:17, were probably written by Paul’s own hand. See 1 Corinthians 16:21. We are not all, as were Gaius and Erastus, men of note and wealth, but we can all resemble Quartus, “a brother.” The mystery or secret with which the Epistle closes refers to the redemption wrought out by Jesus during His earthly ministry, 1 Timothy 3:16. But this was no new thing, as it had been in the mind of God from times eternal, Revelation 13:8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 1
+ }
+}

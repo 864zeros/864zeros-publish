@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "National Perversity -- Jeremiah 9:1-16\n\nJeremiah 9:1-6 Once the voice of joy and thanksgiving had been heard in Jerusalem, but now on every side there was bloodshed, and the patriot-prophet could only weep incessantly over the slain. A lodge in the wilderness seemed preferable to the most luxurious mansion in the city. Solitude would be better than association with the ungodly perpetrators of such crimes. Yet we must not go out of the fray so long as our Captain wants us to remain in it, in dependence upon him.\n\nJeremiah 9:7-16 What a magnificent description of the effect of God’s judgments on the land! No bird, no beast, no lowing of cattle, but jackals gamboling over the ruins of Jerusalem. However fast we shut our doors and windows, death enters our homes. Neither palace nor cottage is exempted. There is no escape for young or old from the judgments of God, except in penitence and faith. The secret of national decay and overthrow is the same in all ages.\n\nThe tree is rotten at the core before it falls beneath the hurricane. Let us turn to 1 Corinthians 1:18, which belongs to this chapter, and learn how little the wisdom and might of the world can avail us in the dread hour of universal desolation. Stand with the Crucified and glory in His Cross; be content to bear His reproach and shame, that you may become a son of the Resurrection, and be accounted worthy to escape those things that must come to pass, and at last stand, before Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 10
+ }
+}

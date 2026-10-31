@@ -22,8 +22,8 @@
     },
     {
       "img": "time2focus-3.png",
-      "alt": "Time2Focus — free and local, with an optional $2.99 lifetime Data Backup",
-      "cap": "Free, local, and yours. Optional $2.99 lifetime Data Backup — export stays on your device."
+      "alt": "Time2Focus — free and local, with an optional one-time lifetime  Data Backup",
+      "cap": "Free, local, and yours. Optional one-time lifetime  Data Backup — export stays on your device."
     }
   ],
   "jsonld": {
@@ -34,7 +34,7 @@
       "Reliable background countdown",
       "Gentle sound, color-pulse, and optional notification alerts",
       "Selectable alert sound and flash color",
-      "Optional $2.99 lifetime local Data Backup export/import"
+      "Optional one-time lifetime  local Data Backup export/import"
     ]
   }
 }

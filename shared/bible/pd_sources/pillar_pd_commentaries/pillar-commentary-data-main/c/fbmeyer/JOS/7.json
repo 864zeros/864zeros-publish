@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The First Defeat and Its Cause -- Joshua 7:1-15\n\nIsrael was taught that victory is possible only where there are exact obedience and sincere consecration. We cannot cope with our foes, unless we live in unclouded fellowship with God. See 2 Chronicles 15:2. Our spiritual allies in the heavenly places cannot co-operate while evil is harbored. Canaan was a gift to faith, and a strong spiritual life was peremptory. The gold and silver of Jericho were consecrated to God, so that Achan committed sacrilege as well as theft.\n\nAi (see Genesis 12:8; Genesis 13:3) lay two miles north of Jericho, and was a comparatively small place; but without God the smallest opposition is too great for us. Joshua seemed more concerned for the disgrace brought on the divine name than for the disaster to his men. Let us always look at our failures from God’s side! We must not lie too long in the dust of despair, but arise to detect and put away the hidden cause of our defeat, Hosea 5:15; Hosea 6:1-2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The Troubler Found and Removed -- Joshua 7:16-26\n\nWhen God deals with sin He traces its genealogy. Twice over we have the list of Achan’s ancestors, Joshua 7:1; Joshua 7:18. To deal with sin thoroughly we need to go back to its sources. See James 1:14-15.\n\nHow Achan’s heart must have stood still as he beheld the closer approach of detection, like the contracting walls of a chamber of horrors. One by one we pass before the eye of Omniscience, as a ship’s company before the quarantine officer. We cannot hide ourselves behind parents, lineage or religious ancestors. Each must give an account of himself, 2 Corinthians 5:10.\n\nAchan’s family had been privy to his crime. It could hardly have been otherwise, since the goods were buried in the common tent. They were probably grown men and women. The notions of justice were stronger and harsher in that day than with us, who have been taught by Christ. When the evil is put away, the door of hope stands wide, Hosea 2:15."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 8
+ }
+}

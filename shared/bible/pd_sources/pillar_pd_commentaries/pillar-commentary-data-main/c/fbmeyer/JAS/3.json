@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JAS",
+  "commentaryId": "fbmeyer",
+  "name": "James",
+  "commonName": "James",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Bridle the Tongue -- James 3:1-12\n\nIt is much easier to teach people what they should be and do than to obey our own precepts. Even the best of us stumble in many respects; but our most frequent failures are in speech. If we could control our tongues, we should be masters of the whole inner economy of our natures. The refusal to express a thought will kill the thought. Let Christ bridle your mouth, and He will be able to turn about your whole body. Let Him have His hand on the tiller of your tongue, and He will guide your life as He desires.\n\nA single spark may burn down a city. The upsetting of an oil lamp in a stable led to the burning of Chicago. Lighted at the flames of hell, the tongue can pass their, vitriol on to earth. Man cannot tame the tongue, but Christ can. He goes straight for the heart, for, as He said long ago, the seat of the mischief is there. See Mark 7:14-15; Psalms 51:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Seek Wisdom from Above -- James 3:13-18\n\nThe true wisdom is not the child of the intellect, but of the heart. It consists not only in what we know, but in what we are. It is in this sense that it is used in the earlier chapters of the book of Proverbs and in Job 28:1-28. Some who profess to be wise are jealous and factious, despising others and confident in their superiority. This spirit and temper are from beneath.\n\nNotice this exquisite string of qualities-like a thread of pearls-that characterize true wisdom: First, pure; then peaceable-this is God’s order, never peace at any price. First the holy heart, then the quiet and gentle one. Mercy and good works follow, “free from favoritism and insincerity” ; and as the peace-loving soul goeth through the world, dropping the seeds of peace, those seeds produce harvests of righteousness. Those that in peace sow peace, shall reap a harvest of righteousness, the fruit of peace. Such a springtime! Such an autumn!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 4
+ }
+}

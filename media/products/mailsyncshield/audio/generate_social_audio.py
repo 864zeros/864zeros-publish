@@ -40,7 +40,7 @@ VARIANTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay 30 or 40 dollars a month just to insert recipient names into an email template?",
+            "text": "Why pay recurring subscription fees every single month just to insert recipient names into an email template?",
             "lead": 0.15,
             "tail": 0.25
         },

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JON",
+  "commentaryId": "fbmeyer",
+  "name": "Jonah",
+  "commonName": "Jonah",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fleeing from God and Duty -- Jonah 1:1-16\n\nJonah is mentioned in 2 Kings 14:25. He was clearly very patriotic, and did not despair of his country in its darkest days. This commission to Nineveh was therefore not to his taste, because he had no desire to see the great heathen city brought to her knees. Another century would have to pass before Isaiah and Micah would proclaim that the heathen world would turn to God, Micah 4:1; Isaiah 2:2.\n\nRather than go upon this errand of mercy, Jonah hurried down to the one seaport, that he might escape his duty. Sin is always a descent; we always have to pay heavily in tolls and fares when we take our own way instead of God’s, and we must never reckon that opportunity implies permission.\n\nWeary with excitement and travel, the prophet is oblivious to the weighing of the anchor. The disasters that block the way of disobedience are harder than our difficulties in performing God’s bidding. Note the divine agency in our lives: the word of the Lord came; the Lord hurled forth a great wind; the Lord prepared a great fish. There were, in these heathen sailors, beautiful traits which ought to have abashed the prophet. Their prayer to their idols and their endeavor to save this stranger Jew are as instructive as remarkable."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "A Prayer from the Depths -- Jonah 1:17; Jonah 2:1-10\n\nThe great fish was probably a shark. He who sent the storm prepared the fish. Life is full of contrivances on the part of the great Lover of men. To plunge beneath the wave is to fall into His arms. More than once the body of a man has been found in the belly of a shark in the Mediterranean. Even those who hold that this story is an elaborate parable must admit that it is probably founded on such a fact. Our Lord’s endorsement of this book and incident is very emphatic, Matthew 12:39-41.\n\nThe psalm which follows is very helpful to those who have brought themselves into the depths by their wrongdoing. God will hear such out of the depths of Sheol. When you think you are cast out of His sight forever, if you will look toward His holy temple, you will find that His love is gradually extricating you from the pit. To trust in your own efforts and expedients is to regard lying vanities and to forsake your own mercy. “Salvation is of the Lord.” All nature waits upon His word. The big sharks and the tiny minnows are alike at the behest of God for the help of man. Only “look again” to God, and then be sure to pay your vows when delivered!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "OBA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 2
+ }
+}

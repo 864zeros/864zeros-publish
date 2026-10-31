@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 79,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Help Us, O God of Our Salvation” -- Psalms 79:1-13\n\nIt was the period of the Chaldean invasion. This cry of horror went forth from the heart of the Chosen People, who had looked upon the sacred shrine as inviolable. They could not believe that the tide of invasion could break in upon Jerusalem, or that the Holy City should be defiled by the profane feet of the heathen. This psalm should be compared with the book of Lamentations. We there find the same horror, the same anguish, the same sense of surprise, the same hatred of the foe, the same cry to God.\n\nDoes it seem as if God were angry with you? Have the heathen forced their way into the inner shrine and city of your heart? Are you brought very low and near unto death? Then begin to inquire whether some sin may not have alienated God from you. Confess it and put it away. Turn to God with a free and glad faith. Ask that His mercies may prevent and His help succor you, for His Name’s sake. The sighing of the captive and the greatness of God power, Psalms 79:11, are in close affinity; and when you are delivered, remember your vows, and show forth His praise to all within your reach."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 79
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 78
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 80
+ }
+}

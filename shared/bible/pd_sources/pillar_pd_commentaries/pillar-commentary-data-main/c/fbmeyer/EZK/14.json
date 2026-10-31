@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "fbmeyer",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "12-23, Reaping as We Sow -- Ezekiel 14:1-6\n\nIt is useless to approach God with prayers and inquiries for guidance, as long as our hearts are filled with secret sins and cherished idols. If we regard iniquity in our hearts God cannot hear us. It often happens when men purpose a certain evil course, that everything seems to favor them. For a striking example of this, see 1 Kings 22:6; 1 Kings 22:15. The second paragraph describes the inveteracy of their sin. Jeremiah had affirmed that Judah’s guilt was too great to be pardoned upon the intercession of Moses or of Samuel, Jeremiah 14:2; Jeremiah 15:1.\n\nEzekiel adds three other revered names. In the four hypothetical cases of famine, noisome beasts, the sword, and pestilence, such men would succeed only in saving their own lives; but even in such cases there would be an elect remnant, who would be comforted as they recognized the evidences of the divine rectitude. Yes, as we look back on the history of our race we shall be comforted; we shall feel that God could have done no other; we shall reap the blessing which has been evolved out of events and movements that we had misunderstood or feared."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 18
+ }
+}

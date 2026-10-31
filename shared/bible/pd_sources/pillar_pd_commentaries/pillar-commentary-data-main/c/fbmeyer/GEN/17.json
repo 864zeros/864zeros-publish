@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Covenant with Abraham -- Genesis 17:1-14\n\nAt least thirteen years had passed since the promise of Isaac was first made. Years of sorrow and discipline, but God had not forgotten. Always under such circumstances the Eternal voice bids us to walk before him and be perfect. Our surrender must be complete, our obedience absolute, our faith fixed steadfastly on the Promiser. So only can God fulfill His covenant, which includes fruitfulness, the salvation of our households, the inheritance and abundance of spiritual reproductiveness. These promises were made to Abram, being yet uncircumcised, when he was yet a Gentile, proving that they were irrespective of any mere Hebrew interpretation.\n\nSee Romans 4:11. But the rite was the sign and seal of the national covenant with the Hebrew race. Spiritually it stands for the separation of the believer; and though the rite passed away with Judaism, its spiritual significance is permanent, see Colossians 2:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Isaac Is Promised -- Genesis 17:15-27\n\nThere are two allusions to laughter in these chapters. Sarah’s was the laugh of incredulity, see Genesis 18:12; but Abraham’s was the laugh of happy confidence, which reckoned on God. As r.v. puts it, he looked his difficulties in the face, and then turned away to the promise of God, and wavered not, but waxed strong, giving glory to God. Ponder Romans 4:20-21. Therefore, he obtained promises for his wife, for Ishmael, and for the coming child, which was to bear the name of Laughter, partly because of that hour, and also because he would bring sunshine into the old man’s life. His heart had entwined about Ishmael.\n\nAs he had watched the masterful and clever youth, he had said to himself, “He will hold the camp together when I am gone.” But the divine covenant could not be with one that had slave-blood in his veins and was not to abide in the house forever. See John 8:35; Galatians 4:22. The covenant is always with Isaac."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 18
+ }
+}

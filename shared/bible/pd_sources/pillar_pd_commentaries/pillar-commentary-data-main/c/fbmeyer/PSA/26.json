@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Declaration of Loyalty to God -- Psalms 26:1-12\n\nIn some respects this psalm resembles the previous one, only, instead of entreaties for forgiveness, there are protestations of innocence. It may have been composed during Absalom’s rebellion, and contains a strenuous protest against the dissembling and hypocrisy upon which that revolt was based. In these avowals of conscious rectitude, it should be borne in mind that David did not mean to claim absolute sinlessness, but rather to declare his innocence of the specific charges with which he had been assailed.\n\nWe all need the laver of purification mentioned in Psalms 26:6-7. Or better, let us repair to our Lord, who still washes the feet of His disciples, as in John 13:1-38. Hatred to evil men is one side of the coin; love to God’s house, the reverse. Either implies the other. However firm our foot seems to stand, we all need the redeeming mercy and grace of God. Ah, the riches of His gentle goodness! Ephesians 2:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 27
+ }
+}

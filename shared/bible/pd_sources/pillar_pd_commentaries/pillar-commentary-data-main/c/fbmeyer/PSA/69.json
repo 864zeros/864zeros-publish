@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 69,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Cry out of Deep Waters -- Psalms 69:1-17\n\nThis psalm and the Psalms 22:1-31 are quoted most often in the New Testament as referring to our Lord. Psalms 69:1-36 is very sad. Throughout we detect a heart-break. There are many grounds on which the sufferer bases his plea for salvation. First, his imminent danger from inrushing waters and the deep mire like that in which Jeremiah sank. There are also failing strength, the dried throat, and the drooping eyes.\n\nMighty foes, too, who hate wrongfully, are plotting his ruin. The consciousness of sin and the dread that others may be made ashamed through his failure, are also bitter ingredients in his cup. And in addition he bore the reproach of those who hated God. What a combination of misery! In some, though not in all, of these sources of grief, our Savior had a share, and therefore He can be a sympathizing High Priest.\n\nBut out of his misery the psalmist builds his altar of prayer. His plea is in God’s loving-kindness and tender mercies. Here is the master-argument with God. He can do no other than redeem the soul that clings to Him with such unfaltering faith. It reminds us of the olden resolve, “Though He slay me, yet will I trust in Him,” Job 13:15, and also recalls the persistence of the Syrophenician woman, Mark 7:26. Such souls need not fear that they can be cast away."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "“Jehovah Heareth the Needy” -- Psalms 69:18-36\n\nIn Psalms 69:19-21 the psalmist again spreads out his griefs before God. He had looked for pity, but his foes only aggravated his sufferings. Both Matthew and John had these verses in mind in describing our Lord’s sufferings on the Cross, Matthew 27:48; John 19:29. The next section, Psalms 69:22-28, is full of imprecations. We cannot bring these terrible words within the scope of our Lord’s teachings. They show, like a pillar which marks the farthest recession of the tide, how great a difference there is between the standard of the Old Testament ethics and that by which we shall be judged.\n\nPsalms 69:29-36 are full of anticipations of deliverance and vows of thanksgiving. The psalmist is sure that God’s salvation will lift him above his enemies, and that his thanks will be sweeter to God than any sacrifice. Notice that sudden address to seekers after God, Psalms 69:32. Let us draw lessons from our own experiences of God that will hearten others. Seekers will certainly be finders where God is concerned! Matthew 7:7. The news of God’s restoring power will circle out in ever-widening waves of glory, till heaven and earth and sea catch up the story and respond."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 69
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 68
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 70
+ }
+}

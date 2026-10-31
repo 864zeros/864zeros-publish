@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Blessing instead of a Curse -- Numbers 22:41; Numbers 23:1-12\n\nNotice the position of these chapters, preceding the awful story of Baal-peor. Presently the Israelites will be perpetrating such terrible sins that it might seem impossible for God to continue to acknowledge them; yet here God stands for them and restrains the spirit of evil. He will take their chastisement, when needed, into his own hands.\n\nWith all his might Balaam strove to earn the royal gifts. Ah, thought he, that I could really feel that I was the organ of the divine malediction! But he could not feel in his heart that God’s spirit was urging him in the direction that Balak wished. The stream of destiny was not running that way. On the contrary, he could forge no weapon against Israel that could prosper, and when he tried to raise his tongue in judgment against the people of God he was condemned. It was as if God said, “Touch not mine anointed.” Psalms 105:15; Isaiah 54:17; Romans 8:31."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "No Enchantment against Israel -- Numbers 23:13-30\n\nBalak was surprised and disappointed. He therefore bethought himself of limiting the seer’s vision, so that he might see an attenuated Israel from a height that commanded only a partial view of the camp. How often we try to see only what we want to see! How often we shut our eyes to a rival’s real merits! Instead of entering into God’s great thoughts we shut ourselves up in a tiny limited world. We will not acknowledge what our pride does not want to acknowledge. We are like children building sand-castles against the tide. You had better bring your mind to harmonize with God’s facts than minimize or evade their truth. You are hurting yourself, but can never alter them. Take God’s way and be at peace!\n\nLet us ponder Numbers 23:21 -it is as we are in God’s purpose; and Numbers 23:23 -when faced by our enemies; and Numbers 23:24 -when most convinced of our helplessness."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 24
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HAB",
+  "commentaryId": "fbmeyer",
+  "name": "Habakkuk",
+  "commonName": "Habakkuk",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Just Shall Live by Faith” -- Habakkuk 2:1-20\n\nHaving prayed, the prophet expected an answer and looked out for it. When it came, there would be no mistaking it. But until we see eye to eye, we must live by simple faith in God. Note that wonderful clause in Habakkuk 2:4, which is referred to so often afterward. See Romans 1:17; Galatians 2:16; Galatians 3:11. Life in this age, as in that, may be obtained and maintained by faith in the ever-living God. Through long waiting-times the only source of continued life is the faith which draws all from God. From Habakkuk 2:5 onwards, the prophet enumerates Babylon’s sins: her pride, love of strong drink, rapacity, and violence. It could not be God’s will that the mighty city should flourish on the anguish of the world.\n\nFrom scenes of anarchy and riot which foretell Chaldea’s doom, we pass into Jehovah’s temple, where peaceful silence reigns! Let us live in that secret place! “The secret of the Lord is with them that fear Him!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 3
+ }
+}

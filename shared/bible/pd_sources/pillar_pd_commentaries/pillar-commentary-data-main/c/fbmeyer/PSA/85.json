@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 85,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Prayer for the Nation -- Psalms 85:1-13\n\nThis psalm is the counterpart of Psa 80:1-19. There we see petitions ascending; here thanksgivings are returned. Evidently there had been granted some great national deliverance, which filled the land with thanksgiving. The restoration of the captives from Babylon was such an event; but the words well befit glad days of revival. They might have been sung on the first Easter day, when mercy and truth met at the Cross, and there was a bridal of the earth and sky. Reversed captivity, forgiven and buried sin, the dark clouds of estrangement dispelled, the speaking of peace-these are great themes and all have their counterparts in Christian experience.\n\nThere is exquisite beauty in Psalms 85:10-11. What a meeting of the divine attributes! The Cross is their trysting-place. It resembles the family-gathering of brothers and sisters in the old homestead. Notice that heaven must combine with earth in the production of Christian grace. Truth can spring up in the soil of our heart only when righteousness looks down with benignant love from heaven. But she does even more-she shows us how to walk in the way of God’s steps."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 85
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 84
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 86
+ }
+}

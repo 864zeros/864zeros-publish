@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Vow of Separation -- Numbers 6:1-12\n\nThe law of the Nazarite is full of instruction, because he is a type of the child of God who is separated from evil, that he may be wholly surrendered and given over to the divine service. Three rules were enjoined. Not to touch any product of the vine. If we must have exhilaration and stimulus, let us seek it in the Holy Spirit, not in worldly excitement, Ephesians 5:18-19. Not to cut the hair. The unshorn locks signified the dedication of the natural powers to God’s service. Let us beware of Delilah. Many are the razors waiting to deprive us of our crown, Judges 16:19. Not to touch the dead, however dear; teaching that the kingdom of God must supersede all earthly ties.\n\nIf our separation breaks down, Numbers 6:9-12, we must seek forgiveness and restoration; but the former days will not count. One sin may mar the power of a whole life of saintly testimony."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Nazarite Offering; the Priestly Blessing -- Numbers 6:13-27\n\nTake heed, O Christian soul, who has dedicated thyself to some lofty purpose, to be warned by the law of the Nazarite! Thy God expects of thee a more careful walk than is required of others. The cups of gaiety of which they drink are not for thee. Shame and contumely may fall to thy lot, from which they escape.\n\nThou art specially to beware against defiling contact with aught that savors of death-those who are dead in trespasses and sins. Go with them only to save them, but never to participate in their ways.\n\nIf the Nazarite vows were vitiated, even by accident, the time that had elapsed was cancelled. Ah, how many of our days we have rendered void! The beautiful benediction with which the chapter closes has its counterpart in 2 Corinthians 13:14. What the human lips spoke on earth, God authenticated from heaven, Numbers 6:27. Be very careful for the honor of the Name! 3 John 1:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 7
+ }
+}

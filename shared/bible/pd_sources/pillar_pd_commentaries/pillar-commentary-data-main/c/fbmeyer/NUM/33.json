@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Itinerary of the Wanderings -- Numbers 33:1-37\n\nThis record of ineffectual marches is full of pathetic interest and warning. If these halting-places had been in the straight line of march for the Land of Promise there had been little room for regret. But they were not. They recall journeys that need never to have been taken. The tribes crossed and re-crossed the desert, marking time while the bodies of the murmurers fell in the Wilderness and were wrapped about with the desert sands.\n\nSuch is the doom of unbelief. To effect nothing, to miss the rest of God, and to perish on the threshold of achievement-such is the experience of the soul described in James 1:6. God has given us in Christ the promise of rest, victory and satisfaction; let us enter upon our inheritance!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "No Compromise with Idolatry -- Numbers 33:38-56\n\nAaron’s death must have been deeply felt by his brother Moses. During the great crisis of Hebrew history they had been so closely associated that the wrench must have been very considerable. In addition, there was the recollection of the sin which had excluded the two brothers from Canaan. In the Epistle to the Hebrews the death of Aaron is recorded to set forth the eternal priesthood of Christ, Hebrews 7:17. Our High Priest has no successor; His office cannot be passed to another. It is not after Aaron, but Melchizedek.\n\nThe last paragraph, Numbers 33:50-56, is especially impressive. There must be no complicity with evil; for if there be, it will eat out the very heart of our character and happiness. It is much better to root out evil with a strong hand than to suffer it in any form, for, like the boomerang of the savage, our sinful permissions will come back on ourselves."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 34
+ }
+}

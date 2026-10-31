@@ -1,0 +1,55 @@
+{
+  "variant": "speed",
+  "total_duration": 20.184,
+  "soundtrackWav": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\soundtrack_speed.wav",
+  "scenes": [
+    {
+      "id": "speed_scene1_hook",
+      "stepLabel": "0-2s Problem Hook",
+      "caption": "Dragging songs into playlists one by one?",
+      "text": "Dragging songs into playlists one by one?",
+      "duration": 2.404014,
+      "durationMs": 2404,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\speed_scene1_hook.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\speed_scene1_hook_raw.mp3",
+      "start": 0.0,
+      "end": 2.404
+    },
+    {
+      "id": "speed_scene2_payoff",
+      "stepLabel": "2-5s Immediate Visual UI Payoff",
+      "caption": "Watch AutoOrganize sort hundreds of Liked Songs into genre playlists in seconds.",
+      "text": "Watch AutoOrganize sort hundreds of Liked Songs into genre playlists in seconds.",
+      "duration": 4.62,
+      "durationMs": 4620,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\speed_scene2_payoff.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\speed_scene2_payoff_raw.mp3",
+      "start": 2.404,
+      "end": 7.024
+    },
+    {
+      "id": "speed_scene3_walkthrough",
+      "stepLabel": "5-15s Quick Setup Walkthrough",
+      "caption": "Check the genres you want, merge similar styles together, and create clean playlists in your account with one click.",
+      "text": "Check the genres you want, merge similar styles together, and create clean playlists in your account with one click.",
+      "duration": 6.492018,
+      "durationMs": 6492,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\speed_scene3_walkthrough.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\speed_scene3_walkthrough_raw.mp3",
+      "start": 7.024,
+      "end": 13.516
+    },
+    {
+      "id": "speed_scene4_cta",
+      "stepLabel": "15-21s Pricing Advantage & CTA",
+      "caption": "No monthly rent, one-time unlock. Test the live sandbox free at eight sixty-four zeros dot com.",
+      "text": "No monthly rent, one-time unlock. Test the live sandbox free at eight sixty-four zeros dot com.",
+      "duration": 6.668005,
+      "durationMs": 6668,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\speed_scene4_cta.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\speed_scene4_cta_raw.mp3",
+      "start": 13.516,
+      "end": 20.184
+    }
+  ]
+}

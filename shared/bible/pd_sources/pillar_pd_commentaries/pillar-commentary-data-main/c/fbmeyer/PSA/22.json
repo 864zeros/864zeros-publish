@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Cry of the Forsaken -- Psalms 22:1-15\n\nThe Hebrew inscription of this exquisite ode is, “The hind of the morning.” The hind is the emblem of loveliness; see Son 2:7; Son 2:9. The cruel persecutors are designated as bulls, lions, and dogs. Perhaps the allusion to the morning refers to the daybreak of resurrection-hope.\n\nOf course our blessed Lord is in every syllable. Indeed, the psalm reads more as history than as prophecy. The divine Sufferer seems to have recited it to Himself when on the Cross; for it begins with “My God, my God,” etc., and ends, according to some, with a word in the Hebrew, meaning “It is finished.” The psalm is indeed a photograph of Calvary, a memorial of the heartbreak of Jesus.\n\nSometimes to the soul in agony God seems not to hear; but through those hours of darkness the Easter day is hastening to break in resplendent glory. He will not suffer His holy one to see corruption, Psalms 16:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The Testimony of the Delivered -- Psalms 22:16-31\n\nIn the middle of Psa 22:21 there is a remarkable change from the plaintive to the triumphant: supplication and entreaty break out into exultation; hope saves the broken harp from the hands of despair, restrings it, and extracts from it strains to which angels, on their way home to God, are constrained to listen.\n\nHe who had said, Thou hearest not, Psalms 22:2, confesses that all the while God has been hearing and helping. Now Jesus will join the saints in psalms of praise. See John 17:26 (will make it known) and Hebrews 2:12. Man may abhor a worm, but God uses worms to thresh mountains, Isaiah 41:14-15.\n\nIn the closing verses there is a sure forecast of the effects of the death on the Cross not only upon the Jews, but also upon the ends of the earth, that is, the Gentiles. The usurper shall be dethroned, Psalms 22:28; resurrection shall be accomplished, Psalms 22:29; and a spiritual seed shall satisfy the Redeemer’s travail, Psalms 22:30."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 23
+ }
+}

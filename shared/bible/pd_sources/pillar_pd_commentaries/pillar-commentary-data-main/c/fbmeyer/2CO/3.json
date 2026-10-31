@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Savor of the Knowledge of Christ -- 2 Corinthians 2:12-17; 2 Corinthians 3:1-6\n\nPaul, in 2 Corinthians 2:14-16, imagines himself as part of his Master’s procession passing through the world. First he is a captive in Christ’s conquering train; then he is one of the incense-bearers, scattering fragrant perfume; then he conceives of his life as being in itself that perfume. As the captives in a triumphal procession would be divided into two bodies, of which one company was doomed to die while the other was spared, so inevitably all who come in contact with Christ, either directly in the preaching of the gospel or indirectly in the lives of His people, are influenced either for evil or for good.\n\nThe Apostle fancies himself challenged to furnish letters of commendation and he repudiates the claim. “No,” he cries, “the lives and testimonies of those whom I have won for God, are all the credentials that I require!” Every Christian should be a clearly written and legible tractlet, circulating for the glory of God. Men will not read the evidences for Christianity as contained in learned treatises, but they are keen to read us. God alone can suffice us to sustain this searching scrutiny."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The Veil upon the Heart -- 2 Corinthians 3:7-18\n\nBy a quick turn of thought, Paul passes from the idea of the fleshly tablets of the heart, where God writes His new name, to the Law graven on the ancient tables of stone, and to the Lawgiver, stern and veiled. He argues that if the glory which shone on the face of Moses was so beautiful, surely that of the gospel must be transcendently so. The one is transient, the other abiding; the one is reflected, the other direct.\n\nNot only was Moses veiled, but the hearts of the Jews were covered with a thick covering of prejudice. They did not understand the inner significance of the Levitical Code; and when the Law was read, they listened to it without spiritual insight. Directly men turn to Christ, they see the inner meaning of Scripture. What liberty becomes ours when we live in Christ! We are free to love, to serve, to know, and to be. Note 2 Corinthians 3:18! We may gaze on the unveiled face of God in Christ. The more we look the more we resemble. The more we endeavor to reflect Him, in doing what He desires, the more certainly and inevitably we become like Him. Only remember that in all things we are deeply indebted to the gracious influence of the Spirit. He produces the Christ-life in us."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 4
+ }
+}

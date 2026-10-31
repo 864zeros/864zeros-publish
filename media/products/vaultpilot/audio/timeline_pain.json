@@ -1,0 +1,55 @@
+{
+  "variant": "pain",
+  "total_duration": 20.928,
+  "soundtrackWav": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\soundtrack_pain.wav",
+  "scenes": [
+    {
+      "id": "pain_scene1_hook",
+      "stepLabel": "0-2s Problem Hook",
+      "caption": "Broken tables when clipping to Obsidian?",
+      "text": "Broken tables when clipping to Obsidian?",
+      "duration": 2.236009,
+      "durationMs": 2236,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\pain_scene1_hook.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\pain_scene1_hook_raw.mp3",
+      "start": 0.0,
+      "end": 2.236
+    },
+    {
+      "id": "pain_scene2_payoff",
+      "stepLabel": "2-5s Immediate Visual UI Payoff",
+      "caption": "Watch this: highlight any section, click once, and clean Markdown lands in your vault.",
+      "text": "Watch this: highlight any section, click once, and clean Markdown lands in your vault.",
+      "duration": 5.052018,
+      "durationMs": 5052,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\pain_scene2_payoff.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\pain_scene2_payoff_raw.mp3",
+      "start": 2.236,
+      "end": 7.288
+    },
+    {
+      "id": "pain_scene3_walkthrough",
+      "stepLabel": "5-15s Quick Setup Walkthrough",
+      "caption": "VaultPilot keeps every table, code block, and tag intact right inside your browser\u2014with zero cloud middleman.",
+      "text": "VaultPilot keeps every table, code block, and tag intact right inside your browser\u2014with zero cloud middleman.",
+      "duration": 6.78,
+      "durationMs": 6780,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\pain_scene3_walkthrough.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\pain_scene3_walkthrough_raw.mp3",
+      "start": 7.288,
+      "end": 14.068
+    },
+    {
+      "id": "pain_scene4_cta",
+      "stepLabel": "15-21s Pricing Advantage & CTA",
+      "caption": "No monthly rent, one-time unlock. Try it free on Chrome, Edge, or eight sixty-four zeros dot com.",
+      "text": "No monthly rent, one-time unlock. Try it free on Chrome, Edge, or eight sixty-four zeros dot com.",
+      "duration": 6.86,
+      "durationMs": 6860,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\pain_scene4_cta.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\pain_scene4_cta_raw.mp3",
+      "start": 14.068,
+      "end": 20.928
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "40-45, the Lord’s Promises Fulfilled -- Joshua 21:1-3\n\nAfter the cities of refuge had been provided, those to be set apart for priests and Levites were next allotted, Numbers 35:1-8. Forty-two cities were set apart in addition to the six cities of refuge. The priests and the Levites were not the sole possessors of those towns, but dwelled in them, receiving freely their dwellings and pasture-lands. The closing verses represent the position of affairs at Joshua’s death. So far as God’s promises went, there had been no failure. The chronicler repeatedly affirms that. It is right to distinguish, says Calvin, between the clear, certain and unwavering fidelity of God, and the weakness and the indolence of His people, which cause God’s gifts to slip from their hands.\n\nAt the end of life, when we review it from our last halting-place, we shall accept as absolutely true the conclusion of Jos 21:45, and much more; but alas, for our failures to use His gifts to the full!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 22
+ }
+}

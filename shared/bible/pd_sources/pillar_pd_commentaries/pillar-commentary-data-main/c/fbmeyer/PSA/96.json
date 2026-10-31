@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 96,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Lord Reigneth” -- Psalms 96:1-13\n\nThis psalm is found also in 1 Chronicles 16:1-43. Note the thrice-repeated command, Sing, sing, sing, Psalms 96:1-2; the corresponding, thrice-repeated, Give, give, give, Psalms 96:7-8; the triple call for joy from heaven, sea, and land, Psalms 96:11-12. It is good to read these psalms; they impart the burning devotion of these olden saints. They break on our lethargy as the bugle-call on the sleeping soldier. Notice that we call men to a Jubilate, not a Miserere, when we invite them to come home to God.\n\nWhat a stately procession escorts the King to the throne of the world! He comes to reign in equity. Righteousness and truth which had fled the world return with Him. Honor and majesty are His avant-couriers. Strength and beauty stand in His court-circle. When we are brought into the divine Kingdom, and are at one with God, we detect the unison of nature in her song of praise. The seas provide the bass; the quivering leaves, the song of buds, the hum of insect life provide the tenors and altos; while the stars in their courses sing the treble. To the anointed ear, the new song has already begun."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 96
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 95
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 97
+ }
+}

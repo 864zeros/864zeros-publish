@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 62,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Land of Beulah -- Isaiah 62:1-12\n\nThe Intercessor, Isaiah 62:1-4. Messiah is speaking here. Throughout the ages, He ever lives to make intercession. He asks that His Church may be one, that the heathen may be given Him for His inheritance, and that Israel may be restored. It is the cry of the unresting Savior. When Jesus pleads for thee, poor soul, thou canst not be desolate and forsaken. God loves, though all hate; God delights, though all abhor; God remains, though all forsake.\n\nIntercessors, Isaiah 62:5-7. The Great High-Priest calls us to be priests. The unresting Lord calls on us not to rest. He says, “Watch with me.” He gives us rest from sin and sorrow, that we may not rest from prayer. We must take no rest and give God no rest. We are to become God’s “remembrancers,” Isaiah 62:6, r.v.\n\nThe divine answer, Isaiah 62:8-12. To the prophet’s mind the prayer is already answered as soon as spoken. Already the highway must be prepared for the return of the exiles. So to us, who have lain among the ashes, salvation comes apace. Make ready to trail thy Deliverer! Then learn to become the salt and benediction of others!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 62
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 61
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 63
+ }
+}

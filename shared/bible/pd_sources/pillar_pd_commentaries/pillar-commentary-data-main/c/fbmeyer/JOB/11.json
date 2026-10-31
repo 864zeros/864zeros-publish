@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Canst Thou by Searching Find out God?” -- Job 11:1-20\n\nZophar waxes vehement as he censures Job’s self-justification and his refusal to acknowledge the guilt which his friends attribute to him. There is some truth in his allegations, though it was cruel to goad Job with them, notwithstanding his repeated protestations.\n\nIt is quite true that many of us are filled with self-complacency, because we judge our best by others’ worst. It may be also that we have a very poor conception of what God is and asks. It is best for us to strike our breasts with the publican and to confess ourselves the chief of sinners.\n\nWhat a magnificent challenge is that of Job 11:7-12! Canst thou reach God’s depths, or His perfections, or His heights? But, oh my soul, remember that through all His unsearchable depths God is love. For the closing paragraph see r.v. Job had said he could not lift up his face, Job 10:15, but when sin is put away, we may exchange glances with our Father."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 12
+ }
+}

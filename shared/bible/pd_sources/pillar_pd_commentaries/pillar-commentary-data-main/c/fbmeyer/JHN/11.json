@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus Faces Death for His Friend -- John 11:1-16\n\nSickness enters homes even where God is honored and loved. It is permitted because it affords an opportunity and platform for His delivering help. We should see to it that the Son of God is glorified in our physical weakness, either because of our patience and fortitude, which are ministered by His Spirit, or by the deliverances which He grants. See 2 Corinthians 12:1-9.\n\nThere is a special emphasis on therefore in John 11:6. Christ lingered because He loved. He allowed the worse to go to the worst, that the sisters (and the world through them) might receive a testimony to His saving power, which could be obtained at no less cost than their brother’s death, John 11:9. As long as the heart is bathed in the light of God’s presence and is conscious of living on His plan, it cannot be mistaken in its decisions and it will not stumble. Our Lord knew that He must go to Bethany, and that He would be safe, because the hour of night had not arrived.\n\nSince Jesus came to us, death has become a mere shadow of its former self and is to be dreaded no more than sleep. Had the Lord been beside His dying friend, He could not have forborne the entreaty of the sisters, but now there was room for a faith-compelling miracle on His part."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Jesus the Resurrection and the Life -- John 11:17-27\n\nHis step may linger, but Jesus comes at length. While He seems to tarry, He knows each sigh, pang, and tear that escapes from the sufferer and His friends; and when He arrives He does more than we asked or thought. He raises not the sick, but the dead. He makes the darkness of the tomb the background to set forth the resurrection glory. He turns tears into jewels, as the sun does with dewdrops. In after days the three would not have wished it otherwise.\n\nThey would review it all, as we shall our life from the hilltops of heavenly glory, with the cry of “Amen, Hallelujah.” Amen, the reverent assent of the will. Hallelujah, the glad ascription of praise, John 11:25. If we die before His second advent, we shall still live; if we live to see it, we shall be changed in a moment into His likeness.\n\nNote that majestic consciousness of I AM, John 11:25. None ever spoke like this. It is the crown of the eight I AMs of this Gospel. He is unchangeably the same. All who have lived are living still in Him. When you stand by the grave where your cherished hopes lie buried, still dare to affirm that He is the Christ, the expression of the love of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "The Sympathy of Jesus -- John 11:28-35\n\nIt is not to be wondered at that the sisters and their friends wept as they stood beside the grave; but why did Jesus weep? He knew what He had come to do. He had come for the express purpose of turning their tears into joy. He wept for human frailty-that man’s life is an handbreadth and his years as a tale that is told. He wept in sympathy with human sorrow, because He realized that the scene in which He was taking part was a sample of myriads more. He groaned, as in John 11:33, r.v., as He beheld the evidences of death’s grim power.\n\nDeath had entered the world with man’s sin, and Jesus felt the wrongfulness of Satan’s usurpation. The anarchy that had invaded human life stirred His soul to its lowest depths. The wrong under which man bled wrought in Him an anger which was without sin. He still stands among our groups of mourners, touched with the feeling of their sorrow, but they are not tears of weak sentiment, but of a noble pathos that hastens to help with a divine sufficiency. It has also been suggested that Jesus wept because He was calling a soul back from the land of glory to sojourn once more in the garments of mortality."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Victory over Death -- John 11:36-44\n\nThe Lord had been praying about this matter before He came to the grave: “Father, I thank thee that thou hast heard me.” Notice that past tense. Perhaps He had done so when He first received the news of Lazarus’ sickness. He had prayed and had received the assurance that His prayer was answered. When He started back across the Jordan, it was with the full assurance that Lazarus would be raised to life.\n\nHe was conscious, also, of a life of unceasing prayer. There was unbroken and constant co-operation between Him and the Father. He always did the things that pleased God and God was always answering Him. This, also, might be our constant experience.\n\nChrist made this prayer that those who stood around, as they saw the effect of prayer, should understand that prayer alone can work great miracles, which become the credentials of Christ, and of all who love and obey Him. His people similarity can do great miracles, as missionaries, Christian workers, and philanthropists."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 45,
+    "content": [
+     {
+      "text": "The Innocent for the Guilty -- John 11:45-57\n\nThe friends of the family who had come to lament with them, were disposed toward Jesus and believed; but the mere spectators hastened with the news, to inflame the hatred of the Pharisees. The Romans dreaded the power acquired by permanent office, and often exchanged one high priest for another. Hence the expression, being high priest that year. By his vote Caiaphas may be said to have appointed and sacrificed his victim, who in that memorable year was to bring in everlasting righteousness, and to cause the sacrifice and oblation to cease. See Daniel 9:24; Daniel 9:27.\n\nCaiaphas professed to fear that Jesus would presently gain such an ascendency over the people as to lead a revolt against Rome, which would cause a deluge of blood in which the whole nation would perish. Therefore he recommended that they should compass the death of Jesus. But, as the evangelist puts it, he spoke more widely and truly than he knew, because the death of Jesus is gathering into one the children of God who are scattered abroad-that is, the heathen who were living up to their light, as in John 10:16 -that of the twain He might make one new man."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 12
+ }
+}

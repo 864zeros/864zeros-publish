@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Beginning a Missionary Campaign -- Acts 13:1-12\n\nThis is one of the greatest chapters in the New Testament, making a new departure in the ministry of the gospel, which henceforth begins to pass out to the uttermost part of the earth, Acts 1:8. It is likely that the mother church at Jerusalem was too conservative to lend herself to the pressure of the Holy Spirit, urging to world-wide evangelization, and that he had to employ the more mobile church at Antioch, which was more susceptible to the passion for humanity, since it stood out on the edge of the great heathen world, like a lighthouse on the shore of a desolate sea.\n\nThis momentous prayer meeting had apparently been convened to discover the Lord’s will as to further developments. As the names indicate, it was composed largely of Hebrew Christians. Note that the Holy Spirit speaks with authority as Christ’s Vicegerent, Acts 2:33. Modern missions are His work and He selects His own agents. We should ever seek to co-operate with Him in discovering and setting apart chosen men and women for His work."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Savior according to Promise -- Acts 13:13-24\n\nIt was very natural that the missionary party should sail for Cyprus, partly because it was the first and nearest outpost of the great heathen world that lay to the west, and partly because Barnabas was a native of the island and had owned land there, which he had sold for the benefit of his poorer brethren in the church, Acts 4:36.\n\nIn visiting a new city, it was the custom of the Apostles to go first to the Jewish synagogue, where such was to be found. “To the Jew first, and also to the Gentile,” was the divine order, Romans 2:10. The journey from Cyprus to the mainland was easily made; but the journey up to this inland city of Antioch was very perilous, 2 Corinthians 11:26.\n\nActs 13:16 gives us the Apostle’s favorite attitude, Acts 21:40; Acts 26:1. Ye that fear God, referred to the Gentile proselytes. This first address contained the seed-thoughts of the Apostle’s ministry. He loved to show that the gospel was the white flower that grew on the ancient stock of Judaism. Whatever his starting point, he was sure to come, by a direct path, to Jesus Christ. Observe throughout how Paul attributes all of the great events and movements of history to the direction and agency of God. God chose the fathers; God gave Saul; God brought unto Israel a Savior."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Condemned by Men but Raised by God -- Acts 13:25-37\n\nFor Paul the Resurrection was always the keystone of faith. He had taken particular care to assure himself of the reality of that foundation fact. In 1 Corinthians 15:1-58 he sets forth at length the testimony culminating in his own experience, on which he rested his belief. He had been allowed to see that blessed One and hear the word from His mouth. He quotes Psalms 2:7, Isaiah 55:3, and Psalms 16:10. He makes unexpected use of the first of these quotations, teaching that it was fulfilled in the Resurrection.\n\nThis sheds new light on death. It is not death but birth; not an ending but a beginning. Our Lord was the first-born from the dead. We say that a saint has died; angels say that he has been born.Notice that great word about David, Acts 13:36. He served God’s counsel, or purpose, in his own generation. That should be the supreme objective of our lives.\n\nNot to get on, or to make money, or to please ourselves, but to serve the will of God who sent us forth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Jews Reject, Gentiles Accept, the Gospel -- Acts 13:38-52\n\nThe doctrine of justification by faith, so closely associated with the work of Paul, is here stated for the first time. In Jesus there is forgiveness. For those who trust in Him past sins are absolutely put away, never to be named again, never to be brought up at any future judgment day. Our record is as clear as the sand which has been swept smooth by the ocean waves. We are not only forgiven, but justified. We are treated as though we had never sinned, and are justified from all things. It is a present fact. You may not feel justified or forgiven, but if you are trusting in Jesus, you are at this moment as certainly and as fully justified as have been the saints in heaven.\n\nPride, as well as jealousy of the Gentiles who were crowding into the fold, stirred the Jews to antagonism, but they could not eradicate the seed which had been so profusely scattered. Large numbers believed, and as they experienced salvation in Christ, they discovered that they were in line with an eternal purpose. This is the meaning of ordained in Acts 13:48. If with such slight opportunities, the disciples were filled with joy and the Holy Spirit, Acts 13:52, should we not possess the same experience?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 14
+ }
+}

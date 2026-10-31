@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Song of the Good Shepherd -- Psalms 23:1-6\n\nA sabbatic rest breathes through this psalm, the children’s favorite; while the oldest and holiest confess that it touches an experience which still lies before them. Here is no strife, no fear, no denunciation, and no self-vindication.\n\nJehovah is represented as the Shepherd, the Guide, and the Host of His people. We are taught to think less of our attitude toward Him and more of His responsibility for us. The flock does not keep the shepherd, but the shepherd keeps the flock. Look away from yourself and trust Him with all, in all, and for all.\n\nLet God see to your wants. You need nothing outside of Him. His pastures are “tender grass;” His waters, “waters of rest.” He refreshes us when exhausted; heals when diseased; restores from wandering; leads in right paths, though steep; accompanies us into the valley with club for our foes and crook for the pits; spreads our table amid hatred; and protects our rear with the twin-angels, goodness and mercy!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 24
+ }
+}

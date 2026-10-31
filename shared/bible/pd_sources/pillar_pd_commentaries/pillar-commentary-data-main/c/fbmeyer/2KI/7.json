@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Windows in Heaven” -- 2 Kings 7:1-11\n\nThere is a sore famine just now over the whole world-a famine of God’s Word. For some years the Church has felt its growing severity, but there are two classes within her borders: they who believe that God can open the windows of heaven, and pour down such a blessing that there will not be room to receive it, Malachi 3:10; and those who, like the unbelieving courtier, jeer at the hope of the saints. Let us answer the skeptic’s “Can God?” by the positive achievements of faith.\n\nWhen God sends blessings to His people, He rarely takes methods that we might expect. Rather, He chooses the weak and foolish things, yea, those that are not, to confound those that are, so as to prevent flesh from glorying in His presence. Whenever, in the first glint of the morning light, you discover the divine answer to your prayers, in all its plenteous abundance, do not keep the good news to yourself lest punishment overtake you, but be sure to bear the glad tidings to others. When it is a day of good tidings, be sure to act upon them, in faith and patience, counting it a sin to hold your peace."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Prophet’s Word Fulfilled -- 2 Kings 7:12-20\n\nThe lepers were first in the deserted camp. The abundance was awaiting the starving populace, but only a few outcasts tasted it. So Christ’s wealth and unsearchable riches are for all, but often the outcasts gathered by the Salvation Army know more about them than the children of the church. The cottager who early opens his window for his sick child, knows more of the summer morning, than does the millionaire who sleeps within curtained windows. But be sure you tell out what you know, else you sin against God and man. There is enough for all. To scatter is to increase.\n\nThough this plenty had been predicted, it seemed too good to be believed. Send out your scouts, O Church of God! As the result of our Lord’s victory at Calvary, the roads-north, south, east, and west-have been trodden by your fleeing foes, and are strewn, with spoil. But beware lest, in the day of the Lord’s deliverance, you see with your eyes but are unable, through unbelief, to partake, Luke 13:28. Man’s unbelief cannot hinder God’s purpose, but it excludes the unbeliever, who perishes amid abundance."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 8
+ }
+}

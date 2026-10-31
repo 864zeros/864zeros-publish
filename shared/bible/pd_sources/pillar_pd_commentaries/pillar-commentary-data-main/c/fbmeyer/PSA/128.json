@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 128,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“It Shall Be Well with Thee” -- Psalms 128:1-6\n\nThis psalm is the portrait of a godly man and his home in the best days of the Hebrew commonwealth. The husband and father, Psalms 128:1-2. He is reverent and devout. Peace is on his face; he is happy in himself and in his home; respected among his fellows; and garners at the end the results of his work. The wife and house-mother, Psalms 128:3. She is like the vine surrounding the inner court of an oriental house, yielding shade and refreshment. The children, Psalms 128:3. The olive is the symbol of enduring prosperity and joy. The young plants will presently be bedded out to become trees of mature growth.\n\nForebodings Past deliverances, Psalms 129:1-4. Israel’s youth was spent in Egypt. See Hosea 2:15; Hosea 11:1; Jeremiah 2:6. As the plow tears up the soil, so the lash cuts their quivering flesh. But in such furrows God sows the seed of a blessed “afterward.” When our case is desperate, God cuts the oxen’s binding cords, the plow stands still, and the bitter pain ceases. Forebodings and predictions, Psalms 129:5-8. Withered grass, unmourned, fit only for fuel. Such is the fate of those who oppress God’s people. The reference is to the scant blades which grow on the flat roof of an Eastern house. The usual benediction on the reaper’s toil will never extend to those withered blades."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 128
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 127
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 129
+ }
+}

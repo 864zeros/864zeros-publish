@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob Sent Away from Home -- Genesis 27:46; Genesis 28:1-9\n\nEsau deferred the execution of his murderous purpose, because of the near approach, as he supposed, of his father’s death. But Isaac lived for forty years after this. His secret purpose, however, became known to Rebekah. See Proverbs 29:11. The ostensible reason for Jacob’s expatriation which Rebekah gave her husband was not the real one. He was sent to Haran, not primarily for a wife, but to escape his brother.\n\nDoes not this constant duplicity explain the reason of Rebekah’s heart-weariness? It seems probable that she never saw her favorite son again. The benediction already pronounced on Jacob was repeated with greater amplitude and tenderness as he left his father’s tent. Sad as he was in the inevitable wrench, the star of hope shone in the sky, beckoning him onward. It was necessary that he should be taken from under his mother’s influence into that greater world, where, through pain and disappointment, he should become a prince with God. Often our nest is broken up that we may learn to fly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Jacob’s Vision at Bethel -- Genesis 28:10-22\n\nThis is the Ladder chapter, in which a wayward, weak man is seen holding fellowship with the Eternal God, who loves us, notwithstanding our unworthiness, and desire to lead us into a life of power and blessedness. It is all wonderful! Notice the four Beholds! Genesis 28:12-15. Sunset. Overtaken on a moor by the swift fall of the Oriental night, Jacob had no alternative than to sleep in the open.\n\nBut he slept to see! Night. There is an open way between heaven and earth for each of us. The movement of the tide and circulation of the blood are not more regular than the inter-communication between heaven and earth. Jacob may have thought that God was local: now he found Him to be omnipresent. Every lonely spot was His house, filled with angels.\n\nMorning. Worship, consecration, the vows of God. Put down thy foot on God’s promises. He will do more than He has said. Thou shalt come to thy Father’s house in peace."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 29
+ }
+}

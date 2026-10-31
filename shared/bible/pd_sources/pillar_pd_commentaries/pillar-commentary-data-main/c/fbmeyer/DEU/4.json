@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Take Heed to Thyself” -- Deuteronomy 3:23-29; Deuteronomy 4:1-14\n\nStrong faith was required by the two and a half tribes to leave their wives and children while they went to succor their brethren. But God’s commands and assurances foreclosed all arguments. Whenever we are summoned to special service, we may consign the care of our personal interests to God. Seek first the kingdom, and all other things will be added.\n\nNotice that Moses referred to the wondrous acts of the Exodus as only the beginning of God’s wondrous works, Deuteronomy 3:24. Probably in the countless ages of eternity we shall always feel that we are witnessing only the beginning of God’s self-revelation.\n\nMoses, like Paul afterward, tried to reverse the divine decision. Compare Deuteronomy 3:23-25 and 2 Corinthians 12:8-9. Do not pray against God’s will, but with it, 1 John 5:14. When God says No, there are always tender compensations, such as this Pisgah-vision.\n\nIsrael’s tenure of Canaan depended on obedience to God’s will, in statutes, including the ordinances of religion, and in judgments relating to civil matters."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Jehovah “a Jealous God” -- Deuteronomy 4:15-31\n\nHow often Moses repeats, “take heed.” We must watch as well as pray and keep our souls diligently. We must specially beware of idols-that is, any visible thing which takes the place of the unseen and eternal, veiling it from our view. The soul must learn to lean on the everlasting arm.\n\nHow true that description of the iron furnace! The metaphor is derived from the process of smelting metal. We have had our Egypts, where by trials the real ore of character was disintegrated from its rocky matrix. But though God may remove us from outward affliction, He is Himself the furnace of purification, by His Spirit and Word, and in the secrets of our hearts, Deuteronomy 4:24. But His fire burns our bonds, while our heads are unsinged, Daniel 3:25.\n\nIf these words meet the eyes of any who are among the scattered and vanished ones, let them seek God again, and they shall certainly find Him; for He is merciful, He will not fail nor destroy, nor forget the olden Covenant, Deuteronomy 4:30-31."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "Israel’s Peculiar Privileges -- Deuteronomy 4:32-49\n\nEvery argument that love and wisdom, the great past and the miracles of the Exodus could suggest, was brought to bear on the hearts of the chosen people, fortifying them against the temptations to backsliding. They were bidden to ask from ancient history and from one end of heaven to another, if any such wonders had ever been known in the history of the nations. But it must be sorrowfully confessed that memory and wonder are not enough to permanently fortify the heart against the insidious entrance of evil. Only the Holy Spirit can do that, Romans 8:1-4; Galatians 5:16.\n\nSo eager is the divine heart that none should perish but that all should come to repentance, that guide-posts to refuge are carefully multiplied. Here again their names and locations are specified, lest any should not have met with former notifications, Numbers 35:6; Numbers 35:14; 2 Peter 3:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 5
+ }
+}

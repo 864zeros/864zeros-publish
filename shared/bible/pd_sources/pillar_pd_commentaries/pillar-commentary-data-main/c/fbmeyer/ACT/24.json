@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Truth against Slander -- Acts 24:1-16\n\nPaul was always on the lookout for the one ray of light in murky skies. He found a reason for counting himself happy in this dark hour, Acts 24:10. He held himself with great dignity. He remembered that he was always God’s ambassador, representing the court of heaven amid the perverse courts of human government. As for the charge of sedition, he challenged his adversaries to prove it. He pointed out that as the nation was already divided into Pharisees and Sadducees, they could hardly find fault with him for belonging to a third sect-that of the Nazarenes.\n\nAfter the way which they called a sect, Acts 24:14, r.v., he worshipped God, but he had never stirred up strife in temple or synagogue. He protested that it had been the aim of his life to keep a conscience void of offense toward God and man.\n\nIn Acts 23:1 he had made a similar statement. Well would it be for us if only we would devote a few minutes at the close of each day to discover whether our conscience accused us of failure in heart, thought, or behavior. The Holy Spirit pleads in the court of conscience. We would be kept from many a fall, if we would be more careful to watch against the little rifts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "A Trembling but Venal Judge -- Acts 24:17-27\n\nThe case had broken down. Paul’s statement of faith and the absence of confirmatory evidence directly contradicted the only charge against him. Felix dared not hand over Paul as guilty, and he was equally unwilling to offend the high priest’s party; so he postponed his decision. In the meantime Paul’s custody was not to be severe. His friends might freely see him, and the long hours were doubtless lightened by visits from Luke and Aristarchus, Philip the evangelist, and other members of the local Christian community.\n\nAt first the governor was prepossessed in Paul’s favor. He had some intimate knowledge concerning the tenets of the early Church, Acts 24:22. He had studied it as an intellectual system, and was interested to have opportunity for conversation with its foremost exponent. But his illicit union with Drusilla, whose husband was living, and his hope to receive a bribe from Paul’s friends, made him obtuse and dead to the claims of Christ. Paul, on the other hand, seemed oblivious to any thought of himself or of his dependence on the governor’s whim, and used his one opportunity in seeking the salvation of this weak and sordid soul. It was in vain. Felix was anchored to a mudbank and would not avail himself of the rising tides of life about him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 25
+ }
+}

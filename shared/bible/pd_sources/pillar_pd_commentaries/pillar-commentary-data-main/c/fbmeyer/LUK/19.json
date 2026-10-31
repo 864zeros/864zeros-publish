@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Sinner and His Guest -- Luke 19:1-10\n\nFor long, we may suppose, the better things had been striving against the worse in this man’s character. John the Baptist had wielded great influence over Zaccheus’ class and perhaps over himself. Zaccheus was a dissatisfied man. His dishonest acquisitions added to his wealth but subtracted from his peace of mind. He knew that the least he could do would be to repay those whom he had robbed. But his soul required more, and longed for salvation, such as only Jesus Christ could give.\n\nThe Lord knew this, and therefore halted beneath the tree and invited Himself as a guest to the publican’s home. The one man in all Jericho who most needed the Savior was discovered by Him and saved. The grace of God is ever in search of those who have gone as far as their light will carry them.\n\nWhat a blessing it is that the Lord is willing to be our guest! See that He is welcomed to the guestroom of your heart. Stand to serve Him. He brings salvation for you and yours."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Doing Business for God -- Luke 19:11-27\n\nIn many respects this parable differs from that of the ten talents. In that, the servants are entrusted with different amounts; in this, the same amount is allotted to each. Obviously, the former deals with our powers and opportunities for service, which greatly differ; whereas the latter deals with those ordinary gifts which are common to all, and especially with the gift of salvation. All have the opportunity of using and enjoying the same bestowment of life which is in Jesus Christ for those who believe, Jude 1:3.\n\nSome make the greatest possible use of “our common salvation.” They increase its blessings by much prayer and faith and experience. They speak of it to others and spread the knowledge of the heights and depths of God’s love. The more they do this, the more it grows on them. Others pass through life without realizing or enjoying Christ’s gift of eternal life. They hope that they may be saved; but they have no deep experimental knowledge of His love. These are they who misuse their pound! What a contrast between such and Paul or Luther or Wesley!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "The Welcome of the King -- Luke 19:28-40\n\nThis humble triumph is a further revelation of our Lord’s character. The lowliness of it, which exposed Him to the sneers and ridicule of scribe and Pharisee, greatly pleased the simple folk from Galilee, who recognized Him as their own, and were proud to identify themselves with Him. See Matthew 21:11. It is thus that Jesus pursues His way through the ages; the princes of this world know Him not, but His character is appreciated and His claims are recognized by babes, Matthew 11:25; 1 Corinthians 2:8. Are you in the Master’s procession?\n\nJesus’ royalty is not of this world. It is based on character. It is ignored by the proud, but welcomed by the poor. It is fairest to those whose eyes are anointed to penetrate the veil and discern the eternal realities, and of their enthusiasm, praise to God is the irresistible expression. Note that their song is an echo of Luk 2:14. Oh, to glorify God to the highest degree!\n\nThe Lord’s need is the master-motive. We can hold nothing back from His request, whether child, or money, or life. Let these words ring in our hearts: The Lord hath need."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "The Doom of the Royal City -- Luke 19:41-48\n\nOur Lord loved the city of His race; and when it finally rejected His appeals, He knew that nothing could avert its downfall. Hence His tears! Each nation, city and individual has one day which is the crisis of existence. We cross the equator without knowing it. There is one hour in each God-forsaken life when, as in the Temple before its fall, watchers hear the words, “Let us depart,” and there is the rustle of wings! Notice that God visits us in mercy before He comes to us in wrath.\n\nIt was a startling act when Christ cleansed the Temple for the second time, John 2:13, etc. If there had been daily papers in those days, they would have chronicled it in great headlines. Extraordinary that this meek and lowly man should break out so vehemently! But His zeal for God’s house sustained and bore Him along. Let us ask Him to cleanse the temple of our heart.\n\nThese priests and scribes had vested interests to conserve, which blinded them to the beauty and glory of Christ. If we place a coin, however valueless, against the eye, it will blind us to the sun."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 20
+ }
+}

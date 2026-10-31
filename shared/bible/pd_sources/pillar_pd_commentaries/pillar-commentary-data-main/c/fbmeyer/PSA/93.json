@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 93,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord Who Ruleth over All -- Psalms 93:1-5; Psalms 94:1-5\n\nIt is thought that these two psalms date from the Assyrian invasion in Hezekiah’s time, and that the psalmist compares the strength of Sennacherib and his hosts to the mighty breakers of the sea. But they well befit all times of anxiety and opposition. It is interesting to remember, also, that these and the six psalms which follow have always been applied by the Jews to the days of the Messiah. Surely, then, we may apply them to our own time.\n\nIt is an infinite comfort to know that above and beyond all that distresses and hinders the Church or our individual lives, there exists the great fact of our Lord’s sovereignty. This encourages us in conflict and makes us steadfast and unmovable. We can almost hear the dash of successive breakers with foam and fury around the throne of God, which, however, stands without a tremor. The miracle of Jesus in quieting the storm has a symbolic and far-reaching meaning. He is in our hearts, in the world, and in His Church, as it is tossed on the surface of the storm-swept water-“and Jesus rules the waves.” He must vindicate the law of righteousness and save His people."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 93
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 92
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 94
+ }
+}

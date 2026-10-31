@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Counsels of Experience. -- Proverbs 3:27-35; Proverbs 4:1-9\n\nHere are many duties! Be generous! Of course we must discriminate-to whom it is due; and we must be prudent-when it is in the power of thine hand, Proverbs 3:27. Moreover, be prompt, Proverbs 3:28. Don’t stir up strife or take a mean advantage, Proverbs 3:29-30. In the presence of the prosperity of the violent and evil man, repress envy and recall Psalms 37:1-40.\n\nThe word translated secret in Proverbs 3:32 should be rendered “friendship.” See Psalms 25:14. Remember that Jesus calls us into this sacred inner circle, John 15:15. Count on God blessing your home-life, Proverbs 3:33. Be lowly and claim your great inheritance, Proverbs 3:34-35. See Matthew 5:3.\n\nWe are next admitted into an ancient Hebrew home, Proverbs 4:1-9. We can hear the old patriarch advising his son, with deep and fond anxiety, that he should make the best of his life. What a difference would come over the land if fathers spoke more often like this! But to speak thus needs a background of noble living."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Guide-Posts on the Way of Life -- Proverbs 4:10-27\n\nOne or two sentences stand out in this section, demanding special attention. The path of the just, etc., Proverbs 4:18. We may compare this beautiful similitude with 2 Samuel 23:4. In the East, where the heavens are for the most part free of cloud, the steadily increasing light of any day to perfect noontide glory is the ordinary experience. Let us so live that the path of our life may become ever more radiant and beneficent in its heat and light.\n\nKeep thy heart, etc., Proverbs 4:23. “Above all keeping,” margin. The gates of the heart need careful scrutiny. When we are careless, thoughts creep in with malign intent. We should imitate the good Nehemiah 13:19. Ask that pure and holy angels may stand sentry as at the gates of pearl, Revelation 21:12. If you think right, you will live right.\n\nPonder the path, etc., Proverbs 4:26. “Weigh carefully.” Act in haste and repent at leisure! Ask God to keep you back from presumptuous sins; and bear in mind the wise exhortation of Ecc 5:2."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 5
+ }
+}

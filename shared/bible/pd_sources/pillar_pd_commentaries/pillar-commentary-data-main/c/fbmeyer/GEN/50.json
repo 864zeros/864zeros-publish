@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 50,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob’s Last Directions and Death -- Genesis 49:28-33; Genesis 50:1-3\n\nJacob gave a final charge as to his burial in Machpelah-that his dust at least should be there to welcome his children and children’s children, when they came thither in due course, as God had promised. Then the weary pilgrim gathered up those tired feet, which had paced out their last mile, into the bed, and gave up his spirit to God. When we are told that he was gathered to his people it must mean more than that his dust mingled with their dust in the place of burial. There are great gatherings of loving friends awaiting us on the other side. See Hebrews 11:40. At the ladder-scene in Bethel, God had told him that He would not leave him till He had done what He promised, and surely not one good thing had failed.\n\nLife may be hard and sad, but God will end it rightly. Be of good cheer and trust!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "Jacob Mourned and Buried -- Genesis 50:4-14\n\nThe days of mourning for Jacob were only two less in number than for a king. Three hundred miles were traversed by that splendid funeral cavalcade, which included not only the family of Israel, but the magnates of Egypt. The words, beyond Jordan (Genesis 50:10), indicate that this book was finished on the further side of Jordan, where Moses afterward died.\n\nThe evident grief with which the precious remains were laid beside the great dead, reminds us that when God wills to do honor to any servant of His, He can secure it in remarkable ways-and ways which are entirely independent of human methods and reasoning. “Precious in the sight of the Lord is the death of His saints.” At birth He cared for your helpless body; when you die He will see to its sepulcher. The bones of the saints hold the earth for the ultimate reign of Christ!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Joseph Loves until His Death -- Genesis 50:15-26\n\nThe fear of Joseph’s brethren illustrates the insecurity of a position which is conceded only at the bidding of the tender caprice of love, apart from satisfaction based on satisfied justice. As Joseph had pardoned, so he might retract his pardon. No satisfaction, beyond tears, had been rendered for that faraway sin. Might he not even now require it! So fears might legitimately arise in our own hearts, had not the divine forgiveness been based on the finished work of the Cross!\n\nHow significant that sentence: “God meant it for good!” There are meanings in life. Things do not happen by chance, and what happens is meant for good. All things work together for good for them that love God. Ninety-three years had passed since he was lifted from the pit; sixty since he buried his father. Finally Joseph’s end came. His bones were not buried, but awaited the summons for the Exodus. That coffin seemed to be the end of all. Nay! it was the seed of the coming harvest.For Review Questions on Sections on Genesis see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 50
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 49
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 1
+ }
+}

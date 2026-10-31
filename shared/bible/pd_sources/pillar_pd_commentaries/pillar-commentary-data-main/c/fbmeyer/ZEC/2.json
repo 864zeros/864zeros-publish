@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "fbmeyer",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Redemption of Jerusalem -- Zechariah 1:18-21; Zechariah 2:1-13\n\nThe work of Temple-building had ceased for fifteen years and the new resolve to arise and build might meet with a similar fate. But the four horns met with four carpenters. For Babylon the carpenter was Cyrus; for Persia, Alexander the Great; for Greece, the Roman; for Rome, the Gaul. No weapon that is formed to thwart God’s purposes can prosper. The young man with the measuring line embodied the new spirit animating the returned exiles. But God was intending to give more prosperity and increase than could be contained in walls."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Two Contrasted Invitations -- Proverbs 9:1-18\n\nThere is an age-long competition between Wisdom and Folly, Virtue and Vice. The palace of Wisdom is very attractive-well built and well furnished. It is reared upon seven well-hewn marble pillars, in a quadrangular form, the entrance being left wide-open. An eternal mansion, it is stable and beautiful. Great preparations are made for the feast, which is open to all-in striking contrast to the private supper to which Vice allures the unwary youth. The beautiful owner also sends forth her maidens into the public thoroughfares to give free invitations to all who will accept them. See Matthew 22:1, etc.\n\nOnly to the simple or child-hearted, and not to the scorner, is the invitation addressed. Wisdom lets the scorner pass, because a word to him would only recoil on herself, and would add to his wickedness. To scoff at things which are holy and scorn the divine power is to risk the sin that is never forgiven. Such is the man who enters the feast without the wedding garment."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 10
+ }
+}

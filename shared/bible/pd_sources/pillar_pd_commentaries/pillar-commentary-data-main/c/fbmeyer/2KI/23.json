@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Hearkening to the Message -- 2 Kings 22:14-20; 2 Kings 23:1-4\n\nJosiah’s fears were deeply stirred by the evils which the Law of the Lord clearly indicated as imminent, and he immediately sent for advice to the prophetess Huldah, who was held in great veneration. Her answer was full of gentle kindness. Though the king’s punishment could not be averted, it should nevertheless be postponed. How quick is God to notice the tears of genuine contrition and to meet the soul that seeks to do His will! If only the whole nation had been equally repentant, its fate would have doubtless been altered.\n\nIt is remarkable, however, that even in Josiah’s case the prediction of the prophetess was not realized. He died in battle, and his dead body was brought to Jerusalem amid mourning that became proverbial, 2 Kings 23:30; Zechariah 12:2. Why this apparent breach of promise? The answer is suggested by our Lord’s temptation. He refused to make bread of stones, because of His absolute faith in God, and when Satan tempted him still further to manifest that faith by casting Himself from the beetling Temple crag, he again refused because such an act was not in the scope of the Father’s plan. On the other hand, Josiah, disregarding all counsels to the contrary, needlessly flung himself into the fray between Egypt and Babylon and there lost his life. “Thou shalt not tempt the Lord thy God!”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Destroying Inducements to Evil -- 2 Kings 23:5-14\n\nEncouraged by the prophets Zephaniah, Urijah, and perhaps Jeremiah, Josiah set himself to the work of thorough reform, in which he endeavored to carry his people. The various items mentioned here prove how deeply the heart of the nation had become corrupted. In the very Temple itself were altars and vessels for the unholy rites of Baal and Ashtaroth. Multitudes of black-hooded priests filled the streets. At the Temple gates were the horses and chariots of the sun-worship. Around the hills glittered idol shrines. These were all swept away.\n\nIn all our lives there are times when we should carefully examine ourselves-not by our own conceptions of what may be right or wrong, nor by the conventional standards which are accepted by our neighbors, but by the high and holy standards of the New Testament-the example and precepts of our Lord. We are too prone to suit our conceptions of what He requires to the fancies or choices of our own desires, instead of testing ourselves by “the pattern given in the Mount.” If hand or foot or eye cause us to offend, we must show ourselves no mercy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Proving His Whole-Heartedness -- 2 Kings 23:15-25\n\nJosiah carried his drastic reforms even to Samaria, thus fulfilling a prophecy uttered 350 years before. See 1 Kings 13:2-3. The old leaven having now been cleared out, the Passover could be celebrated. We cannot keep the feast of joy and worship till the work of self-purgation has been undertaken. See 1 Corinthians 5:7. In that great feast some of the ten tribes also joined. There was therefore an affirmation of the spiritual unity of the entire nation, though, like the professing Church of today, it was outwardly in fragments. We must never let go of our belief in the Holy Universal Church, however distracted and divided to outward seeming it may be.\n\nThough these reforms were carried through by the king’s strong hand, the generality of the nation remained idolatrous and corrupt, and yielded a feigned rather than a felt repentance. See Jeremiah 3:10; Jeremiah 4:3-4; Jeremiah 4:14; Jeremiah 5:1-3, etc. Therefore judgment could not be averted. External reformation is not enough to secure the permanence of national life. We must rend our hearts rather than our garments, Joe 2:13. There is a sorrow that needs not to be repented of, and a sorrow which “worketh death,” 2 Corinthians 7:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "In the Hands of Heathen foes -- 2 Kings 23:26-37\n\nJosiah’s life ended in terrible disaster. He persisted in measuring himself in battle against the king of Egypt in a quarrel which was none of his, and thus met his death. The events of this paragraph are fully narrated in 2 Chronicles 35:1-27, and are corroborated by the Greek historian, Herodotus, and by the sculptures on this Pharaoh’s tomb. The story of Jehoiakim should also be studied in the pages of Jeremiah- Jeremiah 22:1-30; Jeremiah 26:1-24; Jeremiah 36:1-32 -which cast a flood of light on these last days, when the sands in the time-glass of repentance were running out.\n\nIt is extraordinary that, notwithstanding the earnest expostulations of Jeremiah and others, and the awful example furnished by the fate of the ten tribes, the kings of Judah and their people should be so persistent in wrong-doing. But their hearts were fully set upon evil. In our own time the history of the drink traffic furnishes a parallel. Its evils stand confessed, as they touch individuals and nations, and yet neither individuals nor nations seem able to cast off the coils of this serpent. The Hebrew race had to pass through terrible fixes to become fitted for their mission to the world, and surely the present anguish of conflict is our parallel!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 24
+ }
+}

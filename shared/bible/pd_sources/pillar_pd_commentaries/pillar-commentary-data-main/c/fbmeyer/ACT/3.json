@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Uplifting Power -- Acts 3:1-10\n\nPeter and John differed greatly, in age, in gift, and in point of view. They had been rivals; now they walked together. It was at three in the afternoon that this incident took place. As they climbed the Temple steps, they must have spoken of the many times that the Master had walked at their side. But they realized, too, that He was still as near as ever; and so they became the means of linking this withered man to His glorious health-giving power. It was because Jesus went with them that the healed man was able to become the fourth of the group.\n\nThe gate was beautiful, but it could not heal. More is needed than beauty or art. We may have neither the silver of profound intellect, nor the golden speech of Chrysostom, but we must see that we have something to give to a paralyzed and perishing world. Let us so move among men as to lead them to expect that we have something to give, and then give them Jesus. The lame man needed strength, and this is the divine gift of the gospel. “It is the power of God unto salvation.” The Savior makes us able to walk and leap in God’s ways."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Searching Words -- Acts 3:11-26\n\nPeter’s sermon was delivered in the eastern colonnade of the Temple. It derived its name probably from the fact that Solomon’s Porch had originally occupied that site. The Apostle argued that the gospel which was given them to proclaim was only the flower of the revelations which had been given them through the prophets. How vast the change wrought in this man by the strength and illumination imparted to him at Pentecost! Why should we not seek to be similarly infilled!\n\nHow humble-not by their power! How daring-God had glorified Him whom they slew! What glorious conceptions of Christ-Prince of Life, holy and righteous! What pity for the ignorance of the Jews! The times of refreshing which are to come on this distracted world depend on the repentance and restoration of Israel. The Jew has the first offer of the gospel, as the child of the covenant; but its wide provisions lie open to us all, who by faith have become heirs of the promises made to Abraham. Christ begins His work of benediction for the soul by turning it away from iniquity. “Turn us, O Lord, and we shall be turned!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 4
+ }
+}

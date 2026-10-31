@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 104,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord’s Wondrous Handiwork -- Psalms 104:1-12\n\nThe opening verses of this psalm appear to describe in sublime poetry the creation of the world. God is very great, because He created the heavens and the earth. He is clothed with honor and majesty, and yet He stooped to brood over the chaos and darkness which preceded the order and beauty of our earth. When He said, “Let there be light,” He robed Himself in its texture. The firmament of Gen 1:8 was the curtain of his tent. The clouds above and the seas beneath yielded his chariot and hid for Him the joists of His palace. See Genesis 1:9-10. Compare Psalms 103:4 and Hebrews 1:7.\n\nThe psalmist in Psalms 104:6 seems to see the process which is described briefly and graphically in Genesis 1:10. The waters had covered the world with their storm and welter; but at God’s command they poured down the mountain slopes to the ocean bed, there to be retained by banks of sand. What exquisite thoughtfulness is disclosed in God’s provision of the springs! He thinks for the wild asses and the fowls, and how much more will He care for you, O ye of little faith!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "A Habitation for Beast and Man -- Psalms 104:13-23\n\nWhere there is true love for God, there will be a glad and rejoicing heart that takes pleasure in the study of His works. The loving child of a great artist lingers about his studio, watches with eager interest the development of picture or statue, and speaks with delight to others of her father’s work. It is in such a spirit that those who know God in daily fellowship and communion follow the psalmist to mountain streams, to the pastures and the meadows, the grain-fields and the orchards, the high mountains with their dark pines and firs.\n\nThere is no pen that has more eloquently portrayed these scenes than Ruskin’s. He had a natural love for beauty, and an unrivaled genius for vivid description; but it was as a boy at his mother’s knee that he learned from these Scriptures to connect the glories of the natural world with the devout adoration of the Creator. His books reflect this early training.\n\nThis psalm may be called a divine commentary on God’s earliest book-the world which lies around us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "The Almighty’s Open Hand -- Psalms 104:24-35\n\nThe psalmist says nothing of the operation of the great laws of nature, but passes behind and beyond to the Great Hand which opens to fill and satisfy all living things with good. The personality of God is the moving force behind the thin veil of outward appearance. This is in striking contrast with much of the thinking and speaking of the present day, which practically exclude the Creator from his own creation. But there is no real opposition between the two conceptions. Natural law is only another way of stating the usual method of God’s working. There is no variableness in Him, nor shadow cast by turning; and it is because we can count on His unaltering methods that human life can develop regularly and successfully.\n\nWhile all creation waits on the opening of God’s hand, man alone can adore Him. We stand in the midst of creation as its high priest and interpreter. We can say to God what nature longs to express but cannot. Amid the beauty and magnificence of natural scenery, let us sing the “Te Deum;” and let us believe that He who rejoices in His works comes very near us in our joy, which proves that our nature and His are closely akin."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 104
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 103
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 105
+ }
+}

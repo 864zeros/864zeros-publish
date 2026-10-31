@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Power over Unclean Spirits -- Mark 5:1-20\n\nThis poor victim of a dark tyrant power was endowed with superhuman strength, and scorned restraint. Terrible to others, he endured untold misery himself, and sought relief in tears and self-inflicted torture. The evil spirit who inflicted torment was also in dread of torment from the gentle Savior, as one whose eyes are inflamed dreads the light. What an admixture of man and demons-he answered, We are many! And how malignant! The demons dread disembodiment and prefer a swine’s body to none.\n\nMany in our midst are held by a similar diabolic power, against which, because they yielded at first by imperceptible degrees, they now struggle in vain. Yet for such there is absolute deliverance in Christ. The emblem of a sinner, a very Samson in evil-doing, this man gives encouragement to all those who are driven to evil by demon power.\n\nDistinguish between the sinner and the evil spirits that have control of him, and do their will. The demon that torments a man loves mischief, and would rather destroy swine than be idle. It was not Christ who destroyed these animals, but the spirit of evil. Hast thou been redeemed? Go forth and win others for thy Lord. Tell them what he has done for thee!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Hope for the Hopeless -- Mark 5:21-43\n\nWe turn from the demon-driven man to this woman, weakened by long disease. For the one there was the outward manifestation of evil, but for the other inward wasting and decay. Let those who are conscious of the ravages of evil in their hearts, destroying their strength, establish connection with Christ as slight as the finger’s touch of the garment hem, and forthwith His virtue will enter and stay their inward malady. His power is ever going forth, and faith receives as much as it desires. The reservoir of power is always full, but how few, how very few, have learned the secret of tapping it!\n\nCrowds throng Him, but only one touches. Proximity to Christ does not necessarily imply the appropriation of Christ. But where there is the faintest touch of faith, there is an instantaneous, may we not say, automatic, response. There may be great weakness, the fingers may be too nerveless to grasp, they can only touch; but the slightest degree of faith saves, because it is the channel by which Christ enters, Mark 5:34. Even children are liable to the havoc caused by sin, Mark 5:35-43. Death has passed on all, and from the universal blight even the little ones cannot find immunity. But again we turn to the Master of life, whose touch is as gentle as a woman’s and whose voice can penetrate the recesses of the unseen."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 6
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Beast and His Worshipers -- Revelation 13:1-18\n\nThe horns symbolize power; the heads, intelligence; and the beast, an earthly kingdom. The dragon must stand for Satan, who has wrought his greatest achievements through earthly potentates and systems. It is through the world-power that the spleen and hatred of hell have been vented on the saints. What a comfort to know that the duration of such power is limited to 42 symbolic months, that is, 1,260 days (or years). If you are enduring hatred and persecution, be of good cheer, for your name is written in the Lamb’s book of life, Revelation 13:8. This may well compensate us amid the most violent opposition.\n\nThe beast arising from the earth, Revelation 13:11-18, may represent the persecutions of papal Rome as contrasted with those of pagan Rome in the previous verses. Or this symbol may represent some of those modern devices by which men’s hearts are turned from God, such as the new semi-religious schools of thought that strive for the empire of men’s minds, or the customs of modern trade, Revelation 13:17. Be these as they may, the one outstanding lesson for us all is that the child of God is always in collision with the spirit of His age."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 14
+ }
+}

@@ -50,7 +50,7 @@ SCRIPTS = {
         },
         {
             "id": "price_scene3_cta",
-            "text": "A one-time nine ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+            "text": "a single one-time unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
             "lead": 0.15,
             "tail": 0.5
         }

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "fbmeyer",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "United Prayer for Guidance -- Ezra 8:1-23\n\nThe number of men who accompanied Ezra amounted to 1754, but the women and children would bring up the gross total to about 7000. The lack of Levites was very serious. These should have been among the very first. A deputation was therefore sent to a neighboring seminary or college, where they were being trained, and here again is the mention of the good hand of God. Sometimes hearts are ready and waiting for service, which need just a word or appeal to complete their plans. There is always special interest in this paragraph for those who are venturing forth on the untried and unknown.\n\nThe camp at Ahava; the sending for the priests; the waiting for their coming; the recognition of God’s good hand in sending a man of discretion; and then the fast and prayer for protection. We can almost see the little band on the point of plunging into the inhospitable and dangerous desert, spending hours in prayer, and restrained from requesting an escort, lest they might invalidate their leader’s trustful boast. How careful we should be to do nothing inconsistent with the proud position that faith gives us in the keeping power of God! Seek Him, O soul of mine, and He will be found, and His hand shall be upon thee for good."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Thanksgiving for Safety and Success -- Ezra 8:24-36\n\nInto our hands also is committed first the rich treasure and solemn trust of our own souls, and next the great deposit of the gospel; 1 Timothy 1:11; 1 Timothy 6:20. In order to fulfil this sacred charge there must be purity, “Ye are holy;” and sleepless vigilance, “Watch ye.” There were ambushes and designs on their safety, but the foe was unable to break through the divine environment, Ezra 8:31. How safe are we who live in God! What joy as the little band weighed the vessels, and rendered up their charge, Luke 19:16. Is not this a picture of our entrance into heaven, when we also shall acknowledge the good hand of the Lord, and sacrifice our burnt offerings of thanksgiving? This incident is no exception.\n\nSimilar care will be surely and blessedly experienced by all those who trust under the shadow of God’s wing. It is credibly affirmed that, in the American Civil War, none of the Quakers, who of course were non-resisters, suffered any damage from the troops of either side. “The angel of the Lord encampeth round about them that fear Him, and delivereth them.” Let those who fast and pray for God’s help be sure to return Him thanks when it has been given."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 9
+ }
+}

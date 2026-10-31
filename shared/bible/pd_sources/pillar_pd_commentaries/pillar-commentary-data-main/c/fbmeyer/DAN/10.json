@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Vision by the River -- Daniel 10:1-21\n\nThis chapter gives a glimpse into the great conflict which is always in progress between heaven and hell. For three weeks the radiant Being who came to Daniel as he prayed and fasted by the great river, was withstood by the mighty fallen spirit, who was concerned with the destinies of the kingdom of Persia; and it was only when he was succored and reinforced that he was able to accomplish the divine errand, Daniel 10:13. What a revelation is here-that probably each heathen country is ruled by some wicked spirit in the high places; that the fight is at times almost overpowering even for bright unfallen angels; and that the blessings which are ours are sometimes delayed because of the storms that sweep the ocean through which they come. Perhaps by our prayer we are able to throw an ounce-weight into the scale, and turn the battle. How reassuring the touch of that hand and tender the address of that voice. Who cannot be strong when strengthened by the right hand of God?\n\nGo forth into the fight of another day! God holds thy right hand. Be true and strong; thou canst not fail!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 11
+ }
+}

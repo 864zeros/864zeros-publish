@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joshua’s Farewell Address -- Joshua 23:1-16\n\nJoshua’s anxiety for the welfare of his people after his death has New Testament parallels. See Acts 20:29; 2 Peter 1:13-15; and especially John 13:1-38; John 14:1-31; John 15:1-27. As always, he lays stress on what the Lord had done, Joshua 23:3; Joshua 23:5; Joshua 23:9. Not one ray of glory is stolen for himself.\n\nHe argues for their steadfastness on three grounds: There are the promises of Jos 23:5; the threatenings of Jos 23:11-13; the exhortations of Jos 23:14-16. Our failure to drive out the foes of our heart is due to our failure to follow the Lord. A lack of whole-hearted surrender lies at the root of all failure. Cleaving to the Lord is the Old Testament way of saying “abide in Christ,” John 15:1-27.\n\nIn contrast to man’s inconstancy and infidelity, notice the sublime testimony to God’s faithfulness. “Not one thing hath failed,” Joshua 23:14. When at last we review our life, we, too, shall be able to say as much, if only by His grace we are kept faithful and obedient. We cannot keep the old Covenant, but the new stands forever, Jeremiah 31:31."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 24
+ }
+}

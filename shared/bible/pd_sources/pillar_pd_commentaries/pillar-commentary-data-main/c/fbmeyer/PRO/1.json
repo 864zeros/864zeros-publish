@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Beginning of Knowledge” -- Proverbs 1:1-19\n\nNotice the perfect balance of each clause, and the duplication of the one thought in the two clauses of each verse.\n\nWisdom as used in this book is more than intellectual learning or cleverness. It represents a moral quality, the result of a pure and a true life. We are conscious that many simple-minded people, who have little enough book-learning, are remarkable for sagacious advice, insight into character, the wise reading of events, an intuitive knowledge-all based on the fear of God. The headlines of Scotch copy-books used to be taken from this book. Certain it is that the young who ponder and practice these maxims can hardly fail of a successful career."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The Call of Wisdom -- Proverbs 1:20-33\n\nThe word Wisdom and the description of her standing atthe head of the noisy streets-see Proverbs 1:21, r.v., margin-remind us of our Lord, who, as the Word of God, stood and cried, John 7:37. It is a remarkable picture of the world as it is today. The streets filled with traffickers, with the bawling of wares, with the crowds of idle sightseers, and amid it all the ringing appeal of Christ to the heart of man! But the scorners deride and mock, while fools hate the speaker and threaten his life. Yet there is no crowded thoroughfare in the world from which the Spirit of God is absent. See Matthew 22:1-10.\n\nThe two results that divide the hearers are set forth in words that are always receiving verification. The day of calamity, when banks suspend payment, and the boldest speculators lose heart, breaks suddenly on the worldling. He has no hiding-place, no second line of defense, no spiritual treasure; and is like a drowning sailor in a tempestuous sea. But “Wisdom is justified of all her children,” for they dwell safely. See Proverbs 1:33 and Luke 7:35."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 150
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 2
+ }
+}

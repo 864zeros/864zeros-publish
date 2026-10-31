@@ -102,7 +102,12 @@
       "applications": "shared/bible/genesis_applications.json — 20 Genesis 1-10 real-world behavioral principles",
       "study_lessons": "shared/bible/bible_study_lessons.json — 66 books, 660 actionable life lessons with book overviews & theological themes",
       "study_docs": "shared/bible/BIBLE_STUDY_LESSONS.md",
-      "summary": "66 books. Record: { book, chapter, citation, text, plain } — text = verbatim PD scripture, plain = original 864zeros 2026 rendering. KJV (NT + most OT), WEB rendered 'the Lord' (Psalms & Proverbs). Plus real-world application layer (genesis_applications.json) and complete 66-book study lesson sets (bible_study_lessons.json). No review gates."
+      "questions": "shared/bible/bible_questions.json — 66 books, 762 self-contained translation-agnostic comprehension, Trivial Pursuit & Geography cards (254 Easy, 254 Medium, 254 Hard; including 90 coordinate-tagged GEOGRAPHY_AND_PLACES cards)",
+      "questions_docs": "shared/bible/BIBLE_QUESTIONS.md",
+      "questions_viewer": "shared/bible/bible_questions_viewer.html",
+      "fhg_visual_spec_registry": "shared/bible/FHG_VISUAL_SPEC_REGISTRY.json — Canonical FHG Visual Spec Mapping Registry (`fhg_sketch_spec` locked at G2+S2 for nature/objects; `fhg_sketch_people_spec` locked at G2+S3 for human silhouettes seen from the back; plus trivia, journal, color, watercolor, acrylic, and charcoal templates + bottom-right canonical signature @ 0.942w, 0.971h)",
+      "fhg_visual_sample_25": "shared/bible/bible_visual_sample_25.json — 25 sampled Bible verses using the Lean On-Device Schema (`visual_prompt`, `spec_id`, `humanizer`: G2+S2/G2+S3, `image_file`) + 11 locked rendered sketches in shared/bible/sketches/",
+      "summary": "66 books. Record: { book, chapter, citation, text, plain, visual_prompt?, spec_id?, humanizer?, image_file? } — text = verbatim PD scripture, plain = original 864zeros 2026 rendering. KJV (NT + most OT), WEB rendered 'the Lord' (Psalms & Proverbs). Plus real-world application layer (genesis_applications.json), complete 66-book study lesson sets (bible_study_lessons.json), 66-book Question Engine trivia/comprehension deck (bible_questions.json), and FHG Visual Spec Registry (`FHG_VISUAL_SPEC_REGISTRY.json`). No review gates."
     },
     "apps/clearstreak": {
       "kind": "app",

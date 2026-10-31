@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Lights in God’s House; Clean Workmen -- Numbers 8:1-13\n\nIt is strange to come on this paragraph about the candlestick amid the preparations for leaving Sinai. But typically it is appropriate, because the people of God are called, in their earthly pilgrimage, to shine as lights in the world.\n\nThe beaten work of gold is significant of persecution, and the one lump of gold indicates the essential unity of the Church. The Levites were symbolically cleansed by the water and the razor. This was required for those who were sprung from a stock so cruel, Genesis 49:7.\n\nNext they were offered to God, i.e., Israel transferred to them the obligations of ministry, which up to this time had been performed by the firstborn. As the priest was wont to wave a portion of the sacrifice before God, so Aaron, Numbers 8:11. The counterpart of this is Acts 13:3. Missionaries, teachers and others who perform certain functions for us all, may be regarded as wave-offerings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Consecrated to God’s Service -- Numbers 8:14-26\n\nThe Levites may be taken to represent the Church as distinguished from the rest of mankind, or the little band of pastors, teachers, and missionaries, set apart for the service of the Church. In any case, they needed to be perpetually reminded that sin mingled with the holiest ceremonial, and required the perpetual cleansing of sacrifice. After our holiest services we need to remember that we are unprofitable servants.\n\nFrom thirty to fifty is the prime of human life. There is no inconsistency between Numbers 4:3; Numbers 4:23 here, because a five years novitiate was required. When we can no longer bear the strain of mind and body, we may still keep the holy charge and minister before the altar of incense, Numbers 8:25-26. So it was with Zacharias in Luke 1:7; Luke 1:9. We can intercede as long as we live, and our maintenance will only cease with our lifework."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 9
+ }
+}

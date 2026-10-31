@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joab’s Plea for the Fugitive -- 2 Samuel 14:1-17\n\nJoab had ends of his own to serve in securing the return of Absalom. Were the two sworn together to hatch a great plot? Or was Absalom shrewdly using Joab to advance his own selfish interests? David hesitated. If he recalled Absalom without punishment, the foundations of law and order would be shaken throughout the kingdom. Joab saw that in some way he must satisfy this natural conflict in the royal mind; and it was for this purpose that he summoned from Tekoa, a village twelve miles south of Jerusalem, this woman of unusual intelligence. By an apt parable she showed that on occasions even murder might be condoned.\n\nIn her discourse she dropped the golden sentence that even God devises means that His banished be not expelled. Yes, God has devised means, but how much they cost! In David’s case there was no attempt to meet the demands of a broken law, but God’s means include this. In the person of the Son of His love, He has satisfied the demands of law and honored them by Jesus’ obedience unto the death of the Cross! He is just and the Justifier! Righteousness and peace kissed each other at the cross of Jesus. See Psalms 85:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Restored Though Unrepentant -- 2 Samuel 14:18-33\n\nJoab knew perfectly that David was well pleased to recall Absalom, in response, as it appeared, to the request of the most powerful of his subjects. But Joab was equally satisfied that Absalom was now in a position to execute plans for personal advancement. His refusal to meet Absalom was perhaps only a blind. David, at least, was bitterly to rue his weakness in restoring his wayward son without the latter’s penitence.\n\nAbsalom’s behavior was based in the extreme. Beauty of body and deformity of soul often coexist in the same individual. A flower-covered grave may hide gross corruption. See in his case an illustration of what would happen if sin could be forgiven apart from repentance and regeneration. Justification without sanctification would turn heaven into hell. There must be deep soul-work, if we are to come forth into the light of the love of God. The barley-field, set on fire to bring about this meeting between Absalom and Joab, suggests how often God has to fire our choice possessions, that, as the flame flares up to heaven, we may be induced to seek the presence of Him whom we have deeply wronged."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 15
+ }
+}

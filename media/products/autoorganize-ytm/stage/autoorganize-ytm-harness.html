@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AutoOrganize — YouTube Music Genre Organizer · Zero-Iframe Live-UI Browser Sandbox</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; user-select: none; }
+  body {
+    width: 1920px; height: 1080px; overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0f172a; color: #f8fafc; display: flex; flex-direction: column; position: relative;
+  }
+  .browser-bar {
+    height: 64px; background: #1e293b; border-bottom: 1px solid #334155;
+    display: flex; align-items: center; justify-content: space-between; padding: 0 28px;
+  }
+  .url-pill {
+    background: #0f172a; border: 1px solid #475569; border-radius: 999px;
+    padding: 8px 24px; font-family: Consolas, monospace; font-size: 15px; color: #94a3b8; width: 720px;
+  }
+  .status-pill {
+    background: rgba(16,185,129,0.16); border: 1px solid #10b981; color: #6ee7b7;
+    padding: 7px 18px; border-radius: 999px; font-size: 14px; font-weight: 800;
+  }
+  .workspace { flex: 1; display: grid; grid-template-columns: 1fr 480px; overflow: hidden; }
+  .host-pane { padding: 36px 44px; background: #0b1120; overflow: hidden; display: flex; flex-direction: column; gap: 20px; }
+  .sidepanel-pane {
+    background: #1e293b; border-left: 2px solid #38bdf8; padding: 28px;
+    display: flex; flex-direction: column; gap: 18px; box-shadow: -12px 0 40px rgba(0,0,0,0.45);
+  }
+  .sp-header { display: flex; align-items: center; gap: 14px; border-bottom: 1px solid #334155; padding-bottom: 16px; }
+  .sp-header img { width: 44px; height: 44px; border-radius: 10px; background: #fff; padding: 4px; }
+  .sp-title { font-size: 20px; font-weight: 900; color: #fff; }
+  .sp-sub { font-size: 13px; color: #94a3b8; }
+  .btn-primary {
+    background: linear-gradient(135deg, #10b981, #059669); color: #fff; border: none;
+    border-radius: 12px; padding: 16px 20px; font-size: 17px; font-weight: 900; cursor: pointer;
+    box-shadow: 0 8px 24px rgba(16,185,129,0.35); text-align: center;
+  }
+  .btn-secondary {
+    background: #334155; color: #f8fafc; border: 1px solid #475569;
+    border-radius: 10px; padding: 13px 18px; font-size: 15px; font-weight: 800; cursor: pointer; text-align: center;
+  }
+  .card { background: #0f172a; border: 1.5px solid #334155; border-radius: 14px; padding: 18px; }
+  .card.active-payoff { border-color: #10b981; background: rgba(16,185,129,0.1); }
+  .row-item {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 12px 14px; border-radius: 10px; background: #1e293b; margin-top: 10px; font-size: 15px; font-weight: 700;
+  }
+  .row-item.done { border: 1.5px solid #10b981; background: rgba(16,185,129,0.16); color: #a7f3d0; }
+  .badge { padding: 4px 10px; border-radius: 999px; font-size: 12px; font-weight: 800; background: #334155; color: #cbd5e1; }
+  .badge.green { background: #10b981; color: #052e16; }
+
+  /* Narrative Callout Bar */
+  #narrative-callout {
+    position: absolute; bottom: 28px; left: 44px; width: 1320px;
+    background: rgba(15, 23, 42, 0.95); border: 2px solid #38bdf8; border-radius: 16px;
+    padding: 16px 26px; display: flex; align-items: center; gap: 18px;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.65); z-index: 50; transition: opacity 0.3s;
+  }
+  #narrative-step {
+    background: #f59e0b; color: #0f172a; font-weight: 900; font-size: 13px;
+    padding: 6px 14px; border-radius: 999px; white-space: nowrap;
+  }
+  #narrative-text { font-size: 20px; font-weight: 800; color: #fff; }
+
+  /* Cursor & Ripple */
+  #pw-cursor {
+    position: fixed; left: 960px; top: 540px; width: 34px; height: 34px;
+    pointer-events: none; z-index: 999; transition: left 0.42s cubic-bezier(0.22,1,0.36,1), top 0.42s cubic-bezier(0.22,1,0.36,1);
+  }
+  .click-ripple {
+    position: fixed; width: 54px; height: 54px; margin-left: -27px; margin-top: -27px;
+    border-radius: 50%; border: 3px solid #10b981; background: rgba(16,185,129,0.25);
+    pointer-events: none; z-index: 998; animation: rippleAnim 0.55s ease-out forwards;
+  }
+  @keyframes rippleAnim {
+    0% { transform: scale(0.3); opacity: 1; }
+    100% { transform: scale(1.9); opacity: 0; }
+  }
+
+  /* Mandatory 864zeros Outro Bumper */
+  #outro-bumper {
+    position: fixed; inset: 0; background: radial-gradient(circle at center, #172554 0%, #070b12 75%);
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    opacity: 0; pointer-events: none; transition: opacity 0.45s ease; z-index: 900; text-align: center;
+  }
+  #outro-bumper.visible { opacity: 1; pointer-events: auto; }
+</style>
+</head>
+<body>
+  <div class="browser-bar">
+    <div style="display:flex; align-items:center; gap:14px;">
+      <span style="font-weight:900; color:#fff; font-size:17px;">🎵 YouTube Music — Liked Songs (1,284 Tracks)</span>
+    </div>
+    <div class="url-pill">https://music.youtube.com/playlist?list=LM</div>
+    <div class="status-pill" id="telemetry-pill">✓ 0 Outbound Cloud Bytes · 100% Local Browser State</div>
+  </div>
+
+  <div class="workspace">
+    <div class="host-pane">
+      <div class="card" id="host-problem-card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+          <span style="font-size:14px; font-weight:800; color:#f59e0b; text-transform:uppercase;">YouTube Music — Unsorted Liked Songs Library</span>
+          <span class="badge" id="host-badge">1,284 Mixed Tracks</span>
+        </div>
+        <h2 style="font-size:26px; margin-bottom:10px;">Your Liked Songs (Mixed Genres)</h2>
+        <p style="font-size:16px; color:#94a3b8; line-height:1.5;">
+          Every song you thumbs-up lands in one flat list. AutoOrganize scans your tab locally and splits tracks into real MusicBrainz genre playlists.
+        </p>
+        <div class="row-item" id="host-row-1">
+          <span>🎸 Master of Puppets — Metallica</span>
+          <span class="badge">Metal</span>
+        </div>
+        <div class="row-item" id="host-row-2">
+          <span>🎹 Midnight City — M83</span>
+          <span class="badge">Synthwave</span>
+        </div>
+      </div>
+
+      <div class="card" id="host-payoff-card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+          <span style="font-size:14px; font-weight:800; color:#10b981; text-transform:uppercase;">Created Genre Playlists in Your YouTube Music Account</span>
+          <span class="badge green" id="payoff-status-badge">PREVIEW MODE</span>
+        </div>
+        <div id="payoff-output" style="font-family:Consolas, monospace; font-size:15px; color:#cbd5e1; line-height:1.55; white-space:pre-wrap;">Click "Scan & Group by Genre" in the side panel to split 1,284 tracks into clean genre playlists...</div>
+      </div>
+    </div>
+
+    <div class="sidepanel-pane" id="sidebar-mount">
+      <div class="sp-header">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAGrUlEQVR42u2d224bVRSG5xH8KHmE/Qh+gzhO0rQ+nw8zHnt8SnO0ndiJTUKLCE04VMKlrcQF0CAoEhREKBVCHK2qXCAOGnHB9UIrTaQqNGrt2dveO7N+6bvv+v/Pjj2NFE2jUCgUCoVCoVAoFAplMjF6deYGaOmnY3uNXt0yevVDo1e3jV4dXIZ9cjt24HXF6Hq35jW69b4Lx345uvU+dnTRRvfo3Zqld2sDvVsD4qUYnHTmUX18PMKmQUcGu7NUHJ7RK577O4IaHx717VpT364BIYSmtMPnt6ue/Hb1KL9dBUIo2LFHtvGn8ttVm8YZG9j1FI1PEkxWgtxWdSq/VbXzW1UgJoKNG0xo/Iont1Wxc1sVICYKbuCZhABHVL40HI17/CaVLh3j+YqY61RYrlMBQkrEPyzKdsqDbKcMhJQMRI9vUcnSI+b/DrLtsifbKdtUsPTYuJUIAaxsuwyEEvB/F8i0rUGmbQGhBAPe43upVOXg95tFmU2rn9m0gFCKPk8BqFAF4TJ+etPypjctIJTEy0GAkpXeLAGhJM6/DaQ3SofpjRIQSnLIQwBb1D9QbxdhZzcL/dcTcHcv7irwZrwdOxAogO1YgNRGCUTQ2cnB/TfD8MVbIVeDHWAXonp2OH6RpTaKwJvOK1nXD38W7ERE17jh6AK0iizVKgJPiu0CDX4O2A3vvnFDqQS4cT1FY58DdiOVAMlWkSVbReDJ3b0YjX0O2A3vvpPOBDBZsmUCT0iAFwlg8saBAE2TJZsm8OQOCXAu2A3vvnFDqQTo7aRp7HPAbqQSINE0WaJpAk9yrQLcP6Dv//97HnAQPu6Gd98JRwI0CizRKABv1rfpOcBZsBMRXeOG0gmALG3l4N5+xPXDYwfYhaiepRXg2XeDa7spVyLwVc9HgHijwOKNAhBK40CAdYPF1w0glIYEIAFIABJglMTWDRZbN4BQGgcCrOkstqYDoTQkAAlAApAAoyS6prPomg6E0jgQYFVn0VUdCKVxIkCeRVfzQCiN/AJkNyxo3diShqXrDRIAE1nJs8hKHkRx+94t+O23H+Hff36Xki8ffnYshMgOxoB8AuAr/udfH0k7/FlQVJcKkGORlRzw5tH3Xykz/im9d3ZBRBdjQC4BsEjVxkf+/vOx+wQIL+dYeDkHPPnkwT0lBUCab3SAdx9jQC4BVHz7P+W9j265TYAsCy9ngSfqC5BVDbkEUPtHQNtdAoSWsiy0lAWedN/eUXL8v/54DLy7GBNyCYCo+GMAxXWhABkWWsoAb1KNIvz0izoPgm592AcRPYwJ+QQ4BYuV+VHwg2/uQ2OvrfL4zgQIXs2w4NUMiCbVMKGxtykN9d1VGMfdY0J+AQhpBUiz4NU0EErjQIDFNAsupoFQmtEFCCymWWAxDYTSkAAkAAlAAowkQD3FAvUUEEozugBX6il2pZ4CQmlIABKABCABRhKglmRXakkglGZ0AS7XkuxyLQki6Rz0oP/BuxcKvEl0b0MgpwCrr7XgyZMflP3toBeBt1V7yyTA81/13Qs7/FlQdHUFqCbY5WoCeBJb0Y9/vcotAuCteDPvHodgdAEWqgm2UE0AT/bvHLhm/FPwZt49DoFcAnz73QPXCYA3qylAJcEWKgngyUMXCoA38+5xCJwIEGcLlTjwxL0CxCfF6AJcqsTZpUocePL+x3dd+BlgH3j3OARyCZBrWa4aH78F4M1qClCOs0vlOPDm1ZvXXCMA3iqiwyEYXYCnEsRABLs3r13o5wF42+7x+LGJ4vhvB8+XY/Z8OQYiiCzl4Mbtffj860+PPyhdBPAWvAlvE9XbENg8BDiU4BBiNJz/+fh5K2bNWzEglMTiIEDUO29FgVASr8Yjc1YUCPXQeGXOivapUOXo8xOgFPXOlaJAKIVX45m5UnRApSrDQOOd2VLEmi1FgFACS4QAntlixJ4tRoCQGhu30kRkthixqGDpsTSRmS1GBlSytAw00fEXw8xfDAMhJUwbR/xmuOk3w0BIRVMbZ/xm+IhKl4Yjbdzxm2GP3wzbVP7EwQ082iTiN0NTM2bInjFDQEwEGzfQJpmZQmhqphCyZwohIMYKdj7Z8UkCGv9ZCTwzhdARjSMc7NijyRpfIdj0FYJACKGpqRCfEWQ+IzjwGUEguIBdMk21+Iyg5TOCNg04MtidpakcnxH0nIhA7wjDveKxM492keIzgt5pI9Cf1gNAPAcj0MeONDdkWg94p/WANa0HDqf1gO3Cwe2T27EDd4z+ElIwN0BLUygUCoVCoVAoFAplQvkPyo76du6n3icAAAAASUVORK5CYII=" alt="Icon" />
+        <div>
+          <div class="sp-title">AutoOrganize</div>
+          <div class="sp-sub">[OIA] Smart Genre Playlist Sorter</div>
+        </div>
+      </div>
+
+      <button class="btn-primary" id="primaryActionBtn" onclick="triggerPrimaryPayoff()">
+        ⚡ Scan & Group by Genre Now
+      </button>
+
+      <div class="card">
+        <div style="font-size:13px; font-weight:800; color:#94a3b8; margin-bottom:10px; text-transform:uppercase;">
+          Genre Buckets & Merge Rules
+        </div>
+        <label class="row-item" id="toggleRule1" style="cursor:pointer;" onclick="toggleRule(1)">
+          <span>✓ Synthwave & Electronic (142 tracks)</span>
+          <input type="checkbox" checked />
+        </label>
+        <label class="row-item" id="toggleRule2" style="cursor:pointer;" onclick="toggleRule(2)">
+          <span>✓ 90s Rock & Alternative (98 tracks)</span>
+          <input type="checkbox" checked />
+        </label>
+      </div>
+
+      <button class="btn-secondary" id="secondaryActionBtn" onclick="triggerSecondaryCommit()">
+        🎵 Create Playlists in YouTube Music
+      </button>
+
+      <div style="margin-top:auto; font-size:13px; color:#94a3b8; text-align:center; border-top:1px solid #334155; padding-top:12px;">
+        one-time lifetime Unlock · No Monthly Subscriptions · 864zeros.com
+      </div>
+    </div>
+  </div>
+
+  <div id="narrative-callout">
+    <span id="narrative-step">STEP 1 · 0–2s PROBLEM HOOK</span>
+    <span id="narrative-text">Loading interactive sandbox...</span>
+  </div>
+
+  <div id="pw-cursor">
+    <svg width="34" height="34" viewBox="0 0 24 24" fill="none">
+      <path d="M4 2L20 11L13 13L16 21L13 22L10 14L4 19V2Z" fill="#10b981" stroke="#ffffff" stroke-width="2"/>
+    </svg>
+  </div>
+
+  <div id="outro-bumper">
+    <img src="data:image/png;base64,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" alt="Icon" style="width:96px; height:96px; border-radius:22px; background:#fff; padding:10px; margin-bottom:22px;" />
+    <div style="font-size:18px; font-weight:900; color:#f59e0b; letter-spacing:2px; text-transform:uppercase; margin-bottom:10px;">
+      864zeros Sovereign Software · YouTube Music Power Tools Series
+    </div>
+    <h1 style="font-size:56px; font-weight:900; max-width:1100px; line-height:1.15; margin-bottom:18px;">
+      How to Sort YouTube Music Liked Songs by Genre Automatically
+    </h1>
+    <p style="font-size:26px; color:#94a3b8; margin-bottom:32px;">
+      No Monthly Rent · one-time lifetime Unlock · Available on Chrome Web Store &amp; Microsoft Edge
+    </p>
+    <div style="background:#10b981; color:#052e16; font-size:30px; font-weight:900; padding:18px 46px; border-radius:999px;">
+      Try Free Interactive Demo: 864zeros.com/demo/autoorganize-ytm
+    </div>
+  </div>
+
+  <script>
+    window.triggerPrimaryPayoff = function() {
+      const card = document.getElementById('host-payoff-card');
+      card.classList.add('active-payoff');
+      document.getElementById('payoff-status-badge').textContent = "✓ 4 GENRE PLAYLISTS SPLIT";
+      document.getElementById('payoff-output').textContent = "1. 🎧 Synthwave & Electronic — 142 tracks (MusicBrainz verified)\\n2. 🎸 90s Rock & Alternative — 98 tracks (Duplicates stripped)\\n3. 🎻 Classical & Deep Focus — 64 tracks (Ready to sync)";
+    };
+
+    window.toggleRule = function(n) {
+      const el = document.getElementById('toggleRule' + n);
+      if (el) el.classList.toggle('done');
+    };
+
+    window.triggerSecondaryCommit = function() {
+      document.getElementById('payoff-status-badge').textContent = "✓ CREATED & SYNCED IN YTM";
+      document.getElementById('host-row-1').classList.add('done');
+      document.getElementById('host-row-2').classList.add('done');
+    };
+
+    window.__moveCursor = function(x, y, click) {
+      const c = document.getElementById('pw-cursor');
+      c.style.left = x + 'px';
+      c.style.top = y + 'px';
+      if (click) {
+        setTimeout(() => {
+          const r = document.createElement('div');
+          r.className = 'click-ripple';
+          r.style.left = x + 'px';
+          r.style.top = y + 'px';
+          document.body.appendChild(r);
+          setTimeout(() => r.remove(), 550);
+        }, 350);
+      }
+    };
+
+    window.__setCallout = function(step, text) {
+      document.getElementById('narrative-step').textContent = step;
+      document.getElementById('narrative-text').textContent = text;
+    };
+
+    window.__showOutroBumper = function() {
+      document.getElementById('narrative-callout').style.opacity = '0';
+      document.getElementById('pw-cursor').style.opacity = '0';
+      document.getElementById('outro-bumper').classList.add('visible');
+    };
+  </script>
+</body>
+</html>

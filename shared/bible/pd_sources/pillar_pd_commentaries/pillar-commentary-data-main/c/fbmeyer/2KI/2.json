@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fitted to Succeed His Master -- 2 Kings 2:1-12\n\nWe are at a loss whether to admire most the humility of Elijah or the pertinacity of Elisha. The humility of the former is very beautiful. An ordinary man would have blazoned abroad the honor to be conferred upon him. He would have taken care to secure witnesses, that it might not be unrecognized and unknown. Instead of this Elijah sought to be alone, that no eye might see the chariot sent specially from heaven for His conveyance.\n\nBut the determination of Elisha is equally beautiful, and only they who stand such tests can behold and inherit the things which God hath prepared for them that love Him. At Gilgal, Bethel, and Jericho, Elisha might have stayed his steps at the call of indolence or love of ease; but the divine promptings would not allow him to remain. Do not allow yourself to be put back by apparent rebuffs. The Divine Spirit is only testing your mettle. Be ready with your request when He says: “Ask what I shall give thee.” But you must have communion with the spirit-world, if you would have the double portion of the eldest son. They two went on; they two stood by Jordan; they two went over on dry ground; they two still went on and talked. Apply that to your intercourse with your Savior!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Elijah’s Spirit on Elisha -- 2 Kings 2:13-25\n\nWe, too, may have a double portion of Elijah’s spirit, but everything depends on the purity of our hearts. Only the pure in heart can see, and if we can see into the spiritual, it is proof that our hearts are pure enough to become the residence of the Holy Spirit. Had Elisha been unable to see the translation of his friend, his nature would have been shown to be gross and sensual, and how should such a one have God’s supreme gift?\n\nWhen we receive this power, we must begin to use it at once. Whether we feel possessed of a fresh accession of spiritual dynamic or not, is immaterial. We must reckon that we have received, and must proceed to use; and as we make the attempt, the parting water will prove not only to ourselves, but to others, the reality of our experience. The reception of spiritual power is a quiet, secret act, known only to God and the soul; but the results are manifest to all. Hear these young men talk! Has God ever been known to take up a man and then cast him away on valley or mountain? That is not His way of dealing with those whom He loves and would honor."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 3
+ }
+}

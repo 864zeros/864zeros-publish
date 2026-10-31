@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Glorious Future of David’s House -- 2 Samuel 7:1-17\n\nAlways do better for the cause of God than for yourself. You have no right to dwell in cedar, while God’s Ark is under curtains. Also, beware of giving directions or advice, unless you have first consulted God. You may be as good as Nathan, but, if you speak apart from the divine Spirit, you will probably be compelled, on the following morning, to eat your words.\n\nDavid’s intention was good, but neither was he the man nor was that the time for temple-building. See 1 Chronicles 22:8. The sword could not yet be exchanged for the trowel, but in the meantime the will was accepted in lieu of the act. It was then God’s turn to pour out a perfect avalanche of blessing, which must have made David forget those weary years of waiting and wandering. Do not be anxious about the future. Use your life and all its resources for God, and he will care for you. No tongue can exaggerate the goodness and mercy which God lays up for them that trust in Him before the sons of men. And it is because He loves that He does not hesitate to chasten."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "David’s Humble and Grateful Prayer -- 2 Samuel 7:18-29\n\nThe promise made through Nathan was threefold: (1) that David’s house should reign forever; (2) that his seed should build the Temple; (3) that the kingdom of Israel should be made sure. These glowing words were fulfilled in shadow in the literal story of Judah, but in substance in Him whom David foresaw, Acts 2:30. There is only One whose reign is permanent, whose kingdom is without end, and who can bring rest to the hearts of men, Zechariah 6:12.\n\nTake time to sit before God. It is good to kneel or stand; but have moments of reverie, when you shall expose the sensitive plate of your soul to receive His imprint. It is good for us all to take up God’s holy words of promise and turn them back on Himself, saying, “Do as thou hast said.” Learn to put your finger on this or the other promise, turning each check into the cash of its daily use for daily thanksgiving. There is no exercise in which mortal man can engage, more strengthening, more prolific of good, more glorifying to God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 8
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Avoid Suretyship and Sloth -- Proverbs 6:1-19\n\nA young man, being entreated by his friend to go bond for him, consents, in an easy-going way to become his surety. He promises to be responsible for the other’s debt. From that moment he resembles a roe caught by a hunter or a bird snared by a fowler. If any shall have enmeshed himself in an obligation of this kind he is exhorted to spare no pains, to stand on no false pride, but to go with all urgency to the man for whom he has pledged his credit, and get released at all cost. If we can afford to be surety, we can afford to lend the money ourselves. If we cannot do the former, it is weak and foolish to do the latter.\n\nThe ants swarm in the woods and fields, and rebuke our laziness and thriftlessness. They work day and might, storing their galleries with food, building mounds which relatively to the size of the builders are three or four times larger than the Pyramids. In sickness they nurse one another; in the winter they feed on their supplies. Learn from the ceaseless industry of Nature, and do something worthy before sundown!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 8
+ }
+}

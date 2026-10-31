@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 132,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord’s Blessing upon Zion -- Psalms 132:1-18\n\nThis psalm evidently dates from the dedication of Solomon’s temple. In the glory of completion God never forgets the toils and anxieties of the builders. When the topstone flashes in the sunlight, the trench-diggers, and foundation-makers come in for their need of praise. The singer recapitulates two memorable scenes in the history of the Ark: Ephratah is probably Shiloh, in the tribe of Ephraim, where the Tabernacle was situated in Eli’s time; while the field of the wood is Kirjath-jearim, whence David brought the sacred emblem to Jerusalem, 1 Chronicles 13:5.\n\nThe prayer of Psa 132:8-10 is similar to that of Solomon, 2 Chronicles 6:41. For us the ark of God’s strength is our Lord’s nature, in which God and man meet. We are called to be priests, to lift our hands in intercession and to fill the earth with praise. Then in Psalms 132:11-18 God seems to take the clauses of that prayer, one by one and to answer, them. His resting-place is in His people. The staves were drawn out from the Ark when it was deposited in the Temple. In Christ there is finality; He is Omega, the Last."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 132
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 131
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 133
+ }
+}

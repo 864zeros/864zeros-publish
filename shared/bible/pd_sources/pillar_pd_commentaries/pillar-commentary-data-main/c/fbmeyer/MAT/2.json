@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Wise-Men Follow the Star -- Matthew 2:1-8\n\nThe expectation of the advent of a great king was far-spread at the time of the Nativity. It was probably founded, so far as the East was concerned, on the prophecies of Balaam and Daniel. See Numbers 24:17; Daniel 7:13-14. There are evidences of the same expectation in the classic literature of the West. Our Lord was the desire of all nations; and the corruption and anarchy of the Roman Empire made the longing still more intense.\n\nGod comes to men in the spheres with which they are most familiar; to Zacharias in the Temple, to the shepherds in the fields, to the Wise-Men by a portent in the heavens. He knows just where to find us. “Lift the stone, and I am there.” Be sure to follow your star, whatever it be; only remember that it must ultimately receive the corroboration of Scripture, as in the present case, Matthew 2:5. A miracle may be wrought to awaken and start us on our great quest, but the miraculous is withdrawn where the ordinary methods of inquiry will serve. The news of Jesus always disquiets the children of the world; they know that it means division."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "God Rules and Overrules -- Matthew 2:9-15\n\nThe suggestion has been hazarded that “the star” was an unusual combination of three planets; but this would conflict with the disappearance and reappearance of the guiding light. Some experiences during the Welsh Revival seem to point to a connection between high spiritual experiences and a burning glory. Probably only the eyes of the Magi beheld this great light. See Acts 9:3; Acts 26:12-14.\n\nWhen we follow God’s guidance, we may be sure that He will not fail to bring us to our goal. He who brings us out will also bring us in. He will perfect that which concerneth us. These Wise-Men prostrating themselves before the newborn babe were the first of a great procession of the kings of intellect who have followed them to the same spot. After all, does not all true science bend before the mystery of life? We cannot fathom the mystery, but we can adore. We can also present our gifts. “Jesus is worthy to receive riches.” It was thus that the Father provided beforehand for the expenses attendant on the approaching visit to Egypt. The Herods of this world are always plotting against the Lord’s Christ, but it is in vain. See Psalms 2:1-12; Acts 4:25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "“Out of Egypt Did I Call My Son” -- Matthew 2:16-23\n\nThe death of those little children was very pathetic. From the first it seemed as though our Lord’s advent would bring not peace, but the sword. Their mothers have long since been comforted, but it was a bitter experience. The little ones were the nucleus of the great attendant crowd “that follow the Lamb whithersoever He goeth,” Revelation 14:1-4.\n\nThey are dead that sought the young child’s life. Such is the epitaph that may be written for those who have set themselves to oppose the cause of Christ. Voltaire’s house in Geneva is now used as a Bible Society depot. Many of the books that made Christians tremble for the Ark, are to be found on the top shelves of second-hand libraries. There is no permanence in destructive criticism. The young child comes up out of Egypt. There is a sense in which the life of Jesus is the epitome of the story of Israel and the experience of each Christian. See that you do not linger in Egypt, but come up in the pathway of separation and consecration to His high purposes."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 3
+ }
+}

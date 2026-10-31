@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "Amos", "chapter": 5, "citation": "Amos 5:24", "text": "But let judgment run down as waters, and righteousness as a mighty stream.", "plain": "But let justice roll on like a river, righteousness like a never-failing stream." }
+    {
+      "book": "Amos",
+      "chapter": 5,
+      "citation": "Amos 5:24",
+      "text": "But let judgment run down as waters, and righteousness as a mighty stream.",
+      "plain": "But let justice roll on like a river, righteousness like a never-failing stream.",
+      "visual_prompt": "a carved stone fountain basin brimming over onto flat courtyard flagstones in a sycamore-fig orchard in the rocky hills of Tekoa",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

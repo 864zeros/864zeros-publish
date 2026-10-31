@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Craft Overreaches Itself -- Esther 7:1-10\n\nEsther had prayed, as we have seen, Esther 4:16, but she acted also. She took such measures as were possible, to gain the king’s favor, to awaken his curiosity, and to appeal for his help. All the money that Haman could pour into the royal treasury could not compensate for the loss of an entire people. In his anguish of soul, Haman adopted an attitude of entreaty which seemed to the king a gross impertinence, and this sealed his fate. His face was covered as though he were no longer worthy to behold the king. The chamberlain sent to summon Haman had probably seen the gallows on that errand; and thus it befell that the wicked was taken in his own trap, Psalms 9:15.\n\nIt may be that we are to see in our modern world, on a national scale, the counterpart of this extraordinary reversal. Watch events transpiring in Palestine!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 8
+ }
+}

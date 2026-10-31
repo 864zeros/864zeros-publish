@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "Zechariah", "chapter": 4, "citation": "Zechariah 4:6", "text": "Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.", "plain": "So he said to me, 'This is the word of the Lord to Zerubbabel: Not by might nor by power, but by my Spirit, says the Lord Almighty.'" }
+    {
+      "book": "Zechariah",
+      "chapter": 4,
+      "citation": "Zechariah 4:6",
+      "text": "Then he answered and spake unto me, saying, This is the word of the Lord unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the Lord of hosts.",
+      "plain": "So he said to me, 'This is the word of the Lord to Zerubbabel: Not by might nor by power, but by my Spirit, says the Lord Almighty.'",
+      "visual_prompt": "two inscribed stone tablets resting beside an olive branch on a rough ledge in a surveyor's measuring line stretched across Jerusalem's walls",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

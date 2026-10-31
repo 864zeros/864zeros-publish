@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Vision of World Peace -- Isaiah 2:1-11\n\nThis and the four following chapters must be classed together as a distinct portion of this book, belonging to the earliest years of Isaiah’s ministry. Their date Isaiah 735 b.c.; about the time of the accession of Ahaz to the throne. Isaiah 2:2-4 are evidently an ancient prophecy by some unknown seer, for Micah also quotes it. This section presents a fair vision of the future, when the beloved city must become the center of the religious life of the world, the seat of the theocracy, the burning nucleus of a reign of love and peace. We cherish this ancient prophecy as our guiding star in the present storm. But it can be realized only when the Son of God, riding forth on His white horse, has subdued His enemies.\n\nThen Revelation 21:1-27 and Revelation 22:1-21 will fulfill this ancient dream. The contrast between the ideal city and the actual is terrible, Isaiah 2:6-9. But let us not despair. The exalted Lord, from the right hand of power, is hastening the coming of the day of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "An Exhortation to Humility and Reverence -- Isaiah 2:12-22; Isaiah 3:1-12\n\nIf men will not repent, they must suffer. If they will not voluntarily put away their idols and sorceries, they will be compelled to do so in the anguish of their disappointment with their helpless deities, Isaiah 2:20. Nothing in that great civilization would be spared. High towers, fenced walls, ships, treasures, armor-all would perish. Their vaunted faith in man would cease. Life would become elemental in its simplicity amid the shelter of the ragged rocks.\n\nIn sarcastic phrase the prophet depicts a despairing nation choosing for ruler the first man that came along with a decent coat on his back, Isaiah 2:6; but in vain. We can almost hear the sob of the prophet’s soul in Isaiah 2:8-9, and recall the tears of a greater than Isaiah, Who wept over this same Jerusalem eight hundred years afterward. Patriotism is one of the purest passions that can burn in the heart of man! “Lives there a man, with soul so dead, that never to himself has said, This is my own, my native land!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lesson for Dark Days -- Luke 18:1-8\n\nThere are three phases in our Lord’s teaching about prayer-that of Mat 6:1-34, Luke 18:1-43, and the words of Joh 14:1-31; John 15:1-27. In Luke 18:1-8 He exhorts to uniformity and urgency. There is an aspect of prayer that we are in danger of overlooking when the skies are blue and the sun is shining, and that is, the need of holy violence.\n\nThis lesson is taught, in the parable of this paragraph, by a striking contrast which may be stated thus: If an unjust and ungodly judge will finally grant a just petition, out of base and selfish motives and merely to save himself from being worried by a defenseless and oppressed woman, how much more shall the just and merciful God hear the cry and avenge the cause of those whom He loves. If answers to certain prayers, which we have offered in an agony of tears, are slow in coming, we may be sure, either that the time is not ripe, or that He is going to do something better."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Those Whom God Accepts -- Luke 18:9-17\n\nWe are taught here the spirit in which we should pray. Too many pray “with themselves.” The only time that we may thank God for not being as others is when we attribute the contrast to His grace, 1 Timothy 1:12-14. Let it never be forgotten that those who will be justified and stand accepted before God are they who are nothing in their own estimate.\n\nTo be self-emptied and poor in spirit is the fundamental and indispensable preparation for receiving the grace of God. “Be propitiated to me” (r.v., margin), cried the publican. “There is a propitiation for our sins,” is the answer of Heb 2:17, r.v. Each penitent counts himself the sinner, 1 Timothy 1:15. Bow yourself at the feet of Christ and He will lift you to His throne.\n\nWe think that children must grow up to become like us before they are eligible to the Kingdom. Nay, we must grow down to become like them, in simplicity, in humility and in faith."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The One Thing Needful -- Luke 18:18-30\n\nThe young ruler was a man of irreproachable character. He might have said of himself all that the Apostle Paul says in Philippians 3:4, etc. But he was restless and unsatisfied. He felt that Jesus had the key to a life deeper than he had experienced, and he longed to possess it. He was so much in earnest that he knelt in the crowded thoroughfare before the despised Nazarene, Mark 10:17.\n\nHe did not know himself. He thought he possessed that love which fulfills the Law, Romans 13:10. Our Lord desired to prove to him that he was deficient in that love, and therefore could not have the eternal life which is love. He did this by suggesting that the young ruler should renounce all and accompany Him in a self-giving for others that must end in a cross. But he shrank back. He dared not face a life of simple faith in God for the supply of temporal needs, and of absolute self-giving to a cross. For all who dare this, whatever is right and good is given back to be held and used under God’s direction."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "The Reward of Faith -- Luke 18:31-43\n\nOur Lord knew what was awaiting Him. He laid down His life “of Himself.” But all the significance of His life and death was concealed from the Apostles and others. Their eyes were blinded, till the glory of the Resurrection morning had dawned and the day of Pentecost had fully come.\n\nOur Lord’s mind must have been filled with the anticipation of the momentous issues to be decided; but He was sufficiently at leisure from Himself to hear the cry of distress from this blind beggar. How absolutely He placed Himself at the disposal of those who needed His help! Human need and sorrow always commanded Him. Each comer was able to draw all the grace he required, according to the measure of the bucket of his faith when let down into that infinite well. There is no reason why each of us should not be made whole and follow Christ, glorifying Him. But we are blind!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 19
+ }
+}

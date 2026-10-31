@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 140,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Confidence in God’s Protection -- Psalms 140:1-13\n\nHere is a picture of a man who is beset by foes. Around are slander and hatred; at his feet stratagems and traps. There is no help save in Him who alone can cover the head in the day of battle. Similar experiences befall God’s people still. Some are hunted by earthly enemies; others are stung by the fiery darts of the wicked. In Psalms 140:1-5 life is like a path through a forest, where adders hide and where gins are laid. At any moment the foe may break from his ambush. In Psalms 140:6-7 faith discovers God, at such a time, as strength, salvation, and protection.\n\nThere follows, in Psalms 140:8-12, a terrible outburst. Instead of the let of the imperative, many read the shall of prediction. We belong to the kingdom of Christ, the teachings of which are given in Matthew 5:1-48. The only coals of fire that we can deal with are those of love and mercy, which we heap on the heads of our enemies. The least in the kingdom of love stands on a higher plane than the greatest in the kingdom of law. But let the wicked remember Romans 2:5. The psalm ends in a gladder strain, Psalms 140:13. There is an inner sanctuary where we shall be safe!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 140
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 139
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 141
+ }
+}

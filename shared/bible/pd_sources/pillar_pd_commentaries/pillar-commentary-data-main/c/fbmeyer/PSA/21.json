@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rejoicing in the Strength of Jehovah -- Psalms 21:1-13\n\nThis is a companion to the psalm preceding. The blessings there asked for are here gladly acknowledged to have been granted; and bright anticipations are entertained for the future. How much of this psalm is true only of the ideal King-our Lord! Let us read it with special reference to Him as He rides forth on His white horse, Revelation 19:11-16.\n\nThat which the heart desires, the lips at times find difficulty in expressing. God’s help always prevents us, that is, “goes before” us, anticipates our needs. The only life that can satisfy is the eternal, but that is ours already if we only knew it. Our beloved dead are more blessed forever, because they see Him “face to face;” but we also may share their joy. Trust in Christ is the secret of immovability. God has exalted Christ to be a Prince and a Savior, and we shall never be at peace until we have done the same, Acts 5:31."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 22
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abraham Entertains Heavenly Visitors -- Genesis 18:1-15\n\nThe Son of God is the central figure here. He loves the homes of men. It has ever been His wont to visit the homes and hearts of those who love him. See Proverbs 8:31. Abraham knew well that the High and Lofty One, who inhabits eternity, had come to dwell with him. Others might see only three men, but he recognized his divine friend, addressing Him as “My Lord;” and when the two angels went forward alone to do their awful work in Sodom, he entered into close converse with the wondrous central figure, who remained with him still.\n\nHe gave personal service, and so did Sarah. They gave their very best, fine, tender, and good. And in their love the Lord found satisfaction and rest. But remember that He still stands at the door and knocks. Ponder John 14:23; Revelation 3:20. Christ tells His secrets to those He loves.\n\nHis proposals and promises are so great that we can almost laugh with incredulity, but the question of Gen 18:14 is answered by Jeremiah 32:17. Reckon on God’s faithfulness; He cannot fail those who trust Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Abraham Pleads for Sodom -- Genesis 18:16-33\n\nChrist had visited Abraham’s tent, but He did more. He trusted him with His secrets, and led him almost unconsciously to a degree of faith and prayer that was far beyond what he had hitherto attained. Abraham seemed to be driving the Blessed One from point to point, but as a matter of fact, he was being drawn forward. It was so with the woman of Syrophenicia. God’s love and willingness to bless far exceeded Abraham’s faith, and when he had gone as far as he dared the divine love went farther and saved Lot from the overthrow. We can never go into the realms of love and compassion, without finding the footsteps of the Redeemer.\n\nSee Hebrews 10:22. Amid all the mysteries of God’s moral government we must always believe that He is just and righteous. His throne is encircled by the rainbow, but it is founded in unimpeachable integrity. How low Abraham lay in his self-estimate! They who know most of God do not presume on their knowledge, but esteem themselves the least of saints."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 19
+ }
+}

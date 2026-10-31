@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Will not Cast Away -- Job 8:1-22\n\nBildad now takes up the argument, appealing to the experience of former generations to show that special suffering, like Job’s, indicated special sin, however deeply concealed. He feels that God could not pervert judgment, and that the sudden destruction of Job’s children proved that they had transgressed.\n\nJob 8:11-13 are probably quoted from an old poem, embodying the sententious observation of some older generation, which compared the ungodly to the rapid growth and more rapid destruction of the papyrus plant. Job 8:14-15 compare the state of the ungodly to the slight fabric of the spider’s web, fine-spun, flimsy, and insecure. Job 8:16-19 employ yet another comparison-that of the weeds, which grow to rank luxuriance, spreading over heaps of stones and even walls, which they are figuratively said to see in the distance and creep toward; the very earth is ashamed of them, as presently they lie withered on the path. But notice the assurances that God will uphold all those who return to Him. Be of good cheer; thou shalt yet praise Him!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 9
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Great Lawgiver’s Parting Instructions -- Deuteronomy 31:1-13\n\nThis chapter is a link between sunset and sunrise. God buries His workers, but carries on His work. None are indispensable. Moses is succeeded by Joshua; Stephen by Paul. “The grass withereth… but the word of our God shall stand forever.”\n\nThe old Lawgiver passes on the assurances on which he had rested. After all, men are but the figureheads of movements which are greater than themselves. God goes before; God destroys; God accompanies and delivers. Let timid souls take courage. When the Good Shepherd puts them forth He precedes them, John 10:4; the iron gates stand open at His summons, and the big stones are rolled from the door of the sepulchers, Acts 12:10; Mark 16:3. “He will not fail thee,” etc., reappears in Hebrews 13:5, as the right of all believers. It is for me and thee!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Charge to His Successor -- Deuteronomy 31:14-29\n\nMoses had already announced that Joshua would succeed him; but in view of the great difficulties which confronted the new leader, it was expedient that the guiding pillar should give him the symbol and pledge of God’s endorsement.\n\nTwo other sources of their allegiance were proposed. First, a song. National songs lay hold on memory and have a powerful effect in stirring the deepest emotions. This song, composed under the divine impulse, embodied the substance of the preceding pleadings and exhortations, and was suitable to be taught to the generations that followed. Be sure that nothing more efficiently preserves religion than noble hymns! Learn and teach them! Secondly, the book. See Deuteronomy 31:24, etc. We have already heard of this. See Exodus 17:14; Exodus 24:4-7. No doubt it was to this necessity of recording the Law and chronicling the story of the Exodus that we owe the origin of the sacred books which bear the name of Moses. See John 5:46."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Moses’ Song: the Lord’s Favor upon Israel -- Deuteronomy 31:30; Deuteronomy 32:1-14\n\nThe song of Moses, like the fabled song of the swan, was his last and sweetest. It is probably the noblest ode in the whole compass of the Bible, and is the source from which subsequent singers derived suggestions for their noblest outbursts. The marginal references prove how deeply it dyed the national sentiment.\n\nIt excels in the names and designations of the Almighty. He is the Rock: Deuteronomy 31:4; Deuteronomy 31:15; Deuteronomy 31:18; Deuteronomy 31:30; Jehovah: Deuteronomy 31:6; Father: Deuteronomy 31:6; the Most High: Deuteronomy 31:8; God: El, the strong, Deuteronomy 31:15, etc. What a study are the names of God, scattered through the Bible! Each was coined to meet some need of the human soul. What the rocks of the desert are to its shifting sands God is amid the changes of this mortal existence.\n\nThis earlier part of the song is very tender. We are God’s portion; the apple of His eye; as young eaglets, whom the mother-bird is carefully teaching to fly, the favored recipients of God’s richest gifts, Deuteronomy 31:13, etc."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 32
+ }
+}

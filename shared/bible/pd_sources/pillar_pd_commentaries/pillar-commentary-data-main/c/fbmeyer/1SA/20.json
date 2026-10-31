@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Friendship’s Covenant -- 1 Samuel 20:1-16\n\nLife becomes intolerable when suspense is long drawn out; hence David’s appeal to his friend. Besides, he yearned for one more glimpse of the dear home at Bethlehem, and to drink of “the well which was by the gate.” The talk between the friends was heart-breaking to both. Only those who have experienced the severance of loving communion and intercourse can fathom the depth and bitterness of the waters that began to roll between the two friends.\n\nJonathan is one of the noblest types of manhood presented in Scripture biography. Whether in private or public life, he shone with peerless beauty, as a star in a dark sky. David said of him that he was “lovely and pleasant.” Jonathan had a clear prevision of David’s coming greatness, but it gave him no pang of jealousy. He loved his friend better than himself, so much, indeed, that it was a richer ecstasy for Jonathan to see David crowned and exalted than to ascend the throne himself. Love casts out jealousy. This friendship was ideal; and we can only ask that we may realize something of its sweetness, and know the love of Christ after the same fashion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "A Friend at Court -- 1 Samuel 20:17-29\n\nJonathan most have been strongly tempted to ally himself with his friend, that they might face the world together; but he clung loyally to his father’s fortunes, though he knew that he was courting failure and overthrow. At the same time he stood nobly forth at the banquet in defense of his friend. What a rebuke for some of us! The Prince of the kings of the earth is not ashamed to call us brethren, but alas, how often we shrink from acknowledging and confessing Him when in company which refuses to own His supremacy. We are silent when His honor is flouted, we flinch before the rising storm; if we do not take sides against Him, we at least do not speak up on His behalf. Such cowards are we in spite of our covenants!\n\nSaul’s jealousy broke out with volcanic vehemence. The king and father abused his son with vile epithets, such as are still employed by Orientals. He demanded David’s instant execution, and ended by seeking to take Jonathan’s life. Truly it may be said of him, as was afterward said of Judas-Satan had entered into him. Be watchful not to give the smallest foothold to the devil."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "The Sign of the Arrow -- 1 Samuel 20:30-42\n\nIt had become clear that the arrows were against David. It was useless to endeavor to fight against the force of irresistible circumstances. We are to hold our ground till the Captain, by an indubitable sign, tells us that we may retire. But, when the hour of parting came, the two fond hearts were well-nigh broken. How little the lad realized the tragedy which was taking place beneath the calm beauty of that morning dawn! The birds were singing and the flowers were unfolding to the sun as usual; but to the two friends the sun was darkened and a pall lay over nature.\n\nYet God was leading David forth to lay the foundations of the kingdom of the Messiah, and the two were still joined in God. The Lord was between them, as the ocean is between the United States and Great Britain-not as a divider, but as a medium of communication.\n\nAre the arrows beyond thee? Be of good cheer; there is something beyond their farthest reach. God is beyond, a kingdom is beyond, songs of overflowing ecstasy are beyond! Arise and go forth into the unknown. If thou shalt take the wings of the morning, thou canst not outstrip the love of God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 21
+ }
+}

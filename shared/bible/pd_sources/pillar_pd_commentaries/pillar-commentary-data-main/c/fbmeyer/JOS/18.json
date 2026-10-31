@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Dividing the Remaining Territory -- Joshua 18:1-10; Joshua 19:49-51\n\nThe Tabernacle had remained in Gilgal. It must now be removed to Shiloh, a site selected by God himself, Deuteronomy 12:11; Psalms 78:60. Shiloh means rest, and it commemorated the ending of the war. The honor of having God’s dwelling-place within its border was probably given to Ephraim as the tribe to which Joshua belonged.\n\nAs an inducement to occupy the land, this further commission was sent forth. How many of us are equally slack to appropriate the blessings stored up in the Savior! Well is it that God, through the ages, has sent pioneers to tell us what we are missing and to stimulate our zeal.\n\nThe veteran leader had earned a good reward. His portion was called “the portion of the sun,” probably because of its aspect. Let us live and walk in the light."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 19
+ }
+}

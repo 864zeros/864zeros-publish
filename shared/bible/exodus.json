@@ -13,32 +13,276 @@
     "count": 27
   },
   "verses": [
-    { "book": "Exodus", "chapter": 1,  "citation": "Exodus 1:12", "text": "But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.", "plain": "But the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites." },
-    { "book": "Exodus", "chapter": 2,  "citation": "Exodus 2:24", "text": "And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.", "plain": "God heard their groaning, and he remembered his covenant with Abraham, with Isaac, and with Jacob." },
-    { "book": "Exodus", "chapter": 3,  "citation": "Exodus 3:5",  "text": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground.", "plain": "'Do not come any closer,' God said. 'Take off your sandals, for the place where you are standing is holy ground.'" },
-    { "book": "Exodus", "chapter": 3,  "citation": "Exodus 3:14", "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.", "plain": "God said to Moses, 'I AM WHO I AM. This is what you are to say to the Israelites: I AM has sent me to you.'" },
-    { "book": "Exodus", "chapter": 4,  "citation": "Exodus 4:12", "text": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say.", "plain": "Now go; I will help you speak and will teach you what to say." },
-    { "book": "Exodus", "chapter": 6,  "citation": "Exodus 6:7",  "text": "And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the Lord your God, which bringeth you out from under the burdens of the Egyptians.", "plain": "I will take you as my own people, and I will be your God. Then you will know that I am the Lord your God, who brought you out from under the yoke of the Egyptians." },
-    { "book": "Exodus", "chapter": 9,  "citation": "Exodus 9:16", "text": "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth.", "plain": "But I have raised you up for this very purpose, that I might show you my power and that my name might be proclaimed in all the earth." },
-    { "book": "Exodus", "chapter": 12, "citation": "Exodus 12:13", "text": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.", "plain": "The blood will be a sign for you on the houses where you are; and when I see the blood, I will pass over you. No destroying plague will touch you when I strike Egypt." },
-    { "book": "Exodus", "chapter": 13, "citation": "Exodus 13:21", "text": "And the Lord went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:", "plain": "By day the Lord went ahead of them in a pillar of cloud to guide them, and by night in a pillar of fire to give them light, so they could travel by day or night." },
-    { "book": "Exodus", "chapter": 14, "citation": "Exodus 14:13", "text": "And Moses said unto the people, Fear ye not, stand still, and see the salvation of the Lord, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever.", "plain": "Moses answered the people, 'Do not be afraid. Stand firm and you will see the deliverance the Lord will bring you today.'" },
-    { "book": "Exodus", "chapter": 14, "citation": "Exodus 14:14", "text": "The Lord shall fight for you, and ye shall hold your peace.", "plain": "The Lord will fight for you; you need only to be still." },
-    { "book": "Exodus", "chapter": 15, "citation": "Exodus 15:2", "text": "The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.", "plain": "The Lord is my strength and my song; he has become my salvation. He is my God, and I will praise him, my father's God, and I will exalt him." },
-    { "book": "Exodus", "chapter": 15, "citation": "Exodus 15:11", "text": "Who is like unto thee, O Lord, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?", "plain": "Who among the gods is like you, Lord? Who is like you — majestic in holiness, awesome in glory, working wonders?" },
-    { "book": "Exodus", "chapter": 16, "citation": "Exodus 16:4", "text": "Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.", "plain": "Then the Lord said to Moses, 'I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day.'" },
-    { "book": "Exodus", "chapter": 17, "citation": "Exodus 17:15", "text": "And Moses built an altar, and called the name of it JEHOVAH-nissi:", "plain": "Moses built an altar and called it The Lord Is My Banner." },
-    { "book": "Exodus", "chapter": 19, "citation": "Exodus 19:5", "text": "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:", "plain": "Now if you obey me fully and keep my covenant, then out of all nations you will be my treasured possession, for the whole earth is mine." },
-    { "book": "Exodus", "chapter": 20, "citation": "Exodus 20:3", "text": "Thou shalt have no other gods before me.", "plain": "You shall have no other gods before me." },
-    { "book": "Exodus", "chapter": 20, "citation": "Exodus 20:8", "text": "Remember the sabbath day, to keep it holy.", "plain": "Remember the Sabbath day by keeping it holy." },
-    { "book": "Exodus", "chapter": 20, "citation": "Exodus 20:12", "text": "Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.", "plain": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you." },
-    { "book": "Exodus", "chapter": 23, "citation": "Exodus 23:20", "text": "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.", "plain": "See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared." },
-    { "book": "Exodus", "chapter": 24, "citation": "Exodus 24:7", "text": "And he took the book of the covenant, and read in the audience of the people: and they said, All that the Lord hath said will we do, and be obedient.", "plain": "Then he took the Book of the Covenant and read it to the people. They responded, 'We will do everything the Lord has said; we will obey.'" },
-    { "book": "Exodus", "chapter": 25, "citation": "Exodus 25:8", "text": "And let them make me a sanctuary; that I may dwell among them.", "plain": "Then have them make a sanctuary for me, and I will dwell among them." },
-    { "book": "Exodus", "chapter": 31, "citation": "Exodus 31:3", "text": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,", "plain": "and I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge, and with all kinds of skills," },
-    { "book": "Exodus", "chapter": 32, "citation": "Exodus 32:26", "text": "Then Moses stood in the gate of the camp, and said, Who is on the Lord's side? let him come unto me. And all the sons of Levi gathered themselves together unto him.", "plain": "So Moses stood at the entrance to the camp and said, 'Whoever is for the Lord, come to me.' And all the Levites rallied to him." },
-    { "book": "Exodus", "chapter": 33, "citation": "Exodus 33:14", "text": "And he said, My presence shall go with thee, and I will give thee rest.", "plain": "The Lord replied, 'My Presence will go with you, and I will give you rest.'" },
-    { "book": "Exodus", "chapter": 34, "citation": "Exodus 34:6", "text": "And the Lord passed by before him, and proclaimed, The Lord, The Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth,", "plain": "And the Lord passed in front of Moses, proclaiming, 'The Lord, the Lord, the compassionate and gracious God, slow to anger, abounding in love and faithfulness.'" },
-    { "book": "Exodus", "chapter": 40, "citation": "Exodus 40:34", "text": "Then a cloud covered the tent of the congregation, and the glory of the Lord filled the tabernacle.", "plain": "Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle." }
+    {
+      "book": "Exodus",
+      "chapter": 1,
+      "citation": "Exodus 1:12",
+      "text": "But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.",
+      "plain": "But the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in the red granite crags of Mount Sinai",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 2,
+      "citation": "Exodus 2:24",
+      "text": "And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.",
+      "plain": "God heard their groaning, and he remembered his covenant with Abraham, with Isaac, and with Jacob.",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in a dry desert wadi lined with acacia scrub",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "citation": "Exodus 3:5",
+      "text": "And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground.",
+      "plain": "'Do not come any closer,' God said. 'Take off your sandals, for the place where you are standing is holy ground.'",
+      "visual_prompt": "worn stone steps climbing up a quiet hillside toward an open horizon in a dry desert wadi lined with acacia scrub",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 3,
+      "citation": "Exodus 3:14",
+      "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
+      "plain": "God said to Moses, 'I AM WHO I AM. This is what you are to say to the Israelites: I AM has sent me to you.'",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in a rocky cleft in Horeb",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 4,
+      "citation": "Exodus 4:12",
+      "text": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say.",
+      "plain": "Now go; I will help you speak and will teach you what to say.",
+      "visual_prompt": "a sower in a simple tunic seen from behind walking a plowed furrow across a dry desert wadi lined with acacia scrub",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 6,
+      "citation": "Exodus 6:7",
+      "text": "And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the Lord your God, which bringeth you out from under the burdens of the Egyptians.",
+      "plain": "I will take you as my own people, and I will be your God. Then you will know that I am the Lord your God, who brought you out from under the yoke of the Egyptians.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in the reed-fringed banks of the Nile",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 9,
+      "citation": "Exodus 9:16",
+      "text": "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth.",
+      "plain": "But I have raised you up for this very purpose, that I might show you my power and that my name might be proclaimed in all the earth.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a wind-swept wilderness camp clearing",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 12,
+      "citation": "Exodus 12:13",
+      "text": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.",
+      "plain": "The blood will be a sign for you on the houses where you are; and when I see the blood, I will pass over you. No destroying plague will touch you when I strike Egypt.",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in a rocky cleft in Horeb",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 13,
+      "citation": "Exodus 13:21",
+      "text": "And the Lord went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
+      "plain": "By day the Lord went ahead of them in a pillar of cloud to guide them, and by night in a pillar of fire to give them light, so they could travel by day or night.",
+      "visual_prompt": "morning light streaming through a narrow stone window onto an open parchment scroll in a rocky cleft in Horeb",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 14,
+      "citation": "Exodus 14:13",
+      "text": "And Moses said unto the people, Fear ye not, stand still, and see the salvation of the Lord, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever.",
+      "plain": "Moses answered the people, 'Do not be afraid. Stand firm and you will see the deliverance the Lord will bring you today.'",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in the red granite crags of Mount Sinai",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 14,
+      "citation": "Exodus 14:14",
+      "text": "The Lord shall fight for you, and ye shall hold your peace.",
+      "plain": "The Lord will fight for you; you need only to be still.",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in a wind-swept wilderness camp clearing",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "citation": "Exodus 15:2",
+      "text": "The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
+      "plain": "The Lord is my strength and my song; he has become my salvation. He is my God, and I will praise him, my father's God, and I will exalt him.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in the red granite crags of Mount Sinai",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 15,
+      "citation": "Exodus 15:11",
+      "text": "Who is like unto thee, O Lord, among the gods? who is like thee, glorious in holiness, fearful in praises, doing wonders?",
+      "plain": "Who among the gods is like you, Lord? Who is like you — majestic in holiness, awesome in glory, working wonders?",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a wind-swept wilderness camp clearing",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 16,
+      "citation": "Exodus 16:4",
+      "text": "Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.",
+      "plain": "Then the Lord said to Moses, 'I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day.'",
+      "visual_prompt": "a carved stone fountain basin brimming over onto flat courtyard flagstones in a wind-swept wilderness camp clearing",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 17,
+      "citation": "Exodus 17:15",
+      "text": "And Moses built an altar, and called the name of it JEHOVAH-nissi:",
+      "plain": "Moses built an altar and called it The Lord Is My Banner.",
+      "visual_prompt": "a solitary cloaked traveler seen from behind walking along a stony path through the reed-fringed banks of the Nile",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 19,
+      "citation": "Exodus 19:5",
+      "text": "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:",
+      "plain": "Now if you obey me fully and keep my covenant, then out of all nations you will be my treasured possession, for the whole earth is mine.",
+      "visual_prompt": "a clay refining crucible resting beside warm hearth stones in the reed-fringed banks of the Nile",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "citation": "Exodus 20:3",
+      "text": "Thou shalt have no other gods before me.",
+      "plain": "You shall have no other gods before me.",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in a dry desert wadi lined with acacia scrub",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "citation": "Exodus 20:8",
+      "text": "Remember the sabbath day, to keep it holy.",
+      "plain": "Remember the Sabbath day by keeping it holy.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a wind-swept wilderness camp clearing near a rocky cleft in Horeb (exodus 20:8 motif: remember)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 20,
+      "citation": "Exodus 20:12",
+      "text": "Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.",
+      "plain": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a wind-swept wilderness camp clearing near a rocky cleft in Horeb (exodus 20:12 motif: honour)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 23,
+      "citation": "Exodus 23:20",
+      "text": "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.",
+      "plain": "See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared.",
+      "visual_prompt": "two robed travelers seen from the back walking together along a narrow footpath bordered by stacked fieldstones winding peacefully into a quiet valley",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3",
+      "image_file": "sketches/verse_14_exodus_23_20_people_back_s4_locked.jpg"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 24,
+      "citation": "Exodus 24:7",
+      "text": "And he took the book of the covenant, and read in the audience of the people: and they said, All that the Lord hath said will we do, and be obedient.",
+      "plain": "Then he took the Book of the Covenant and read it to the people. They responded, 'We will do everything the Lord has said; we will obey.'",
+      "visual_prompt": "two inscribed stone tablets resting beside an olive branch on a rough ledge in the red granite crags of Mount Sinai",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 25,
+      "citation": "Exodus 25:8",
+      "text": "And let them make me a sanctuary; that I may dwell among them.",
+      "plain": "Then have them make a sanctuary for me, and I will dwell among them.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a dry desert wadi lined with acacia scrub",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 31,
+      "citation": "Exodus 31:3",
+      "text": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,",
+      "plain": "and I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge, and with all kinds of skills,",
+      "visual_prompt": "an unrolled parchment scroll weighted with smooth river stones on a wooden table in a rocky cleft in Horeb",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 32,
+      "citation": "Exodus 32:26",
+      "text": "Then Moses stood in the gate of the camp, and said, Who is on the Lord's side? let him come unto me. And all the sons of Levi gathered themselves together unto him.",
+      "plain": "So Moses stood at the entrance to the camp and said, 'Whoever is for the Lord, come to me.' And all the Levites rallied to him.",
+      "visual_prompt": "a heavy timber door with an iron latch set into a thick stone wall in a wind-swept wilderness camp clearing",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 33,
+      "citation": "Exodus 33:14",
+      "text": "And he said, My presence shall go with thee, and I will give thee rest.",
+      "plain": "The Lord replied, 'My Presence will go with you, and I will give you rest.'",
+      "visual_prompt": "a solitary cloaked traveler seen from behind walking along a stony path through the red granite crags of Mount Sinai",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 34,
+      "citation": "Exodus 34:6",
+      "text": "And the Lord passed by before him, and proclaimed, The Lord, The Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth,",
+      "plain": "And the Lord passed in front of Moses, proclaiming, 'The Lord, the Lord, the compassionate and gracious God, slow to anger, abounding in love and faithfulness.'",
+      "visual_prompt": "a reed pen and clay inkwell beside an open manuscript on a reading desk in a wind-swept wilderness camp clearing",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Exodus",
+      "chapter": 40,
+      "citation": "Exodus 40:34",
+      "text": "Then a cloud covered the tent of the congregation, and the glory of the Lord filled the tabernacle.",
+      "plain": "Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle.",
+      "visual_prompt": "an open wooden gate in an old dry-stone courtyard wall leading to a quiet pasture in a rocky cleft in Horeb",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

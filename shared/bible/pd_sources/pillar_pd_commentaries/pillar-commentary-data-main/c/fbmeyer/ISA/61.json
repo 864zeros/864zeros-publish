@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 61,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Acceptable Year of the Lord” -- Isaiah 61:1-11\n\nMessiah’s mission, Isaiah 61:1-3. At Nazareth our Lord applied these words to Himself. Let us care for the outcasts as He did; but to do so, we need to be anointed with the Holy Spirit, who rested so mightily on Him. The acceptable year is clearly that of Lev 25:8-13. Our Lord, when quoting this, stopped at the comma, Isaiah 61:2, because the day of vengeance is not yet. See Luke 4:19. Mark that it is only for a day! God not only delivers, but anoints and crowns.\n\nMessiah’s kingdom, Isaiah 61:4-9. In days yet future, the ruined cities of Palestine shall be restored. In a spiritual sense, we also may appropriate this promise. When we receive the Pentecostal gift, we also witness the restoration of the wastes, which our sins have caused in our own lives and in the lives of others. Let us clasp to our hearts Isaiah 61:7-9.\n\nMessiah’s joy, Isaiah 61:10-11. Jesus is the true bridegroom of the soul; and we may appropriate our side of these happy words. Note this combination of imputed and imparted righteousness. The one is put on as a garment, Isaiah 61:10; the other blossoms out from within, Isaiah 61:11. Oh, that from our lives God would cause righteousness and praise to spring forth!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 61
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 60
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 62
+ }
+}

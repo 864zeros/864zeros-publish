@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 84,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Longing for the House of God -- Psalms 84:1-12\n\nThis is one of the sweetest of the Psalms. David probably composed it during his absence from Jerusalem at the time of Absalom’s rebellion, though its final form may have been due to the sons of Korah. It is divided into three parts by the Selahs.\n\nThey who dwell in thy house, Psalms 84:1-4. The psalmist envies the winged things that rest in those hallowed precincts, and how much more the priests and Levites who serve there! Foxes have holes and birds have nests, but man can rest only in God.\n\nThose in whose hearts are the ways of Zion, Psalms 84:5-8. We may not be able actually to walk along those ways, but it is good to tread them in living sympathy with the saints, and to unite ourselves to the pilgrim hosts. Those absent from God’s house may in their heart join the great congregation. Thus dry and desolate valleys may become filled with water springs, making them green and beautiful. When the heart is right with God, the desert becomes a temple, and tears are exchanged for smiles.\n\nThe man who trusts in thee, Psalms 84:9-12. God is better than His sanctuary. He is a Sun in dark hours, and a Shadow in scorching ones. Grace is His unmerited pardon and blessing to sinners; glory the irradiation of His character, into the likeness of which we shall be changed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 84
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 83
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 85
+ }
+}

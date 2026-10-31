@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "fbmeyer",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Harvest of Greed and Injustice -- Micah 2:1-13\n\nMicah 1:1-16 dealt with sins against the first table of the law; this deals with those against the second. Evil must sooner or later befall those who devise evil against their neighbors, covet their goods, and oppress their persons. So absolute would be the destruction, that estates would no longer descend from father to son, or be measured by lot, Micah 2:5; and the people would become hard and callous to the prophet’s voice, Micah 2:6. Yet through it all God’s Spirit would yearn over His people, Micah 2:7-13; His words would still comfort humble souls. But the cruelty of men who despoiled their poor neighbors, not only of their ornaments but of the tunic next their skin, would bring disaster upon the entire nation. The guilty people must prepare to arise and depart, for Canaan could no longer be their home.\n\nBut even from captivity God would restore His people, breaking the way through walls of difficulty. Our Breaker is the Lord Jesus who broke the way for us from the prison-house of death. Let us follow Him as He passes on His way to victory."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 3
+ }
+}

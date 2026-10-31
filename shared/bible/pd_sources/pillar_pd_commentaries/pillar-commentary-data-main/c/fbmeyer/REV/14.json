@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lamb’s Chosen Worshipers -- Revelation 14:1-8\n\nThe blessed ones with whom this chapter opens are only the first-fruit sheaf from the great harvest field. Think of it! If one sheaf consists of 144,000, what will be the entire number of the saved? The characteristics attributed to them may be realized by us all now and here. We must bear the name, that is, the nature and character of Jesus, in our faces; we must be pure in heart and life; and we must go wherever He goes. If to Gethsemane, we must follow Him; if to Calvary, we must take up our cross and go thither; if to Heaven, we shall be with Him there also.\n\nIt is thought by some that this first-fruit sheaf represents the dear children who have died in early life and have become the Savior’s body-guard and close associates. It may be so, but more likely it stands for the possessors of the child-heart.\n\nIn majestic procession, one after another, strong angels are seen issuing from the heavenly portals, with “their sublime announcements. Notice the phrase, the everlasting gospel, Revelation 14:6. In other words, the gospel of the grace of God is no expedient brought in to patch up a program which has been seriously spoiled; it is as old as eternity and brings to men eternal joy, and peace, and hope."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The Winepress of God’s Wrath -- Revelation 14:9-20\n\nWe cannot understand the torment of those who are depicted in Revelation 14:9-12, except it be the remorse at having refused the love of the Lamb of God. Even Christ Himself cannot save a soul from its self-condemnation. Note the emphasis of Rev 14:13. The voice which pronounces the blessedness of the departed is from heaven. The emphasis is on the word henceforth. There is no pause in their onward progress, no dim and shadowy existence, no cessation in thought.\n\nFrom henceforth, that is, from the moment of death, they are blessed who die in the Lord; and this announcement is endorsed by the emphatic Yea of the Spirit. It is a great matter to have that affirmation to our words, whether we preach or teach. What could better authenticate them than that deep co-witness to God’s Word in the heart or in the Church? See Acts 5:32 and Hebrews 2:4.\n\nThis harvest scene surely stands for the blessed revivals which have from time to time visited the world, and may especially be reckoned on in the last days of the present dispensation. Only when the harvest is gathered in will the vintage of woe and wrath commence. To which ingathering do we belong?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 15
+ }
+}

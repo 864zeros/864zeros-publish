@@ -1,7 +1,7 @@
 # FormTimer Pro — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/formtimer/`  
 **Web Product Page:** https://864zeros.com/products/formtimer  
-**Pricing Model:** $9.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Turn Google Forms into timed exams and quizzes with automated submission cutoff.
 👉 Try FormTimer Pro: https://864zeros.com/products/formtimer
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $9.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet FormTimer Pro — the fast, local-first solution that solves this without m
 👉 Get FormTimer Pro: https://864zeros.com/products/formtimer
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $9.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -61,9 +61,9 @@ Per-Teacher Recurring Subscription Upsells — FormTimer Pro #Shorts
 ```
 * **YouTube Description:**
 ```
-Classroom timer add-ons charging $8/month per teacher? Keep your money and your students on time.
+Classroom timer add-ons charging one-time lifetime nth per teacher? Keep your money and your students on time.
 
-FormTimer Pro gives you complete control with a single $9.99 lifetime (no recurring monthly subscriptions).
+FormTimer Pro gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get FormTimer Pro: https://864zeros.com/products/formtimer
 

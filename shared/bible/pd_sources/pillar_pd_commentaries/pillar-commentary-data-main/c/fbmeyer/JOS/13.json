@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Much Land Yet to Be Possessed -- Joshua 11:16-23; Joshua 13:1-7\n\nWe do not know how long the war lasted. Probably about seven years, Joshua 14:10 (forty-five less thirty-eight). It was only in David’s reign that the Canaanites were finally subdued. Note that Joshua took the land and then gave it to Israel. So Christ received the fullness of the Spirit and all spiritual blessings as the Trustee of those who believe; but we must claim and appropriate our heritage. So at last there will be rest, Joshua 11:23.\n\nWith Joshua 13:1 begins the second division of this book. A Doomsday Book! How significant is the sentence, “Much land to be possessed.” This is true of tracts of the Bible, seldom read by ordinary Christians; of regions of experience, such as those alluded to in Colossians 3:1-4; and of countries in the world which have never been trodden by the feet of the missionary!\n\nRead also Joshua 13:13. What pathos it contains! Either they did not believe in God’s assurances, or were too indolent to claim them!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 14
+ }
+}

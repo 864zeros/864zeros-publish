@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Learn from Bible History -- 1 Corinthians 10:1-10\n\nTwice over we are told that the story of the Exodus was intended for our instruction, 1 Corinthians 10:6; 1 Corinthians 10:11. It becomes us, therefore, to study the account with the honest intention to obtain all the warning and suggestion that it is capable of yielding. The great lesson is human failure under the most promising circumstances. Here were people who had been brought out of the most terrible hardships and perils, who were under the greatest obligations to God, but who, in the hour of temptation, absolutely failed Him.\n\nConsider the privileges of the Chosen People. The cloud of divine guidance led them. The Red Sea, like a grave, lay between them and the land of bondage. They ate daily of the heavenly manna and drank of the water that gushed from the rock. But all these are types of spiritual blessings which await us in Christ. His grave lies between us and the world; His guidance is ours; we daily feed on His life and help. Let us take heed that we do not, like Israel, allow Moab to cast the witchery of sensual indulgence over us, lest we excite God’s displeasure. Let us not tempt the Lord by murmuring or distrust. Let us ever live worthily of Him who has called us out of darkness into His marvelous light."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Have No Fellowship with Evil -- 1 Corinthians 10:11-22\n\nBy the end of the world is meant the end of one great era and the beginning of another. The Jewish dispensation was passing, the Christian age coming. What gracious encouragement shines in 1 Corinthians 13:1-13! Our faithful God! The tempter must get permission before assailing us, Luke 22:32. No temptation is unprecedented, and as others have conquered so may we, Hebrews 4:15. The pressure of temptation is always accompanied by a corresponding store of grace, if only our eyes were open to perceive it.\n\nTo abstain from idol feasts was the clear duty of all Christians. By partaking of heathen sacrifices which were offered to demons, they became one with the demons and their votaries; just as in the Lord’s Supper we show our oneness not only with the Savior but with each other. It was clear, therefore, that the Corinthian Christians could not consistently partake of idol feasts and the Lord’s Supper. What an incentive is given here to frequent and reverent participation in the Lord’s Supper! It proclaims our union with Him and His people, and it gives us a distaste for all that is alien to its spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "“Do All to the Glory of God” -- 1 Corinthians 10:23-33; 1 Corinthians 11:1\n\nThere seems to be a, clear distinction in the Apostle’s directions between feasting in an idol temple on the one hand, and the acceptance of an invitation to a private house, as in 1 Corinthians 10:25; 1 Corinthians 10:27, on the other. The believer in Christ knew that an idol was nothing in itself, and the fact of food having been offered before a shrine did not make it better or worse. It was a common practice, and meant nothing so far as Christian disciples were concerned. But if an unbeliever were to make the meal a test of faith, by reminding believers that in partaking of such food they were implicitly partners in heathen rites, then there was no course but to refuse and abstain.\n\nIn every meal and act we must so conduct ourselves that praise and honor may redound to God. The thankful enjoyment of God’s gifts of food, which constitutes the essence of a Christian meal, must always be subordinated to our consideration of the religious scruples of others; and we must avoid doing anything which would blunt and injure their faith. Though our intelligence may give us a wide liberty in regard to personal conduct, we must allow a check to be placed on it by the thoughtfulness of Christian love."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 11
+ }
+}

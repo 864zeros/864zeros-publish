@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Executioners of Evil-Doers -- 1 Kings 16:1-14\n\nA noble figure crosses the canvas for a moment. It is Jehu, the son of Hanani, shining like a star in the night. No age has been without its prophets; no life, however abandoned, has been without some remonstrating voice; no soul goes over the cataract without a warning cry. And these messages, answering to the voice of conscience within, reveal the pitying love of the Father, not willing that any should perish, Ezekiel 18:23. Hanani, Jehu’s father, had been a prophet, 2 Chronicles 16:7, and Jehu held the same office for a long period, 2 Chronicles 19:2; 2 Chronicles 20:34.\n\nBaasha died in peace and was buried in state. But such an end is not the end, and points forward to another life, since God is God, Psalms 17:14. Elah and the remainder of the royal house were cut off by Zimri, and the extermination was so complete that none of his avengers were left. But Zimri, after a reign of seven days, was similarly treated, 2 Kings 9:31. Seven days are long enough to test a man, and in that brief space Zimri found time to walk in the way of Jeroboam and his sin, 1 Kings 16:15; 1 Kings 16:19. Such is the course of this world. Happy are they who, amid political convulsion, live the life of the quiet in the land, 1 Thessalonians 4:11, and receive the kingdom that cannot be moved, Hebrews 12:27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Persistence in Sinful Ways -- 1 Kings 16:15-28\n\nThese chapters afford a dreary record of apostasy and revolution, of idolatry and national disaster. Perhaps the great mass of the people-the peasantry-were not greatly affected by these dynastic changes, though severe judgments of famine and drought were soon to make the nation realize what an evil and bitter thing it is to desert the Fountain of living waters for broken cisterns that can hold no water, Jeremiah 2:13. Four times in this chapter we meet the phrase, “provoke to anger,” 1 Kings 16:7; 1 Kings 16:13; 1 Kings 16:26; 1 Kings 16:33. To idolatry was added intemperance, 1 Kings 16:9, and the fruit was suicide, anarchy, and civil war, 1 Kings 16:18; 1 Kings 16:21-22. But great as these evils were, they were to be surpassed, I Kings 1 Kings 16:30.\n\nThe one sufficient bulwark against universal anarchy is the maintenance of true religion. People talk with glib tongues against the Puritan conscience and demand the secularization of the Lord’s day, but they are surely imperiling the stability and order of the commonwealth. More than is ordinarily realized are the relations between man and man affected by the relation between the nation and God. The writings of Voltaire helped to bring on the French Revolution; while the religious revivals of the eighteenth century, both in England and in America, contributed greatly to solid national progress."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Sin’s Climax Summons Jehovah’s Prophet -- 1 Kings 16:29-34; 1 Kings 17:1-7\n\nFrom the beginning of his reign Ahab set aside both the First and the Second Commandment. His marriage with Jezebel, the young and beautiful Sidonian princess, plunged him and his kingdom into yet deeper darkness. In addition to Jeroboam’s calves, the worship of Baal, the sun-god, was shamelessly introduced, and his temple was served by hundreds of priests. The inspired artist does not hesitate to paint with Rembrandt colors, and the illustrious glory of Elijah shows clearly against the dark background. The darkest hour precedes the dawn; the keenest pain ushers in birth. First Ahab and Jezebel, then Elijah.\n\nGilead was far from court or temple-God trains His workers in His own school. The prophet’s name-“Jehovah is my strength” -suggests where he abode and whence he derived his power. He stood before God for the uniting and the uplifting of a divided people. The drought was the result of prayer. Elijah felt that nothing less could arrest king and people, James 5:17. The man who stands before God is not afraid to stand before Ahab. Now and again God bids His servants hide themselves toward the sunrise, but in these periods of enforced seclusion He makes Himself responsible for their supplies."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 17
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "fbmeyer",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Putting Away Strange Marriages -- Ezra 10:1-19\n\nThe people seem to have been more impressed by Ezra’s intense grief of soul than they could have been by his severest condemnation. Is not this the secret of winning men from their evil ways? But we must not expend all our force in tears; we must act when we have opportunity. Shechaniah was not implicated, but his father and other near relatives were, Ezra 10:26. His words may be appropriated by us all, Ezra 10:2. There is always hope for the man who repents and puts away evil.\n\nIt is a great encouragement when brave men will stand by the reformer, but whether they do or not, there is One who neither leaves nor forsakes, Hebrews 13:5-6. A drastic remedy was required; it seemed very hard and must have occasioned many heartbreaks. Probably if a wife had truly turned to the God of Israel, she would have been retained. God demands the sacrifice of anything which comes between us and Him, however dear, Mark 9:43; Matthew 10:37. There is no warrant for such action in our days. The process of the Gospel is given in 1 Corinthians 7:12-13.\n\nA solemn assembly was convened in the month of December, the coldest and rainiest time of the year. A court of inquiry was finally appointed, who continued their labors for about a quarter of a year. The offense seems to have been temporarily eradicated, though we meet with it again, Nehemiah 13:23; Malachi 2:11. Each generation repeats the sins of its predecessors, unwarned by their bitter experiences. Not the study of history, but the Spirit of God is needed to deal with and subdue individual and national sins."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 1
+ }
+}

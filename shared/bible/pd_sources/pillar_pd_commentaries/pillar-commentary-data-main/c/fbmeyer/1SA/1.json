@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Hannah’s Prayer and Vow -- 1 Samuel 1:1-11\n\nElkanah was evidently a kind husband to Hannah; but marriage had suffered from the general relaxation of morals, and the bitter effects of polygamy are illustrated here. Because Hannah was specially loved, Peninnah hated her.\n\nThe grief of the childless wife drove Hannah to God. There she found her only resource. When the heart is nigh to breaking, what else can we do than pour out our complaint before the One who is ever ready to hear our cry? We may trust God with our secrets; He will keep sacred our confidence. Elkanah’s love may go a long way, but we have for the most part to tread the wine-press alone. After we have eaten and drunk before our friends, “anointing our head and washing our face,” that they may not guess what is happening within, we must have a spot where we can unbend and open the sluice-gates of grief.\n\nAnd what place is so good as the Mercy-Seat? We need not vow our vows to bribe God to help us. The gifts of His love are more blessed for Him to give than for us to receive. But out of love we can vow what we will."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Child Dedicated to God -- 1 Samuel 1:12-28\n\nHere is a delightful specimen of secret fellowship with God, and its results. Many were coming and going in the Tabernacle-court. It was no place for private prayer; and this sad woman had no opportunity for audible petition, so she spake in her heart. We may all do that amid the crowds that sweep gaily past us in their light-hearted way. Let us not grow weary. “She continued praying before the Lord.” People may misunderstand and reproach you. The Eli’s that judge superficially may leap to hasty conclusions, but pray on! Pray on, though the prayer seem impossible of answer! Pray on, though heart and flesh fail! Pray on, for God will yet raise the poor from the dust and the beggar from the dunghill! When you have committed your cause to God, go in peace and be no more sad.\n\n“The Lord remembered her.” Of course He did. He has graven us on the palms of His hands, and the ruined walls of our peace are ever before Him. The hour will come when, like Hannah, you will stand on the very spot where the prayer was offered, to confess that God has given you the petition that you asked of Him. God cannot fail, and His gifts are sweetest and safest when they are returned to Him by His children."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 2
+ }
+}

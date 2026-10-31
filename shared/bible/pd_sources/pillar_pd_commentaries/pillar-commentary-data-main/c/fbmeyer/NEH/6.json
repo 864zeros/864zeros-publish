@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Great Task-A Safeguard from Danger -- Nehemiah 6:1-19\n\nHow often Satan tries to call us off from our work for God! He cannot endure to see us engaged so eagerly on our Master’s business and therefore raises up all sorts of hindrances and hostilities. Amid all these we have but one duty to perform. We must lose ourselves in our work. Ours to reply, “I am doing a great work, I cannot come down; why should the work cease?” If we will see to God’s business, He will see to our safety. False friends, who prophesy in God’s name, are more to be dreaded than open foes. We must learn to discern the spirits. The counsel which savors of self is always to be suspected. Note that Nehemiah considered that to have fear would have been to sin. But God was with the little band through dangers, and the wall was finished in spite of all opposition, 1 Corinthians 15:58."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 7
+ }
+}

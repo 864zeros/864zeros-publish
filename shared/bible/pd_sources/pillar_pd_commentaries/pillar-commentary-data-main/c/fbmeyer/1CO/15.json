@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Gospel: Christ Died and Rose Again -- 1 Corinthians 15:1-11\n\nIf 1 Corinthians 13:1-13 is a psalm of love, this chapter is a psalm of hope-a hope that cannot be ashamed. It is the most memorable argument in existence for the resurrection of the body. We need hardly stay to distinguish between this and the immortality of the soul. The former is distinctly a Christian teaching; the latter has been held by vast numbers outside of the Christian pale.\n\nNotice that the Resurrection was primarily not a doctrine but a fact. It is not necessary to argue it, but simply to say that Christ arose, therefore all will arise, because Christ is the Son of man. Other religions rest on foundations of philosophy and metaphysics, but the empty grave in Joseph’s garden is the keystone of the arch. If that cannot be maintained, as it was in the primitive Church, the whole superstructure crumbles like a mass of clouds. But it can be maintained. There is even more evidence for it than for any fact of modern history.\n\nMen may as soon refuse to believe in the battle of Waterloo as in our Lord’s resurrection. The testimony of Paul is most important, because he knew all that could be alleged or argued against it by the Pharisees. Indeed, he had himself opposed it. Note that the words, not I, 1 Corinthians 15:10, are also in 1 Corinthians 7:10 and Galatians 2:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Christ’s Resurrection Assures Ours -- 1 Corinthians 15:12-28\n\nThe argument here goes to show, first, that our resurrection is intimately connected with Christ’s. There must be such a thing, because he, as the representative of humanity, arose from the dead, in a human body which, though more ethereal in its texture, was easily recognizable by those who had known Him previously. Mary was recalled by the well-known intonations of her Master’s voice. Thomas was compelled to believe, in spite of his protestations to the contrary. In fact, all of our Lord’s friends were convinced against themselves. They credited the tidings of the risen Lord as idle tales. Therefore, says the Apostle, it is far easier to admit that man will rise than to face the difficulties of a still buried Christ, a vain faith, a vain gospel, and a false testimony from so many accredited witnesses.\n\nWhat a burst of music breaks forth in 1 Corinthians 15:20-28! The first fruit sheaf is the forerunner and specimen of all the harvest. In Christ the whole Church was presented to God, and we may judge of the whole by Him. Note the divine order in 1 Corinthians 15:23 : first, Christ; then, His own; lastly, the end, when death itself shall be destroyed, all enemies conquered, and the kingdom of an emancipated universe finally handed back by the Mediator to the Father."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "This Body the Seed of a Glorious One -- 1 Corinthians 15:29-41\n\nThe anticipation of the final resurrection enabled the early Christians to endure incredible sufferings. As one rank fell martyred, another was ready to step into its place; and the catechumens, or young believers, took the names of the martyrs, so as to perpetuate their testimony. With this hope in his heart Paul himself had confronted at Ephesus the tumult of the infuriated mob, Acts 19:1-41. Belief in this sublime undoing of the last effects of sin was one of the chief features in the conquering power of Christianity.\n\nIn every seed there is the germ of a new and beautiful growth, more elaborate and yet identical; so in each of us there is something which has the capacity and potentiality of furnishing another body, through which the emancipated spirit will be able to express itself more perfectly than it can in this body, which is composed of coarser materials. It is not difficult to believe in this, when we have seen the caterpillar become the butterfly. The world is full of wonderful and beautiful things. God’s inventiveness reveals itself in a myriad differing organisms. It is by His will that the golden head of wheat is fairer than the little brown seed cast into the furrow; so it is His pleasure that the body which is to be shall surpass the present in glory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 42,
+    "content": [
+     {
+      "text": "Victory over Sin and Death -- 1 Corinthians 15:42-58\n\nLife on the other side will be as real and as earnest as here. We shall not dissolve into thin mist or flit as bodiless ghosts. We shall each be provided with a body like that which our Lord had after, He arose from the dead. It will be a spiritual body, able to go and come at a wish or a thought; a body that will be perfectly adapted to its spiritual world environment. The last Adam, our Lord, will effect this for us. But we must in the meanwhile be content to make the best use of the discipline of mortality, keeping our body pure and sweet as the temple and vehicle of the Holy Spirit until we are born into the next stage of existence. Always the physical before the psychical and the psychical before the spiritual.\n\nWhat triumph rings through those last four verses! As generations of Christians have stood around the mortal remains of their beloved, they have uttered these words of immortal hope. The trumpet’s notes will call those who have died and the saints that are still alive on the earth, into one mighty host of transfigured and redeemed humanity. Oh, happy day! Then we shall be manifested, rewarded, and glorified with Christ. All mysteries solved, all questions answered! Till then let us abound always in the work of the Lord."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 16
+ }
+}

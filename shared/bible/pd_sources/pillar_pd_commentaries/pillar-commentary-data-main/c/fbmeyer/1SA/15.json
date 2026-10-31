@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Leading the People in Disobedience -- 1 Samuel 15:1-16\n\nSeveral years intervened between the preceding chapter and this. The kingdom had become strong and prosperous. It seemed as though Samuel’s sentence of deposition had been forgotten. But even in hot summer weather, the taint of autumn decay may be in the air. The speck of corruption was slowly eating into Saul’s heart, and at last, when this charge came concerning Amalek, the evil was revealed to all. Amalek was under a curse, and the existence of the tribe was a standing menace to the peace and prosperity of the surrounding nations; hence the edict for its destruction, Exodus 17:16.\n\nEven in this world God judges the nations, and condemns such as have ceased to fulfill His purpose. In spite of God’s distinct command, Saul connived at the reservation of the choicest and best of the spoils, and this brought about his rejection. It is noticeable, also, that an Amalekite claimed to have dispatched Him on the field of Gilboa, 2 Samuel 1:1-10. If we spare what God has commanded us to destroy, it may later destroy us. Take care in your obedience; you serve an exacting though loving God!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Shallow Repentance Unavailing -- 1 Samuel 15:17-35\n\nSamuel was deeply moved when he heard of Saul’s failure, “and he cried unto the Lord all night.” Thus he was prepared to accost the sinful king. Mr. Finney tells of a minister who was so burdened with the souls of men that he could do but little preaching, his whole time and strength being given to prayer. It is only in that spirit that men like Samuel can undertake their solemn duty.\n\nSaul’s response was very unsatisfactory. He began by laying the blame on the people, 1 Samuel 15:21. He pretended that the object of sparing the cattle, etc., was to sacrifice them to God-a very hypocritical excuse, 1 Samuel 15:22. Without any deep consciousness of sin, he lightly professed sorrow, and hoped to pacify Samuel by asking that they might kneel together in worship, 1 Samuel 15:25. When the old prophet refused to let him off so easily, the only thing that Saul cared for was that the elders should still honor him, 1 Samuel 15:30. How hardened Saul had become! This was the beginning of the sin unto death.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 16
+ }
+}

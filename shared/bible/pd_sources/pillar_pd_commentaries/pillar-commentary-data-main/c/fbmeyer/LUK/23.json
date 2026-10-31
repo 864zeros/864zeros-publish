@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Silent under False Accusations -- Luke 23:1-12\n\nThe Jewish Sanhedrin, hastily summoned at the hour of dawn, having elicited from Jesus the profession of His messiahship and deity, and having concluded on the death sentence, set themselves to induce Pilate, the Roman governor, to concur in their verdict. In order to do this, they urged that Jesus imperiled the Roman supremacy.\n\nPilate was accustomed to deal with men, and after careful examination, was satisfied that there was no ground for the death sentence. I find no fault. As God’s Paschal Lamb, the Savior was searched to discover if there were spot, or blemish, or anything that could invalidate His claim to sinlessness. Only the sinless could save sinners. In his heart Pilate knew that our Lord should be acquitted, but his fear of the Jews deflected the verdict of his conscience. By sending the case to Herod, he hoped to get the right thing done, without incurring the odium incident to doing it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Barabbas or Christ? -- Luke 23:13-25\n\nHerod’s moral nature had become almost extinguished by a long course of immorality and cruelty. While the Baptist lived, he had “done many things” and heard John gladly; but when the beheading of this faithful witness on his own orders had taken place, the royal sinner went headlong to ruin. He treated this incident with flippant levity. The gorgeous raiment, being an imitation of the royal apparel of the Jewish kings, may have suggested the inscription affixed to the cross.\n\nBy giving the people the alternative of Christ or Barabbas, Pilate expected that they would certainly choose the former. To his dismay, this second effort to salve his conscience without endangering his reputation failed. So he drifted and sold his soul for power. Each of us has to choose between Christ and Barabbas, between the self-surrender of the Cross and brutal selfishness. Barabbas must have stolen to the Cross in the afternoon and said, as he stood there: “He hangs where I should have been. I am saved by His death.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "“They Crucified the Lord of Glory” -- Luke 23:26-34\n\nSimon’s two sons are believed to have become Christians. See Mark 15:21, Romans 16:13. Perhaps this strange interruption in his ordinary experiences led to the whole household becoming Christian. Jesus and he bore the cross together. So later, Symeon of Cambridge, who was much reviled for his evangelical principles, loved to think that he and Christ were suffering together.\n\nEver more thoughtful for others than for Himself, the Lord seemed to forget His griefs that He might address warnings and entreaties to these poor women, Luke 23:28. He was the young green tree in the forest glade, consumed in the awful heat of divine burnings, while they and theirs were the dry wood, which would soon crackle in the overthrow of their city.\n\nOn the cross our Lord became immediately the high priest, pleading for the great world and for His own; and He has never ceased since. See Hebrews 7:25. Sins of ignorance are placed in a different category from those of presumption; See 1 Timothy 1:13, 1 John 5:16. The answer to that prayer, Luke 23:34, was given on the day of Pentecost."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Saving Others by not Saving Himself -- Luke 23:35-46\n\nRulers, soldiers, and malefactors all heaped their insults on the dying Lord, little realizing that they were all included in the great love which was pouring itself out as the propitiation for the sins of the whole world. It may be that we shall have to share the same opprobrium, if we drink of His cup and are baptized with His baptism. But God will do for us as He did for Jesus; He will not leave our soul in the grave nor suffer His own to see corruption, Psalms 16:10.\n\nThe signs of renewal, wrought in the heart of the penitent thief, showed the sure work of the Holy Spirit. These were the fear of God, the sense of justice in His suffering, the confession of evil deeds, the recognition of our Lord’s sinlessness and dignity, and the anticipation of His coming Kingdom. We may begin a day under the dull skies of earth and close it where there is no need of sun or moon. See Philippians 1:23; 2 Corinthians 5:6. For the rent veil, see Hebrews 10:20. Dying saints have often passed home with our Lord’s last words on their lips, Psalms 31:5; Acts 7:59."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 47,
+    "content": [
+     {
+      "text": "Faith from, Unexpected Quarters -- Luke 23:47-56\n\nGod has His agents everywhere. They are not known to us, but are well known to Him, and one word from Him will bring them and their resources to His help. How many are unsuspected lovers of His Kingdom! Who would have thought that Joseph was waiting for the kingdom of God, or that he would have identified its advent with the death on the cross!\n\nThe body of our Lord was well cared for. They who commit themselves to God will find that He will make Himself responsible for the body, in life to feed and in death to honor; see Matthew 6:33; Deuteronomy 34:6. The new tomb was so ordered that there could be no possible mistake in identifying the precious body, and that the Resurrection should be beyond question. Love, which clings to the last offices with tender solicitude hastened to express itself with a devotion that braved the hatred of the rulers. Darkness and silence settled on the scene-but this was not the end."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 24
+ }
+}

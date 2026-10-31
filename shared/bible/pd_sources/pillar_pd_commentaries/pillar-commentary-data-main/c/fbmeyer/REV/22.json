@@ -1,0 +1,52 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The River of Water of Life” -- Revelation 22:1-9\n\nThe first five verses of this chapter obviously belong to the preceding one, from which they should not be severed. The ever-flowing river of life proves that the whole life of the blessed depends on the life of God, resident in the enthroned Lamb and communicated through the Holy Spirit. In Eden there was one tree of life; in the New Jerusalem there is a grove with perennial fruit, not protected by a flaming sword, but standing freely in the main thoroughfare, that all who will may take. Observe the threefold description of the saints-they serve, they behold, and they resemble Revelation 22:3-4. No night with its shadow; no rest is needed in the delightful service; no artificial, but un-derived and original light; no cessation of regnant power, for they shall reign forever and ever.\n\nWhen the visions end, John is assured of the reality and truth of all that he has heard and seen. It appears that the Master Himself broke in with the assurance of His speedy advent; and who shall say that that assurance has failed, when we measure the flight of time with the years of the right hand of the Most High? We should remember also that the fall of Jerusalem and the sack of Jerusalem marked stages in the Advent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“Come, Lord Jesus” -- Revelation 22:10-21\n\nStill, four times repeated, implies the crystallization and permanence of character. The rewards mentioned here are for the faithful service of Christ’s stewards, as in Matthew 25:21. For the fourth time, He who began the book and closes it, uses of Himself the divine monogram of Alpha and Omega, Revelation 1:8; Revelation 1:11; Revelation 21:6. In the Authorized Version the way to the tree of life was opened to those who kept the commandments, but it is very comforting to read in the Revised Version that this blessed privilege is for those “who wash their robes.” Notice the combination of various titles in Christ: David’s Lord and David’s Son; the Morning Star and the Sun of Heaven’s Day; the Coming One, for whose quick return the whole creation waits; and the Water of Life, of which whosoever will may drink. The appeal of Rev 22:17 is to our Lord, asking Him to make haste to come, and it is answered in Revelation 22:20. But who shall tell whether that cry may not, sooner than we think, be answered by a spiritual transformation of the things seen and temporal, so that without a break, in the twinkling of an eye, the veil of matter may be rent, and the whole imminent glory of the unseen and eternal swim into view! Let us be on the alert!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 21
+ },
+ "nextChapterReference": null
+}

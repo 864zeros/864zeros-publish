@@ -1,0 +1,5 @@
+file 'live_step1_enable.wav'
+file 'live_step2_save.wav'
+file 'live_step3_submit.wav'
+file 'live_step4_eliminated.wav'
+file 'live_step5_outro.wav'

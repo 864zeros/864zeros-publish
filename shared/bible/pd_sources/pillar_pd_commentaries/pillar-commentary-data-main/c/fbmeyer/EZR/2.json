@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "fbmeyer",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 61,
+    "content": [
+     {
+      "text": "The Building of the Altar -- Ezra 2:61-70; Ezra 3:1-7\n\nThroughout their history the true Israelites were eager to maintain their genealogy; wherever they were scattered, they carefully guarded their national registers. Each of us should be able to establish his descent and to vindicate his claim to be considered a child of God, a joint-heir with Christ, a partaker in the inheritance which God has promised to them that love Him. If you cannot establish your sonship, you may doubt your right to the spiritual blessings which are a part of the family estates. This is clearly illustrated by the prohibition issued against the eating of the most holy things by the priests whose names were not found in the register. They must wait till the Urim and Thummin attested that they were Israelites indeed. What that witness was in these olden days, the testimony of the Holy Spirit is within us. He witnesses with our spirit that we are born of God.\n\nThe first act of the restored Jews was to set up the House of God. For this they gave willingly, and after their ability. The altar was the center of their religion. So the Cross of Jesus is the center of our life and worship, reminding us of His work for us in justification, or His claims in sanctification."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 3
+ }
+}

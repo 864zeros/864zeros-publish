@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“A New Heaven and a New Earth” -- Revelation 21:1-8\n\nHere is a vision of the new creation. This is the “restitution of all things” to which Peter refers in Acts 3:21, and the deliverance of creation from the bondage of corruption which Paul anticipates in Romans 8:21. No words can portray in positive description what that universe will be, and even the inspired writer has to confine himself to negatives. All he does is to name various elements of terror and dread, saying: This shall not be there, nor that, nor the other, all of which are the fell brood of human sin. The one great positive blessing will be that which was given to Israel in type, but then will be the perpetual experience of the human family. Compare Revelation 21:3 and Exodus 25:8.\n\nLet us see to it that here and now the Lord Jesus is the Alpha and Omega, the A and Z of our life. If so, we may even in this mortal life begin to experience the life of the redeemed. We may now inherit all these things, and know the intimacy of Rev 21:7. But we must overcome. Note that the fearful, that is, the cowardly, who draw back in the face of opposition, are classed with the abominable and murderers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "“The Holy City” -- Revelation 21:9-27\n\nThe “new Jerusalem” is the redeemed Church united with her Lord in the act of governing the whole world. A city is obviously the seat of imperial rule. In that blessed condition the saints will rule the earth as the powers of darkness rule it now. We shall enjoy the fellowship of the good and great of every age. In a literal sense we shall be fellow-citizens with the saints. All ages and dispensations will blend there. Angels at the gates; the names of the twelve tribes and twelve Apostles engraved in imperishable characters to indicate the blending of the dispensations; the differing stones, representing variety of character and function but all blending in the light of the Lamb on the throne.\n\nThe happy throngs pour through the gates with never-ending rapture. Those gates, facing every quarter, stand always open; but none desire to go forth, except commissioned on some errand by the King. All the glory and honor of the world are gathered within those walls, because Jesus will be king over every department of human life. There will be room for all beauty, art, and culture in the city of eternal light and love."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 22
+ }
+}

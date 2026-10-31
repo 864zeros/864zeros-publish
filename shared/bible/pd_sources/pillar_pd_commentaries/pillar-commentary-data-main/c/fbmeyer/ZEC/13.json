@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "fbmeyer",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Day of Testing -- Zechariah 13:1-9; Zechariah 14:1\n\nThis Fountain was opened, when the soldier pierced the Savior’s side. But it is not enough for God to forgive; He must deal drastically with the waywardness of his people. And so thorough would be the work, that parents would rather their son should die than assume for filthy lucre and without the divine call, the lucrative profession of a prophet. A township would arise against a man suspected of being a prophet, who, in his terror, would pretend that he was a tiller of the ground. And if they discovered marks in his body which indicated that he had been previously branded as a false prophet, he would rather assert that his friends had been the cause of his affliction, than that he had any sympathy with the prophetic office.\n\nNote that remarkable anticipation, Zechariah 13:7-9. See Matthew 26:31. Jesus knew that He was the Father’s fellow. He thought it not robbery to be equal with God. “We will come unto Him, and make our abode with Him.” But He is also the Man. By the grace of the One Man, we may reign in life, Romans 5:17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 14
+ }
+}

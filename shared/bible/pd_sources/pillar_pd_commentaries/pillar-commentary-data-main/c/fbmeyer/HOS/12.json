@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Turn to God, not to Selfish Gain -- Hosea 11:12; Hosea 12:1-14\n\nThough Judah still ruled with God, Hosea 11:12, yet there was grave fault in him, and, like Ephraim, which had been engaging the prophet’s thought, he also must come under the rod. But throughout this paragraph there lingers the sweet music of the previous chapter, and especially the reminiscence of Israel’s early days, when he had power with the Angel and prevailed. The angel-haunted ideals and resolves of Beth-el could not be forgotten. Tears and weakness are the best arguments with God. He yields to us when we are weak; He yields to our despair. The soul that has been shut up to God and then casts itself at His feet can have what it will. Only beware lest after such an interview with the Angel, you deteriorate into a deceitful trafficker, and allow your God-given power to be reduced to making gain.\n\nNotwithstanding all, God was still willing to call His people to the Feast of Tabernacles, the gladdest of all the feasts in the Hebrew year. But even divine love was thwarted by their inveterate sinning. How wonderfully these ancient prophets conceived of the love of God! The spirit of revelation led them to make declarations that the Cross has more than realized!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 13
+ }
+}

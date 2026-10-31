@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "fbmeyer",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Live not for Today Alone -- Ecclesiastes 11:1-10\n\nThe casting of bread upon the waters is an allusion to the oriental custom of casting rice-grains on the fields, when they lie submerged beneath the annual inundation of such a river as the Nile. To the inexperienced eye, this would seem the prodigality of waste, but the husbandman knows full well that he will meet his seed again with abundant returns. So it is in life, whether we befriend young boys and girls, or distribute tracts, or speak kind and loving words, or invest our money in philanthropic enterprise, we are casting our bread upon the waters to find it after many days in this world or the next.\n\nBut how wise the advice not to be always considering the winds and clouds, Ecclesiastes 11:3-4. There is considerable hazard in the life of the farmer. If he waits until all the conditions are favorable, he will never begin. So with our work for God. We must risk something. Often the word spoken at an apparently untoward moment will prove to be the word in season, while that spoken under the most favorable conditions will yield no return at all. God gives it a body as, and when, and how it pleaseth Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 12
+ }
+}

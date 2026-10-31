@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 55,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Free Offer of Pardoning Grace -- Isaiah 55:1-13\n\nThe Prince of Life, Isaiah 55:4, r.v. Four times in the New Testament this title is applied to our Lord, and always in connection with His Resurrection. See Acts 3:14-15; Acts 5:31; Hebrews 2:9-10; Hebrews 12:2, where the words prince, author, and captain, are various translations of the same Greek word. The meaning of the original word is file leader. He leads out of death into life; out of defeat into victory; out of suffering into perfection; out of the sorrow and pain of discipline into the triumph of the sons of light.\n\nThe everlasting covenant, Isaiah 55:3. David’s sin could not cancel the sure mercies of God. See 2 Samuel 7:14-16 and 2 Samuel 23:5. God will never go back on that covenant which includes us! See Hebrews 8:1-13. God’s mercies in Christ are sure. Listen! Come! Hear! We are not only forever safe, but we are provided against all want.\n\nGod’s abundant provision is described under several terms: waters, wine, milk, wholesome and satisfying bread, the good, fatness, Isaiah 55:1-2. We are blessed with all spiritual blessings in Christ, Ephesians 1:3. And because God’s thoughts and ways are not as ours, the result is the transformation of thorns into firs and briars into myrtles."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 55
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 54
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 56
+ }
+}

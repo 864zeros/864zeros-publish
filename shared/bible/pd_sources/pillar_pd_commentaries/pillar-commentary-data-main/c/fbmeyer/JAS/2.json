@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JAS",
+  "commentaryId": "fbmeyer",
+  "name": "James",
+  "commonName": "James",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Avoid Servility to the Rich -- James 2:1-13\n\nThis sin of making distinctions in God’s house is as rife today as ever; and wherever it is practiced the divine Spirit departs. God’s love is impartial, so far as outward appearances might affect it; and in His Church the only real differences must be those of humility, purity and righteousness.\n\n“Blessed are the poor in spirit,” whether they be rich in this world’s goods or not. But it is easier for a poor man to be rich in faith and an heir of the Kingdom, because he can give more of his attention to the things of the Spirit.\n\nThe law of love must be supreme with us; and we must love our fellows, whatever their position or property, as ourselves, for Christ’s sake. If we fail in this, we show that we have never entered into the heart of the Christian faith. A man may observe all the laws of health; but if he inhale one whiff of poison he may die; so we may be outwardly obedient to the entire Decalogue, but delinquency in love will invalidate everything."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Deeds the Evidence of Faith -- James 2:14-26\n\nThe Apostle is speaking here of a faith that does not result in a changed life. It is the faith which believes about Jesus Christ, as distinguished from that which believes in Him. We may believe about Him as we do about Luther or Washington, but such faith will not avail, either here or hereafter. It can no more affect our condition than the pious wish that a shivering beggar may be warmed, and fed will make him either one or the other.\n\nThe presence or absence of results in life and conduct is the real test of faith, as the green shoot of a living seed. James calls these results works. We are justified by works, because they prove our faith to be the real faith. Real faith binds the soul to the living Christ, produces deep penitence and humility, and brings about an absolutely new sort of behavior-as when Abraham was willing to offer Isaac, and Rahab received and assisted the spies. To reckon on God is to be a friend of God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 3
+ }
+}

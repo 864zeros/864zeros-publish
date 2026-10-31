@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Days of Recompense Are Come” -- Hosea 9:1-9\n\nThe subject of this chapter is the bitterness of the captivity which was awaiting Israel as the result of their unfaithfulness. Their exile would put an effectual end to their idolatrous and sensual feasts. Every pleasure would be removed and every taste would be offended. The contrasts here are very significant. If men choose unclean things when they might have clean, a situation will be created in which only unclean things shall be attainable, Hosea 9:3. If they withhold God’s offerings when they have plenty, they will presently be reduced to such straits as not to have wherewith to sacrifice or even to sustain life, Hosea 9:4-5.\n\nIf we go down to Egypt for help, in Egypt we shall die, Hosea 9:6-7. In other words, every sin carries within itself the seed of its own avenging. If allowed to work itself out, its harvest is unutterable and irretrievable.\n\nWhat a privilege Ephraim had within his grasp, as a watchman with God, Hosea 9:8! It is to this privilege, also, that our Savior calls all of us. He says to us, as He said to His disciples, Tarry ye here and watch with me. But too often we refuse to heed the gracious challenge, and allow ourselves to be seduced by the tempter, or by the sloth and corruption of our own hearts, Hosea 9:8-9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“Wanderers among the Nations” -- Hosea 9:10-17\n\nAt the Exodus the love and thanks of Israel were as delightful to God as grapes in the desert or as the first ripe figs. But they gave themselves up to the idols of the heathen, and soon became as abominable as the impure gods which they chose.\n\nThe prophet does not hesitate to speak plainly of the effects of the awful license of that age. He says that a nation which sins as Israel had sinned must, in the very nature of things, cease to exist. The birth-rate declines and the family-life is stricken at its roots. So long as the home is reverenced, and there is a pure and holy love between man and woman, so long, and only so long, is the nation safe. All the battalions that tyrant ever mustered, break on that rock of chrysolyte in vain. But sin is like dry-rot, which eats out the vitality and virility of a people.\n\nIt is an awful verdict when God says, They shall bear no fruit, Hosea 9:16. We all know the fate of the unfruitful bough. It is only as we yield fruit that we are worth sparing. Will the nations of today learn this lesson? And may we not all question whether the lack of spiritual children does not betoken some degeneracy of our secret life?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 10
+ }
+}

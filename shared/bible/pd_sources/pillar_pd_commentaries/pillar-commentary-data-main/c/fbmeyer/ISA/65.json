@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 65,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Seed Rescued from Destruction -- Isaiah 65:1-12\n\nThe prophet now enumerates the reasons that forced the Lord to turn aside from the Chosen People, and call in the Gentiles to occupy the place and perform the mission which they had despised and forfeited. Paul makes memorable reference to this passage. See Romans 10:20-21. Their gardens were scenes of debauchery; their altars were covered by polluting engravings; they practiced necromancy in the graveyards, and ate swine’s flesh, Isaiah 65:3-4. Fortune and destiny were their chosen deities, Isaiah 65:11, r.v. While professing greater holiness than others, the land was filled with abominations.\n\nBut the Lord ever discriminates between the righteous and the wicked. Did He not spare Noah and Lot and Caleb? There has always been a faithful remnant, and these become the seed germs of a new nation. Ponder Isaiah 65:8-10. Then ask that your life may be like the new young grapes of the vineyard, on which the blessing of God rests!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "A New Earth for God’s Servants -- Isaiah 65:13-25\n\nNotice the wide difference that religion makes to the soul. The children of God are secured against the evils which visit all others. They eat; they drink; they rejoice; they sing; they are called by another name, Isaiah 65:13-15.\n\nBehold a new creation, Isaiah 65:17-25! The present dispensation is ended. Jerusalem, restored to her former glory, sings for very joy; and her rejoicing sends a thrill of joy through the nature of God. Long years of life and security of tenure are granted again to man. The red rapine of the forest is ended, for creation is emancipated from its bondage and participates in the glorious liberty of the sons of God. Peace shall reign in the forest glades, never again to abdicate her throne, Isaiah 65:25. But, best of all, there shall be such unity between man and God that prayer will be anticipated, and the pleading soul shall be conscious of the listening ear of God. Hasten, O day of days, for which creation groans, and the saints groan with inexpressible desire!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 65
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 64
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 66
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAL",
+  "commentaryId": "fbmeyer",
+  "name": "Malachi",
+  "commonName": "Malachi",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Transgression of the Covenant -- Malachi 2:1-17\n\nAs a contrast to the disgraceful attitude which the prophet had described as characteristic of the priesthood, he paints the picture of the noble priest, whose burning zeal for God’s honor averted evil and punishment from the people. It is desirable that each servant of God should seek to exemplify these traits of character, for it is only they who walk with God in peace and equity who can turn away “many from iniquity.” The prophet reproves those who had put away their Jewish wives and had contracted marriage with foreigners. In doing this they had ignored the fact that God was the Father of the Hebrew race, of the women as well as the men, in an especial sense in which He was not the Father of the heathen. In answer to the argument of the Jews, who demanded a plurality of wives, Malachi says that God originally made only one woman for one man, though He could have made many. It was a sin, therefore, against the original constitution of the race for a man to have more than one wife, and this is the argument that our Lord employed in Matthew 19:4. The one man for the one woman is the secret of a happy home-life and of a godly seed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAL",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAL",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAL",
+  "chapter": 3
+ }
+}

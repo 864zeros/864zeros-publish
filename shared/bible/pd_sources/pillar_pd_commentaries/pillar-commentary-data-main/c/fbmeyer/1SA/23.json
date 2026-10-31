@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Success and Safety under God’s Guidance -- 1 Samuel 23:1-14\n\nWe learn here that those who are called to walk in the maze of human life need to look constantly upward for direction. “It is not in man that walketh to direct his steps.” Our eyes need to be fixed constantly on the Lord. “Lean not unto thine own understanding. In all thy ways acknowledge Him, and He shall direct thy paths.” We have no priestly ephod to direct us. But if we roll the responsibility of our way on God and wait for Him, the conviction of His plan will steal into our hearts, and this will be corroborated by the advice of experienced friends and the trend of circumstances.\n\nThe recompense of the people of Keilah for David’s noble interposition on their behalf was very base, and warns us not to trust in human safeguards, which are so liable to be broken down. The only place of absolute security is in God. Blessed are they whose life is “hid with Christ in God” ! David knew that, and in these sad and difficult days, when he was hunted as a partridge on the mountains, he was composing some of his most helpful psalms. See Psalms 11:1-7; Psalms 54:1-7; Psalms 57:1-11. In our own troubled times, how good it is that we should listen to the sweet music of the eternal world which surrounds this one and in which the harried soul may have its abiding-place."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "A Relentless Pursuit Foiled -- 1 Samuel 23:15-29\n\nAmid outward strife, God is sure to provide some rill of human love-a tender friendship, a Jonathan. See Psalms 106:46. This is the mission of a friend-to strengthen our hands in God, whisper words of hope, and enter into renewed covenants with us. Is not this what our best Friend does? He finds us out in the deepest woods, and whispers His Fear not. There is no hunted soul to whom Jesus will not come to pour in the oil and wine of His presence.\n\nLet us always strengthen our friends’ hands in God. We sometimes weaken their good resolutions by our timid entreaties, as Peter did when he urged the Lord to spare Himself, Matthew 16:22. No, you must always help your friend to be his noblest and strongest. The angel strengthened the Redeemer in the garden. The one word for us to pass on is, “O man, greatly beloved, fear not; peace be unto thee; be strong, yea, be strong,” Daniel 10:19.\n\nThe Ziphites made a direct bid for Saul’s favor, but their plot miscarried. When a man puts his life into God’s hands, he has no need to fear “the arrow by day nor the terror by night.” Whatever difficulties threaten him, there is ever a way of escape."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 24
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 44,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Besides Me There Is No God” -- Isaiah 44:1-11\n\nWhat gracious promises are given throughout Scripture, not only to God’s children, but to their seed! Here the thirsty soul, longing for love, sympathy, God, is promised an abundant supply. See John 4:13-14; Revelation 22:17. But notice the extreme beauty of the further response, which shall be made by the young followers of our Lord:\n\nOne shall say, I am the Lord’s, Isaiah 44:5. What ecstasy such a declaration causes to a parent’s heart! Young friends, do not be satisfied till you have confessed Christ. Say, I am the Lord’s. Another shall write on his hand, unto the Lord; that is, he shall dedicate his hand to do God’s work in the world. Oh, to write a similar declaration on every member of our body! Another shall subscribe with his hand unto the Lord; that is, shall write these words on a blank sheet of paper, and his own name beneath them.\n\nAgain we have the conflict with the idols of the heathen, Isaiah 44:6-11. But what chance have their votaries when confronted by the glad and assured testimony of those who have seen the King in His beauty!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Folly of Idolatry -- Isaiah 44:12-20\n\nWe are here conducted to a metal idol factory, Isaiah 44:12. As we enter, we are forewarned that we shall find the workmen vain, and their delectable things unprofitable. With this caution, we watch the image being made beneath the heavy blows of the hammer, wielded by the swarthy smith. After a few hours of work he becomes tired and thirsty. But surely an idol can never impart perennial energy and help, if its manufacturer is so easily exhausted.\n\nNext, we are led into a factory of wooden idols, Isaiah 44:13, where a carpenter is at work, drawing a pattern on a block of timber. The floor is littered with shavings, and the idol that is to receive worship and exercise authority is handled very unceremoniously. Lastly we follow an individual into the forest, where he saws part of a tree for firewood and the rest for his household effigy. What folly! These men are hungry for some object of worship, but they feed their hunger on ashes; and they cannot be made to realize that they are deceiving themselves. The true bread is Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The Promise of Redemption -- Isaiah 44:21-28\n\nWhat divine comfort there is in these gracious words! Notwithstanding all their wanderings and sins, the Chosen People were Jehovah’s elect race. Nothing could make Him forget them; He had redeemed them with the saving strength of His right hand. He could never forget them, but He would forget their sins. Their transgressions had melted into the blue azure of His love. If sought for, they could not be found. Nature was asked to be one great orchestra of praise. And notice that our redemption brings more glory to Jehovah than our undoing would.\n\nIn Isaiah 45:1-25 the people are assured that they would return from captivity, to rebuild Jerusalem and reinhabit the cities of Judah. They probably expected that their return would be marked by miracles as marvelous as those through which their fathers emerged from Egyptian bondage. But God never repeats Himself; and His purposes would work out through a heathen monarch, Cyrus, whom God was preparing as the executor of His purpose, Isaiah 44:28. “Deep in unfathomable mines of never-failing skill, He treasures up His bright designs, and works His sovereign will.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 44
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 43
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 45
+ }
+}

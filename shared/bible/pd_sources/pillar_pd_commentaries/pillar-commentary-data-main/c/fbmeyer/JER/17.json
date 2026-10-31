@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Human and Divine Help Contrasted -- Jeremiah 17:1-14\n\nThe Jews were always seeking alliance either with Egypt or Babylon. What was true of them applies to us all; but we cannot depend upon human aid, without departing from the Lord. The heath is probably the juniper, a lonely tree, dwelling in arid wastes, unvisited by dew. The soul that rests on God is watered from His throne. The roots of such are fed from the hidden springs of Eternity. The heart is deceitful; it tends constantly to substitute the arm of flesh for the living God.\n\nDesperately wicked means “incurably sick.” It was the ancient notion that the partridge stole the eggs of other birds and hatched them as her own. The covetous man is sure to reap disappointment. He steals other people’s goods, but is driven off the nest before they hatch out for the benefit of himself. God’s glorious throne is a defense to all who trust Him; while those who depart from Him shall be forgotten, as a sentence written in the sand is obliterated by the next puff of wind. Contrast Job 19:23-24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 19
+ }
+}

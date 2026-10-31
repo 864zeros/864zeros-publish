@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Works and the Word of God -- Psalms 19:1-14\n\nThis is the “Psalm of the Two Books” -Nature and Scripture. If Psalms 8:1-9 were written at night, Psalms 19:1-14 was surely written by day. In Psalms 19:1, God is called El, “strong;” in Psalms 19:7-9; Psalms 19:14, the Hebrew Jehovah is translated “Lord,” as if His glory as Creator is the stepping-stone to loftier conceptions of the Redeemer.\n\nNature’s silence! No speech nor language! Psalms 19:3. What a picture of the sacred stillness of dawn! Yet the witness-bearing is universal. Line, Psalms 19:4, is “compass” or “territory,” but some translate it “chord.” Nature’s harp is strung to the glory of God. Jesus is our Sun, Malachi 4:2.\n\nSix synonyms for Scripture, and twelve qualities ascribed to it, Psalms 19:7-9. How truly might our Lord have appropriated Psalms 19:10! Let us end with confession and prayer. Errors, Psalms 19:12; see Leviticus 4:2, r.v., margin, Psalms 19:13. Dominion, Psalms 19:13; Romans 6:14. For the seventh time Jehovah, Psalms 19:14, with two loving epithets! Can we all say my, claiming all of God?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 20
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "Neglect of Religious Duties -- Nehemiah 12:44-47; Nehemiah 13:1-14\n\nIn Nehemiah 12:44-47 we have recorded the care that was manifested for the worthy maintenance of those who ministered in sacred things. As a result there were glad outbursts of minstrelsy and holy joy. Make room in your life for songs and praises, Psalms 33:1. In the opening of Neh 13:1-31 we see how the Word of God cuts like a two-edged sword against evil. Happy are they who attend to its solemn warnings. The law referred to here was Deuteronomy 23:3-5.\n\nTobiah was an Ammonite, and it was a scandalous thing that the high priest was not only allied to him by marriage, but had cast out the stores of the Temple in order to make room for him in the sacred edifice. Tobiah’s influence was so great that the rest shrank from putting the law of separation into operation against him. When Nehemiah returned from a long sojourn in Persia he cast out all of Tobiah’s goods, and restored the chamber to its proper use. If we have given up a chamber in our heart to any Tobiah, we must be prepared to do likewise."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 13
+ }
+}

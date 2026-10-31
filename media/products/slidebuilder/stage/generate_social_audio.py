@@ -40,7 +40,7 @@ VARIANTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay 20 or 30 dollars a month for AI presentation tools that hallucinate data and wreck your corporate fonts?",
+            "text": "Why pay recurring subscription fees every single month for AI presentation tools that hallucinate data and wreck your corporate fonts?",
             "lead": 0.15,
             "tail": 0.25
         },
@@ -52,7 +52,7 @@ VARIANTS = {
         },
         {
             "id": "price_scene3_cta",
-            "text": "A one-time fourteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+            "text": "a single one-time unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
             "lead": 0.15,
             "tail": 0.5
         }

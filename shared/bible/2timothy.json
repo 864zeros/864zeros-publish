@@ -13,12 +13,75 @@
     "count": 7
   },
   "verses": [
-    { "book": "2 Timothy", "chapter": 1, "citation": "2 Timothy 1:7", "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.", "plain": "For God has not given us a spirit of fear, but of power, of love, and of a sound mind." },
-    { "book": "2 Timothy", "chapter": 1, "citation": "2 Timothy 1:12", "text": "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.", "plain": "That is why I suffer as I do. Yet I am not ashamed, because I know whom I have believed, and I am convinced that he is able to guard what I have entrusted to him until that day." },
-    { "book": "2 Timothy", "chapter": 2, "citation": "2 Timothy 2:3", "text": "Thou therefore endure hardness, as a good soldier of Jesus Christ.", "plain": "Endure hardship with us like a good soldier of Christ Jesus." },
-    { "book": "2 Timothy", "chapter": 2, "citation": "2 Timothy 2:15", "text": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.", "plain": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth." },
-    { "book": "2 Timothy", "chapter": 3, "citation": "2 Timothy 3:16", "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:", "plain": "All scripture is God-breathed and useful for teaching, for rebuking, for correcting, and for training in righteousness," },
-    { "book": "2 Timothy", "chapter": 3, "citation": "2 Timothy 3:17", "text": "That the man of God may be perfect, throughly furnished unto all good works.", "plain": "so that the person of God may be complete, thoroughly equipped for every good work." },
-    { "book": "2 Timothy", "chapter": 4, "citation": "2 Timothy 4:7", "text": "I have fought a good fight, I have finished my course, I have kept the faith:", "plain": "I have fought the good fight, I have finished the race, I have kept the faith." }
+    {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "citation": "2 Timothy 1:7",
+      "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+      "plain": "For God has not given us a spirit of fear, but of power, of love, and of a sound mind.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a bronze athlete's wreath resting beside a finished track",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 1,
+      "citation": "2 Timothy 1:12",
+      "text": "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.",
+      "plain": "That is why I suffer as I do. Yet I am not ashamed, because I know whom I have believed, and I am convinced that he is able to guard what I have entrusted to him until that day.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a bronze athlete's wreath resting beside a finished track",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 2,
+      "citation": "2 Timothy 2:3",
+      "text": "Thou therefore endure hardness, as a good soldier of Jesus Christ.",
+      "plain": "Endure hardship with us like a good soldier of Christ Jesus.",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in a parchment scroll case and reed pen resting on a rough stone table",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 2,
+      "citation": "2 Timothy 2:15",
+      "text": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+      "plain": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.",
+      "visual_prompt": "two inscribed stone tablets resting beside an olive branch on a rough ledge in a bronze athlete's wreath resting beside a finished track",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 3,
+      "citation": "2 Timothy 3:16",
+      "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+      "plain": "All scripture is God-breathed and useful for teaching, for rebuking, for correcting, and for training in righteousness,",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a bronze athlete's wreath resting beside a finished track near an unquenched oil lamp burning steady in a stone niche (2 timothy 3:16 motif: scripture)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 3,
+      "citation": "2 Timothy 3:17",
+      "text": "That the man of God may be perfect, throughly furnished unto all good works.",
+      "plain": "so that the person of God may be complete, thoroughly equipped for every good work.",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in an unquenched oil lamp burning steady in a stone niche",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Timothy",
+      "chapter": 4,
+      "citation": "2 Timothy 4:7",
+      "text": "I have fought a good fight, I have finished my course, I have kept the faith:",
+      "plain": "I have fought the good fight, I have finished the race, I have kept the faith.",
+      "visual_prompt": "a solitary robed watchman seen from the back standing on a stone rampart overlooking a parchment scroll case and reed pen resting on a rough stone table",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    }
   ]
 }

@@ -1,0 +1,63 @@
+{
+    "schema_version":  "1.0.0",
+    "work_id":  "for-his-grace-pd-commentary-and-scripture-corpus-v1",
+    "generated_at":  "2026-10-30T09:55:23.1597929-04:00",
+    "legal_clearance":  "CLEARED_PUBLIC_DOMAIN_AND_CC0",
+    "approved_by":  [
+                        "Cole Mercer (CLO)",
+                        "Vera Lindqvist (STUDIO-LEGAL)",
+                        "Sloane Sterling (VP-STUDIO)",
+                        "Julian Thorne (LEAD-CONTENT)"
+                    ],
+    "canonical_logo":  "images/fig-001-jeff-style.jpg",
+    "canonical_slogan":  "Solitude isn’t lonely when it’s the gift He gave.",
+    "sanctuary_plain_provenance":  "FHG Sanctuary Plain is our original interpretation of scripture. It is enhanced with AI models trained on the author's 'real' poems and prayers. Original tonality and nomenclature are applied. No interpretation arrives unapproved. — JMC",
+    "artist_provenance":  "Artwork is original and enhanced with AI models trained on the artist\u0027s \u0027real\u0027 sketches. No artwork arrives unapproved. - JMC",
+    "files":  [
+                  {
+                      "file_name":  "AKJV_1769_full.json",
+                      "size_bytes":  8361390,
+                      "sha256":  "aaa744c56e7ddead9c7e48869e8339f8e604144f89b33605068220643281a3d7"
+                  },
+                  {
+                      "file_name":  "BSB_cc0_full.json",
+                      "size_bytes":  8133303,
+                      "sha256":  "cec3c644088a8ef4a50cf1e2de035f79d8825f394625d116bb7ee7e1d57739c9"
+                  },
+                  {
+                      "file_name":  "JFB_1871_commentary.zip",
+                      "size_bytes":  5687741,
+                      "sha256":  "36695b00e2b7833830d76b761bee0bc9705475340c5caab1764cb2eb16a5440a"
+                  },
+                  {
+                      "file_name":  "matthew_henry_concise_pd.zip",
+                      "size_bytes":  2259799,
+                      "sha256":  "e728d540e9920ca6c177b3971755d83ada15a5fdf0857d38eb62008bea86dc70"
+                  },
+                  {
+                      "file_name":  "MHC_1706_concise_commentary.zip",
+                      "size_bytes":  15195123,
+                      "sha256":  "6bcb936873ca144e317805e5c1677940fd86e2403f7c14517752e44f25c8882b"
+                  },
+                  {
+                      "file_name":  "pillar_pd_commentaries.zip",
+                      "size_bytes":  14089270,
+                      "sha256":  "70d674ef85f6f217b740f889e8c5d649a56d2d3cea051d4b0da827c66bcc691a"
+                  },
+                  {
+                      "file_name":  "TSK_1836_module.zip",
+                      "size_bytes":  2643739,
+                      "sha256":  "6784c7099465995a8e66f02ead82b0bca66603c1bdeaf8332949774b7bfd4293"
+                  },
+                  {
+                      "file_name":  "tsk_cross_references_json.zip",
+                      "size_bytes":  2279772,
+                      "sha256":  "ee2342452da8f5c2c844a4efed17a6ddbea7206a57323a2fed673c2ca052ef61"
+                  },
+                  {
+                      "file_name":  "YLT_1898_full.json",
+                      "size_bytes":  8382339,
+                      "sha256":  "d55ef42dae715c4fc5d00049011b818a42a99e0ff419f5f08bc37cea0b4f12e3"
+                  }
+              ]
+}

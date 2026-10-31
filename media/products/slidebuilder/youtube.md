@@ -1,7 +1,7 @@
 # SlideBuilder Local — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/slidebuilder/`  
 **Web Product Page:** https://864zeros.com/products/slidebuilder  
-**Pricing Model:** $14.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Inject spreadsheet data directly into master Google Slides presentations without
 👉 Try SlideBuilder Local: https://864zeros.com/products/slidebuilder
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet SlideBuilder Local — the fast, local-first solution that solves this with
 👉 Get SlideBuilder Local: https://864zeros.com/products/slidebuilder
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -63,7 +63,7 @@ AI Slide Generators Charging Monthly & Ruining Brands — SlideBuilder Local #Sh
 ```
 AI presentation tools charging monthly subscriptions and wrecking your corporate typography?
 
-SlideBuilder Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
+SlideBuilder Local gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get SlideBuilder Local: https://864zeros.com/products/slidebuilder
 

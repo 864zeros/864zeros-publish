@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Pursuing Another Rebel -- 2 Samuel 20:1-13\n\nLike Shimei, Sheba belonged to the tribe of Benjamin. The old Saul-faction was always breaking out in rebellion, and Nathan’s prediction that the sword would never cease from David’s house was literally fulfilled. We must always watch against the return of our old sins.\n\nAmasa’s appointment was a mistake. He had already proved his incompetence under Absalom, and now his delay threatened disaster. David had chosen him only because he wished, at any cost, to rid himself of Joab. He could not forgive that general for slaying Absalom. The proud spirit of the old leader, however, would not brook the division of the military command, and Joab treated Amasa as he had treated Abner. An attempt was afterward made to justify the deed by casting suspicion on Amasa’s loyalty. See 2 Samuel 20:11. But jealousy will catch at a straw to justify its crimes.\n\nWe turn from these deeds of blood, mindful that the heart of man is still capable of them. We are daily taught in the present European crisis, to what lengths men will go. The heart is deceitful above all things and desperately wicked. Only God knows it, only God can cleanse it, and only God can create a clean heart and renew a right spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "One Head Saves Many -- 2 Samuel 20:14-26\n\nThis wise woman, by her intervention, saved many lives, and reminds us of the value of presence of mind in a great crisis. She gave Joab to understand, first, that he ought to have given the inhabitants of Abel the opportunity of saying whether or not they intended to fight for Sheba, Deuteronomy 20:10, etc.; and, secondly, that he ought to have taken into account the peaceableness and fidelity of the citizens of that city. A great deal of misunderstanding and bloodshed would be prevented if contending parties would only confer with each other. There is crying and universal need for boards of compulsory arbitration.\n\nSheba’s head saved the city. Bishop Hall says: “Spiritually the case is ours; every man’s breast is a city enclosed; every sin is a traitor that lurks within the walls. If we love the head of one traitor above the life of our soul, we shall justly perish. We cannot be more willing to part with our sin than our merciful God is to withdraw His judgments.” Oh, that every reader of these lines would heed the command of the Savior, Matthew 5:29-30, so as to enter into everlasting life!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 21
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Glory in Man’s Headship -- Psalms 8:1-9\n\nThis exquisite ode can reach perfect fulfillment only in our Lord, Hebrews 2:6-9. It was evidently composed at night, and probably dates from the early shepherd days, when wild creatures crept around the fold and night-birds screamed above, reminding the singer of the animal world over which man was meant to reign.\n\nThe ascription of Psa 8:1-2 is very fine. Christ is so mighty that when His strength is given to babes they vanquish and silence His foes, Matthew 21:16; 1 Corinthians 1:25. Do not regret your helplessness, 2 Corinthians 12:9-10. The comparison of Psa 8:3-4 is striking. It is a great descent from Adonai above the heavens to the son of Adam . But the king loves his child more than his palace. What must not be the worth of man, of whom God makes so much! The crown of creation was placed on man’s brow. Sin wrecked it, but the Son of man regained it, Matthew 28:18; Isaiah 11:6-9; Romans 8:19-22. The holy soul has the talisman of rule, 1 Corinthians 3:22."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 9
+ }
+}

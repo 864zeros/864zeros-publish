@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Money for the Lord’s House -- 2 Kings 11:21; 2 Kings 12:1-16\n\nSo long as the good priest lived, the young king did well. How much we owe to the presence of wise, strong men to advise and assist us! But neither king nor priest dared to go to the furthest limit of reform, 2 Kings 12:3. This failure bore disastrous fruit in after-years. It is a mistake to cut off weeds on the surface; they will sprout again and give trouble. If thy right hand cause thee to offend, cut it off.The Temple had suffered terribly under Athaliah, 2 Chronicles 24:7.\n\nThe king might well take an interest in its reconstruction, because of the shelter it had afforded him from his enemies. The first attempt to raise a renovation fund was a failure. It was in the wrong hands. The priests appear to have appropriated for their own use offerings intended for Temple repair. A change was therefore required, and their receipts were limited to the sin-offerings. As soon as a clear chance was given to the people, their free-will gifts totaled a large amount, which justified the resumption of the work.\n\nCertainly the promptness and integrity of the men who did the work put to shame the lethargy and peculation of the priests. Trust the people! This is not the last time that the heart of the masses was more to be trusted than the priestly caste."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Inglorious Ends -- 2 Kings 12:17-21; 2 Kings 13:1-9\n\nAs long as we are with the Lord, He is with us. Then our enemies are His enemies, and He shows Himself strong on the behalf of those whose heart is perfect toward Him. See 2 Chronicles 15:2. So Joash found it in the earlier part of his reign. We need to ponder the blessings set out in Psalms 81:14-16, as guaranteed to the life which is at one with God. But directly Joash listened to the princes and forsook the house of God and gave license to the Asherim and idols, God was turned against the people and became their enemy. See 2 Chronicles 24:23-25. The reign that commenced in sunshine was sadly overcast, and the king perished by the hands of conspirators and never came to the sepulcher of the kings.\n\nThen disaster after disaster befell the nation. They had to learn that they had been chosen for a special service in the world and could not be as others. Yet amid these dark days, what gleams of light there were! The Lord hearkened, 2 Kings 13:4; He gave Israel a savior, 2 Kings 13:5; He was gracious and had compassion and would not cast them from His presence, 2 Kings 13:23. Even when the Lord chastens us sore, He does not give us over unto death, Psalms 118:18. There is a “needs-be,” but there is also a “thus-far-and-no-farther.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 13
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Iniquity Uncovered -- Hosea 7:1-16\n\nThe last clause of the previous chapter belongs to this. God desired to turn aside the captivity of His people and to heal Israel, but His pleading was unavailing because of their inveterate sin. This evil-doing witnessed against them, Hosea 7:2. Their passions did not need incitement, just as an oven retains its heat without the baker’s continued attention. The royal birthday was celebrated with drunken orgies, and the national religion had become a confused mixture of Gentile superstition and the old Hebrew faith. In this Israel resembled a cake not turned-crisp on one side, sour and uneatable on the other, Hosea 7:8.\n\nWhat a searching suggestion comes in Hosea 7:9! Can it be that strangers have been stealing away our strength, without our realizing that deterioration is creeping steadily through our religious life? Silently the frosty air steals the warmth from boiling water; silently the fungus pitches its tent in the autumn woods; silently old age fastens on the stalwart frame. Thus also our spiritual strength declines, unless we watch and pray; and when it ebbs away, we become foolish as the dove which flies straight into the snare, and useless as the deceitful bow which turns aside in the archer’s hand, Hosea 7:11; Hosea 7:16."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 8
+ }
+}

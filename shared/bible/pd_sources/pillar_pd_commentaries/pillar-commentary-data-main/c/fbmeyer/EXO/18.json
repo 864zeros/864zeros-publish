@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moses Tells Jethro of God’s Goodness -- Exodus 18:1-12\n\nThe names that Moses gave his two sons betray the drift of his thoughts during the forty years of his shepherd life. May we ever remember that we are strangers here, and our only help is in God. How humble Moses was in attributing to God all the glory of the Exodus! This is the sure cure of pride; and what are we but the axe that lies at the tree-foot, or the dry jaw-bone of an ass! Jethro belonged to another type of the religious life. He was not one of the chosen people, nor did he follow the methods of Jewish worship. But holy souls recognize their kinship the world over, and in loving embrace disregard the minor disagreements. “Grace be with all those who love the Lord Jesus Christ in sincerity.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Moses Appoints Rulers to Judge Israel -- Exodus 18:13-27\n\nJethro’s frank acknowledgment of God’s supremacy and lovingkindness was extremely beautiful. Oh, for more wisdom to discern, and humble reverence to acknowledge the divine goodness wherever we encounter it. His advice also was most sagacious. It is far better to set a thousand people to work than attempt to do the work of a thousand. The greatest and most useful men are those who know how to devolve on others work for which these are quite competent, while they concentrate themselves on matters of the highest moment, which the others cannot undertake. Thus character is created.\n\nIt is the highest service of all to bring men’s requests and causes to God, and then to show them the way in which they should walk and the work they should do. In the best sense this is what Jesus does for us all."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 19
+ }
+}

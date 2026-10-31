@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Satan Aims at a High Mark -- Job 1:1-12\n\nJob is introduced as a man of large possessions, highly honored by all who knew him, and of unimpeachable integrity toward God. His piety was specially evinced in the anxiety he experienced for his children, lest any of them should renounce or say farewell to God. What an example this is for parents! We should pray for each child by name, and, like Job, we should do so continually.Satan is well called the Adversary, r.v., margin, because he opposes God and goodness. Compare Zechariah 3:1; Revelation 12:10. He admits Job’s goodness, but challenges its motive.\n\nHe suggests that it is by no means disinterested. Satan still considers the saints, and finds out their weak places and secret sins. But he has no power over us save by the divine permission, and if we are tempted, there is always available the needed supply of grace, 2 Corinthians 12:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Stripped of Every Possession -- Job 1:13-22\n\nThere are dark days in our lives, when messenger follows on the heel of messenger, and we sit down amid the ruins of our happiness. All that made life gay and beautiful has withered and we are treading a dreary waste; our soul is almost dead within us and our feet are blistered.\n\nThen our friends come and lay the blame on the Chaldeans and lightning, the Sabeans and the hurricane. They pity us as unfortunate and miserable. But we say to ourselves, looking beyond the secondary causes to the Cause beyond them all, “The Lord gave, and the Lord hath taken away.” Sometimes we can get no farther than this, but how happy we are when we can go on to say, “Blessed be the name of the Lord.” The true soul is reckless of what happens to himself, so long as the glory of the Lord’s name remains unsullied and enhanced. Let us, above all, never charge God with foolishness by impeaching His love or the rectitude of His decisions."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 2
+ }
+}

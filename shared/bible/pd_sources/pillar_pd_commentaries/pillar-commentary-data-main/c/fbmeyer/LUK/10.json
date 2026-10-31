@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Forerunners of the Lord -- Luke 10:1-16\n\nIn the appointment of the Seventy there was perhaps an allusion to Numbers 11:24-25. In this case, as in that, there was the endowment of conspicuous spiritual power. We can only prepare the way for our Lord. No one of us can suffice for the soul of man. We must always say with the Baptist: “There cometh one mightier than I.” Would that Christ always came where we had been! See Luke 10:1.\n\nLet us not forget to pray for laborers; but if we pray truly we shall endeavor to answer our own prayers, by going and by inciting others to go. How often a child’s life becomes dedicated through hands being laid on the young head by some servant of God, who says: “When you grow up, you must work for the Lord Jesus!”\n\nThe Lord asks for simplicity. We may not in our northern climate be able to carry out these precepts precisely and literally. But the inner thought of His words is that we are to be absorbed in giving the message, leaving all things else as a very secondary question and allowing God to care for us and ours."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The Sources of Deepest Joy -- Luke 10:17-24\n\nHow triumphant the return of the evangelist! With faces flushed with pride and hearts high with elation, they returned to the Master with their reports. What wisdom it is to talk our work over with Jesus! Even the demons were subject to His Name. He was not surprised. While He had been watching, bearing them up by His intercessions, He had seen an alteration take place in the unseen world. Satan had fallen, as though the work done by these humble men had turned the scale against him. Is it not so still? What we do is of eternal importance.\n\nThen, “in that same hour” it seemed as though the flood-gates of the Savior’s soul were flung open for very joy. He rejoiced that babe-like hearts might know the deep things of God; that all things were opened to Him in His humanity as in the ages before He became man; and that He was permitted to reveal the Father to those who loved and obeyed Him. It was for these, and for us, to know things hidden from prophets and kings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The Man Who Loved His Neighbor -- Luke 10:25-37\n\nThis parable was probably suggested by the journey up to Jerusalem. It may be founded on an actual occurrence. Notice how the Master answered the inquiry, Who is my neighbor? He said in effect: The question is not, Who will “neighbor” you? but, Whom will you “neighbor?” You ought to ask, Who wants my help? Neighborhood consists, not in what you receive, but in what you give. It is independent of race, creed and the ordinary sentiment of pity. Love overleaps all these distinctions and risks its very life in order to render help. In fact, this parable is a very poem of Love. It is to be compared with 1 Corinthians 13:1-13.\n\nNotice those two clauses, He took care of him and Take care of him, Luke 10:34-35. It is thus that our Lord deals with us. When we are too far gone to ask for His help, He comes to our side and restores our ebbing life; and He raises up others to do the same. At the best, we are pilgrims and refresh ourselves in inns, but the home awaits us yonder! Begin by loving with your “strength” and you will end with the “heart!”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "Learning the Lord’s Secrets -- Luke 10:38-42; Luke 11:1-4\n\nThis Bethany idyl follows the story of the Good Samaritan naturally. The village lay at the end of the long pass from Jericho. Love must have its nest and the special objects of its tender care. We cannot live in the inn always; we must come at last to our home, either in this world or the next. He who had welcomed the crowds was now welcomed for His own dear sake. Martha and Mary each gave of her best. Each had her own sphere; one ministered to His physical need, the other to His heart. The mystical and practical are both required in Christ’s service, and blend at His feet. Don’t live for many things; but for Him.\n\nThe way to teach people to pray is to pray yourself. It was the habitual prayerfulness of Jesus that made the Apostles long to be taught to pray. What an example is here of the power of unconscious influence! If you desire that your children or scholars should pray, pray yourself. The model prayer is full of suggestion as to the order and topics of prayer. Fill in these outlines!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 11
+ }
+}

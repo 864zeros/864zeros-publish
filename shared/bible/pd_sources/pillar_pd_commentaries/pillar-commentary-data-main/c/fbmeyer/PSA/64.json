@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 64,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Deliverance from Powerful Foes -- Psalms 64:1-10\n\nAnother of the psalms dating from Saul’s persecution. There are two stanzas.\n\nPrayer for preservation, Psalms 64:1-6 Insult, sarcasm, and slander still fall to the lot of those who will live godly in this world. Very few of us are safe from poisoned arrows. Because the world is so full of evil men, who are disposed to put the worst construction on every act, we should be constantly on our guard to give no needless cause to the enemy to blaspheme, 2 Samuel 12:14. Daniel gives us an admirable illustration of this, since his enemies had no cause against him, save as it concerned the law of his God, Daniel 6:5.\n\nAssurance of divine vindication, Psalms 64:7-10 David felt that God had undertaken to be his champion. His arrows were flying through the air thick and fast. Curses come home to roost, and the overthrow of wickedness by the floating mines set to wreck the righteous, is evidence of God’s government of the world. Let the righteous look forward with quiet confidence to the time when the world shall be righted, and when the water-pots that are now filled to the brim with tears shall yield the wine of the wedding-feast."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 64
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 63
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 65
+ }
+}

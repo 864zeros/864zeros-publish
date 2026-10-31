@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 45,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joseph Makes Himself Known to His Brothers -- Genesis 45:1-15\n\nIt may be that we have here an exact representation of a scene which shall be transacted some day, when our Lord makes Himself known to His brethren, the Jews. The Apostle Paul tells us that ultimately all Israel shall be saved; and may not this be brought about, when He says to them, “I am Jesus, your brother, whom ye delivered up and denied in the presence of Pilate” ? Was not Joseph’s wife rejoiced by his joy, and will not the Church of the redeemed be glad when that great reconciliation takes effect? What a beautiful interpretation Joseph put on their act of treachery-“God did send me before you.” Let us always trace God’s plan in the malevolence and opposition of men. They could have no power at all, unless it was given them from above. Joseph supplied all their needs-wagons to carry, food to nourish, raiment to clothe, and greetings to welcome!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Joseph Sends for His Father -- Genesis 45:16-28\n\nThis is indeed an Easter lesson. It must have seemed to Jacob and his children as though Joseph were indeed risen from the dead. Hardly more startling were the appearances of the risen Lord than the news carried back to Jacob that his long-lost and much-mourned son was the prime minister of Egypt. Joseph had not forgotten his father. His one desire was to bring him to share his glory. For this he sent the wagons to transport the whole family to his side.\n\nAt first Jacob was incredulous. It seemed too good to be true. But when he saw the wagons that Joseph had sent, that touch of delicate thoughtfulness, in such striking contrast to the cheerless isolation and loneliness of the last few years, caused his aged spirit to revive. Let us talk of the glory of our risen and ascended Lord, and especially of His desire that where He is we may be also. Now let us thank Him that He is not only willing to receive us, but provides the grace and help of the Spirit to transport us thither."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 45
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 44
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 46
+ }
+}

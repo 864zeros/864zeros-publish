@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 116,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "He Delivered My Soul -- Psalms 116:1-11\n\nThroughout this psalm we meet the pronoun in the first person. Only in two verses, Psalms 116:15 and Psalms 116:19, does it not so occur. There is no fear of egotism, however, when the heart of the singer overflows with divine love.\n\nPsalms 116:1-4 The psalmist here compares himself to some wild animal ensnared by the hunter and bound by the sharp cords which make free movement impossible. Bow many of God’s saints have felt the deep incision of these cords! It has been with them as with Joseph, when let down into the pit. But there is no pit so deep that a cry from it may not reach the heart of God.\n\nPsalms 116:5-11 When the quiet faith of answered prayer is ours, the fluttering soul seems to settle down to its nest in peace. The feet which were slipping now walk in the paths of life. Notice the prayer of Psa 116:4 and the reply of Psa 116:8. God does more than deliver; He wipes the tears from our faces, and holds us as a mother who places her hands under the armpits of her child, teaching it to walk. Paul quotes Psalms 116:10 in 2 Corinthians 4:13. How often must this psalm have been in his thought and on his lips! Do not speak hastily. An eminent religious leader said once, “I shall have good hopes of you, when you can speak and move slowly.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Praise Him for All His Benefits -- Psalms 116:12-19; Psalms 117:1-2\n\nThe psalmist dwells joyfully on his enslavement to God, because in and through it he had found perfect liberty. Thou hast loosed my bonds. They who become enslaved to Christ are set free from all other restraints. See John 8:31-36. Do not forget to pay your vows! In trouble we make promises, which, when the trouble has passed, we find it convenient to forget. See Genesis 40:23.\n\nPsalms 117:1-2 is the shortest chapter in the Bible and its center; but, small as it is, it breathes a world-wide spirit and reaches out to all nations. “It is a dewdrop reflecting the universe.” The Apostle quotes it in Romans 15:11, as foretelling the call of the Gentiles. Here, as in Isaiah 11:10 and elsewhere, the spirit of the singer overleaps all national exclusiveness and comprehends all people and all time.\n\nLet us learn to exercise the spirit of praise in our daily sphere. Surely we also can say that God’s loving-kindness has been, and is, mighty over us. “Where sin abounded grace did much more abound.” The permanence of this love is guaranteed by God’s faithfulness; for his truth is his troth. The shortest prayer of praise should find room for Hallelujah! See Revelation 19:4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 116
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 115
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 117
+ }
+}

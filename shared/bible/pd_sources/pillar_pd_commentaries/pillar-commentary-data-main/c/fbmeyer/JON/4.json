@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JON",
+  "commentaryId": "fbmeyer",
+  "name": "Jonah",
+  "commonName": "Jonah",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Prophet’s Narrowness Rebuked -- Jonah 4:1-11\n\nThis chapter marks an era in the development of the outlook of the Hebrew people. Here, upon its repentance, a heathen city was pardoned. Clearly Jehovah was the God, not of the Jews only but of the Gentiles also. Jonah, however, had no pleasure in the revelation. He clung to the bitter narrowness of national prejudice fearing that when his own people received tidings of Nineveh’s repentance and deliverance, they would be encouraged in their obstinate refusal of God’s law.\n\nHow often God puts gourds into our lives to refresh us with their exquisite greenery, and to remind us of His thoughtful love! Our fretfulness and petulance are no barriers to His tender mercy. The withering of the gourd extorted bitter reproaches from the prophet who would have beheld the destruction of Nineveh without a tear. He did not realize that to God Nineveh was all, and much more, than the gourd was to him. Notice the extreme beauty of the concluding verse: The permanence of the city contrasted with the frailty of the gourd! The responsibility of God for Nineveh, which He had made to grow! The preciousness to Him, not only of the mature, but of babes and cattle!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 1
+ }
+}

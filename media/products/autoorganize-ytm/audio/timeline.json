@@ -1,61 +1,61 @@
 {
-  "total_duration": 56.88607799999999,
+  "total_duration": 60.37,
   "scenes": [
     {
       "id": "scene1_hook",
       "text": "Be honest: is your YouTube Music Liked Songs a chaotic graveyard of thousands of tracks you never actually listen to?",
       "duration": 6.568005,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene1_hook.wav",
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene1_hook.wav",
       "start": 0.0,
-      "end": 6.568005
+      "end": 6.57
     },
     {
       "id": "scene2_intro",
-      "text": "Meet AutoOrganize. It automatically sorts your Liked Songs into clean, smart genre playlists, right inside your Chrome side panel.",
-      "duration": 8.272018,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene2_intro.wav",
-      "start": 6.568005,
-      "end": 14.840022999999999
+      "text": "Meet AutoOrganize. It automatically sorts your Liked Songs into clean, smart genre playlists, right inside your browser side panel.",
+      "duration": 8.296009,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene2_intro.wav",
+      "start": 6.57,
+      "end": 14.86
     },
     {
       "id": "scene3_scan",
       "text": "It scans your library privately on your device. Zero passwords, no cookies lifted, and nothing is uploaded to the cloud.",
       "duration": 7.552018,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene3_scan.wav",
-      "start": 14.840022999999999,
-      "end": 22.392041
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene3_scan.wav",
+      "start": 14.86,
+      "end": 22.42
     },
     {
       "id": "scene4_split",
       "text": "Then, it auto-splits your music into real genre playlists using MusicBrainz. Unknowns stay uncategorized instead of guessed wrong.",
       "duration": 7.96,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene4_split.wav",
-      "start": 22.392041,
-      "end": 30.352041
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene4_split.wav",
+      "start": 22.42,
+      "end": 30.38
     },
     {
       "id": "scene5_create",
       "text": "Preview every track before anything happens. With one click, AutoOrganize creates the playlists right in your YouTube Music, and Google syncs them everywhere.",
       "duration": 9.592018,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene5_create.wav",
-      "start": 30.352041,
-      "end": 39.944058999999996
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene5_create.wav",
+      "start": 30.38,
+      "end": 39.97
     },
     {
       "id": "scene6_pricing",
-      "text": "Best of all, no monthly subscriptions! Other tools charge ten dollars every month. AutoOrganize gives you a free preview, and a one-time two ninety-nine unlock forever.",
-      "duration": 10.648005,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene6_pricing.wav",
-      "start": 39.944058999999996,
-      "end": 50.59206399999999
+      "text": "Best of all, no monthly subscriptions! Other playlist tools lock you into recurring monthly rent. AutoOrganize gives you a free preview and your first playlist free, with a one-time lifetime unlock forever.",
+      "duration": 12.424014,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene6_pricing.wav",
+      "start": 39.97,
+      "end": 52.39
     },
     {
       "id": "scene7_cta",
-      "text": "Turn your chaotic Liked Songs into your favorite playlists today at eight sixty-four zeros dot com.",
-      "duration": 6.294014,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio\\scene7_cta.wav",
-      "start": 50.59206399999999,
-      "end": 56.88607799999999
+      "text": "Get it now on the Chrome Web Store and Microsoft Edge Add-ons, or reclaim your Liked Songs today at eight sixty-four zeros dot com.",
+      "duration": 7.974014,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene7_cta.wav",
+      "start": 52.39,
+      "end": 60.37
     }
   ]
 }

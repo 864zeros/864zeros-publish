@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Woman’s Deliverance -- Judges 4:1-11\n\nThe scene changes to the northern part of Canaan. Deborah probably belonged to Issachar, Judges 5:15; but her seat of government was removed to the hill country of Ephraim, probably for greater security. Her spirit was susceptible to God, and she recognized that the hour for the emancipation of her suffering country was at hand. Indeed, the command had gone forth, Judges 4:6. But the divine method is ever to link command and promise, as we discover in Judges 4:7. Barak had true faith, Hebrews 11:32; but it needed inspiration and stimulus, as a dying fire calls for the bellows.\n\nKedesh, the gathering-place, was not far from the shores of the Lake of Galilee. From the table-land on the top of Tabor, these two heroic souls watched the gathering of Sisera’s vast host, far away to the slopes of Carmel and the banks of Kishon, soon to be encrimsoned with blood. What a moment that was when Deborah summoned Barak to arise, because the Lord had already gone forth! Who of us need fear and who need hesitate in the face of difficulty, if we are simply called upon to go in the wake of our Lord?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "A Woman Executioner -- Judges 4:14-24\n\n“The Lord discomfited Sisera and all his host.” When General Gordon rode off alone on his camel to break up the camps of the Arab slave-drivers, he realized, as he went over the desert with Thomas à Kempis’ immortal book in his hand, that God was already discomfiting them; and as he rode into their midst, he discovered that God had made the way perfectly clear. Yes, it is as Deborah sang, in words afterward quoted by our Lord, “They that love Him are as the sun when he goeth forth in his might,” Judges 5:31; Matthew 13:43. The soul that is united to Christ is irresistible.\n\nJael’s deed is narrated at length again in Judges 5:24. It was a most unusual breach of Arab hospitality. Was it that she was aggrieved by Sisera’s treatment of her sex, Judges 5:30? Or was it the expression of her faith in Jehovah and of her identification with His people? If the latter, may we not believe that then, as always, the Almighty understood the impulse that lay beneath the crude expression? How often we give blundering expression to noble impulses, which Jesus interprets truly! Ah, how blessed it is to have a Savior who understands the motives of our hearts!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 5
+ }
+}

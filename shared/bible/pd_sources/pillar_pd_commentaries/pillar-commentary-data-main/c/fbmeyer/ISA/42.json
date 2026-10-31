@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Work of the Lord’s Servant -- Isaiah 42:1-13\n\nWe cannot doubt the application of this passage to our Lord, Matthew 12:18-20. The unobtrusiveness of His life and work was clearly demonstrated in every hour of His sojourn among men. He silenced those whom He healed. He stole away from the multitudes for prayer. He stayed in Galilee till His brethren were angry at His reluctance to show Himself to the people. He did not “strive, nor cry.”\n\nHow meek and lowly was our Lord! A “reed” is typical of a heart broken by unkindness or a sense of sin. There is no beauty in the russet plume. It will not even serve for the shepherd’s pipe. The “smoking flax” cannot ignite, because hardly able to remain aglow. This is the symbol of one whose love is tardy and cold. But such our Lord does not ignore. He can use the commonest and most unlikely materials.\n\nHe is never discouraged and cannot fail; and since He cannot, neither shall the Church, nor shall we. His love and power are pledged to us. Let us sing to Him and of Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "A Deaf and Blind Messenger -- Isaiah 42:14-25\n\nThere are times in our lives when God seems to hold His peace. Evil is rife, bad men prosper, society lies under the spell of vice. It is only temporary, however. Then God comes forth out of the silence, and shows Himself “strong in the behalf of them whose heart is perfect toward Him.” He brings the blind “by a way that they knew not,” and makes “the crooked places straight.”\n\nThese wonderful things are wrought not for the wise and holy alone, but for the blind and the deaf, who nevertheless desire to serve Him. See Isaiah 42:19. God’s help is not conditioned by our merit, but by our faith. In the eyes of men we may be the least fit to claim divine succor. But our deficiencies and failures constitute our most eloquent claim-God knew what we were, before He ever stooped to identify Himself with us. He is pleased to help us “for His righteousness’ sake.” His name and character must be maintained. Therefore He has magnified the law and made it honorable by the matchless obedience and death of His only begotten Son. See Galatians 4:4-5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 43
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 52,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Thy God Reigneth!” -- Isaiah 52:1-15\n\nIt is not God that has become lethargic; but we that have slept and need to awake. Being awakened, we discover that two sets of attire are waiting for us: First, His strength, so that we may not be afraid of ten thousands of people who set themselves round about; and secondly, the beautiful garments of our Lord’s character. See Colossians 3:9-17.\n\nAt last the climax of the long prophetic stairway is reached and the summons for the exodus from Babylon rings out, Isaiah 52:11. It was God’s return to the desolate city, Isaiah 52:2; Isaiah 52:8. The stately procession moves slowly and fearlessly. It is not the escape of a band of fugitive slaves, dreading pursuit and recapture, Isaiah 52:12. Before it speed the heralds, appearing on the sky line as they ascend the mountains which surround the Holy City, publishing peace and salvation, Isaiah 52:7. The central body is composed of white robed priests, bearing with reverent care the holy vessels, Isaiah 52:11, of which Nebuchadnezzar despoiled the Temple, but which Cyrus restored. See Ezra 1:7-11. Thus, also, the Church marches through the world."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 52
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 51
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 53
+ }
+}

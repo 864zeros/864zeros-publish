@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Ingratitude of a Favored Nation -- Isaiah 1:1-9\n\nThis chapter forms the preface to the prophecies of Isaiah. It is a clear and concise statement of the points at issue between Jehovah and His people. Special urgency was given to these appeals, when first uttered, from the fact which was well-known to the Hebrew politicians and people, that Assyria was preparing for a great war of conquest, which would be directed specially against Jerusalem and her allies. This chapter is east in the form of an assize, a crown case in which God is both complainant and judge. The conviction of sinfulness which the prophet desired to secure, was sought, not by appealing to a code of laws which had been transgressed, but by showing the ingratitude with which Israel had repaid the fatherly love of God. It is the personal element in sin that most quickly convicts men. “Saul, Saul, why persecutest thou me?” “Thou art the man!” “He hath done despite unto the Spirit of grace!”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Religion without Righteousness Vain -- Isaiah 1:10-20\n\nThe prophet points out, first the misery that had overtaken the country, Isaiah 1:4-9; and then the sins of the ruling classes, Isaiah 1:10; Isaiah 1:17; Isaiah 1:21-23. What may be called personal and private sins, such as drunkenness, vanity, bribery, and the oppression of the poor, are viewed in their public hearing, as bringing wrath and disaster on the whole nation. No man can sin by himself. His most private sins react on the whole community. Thistle-down floats far and wide. In reply, the nation pointed to the splendid ritual and innumerable sacrifices of the Temple service.\n\nBut these observances only added to the tale of their sins, because they were formal and perfunctory. The sacrifice of God is a broken and contrite heart. The outward is absolutely worthless, unless it is the expression of the inward and the spiritual. But where a pure and holy spirit is present, the simplest forms are magnificent in their significance and value. To atone becomes the base of a ladder to heaven, and the thorn-bush flames with Deity. But forgiveness is freely offered to the guilty.\n\nCrimson and scarlet are the most lasting of all colors, and their removal impresses the completeness of God’s pardoning love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "A Nation Purged of Dross by Disaster -- Isaiah 1:21-31\n\nThe great lover of our souls does not abandon His people even when they spurn the first overtures of His appealing pity. Though they refuse to yield to them, He refuses to cast them off; and sets Himself by the cleansing judgments of His providence to wean them from the evil ways they have chosen and to win them back to Himself. If only Jerusalem had now listened to Isaiah’s earnest pleadings, she would never have been carried away into the seventy years’ captivity in a land of strangers. This is the cleansing fire referred to in Isaiah 1:25. Their ground of confidence, whether in themselves or their allies, would be destroyed, Isaiah 1:29-30; the ringleaders of the evil which had brought them to desolation would be exterminated; and there would emerge a new and purified people as in the days of Ezra and Nehemiah. Let us thank God for the cleansing fires in national and personal experience.\n\nLet us not fear them when plied by the hand of love. See Malachi 3:3 and John 15:2-3."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 2
+ }
+}

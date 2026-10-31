@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The seventh seal includes the seven trumpets. What a contrast that pause must have been to the jubilant songs of the great multitude! In the Jewish temple, we are told, the musical instruments and chanting resounded during the offering of the sacrifices, which occupied the first part of the service; but at the offering of the incense a solemn silence was observed, Psalms 62:1. The people prayed quietly without, at the time of incense. What a glimpse is here afforded of the intercession of our great High Priest! The smoke of the incense of His great merit arises with the prayers of the saints. Pray on, believer, though your voice be feeble, and so much imperfection mingles with your efforts to serve God. The incense of Christ’s intercession is fragrant enough to make even you acceptable.\n\nThe four first trumpets include the devastation of natural objects. The dumb creation, and even the earth itself, suffers for man’s sin. Think of the horses wounded in battle, dying in long agony; of vast tracks of country once smiling, with harvest becoming a wilderness; of the soil compelled to produce the ingredients of poisoning and intoxication. Poor Mother Earth! Goethe said that he could hear her sighing as a captive for redemption."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 9
+ }
+}

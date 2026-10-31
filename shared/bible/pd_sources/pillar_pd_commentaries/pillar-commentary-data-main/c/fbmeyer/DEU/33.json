@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Blessing of the Chosen People -- Deuteronomy 33:1-17\n\nThe glorious nature of God is the opening theme here. The reference is to the giving of the Law when, amid fire and the mediation of angels, God descended on Sinai, Psalms 18:7-9; Habakkuk 3:3-4. Oh, that we, too, may sit as pupils in God’s school and receive His words, Deuteronomy 33:3.\n\nThough Reuben could not excel, he was not forgotten. Simeon is omitted because of Num 25:14. Judah was to receive prosperity in prayer, in work and in war. Some render the benediction thus: “Bring him in safety from his wars!” But our warfare is different, Ephesians 6:12.\n\nLevi receives special blessing. Note r.v. margin: “Thy Thummim and thy Urim are with him whom thou lovest.” This is the white diamond-stone flashing with God’s “Yes” or dimming with His “No,” Revelation 2:17. Exodus 32:26 was never forgotten. See Matthew 25:37. But God forgets our sins, Hebrews 8:12. Benjamin’s portion may be yours. The precious things of Joseph’s heritage pale to insignificance when contrasted with the riches of God’s grace, Ephesians 1:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Israel’s Happy Future Promised -- Deuteronomy 33:18-29\n\nZebulun and Issachar, sons of Leah, were neighbors in Canaan, and, being on the seaboard, became wealthy by commerce. The calling of the peoples may refer to the Gentile proselytes who were influenced by these tribes, 1 Kings 5:1-6; Mark 7:26.\n\nThe blessing of the other tribes is suggested by their position in Canaan: Gad, the leader of the west; Dan standing on the southern frontier, like a lion at bay; Naphtali, possessing the sea of Galilee, see r.v. margin; Asher on the northwest, with mountain, barriers against invasion. “Iron and brass!”\n\nLet your soul dwell in the timeless, changeless, tireless God. There is none like Him. He will ride through heaven to help you, will thrust out the enemies that resist your progress, will be your fountain and dew, your corn and wine, and will place beneath you arms as tender as they are loving. However low you fall, they will always be underneath. As your day, so your strength!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 34
+ }
+}

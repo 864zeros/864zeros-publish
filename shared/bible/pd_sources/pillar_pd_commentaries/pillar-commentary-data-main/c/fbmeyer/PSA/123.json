@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 123,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Unto Thee lift I mine eyes\n\nThis Psalm must by internal evidence be carried, as to its authorship, to a much later date than the preceding one. It was probably composed after the return from captivity, when Israel was suffering so much from the Samaritans and others (Ezra 4:1-24 and Nehemiah 2:19). Calvin shows the application of the Psalm to the Church of all ages when he says: “The Holy Ghost, by a clear voice, incites us and the whole church to come to God as often as they are unjustly and haughtily oppressed by the passions of her enemies.”\n\nPsalms 123:1 Unto Thee lift I up mine eyes!\n\nOur Lord looked upward when He prayed (John 17:1). He has taught us to look up to our Father in heaven. It is his throne (Matthew 5:34).\n\nPsalms 123:2.\n\nOur eyes look unto the Lord our God (R.V.)\n\nIt has been truly said that the servant looks to the master’s hand:\n\n(1) for direction;\n\n(2) for the supply of his needs;\n\n(3) for protection;\n\n(4) for correction;\n\n(5) for reward.\n\nA very slight gesture is enough to indicate the master’s will. Oh to be so incessantly occupied with the Lord Jesus as to need but a sign! There is perhaps also here the thought of the eagerness with which the eyes of a slave watch for the master’s signal that a fault has been expiated by sufficient chastisement.\n\nPsalms 123:3.\n\nWe are exceedingly filled with contempt\n\nContempt is hard to bear, but we are taught to expect it, as the followers of Him who passed through storms of contumely, but who despised the shame (Hebrews 12:2-4). Fix your hearts on the joy set before you, and “rejoice, inasmuch as ye are partakers of Christ’s sufferings; that when his glory shall be revealed, ye may be glad also with exceeding joy” (1 Peter 4:13)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 123
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 122
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 124
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Day of Restoration -- Amos 9:1-15\n\nThe guilty will certainly be punished. If they enter the sacred place of worship, even that will not shelter them, Amos 9:1. Flight and concealment will be in vain. Let them climb ever so high, or burrow ever so deep; let them scale the loftiest hills, or dive into the deepest seas-the consequences of their sins will overtake them, Amos 9:2-3. How can sinners hope to escape from Him whose chambers are built in the heavens and whose voice governs the tides, Amos 9:6? The great desolations of the past prove the exactness and severity of His judgments, Amos 9:7-8. How remarkably Amos 9:9 has been fulfilled? Notwithstanding their scatterings, the Hebrew people have been preserved as a race.\n\nThe final paragraph, Amos 9:11-15, is very reassuring. It is a burst of noble anticipation, quoted by the Apostle James, Acts 15:14-17. The promises made to Abraham and David are yet to be fulfilled. The derision of their foes, of whom Edom was the ringleader, will be silenced. Through the parted curtain, we descry the golden age of the future. There is a divine plan working to its conclusion, and Israel shall yet come again to the land given to their fathers."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "OBA",
+  "chapter": 1
+ }
+}

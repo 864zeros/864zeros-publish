@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Words Fitly Spoken -- Proverbs 25:1-14\n\nThis collection of proverbs was made. 250years after the time of Solomon by the scribes of King Hezekiah. The glory of God is too great to be disclosed to the vulgar eye of mere curiosity, but it will be unfolded to royal souls that seek for it as for hid treasure…. The great rulers of the world must have their secret counsels, but they should be freed from evil counselors, as gold from dross…. Compare Proverbs 25:6 and Proverbs 25:7 with Luke 14:8-10…. Second thoughts are best; sleep over your plan or letter; be deliberate in planning and prompt in acting on the plan when formed…. Don’t reveal to another a cause of offense that should be adjusted between yourself and your neighbor, Matthew 18:15…. A word happily adapted to a circumstance is like an apple of gold, that is, an orange, in a basket of silver filigree-work.… As drink cooled with snow refreshes the thirsty reaper, so is a messenger who faithfully executes his errand to the master who sent him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Self-Control and Kindliness -- Proverbs 25:15-28\n\nIn this paragraph we have good advice as to our dealings with the varied characters with whom we are forced into daily contact. Here is a man hard as a bone-try gentleness, for a soft tongue will win his heart, just because it finds a new and unexpected way of approach which no one else has tried for long years…. Beware of honeyed words; you may get stung.… Do not make yourself too common, or pry into your neighbor’s affairs, or ask his help too often…. Keep clear of the tale-bearer.… Be very careful to whom you confide your troubles…. Vinegar poured on potash makes it effervesce; so joyous mirth is incongruous to a heavy heart…. Even if your love fails to meet your enemy, the Lord will reward you by revealing and communicating His own perfection, Matthew 5:43-48.… If you frown on a backbiter, you will silence him.… Do not give way to the wicked, lest you become a corrupted spring…. Rule over your spirit-nay, better, hand over its keys to Emmanuel, and let Him be crowned in Mansoul."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 27
+ }
+}

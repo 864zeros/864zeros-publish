@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Fourfold Hallelujah -- Revelation 19:1-10\n\nOne day we shall hear those four Alleluias, Revelation 19:1; Revelation 19:3-4; Revelation 19:6. They will reverberate to the farthest limits of the universe. They will not be inspired by vindictiveness or revenge, but will be jubilant with the conviction that God has vindicated Himself and has proved that right can conquer wrong; truth, falsehood; and love, hate. One of our chief anticipations when we think of the future, is that God’s character and government of the universe will be amply vindicated.\n\nContemporaneous with the fall of Babylon will be the marriage of the Lamb. Before He assumes, together with His saints, the task of governing the world, the union of supreme love will have been consummated, and the marriage supper will have been filled with guests. Note from Revelation 19:10 that the angels are our fellow-servants. They hail us as comrades on the condition that we never flinch from maintaining the testimony of Jesus."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "“King of Kings, and Lord of Lords” -- Revelation 19:11-21\n\nA sublime vision of Christ, as He comes to judge the beast, that is, the world-power, which has ever been in antagonism to the principles of His Kingdom. We must distinguish between it and the final judgment. This precedes, that follows, the millennial reign. Compare Matthew 24:27; Matthew 24:29; Matthew 24:37; Matthew 24:39. The blood in which His vesture is dipped is not His own, but that of His foes. See Isaiah 63:2. Here at last is fulfilled Psalms 2:9.\n\nNotice the attributes of Christ: He is Faithful, because He will stand by us to the end. He is True, never doing less but always more than He has promised. Pure as flame. He is also in many realms; and the Word of God, that is, the final utterance and complete revelation of the Most High. Let us follow Him! But if we do, we must resemble Him. His robes are naturally white, but we must wash ours, that we may have the right to the tree of life and to enter the city of God. Compare Psalms 110:1-7. This will be the time, also, to which our Lord referred in Matthew 13:41. God’s whirlwind will scatter the chaff."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 20
+ }
+}

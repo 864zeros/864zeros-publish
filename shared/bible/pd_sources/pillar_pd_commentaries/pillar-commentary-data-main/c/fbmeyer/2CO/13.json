@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Prove Your Own Selves” -- 2 Corinthians 13:1-6\n\nOnce more Paul refers to the charge that his ministry was characterized by weakness. This deeply wounded him. He admitted that in his personal appearance and speech he might be all that his enemies averred, but he contended that weakness did not count when married to the divine. Was not Christ weak when He was crucified? yet through that cross He has exerted His mighty saving power upon myriads! Through the weakness of death He passed to the right hand of power and bestowed the Pentecostal gift. Suppose, then, that the servant shared the weakness of his Lord, might not the divine power work through his poor, weak nature as through the Lord Himself? Let us not always be dwelling on our weakness and limitations; did not the divine fire tremble around the poor shrub of the wilderness?\n\nPaul goes on to urge the Corinthians to prove-that is, to test-themselves by reminding them that unless they are reprobate, the Lord Jesus is truly and literally dwelling within them. This is the fundamental fact in a holy life. When we open our hearts, He enters, and becomes in us the Life of His life and the Light of all our seeing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "How to Be Built Up -- 2 Corinthians 13:7-14\n\nNone can really injure the truth or stop its victorious progress. As well try to stop the sunrise. We often help others most in our weakness, because then we rely most on the Spirit of God. It is the noblest end of life to build up others through our own expenditure, even to the draining of our strength and resources. The world is apt at destruction; and indeed not much art is required for pulling down. But the divine work is to build; we have God’s authority for that.\n\nThe valedictory address is very touching. Be perfected, 2 Corinthians 13:11, r.v., is really “be adjusted,” “properly jointed,” “articulated.” God desires to set us as a skilful surgeon sets a dislocated limb. Let Him do it; let the Comforter comfort; let love and peace enter with the Holy Dove; and see that the inner atmosphere does not hinder the gracious healing work of the Spirit of God.\n\nNote the threefold benediction, which maintains the doctrine of the Trinity, 2 Corinthians 13:14. The love of the Father is the fountain of all; the grace of the Lord Jesus is the channel for all; while the communion of the Holy Spirit brings us into partnership with the aims and resources of God. The salutation of the saints and the divine benediction are the worthy close of this noble letter."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 1
+ }
+}

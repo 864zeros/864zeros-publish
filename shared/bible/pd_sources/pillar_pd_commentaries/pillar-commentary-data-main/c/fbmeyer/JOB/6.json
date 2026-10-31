@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“A Deceitful Brook” -- Job 6:1-30\n\nThe burden of Job’s complaint is the ill-treatment meted out by his friends. They had accused him of speaking rashly, but they had not measured the greatness of his pain, Job 6:4, or they would have seen it to be as natural as the braying and lowing of hungry and suffering beasts, Job 6:5. A man would not take insipid food without complaint; how much more reason had he to complain whose tears were his meat day and night, Job 6:6-7! So bitter were his pains that he would welcome death, and exult in the throes of dissolution, Job 6:8-10. It could hardly be otherwise than that he should succumb, since he had only the ordinary strength of mortals, and both strength and wisdom were exhausted, Job 6:11-13.\n\nJob next characterizes the assistance of his friends as winter brooks, turbid with melted ice and snow, which bitterly disappoint the travelers who had hoped to find water, and perish beside the dry heaps of stones, Job 6:17. They had found fault with his words, which, in the circumstances, were not a true index to his heart, Job 6:26; but a look into his face would have sufficed to attest his innocence of the sin of which they accused him, Job 6:28-30.\n\nFrom these complaints of faithlessness and disappointment we turn to Him who, having been made perfect through suffering, has become “the author of eternal salvation unto all them that obey Him,” Hebrews 5:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 7
+ }
+}

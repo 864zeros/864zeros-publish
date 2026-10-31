@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rashness Punished; Reverence Blessed -- 1 Samuel 6:13-21; 1 Samuel 7:1-4\n\nThe new cart, with its precious burden, must have come upon the men of Beth-shemesh like an apparition. The Ark was welcomed by them, after its seven months of absence, with great joy. But privilege entails responsibility; and their wanton curiosity and irreverence could not be permitted. Reverence for God Himself demanded the most careful behavior toward the Ark of His Presence, and when this was lacking, swift judgment ensued. See Numbers 1:50-51; Numbers 4:5; Numbers 4:16-30.\n\nIt is interesting to notice that when the Israelites were weaned from the Ark, their hearts lamented after the Lord, 1 Samuel 7:2. We cannot be permanently happy without God. Seasons of apathy and irreligion will sooner or later be succeeded by faith and love, as the frost of winter yields to the touch of spring. In this case, the revival was due to the patient labor of Samuel, and he did splendid service in urging the people to deal drastically with the idols of Canaan, which had cut them off from God as clouds hide the sun."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Leading the Nation in God’s Ways -- 1 Samuel 7:5-17\n\nWe are here taught the successive steps that must be taken if revival is to be granted to either Church or individual.\n\nUnity. All Israel was gathered. The divisions and jealousies of preceding years were renounced.\n\nConfession. The people poured out their hearts before the Lord.\n\nThe abandonment of false gods. “They put away the Baalim and Ashtaroth and served the Lord only.”\n\nIntercessory prayer. The one condition of revival is to get back to prayer. “Cease not to cry unto the Lord our God for us.”\n\nFull surrender, as set forth in Samuel’s burned-offering. Yield thyself to God, and thy Philistine sins, stealing up the valleys, will fall back discomfited, and thou shalt raise thine Ebenezer.\n\nSo Israel proved. There was immediate evidence that God had accepted them. Natural phenomena fought on their side. The very spot which had been the scene of defeat became the scene of glorious victory. Compare 1 Samuel 4:1; 1 Samuel 7:12. Here is great encouragement for us, for at certain spots in our life-experience we have been defeated; but just in these same spots, when the barriers which have intercepted God’s help are leveled, we shall become more than conquerors."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 8
+ }
+}

@@ -13,8 +13,35 @@
     "count": 3
   },
   "verses": [
-    { "book": "1 Chronicles", "chapter": 16, "citation": "1 Chronicles 16:11", "text": "Seek the Lord and his strength, seek his face continually.", "plain": "Seek the Lord and his strength; seek his face continually." },
-    { "book": "1 Chronicles", "chapter": 16, "citation": "1 Chronicles 16:34", "text": "O give thanks unto the Lord; for he is good; for his mercy endureth for ever.", "plain": "Give thanks to the Lord, for he is good; his love endures forever." },
-    { "book": "1 Chronicles", "chapter": 29, "citation": "1 Chronicles 29:11", "text": "Thine, O Lord, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O Lord, and thou art exalted as head above all.", "plain": "Yours, Lord, is the greatness and the power and the glory and the victory and the majesty; for everything in heaven and earth is yours. Yours, Lord, is the kingdom; you are exalted as head over all." }
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "citation": "1 Chronicles 16:11",
+      "text": "Seek the Lord and his strength, seek his face continually.",
+      "plain": "Seek the Lord and his strength; seek his face continually.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a stack of dressed limestone blocks and cedar timbers",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 16,
+      "citation": "1 Chronicles 16:34",
+      "text": "O give thanks unto the Lord; for he is good; for his mercy endureth for ever.",
+      "plain": "Give thanks to the Lord, for he is good; his love endures forever.",
+      "visual_prompt": "an unhewn twelve-stone altar standing quietly on a wind-swept hilltop in the stone threshing floor of Ornan on Mount Moriah",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "1 Chronicles",
+      "chapter": 29,
+      "citation": "1 Chronicles 29:11",
+      "text": "Thine, O Lord, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O Lord, and thou art exalted as head above all.",
+      "plain": "Yours, Lord, is the greatness and the power and the glory and the victory and the majesty; for everything in heaven and earth is yours. Yours, Lord, is the kingdom; you are exalted as head over all.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in the stone threshing floor of Ornan on Mount Moriah",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

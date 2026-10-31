@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Desolation of a Guilty World -- Isaiah 24:1-13\n\nThis and the three following chapters form a single prophecy, describing the calamities about to desolate the land, because the inhabitants had transgressed the laws, changed the ordinance, broken the everlasting covenant. Primarily it describes the experiences of Palestine under the successive invasions from the Euphrates valley, first of Nineveh and then of Babylon. There is a mysterious connection between the condition of a man’s soul and the response of surrounding nature. The very vineyards would sigh in sad accord with the prevailing misery and sin, Isaiah 24:7-9; and in the great city silence would reign in streets decimated by plague and war, Isaiah 24:10-12. Both in the Old and the New Testament the blessings of sufficiency and comfort are the fruits of holy living; whereas, sooner or later, evil overtakes wrong-doing. “Trust in the Lord and do good, so shalt thou dwell in the land, and verily thou shalt be fed,” is always true."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Inescapable Penalty of Sin -- Isaiah 24:14-23\n\nThere is always a godly remnant, as we are told in Isaiah 24:13, remaining in times of shaking, on the topmost boughs. The survivors who had fled across the seas from the judgments, would adore Jehovah for His goodness and mercy.\n\nThe fires of the East are in contrast to the isles of the West, Isaiah 24:15. Perhaps they stand for the fires of tribulation, in which we must glorify God. To whatever part of the earth the fugitives fled, they would be compelled to acknowledge the glory of righteousness, or perhaps of the Righteous One. The dispersion of the Church in the early days carried the message and music of the gospel everywhere. Though we may travel to the limits of sorrow, let us glorify our God.\n\nNote the instability of all earthly things, Isaiah 24:18, etc. Woe to those who trust in them! Remember to build within the borders of the everlasting kingdom of Heb 12:23-28. When all the world kingdoms are destroyed, that of Israel, God’s ancient choice, shall stand, Isaiah 24:23. May we as the brethren of the King share His glory and reign with Him in those great coming days! In the meanwhile glorify Him in the skies."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 25
+ }
+}

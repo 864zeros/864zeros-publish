@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 82,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Just Judge of All -- Psalms 82:1-8\n\nThose described here as gods are evidently the judges and magistrates of Israel. See John 10:34. They were intended to be the mouthpiece and representatives of God; but instead, they thought only of their own interests and sought personal aggrandizement. But the psalmist beheld what was veiled from ordinary view-God standing in the midst of His people, judging them Himself and judging their judges.\n\nWe may have done wrongs of which no judge has convicted us. But God has seen, and unless there is confession, leading to forgiveness, He will certainly punish. Or, we may have been grossly misjudged, and in that case He will vindicate us. Go to Jesus, to whom the Father has committed all judgment, and remember that while all things are naked and open to His eyes, He also is the High Priest who is touched with the feeling of our infirmities, and the Lamb that takes away sin. When the foundations of the earth are out of course, let us remember that we belong to a kingdom that cannot be moved, Hebrews 12:28."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 82
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 81
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 83
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Resorting to a Familiar Spirit -- 1 Samuel 28:1-14\n\nThis chapter records the climax to which Saul’s sins led, and which sealed his fate. See 1 Chronicles 10:13-14. He went back to that which he had put away and sought counsel of a familiar spirit, 2 Peter 2:20-22.\n\nThe soul cannot live apart from the unseen world. It is its native element. Divorce it from God, and it will fill the empty space with demons. When the king could get no answer to his questions by the usual means, he sent his servants, in desperation, to seek for a medium. Had he been right with God, there would have been no need for this. It is the decay of the old religious spirit that nowadays gives occasion for the rise of crystal-gazing, palmistry and spirit-rapping.\n\nWhat a tragedy was presented that night in the witch’s hut, and how terrible must have been Saul’s long tramp to and fro, between his own encampment and Endor, which lay in the rear of the Philistine host! It is an evil thing and a bitter to forsake the fountain of living waters, and hew out “broken cisterns that can hold no water,” Jeremiah 2:13; Jeremiah 2:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Listening to His Own Doom -- 1 Samuel 28:15-25\n\nThat there should be an apparition of Samuel occasions no difficulty, for as Moses and Elijah were permitted to speak with our Lord of the “decease” to be accomplished at Jerusalem, so God may have specially permitted the prophet to speak with Saul. We may believe that these sentences passed between them, without any aid on the part of the medium. From the lips of the prophet came no words of comfort nor hope. Nothing could avert the descending avalanche of destruction. As Saul had sown, so must he reap; as he had fallen, so must he lie.\n\nWhile the king sat on that divan, what memories must have passed through his mind! The first happy days of his reign, Jabesh-gilead, the loyalty of his people. Then he saw how, step by step, that cursed jealousy of David had dragged him down into the turbid current that was now bearing him to a suicide’s end. It is one of the most pitiful spectacles in history. But let us be warned; let us watch and pray; let us guard against the first tiny rift within the lute of life!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 29
+ }
+}

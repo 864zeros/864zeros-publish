@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "COL",
+  "commentaryId": "fbmeyer",
+  "name": "Colossians",
+  "commonName": "Colossians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Seeking the “Things That Are Above” -- Colossians 3:1-11\n\nLet us repeat the glorious truth, which was doubtless the heart of Paul’s teaching, that our old nature has been nailed in Christ to the Cross, and laid in the grave; and that our real self, the second Adam, has entered the new world of resurrection. We belong to the world on the threshold of which Jesus said, “Touch me not, for I am not yet ascended.” We must guard against the defiling touch of the world, of sin, and of the old self-life. We stand between two worlds, each solicits us: let us yield to the influences that pull us upward, and not to those that anchor us to this sinful and vain world. Our eternal blessedness has begun, let us walk in it.\n\nIn Christ we profess to have put off the old man, i.e., the habits of our former life, Colossians 3:9; now let us actually do so, in the power of the Holy Spirit. We profess to have put on the risen Christ, Colossians 3:10; now let us don the attire and habits of the new man. Too many Christians resemble Lazarus, quickened from his death-sleep, but still arrayed in grave-clothes. Too few array themselves in the radiant beauty of the risen Lord, which is the common heritage of all who believe in Him, whatever their rank or nationality."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Love, Peace, and Praise -- Colossians 3:12-17\n\nThe articles of the Christian’s dress are enumerated here, and we need to refer to this list continually in order to be sure that none of them is missing from our spiritual wardrobe. We must not always live in the negative of avoiding wrong, the positive has a clear claim on us; and in each circumstance of trial or temptation we must advance to meet it, arrayed in Christ. As the Lord acted, so must we. We must partake of the family likeness. When a Christian friend manifests over the breakfast-table some ugly feature of the old life, we may fairly urge him to return to his room and complete his dressing. Love is the girdle of the Christian attire.\n\nLet the peace of Christ rule within. Let the word of Christ dwell in the innermost chambers of the soul. Let there be mutual love and wholesome glee, the song in the life, and the grace in the heart. Whatever is wrong will shiver to pieces like a glass when the name of Jesus is spoken over it. The thought of Him is the touchstone of trial as well as the talisman of victory. A thankful heart makes a victorious and attractive character."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Home and Business Relations -- Colossians 3:18-25; Colossians 4:1\n\nFrom these high flights into the eternal and divine, Paul turns to the daily duties of the home, and demands that in the simplest domestic concerns the disciple should ever keep in mind the high claims of Christ. No act of life can be left outside the sacred enclosure of His everlasting love. As the moon affects the tides around the world, even in the smallest indentations of the coast, so must the power of Christ’s resurrection make itself felt in the behavior of the servant and the child.\n\nIt is especially beautiful to notice the Apostle’s constant reference to the bond-slaves who formed so important an element in the early Church. There they learned that in Christ all souls were free, and that in Him also master and slave were brethren. Stealing out at night from the arduous labors of his lot, many a poor slave would return with new conceptions of his daily tasks, to be applied to the service rendered to his Lord. No angel in heaven’s high temple has more definite service to the King than any honest and industrious servant may daily render to Jesus. Here is the dignity of labor indeed! And, masters, remember your Master."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 4
+ }
+}

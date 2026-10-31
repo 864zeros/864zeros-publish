@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Fleeting Measure of Our Days -- Psalms 39:1-13\n\nIn the opening verses David describes the circumstances out of which this psalm arose. The presence and prosperity of the wicked stirred him to the depths, but he carefully refrained from speech. There are hot moments in our lives, when we do well not to say what is in our hearts. But if our feelings demand a vent, let us get alone and speak out our hearts to God. A softer tone settles on heart and tongue, when we reach His holy presence.\n\nHow frail we are, not only in our life, but in our moods! We need not fear men; they are but for a moment; as a breath that curls up in the frosty air, or as a shadow sweeping across the mountainside. Only God abides. Man is vanity; his pride and beauty are like a bursting soap-bubble; he is a stranger and pilgrim along this bank and shoal of time. But the child of the Eternal God is a guest with him, Psalms 39:12. He travels in our company. He makes Himself responsible for our well-being. He will bring us safely home as He did all our “fathers.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 38
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 40
+ }
+}

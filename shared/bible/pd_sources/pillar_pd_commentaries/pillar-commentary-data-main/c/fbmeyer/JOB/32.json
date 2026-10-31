@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Elihu Enters -- Job 32:1-22\n\nThe controversy between Job and his counselors is now at an end. They have failed in making out their case; but before God Himself takes up the argument there is another side of the case to be presented by the fervid life of a younger generation. The name Elihu means, “My God is He.” He had preserved a respectful silence while his elders were speaking; but he was so conscious of the uprising of the divine that he could refrain no longer.\n\nElihu was greatly indignant, first with Job for not justifying God, Job 32:2; and then with his friends for their inability to cope with him, Job 32:5. But in addition to these criticisms, he has some positive contribution to make to the debate, and must needs make it. Silence is golden, but there is a time to speak. Be sure in inbreathe the Spirit of God as one long imprisoned in a close chamber inhales the breath of the salt sea. Do not speak, as John Woolman says, beyond the divine openings."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 33
+ }
+}

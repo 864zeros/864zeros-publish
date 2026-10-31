@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Budding of Aaron’s Rod -- Numbers 17:1-13\n\nThe controversy about the priesthood needed authoritative settlement, and to remove all grounds of dissension a notable sign was wrought on Aaron’s rod. “The man whom I shall choose, his rod shall bud.” This is an eternal principle. There is an indissoluble connection between God’s choice and our fruitfulness. “I have chosen you and ordained you,” said our Lord, “that ye should go and bring forth fruit.”\n\nIn the Epistle to the Hebrews we learn that Aaron’s budding rod symbolized our Lord’s unwithering priesthood. See Hebrews 7:24. He seemed as a root out of the dry ground; but in the grave the rod of Jesse began to bud and blossom and bear fruit. We may seem to be mere bare rods, but if we become united to Christ by a living faith we shall partake of His strength and beauty. “A man can receive nothing, except it be given him from heaven.” “From me is thy fruit found,” Hosea 14:8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 18
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1JN",
+  "commentaryId": "fbmeyer",
+  "name": "1 John",
+  "commonName": "1 John",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Token of God’s Love -- 1 John 4:1-11\n\nIn those days the intense ferment of men’s minds wrought many delusions and heresies which were fraught with temptation to young converts, and the Apostle wished to give tests for determining which voice spake from God. The confession of Jesus Christ as the Incarnate Word, a spirit of love and gentleness, and the willingness to abide in the doctrine of the Apostles, were signs that the speaker was commissioned by Christ.\n\nWouldst thou overcome the world? Let Christ enter, and the world will have no charms for thee. There is only one source of pure, divine love, and wherever that love is present, you know that the possessor has found its source in God. God’s love is absolutely selfless. He loves the unloving to make them love, putting away their sin and perfecting their union with Himself."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Test of Our Love -- 1 John 4:12-21\n\nIf we are willing to be channels through which God’s love flows to others, there need be no limit to the fullness of that holy current. In humility, selflessness, and gentleness, it will become perfected. The vessel placed beneath the waterfall is filled to overflowing.\n\nThrough our Savior we know the Father who sent Him, 1 John 4:14. See John 14:9-10. We first venture on God’s love by faith; afterward we know it. Dare to affirm that God is love. Love is the wafted fragrance of Paradise. If thou lovest, heaven and earth will answer thee in terms of love. By strong, patient, selfless love thou wilt abide in unbroken touch with all pure and loving souls-whoever and wherever. Where love was crucified there was a garden. Where there is love, lonely places blossom as the rose. Be not afraid! Love on! Love always! “This is the true God, and eternal life.” But one thought of hatred or ill-will will cause thy wholly happy experience to vanish."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 5
+ }
+}

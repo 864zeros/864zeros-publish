@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Our Divinely Appointed High Priest -- Hebrews 5:1-10\n\nHaving to act for men, our High Priest must be man, acquainted with human conditions; having to do with God, he must be appointed by God. Is there one of us that is not conscious of liability to ignorance and wandering? We all evermore need the high priesthood of Jesus.\n\nThe Aaronic priests must needs make atonement for themselves, but our Lord was without sin. See Leviticus 4:3. Hebrews 5:5 has reference to His resurrection and ascension. See Romans 1:4; Acts 13:33. His priestly service dates from the completion of His mediatorial work on the Cross. No scene in our Lord’s life fulfills Hebrews 5:7 like that of the Garden, when it seemed impossible for the human body to hold out under the stress of His anguish. He feared that He would succumb before He reached Calvary. He had to yield obedience unto death in order to learn what obedience really means. Thus as to His humanity He became perfected; and if only we believe and obey, He will effect a perfect deliverance for us from all evil. There is no sin so strong, no need so intricate, that He cannot cope with it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "“Press on unto Full Growth” -- Hebrews 5:11-14; Hebrews 6:1-8\n\nThe teacher has to suit his pace to his scholars. How much we miss because we are such inapt pupils! Milk is food which has passed through another’s digestion. Many cannot get their spiritual nutrition direct from God’s Word, but have to live on what others have obtained and have passed on in speech or book. Seek a first-hand acquaintance with the things of God. We grow by feeding and exercise.\n\nWe must leave the first principles, as a builder leaves the foundation; he is never so much on it as when farthest above it. The third and fourth principles, Hebrews 5:2, are the Jewish equivalents of the first and second, Hebrews 5:1. Notice the r.v. marginal reading for seeing in Hebrews 5:6 -“the while.” So long as men continue to tread the love of God under foot, they cannot repent and be restored. The failure, as with unproductive soil, is not on account of a failure of heaven, but because the soil is hard and obdurate. If we are unproductive, it is due to our own hard-heartedness."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 6
+ }
+}

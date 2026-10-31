@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Confusion of Tongues -- Genesis 11:1-9\n\nDriven by the fear of another deluge, though God had given distinct assurances to the contrary, and impelled by the desire to perpetuate their name and memory to coming generations, Noah’s descendants began to build on the plain of Shinar-a fertile valley watered by the Euphrates and Tigris. Babel, Babylon and Babylon the Great, such is the lineage of the apostasy which has ever opposed the Church of God; like a shadow, stealing along the wall at our side. To Babel we must oppose Abraham; to Babylon, Jerusalem; to Babylon the Great, the Bride, the Lamb’s wife. “Come out of her, my people,” is the cry that rings down the ages. God comes down to see! From him no secrets are hid. All things are naked and open to His eyes.\n\nThe one language or lip refers to the pronunciation; speech to the stock of words; God touched the lips. When disunion prevails, destruction follows. But Pentecost and Heaven will undo the wreck of Babel. See Revelation 7:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The Generations until Abram -- Genesis 11:10-32\n\nThe inwardness of the movement of Terah’s clan from Ur is given in Acts 7:3. Apparently his father was unwilling for Abram to go alone on his far-pilgrimage, and so the whole family moved along the valley of the Euphrates to the famous ford of Haran. There was no other practicable way by which travelers could strike the route for Canaan. But Terah never advanced beyond that point; and it was only when his father was dead that Abram resumed his march. See Acts 7:4. Let us beware lest the ties of human affection withhold us from entire obedience to the call of God.\n\nThe word Hebrew means “one who has crossed over.” It was especially applicable to Abraham. See Genesis 14:13. It may be that you are living on the world’s side of the Cross. Come over, though you should have to break dear associations. Be one who has passed through death to resurrection. See Colossians 3:1-4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 12
+ }
+}

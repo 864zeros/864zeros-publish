@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Renewing the Conquest -- Judges 1:1-15\n\nThe land had been given. There could be no doubt about that. In the ancient covenant which Jehovah had made with Abram, He said: “Unto thy seed have I given this land.” See Genesis 15:18. It had also been conquered and divided by lot, as we learn in Joshua 14:1-5. The portion of Judah is specified in Joshua 15:1-63. But notwithstanding all, each tribe had to possess its own, first by the sword, and ultimately by the plow and the spade.\n\nIt is not enough to be assured that “we are blessed with all spiritual blessings in Christ Jesus.” We must possess our possessions. By faith, and patience, and daily use, we must appropriate the resources which are stored up in Christ Jesus. See Obadiah 1:17; Ephesians 1:3. Let us not be content with the nether springs of ordinary experience, but let us seek the upper springs that arise hard by the throne of God!\n\n“Build thee more stately mansions, O my soul,\n\nAs the swift seasons roll!…\n\nTill thou at length art free,\n\nLeaving thine outgrown shell by life’s unresting sea!”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Flagging in Their Great Task -- Judges 1:16-36; Judges 2:1-5\n\nThe conquest of Canaan was very partial. Israel dwelled among the ancient inhabitants of the land, much as the Normans did among the Anglo-Saxons, whom they found in England; and the mixture of the two peoples was the beginning of moral degeneracy and decline in the chosen race. Wherever there was the old-time faith in God, as in the case of Caleb, the land was cleared of the Canaanite; but where God was out, the Canaanite was in.So it is in the life of the soul. It is intended that the whole should be yielded to Christ, that no evil passion should reign, that no besetting sin should enthrall. But how often Christian people give up the fight! They say that the old Adam is too strong for them, and settle down to a joint-occupation.\n\nLet us not yield to reasoning like this! The Lion of Judah can break every chain. By faith in Him we can be more than conquerors! The Holy Spirit strives with the flesh, so that we may not do as otherwise we would. Only give Him the right of way! Sin shall not reign in your mortal body!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 2
+ }
+}

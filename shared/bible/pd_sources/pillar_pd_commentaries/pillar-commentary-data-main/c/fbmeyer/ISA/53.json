@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 53,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Rejected and Suffering Redeemer -- Isaiah 53:1-12\n\nThe common lot of man may be summed up in three words: suffering, sin, and death. Our Lord, the Divine Servant, presents a notable exception to the rest of the race-not in His sufferings, Isaiah 53:3; not in His death, for He died many deaths in one, Isaiah 53:9, r.v. margin, but in His perfect innocence and goodness. His sufferings were due to sins not His own, Romans 5:8. We must make His soul our guilt offering, Isaiah 53:10, r.v. margin. It is the same word as is used in Leviticus 5:1-16. There is no need to summon the aid of another. Do it for yourself!\n\nJesus shall one day be satisfied. In the glory that shall accrue to the Father; in the redemption of untold myriads; in the character of the redeemed; in the destruction of the results of the Fall, we shall hear His sigh of content and see the triumph on His face. We shall witness His transference of the kingdom to the Father, 1 Corinthians 15:24. We shall behold the satisfactory termination of the mystery of evil. If He is satisfied, we shall be!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 53
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 52
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 54
+ }
+}

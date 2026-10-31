@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sobriety; Industry; Honesty -- Proverbs 20:1-15\n\nStrong drink is the greatest of all foes to human happiness. It gains an influence over men by fair promises, but when once it is entrenched, it mocks at the misery of its abject slave. It promises strength for the arm, joy for the heart, brilliance for the mind; but those fair promises are not kept, and the end is impotence, misery, and imbecility. Let each reader of these words henceforth utterly abjure it!\n\nThe sluggard is depicted throughout this book to stir us to diligent industry. After all, it is not by great gifts but by patient persistence that men succeed. Indeed, the highest genius is left behind by the careful plodder, if the one lacks and the other possesses this invaluable quality. “Diligent in business, serving the Lord.”\n\nAll our life lies open to the eye of God. He is closely acquainted with the transactions of the bank, the office, the ledger, and the weights in the store. No lapse from perfect honesty escapes his notice; and for every act of deception there is an inevitable Nemesis."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "“The Glory of Young Men” -- Proverbs 20:16-30\n\nWhat a wonderful thought is given in Proverbs 20:27! We stand like a row of unlighted candles until God’s Spirit kindles us. Has the Divine Nature ever bent over your nature, communicating to it its glow and fire? If so, be very careful that no puff of wind shall extinguish that sacred spark; and see that it is supplied with the daily nutriment it requires. The whole paragraph seems to indicate the clear shining of this light, which must not be hidden under a bushel, but placed on the stand, that it may give light to all who come in. So let your light shine that men may admire neither the lamp-stand nor the wick, but the glory of the light of God radiating from you.\n\nSuch a soul will be true, Proverbs 20:17; will be wise, Proverbs 20:18; will eschew tale-bearing and flattery, Proverbs 20:19; will honor the parents that gave it birth, Proverbs 20:20; will win a good inheritance by patient industry, Proverbs 20:21; will wait on the salvation of God, Proverbs 20:22; will accept God’s guidance, Proverbs 20:24; will follow mercy and truth, Proverbs 20:28; will be strong, and pure, and faithful. Such should be the glory of all young men and maidens if their old age shall be beautiful, Proverbs 20:29."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 22
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Captivity Made Complete -- 2 Kings 25:1-12\n\nAs the final catastrophe approaches, the historian becomes more minute in his dates, marking the month and the day. From Ezekiel 24:1 we gather that on the very day when the foe made his appearance before Jerusalem, the fact was revealed to Ezekiel in Babylon, and the fate of the city made clear. Jeremiah besought Zedekiah to submit, but to no purpose, Jeremiah 38:17. The siege lasted eighteen months, and its calamities may be gathered from Lamentations 2:20-21; Lamentations 4:3-20. Finally famine triumphed, Lamentations 4:8; Lamentations 4:10; Ezekiel 5:10. A third of the population perished of hunger and plague, Ezekiel 5:12.\n\nSuch is the divine judgment upon sin. God pleads long with man, but if man will not turn, then God whets His sword, and becomes terrible in His retribution. Amid all this catastrophe, however, we recall the tears of the book of Lamentations, like those of Jesus afterward. There is that in God which sorrows as He chastises, and causes Him to say, “How shall I make thee as Admah, and set thee as Zeboim?” Deuteronomy 29:23; Hosea 11:8. Notice how, in putting out the eyes of Zedekiah, two prophecies which appeared to be contradictory were reconciled and fulfilled, Jeremiah 32:5; Jeremiah 34:3; and Ezekiel 12:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Temple Despoiled -- 2 Kings 25:13-21\n\nThe Temple, after 420 years of varying fortune, was burned to the ground, and the remainder of its treasures carried off. A few years after, Nebuchadnezzar set up an image of gold on the plains of Dura, Daniel 3:1. It has been suggested that this image was probably made from the metal removed from the Holy City; and this may have been an additional reason for the refusal of the Jews to worship as the king demanded.\n\nWe have no information respecting the disposition of the Ark. It may have been hidden by Jeremiah or by some other pious priest, who took the precaution of conveying it and the sacred documents it contained to a place of safety. How wonderful it would be if, in the restoration of the Jews to their ancient city-an event that may be near at hand-remains of the Ark of the Covenant should yet be discovered in connection with the vast subterranean vaults beneath the Temple site!\n\nThese tragic events are a powerful commentary upon the ancient text that sin is a reproach to any people, Proverbs 14:34. Let modern cities and civilizations beware; for if God spared not the natural branches, neither will He spare those which have been grafted in among them. See Romans 11:18-25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The Remnant Flee to Egypt -- 2 Kings 25:22-30\n\nThus at last the city, which had been full of people, sat solitary, bewailed by Jeremiah in exquisite elegies. The poorest only were left, under Gedaliah, the constant friend to Jeremiah. See Jeremiah 40:6. His brief rule brought a gleam of light, a transient relief from the long monotony of disaster and despair. But the dastardly murder of this noble man by Ishmael, who was jealous of him, added the last bitter ingredient to the already bitter cup of the harried remnant, Jeremiah 40:1-16; Jeremiah 41:1-18. Notwithstanding Jeremiah’s earnest protestations, they finally deserted their own land, and settled in Egypt, Jeremiah 44:1.\n\nThus ended the kingdom of Judah, and thereafter the Jews became a scattered people. Though the return under Ezra seemed likely to renew their kingdom, this also was a transient dream which ended in their final overthrow in a.d. 70. Note how pathetically, in his last paragraph, the chronicler snatches at the one small crumb of comfort left, in the pity providentially shown to Jehoiachin by the Babylonian king. God had not forgotten the sure mercies of David!\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 26
+ }
+}

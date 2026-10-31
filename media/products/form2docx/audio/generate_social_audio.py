@@ -40,7 +40,7 @@ VARIANTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay 30 or 50 dollars a month for document automation add-ons that cap how many PDFs you can generate?",
+            "text": "Why pay recurring subscription fees every single month for document automation add-ons that cap how many PDFs you can generate?",
             "lead": 0.15,
             "tail": 0.25
         },

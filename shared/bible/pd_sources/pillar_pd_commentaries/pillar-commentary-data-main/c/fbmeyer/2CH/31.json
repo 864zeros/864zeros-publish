@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abundant Giving to God -- 2 Chronicles 31:1-10\n\nThis Passover left a permanent impression on the nation, and led to the complete overthrow of idolatry. The pure worship of God was now established throughout the land, and the people returned to their homes, in confident expectation that a long period of national prosperity was now in store. Hezekiah therefore turned his attention to provide for the maintenance of the Temple worship and the proper provision of revenues for the priests and Levites. As an example to his people, the king followed in the steps of David and Solomon, providing out of his own purse for the expenses of the altar.\n\nFollowing on this good example, a proclamation was made to the nation, with the result that contributions of first-fruits and tithes poured in with great liberality from the children of Israel, as well as Judah. There had been an abundant harvest, as the great heaps testified. It is not often that ministers of religion are in the same happy condition as Azariah was, but they are partly to blame for not instructing their people to give systematically. Everyone should set apart a stated portion of his income for God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Order and Prosperity -- 2 Chronicles 31:11-21\n\nThere are several noticeable expressions in this paragraph. We are told that they brought in the dedicated things faithfully, 2 Chronicles 31:12; and that the small as well as the great received their share, even as the daily portion of each required, 2 Chronicles 31:16, r.v. margin; also that the priests sanctified themselves in holiness, 2 Chronicles 31:18, as though touched and quickened by the generous gifts of the people. And in consequence of their entire devotion to the service of the sanctuary, adequate provision was made for their wives and children; while officers were appointed to distribute equal ration to all in the cities of the priests, who, from age or other reasons, were not able to serve in the Temple.\n\nThe closing expression about Hezekiah, that he began nothing into which he did not put his heart and that God placed the crown of prosperity on him and his work, presents a striking contrast to the tale of disaster in the reign of Ahaz, and is an incentive to all of us to go and do likewise. See Romans 12:11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 32
+ }
+}

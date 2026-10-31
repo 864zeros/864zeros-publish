@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Prayer and Its Answer -- Psalms 28:1-9\n\nThis psalm also probably belongs to the time of Absalom’s rebellion. Psalms 28:2-3 resemble Psalms 26:8-9.\n\nGod is silent sometimes because He loves us unspeakably, Zephaniah 3:17, r.v., margin; sometimes to test our faith, Matthew 15:23; sometimes because He has already spoken and we have not listened, Matthew 26:62. But let us never go elsewhere for help, 1 Samuel 28:6-7. Let us wait and pray, lifting up our hands in the dark to touch His hands.\n\nThese prayers for the punishment of the wicked should be read as predictions. Do not be afraid of evil or of evil-doers. God is “a consuming fire” and destroys all evil. He causes the enemy to be still as a stone until His redeemed have passed over. Therefore there breaks in on the psalmist the ray of hope which finds expression in Psalms 28:6-7. Faith cries, I am helped! Let us rejoice even before the jailer comes to tell us that we are free, Acts 16:25; and let us send out our prayers for all the Church, Psalms 28:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 29
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 121,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Where to Find Help -- Psalms 120:1-7; Psalms 121:1-8\n\nThis is the first of the “Songs of Degrees.” It has been suggested that they were pilgrim-songs to beguile the journeys from all parts of the country to the great annual feasts. They have been associated with the reign of the good Hezekiah. Mesech and Kedar are typical enemies, who forced their way into the kingdom of Judah and vexed the people of God. They are compared to sharp swords and arrows in Psalms 57:4; Psalms 64:3, but now in turn they shall be pierced and scorched. How many who start on a pilgrimage to the Celestial City must run a similar gauntlet! Their enemies arise from their own household. In such distress of soul, prayer is our only hope, Psalms 120:1.\n\nPsalms 121:1-8 The keynote of this psalm is the word keep, which occurs in one form or another six times. In Psalms 121:1 and Psalms 121:2 the soloist suggests that in hours of trial we should look beyond mountains and hills to the Lord who made them all. In Psalms 121:3-8 the chorus endorses and commends the choice. All the saints of every dispensation add their cumulative testimony to the wisdom of entrusting the keeping of soul and body to our faithful Creator. Notice the exquisite sequence of phrases: neither slumber nor sleep; by day, by night; thy going out, and thy coming in; thee and. thy soul; this time forth and for evermore. The meshes are woven very closely."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 121
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 120
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 122
+ }
+}

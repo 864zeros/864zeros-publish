@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Give God the Best -- Numbers 18:21-32\n\nThe inner service of the Tabernacle was assigned to the priests, who must be of the house of Aaron. The Levites were joined to the house of Aaron for the more menial service. In the earlier portion of this chapter, Numbers 18:5-20, the maintenance of the priests is provided for; and in this part, Numbers 18:21-32, the maintenance of the Levites. A tithe of the heave-offerings of Israel was assigned to them. It had been Levi’s doom to be scattered in Israel, Genesis 49:7. But the curse was transmuted to blessing. They were summoned to perform the priestly office of the first-born, and God was not unmindful to reward them for their arduous labors. He Himself became their inheritance.\n\nBut though the Levite’s sustenance was assured from the gifts of Israel, he was not absolved from the privilege and duty of contributing to the service of God. He, too, must offer a tithe for the support of the priests. “We are members one of another.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 19
+ }
+}

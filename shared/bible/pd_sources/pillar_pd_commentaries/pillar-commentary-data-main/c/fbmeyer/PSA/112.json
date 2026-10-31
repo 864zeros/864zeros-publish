@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 112,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Prosperity in Serving the Lord -- Psalms 112:1-10\n\nHere are the two conditions of the blessed life: first, to fear the Lord; second, to delight greatly in His commandments. And then the blessed results: a mighty seed; a blessed generation; wealth and riches; enduring influence; light amid darkness; and many suchlike things. The psalm is replete with the beatitudes that alight on the heart of the man who lives for God alone.\n\nAround us may be the encircling gloom, in which evil men and tidings lurk as savages in the shadow of the forest, but within there is the blessed sense of the presence of God, like the circle of fire within which the traveler is secure. The voice of God assures him that he shall never be moved, and the heart is so established that it cannot yield to fear. It is good to have that quiet, unperturbed confidence in God. Moses had it at the Red Sea, Exodus 14:13; Asa, before the overwhelming hosts that threatened to submerge his little army, 2 Chronicles 14:9-12; Jehoshaphat, when confronted by the hordes of Ammon, 2 Chronicles 20:12; and Hezekiah, when the Assyrian threatened to invade Judah, 2 Chronicles 32:6-8. Such a life is full of the “Hallelujah Chorus,” in accord with the opening note of the psalm."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 112
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 111
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 113
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Altar and the Court -- Exodus 27:1-19\n\nThe brazen altar is dealt with long before any particular mention is made of the altar of incense, because the question of our relationship with God, through the death of our Lord on the Cross, must precede our fellowship with Him, and our successful intercession. Each of these altars was made of the same kind of wood, but in the case of the altar we are now considering, and which stood in front of the Tabernacle, the wood was encased in brass, that metal suggesting the severity of the sacrificial flame that burned at the Crucifixion, when Christ our Passover was sacrificed for us. Let us distinguish between these altars. We have passed beyond the one; we are called to minister perpetually at the other. The court was fifty yards long by twenty-five broad, and was formed by curtains of fine-twined yarn. There must be separation between God’s priests and the world. See 1 Peter 2:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The Beaten Oil; the Ephod -- Exodus 27:20-21; Exodus 28:1-14\n\nAlways in Scripture oil is an emblem of the Holy Spirit. It is His grace communicated to the wick of our character and life, which makes them capable of giving a bright light for God. This oil was pure, because none shine brightly for God who are not pure in heart and poor in spirit. It was beaten, because our best work is often the result of our sorrows. McCheyne used to say, “Beaten oil for the sanctuary,” referring to the care with which ministers and teachers should prepare for their work. Get your oil direct! See Zechariah 4:2-3.\n\nIt is befitting that we should consider the priestly garments. We minister within the curtained court; order the lamp of testimony till daybreak, and stand before the altar of incense-it is meet that we should be arrayed in the beauty of holiness. Our Lord bears our names, graven indelibly and eternally, and we are accepted in the Beloved."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 28
+ }
+}

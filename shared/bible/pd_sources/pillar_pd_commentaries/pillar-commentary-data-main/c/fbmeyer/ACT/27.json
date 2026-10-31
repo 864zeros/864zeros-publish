@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "On a Dangerous Voyage -- Acts 27:1-13\n\nThe we indicates that the good physician, Luke, had rejoined the party. Separated from Paul by the Apostle’s imprisonment, he now accompanied him on the ship to Rome. The centurion was indulgently disposed toward Paul. He may have been one of the brilliant crowd who had listened to Paul’s last address. It was a most merciful Providence that placed the Apostle with such a man. He showed exceptional kindness in releasing Paul on parole at Sidon, that he might visit his friends, and, no doubt, provide himself with necessaries against the stormy and hazardous winter voyage.\n\nThe travelers were fortunate enough to find at Myra a large vessel carrying wheat from Egypt to Rome. There was room for the centurion, his soldiers, and prisoners, as well as such others as chose to accompany them. It was toward the close of September, and perhaps at Fair Havens the Apostle and any Jewish Christians on board may have observed the great Day of Atonement, the one fast of the Jewish calendar. The season for navigation with sailing vessels was drawing to a close, and Paul counseled delay, but his words were unheeded. The man who knew God was wiser than the men who knew the sea."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Savior of the Ship’s Company -- Acts 27:14-26\n\nThe crew, being greatly exhausted by severe exertion and want of food, were the more willing to listen to the Apostle when he came to the front with his wise counsels and good cheer. They had previously ignored His advice, but were glad and wise enough to take it on this second occasion.\n\nHow calm faith makes us! We can sleep soundly amid the roar of the storm and dream of angels when our hearts are stayed on God. His messengers can cleave their way through the murkiest skies and most drenching storms, to succor those who need their help. What a beautiful confession that was: Whose I am and whom I serve! Can we all appropriate it? The first clause is literally true of us all. We belong to Christ by creation and redemption. But do we acknowledge His ownership and place our all in His service?\n\nIn the midst of the excitement, Paul was able to give thanks. Let not the good habit of grace before meals drop out of our practice or homes. What a magnificent sentence is this also-I believe God, that it shall be even as it was told me. Yes, there is no peace outside of that faith. And it shall be, O believer, your happy experience!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Safety Dependent on Obedience -- Acts 27:27-34\n\nPaul presents a noble picture, standing there in the gray dawn while the heavy seas are breaking over the ship. He seems to have become by force of character the commander of the entire company. Certainly the soldiers and passengers owed their lives to his sagacity in penetrating the purpose of the sailors in leaving the ship. Note that he said to Julius, ye cannot be saved not we. The Apostle was so sure of God that he had no shadow of doubt as to his own preservation, Acts 27:24.\n\nOnce more he encouraged them, and urged them to take food. He himself set the example, giving thanks to God in the presence of them all. How brave and how inspiring was his behavior! They all began to be of good cheer. Men may say what they will about the impracticability of Christ’s teachings, but let a man once begin to live by them, obeying them absolutely and trusting Christ utterly, and he becomes like a lion in courage. Through God we can do valiantly, for He treads down our enemies, Psalms 60:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Saving Paul Saved Them All -- Acts 27:35-44\n\nThe sailors endeavored to head the vessel toward the mouth of a creek that appeared before them, but she ran aground and stuck fast. It was here that a new and unexpected peril confronted Paul and his fellow-prisoners. The soldiers proposed to kill them, lest they should swim ashore and escape; but the centurion, perhaps out of gratitude to the man to whom they all owed their lives, forbade the soldiers and ordered everyone to endeavor somehow to get to land.\n\nIt does not so much matter how we get to heaven, as that we get there. Some who trust most in ritual and ceremonies may get there on broken pieces of the ship, but happier are they who can cast themselves directly upon the mercy of God in Jesus Christ. It was a drenched and shivering group that stood on the shore on that chill November day. Thank God, our condition will be very different when we emerge on the shore of eternity after crossing the cold waters. And as we stand on the beach of the glassy sea, all of us will render praise to Him who has brought us safe home."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 28
+ }
+}

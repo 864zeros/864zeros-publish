@@ -13,8 +13,35 @@
     "count": 3
   },
   "verses": [
-    { "book": "Joel", "chapter": 2, "citation": "Joel 2:13", "text": "And rend your heart, and not your garments, and turn unto the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.", "plain": "Rend your heart and not your garments. Return to the Lord your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending calamity." },
-    { "book": "Joel", "chapter": 2, "citation": "Joel 2:25", "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.", "plain": "I will restore to you the years the locusts have eaten — the great army I sent among you." },
-    { "book": "Joel", "chapter": 2, "citation": "Joel 2:28", "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:", "plain": "And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions." }
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "citation": "Joel 2:13",
+      "text": "And rend your heart, and not your garments, and turn unto the Lord your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.",
+      "plain": "Rend your heart and not your garments. Return to the Lord your God, for he is gracious and compassionate, slow to anger and abounding in love, and he relents from sending calamity.",
+      "visual_prompt": "two robed companions seen strictly from the back walking side by side along a fieldstone trail into autumn rain clouds gathering above terraced Judean hills",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "citation": "Joel 2:25",
+      "text": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+      "plain": "I will restore to you the years the locusts have eaten — the great army I sent among you.",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in a stone threshing floor heaped with harvested wheat",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Joel",
+      "chapter": 2,
+      "citation": "Joel 2:28",
+      "text": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:",
+      "plain": "And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in a recovering fig tree putting forth fresh tender leaves",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Herdsman’s Message -- Amos 7:1-17\n\nThe king’s mowings were the earliest yield of the grasslands, which were exacted by him. Our King also has His mowings, when He takes to Himself our dearest and best while the dew of youth is still upon them-but He is only claiming His own.\n\nThree disasters threatened the guilty land-locusts, fire, and plague; but the prophet’s intercessions warded off the blow. The Bible often tells a similar story of the power of intercession. If only the Church were united and prayed with one voice, she would be able to secure deliverance for the smitten earth. When God is said to repent, we must not attribute to Him changeableness of purpose, but He seems to repent, because man has changed his attitude. If you walk against the wind, it resists you; but if you turn and walk in the opposite direction, it helps you. The plumbline, Amos 7:7, is used to discover the extent of the mischief, before the order, for destruction is issued.\n\nAmaziah, the chief priest of the national idolatry, found the stalwart witness of the herdsman-prophet extremely inconvenient and wanted to get rid of him. There was great simplicity and dignity in the reply. Like Luther in after years, Amos could “do no other.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 8
+ }
+}

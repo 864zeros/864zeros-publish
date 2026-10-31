@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“A Leper until the Day of His Death” -- 2 Kings 15:1-12\n\nThe reign of Azariah, or Uzziah, in Judah was very splendid. Fifty-two years of almost unbroken prosperity! The story is told in the glowing periods of 2 Chronicles 26:1-23. Here, too, we learn that his sun suffered an eclipse because he persisted in the sacrilegious endeavor to combine the office of king and priest-the exclusive prerogative of Messiah. See Zechariah 6:13. As a leper he was excluded from all contact with his fellows, and dwelled in a separate house, while his son Jotham acted as his viceroy.\n\nFor more than thirty years preceding its dissolution, the Northern Kingdom was terribly distracted. Anarchy, idolatry, high-handed crime, and immorality of a flagrant description swept like a hurricane over all classes. Rent by these evils, and with no strong men like Hezekiah and Isaiah then in Judah to place their hands on the helm, the kingdom drifted to destruction. The sacred books give but brief and disjointed accounts of the last times of the kingdom of Israel, because God has no pleasure in the process of decay. He has no pleasure in the death of individuals or in the nation that dieth, but rather that “they should turn unto Him and live.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Buying Temporary Relief -- 2 Kings 15:13-22\n\nThe usurping murderer Shallum enjoyed but a very brief reign, occupying the throne for one month only, and then being slain by Menahem, who, according to Josephus, was commander of his forces. Menahem carried his arms as far as Tiphsah, which apparently resisted this red-handed assassin. The ruthless cruelty which he showed toward the hapless citizens attracted the notice of the Assyrian monarch, and led ultimately to that invasion of Israel which terminated in its destruction. God has ever sat as Judge over the nations. His judgments and sentences are exact. With what measure we mete, it shall be measured to us again.\n\nMenahem obtained a temporary respite by the gift of one thousand talents, which secured the alliance of the king of Assyria, turning him from an avenger into a patron. See Hosea 5:13. This was the confederacy to which Isaiah probably refers in his chapter, Isaiah 8:1-22, when he alludes to a confederacy that seemed to bode no good. But on the bosom of this cloud of menace shone, as always, the rainbow of promise which is implied in the name “Immanuel.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Usurpers and Invaders -- 2 Kings 15:23-38\n\nThe dissolution of Israel proceeded rapidly, for nothing could avert the steady advance of the Assyrian. According to the usual policy of Eastern conquerors, the flower of the nation was sent beyond the Euphrates to people the thinly inhabited portions of the Assyrian empire; and when this process was completed, new settlers were brought from Assyria to occupy the depopulated land, 2 Kings 17:24. The cuneiform inscriptions discovered at Nineveh contain remarkable corroborations of the Bible records. This was the first captivity, or exile, of Israel.\n\nThe ten tribes never returned to Palestine to any appreciable degree; but their terrible discipline became the enriching of the world. They planted synagogues on foreign soil, and disseminated in many lands the knowledge of Jehovah and their Scriptures. They were represented at Jerusalem by their descendants on the day of Pentecost; and the Apostle John counted their myriads among the redeemed, Revelation 7:1-17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 16
+ }
+}

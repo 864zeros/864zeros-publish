@@ -12,11 +12,24 @@ represented. Total: **834 records** across **63 files**.
 ## Record schema
 Every scripture record is:
 ```json
-{ "book": "...", "chapter": N, "citation": "Book C:V", "text": "<verbatim PD scripture>", "plain": "<original 864zeros 2026 rendering>" }
+{
+  "book": "...",
+  "chapter": N,
+  "citation": "Book C:V",
+  "text": "<verbatim PD scripture>",
+  "plain": "<original 864zeros 2026 rendering>",
+  "visual_prompt": "<1-sentence organic biblical subject grounded in Era + Geo-Location>",
+  "spec_id": "fhg_sketch_spec | fhg_sketch_people_spec",
+  "humanizer": "G2+S2 | G2+S3",
+  "image_file": "sketches/<filename>.jpg"
+}
 ```
 - **`text`** — the exact public-domain verse (the anchor).
 - **`plain`** — an original 864zeros paraphrase in plain 2026 English (~grade 6–8). *This is the product* —
   original, owned content, not a published translation. Do not replace it with a third-party translation.
+- **`visual_prompt` + `spec_id` + `humanizer` (Lean On-Device Visual Contract):**
+  - To prevent mobile RAM and on-device LLM context bloat, individual verse JSON records store **only** the 1-sentence `visual_prompt`, `spec_id`, and `humanizer` stage (`"G2+S2"` for nature/objects via `fhg_sketch_spec` [~90% of verses]; `"G2+S3"` when human silhouettes seen strictly from the back are included via `fhg_sketch_people_spec` [~10% of verses]).
+  - All full generation prompt templates, negative tokens, filter parameters (`G1`–`G5` per-stroke straightening + `S1`–`S5` humanizer), future medium specs (`fhg_sketch_trivia_spec`, `fhg_sketch_journal_spec`, `fhg_illustration_color_spec`, `fhg_watercolor_spec`, `fhg_painting_acrylic_color_spec`, `fhg_charcoal_spec`), and the exclusive bottom-right canonical signature rule (`media/visuals/jeff_canonical_signature.png` at `x_right=0.942w, y_bottom=0.971h`) live once in [`FHG_VISUAL_SPEC_REGISTRY.json`](FHG_VISUAL_SPEC_REGISTRY.json).
 - The three `_daily` files add a shape field (`day` for Proverbs; `psalm`/`day` for Psalms). Each file has a
   `_meta` block: title, translation, license, source, selection policy, `count`.
 

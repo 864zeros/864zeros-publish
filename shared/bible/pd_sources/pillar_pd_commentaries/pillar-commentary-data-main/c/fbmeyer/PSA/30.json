@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Joy Cometh in the Morning” -- Psalms 30:1-12\n\nThis psalm dates from 2 Samuel 5:11. What a contrast between Adullam’s cave and the house of cedar! When God has lifted us up in mercy, we should lift Him up in song.\n\nApparently David had been passing through a time of sickness or intense sorrow, and now he could not be thankful enough for God’s redeeming mercy. When shall we realize that God both forgives sin and redeems us from its eternal consequences! Weeping is here personified; she is only a lodger, who tarries for the brief Eastern night, and then, veiled, glides out of the house at daybreak. With the first ray of light Joy comes to abide, and we hear His hearty salutation in the vestibule.\n\nWe need more of the joy of the Lord. The first touch of pain makes us cry, Psalms 30:8; but we are slow to put on and wear the girdle and the garments of gladness. Be of good cheer, sad friend; God will yet turn “the shadow of death into the morning!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 31
+ }
+}

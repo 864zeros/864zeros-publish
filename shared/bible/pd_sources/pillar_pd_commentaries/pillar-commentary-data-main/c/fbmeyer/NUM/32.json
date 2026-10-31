@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Seeking Inheritance beyond Jordan -- Numbers 32:1-19\n\nReuben and Gad were contiguous to each other when the host encamped. They had, therefore, many opportunities for conference, and finally united in asking permission to settle on the east of Jordan, where vast tracks of pasturage were eminently suited to their flocks. They have been held up as types of those whose “much cattle” hinder the realization to the full of the heavenly inheritance. Certainly many professing Christians live on the world’s side of the Cross. They have no desire to share in the crucifixion of the self-life, if only they may build sheepcotes and cities and provide for their little ones. “It is easier for a camel to go through the eye of a needle than….”\n\nAt first Moses was indignant at the request, thinking that they desired to evade the hardships, but their explanation modified his wrath. Be swift to hear, slow to speak!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Warning against Forsaking Their Brethren -- Numbers 32:20-42\n\nThese two and a half tribes never entered the national life, as did those on the other side of Jordan. They were far from the center of religious life, first at Shiloh and then at Jerusalem. On them first the tide of invasion broke, sweeping them and their cattle into captivity.\n\nIn Deborah’s great song Reuben is rebuked for sitting “among the sheepfolds to hear the pipings for the flocks,” instead of coming to the help of the Lord against the mighty. The Brahmins say that the holy man dies to every other sin earlier and easier than to the love of money. Their cattle kept these tribes on the wrong side of the river of separation! Let us beware of the cares of this world, if we are poor, and of the deceitfulness of riches, if we are rich. Better lose all than the soul. See Matthew 16:26."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 33
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "At the Mercy of Midian -- Judges 5:24-31; Judges 6:1-6\n\nWhat a contrast our reading suggests between those that love the Lord and go from strength to strength in the undimming luster and influence of their life, and the evil that once more brought the tyrant’s yoke upon this neck of Israel! Yet these alternations have too often befallen us. At one moment Sisera and his hosts are chased before us as sheep before the dog; then a reaction sets in and the hand of Midian prevails against us. Why are we not always glad, strong, and victorious? Is it not because we look to our moods, we relax our close walk with God, and we set up the images of Baal in our hearts? We are then reduced to the plight described here and in Haggai 1:6.\n\nWhy are there not more conversions in the Church? Why is there so little difference between the Church and the world? Why is so much of our Sunday-school teaching ineffective? Ah, the Midianite is in our midst and we acquiesce! The urgent, primal need of the present day is for the Church to realize her true condition, and cry mightily unto God for help. Note Judges 6:6 and Joe 1:14, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "A Farmer Called to Be Deliverer -- Judges 6:7-18\n\nGod is not content with sending a prophet to condemn our sins; He commissions an angel to bring help. Surely there is truth in the old belief that the Angel-Jehovah, designated here, was our Lord, whose delights were ever with the sons of men. Compare Isaiah 63:9 and Acts 7:30 with Exodus 3:2; Exodus 3:6. He still comes to us, not visibly to the eye, but sensibly to the heart. There is a peculiar burning at the heart, which those who love Him understand, when He manifests Himself to them as not to the world. See Luke 24:32 and John 14:21 Gideon was the youngest son of a poor family, which had suffered greatly at the hands of Midian.\n\nSee Judges 8:18. He was compelled to thresh his wheat in the wine-press, below the surface of the ground, lest the Midianites should descend on it and carry it off. He seemed the least likely to be the chosen deliverer. But remember the Apostle’s words, 1 Corinthians 1:26. There is a might that no human valor can impart; it is that which is communicated directly from Christ, as in Judges 6:14. And when Jesus looks and speaks, the young soul that stands in all humility before Him knows that it can do all things through Him who strengthens, Philippians 4:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Face to Face with the Angel of Jehovah -- Judges 6:19-27\n\nGideon realized the momentous character of that interview. He only wanted to be sure that it was no dream or fancy, and so hence the proposal of the flesh and broth. As the fire started forth at the Angel’s touch, he knew that the veil of the unseen world had been rent to send him direction and help. At first he was startled, and then the peace of God fell upon his soul. He heard the Voice that uttered a similar benediction in Daniel 10:19 and John 20:26. The peace of God henceforth kept His heart and mind.\n\nOn Gideon’s side, God required an act of immediate obedience: the destruction-though they stood on his father’s property-of the hideous emblems of cruel and unclean rites and the substitution of an altar to the Lord. Ten of his household servants, beneath the spell of his personality, aided him in this heroic deed, which exposed him to disownment by his family and the forfeiture of his life by the townsfolk. God demands that we should love Him best, Luke 14:26-27; Luke 14:33. But when our heart is perfect toward Him, He shows Himself strong in our behalf, 2 Chronicles 16:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "Beginning Reform at Home -- Judges 6:28-40\n\nThe good sense of Joash saved his son. “Of what use is Baal to us,” said he, “if he cannot take care of himself?” Gideon had stood the divine test; can you wonder that the Spirit of Jehovah, whom we know as the Holy Spirit, came upon Gideon and wrought mightily through his submitted life? Oh, to be pliant to the Spirit of Christ, as clothes to the body! With heroic courage he blew the trumpet of revolt, regardless of Midian, and at its notes the whole country aroused as from the spell of a bad enchantment.\n\nBut amid the excitement of the hour, the young leader craved one more assurance. He asked two questions. Was it possible that the Spirit had come on him in an especial manner? The answer was in the affirmative, for the fleece-which represented himself-contained a bowlful of water, while the floor was dry. Was it possible, also, that the same Spirit that had come on himself would descend on the people who should gather to his summons? Again the answer was in the affirmative, for the floor was wet. God’s promises are always “Yea” and “Amen.” He cannot fail you. See 2 Corinthians 1:18-22."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 7
+ }
+}

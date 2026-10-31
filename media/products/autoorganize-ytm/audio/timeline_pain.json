@@ -1,30 +1,55 @@
 {
   "variant": "pain",
-  "total_duration": 19.666032,
+  "total_duration": 21.888,
+  "soundtrackWav": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\soundtrack_pain.wav",
   "scenes": [
     {
       "id": "pain_scene1_hook",
-      "text": "Be honest: is your YouTube Music Liked Songs a chaotic graveyard of tracks you never actually listen to?",
-      "duration": 6.112018,
+      "stepLabel": "0-2s Problem Hook",
+      "caption": "A thousand unsorted songs in Liked Songs?",
+      "text": "A thousand unsorted songs in Liked Songs?",
+      "duration": 2.572018,
+      "durationMs": 2572,
       "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene1_hook.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene1_hook_raw.mp3",
       "start": 0.0,
-      "end": 6.112018
+      "end": 2.572
     },
     {
-      "id": "pain_scene2_split",
-      "text": "AutoOrganize scans your library privately on-device and auto-splits it into real genre playlists right in your own account.",
-      "duration": 7.096009,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene2_split.wav",
-      "start": 6.112018,
-      "end": 13.208027
+      "id": "pain_scene2_payoff",
+      "stepLabel": "2-5s Immediate Visual UI Payoff",
+      "caption": "Watch this: one click splits your chaotic library into clean genre playlists.",
+      "text": "Watch this: one click splits your chaotic library into clean genre playlists.",
+      "duration": 5.196009,
+      "durationMs": 5196,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene2_payoff.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene2_payoff_raw.mp3",
+      "start": 2.572,
+      "end": 7.768
     },
     {
-      "id": "pain_scene3_cta",
-      "text": "Synced to every device by Google. Try your first playlist free at eight sixty-four zeros dot com.",
-      "duration": 6.458005,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene3_cta.wav",
-      "start": 13.208027,
-      "end": 19.666032
+      "id": "pain_scene3_walkthrough",
+      "stepLabel": "5-15s Quick Setup Walkthrough",
+      "caption": "AutoOrganize scans your YouTube Music privately in your browser, groups songs by real genres, and lets you preview every playlist.",
+      "text": "AutoOrganize scans your YouTube Music privately in your browser, groups songs by real genres, and lets you preview every playlist.",
+      "duration": 7.524014,
+      "durationMs": 7524,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene3_walkthrough.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene3_walkthrough_raw.mp3",
+      "start": 7.768,
+      "end": 15.292
+    },
+    {
+      "id": "pain_scene4_cta",
+      "stepLabel": "15-21s Pricing Advantage & CTA",
+      "caption": "No monthly rent, one-time unlock, and your first playlist is free at eight sixty-four zeros dot com.",
+      "text": "No monthly rent, one-time unlock, and your first playlist is free at eight sixty-four zeros dot com.",
+      "duration": 6.596009,
+      "durationMs": 6596,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene4_cta.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\social_shorts\\audio\\pain_scene4_cta_raw.mp3",
+      "start": 15.292,
+      "end": 21.888
     }
   ]
 }

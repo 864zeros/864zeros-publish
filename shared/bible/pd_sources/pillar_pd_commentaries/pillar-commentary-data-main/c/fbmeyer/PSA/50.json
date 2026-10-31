@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 50,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sacrifices Which God Desires -- Psalms 50:1-15\n\nThis is one of the most majestic compositions of this book. For literary power it cannot be excelled. The psalmist hears God calling the whole world from east to west. His presence is compared to the dawn and to a tropical storm. When He is seated on His throne, the heavens and the earth bear witness while He judges His people. Then up the crowded aisles His saints advance and stand before Him.\n\nThere is no need to enlarge upon the spiritual insight of the psalmist, who realizes that God cannot be enriched by anything that we can bring; but insists on the sacrifice of thanksgiving, vows of consecration, and the loud call for help in the day of trouble. These are characteristic of those whose God is the Lord, and of the people whom He has taken for His own inheritance. Let us specially ponder these three conditions of the happy life, Psalms 50:14-15. What comfort is contained in the blessed promise of Psa 50:15! It is so absolute in its certainty and assurance. God has here bound Himself to deliver the soul that calls on Him in its trouble and give it reason to glorify Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "God’s Warning to the Wicked -- Psalms 50:16-23\n\nThese searching words are for us all. We have no right to declare God’s statutes, if our hearts hide wickedness in their secret chambers. We must not share ill-gotten money. Impurity, deceit, slander must be far from us, if we would have fellowship with God in prayer or service. God’s silence must not be taken as indifference, for He is carefully watching each word and act; and if we persist, He will arise and set out all these unforgiven sins in order before the quickened vision of the soul.\n\nNotice the two final conditions of a blessed life, Psalms 50:23. First, we must offer the sacrifice of praise, for we are priests and must not be slack in presenting the fruit of our lips. See Hebrews 13:15. But in addition we must order our behavior, or way, aright. It is a solemn thing to be entrusted with the great opportunity of living. Every passing moment should have something committed to it to keep in store. We dare not live by haphazard or chance. We must order our ways with prayerful deliberation."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 50
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 49
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 51
+ }
+}

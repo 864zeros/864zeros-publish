@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Persecution Spreads the Truth -- Acts 17:1-12\n\nThessalonica. Slowly Paul made his way among the great cities of Greece. He was sowing seeds of which others would reap the harvest. His one theme was the risen Lord, whether amid the less or the more cultivated, Acts 17:3; Acts 17:31. This is surely the true method of world evangelization-not to argue but to proclaim the glorious personality of our risen Lord. Notice the distinction in Acts 17:3 between the human name, Jesus, and the royal name, Christ. As Jesus, our Lord lived, ministered, and died; as Christ, He was raised from the dead, and as such He is the crowned King of men, Acts 17:7. However loyal we may be to the civil government, our first allegiance is to another king, Acts 17:7.\n\nBerea. True nobility consists in being open to any new truth that God may reveal to us from His Word. The one test of truth is Scripture as interpreted to the pure heart by the Holy Spirit; but we should examine the Scriptures daily as the Bereans did. It is not to be wondered at that many believed. If only our people would love the Bible, saturating their minds with it and teaching it to their children, what different results would follow the preaching of the gospel!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Stirred by Idolatry -- Acts 17:13-21\n\nFrom the first, the gospel was baptized in the fire of persecution. How unutterable the loneliness and sorrow of the Apostle as he reached Athens! Did doubt ever enter his mind as to whether he was on the appointed track? If it did, he at once dismissed it. His motto was to forget the things behind. When, in dependence upon God, you have once taken a path, dare to believe it is right, whatever appearances there are to the contrary.\n\nOne purpose consumed the Apostle. One thing I do, was the thread on which the many beads of his experiences were strung. Persecuted and rejected today, he is at his favorite work tomorrow. How different this intense earnestness from the trifling of the so-called philosophers of Athens! The Epicurean made the pursuit of pleasure the main object of life. The Stoic, on the other hand, believed in the stern repression of nature. All Greece was absorbed in the cultivation of art, architecture, eloquence, and intellectual brilliance. But here, as everywhere, Paul had but one message-Jesus and the Resurrection. Oh, to be pressed in spirit, as he was, till our earnestness should compel our opponents to give us a serious hearing!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The One Living and True God -- Acts 17:22-34\n\nThe gospel preacher must avail himself of any circumstance in his surroundings that will enable him to arrest the attention of his audience. He must meet them where they are and take them with him to realms of thought with which they are not familiar. Paul was wise to begin with that altar to the unknown god.Around them stood the most exquisite temples ever reared by human genius, but these were not the home of God. He seeks the lowly and contrite heart, not of the Jew alone, but wherever man is found, and on whatever intellectual plane. Men, the world over, are brothers-“he hath made of one blood all nations.” The arrangements of divine providence have been contrived to lead men to God. If they feel after Him with reverence and true desire, He will be found of them.\n\nAll men are His offspring, but only those who receive the Son of God into their hearts become really sons. Repentance is the act of the will, and therefore it may be commanded. God can overlook much that is hurtful and evil, because He loves the world and deals with men according to their light; and we may rejoice therefore that He will judge mankind by “the Man.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 18
+ }
+}

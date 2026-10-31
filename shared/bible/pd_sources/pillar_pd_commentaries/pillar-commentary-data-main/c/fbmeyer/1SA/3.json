@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Speak, Lord; for Thy Servant Heareth -- 1 Samuel 3:1-9\n\nAs we read again these familiar verses, we are taken back in thought to the dear scenes of childhood-to the home we remember so well and to the mother’s voice, perhaps now silent. This story, which was our favorite then, is hardly less dear to us now that we are well advanced on the pathway toward the home beyond.\n\nThe dying lamp of the Tabernacle, the glimmering dawn, the silence and awe of the Holy Place were in strict accord with the boy’s attentive ear and opened heart. The rug or couch on which he lay was not too lowly for the eternal God to visit. Stooping from His high heaven, He came, and stood, and called. He was not angry because the child did not understand; nor did he, impatient of the delay, close the interview because He was not recognized. He knew that, once he understood, Samuel’s heart would be eager to obey the call. With all of us there is ignorance as well as mistake. In our confusion we run hither and thither. It is best to lie still, even though the heart throbs and the attention is alert, until the knock is again heard on the door."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "A Message through a Child -- 1 Samuel 3:10-21\n\nIt was a heavy burden that the young boy had to carry. To remind Eli of his sons’ shameful sin; to reprove him for his neglect; to utter a judgment which no sacrifice could avert-all this was so painful that Samuel seems to have lain with wide-open eyes till daybreak. Then he appears to have gone quietly about his usual duties, as if still unwilling to disturb the quiet serenity of old age. It almost seems that Samuel realized the implicit rejection of Eli and his family, since he, and not Eli, had received the divine message.\n\nSamuel’s delicacy in trying to save Eli’s feelings is as beautiful as the old man’s resignation in hearing the awful disclosure of judgment; and in many a trying hour in after-life, he must have recurred to Eli’s reverent expression of submission: “It is the Lord: let Him do what seemeth Him good.” The secret of a blessed life is to say Yes to God, and as sons to receive the discipline of His chastening and refining providence, Hebrews 12:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 4
+ }
+}

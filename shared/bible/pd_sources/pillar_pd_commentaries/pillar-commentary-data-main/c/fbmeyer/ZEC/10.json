@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "fbmeyer",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Lowly Deliverer Brings Peace -- Zechariah 9:9-17; Zechariah 10:1-12\n\nJesus must be King first, then Savior. He is lowly; His steed is not the richly caparisoned warhorse, but the humble ass; He needs no weapon to overthrow His foes, because as Priest He speaks peace. The peasantry had taken shelter in the rock hewn mountain cisterns; but they might cherish hope, because they had been redeemed by the blood of the covenant, and God would see to it that that redemption was made effective. Before the advent of the King, the prison-doors would open, and at His word the imprisoned should go forth. How great are His goodness and beauty!\n\nIn Zechariah 10:1-12 we have a reference to the successful stand made by Judas Maccabaeus and his brethren against Antiochus. They were to tread them down as the mire of the streets; Joseph and Judah would be reunited and after their far-spread sowing over the world, the scattered tribes would ultimately return as bees to the call of the bee-farmer."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 11
+ }
+}

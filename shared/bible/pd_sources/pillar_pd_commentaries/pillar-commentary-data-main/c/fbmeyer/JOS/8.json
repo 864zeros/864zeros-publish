@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ai Again Attacked -- Joshua 8:1-17\n\nNow that the evil was put away, the people were assured of victory. “I have given,” etc. But the assurance of faith is not inconsistent with the call for action: “Arise, go up.” Though he was thus secure of victory, Joshua adopted such measures as his soldier-training suggested. Notice the place which our preparations should occupy. Not to shut God out, but to make the pathway along which His help may travel.\n\nThe restrictions as to the spoil which had been in force and which had led to Achan’s undoing were now removed. God often tests us before allowing us to enjoy. Certain injunctions or prohibitions may be given to prove us; but are removed when our lesson is learned, Deuteronomy 8:2.\n\nUp the long, desolate pass Israel marched. There they could see Achan’s tent, and there the scenes of their recent defeat. Their hearts were chastened. In all humility and faith they marched forward, and they were not ashamed, Joe 2:26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Enemy Completely Destroyed -- Joshua 8:18-29\n\nJoshua’s preparations were skillfully made, and in that very place where Israel had been so disastrously defeated they scored a great victory and took large spoil, especially cattle, which they drove in triumph to the camp at Gilgal.\n\nTaught by Christ’s gentle spirit, we turn our eyes away from the doom that befell the entire population. In those days notions of God’s justice were not tempered by knowledge of His mercy. But the Bible records the slow growth of even the religious leaders of the race in the true knowledge of God, Acts 26:9.\n\nBe of good cheer, you that have been repeatedly overwhelmed by your strong enemies! Your failure arises from some hidden evil lurking in your soul! Put that away! Cast it out as a cancer! Where you were defeated you shall be more than conqueror, through the grace of Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Recording and Reading the Law -- Joshua 8:30-35\n\nAfter the fall of Ai the war was suspended for a time. The divine hand restrained the Canaanites from interfering with Israel’s obedience to the Mosaic code. The whole nation was marshaled in the valley between Ebal and Gerizim, to hear the Law recited and to respond with the thunder of their “Amen,” Deuteronomy 27:15. Ebal was for the curse. It was appropriate that the altar should be there, Galatians 3:13.\n\nRemember that even when we enter the land of rest, through faith in Jesus, we cannot get away from God’s holy Law; nay, it is even more perfectly fulfilled as we walk after the Spirit, Romans 8:1-4. Let us go further and ask that, as the Law was written on those mighty stones, so it may be engraven on the tablets of our hearts, Hebrews 8:10.\n\nIn the hour of completest triumph we need to stand before the Lord! It was in this spot that the incident of Joh 4:1-54 took place. Jesus transformed it into a valley of blessing!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 9
+ }
+}

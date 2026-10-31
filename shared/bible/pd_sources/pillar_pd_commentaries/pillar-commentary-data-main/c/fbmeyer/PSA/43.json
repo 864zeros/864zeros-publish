@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 43,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Help of My Countenance” -- Psalms 43:1-5\n\nThe exiled king still pours out his soul to God. Already David has addressed Him as God of my life; here God appeals to David as God of my strength, Psalms 43:2, and God, the gladness of my joy, Psalms 43:4, r.v., margin. Speak well of thy God, even though His back seems turned on thee!\n\nThy light and thy truth, Psalms 43:3, may refer to the Urim and Thummim. Or we may think of them as two white-vestured angels sent from God’s presence-chamber to guide the exile’s steps back to his home. “Send them forth, commissioned to find me in this lone land and bring me to thine altar.” There seem to be four steps in the approach. Unto thy holy hill-this was Mount Zion. To thy tabernacles, the earthly Presence-chamber. Unto the altar of God. Here is a step in advance. Our altar is the Cross where Jesus died, Hebrews 13:10. But God’s altar is not enough; we need Him. So we still press on unto God my exceeding joy. Then the hue of health appears on our faces! See Psalms 43:5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 43
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 42
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 44
+ }
+}

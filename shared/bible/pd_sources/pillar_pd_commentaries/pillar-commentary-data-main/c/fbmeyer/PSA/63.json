@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 63,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Longing Soul Abundantly Satisfied -- Psalms 63:1-11\n\nEver since the third century this has been the morning song of the Church. The superscription tells us that it was written in the wilderness of Judah, probably during the events recorded in 2 Samuel 15:23-28; 2 Samuel 16:2; 2 Samuel 17:16. Notice the many references to the life of the soul. These are the many considerations of our mortal pilgrimage! My soul thirsteth; my soul longeth; my soul shall be satisfied; my soul followeth hard after thee.The soul thirsting, Psalms 63:1-4 Let us be on the alert to see God’s power and glory, not only in the sanctuary, but in dry and thirsty lands. How sad and weary, r.v., is life without God!\n\nThe soul satisfied, Psalms 63:5-7 To desire God is to have Him. To long for Him is to be at the well-head. To remember Him on the bed rests us. To meditate on Him in the night is to have the dawn. The shadow of His wings is absolute safety.\n\nThe soul in hot pursuit, Psalms 63:8-11 God is always in front of us. The Savior went before; we must follow in His steps, but there ought to be as little space as possible between us. Another turn of the road, and you will see Him!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 63
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 62
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 64
+ }
+}

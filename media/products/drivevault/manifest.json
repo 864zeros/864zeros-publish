@@ -15,7 +15,7 @@
     "tag": "⏱️ 40s Product Demo",
     "title": "Watch DriveVault in Action",
     "desc": "Sovereign local backup and client-side AES-256-GCM encrypted vault for Google Drive files. Protect your vital assets from account lockouts with air-gapped recovery keys.",
-    "sub": "<b>No subscriptions</b> · $29.00 one-time lifetime license · Pay once, keep forever"
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
   },
   "social_shorts": [
     {
@@ -47,7 +47,7 @@
     {
       "img": "drivevault-3.png",
       "alt": "DriveVault — one-time lifetime license vs recurring SaaS subscriptions",
-      "cap": "One-time lifetime license. Permanent sovereign custody of your Drive data without recurring SaaS rent."
+      "cap": "one-time lifetime license. Permanent sovereign custody of your Drive data without recurring SaaS rent."
     }
   ],
   "jsonld": {
@@ -58,7 +58,7 @@
       "Multi-file and folder selection backup",
       "Zero SaaS proxy servers — 100% in-account execution",
       "PBKDF2 key derivation from user passphrase",
-      "One-time lifetime license — zero recurring subscriptions"
+      "one-time lifetime license — zero recurring subscriptions"
     ]
   }
 }

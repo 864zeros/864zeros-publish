@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Prayer for Pardon and Protection -- Psalms 25:1-22\n\nThis is an acrostic or alphabetical psalm. The verses begin with the successive letters of the Hebrew alphabet, to aid the memory. So also in Psalms 9:1-20; Psalms 10:1-18; Psalms 34:1-22; Psalms 37:1-40; Psalms 111:1-10; Psalms 112:1-10; Psalms 119:1-176; Psalms 145:1-21. It repeats the same expressions several or more times, such as wait, Psalms 25:3; Psalms 25:5; Psalms 25:21; ashamed, Psalms 25:2-3; Psalms 25:20; and teach, Psalms 25:4-5; Psalms 25:8-9; Psalms 25:12.\n\nLift up your soul to God, that its darkness may flee before His light and your maladies be healed by His saving health. If you pray to be led and taught, be quiet and wait all the day, Psalms 25:5. The anointing that you have received is all that you require, 1 John 2:27. God’s holiness is no barrier but an encouragement to repentant sinners. Notice therefore, Psalms 25:8, and compare with Matthew 9:13 and Luke 15:1. What will not God do for the Name! Isaiah 63:14; Isaiah 63:16; Ezekiel 36:22-23. For God’s secrets, see Genesis 18:17; 1 Corinthians 2:9-10. Entrust God with the keeping of your soul and you will never be ashamed, Isaiah 49:23."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 26
+ }
+}

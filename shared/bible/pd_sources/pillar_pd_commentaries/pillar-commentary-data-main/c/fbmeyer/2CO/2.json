@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Tender-hearted and Forgiving -- 2 Corinthians 1:23-24; 2 Corinthians 2:1-11\n\nIn these opening words Paul evidently refers to the sin mentioned in 1 Corinthians 5:1-13. His judgment had been strong and stringent, the Corinthian church had acted upon it, and the offender had suffered severely in consequence. But the result had been more than satisfactory. He had repented with great brokenness of spirit. Indeed, it seemed as if he would be swallowed up with overmuch sorrow, 2 Corinthians 2:7.\n\nThe Apostle desires the Corinthians to understand that he also had shed many tears over the case, 2 Corinthians 2:4. His was a very affectionate and tender disposition, which shrank from inflicting pain, and yet was resolute at all costs to maintain truth. We get a sidelight here as to the heart of God. May we not believe that whenever He chastens us, it is with profound pity? Whom He loves He chastens; and whom He receives, He scourges. But when there is full and frank repentance, there should be forgiveness. The penitent offender was to be restored to church fellowship and received with brotherly welcome. The Savior Himself speaks through forgiveness. It is His love that moves, His voice that declares; while an unforgiving spirit sets an open door to the entrance of Satan."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Savor of the Knowledge of Christ -- 2 Corinthians 2:12-17; 2 Corinthians 3:1-6\n\nPaul, in 2 Corinthians 2:14-16, imagines himself as part of his Master’s procession passing through the world. First he is a captive in Christ’s conquering train; then he is one of the incense-bearers, scattering fragrant perfume; then he conceives of his life as being in itself that perfume. As the captives in a triumphal procession would be divided into two bodies, of which one company was doomed to die while the other was spared, so inevitably all who come in contact with Christ, either directly in the preaching of the gospel or indirectly in the lives of His people, are influenced either for evil or for good.\n\nThe Apostle fancies himself challenged to furnish letters of commendation and he repudiates the claim. “No,” he cries, “the lives and testimonies of those whom I have won for God, are all the credentials that I require!” Every Christian should be a clearly written and legible tractlet, circulating for the glory of God. Men will not read the evidences for Christianity as contained in learned treatises, but they are keen to read us. God alone can suffice us to sustain this searching scrutiny."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 3
+ }
+}

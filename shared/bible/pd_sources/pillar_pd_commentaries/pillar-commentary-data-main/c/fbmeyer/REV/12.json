@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“He Shall Reign For Ever and Ever” -- Revelation 11:14-19; Revelation 12:1-6\n\nThe kingdom is even now Christ’s, but it is hidden, even as He is. One day it will be manifested. For a long time David was the anointed king of Israel, but Saul sat on the throne until the predestined hour came when the tribes of Israel made David their chosen monarch. This surely is a type of that which will one day become apparent to the whole creation. The kingdom of the world will wholly and permanently become Christ’s. Suffering and sorrow will then flee away, as birds of ill omen at dawn.\n\nWar will cease to the end of the world. The glad populations of mankind will walk in the light of life, and the long night and travail of nature will be ended. It may be that each great era of human history ends with a scene of judgment; or that these series of visions are concurrent, viewing the earth-order from different standpoints.\n\nWhat comfort is derived from this vision of the Ark of God’s Covenant, which abides in the inner sanctuary! He is true to us. His word cannot alter, neither will He recede from His pledge to overthrow our enemies, to undo the devastation they have caused, and to realize His original purpose in man’s creation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Satan Cast Down from Heaven -- Revelation 12:7-17\n\nThe spirit of evil waits to destroy each birth of good in our world. As soon as Mary had given birth to our Lord, Herod sought to destroy Him, and this is characteristic of all the ages. But God’s care is always at hand to deliver His own. He has His prepared places, where He hides those who trust in Him. He keeps them in the secret of His pavilion from the strife of men.\n\nSin has brought conflict, not on our earth only, but throughout the universe; but from the heavenly places it has been driven, and the last stand is made on our earth. Is it not possible that the awful war which has desolated mankind may be one of the last phases of this age-long conflict? There is but one talisman of victory. We overcome only in so far as we take shelter in the blood of the Lamb and wield as our weapon the Word of God. As darkness cannot resist the light, so evil cannot exist before the witness of the Church and the child of God, if only we care more for the honor and glory of Christ than for our own lives. To the end there must be war between the seed of the woman and the dragon, and there must be bruising.\n\nBut the final outcome is sure. As Satan was cast out of heaven, so he shall be cast out of earth, and Christ shall see of the travail of his soul and shall be satisfied."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 13
+ }
+}

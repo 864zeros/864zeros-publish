@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "No Compromise with Idolatry -- Deuteronomy 6:20-25; Deuteronomy 7:1-11\n\nThe great Lawgiver had His eye constantly on the coming generation. It is good when the children are so arrested by our religious life, that they come to ask us to tell them the reasons that account for it. Seek to live so purely and devoutly, and yet so attractively, that the young people around will be compelled to inquire after your secret, Luke 11:1.\n\nWe are not only to teach the children, but to guard them against forming friendships and making marriage alliances with those who might divert them from God. In the New Testament, Christians are forbidden to marry except “in the Lord,” and equally stringent are prohibitions against worldly intercourse, 1 Corinthians 7:39; 2 Corinthians 6:14.\n\nGod can break the seven-fold power of sin in the heart of those who are absolutely given over to Him and are willing to surrender their evil ways. This is pledged to us by His fidelity and love, Deuteronomy 7:8-9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "What the Lord Does for His People -- Deuteronomy 7:12-26\n\nThe promises to obedience are enlarged upon with touching copiousness. Love, blessing, keeping, peace, multiplication, fruit and health lie along the narrow pathway entered by the strait gate of the Cross. However forbidding its entrance, it “leadeth unto life.” May Christ secure in us this obedience which He, too, demands and achieves by His Spirit! John 14:15.\n\nWhatever be the strength of the Amalekites and Hittites of the heart, let us not fear. We have been “reconciled by His death” and shall be “saved by His life,” Romans 5:10. “Little by little” is the law of progressive sanctification. The Holy Spirit shows us the next portion to be taken and the enemies that resist our prayers. But as we advance, they are driven out, Isaiah 54:17.\n\nWe resemble what we admire. Let us set our affections above. To abhor the evil and pursue the good casts a glory on our face. Compare Deuteronomy 7:26; Psalms 115:8; 2 Corinthians 3:18."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 8
+ }
+}

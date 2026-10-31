@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Not Here, but Hereafter -- Job 24:1-25\n\nJob laments that the times of punishment are not so explained by God, that those who know Him may see and understand His reasons. He then turns to describe the life of the ungodly, who do dark deeds with apparent impunity. A very sad catalogue of crimes follows. The oppression of the needy, the driving away of the ass of the fatherless, the taking of the widow’s ox for a pledge, the frequenting of the wilderness, the plunder of caravans regardless of the claims of pity, the stealing of oil and wine from those who had labored to produce them, the murdering of the poor laboring man at the dawn, the commission of crimes at night-such are the iniquities which are described. And these crimes are still committed in so-called Christian lands. Wonderful that God should bear with us, but His long-suffering would fain lead men to repent. It is only after long forbearing and trial that He cuts down.\n\nIn his closing words, Job 24:18-21, Job quotes the opinion of his friends as to the condition of the ungodly, that they pass away swiftly as the waters, and are snapped as a branch of a tree. And, in opposition, he states his own view, Job 24:23-25, that they die in exalted positions, not by a painful and lingering death, but as corn in the maturity of the ear. This also is true. Wicked men do not always meet their deserts in this world. In the next world penalty is inevitable."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 25
+ }
+}

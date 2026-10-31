@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 48,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The City of Our God” -- Psalms 48:1-14\n\nThis psalm also probably dates from 2 Chronicles 20:20. Tekoa was only three hours’ march from Jerusalem and commanded an extensive view, so that Psalms 48:4-5 were literally true.\n\nThe psalmist celebrates the beauty and glory of Zion, Psalms 48:1-3. The Church today is the City of the great King. Apart from God, the fairest palace is no refuge; but a cottage becomes a palace if God is known and loved there. Judah’s recent deliverance is gratefully commemorated, Psalms 48:4-8. It is a sublime picture: the gathered array, the dismay, flight, and destruction of the foe. Then comes the call to loving thought on God’s care and goodness, Psalms 48:9-14.\n\nNotice those two sentences-“As we have heard, so we have seen,” Psalms 48:8; and, “As is thy name, so is thy praise,” Psalms 48:10. Whatever we have been told by our fathers about God, God is prepared to be and do for us; and our aim should be to praise Him worthily. Think of His love till your heart kindles to praise; and remember that this God is yours forever and ever. Let us surrender to Him the guidance of every step, until we pass through death into His immediate presence."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 48
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 47
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 49
+ }
+}

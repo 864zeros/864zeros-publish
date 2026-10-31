@@ -13,9 +13,45 @@
     "count": 4
   },
   "verses": [
-    { "book": "Habakkuk", "chapter": 2, "citation": "Habakkuk 2:4", "text": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.", "plain": "See, the enemy is puffed up; his desires are not upright — but the righteous person will live by his faithfulness." },
-    { "book": "Habakkuk", "chapter": 3, "citation": "Habakkuk 3:17", "text": "Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:", "plain": "Though the fig tree does not bud and there are no grapes on the vines, though the olive crop fails and the fields produce no food, though there are no sheep in the pen and no cattle in the stalls," },
-    { "book": "Habakkuk", "chapter": 3, "citation": "Habakkuk 3:18", "text": "Yet I will rejoice in the Lord, I will joy in the God of my salvation.", "plain": "yet I will rejoice in the Lord, I will be joyful in God my Savior." },
-    { "book": "Habakkuk", "chapter": 3, "citation": "Habakkuk 3:19", "text": "The Lord God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.", "plain": "The Sovereign Lord is my strength; he makes my feet like the feet of a deer, and enables me to tread on the heights." }
+    {
+      "book": "Habakkuk",
+      "chapter": 2,
+      "citation": "Habakkuk 2:4",
+      "text": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.",
+      "plain": "See, the enemy is puffed up; his desires are not upright — but the righteous person will live by his faithfulness.",
+      "visual_prompt": "a kneeling robed figure seen strictly from the back in quiet prayer beside a rough stone ledge in a barren fig tree and empty stone olive press in a quiet yard",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "citation": "Habakkuk 3:17",
+      "text": "Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:",
+      "plain": "Though the fig tree does not bud and there are no grapes on the vines, though the olive crop fails and the fields produce no food, though there are no sheep in the pen and no cattle in the stalls,",
+      "visual_prompt": "an ancient gnarled olive tree with deep roots gripping a terraced limestone hillside in a barren fig tree and empty stone olive press in a quiet yard",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "citation": "Habakkuk 3:18",
+      "text": "Yet I will rejoice in the Lord, I will joy in the God of my salvation.",
+      "plain": "yet I will rejoice in the Lord, I will be joyful in God my Savior.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a barren fig tree and empty stone olive press in a quiet yard",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Habakkuk",
+      "chapter": 3,
+      "citation": "Habakkuk 3:19",
+      "text": "The Lord God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+      "plain": "The Sovereign Lord is my strength; he makes my feet like the feet of a deer, and enables me to tread on the heights.",
+      "visual_prompt": "an ancient milestone standing beside a quiet cobbled road in a barren fig tree and empty stone olive press in a quiet yard",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

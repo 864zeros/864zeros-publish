@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Magnify the Lord with Me” -- Psalms 34:1-10\n\nThe event associated with this psalm is recorded in 1 Samuel 21:1-15. It was not a very creditable incident. David, however, realized the goodness of God, notwithstanding his own failures and mistakes.\n\nIn the original the verses begin with the letters of the Hebrew alphabet.\n\nPsalms 34:1 : At all times… continually. It is a sign of great grace to bless always, in dark as well as bright days.\n\nPsalms 34:3 : “Birds,” says Trapp, “when they come to a full heap of corn, will chirp to call their fellows.”\n\nPsalms 34:4-6 : All the time David was feigning madness, his soul was going out to God in prayer.\n\nPsalms 34:7 : Compare Acts 12:6-10.\n\nPsalms 34:8 : Some experiences must be enjoyed to be understood. There are not words adequate to tell of them.\n\nPsalms 34:10 : “We will leave thee nothing!” said plundering soldiers to a widow. “I care not,” returned she. “I shall not want so long as God is in the heavens.” Columba-an early Celtic missionary-spent his last afternoon in transcribing this psalm, saying when He reached Psalms 34:10 : “I will stop here. The following verse will better suit My successor.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Salvation of the Contrite -- Psalms 34:11-22\n\nPsalms 34:11-14 : The gist of this exhortation is quoted by Peter in his first Epistle. See 1 Peter 3:10. We need not fret to defend ourselves or to answer false accusations. Let us refrain our lips, hold our peace, as Jesus did, and go on doing what is right and good. God will see to it that our needs are supplied, that our enemies are silenced, and that our soul is redeemed.\n\nPsalms 34:15 : Do you feel unable to claim the designation of righteous? Remember that Paul was glad to reject his own, that he might be clad in Another’s righteousness. That still avails for us. See Philippians 3:9.\n\nPsalms 34:17 : We are not kept from trouble, but delivered out of it.\n\nPsalms 34:20 : You do not recognize Him, but the Great Gardener passes by the plants that have braved the wind and storm to bend over you who are beaten to the earth. See the literal fulfillment of this in John 19:36. How much we owe to God’s continuous care!\n\nPsalms 34:22 : Observe the present tenses in which the psalmist records God’s redeeming love. It never grows old."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 35
+ }
+}

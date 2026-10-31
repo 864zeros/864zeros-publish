@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "TIT",
+  "commentaryId": "fbmeyer",
+  "name": "Titus",
+  "commonName": "Titus",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Appoint Fit Men over the Churches -- Titus 1:1-9\n\nGod’s elect are known by their faith, and wherever they hear the voice of truth, which makes for godliness, they recognize and acknowledge it. They are also inspired by a great hope, and that hope cannot be disappointed, because it is founded on the promise and oath of the God who cannot lie, Hebrews 6:19. God’s promise for us has been in His heart from all eternity, but it was hidden until the gospel was proclaimed in the power of the Holy Spirit. The germ-thought of eternity has been realized in Jesus and is unfolded in the gospel. Note the frequent recurrence in this Epistle of the phrase, God our Savior.\n\nThe ordering of these early churches was very important. The presiding officers must be godly and consistent men, and able to commend the gospel by their lives. These natural traits of a holy man should be pondered and appropriated by us all; and we must all hold fast to the Word of God, which has been found trustworthy by countless myriads. Many are the seducing voices in the present day that counsel slackening faith and relaxing grasp.\n\n“If all the wiles that men devise beset our faith with treacherous art,\n\nWe’ll call them vanity and lies, and bind the gospel to our heart.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Reprove Those Whose Works Deny God -- Titus 1:10-16\n\nThe Judaizing teachers, who insisted that men must become Jews before they could be Christians, were always on Paul’s heels, visiting his churches and diverting his converts from the simplicity of the faith. Their motive in many cases was very largely self-aggrandizement. Such men were to be resisted to the uttermost and sharply rebuked. Where the work of grace is really commenced in the heart, a sharp rebuke will often turn the soul back to God. The gardener must not hesitate to use a pruning-knife, if the well-being of the tree is at stake.\n\nNote the marvelous power we possess of viewing things in the light or gloom cast upon them from our own temperament. We see life and the world in a glass colored from within. Oh, that we might possess that pure and untarnished nature that passes through the world like a beam of sunshine, irradiating all but contaminated by none! The true test of the knowledge of God is a holy life. These act and react. The better you know God, the more you will resemble Him; compare Psalms 111:1-10; Psalms 112:1-10. The more you are like God, the better you will know Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 2
+ }
+}

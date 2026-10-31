@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Man and Woman, Temptation -- Genesis 2:18-25; Genesis 3:1-8\n\nHuman love is God’s best gift to man. Without it even Eden would not be Paradise. That Adam was able to name the animals, affixing a title suggested by some peculiarity or characteristic, indicated his royal supremacy, and, in so far as we live in God, that supremacy is restored. See Daniel 6:22; Mark 1:13. But what is power without love, or a throne without a consort? Eve was, therefore, given to crown his bliss; taken from his side, as afterward the Church from the opened side of Christ. See John 19:34, and Ephesians 5:25. Still God brings Eve to Adam; and such a marriage is truly blessed.\n\nThe order of temptation is always the same. The Tempter without, and within the strong desire for sensual gratification, with the secret hope that somehow the consequences may be avoided. The eye inflames passion; passion masters the resistance of the will; the body obeys its impulse; the act of gratification is followed immediately by remorse and guilt. Then we need the second Adam!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "God’s Condemnation of Adam and Eve -- Genesis 3:9-21\n\nGod does not wait for Adam to find his own way back, but hastens in search of him. “Where art thou” is rendered in one version, Alas for thee. Jesus met the Tempter not in a garden, but in the wilderness. He suffered being tempted, but has become to all who obey Him a Life-giving Spirit, and the Author of Eternal Salvation. Read 1 Corinthians 15:45, and Hebrews 5:9. The penalty is gone, borne by Him in His own body on the Cross. So Paul affirms in Romans 5:14, etc.\n\nOur bias toward evil is counteracted by His indwelling through the Holy Spirit; so we are taught in Romans 8:1-4. He bruises Satan beneath the feet of those who trust Him. Such is His own assurance in Luke 10:19, and Mark 16:17. He transforms the other results of sin. Through pain the mother’s love is drawn out to her child. Hard work is educative and ennobling.\n\nDeath is the gate of life. Where sin abounded, grace abounds much more."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Offerings by Cain and Abel -- Genesis 3:22-24; Genesis 4:1-8\n\nIt was good that man should be driven from Eden. Soft comfort enervates. The natives of the South Sea Islands are moral pulp. Man goes forth from the Eden of innocence, of home, of the land of his birth, to create gardens out of deserts, and to become a pilgrim to the abiding City of God. Angels of Love forbid our return. Heaven lies before us, the City gleams with light on the far horizon.\n\nFor the Tree of Life see Revelation 2:7. The inner motive of Cain’s ruthless deed is supplied in 1 John 3:12. Abel, deeply conscious of sin, felt that a sacrifice was needed; therefore his faith saved him and links him with all who believe. See Hebrews 11:4. Cain had no sense of sin, and thought a gift of produce enough. But all the while sin was crouching at the door, like a hungry tiger, waiting for the chance to enter.\n\nWatch and pray, lest ye enter into temptation! “Thou shouldst rule.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 4
+ }
+}

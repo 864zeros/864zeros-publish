@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Turning to a Rejected Leader -- Judges 10:17-18; Judges 11:1-11\n\nThe life of Jephthah is a great consolation to those whose birth has been irregular. The sin of his parents was not allowed permanently to injure his career. He is also distinctly mentioned in Hebrews 11:1-40 as one of the heroes of faith. See Ezekiel 18:14-17.\n\nDriven from his home, Jephthah took to the life of a bandit-chieftain, probably in much the same fashion as David in after-years when he protected, for payment, the cattle of the Hebrew grazers from Ammonite forays. See 1 Samuel 25:15. Jephthah’s wife apparently had died; but his sweet and noble daughter grew up amid that wild horde, and they were all in all to each other. As David influenced a similar band, so did this father and child lift the tone and morale of their followers, until the story of it filled the land and brought the, elders, who years before had sided with Jephthah’s brethren, to entreat him to lead the fight for freedom. What a beautiful suggestion of our Lord! He came to His own and they crucified Him.\n\nHe comes to us and we at first refuse Him. But His love never faileth. Being reviled, He blesses; being persecuted, He endures; being defamed, He entreats, 1 Corinthians 4:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A Warning from History -- Judges 11:12-28\n\nJephthah acted with great prudence. Before rushing into war, he endeavored to argue the matter at issue in peaceful and courteous terms. In answer to the contention that Ammon was only trying to regain its own territories, he insisted that, when Israel came on the scene, they wrested the land, not from Ammon, but from the Amorites. Besides, the occupation of 300 years, which had never before been challenged, surely disproved the claim of the Ammonite king.\n\nWhen a nation has right and justice on its side and is fighting against aggression, especially when the choice between two ideals is in the scale, there is every reason why it should appeal to the Lord, the Judge, to vindicate its cause. It was a question whether the worship of Jehovah or of Chemosh should dominate the country; on that issue there could be no vacillation nor hesitancy. It is interesting to notice how accurately Jephthah had studied the sacred annals of his people and how reverently he alludes to God. There is more religion in the hearts of men like Jephthah than certain Pharisees and priests give them credit for!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "A Shadowed victory -- Judges 11:29-40\n\nAll the nations around were accustomed to offer those dearest to them in sacrifice to their cruel national deities. This was pre-eminently the case with the neighboring country of Moab, which the prophet Micah rebuked, Micah 6:6-8. But in all that wild border-country, there was then no prophetic voice to arrest Jephthah, who probably felt that Chemosh should not claim from the king of Ammon more than he would surrender to Jehovah. Out of this arose, not the rash but the deliberate though mistaken vow of Jdg 11:31. Before you judge him, ask whether you would be willing for your dearest to become a missionary in a heathen land. Have you ever yielded your all to the Man of Calvary?\n\nDo you love Him better than the best? You would not carry out your vow as probably Jephthah did, but are you as absolute in your dedication?\n\nThe reply of Jephthah’s daughter is one of the noblest on record. Compare it with Luke 1:38. Her heart was full of filial love and patriotic passion, as she stood there, timbrel in hand; but the love of God overmastered all else and made her willing to yield all. See 2 Corinthians 5:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 12
+ }
+}

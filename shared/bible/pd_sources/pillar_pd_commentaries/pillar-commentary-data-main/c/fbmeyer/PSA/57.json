@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 57,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“In the Shadow of Thy Wings” -- Psalms 57:1-11\n\nThis is one of the choicest psalms. It dates from Adullam or Engedi. It consists of two sections, each of which ends with the same refrain, Psalms 57:5; Psalms 57:11.\n\nFirst strophe, Psalms 57:1-5 The fugitive among rocky fastnesses hears the roar of the wild beast, but lies quietly in his hiding-place. God’s angels will shut lions’ mouths. “As the wings of a mother-bird intercept the danger that menaces her nestlings, so the loving care of God protects His people. Is there not here a trace of words uttered earlier by David’s ancestor? Rth 2:12; Deuteronomy 32:11.\n\nSecond strophe, Psalms 57:6-11 Before we can awake and sing, we must be conscious that we are touching bedrock. If we are without assurance of salvation, we shall be songless and joyless. In this short psalm the singer has sung himself clear into the blue heaven. He awakes the dawn with His notes. God’s mercy and truth-or faithfulness-like guardian angels in the meanwhile keep watch."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 57
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 56
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 58
+ }
+}

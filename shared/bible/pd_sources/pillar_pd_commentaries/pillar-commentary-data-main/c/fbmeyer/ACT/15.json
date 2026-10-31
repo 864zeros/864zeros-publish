@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "One Way of Salvation for All -- Acts 15:1-11\n\nPaul and Barnabas were quietly resting in Antioch after their arduous toils, when these persons from Jerusalem stealthily commenced to undermine their influence. They contended that the way from paganism to Christ must be through Moses. They especially insisted that Gentiles must become Jews by submitting to the initial rite of Judaism. This insidious teaching followed Paul throughout his life, and extracted from him many of the noble arguments and appeals of his epistles. We can easily understand the vehemence with which he protested.\n\nFinally it was determined to submit the question to the judgment of the Apostles and elders in Jerusalem. The journey thither was a triumphal progress. The story of the seal that God had placed on all the labors of the two missionaries not only filled all hearts with joy, but was the conclusive answer to the Judaizing teachers who were the cause of all the trouble. The first great address at the solemn conclave was by Peter, who quoted his own experience at the house of Cornelius to prove that God at least made no difference between Jew and Gentile. Notice his statement that the believing heart is cleansed by receiving the Holy Spirit, Acts 15:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A Generous Conclusion -- Acts 15:12-21\n\nWhen their turn came to speak, Paul and Barnabas contented themselves with emphasizing the signs and wonders by which God had set His seal on their words and methods. Would He have done so if they had followed a wrong course? Notice the two prepositions that they used in describing their work. They first told of what God had done in co-operation with them and then of what He had done through or by them, Acts 14:27; Acts 15:4; Acts 15:12. Consider also that remarkable phrase about God bearing witness, Acts 15:8. See also Acts 14:3 and Hebrews 2:1-4.\n\nJames had a prominent position in the Jerusalem church, because he was the Lord’s brother and a man of remarkable holiness and prayerfulness. He laid emphasis on the divine program, which moved forward from Jew to Gentile, from the rebuilding of the ruined Tabernacle of David to the seeking of the Lord by the residue of men. The implication was that though Jehovah dwelt in a special manner with His Chosen People, yet the Gentiles would come seeking Him directly and without becoming incorporated with the Jews."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "“Confirming the Churches” -- Acts 15:22-41\n\nThis letter was a noble document and fitted for its immediate purpose, but it does not apply directly to us, as the circumstances which called it forth have long since passed away. It was explicit in denying that the rite of circumcision was needful for salvation. It bore ample testimony to the character and work of the two great missionaries whose action had been impugned. It denounced the false teachers whose intrusion had broken the peace of the Church, and laid down the principles which had been embodied in James’ speech. Notice the conjunction of the Holy Spirit with the persons who issued this letter, Acts 15:28. Here is convincing proof that the Spirit of God is a person; that He presides in the Church; and that He is willing to become our guide and teacher whenever we are perplexed.\n\nThe arrival of Judas and Silas, attesting by their presence the importance that the mother church attached to the question at issue, and the reading of the letter, brought great relief to the believers at Antioch, and a blessed season of teaching and preaching ensued.\n\nIt is unpleasant to see the contention between the two leaders over John Mark, but God overruled it for good and Paul could later write to Timothy, “Take Mark and bring him with thee; for he is useful to me for ministering,” 2 Timothy 4:11, r.v."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 16
+ }
+}

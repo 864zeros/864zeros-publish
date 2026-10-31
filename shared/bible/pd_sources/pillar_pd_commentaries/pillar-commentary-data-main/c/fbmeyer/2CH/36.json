@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "At the Mercy of the Foe -- 2 Chronicles 36:1-10\n\nThe narrative here runs parallel with II Kings, but the events are described with a certain gravity of warning which enforces the lesson of history. Here was the final Catastrophe. Long predicted, at last it fell. The Jewish kings named here were mere puppets, and instead of turning to Jehovah, followed each other in persistent idolatry. Jehoahaz was deposed by Necho, who hoped for a more obsequious tool in his brother Jehoiakim; and the latter in his turn was deposed by Nebuchadnezzar, because he was Necho’s nominee. Jehoiachin was carried into captivity because he was the choice of the people, and Zedekiah because he rebelled.\n\nThese are the superficial reasons for the changes that followed each other with such terrible rapidity. But the pages of Jeremiah and Ezekiel reveal other and deeper reasons, alluded to subsequently in this chapter.\n\nIt was a long process of pruning through which Israel had to pass, before this stock could bear that one pure flower, the mother of our Lord, who was to give the human side of His holy nature to the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Defeat and Exile -- 2 Chronicles 36:11-23\n\nIt is expressly stated in Ezekiel 17:13 that Nebuchadnezzar administered to Zedekiah an oath of fealty in the presence of Jehovah. Hence by his rebellion, he not only broke his promise to the king of Babylon, but profaned the name of God. It is in reference to this profanation of his oath that Zedekiah is addressed in Ezekiel 21:25, r.v., as “thou deadly wounded wicked one… whose day is come.”\n\nIt also appears from Ezekiel 8:1 that toward the close of this reign idolatrous rites of various kinds intruded upon the sacred precincts of the Temple. Hebrew women bewailed Tammuz; elders burned incense to the forms of beasts portrayed on the walls; and men, turning their backs on the sanctuary, worshiped the sun. There was no remedy but exile.\n\nIt had been distinctly predicted that if the Hebrew people disobeyed, their land should become a desolation, and their cities a waste, until the soil had enjoyed the rest which they had failed to give it. Compare Leviticus 25:4 with 26:34, 35. There was a point beyond which the divine judgment would not go. God loved the people whom he chastened; and since He hates putting away, the recreant nation, at the instigation of Cyrus, had one further opportunity of fulfilling their great mission to mankind."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 1
+ }
+}

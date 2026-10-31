@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joseph Sees His Ten Brothers -- Genesis 42:1-17\n\nThe true interpretation of Joseph’s treatment of his brethren is to be found in the supposition that he repeated toward them, as nearly as possible, the behavior that they had shown to himself at the pit’s mouth, and this with no thought of retaliation, but that their consciences might be awakened, and that he might discover if they would deal differently with Benjamin than they had dealt with him. He needed to be sure of their repentance before he could trust himself to them again. His purpose therefore was in part secured when he heard them saying to each other in the dear old home-tongue, which they never expected him to understand, “We are verily guilty because of our brother.” So God deals with us. The east wind blows bitterly in our faces, the famine is behind and the harsh governor before. All these things are hard to bear; but behind them is the tenderest love, which struggles with its tears and is only eager to get us right before entrusting itself to us."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Simeon Held; the Others Sent Home -- Genesis 42:18-38\n\nThe behavior of this great Egyptian official-for so the brethren deemed him-must have seemed very hard and tyrannical to the trembling shepherds from the far land of Canaan. They had no idea that he understood what they said, and turned away to weep. But we can read his inner meaning. He must secure their return, so he kept Simeon bound. He wanted to see the beloved Benjamin, and to test their behavior to him, so he threatened that they should not see his face unless their youngest brother accompanied them. He gave to them of his kindly care in the gift of provisions and the return of their money.\n\nIt was natural that the old father heard their story with failing-heart-“All these things are against me.” Nay, in all these things was the life of the Spirit, and in all these things we are more than conquerors. See Romans 8:37.\n\n“Judge not the Lord with feeble sense,\n\nBut trust him for His grace;\n\nBehind a frowning providence\n\nHe hides a smiling face.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 43
+ }
+}

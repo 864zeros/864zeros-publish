@@ -1,60 +1,74 @@
-{
+﻿{
   "slug": "autoorganize-ytm",
   "category": "browser-extensions",
   "pillar": "OIA",
-  "ingested_at": "2026-09-07T02:39:25.325Z",
-  "type": "extension",
+  "ingested_at": "2026-10-28T19:15:00.000Z",
+  "type": "browser-extensions",
   "name": "AutoOrganize — smart playlists for YouTube Music",
   "summary": "Auto-sort your YouTube Music Liked Songs into real genre playlists, created in your own account. Local-first, no subscription.",
-  "metaDescription": "Organize your YouTube Music Liked Songs into real genre playlists automatically. Local-first — only an anonymous MusicBrainz genre lookup reaches the network. No subscription.",
+  "metaDescription": "Organize your YouTube Music Liked Songs into real genre playlists automatically. Local-first and private — your library stays on your device; only anonymous artist names are queried on MusicBrainz.",
   "icon": "autoorganize-ytm.png",
   "storeUrl": "",
+  "edgeStoreUrl": "https://microsoftedge.microsoft.com/addons/detail/kpjebiiphpclkdapmpamoooconhloohc",
+  "demoUrl": "https://864zeros.com/demo/autoorganize-ytm/index.html",
+  "vsUrl": "https://864zeros.com/vs/youtube-music-playlist-sorter-alternative.html",
+  "playlist": "YouTube Music Power Tools (AutoOrganize)",
   "video": {
     "src": "autoorganize-ytm-short.mp4",
-    "youtubeUrl": "https://www.youtube.com/watch?v=KJICVsAv5qw",
+    "liveUiDemo": "autoorganize-ytm-live-ui-demo.mp4",
     "poster": "autoorganize-ytm-thumbnail.png",
-    "tag": "⚡ 57s Product Demo",
-    "title": "Watch AutoOrganize in Action",
+    "tag": "⚡ Product Demo",
+    "title": "How to Organize YouTube Music Playlists by Genre Automatically",
     "desc": "Turn a 1,000-track Liked Songs graveyard into organized, smart genre playlists in your YouTube Music account. Scanned privately on-device, sorted with MusicBrainz data, synced everywhere by Google.",
-    "sub": "<b>No subscriptions</b> · $2.99 one-time unlock forever · First playlist free"
+    "sub": "<b>Free preview &amp; first playlist free</b> · One-time lifetime unlock forever (no subscriptions)",
+    "youtubeUrl": "https://www.youtube.com/watch?v=VIhufbsb3-M",
+    "legacyShortsUrl": "https://www.youtube.com/watch?v=jkA5gLNuo_A"
   },
   "social_shorts": [
     {
       "id": "social-hook-pain",
       "src": "autoorganize-ytm-social-pain.mp4",
       "poster": "thumbnail-autoorganize-ytm-social-pain.png",
-      "angle": "pain_graveyard",
-      "duration": 19.67,
-      "youtubeUrl": "https://www.youtube.com/watch?v=zrNi9jxOJ5M"
+      "title": "How to Fix a 1,000-Track YouTube Music Liked Songs Graveyard #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_liked_songs_graveyard",
+      "duration": 21.89
     },
     {
       "id": "social-hook-price",
       "src": "autoorganize-ytm-social-price.mp4",
       "poster": "thumbnail-autoorganize-ytm-social-price.png",
-      "angle": "anti_subscription_impulse",
-      "duration": 19.95,
-      "youtubeUrl": "https://www.youtube.com/watch?v=ENy0nQGEyt0"
+      "title": "How to Sort Music Playlists Automatically Without Monthly Subscriptions #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_zero_subscription",
+      "duration": 21.38
+    },
+    {
+      "id": "social-hook-speed",
+      "src": "autoorganize-ytm-social-speed.mp4",
+      "poster": "thumbnail-autoorganize-ytm-social-speed.png",
+      "title": "How to Split YouTube Music Liked Songs Into Genre Playlists in 10 Seconds #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_10s_genre_split",
+      "duration": 20.18
     }
   ],
   "shots": [
     {
       "img": "autoorganize-ytm-1.png",
-      "alt": "AutoOrganize — scan your YouTube Music Liked Songs privately on device",
-      "cap": "Your Liked Songs, scanned privately on your device — nothing is uploaded."
+      "alt": "AutoOrganize — scan Liked Songs privately and group by MusicBrainz genres",
+      "cap": "Scan your YouTube Music Liked Songs privately inside your browser side panel."
     },
     {
       "img": "autoorganize-ytm-2.png",
-      "alt": "AutoOrganize — auto-split Liked Songs into genre playlists, preview before creating",
-      "cap": "Auto-split by genre in one click. Preview every playlist before it's created."
+      "alt": "AutoOrganize — preview genre buckets and merge styles",
+      "cap": "Preview every track, select genre buckets, or merge styles into one custom playlist."
     },
     {
       "img": "autoorganize-ytm-3.png",
-      "alt": "AutoOrganize — playlists created in your own YouTube Music, synced by Google",
-      "cap": "Created in your own YouTube Music — synced to every device by Google."
+      "alt": "AutoOrganize — create native playlists in YouTube Music",
+      "cap": "Create playlists directly in your YouTube Music account — synced everywhere by Google."
     }
   ],
   "jsonld": {
-    "description": "Organize your YouTube Music Liked Songs into real genre playlists automatically. Local-first and private — your library stays on your device; the only thing that ever leaves the browser is an anonymous artist-genre lookup on MusicBrainz. No account, no subscription.",
+    "description": "Local-first YouTube Music Liked Songs genre organizer and playlist creator using MusicBrainz metadata.",
     "featureList": [
       "Scan Liked Songs privately (on-device cache)",
       "Sort into real genre playlists (genres from MusicBrainz)",
@@ -62,20 +76,6 @@
       "Merge selected genres into one custom-named playlist",
       "Create playlists in your own YouTube Music",
       "Export the plan to Markdown or JSON"
-    ],
-    "offers": [
-      {
-        "name": "Free",
-        "price": "0.00",
-        "priceCurrency": "USD",
-        "description": "Preview everything + create your first playlist free"
-      },
-      {
-        "name": "Unlimited",
-        "price": "2.99",
-        "priceCurrency": "USD",
-        "description": "One-time unlock — create unlimited playlists, forever. No subscription."
-      }
     ]
   }
 }

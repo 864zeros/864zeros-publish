@@ -1,0 +1,38 @@
+{
+  "slug": "tubeschedule",
+  "category": "google-workspace-addons",
+  "pillar": "864F",
+  "ingested_at": "2026-10-28T21:20:00.000Z",
+  "type": "google-add-ons",
+  "name": "TubeSchedule — Video & Shorts Scheduler",
+  "summary": "Schedule YouTube Videos & Shorts directly from Google Calendar, Drive, and Sheets with an automated 6-video/day YouTube API quota-drip governor.",
+  "metaDescription": "Schedule YouTube Videos & Shorts from Google Drive, Calendar, and Sheets without re-uploading to third-party servers. one-time lifetime license.",
+  "icon": "tubeschedule.png",
+  "storeUrl": "",
+  "video": {
+    "src": "tubeschedule-live-ui-demo.mp4",
+    "poster": "tubeschedule-thumbnail.png",
+    "tag": "⚡ 42s Live UI Demo",
+    "title": "Watch TubeSchedule in Action",
+    "desc": "Audit Drive video folders for YouTube API quota burn, stage 6-video/day drip schedules, and drag-and-drop release times directly on Google Calendar.",
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
+    "youtubeUrl": ""
+  },
+  "shots": [
+    {
+      "img": "tubeschedule-1.png",
+      "alt": "TubeSchedule — Drive Folder Quota Burn Auditor",
+      "cap": "Scan any Google Drive folder of .mp4 or .mov videos and calculate exact YouTube Data API v3 quota units."
+    },
+    {
+      "img": "tubeschedule-2.png",
+      "alt": "TubeSchedule — 6-Video/Day Quota-Drip Governor",
+      "cap": "Queue dozens of Shorts at once and automatically drip-upload 6 videos per day across Midnight PT quota resets."
+    },
+    {
+      "img": "tubeschedule-3.png",
+      "alt": "TubeSchedule — Two-Way Google Calendar Control",
+      "cap": "Drag scheduled video events on Google Calendar to automatically update YouTube publishAt timestamps."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Following Christ in Pleasing Others -- Romans 15:1-13\n\nThis chapter is remarkable for its threefold designation of God. The God of patience and comfort, Romans 15:5; the God of hope, Romans 15:13; and the God of peace, Romans 15:33. Our character may be deficient in these things, but His fullness is there for us to draw upon. There is no stint or lack for those to whom He says, “Son, thou art ever with me, and all that I have is thine.”\n\nWe must always be on the lookout for the weak, the heavy-laden, and the downcast. Let us help them with their burdens, anxieties, fears, and questionings-imparting to them something of our cheery hope. Never pleasing ourselves; merciful to others; though merciless in the standard and criticism we apply to our own conduct; comforting ourselves with the Word of God, that we may be able to impart these divine consolations to others. Where such conditions are realized, life becomes a dream of heaven actualized in flesh and blood. But we must fulfill the injunctions of Rom 15:9-13, rejoicing in praise and abounding in hope. The outlook on the earth-side may be dark and depressing, but uncurtain your windows toward God-see, the land is light."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "A Preacher Who Found His Own Field -- Romans 15:14-21\n\nA superficial judge of the Apostle’s life at the time to which he refers might have supposed him to be a mere Jewish traveler, hurrying to and fro, under circumstances of extreme poverty and with no special results. But, in fact he was laying the foundations of the Christian commonwealth. His one ambition was to present the Gentiles as a whole burnt-offering to God; see Romans 15:16. The phrase there is suggestive of the supreme sacrifice which was nobly realized in the strength of purpose that led those churches, shortly afterward, to yield holocausts of martyrs under Nero’s persecutions.\n\nAll this was due to Christ working through the Apostle. Anything that was not wrought through the power of the indwelling Christ was not worth recounting. The work which really told was not what Paul did for Christ, but what Christ did through Paul. It is noticeable how careful Paul was to break up new ground. This is especially characteristic of all the best and highest forms of work. It is a poor and mean church which recruits itself from the labors of others, but has no power to secure converts from the world!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Ambitious to Render Service -- Romans 15:22-33\n\nThe Apostle felt that it was in the line of the divine will that he should visit Rome, Romans 1:10. Relying, as he did, on the efficacy of prayer, it is not surprising to find him urging his Roman friends to unite with him in asking, as in Romans 15:31-32, that his way may be made plain. The prayer was not answered quite as he expected. He little thought that he would come as a prisoner, bound to a soldier, and at the expense of the Roman Empire. Yet he came with joy, and found refreshment and rest with the beloved circle of disciples whom he enumerates in the following chapter. How little do the most of us know of this striving in prayer! But how near we get to absent friends when we pray like this! “Strive together with me.”\n\nThe love of the Spirit is a very delightful phrase. It bears witness to the personality of the Holy Spirit, for love cannot be attributed to an influence. It also shows the confidence with which we may commit ourselves to His gracious indwelling and prompting. He is the Holy Spirit, but we need not shrink from Him as an awful guest. It also reminds us how deeply He may be grieved. There is no grief so poignant as that which is suffered by love."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 16
+ }
+}

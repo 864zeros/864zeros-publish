@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Two Baskets of Figs -- Jeremiah 24:1-10\n\nThese two baskets represent the different, fates that overlook the people at the fall of Jerusalem. The good figs in the first were those who were taken to Babylon with Jeremiah. It was for their good that they were transplanted, Jeremiah 24:5. How often we are led into captivity for the same reason. With bitter regrets we turn our backs on our early home, the scenes of our youth, and the faces we have loved. Sometimes we are carried into a strange land, where we find it impossible to sing the Lord’s song. But in the absence of all creature aid we find God drawing near to substitute restoration for destruction, building up for pulling down, and planting for uprooting.\n\nHave we profited by our discipline? If so we are as the ripe figs of June, sweet to the taste of the owner who searches beneath the leaves of profession. Let those who congratulate themselves on their immunity from the troubles that have overtaken others, ponder Jeremiah 24:8-10. In the light of Heb 12:9, immunity from chastisement is not to be sought after. The residue of the Jews drifted to their hurt. See Jeremiah 41:1-18; Jeremiah 42:1-22."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 25
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Knowest Thou?” “Canst Thou?” -- Job 39:1-30\n\nThe series of questions is continued, and God asks more especially with respect to animated and organic nature. The wild goats, Job 39:1-4; the wild ass, Job 39:5-8; the wild ox, Job 39:9-12; the peacocks and ostriches, Job 39:13-18; the war horse, Job 39:19-25; the hawk, Job 39:26-30. In each case some special point is asked, hidden from the observation of ordinary men. If Job were unable to know more than they on such matters as these, how could he expect to know more than they of the reasons that dictate God’s dealings with His people?\n\nThere is mystery in every part of the universe of God. He hides Himself, so that we cannot discover Him. His thoughts are deeper, His ways profounder, than our mind can fathom. There is not a single pathway leading out of the garden of life along which a man, traversing it, will not come to a point when the track dies away in the grass and there is no further progress. In nature and in Scripture alike we have to deal with the inscrutability of God’s ways. Nor can we wonder, if the God of the Bible and of nature be the God of providence, to find mystery also there. This is the argument of The Analogy of Religion, Natural and Revealed, by Bishop Butler."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 38
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 40
+ }
+}

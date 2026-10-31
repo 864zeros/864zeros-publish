@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Apostle’s Burning Desire -- Romans 1:1-12\n\nUpon the threshold of his greatest Epistle, Paul describes himself as a bond-servant. Such humility as his qualified him to be the medium of God’s wondrous revelations. How great must be the Master who has the absolute devotion of such a man! Paul was called to be an Apostle; we are all called of Jesus Christ, and called to be saints, Romans 1:1; Romans 1:6-7. Note that emphatic reference to our Lord’s dual nature, Romans 1:3-4.\n\nLong before Paul saw the faces of these Christians in Rome, he had been led out in prayer for them. He had won the battle before entering the battle-field. How noble it was on the Apostle’s part to say that his faith was strengthened by their faith, as theirs by his! Romans 1:12. There is a wonderful give-and-take in the service of God. Each of us helps or hinders. None is neutral.\n\nIt is quite evident that prayer counted for much with the Apostle. This journey of his was the subject of continual supplication. He knew that much was to be obtained through prayer, which would otherwise be missed. Remember that your journeys must also be in the will of God, Romans 1:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The only Power of Salvation -- Romans 1:13-23\n\nWe owe everything to our Lord, but since we can make Him no direct return, He has made men His residuary legatees. We are to think of others as having a claim upon us for His dear sake. In helping them, we repay Him. But note the Apostle’s humility-as much as in me is, Romans 1:15. Paul was not indifferent to the claims of intellectual culture. He had been thoroughly trained in Hebrew and Greek literature.\n\nThe high culture of the Roman world was appreciated by the student of Gamaliel for what it was worth; but he was not ashamed to preach the gospel in its capital because it carried with it the divine dynamic. It was power unto salvation. The Stoic, for instance, had a high ethical code, but it was ineffective for want of the driving power of Pentecost. The one condition is faith-to everyone that believeth, Romans 1:16.\n\nEvery man born into the world has an opportunity of knowing right and wrong from the inner witness of conscience, and of learning something of God from His works. Men will be judged by their attitude toward these two luminaries. Notice, however, that sad, strong word! Too many hold down the truth, Romans 1:18, r.v. They deliberately endeavor to throttle it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "From Gross Sins of the Flesh -- Romans 1:24-32\n\nFew men knew as much as did Paul of the unutterableness of human need. In terrible words he enumerates its various aspects. Truth would enter human hearts from God’s work in nature and from conscience, yet men pull down the blind and close the curtain. It is not that they do not know, but that they refuse to have God in their knowledge. They shun the thought of God, Psalms 10:4. They will not lift their happy faces toward Him with filial confidence. Thus a heavy darkness steals over them and veils His presence.\n\nThe next downward step is uncleanness; and when once men have deliberately chosen the downward path, there is nothing to stop them. They go headlong from one point to another in their descent into darkness. When our hearts turn from the purifying presence of God, they become the haunt of every foul bird and noisome reptile. What a marvel it is that out of such material God can even create saints!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 2
+ }
+}

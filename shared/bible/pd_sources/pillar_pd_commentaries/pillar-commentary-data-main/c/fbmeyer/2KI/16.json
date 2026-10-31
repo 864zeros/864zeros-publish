@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Seeking Help from Wrong Sources -- 2 Kings 16:1-9\n\nAhaz was one of the most wicked kings of Judah. He not only passed his children through the lines of fire, but seems to have burned some of them, 2 Chronicles 28:3. He filled Judah with the abominations of the heathen. The hills and woodlands of the Holy Land were contaminated by all the excesses of nature-worship. When therefore Syria and Israel confederated against him, Ahaz naturally turned to creature-aid. In spite of the remonstrances of Isaiah, he offered a bribe to the king of Assyria to do what God Almighty would have done, under happier conditions. This was the first step toward the utter undoing of Judah.\n\nThe first ten or twelve chapters of Isaiah cast a flood of light on the inner politics of this dark epoch. They give a glimpse also of Isaiah’s profound emotions at the evils that threatened his fatherland. No servant of God can view the present state of civilization without grave concern, and we are bound to resist, so far as we can, the influences which are engaged in the work of moral disintegration. We are citizens of heaven, but also of earth, and must render to Caesar such things as naturally belong to him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "High-handed Idolatry -- 2 Kings 16:10-20\n\nThe calling in of the king of Assyria was fraught with disastrous consequences. “He distressed him and strengthened him not.” Well may the Apostle warn us not to be yoked with unbelievers. Such alliances always result in the undoing of God’s children. We cannot serve two masters. Thus in the hour of distress, notwithstanding the increasing and noble remonstrances of Isaiah, this same king Ahaz trespassed yet more against Jehovah.\n\nIt is remarkable, as showing the folly of the human heart, that in the lowest hour of his degradation before his conqueror Ahaz imitated the altar which he saw at Damascus. For this, the ancient brazen altar in Jehovah’s Temple was displaced; and upon it in the sacred fane sacrifices were offered to the gods of the heathen. Alas, there is too much of this in the present day! Men are going back from the simplicity and spirituality of Christ to exploded philosophies and systems, which have failed in the past to satisfy soul hunger. Let us beware of the vacuum of the soul into which such evil things intrude. It is only as we are filled by the indwelling Spirit that we are immune against these temptations."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 17
+ }
+}

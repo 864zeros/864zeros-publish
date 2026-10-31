@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Recompense for the Blood of Saints -- Revelation 16:1-9\n\nIt makes us pause to hear that angels, who rejoice over one sinner that repenteth, are employed in these terrible judgments. It is very startling to hear their outspoken acquiescence in the plagues that vitiate the earth, sea, springs, and sun. The angel of the waters insists that God has judged righteously, and the altar, beneath which are the souls of the martyrs, assents.\n\nOur softer age shrinks from such conceptions of the divine judgments, but it is likely that our standards are weakened and warped by our daily contact with what is earthly and human. God’s love is not soft and emasculated, but strong, vigorous, and righteous. Only when we reach the land of light and glory, shall we understand the true horror of sin and the inveteracy of human apostasy. Then we also shall be able to take up those solemn words of endorsement in Revelation 15:7, Even so, Lord God, Almighty, true and righteous are thy judgments."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“The War of the Great Day of God” -- Revelation 16:10-21\n\nAll these judgments apparently refer to the destruction of those great systems of falsehood and apostasy which set themselves against the truth and purity of God. The dragon, beast, and false prophet are the devil’s mimicry of the divine Trinity. The dragon corresponds to God the Father in delegating His authority; the beast, like our Lord, is crowned with diadems, Revelation 13:1; Revelation 19:12; the false prophet directs attention to the beast, as does the Holy Spirit to Christ.\n\nThe mystery of iniquity will make one last effort to obtain the empire of the world, seeking to effect its purpose through a human confederacy. When that confederacy has reached its climax of effrontery, the coming of the Son of God is near; hence the need for watchfulness and purity, Revelation 16:15. Armageddon is the mountain of Megiddo, in the plain of Esdraelon. See Joe 3:2; Joe 3:12; Joe 3:14; also Zechariah 12:11. The great city symbolizes the apostate Church, or professing Christendom. The true Bride is away from these judgments, awaiting the manifestation of her Lord."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 17
+ }
+}

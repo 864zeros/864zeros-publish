@@ -18,7 +18,7 @@ SCRIPTS = {
     "pain": [
         {
             "id": "pain_scene1_hook",
-            "text": "Still paying twenty dollars a month to third-party middleware just to send Google Sheets rows to a webhook?",
+            "text": "Still paying recurring monthly fees to third-party middleware just to send Google Sheets rows to a webhook?",
             "lead": 0.25,
             "tail": 0.35
         },

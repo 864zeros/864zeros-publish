@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Finding the Lost Law -- 2 Kings 22:1-13\n\nIn the midst of a dissolute court, Josiah’s young life grew as a palm on the desert-waste. At the age of sixteen he sought the Lord, and at eighteen he became even more earnest and devoted, as though some special quickening had passed over his soul and led him to set about the repair of the Temple. In this he was greatly aided by Hilkiah. It was a fair sunrise, though the day was prematurely overcast.\n\nDuring the process of renovation a copy of the Book of the Law was discovered, and Shaphan read it before the king. It is supposed that the passage which he recited and which so greatly moved his soul, was Deuteronomy 28:1-68; Deuteronomy 29:1-29; Deuteronomy 30:1-20, where are enumerated the awful consequences that would follow the failure to observe God’s law. What ruthless havoc had Manasseh wrought, that all the copies of the Law had become destroyed! It reminds us of the wholesale burning of the Bible in Tyndale ‘ s day! The housebreaker is always careful to extinguish the light that might reveal his presence and lead to his identification. Let us not hesitate to preach the whole counsel of God, and not hide the inevitable doom of the ungodly. It is by the Word that the Holy Spirit convicts of sin."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Hearkening to the Message -- 2 Kings 22:14-20; 2 Kings 23:1-4\n\nJosiah’s fears were deeply stirred by the evils which the Law of the Lord clearly indicated as imminent, and he immediately sent for advice to the prophetess Huldah, who was held in great veneration. Her answer was full of gentle kindness. Though the king’s punishment could not be averted, it should nevertheless be postponed. How quick is God to notice the tears of genuine contrition and to meet the soul that seeks to do His will! If only the whole nation had been equally repentant, its fate would have doubtless been altered.\n\nIt is remarkable, however, that even in Josiah’s case the prediction of the prophetess was not realized. He died in battle, and his dead body was brought to Jerusalem amid mourning that became proverbial, 2 Kings 23:30; Zechariah 12:2. Why this apparent breach of promise? The answer is suggested by our Lord’s temptation. He refused to make bread of stones, because of His absolute faith in God, and when Satan tempted him still further to manifest that faith by casting Himself from the beetling Temple crag, he again refused because such an act was not in the scope of the Father’s plan. On the other hand, Josiah, disregarding all counsels to the contrary, needlessly flung himself into the fray between Egypt and Babylon and there lost his life. “Thou shalt not tempt the Lord thy God!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 23
+ }
+}

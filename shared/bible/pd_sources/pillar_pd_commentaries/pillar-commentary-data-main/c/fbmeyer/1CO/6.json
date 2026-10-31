@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Settling Differences between Brethren -- 1 Corinthians 6:1-11\n\nThe Apostle was clearly of the opinion that it was wiser for a Christian to bear injustice and wrong than to go to law before a heathen tribunal. It would have been a happy solution of myriads of disputes if his advice had been followed. Where a course of lawless crime has to be arrested in the interests of the weak and defenseless, it is necessary to call in the law and police to vindicate and protect; but when our private, personal and individual interests alone are concerned, we should be wise to submit our case to arbitration or suffer patiently.\n\nWho are the heirs of the kingdom of heaven, 1 Corinthians 6:9-11? Do not inquire into their past history. There are pages in their lives that had better be obliterated and forgotten; or, if remembered, they should be the foil to set forth the matchless grace and love of God. Yes, that grace shall be our theme forever, when we recall the depths out of which it lifted us, and the heights to which it raised us. Let us note that the Lord Jesus and the Holy Spirit are named together. It is by the Holy Spirit that we become possessed of the nature of our Lord, which takes the place of our old evil nature and empowers us to repeat His life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Keeping the Body Holy -- 1 Corinthians 6:12-20\n\nIt is interesting to compare 1 Corinthians 6:12 with 1 Corinthians 10:23. There are four clauses in each verse, three of which are similar, but the last ones differ. The two laws that should govern our life in doubtful things, are first, the arresting of oneself in the doing of anything which threatens to become our master; and second, the abstaining from anything which threatens to be a stumbling-block in another’s Christian life.\n\nIt is not enough to watch against temptation; we should be so filled with the Spirit of the risen Savior that the desires of the flesh shall have no fascination. The power that raised the body of Jesus from the grave is surely strong enough to raise our bodies from the bondage of corruption and to translate them to the resurrection plane. Let us keep joined to the Lord by one Spirit, that He may pour His own living energy into our nature. When He redeemed us, He undertook to save us wholly and entirely-spirit, soul, and body, 1 Thessalonians 5:23. Hand the keeping of your body over to Him. Consider that it is the forecourt of a temple, in the inner shrine of which the Holy Spirit lives; and as of old the glory of the Lord filled the whole structure, so trust the Spirit of Holiness to make and keep you whole."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 7
+ }
+}

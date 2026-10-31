@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 45,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jehovah’s Chosen Instrument -- Isaiah 45:1-13\n\nCyrus is one of the noblest figures in ancient history. His character became a model for the Greek youth in strength, simplicity, humanity, purity, and self-restraint. We have seen that Jehovah had assured His people that Jerusalem would be restored, Isaiah 44:26. They probably expected a repetition of the Red Sea and the Exodus. But God does not repeat Himself; and their deliverance from captivity was to be achieved through the victories that made Cyrus master of Babylon. See Ezra 1:1-4.\n\nGod’s plans are achieved through individuals, whom He equips and raises up for their specific work. There is much in all our lives that we cannot account for, and which is due to the girding of the Almighty. We do not always recognize the real sources of our lives. They are hidden in God. He girds us though we do not know Him. Let us not gird ourselves in our own strength, but stretch forth our hands unto Him, sure that He will neither fail nor forsake. See John 21:18. They who thus utterly yield to God are bidden in the exercise of a daring faith to command, that is, to claim, His saving power."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "A Call to the Ends of the Earth -- Isaiah 45:14-25\n\nAs the prophet reviews God’s method of delivering His people-so unexpected and so wonderful-he cannot restrain the ejaculation: Thou art a God that hidest thyself! “Deep in unfathomable mines of never-failing skill, He treasures up His bright designs and works His sovereign will.” You do not see how God is going to save you; but most certainly His Angel will redeem you from all evil.\n\nGod contrasts Himself with idols, Isaiah 45:20. We can never seek His face in vain. They that trust in man or their own devices are doomed to disappointment; but faith and prayer make all the difference. He is “a just God and a Savior.” This is the wonderful combination that the Cross reveals. See Romans 3:26; 1 John 1:9. Look to Him and be saved. Even if you dwell in a far land or at the ends of the earth, and even if you can only look toward Him with failing sight, remember that “there is life in a look.” Dare to say, “In the Lord have I righteousness and strength.” You have none of your own! Your strength is weakness! Your righteousness is full of flaws! Look to Him; boast in Him; and men shall come to you for your secret."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 45
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 44
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 46
+ }
+}

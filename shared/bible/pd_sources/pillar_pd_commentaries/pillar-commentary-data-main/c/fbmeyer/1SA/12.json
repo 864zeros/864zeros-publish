@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Samuel’s Last Message to Israel -- 1 Samuel 12:1-13\n\nAn end must come to the longest and most useful service. “Before his long sleep Samuel made protestation of his innocence before God and the people.” Yes, the long sleep will come to us all, and happy are they who, before they lay down their heads upon the pillow of death, are able to extend their hands and to bare their hearts before those who have known them best, and say, “These are clean.” The people bore double witness to the truth of Samuel’s challenge, and the old man was comforted. Yes, God was witness, as well as the people, to his absolute integrity. See Acts 24:16.\n\nThen Samuel pressed home, upon that dense mass of people, the sin of which they had been guilty in demanding a king instead of waiting for a heaven-sent deliverer. But we are liable to the same mistake. We look to the visible and forget the invisible. We forget that the invisible Christ stands waiting to succor, prepared to save unto the uttermost. In this faith the Apostle found his abiding peace and steadfastness. See 2 Corinthians 1:10. Let us, also, “set our hope” on Him who has delivered, and will deliver."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "His Warning Confirmed from Heaven -- 1 Samuel 12:14-25\n\nHaving handed his office over to Saul, who henceforth was to shepherd and lead the Chosen People, Samuel assured them that the Lord would not forsake them, “for his great name’s sake,” 1 Samuel 12:22. Oh, take these words to heart, and let them linger like a strain of sweet music in your memory! You may have missed the mark, lost your way, and drifted from the ancient moorings, but the love of God has not forsaken you. Being disappointed, it lingers; being repelled, it returns; being buffeted, it entreats. God’s name-that is, His honor-is at stake. See Joshua 7:9; Isaiah 48:9; Isaiah 48:11.\n\nTerrified by the thunder-storm, which was God’s endorsement of His servant’s faith, the people entreated for Samuel’s continued prayers; and the aged seer assured them that he would count it a great sin if he ceased to pray for them. Prayerlessness is not only an evidence of a besotted and demoralized nature, but is in itself a sin which requires confession and cleansing. When the heart is right with God, prayer arises like a fountain, from unseen depths."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 13
+ }
+}

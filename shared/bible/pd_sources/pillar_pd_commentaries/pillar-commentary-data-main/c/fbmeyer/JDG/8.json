@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Soft Answer Turneth Away Wrath -- Judges 7:24-25; Judges 8:1-12\n\nThe fleeing host made for the three fords of the Jordan, and with all haste Gideon summoned the tribes to anticipate them. The way of the victor was not without its drawbacks and discouragements. Ephraim was wroth; Succoth and Penuel were contemptuous; his own men were faint, though pursuing. But the faith that had won the great victory never wavered. Gideon “endured as seeing Him who is invisible.” From the eternal source of patience and hope he derived the grace of continuance. This is what Paul also learned and taught in after-years, 2 Corinthians 6:4, etc.\n\nWhen the soul is leaning on God, drawing on his resources and affirming his sufficient grace, it can afford to answer Ephraim pleasantly; it will not shrink from rebuking cowardice in Penuel and Succoth; and it will hold on its victorious way, until the last enemy is destroyed and it enters the presence of God to receive the “Well done!” Discouraged soul, get alone, shut your door on all other thoughts, and say over and over to God the words with which the good Asaph ends Psalms 73:23-28. Let these fill your heart with music till you are strong again."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Snare of Success -- Judges 8:13-28\n\nClearly Gideon’s family had passed through some terrible tragedy previous to this war of emancipation. He had not learned our Lord’s teaching of forgiveness and acted on the usual maxims of his age. Possibly, also, he felt that he was the executioner of God’s vengeance upon these chiefs, whose names, “Immolation” and “Trouble,” were derived from their desperate deeds. As they stood anticipating death, they uttered a memorable sentence, “As the man is, so is his strength.” The usefulness of our lives is not to be gauged by what we say or have or think, but by what we are. It is not gift but grace that leaves the deepest dint upon other lives. If you want to be strong in the arm, you must be pure and true at heart.\n\nThe gold and purple of the spoil enabled Gideon to make an ephod, presumably on the pattern of that described in Exodus 28:1-43. It was not exactly an idol but a kind of fetish, and it diverted the thoughts of the people from Shiloh and the spiritual worship of the unseen and eternal God. So apt is the human heart to cling to some outward emblem-it may be a crucifix, a wafer, or a church-and miss that worship in spirit and in truth for which the Father seeks."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "“Through Slaughter to a Throne” -- Judges 8:29-35; Judges 9:1-6\n\nThe Children of Israel were guilty of great fickleness and instability. They soon relapsed into Baal worship and forgot to show kindness to the family of their great leader. But such is the frailty of the human heart. However hot we may be for Christ today, we may be cold and distant tomorrow. It seems as if the great adversary taunts us with this as he did John Bunyan, to whom he kept whispering. “I’ll cool you, I’ll cool you.” We must take our fickle hearts to our Lord, asking Him to keep us true and hot in our love. There are times when His friendship is the most real thing in life, but then the rainbow-glory fades in the sky. Let it not be so any more, O Lord, we beseech thee!\n\nThe terrible crime of Abimelech was extenuated by the people of Shechem, because his mother was one of themselves. Compare Judges 8:31 with 9:1, 18. But the mills of God were grinding out awful trouble for them all, Judges 9:56-57. Surely, in his lack of self-control, Gideon had much to answer for, Judges 8:30! The evil that men do lives after them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 9
+ }
+}

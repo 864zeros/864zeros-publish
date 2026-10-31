@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Substituting Policy for Trust -- 1 Samuel 27:1-12\n\nDavid had every assurance that he would be king. From Samuel, Jonathan and Saul he had heard predictions of his coming exaltation; yet suddenly he seems to have had a fainting-fit and to have concluded that he would after all perish by the hand of Saul. It was thus with Elijah under the juniper bush, when he asked God to take away his life; and thus with the Baptist, when from prison he sent to ask whether Jesus was the Christ. Let us not sink into despair when the shadow of discouragement falls across our path. Let us believe that God’s word shall stand though the heavens fall. Let us especially beware of taking our own measures of self-defense.\n\nThe caves of Adullam are safer for the child of God than the land of the Philistines. David was driven to ruthless cruelty; he went about under the constant fear of discovery, and lived a perpetual lie. It was a life of deceit that was wholly unworthy of a servant of the Most High, and must have had a fatal effect on David’s followers. And, in the end, Ziklag was destroyed, and the exile’s heart was well-nigh broken. See 1 Samuel 30:1-4. “The way of the transgressor is hard!” No psalms can be traced to this period."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 28
+ }
+}

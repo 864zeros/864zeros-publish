@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Rewards of Obedience -- Deuteronomy 11:1-17\n\nIn this chapter the introductory portion of this book closes, and two final arguments are brought to bear on the chosen people, to induce them to love God and keep His charge. The one has already been referred to, consisting of those awful judgments with which God had punished the stiff-neckedness of Pharaoh and the rebellions of the Wilderness. We may as well learn sooner than later, that God will have us holy, and if we will not yield to His loving solicitations we must suffer His stern chastisements.\n\nThe other argument is derived from the blessings which they would inherit by obedience. In Egypt the irrigation of the land was laboriously effected by the tread-wheels, that raised the water from the Nile-level, but in Canaan there were two annual rainy seasons-the former, September-October; the latter, March-April. The regularity of these seasons depended on Israel’s loyal obedience. We are reminded of Joh 4:14. May we not ask ourselves, which of these typifies our religious life? See Hebrews 4:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Blessing and the Curse -- Deuteronomy 11:18-32\n\nNever in this world do we reach a position from which it is impossible to fall away. The dew and the rain of God’s blessing are contingent on obedience; and one of the strongest incentives to obedience is devout meditation on the Word of God. It is through the letter that we arrive at the spirit; and through the written words at the Eternal Word. We must store up the sacred words of God as a farmer stores up his grain, keeping them before us, making them the familiar topics of home-talk, and exercising ourselves in them. Let us specially ponder Deuteronomy 11:22-25, appropriating them in a spiritual sense, and claiming their equivalents in the inner life.\n\nAll along our lives are Ebals and Gerizims, with their “Come, ye blessed” and “Depart, ye cursed.” Always we are arriving at the crossways, on the one of which lies the smile, and on the other the frown, of God. Let us be attracted by the one and dissuaded from the other, till we climb the spiral staircase into the land where there is no cooling love or faltering faith."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 13
+ }
+}

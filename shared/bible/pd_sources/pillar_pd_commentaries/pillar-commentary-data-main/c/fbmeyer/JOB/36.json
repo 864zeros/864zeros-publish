@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "He Despiseth not Any -- Job 36:1-33\n\nGod is mighty, but He does not despise thee, though thou be the least of saints. His eyes are upon thee for good, and He will set thee before His throne forever. He will stoop to thy low dungeon, whispering instruction to thine ear and commanding thee to return. There are broad places before thee in which there shall be no straitness; tables await thee full of fatness. Thy path leads from thy present prison-house into liberty and light.\n\nRemember the unsearchable numbers of His years. Behold the wonderful machinery by which He collects from ocean, lake, and stream the clouds which, like floating cisterns, carry the waters to be bleached in the snow of the hills, and oxidized in the torrent beds! There is more love than terror in creation. Nature’s myriad voices proclaim with Scripture, “God is love.” He cannot, therefore, be indifferent to the righteous man or neglect him. He may discipline him to make him hate sin; but, when this end is attained, He will assuredly withdraw His rod, Job 36:10-11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 37
+ }
+}

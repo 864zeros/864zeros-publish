@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 76,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Wrath of Man Shall Praise Thee” -- Psalms 76:1-12\n\nIn Psalms 76:2, tabernacle may be rendered “covert,” and dwelling-place, “lair.” God is compared to the lion, that dreaded monarch of beasts, who finds his home in a den, into which no inferior animal may intrude. Even the hunter’s bows and arrows are broken in pursuit of him. As the mountains yielded prey to the young lion, so the hills around Jerusalem, where Sennacherib had pitched his camp, would be full of Assyrian spoil for the armies of the Lion of Judah. The stout-hearted captains of Assyria would there sleep their last sleep, Psalms 76:5.\n\nSome of the meek of the earth may read these lines, Psalms 76:9. They do not avenge themselves. Weak and helpless, they turn their eyes to God, who cannot fail them. When He speaks His sentence of acquittal, no voice will be raised to dispute it. For when He arises in judgment He will save all the meek of the earth. There is a “thus far and no farther” to the wrath of man. God will not allow it to go beyond certain limits, and it is remarkable how He is able to make man’s wrath to subserve His purposes. Bring God the gift, of your love. Fear not, ye humble souls, but let your enemies be in fear!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 76
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 75
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 77
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Laws of the Sin- and Trespass-Offerings -- Leviticus 6:24-30; Leviticus 7:1-10\n\nThe peculiar sanctity of the flesh of the sin- and the trespass-offerings is clearly emphasized throughout this paragraph. Notice the repeated phrase, “it is most holy.” This seems intended to emphasize the holiness of our Lord, who, though He became a sin-offering for us all, knew no sin, neither was guile found in His mouth. He was searched with the minutest scrutiny, but Pilate, Herod and Judas agreed in asserting that in Him there was no fault. He was holy, harmless and separate from sin.\n\nNever was our Lord more absolutely “the Holy One of God” than when He was numbered with the transgressors and bare the sin of many. The Cross was the climax of His obedience. How watchful we should be against anything that might soil us in our handling of sin in its infinite ramifications. As the priests, who dealt with these offerings, were permitted to eat of the flesh, are we not reminded that we derive the richest sustenance of our spiritual life by humble, penitent and thankful meditation on the finished work of the Cross?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Law of the Peace-Offering -- Leviticus 7:11-21\n\nHere begins the law of the peace-offerings, containing additional directions to those given in Leviticus 3:1-17. They are classified as (1) thank-offerings, (2) vow-offerings and (3) voluntary-offerings. When the soul is full of gratitude, as was Hannah when Samuel was granted her in answer to prayer, what is more natural than that it should render some tangible recognition to Him, from whom cometh every good and perfect gift!\n\nWe are ready enough to cry to God in times of great sorrow, but are too forgetful of His benefits when the cloud passes and the sun shines again. In Israel the recognition took the form of a feast, in which the divine fire and the suppliant seem to feed together. The careful prohibition of the flesh remaining over was probably to teach that fresh mercies call for new songs. It had the further result of enforcing a liberal distribution of food among the poor. See also the connection of this thought with Psalms 16:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Things Forbidden; the Portion of the Priests -- Leviticus 7:22-38\n\nThe eating of the fat and the blood was prohibited; the first probably during the pilgrimage, the latter in perpetuity. See Leviticus 3:17. When we are told that the disobedient soul must be cut off, it refers probably to the excommunication which the priest pronounced until the offender had repented and was reinstated in the privileges of God’s house. The waving of parts of the victim consisted in the priest placing his hands beneath those of the offerer, who held the piece to be waved, and moving them slowly backward and forward before the Lord, to and from the altar. The heaving was performed by slowly lifting the pieces upward and downward. These movements signified that the pieces, though not burned at the altar, were specially consecrated to God’s service.\n\nThe shoulder is the emblem of government and strength; the breast of the affections. We specially need to meditate on these aspects of our Lord’s character. It may be that the action referred to in Acts 13:3 meant that the Church waved the two first missionaries as a votive-offering to God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 8
+ }
+}

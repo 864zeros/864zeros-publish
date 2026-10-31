@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Averting War between Brethren -- Joshua 22:1-20\n\nThere was generous appreciation of services rendered as Joshua dismissed the warriors. Something like “Well-done, good and faithful servant,” rings through His words. But he takes care to remind them that the tenure of their lands depends wholly on their obedience. This will explain the brief and transient existence of the trans-Jordanic tribes.\n\nThe altar was probably erected on the east of the Jordan. It was “over against” the land of Canaan, and was perhaps a facsimile of that at Shiloh. The prompting motive was to cement the union between themselves and the other tribes. But that end would have been better served had they obeyed the divine command in assembling annually with them. You can secure unity, not by external symbols, but by spiritual affinity and fellowship."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The Altar of Witness -- Joshua 22:21-34\n\nPhinehas and the ten princes did their work well. It was politic as well as true to remind the departing warriors that they could not rebel against God without involving the whole nation. So deeply did the spirit of love work in their hearts that Phinehas and his men even proposed to share the land of western Canaan with them, rather than that they should drift away from the Law of God. There was a gentleness, a desire to conciliate, a yearning over their brethren, which were quite after the mind of Christ, and which had the desired effect in a frank disavowal of any of those unworthy motives that their brethren had imputed.\n\nSo is it always. Let us lay aside the sword for the olive-branch. Before proceeding to severer measures, whether as individuals or as nations, let us ever try to restore our brethren “in the spirit of meekness.” Let us count it a greater gain to win a brother than to conquer him. As we grow older, may we become more mellow! Matthew 18:15; Galatians 6:1-5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 23
+ }
+}

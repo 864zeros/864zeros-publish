@@ -18,7 +18,7 @@ SCRIPTS = {
     "pain": [
         {
             "id": "pain_scene1_hook",
-            "text": "Paying forty dollars every single month to DocuSign just to get a signature on a Google Doc?",
+            "text": "Paying recurring fees every single month to DocuSign just to get a signature on a Google Doc?",
             "lead": 0.25,
             "tail": 0.35
         },

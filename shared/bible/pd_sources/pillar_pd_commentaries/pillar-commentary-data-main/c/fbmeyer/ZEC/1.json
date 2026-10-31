@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "fbmeyer",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Vision of Pardon and Restoration -- Zechariah 1:1-17\n\nZechariah does not slur over the sins of the past, but lays stress on the divine forgiveness. His only fear is lest God should call in vain, and the people refuse as their fathers did. Notice the repetition of God’s title, Lord of Hosts, five times in the first six verses. The enemy’s armies were vast, but the protecting hosts, vaster. A glimpse of these hosts is given in the following vision. A green valley, filled with myrtles, the emblem of humility, where the prophet may have been wont to meditate, seemed alive with mysterious figures, who had been patrolling the earth, and announced that it was peace, for these were the days of Cyrus’ illustrious reign.\n\nNotice the frequent reference to his celestial friend, Zechariah 1:9; Zechariah 1:14; Zechariah 1:19; Zechariah 4:1; Zechariah 4:4-5; Zechariah 5:5; Zechariah 5:10; Zechariah 6:4. The future was bright with promise, Zechariah 1:16-17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Redemption of Jerusalem -- Zechariah 1:18-21; Zechariah 2:1-13\n\nThe work of Temple-building had ceased for fifteen years and the new resolve to arise and build might meet with a similar fate. But the four horns met with four carpenters. For Babylon the carpenter was Cyrus; for Persia, Alexander the Great; for Greece, the Roman; for Rome, the Gaul. No weapon that is formed to thwart God’s purposes can prosper. The young man with the measuring line embodied the new spirit animating the returned exiles. But God was intending to give more prosperity and increase than could be contained in walls."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAG",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 2
+ }
+}

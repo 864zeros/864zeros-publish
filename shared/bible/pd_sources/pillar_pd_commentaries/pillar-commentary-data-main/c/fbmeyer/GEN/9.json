@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Covenant with Noah -- Genesis 9:1-17\n\nAs the human race started afresh on its career, God blessed it, as at the first. God always stands with us in a new start. The prohibition against the use of blood in food is often repeated. See Leviticus 17:11; Acts 15:29. In a very deep sense, the blood is the life. When we speak of being redeemed by the blood of Jesus, we mean that we have been saved by His sacrificed life.\n\nThe blood maketh atonement for the soul. But while animal life might be used for food or sacrifice, human life was surrounded by the most solemn sanctions. A Covenant is a promise or undertaking resting on certain conditions, with a sign or token attached to it. The bow in the cloud, the Lord’s Supper, the wedding ring are signs and seals of their respective covenants. Never witness a rainbow without remembering that as God hath sworn that the waters of Noah shall no more go over the earth, so He will not withdraw His kindness. See Isaiah 54:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Noah’s Three Sons -- Genesis 9:18-29\n\nNoah’s sin reminds us how weak are the best of men; liable to fall, even after the most marvelous deliverances. The love of strong drink will drag a preacher of righteousness into the dust. But if our brethren sin, let us not parade or tell their faults, but cover them with the mantle of divine love. We may abhor the sin, but let us restore such an one in the spirit of meekness, remembering that we also may be tempted. See Galatians 6:1-18 :l-4. The Semitic races have been the source of religious light and teaching to the world.\n\nGod has been known in their tents. The Japhetic races are the great colonizers and populators of the world, overflowing their own boundaries, and participating in the religious privileges of the Shemites. The progressive ideas of the race of Japheth, which, of course, includes the Indo-European race, have also pervaded the world. The Hamitic races, of which Canaan was one, have always gravitated downward."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 11
+ }
+}

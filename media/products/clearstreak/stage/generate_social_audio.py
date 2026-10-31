@@ -55,7 +55,7 @@ VARIANTS = {
         ]
     },
     "price": {
-        "title": "Variant C - The Price Hook (The $120/Year Habit Tracker Scam)",
+        "title": "Variant C - The Price Hook (The recurring subscription rent Habit Tracker Scam)",
         "scenes": [
             {
                 "id": "price_scene1_hook",

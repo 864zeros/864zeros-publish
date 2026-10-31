@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Noah Leaves the Ark -- Genesis 8:1-22\n\nTraditions of the Flood are found in every country, from the tablets of Babylon to the rude carvings of the Aztecs, proving man’s common origin. “God remembered Noah.” He could not forget, because He had entered into covenant with him and his. Though the floods have been abroad on your life for long years, God has not forgotten you. Sooner might a woman forget her babe! Noah’s window only looked upward. It had no outlook on the waters, therefore he sent forth the birds. Dove and raven issued from the same window, so the child of God and the wayward, willful child may issue from the same family; but the former cannot find satisfaction with what satisfies the other, but wings its flight back to God.\n\nSee Psalms 116:7. Through God’s grace Noah stepped out into the new world-the world of resurrection. His first act was the burned-offering of consecration, which was followed immediately by promise. See Romans 12:1-2."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 9
+ }
+}

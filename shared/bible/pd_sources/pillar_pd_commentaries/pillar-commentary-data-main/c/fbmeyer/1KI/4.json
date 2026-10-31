@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Breaking Three Commandments -- 1 Kings 21:1-29; 1 Kings 1:1-53; 1 Kings 2:1-46; 1 Kings 3:1-28; 1 Kings 4:1-34; 1 Kings 5:1-18; 1 Kings 6:1-38; 1 Kings 7:1-51; 1 Kings 8:1-66; 1 Kings 9:1-28; 1 Kings 10:1-29; 1 Kings 11:1-43; 1 Kings 12:1-33; 1 Kings 13:1-34; 1 Kings 14:1-31; 1 Kings 15:1-34; 1 Kings 16:1-34\n\nFrom a worldly point of view Naboth might have done a good stroke of business by selling his estate to. Ahab. A royal price and assured favor might have been his-but he had a conscience! Above the persuasive tones of the monarch’s offer sounded the voice of God: “The land shall not be sold for ever, for the land is mine.” See Leviticus 25:23; Numbers 36:7; Ezekiel 46:18.\n\nAhab knew perfectly well that Jezebel could not give him the property of another except by foul means, but he took pains not to inquire. Though the direct orders for Naboth’s death did not come from him, yet, by his silence, he was an accomplice and an accessory; and divine justice penetrates all such specious excuses. God holds us responsible for wrongs which we do not arrest, though we have the power. The crime was blacker because of the pretext of religion, as suggested by a fast. See also 2 Kings 9:26. The blood of murdered innocence cries to God, and his requital, though delayed, is inevitable. See Revelation 6:9-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "The Wise King’s Great Purpose -- 1 Kings 4:29-34; 1 Kings 5:1-6\n\nDavid, before his death, had made great preparations for building the Temple, but had not been permitted to proceed with its construction. “Thou didst well that it was in thy heart,” 2 Chronicles 6:8. God credits us with what we would have done, had it been in our power. But now war on every side had been exchanged for peace, and the time for temple-building had come. A great principle is here involved which has many applications.\n\nIt is true of the Church at large. When the Church throughout all Judea and Galilee had peace, it was edified; and as it walked in the fear of the Lord and in the comfort of the Holy Spirit, it was multiplied, Acts 9:31. When the love of God reigns amid professing Christians, and they neither war against nor vex each other, then the world believes, and the very Hirams help to build.\n\nIt is also true of the inner life. The days of peace are those in which the heart thrives. See 1 Thessalonians 5:23, and Hebrews 13:20. God is not in the earthquake nor in the fire, but in the “still small voice.” Cultivate a quiet heart, as did Mary, at the feet of Christ. It will result in deeds to be spoken of throughout the whole world, Luke 10:39 and Matthew 26:13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 5
+ }
+}

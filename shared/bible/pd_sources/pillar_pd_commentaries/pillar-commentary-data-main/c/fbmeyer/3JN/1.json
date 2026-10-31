@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "3JN",
+  "commentaryId": "fbmeyer",
+  "name": "3 John",
+  "commonName": "3 John",
+  "numberOfChapters": 1
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Apostle’s Joy -- 3 John 1:1-14\n\nAgain we meet the words love and truth. Transparency of speech and life is an essential condition of soul health. It would not be desirable to express the wish of 3 John 1:2 to all our friends, because if their bodies were to correspond to the condition of their souls, they would suddenly fall into ill-health. In the old legend mirrors were blurred with mist when any approached who were out of harmony with truth, 3 John 1:4.\n\nThe Christian must always act worthily of God, especially toward strangers, 3 John 1:5-6. “For the sake of the Name,” 3 John 1:7, r.v.-as children we must maintain the family honor. Such hospitality makes us fellow-workers with the truth. There is a Boanergic touch in 3 John 1:10. The threefold witness to Demetrius should stir our desire to emulate his character. What will it not be when the dimness of earthly converse is exchanged for the face-to-face intercourse of eternity! 3 John 1:14."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "3JN",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2JN",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JUD",
+  "chapter": 1
+ }
+}

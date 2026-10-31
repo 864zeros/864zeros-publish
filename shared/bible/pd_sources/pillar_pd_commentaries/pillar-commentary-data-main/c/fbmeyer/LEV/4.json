@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sin-Offerings for Priests and Congregation -- Leviticus 4:1-21\n\nThe sweet savor offerings have now been considered. They are all concerned with consecration and communion. We now approach the sacrifices for sin; and first, for sins of ignorance. Here provision is made for the anointed priest, for the whole assembly, for the ruler and for one of the common people. Do we realize sufficiently the sinfulness of our sins of omission-i.e., of coming short of God’s glory? See how much they cost! The innocent victim had to suffer; as afterward our Lord suffered without the gate, that He might make an atonement and sanctify His people with His own blood. We learn what the Apostle meant when he described our Lord as being “made sin for us.”\n\nAfter certain portions had been placed upon the altar of burned-offering, the remainder of the carcass was burned without the camp, as though it were an altogether polluted thing. Note that the sin of the priest was deemed to require a more costly offering than that of the ordinary man, because he had sinned against fuller light."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Sin-Offerings for Rulers and People -- Leviticus 4:22-35\n\nThe character of the sin for which the sin-offering was presented is expressed by the words, repeated again and again, “through ignorance,” or “unwittingly,” or “through error.” It is the word used of the unintentional man-slayer, who, without premeditation, might kill another. See Numbers 35:1-34. God’s Word distinguishes deliberate, willful sin from that of which it may be said, “they know not what they do;” or, “I wot that through ignorance ye did it.” See Luke 23:34; Acts 3:17. While the blood of the offering for the priest and the congregation was brought into the holy place and sprinkled seven times before the Lord, the blood of the offerings for the ruler or the individual was sprinkled only on the horns of the altar. The hue of the sin was not so dark in the latter case as where there was greater knowledge of God’s will. In Luke 12:47-48, our Lord makes a similar distinction."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 5
+ }
+}

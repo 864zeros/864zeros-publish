@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Water from the Rock; Victory over Amalek -- Exodus 17:1-16\n\nFrom the smitten rock flowed the water for the thirsty hosts. So the Rock of Ages was smitten, and from His riven side has flowed out blood and water, for the sin and thirst of the world. He that eateth His flesh and drinketh His blood, spiritually, hath eternal life. Such refreshment is in preparation for warfare. Then came Amalek! When our physical needs are satisfied, there is always the fear of Amalek, who, in the typology of Scripture, stands for the flesh.\n\nBetween this wilderness tribe and Israel the conflict was long and bitter. The old Adam, said Luther, is too strong for the young Melanchthon. But let the Lord fight for you! Lift up your hands with opened palms to Him; He will not fail. See r.v. margin and Matthew 1:21. But guard the rear, and ask that Jesus shall beset you behind as well as before.\n\nSee Deuteronomy 25:17-18.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 18
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Inglorious Ends -- 2 Kings 12:17-21; 2 Kings 13:1-9\n\nAs long as we are with the Lord, He is with us. Then our enemies are His enemies, and He shows Himself strong on the behalf of those whose heart is perfect toward Him. See 2 Chronicles 15:2. So Joash found it in the earlier part of his reign. We need to ponder the blessings set out in Psalms 81:14-16, as guaranteed to the life which is at one with God. But directly Joash listened to the princes and forsook the house of God and gave license to the Asherim and idols, God was turned against the people and became their enemy. See 2 Chronicles 24:23-25. The reign that commenced in sunshine was sadly overcast, and the king perished by the hands of conspirators and never came to the sepulcher of the kings.\n\nThen disaster after disaster befell the nation. They had to learn that they had been chosen for a special service in the world and could not be as others. Yet amid these dark days, what gleams of light there were! The Lord hearkened, 2 Kings 13:4; He gave Israel a savior, 2 Kings 13:5; He was gracious and had compassion and would not cast them from His presence, 2 Kings 13:23. Even when the Lord chastens us sore, He does not give us over unto death, Psalms 118:18. There is a “needs-be,” but there is also a “thus-far-and-no-farther.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“The Arrow of the Lord’s Deliverance” -- 2 Kings 13:10-25\n\nA good man is a great defense to his country. Mary, Queen of Scots, dreaded the prayers of Knox more than the armies of the king of France. Perhaps the king expected that Elisha also might pass home to God in a chariot of fire, as Elijah had done.\n\nNotice how much Israel missed through the unbelief of her king. If only he had smitten five or six times, Syria would have been consumed; but he was content with striking only three times. Let us not ask small things of God, or be content with a partial deliverance. Nothing pleases Him more than to be greatly trusted. For those who ask and expect the most, He will always go beyond all that they ask or think. Strike on the ground, child of God, nor stay thy striking.\n\nClaim the absolute overthrow of the power of Satan, which antagonizes and resists the coming of the Kingdom. Claim the salvation of your fatherland from the tyranny of drink, gambling, and impurity! Open the windows heavenward and Godward strike within and shoot without. It is not enough to do either without the other. And remember that unseen hands are empowering and guiding thine! Compare Genesis 49:24.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 14
+ }
+}

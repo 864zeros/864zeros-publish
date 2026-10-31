@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Anointed with Oil and the Spirit -- 1 Samuel 10:1-13\n\nIn the gray dawn the prophet sketched to Saul the events which were to happen on that day and succeeding days. All were made known to the designated king ere they arrived, and in each case he was to act as the occasion demanded. Thus our life-course, day by day, lies open before God. He has planned or permitted the incidents, but leaves us to will and enact the appropriate response. If we turn to Him to ask how we shall act, He will guide us with His eye; but alas, all too seldom do we turn to Him. We lean too much to our own understanding and follow “the devices and desires of our own hearts.” We have been “created unto good works, which He has before ordained that we should walk in them.” Instead of prying into the future, let us wait for Him to unveil it as we advance.\n\nLet us most eagerly seek the sacred anointing of the Holy Spirit at the spring of the day. His sacred unction will teach us all things that we need to know. We must have the clean, new heart created, and the right spirit renewed, 1 Samuel 10:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The People Have Their Desire -- 1 Samuel 10:14-27\n\nSamuel dealt faithfully with the people, reminding them once more of their guilty mistake in demanding a king; and indeed they came to rue their choice. But as they would have it, so it was ordered. We may well ask God not to give us what we desire so earnestly, except as it accords with His purposes of love and wisdom. We have known and believed the love that God hath to us. Sometimes we know His will, at other times we have to confide in it blindly.\n\nSaul’s modesty was very commendable. There were many beautiful traits in his character in those early days, but, as we shall see, all the music was finally silenced when that terrible monster jealousy stole into his heart. Among other evidences of a naturally noble disposition was his determination not to heed the detracting voices which challenged his elevation to the throne. Note the r.v. margin of 1 Samuel 10:27 -“he was as though he were deaf.” It was both wise and magnanimous. So for us all. When we are sure that we are in the line of God’s purpose, and sincerely desire to do His will, we may be deaf to all other voices. “Fret not thyself because of evil-doers!” See Psalms 37:1-40."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 11
+ }
+}

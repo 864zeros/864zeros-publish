@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Breaking Three Commandments -- 1 Kings 21:1-29; 1 Kings 1:1-53; 1 Kings 2:1-46; 1 Kings 3:1-28; 1 Kings 4:1-34; 1 Kings 5:1-18; 1 Kings 6:1-38; 1 Kings 7:1-51; 1 Kings 8:1-66; 1 Kings 9:1-28; 1 Kings 10:1-29; 1 Kings 11:1-43; 1 Kings 12:1-33; 1 Kings 13:1-34; 1 Kings 14:1-31; 1 Kings 15:1-34; 1 Kings 16:1-34\n\nFrom a worldly point of view Naboth might have done a good stroke of business by selling his estate to. Ahab. A royal price and assured favor might have been his-but he had a conscience! Above the persuasive tones of the monarch’s offer sounded the voice of God: “The land shall not be sold for ever, for the land is mine.” See Leviticus 25:23; Numbers 36:7; Ezekiel 46:18.\n\nAhab knew perfectly well that Jezebel could not give him the property of another except by foul means, but he took pains not to inquire. Though the direct orders for Naboth’s death did not come from him, yet, by his silence, he was an accomplice and an accessory; and divine justice penetrates all such specious excuses. God holds us responsible for wrongs which we do not arrest, though we have the power. The crime was blacker because of the pretext of religion, as suggested by a fast. See also 2 Kings 9:26. The blood of murdered innocence cries to God, and his requital, though delayed, is inevitable. See Revelation 6:9-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Oracle in the Midst -- 1 Kings 6:14-28\n\nIn the Temple the general design of the Tabernacle was perpetuated by the division between the Holy Place and the Most Holy Place, but there were several additions. For instance, there was a lofty porch in front of the Temple, beneath which the priests passed to the entrance. Also, on the other three sides were rooms, built one above the other in three stories. They were needed for storage purposes.\n\nInside no stones were visible-all was of gilded cedar, olive, and cypress wood, variously carved and tapestried by embroidered hangings. It was “exceeding magnificent.” The Holy of Holies was plunged in darkness, save as the Shekinah shone from the mercy-seat over the Ark and between the cherubim. Over this venerable relic of the Wilderness pilgrimage, Solomon set up two cherubim. Each was ten cubits high, and their outstretched wings, which touched each other above the Ark, also touched the walls on either side. These symbolized the highest forms of creature-life, reverently attendant upon their Creator."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Carved; Overlaid; Finished -- 1 Kings 6:29-38\n\nThe meaning of 1 Kings 6:31 is uncertain. We gather that the door of the inner shrine was made of wild-olive wood and in two parts, and that it occupied a fifth of the cedar partition which separated the two chambers. This wooden door was carved with cherubim, palm-trees, and open flowers, and was overlaid with gold. One part was always open, but the interior was concealed from view by a veil of blue, purple, and crimson, 2 Chronicles 3:14. In front of this were hung festoons of golden chains. Thus it was signified that the way into the Holiest was not then open. But we have boldness to enter, through the new and living way which Jesus consecrated for us. The surrendered will, the cleansed life, the meek and humble faith-these are the path, Hebrews 10:19-20.\n\nThe erection occupied seven and a half years, and the completed Temple stood for upward of four centuries, until destroyed by Nebuchadnezzar. The construction of character, after God’s ideal, may take long, but it advances to completion. First the stone, hewn with difficulty; then cedar and olive; lastly gold."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 7
+ }
+}

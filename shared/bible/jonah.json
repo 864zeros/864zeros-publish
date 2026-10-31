@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "Jonah", "chapter": 2, "citation": "Jonah 2:9", "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.", "plain": "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good. Salvation comes from the Lord." }
+    {
+      "book": "Jonah",
+      "chapter": 2,
+      "citation": "Jonah 2:9",
+      "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.",
+      "plain": "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good. Salvation comes from the Lord.",
+      "visual_prompt": "a small stone incense altar in a quiet courtyard corner at daybreak in a broad-leaved gourd vine shading a rough hillside shelter",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

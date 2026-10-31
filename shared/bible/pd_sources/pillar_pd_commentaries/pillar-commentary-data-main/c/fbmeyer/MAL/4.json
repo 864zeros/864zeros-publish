@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAL",
+  "commentaryId": "fbmeyer",
+  "name": "Malachi",
+  "commonName": "Malachi",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Wickedness and Pride Shall Find Judgment -- Malachi 3:13-18; Malachi 4:1-6\n\nThe day cometh! either in the fall of Jerusalem or in some terrible catastrophe yet future. Whenever it comes may we be reckoned as God’s peculiar treasure, preserved as a woman preserves her jewels in the day of calamity, Malachi 3:17. Sorrow and disaster are perpetually befalling the proud, or those that do wickedly; while on those who fear God’s name the dawn of the sun of righteousness is forever breaking and growing to the perfect day. In the beams of the sun there are not only light and color, but rays which bear health and vitality to the world and to men; so in Jesus there is power to salvation. Notice how the Old Testament ends with the word curse, while the Christ’s proclamation opens with Blessed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAL",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAL",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 1
+ }
+}

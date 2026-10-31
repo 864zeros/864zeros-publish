@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Summons to the Nation -- 2 Chronicles 30:1-12\n\nThough one of the most important feasts, the Passover had long been neglected. When a spiritual revival takes place, men naturally begin to observe the old sacred institutions, through which religious feeling can express itself. As the proper month for observing it had gone, rather than miss the whole year, the king and his people resolved to observe their annual festival in the second month, as provided in Numbers 9:10-11. The quickened life of Judah revealed itself in a fervent yearning for national unity, and the invitation to share in celebrating the Passover was distributed from Dan to Beersheba. Many mocked, imputing Hezekiah’s appeal to low motives of ambition and self-aggrandizement. We cannot doubt that Isaiah prompted the king to suggest that if Israel would accept the invitation and join in a common act of penitence and faith, it would probably lead to the rehabilitation of their national life. In putting aside this suggestion, Israel not only flouted the royal proposal, but destroyed one of the last methods of undoing the ruin which had already commenced in the Northern Kingdom."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Whole-hearted Seeking of God -- 2 Chronicles 30:13-27\n\nAs necessary preliminary to the right observance of the approaching feast, the removal of the altars erected by Ahaz was resolved upon. The feast and its antitype can be observed only as the leaven of evil is put away, 1 Corinthians 5:7. So great was the zeal of the people, that it shamed the priests and Levites into a new earnestness. There were irregularities in the celebration, as, for instance, the Levites slaughtered the paschal victims for every one that had not passed through the usual process of ceremonial cleansing. But the intention of the crowds was right, and in answer to Hezekiah’s prayer, no penalty was inflicted for these violations of the prescribed ritual. Another proof is thus afforded that the main thing with God is the attitude of the heart, Psalms 69:31.\n\nWhen spiritual captivities are turned, there is an outburst of singing. Each great revival has had its Gregorian chants, its Luther’s hymns, its Charles Wesley, its Havergal, its Sankey.\n\nThe immense numbers of slaughtered beasts were necessitated by the presence of vast multitudes of people, who needed to be supported while at Jerusalem. Only a small portion of the animal was presented on the altar, the remainder being eaten by the offerers."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 29
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 31
+ }
+}

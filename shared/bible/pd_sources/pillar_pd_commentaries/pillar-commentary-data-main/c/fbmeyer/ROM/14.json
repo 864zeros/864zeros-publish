@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Consideration toward Brethren -- Romans 14:1-12\n\nThe weak conscience needs further instruction. It is anemic and requires the hilltop, with its further view and bracing air; but in the meantime its owner must be guided by its promptings. A man must not take a certain course merely because others do so, unless he can justify their bolder faith and larger freedom. By thought and prayer and the study of God’s Word, conscience becomes educated and strengthened, and ceases to worry as to whether we should be vegetarian or not; whether we should observe saints’ days, or adopt a specific method of observing the Sabbath. Some people are constantly wondering and questioning about such things, as though their eternal salvation depended on minute observances.\n\nSuch would have found but scant comfort from the Apostle. He would have said, “Do the best you know, and when you have once adopted a certain method of life, follow it humbly, until some wider view is opened before you by the Spirit of God.” The main principle for us all is to live and die to please our Lord. He is our Master, and it will be for Him to allot our rewards. In the meantime let us not judge one another, but live in love, leaving each to work out the plan of his own life as his Master directs."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Yielding Rights for Others’ Sake -- Romans 14:13-23\n\nWe must be careful of one another’s faith. Unkind criticism or ridicule, or the strong pressure of our arguments and reasons may impede the divine life in weaker natures by leading them to act in defiance of their own conscientious convictions. We must not flaunt our greater liberty or urge men to act against their conscience. We may, of course, temperately and lovingly explain why we are not held by minute scruples. We may show, as Paul did repeatedly, that Christ has called us to liberty; but we must not attempt the regulation of one another’s conduct from without. The sanctuary of the soul must be left un-invaded. The Spirit alone may speak His oracles in the shrine.\n\nLeave each disciple to his own Master, each plant to the Gardener, each child to the divine Fatherhood. In many things you may grant yourself a wider liberty than others allow themselves; but it must be used wisely, and you must refuse to avail yourself of it whenever those around you may be positively imperiled. We need not mind the censorious criticism of the Pharisee, but like the Good Shepherd with His flock, we must accommodate our pace to that of the lambs, Isaiah 40:11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 15
+ }
+}

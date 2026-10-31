@@ -18,7 +18,7 @@ SCRIPTS = {
     "pain": [
         {
             "id": "pain_scene1_hook",
-            "text": "Still paying twenty dollars a month to third-party middleware just to send Google Sheets rows to a webhook?",
+            "text": "Still paying recurring monthly fees to third-party middleware just to send Google Sheets rows to a webhook?",
             "lead": 0.25,
             "tail": 0.35
         },
@@ -50,7 +50,7 @@ SCRIPTS = {
         },
         {
             "id": "price_scene3_cta",
-            "text": "A one-time fourteen ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+            "text": "a single one-time unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
             "lead": 0.15,
             "tail": 0.5
         }

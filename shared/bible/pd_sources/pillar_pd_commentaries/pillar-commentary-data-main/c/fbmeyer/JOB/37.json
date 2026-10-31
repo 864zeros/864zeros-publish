@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 37,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Light in the Clouds -- Job 37:1-24\n\nAs Elihu spoke a thunder-storm was gathering, and much of the imagery of this chapter is suggested by that fact. The little group listened to the sound of God’s voice in the thunder. Peal followed peal without cessation, Job 37:4. The lightly-falling snow and the drenching showers are alike His work, whether they restrain men from their labor in the fields or drive the beasts to their dens, Job 37:8. From the storm Elihu turns naturally to the winter, with its ice and snow, and the frost that binds up the flow of the streams, Job 37:10. All these perform God’s bidding in the earth.\n\nHow little we know of atmospheric phenomena! Why the north and south winds blow, what is the real nature of the azure, and what the red and gold of the northern lights! We cannot find out the Almighty. He is great and glorious, and cannot be unjust. But let us be more eager to look for the bright light in the clouds. It is always there. A rainbow for every storm; an arbor for every difficult hill; a sure hiding-place in every tempest. Such is Jesus to all who love and trust Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 37
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 38
+ }
+}

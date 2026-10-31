@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Keeping the Passover -- Numbers 9:1-14\n\nThe Passover was celebrated in Egypt, Exodus 12:1-51; in the Wilderness, Leviticus 1:14; and in the land of Canaan, Joshua 5:1-15. The thought of our redemption must underpin all the great movements of individuals and the Church, This one was specially memorable, because it led to the institution of “the little Passover,” Numbers 9:6-7. Moses did not hasten to give an answer of his own, but waited upon God. The divine nature makes allowance for disabilities, over which we have no control. See 2 Chronicles 30:13-20.\n\nIn the welcome given to strangers, we discover the wideness of God’s mercy. We, too, were strangers and foreigners, Ephesians 2:19-21. My soul, never forget how thou wast once a stranger to the covenant of promise! Thine were the crumbs of the feast! But God has made thee sit with the children and included thee in the gracious provisions of His covenant!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Cloud upon the Tabernacle -- Numbers 9:15-23\n\nWe cannot decide on the shape of this cloud; whether it was a great cumulus, or spread out over the camp like an umbrella, so as to shelter the people from the sun glare. As the night fell, the shekinah-fire, that burned at its heart, became apparent. But whether it sheltered by day or illumined by night, it was always the symbol of the divine presence. All this prefigured the guidance and shelter that are afforded to His people by our Lord. Compare John 8:12.\n\nFriends may urge you to change your sphere. The scarcity of your resources and the pressure of your foes may appear to force a move. A nameless fear may suggest that you will never hold your ground. But so long as the cloud doesn’t move, you must tarry where you are. Where the cloud broods, the manna falls. “My soul, wait thou only upon God!” Never go in front of God, nor lag behind, nor hesitate to strike your tent, if He leads on."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 10
+ }
+}

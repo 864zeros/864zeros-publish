@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Thirsting after God -- Psalms 42:1-11\n\nThis psalm clearly embalms the holy musings and yearnings of the exiled king during Absalom’s rebellion. Their setting to music was left to the sons of Korah, 2 Chronicles 20:19. It was a great favorite with the early Church, driven to the Catacombs, on the walls of which are many designs of hunted deer.\n\nThe water brooks, Psalms 42:1-3. The hind suffers much from the sultry heat, but it dare not linger too long at the water-hole, because the wild beasts gather there. We never realize the value of God’s house till we are compulsorily separated from its sacred rites. How blessed it is to return to the sanctuary after such separation! “In the abundance of thy lovingkindness will I come into thy house,” Psalms 5:7, r.v.The blessed past, Psalms 42:4-6. Exiled to the Hermons, beyond the Jordan, the fugitive recalls the festal crowds, wont to gather at the holy feasts. But when such thoughts oppress us, we should turn our hearts to God and in touching Him, we cease to be lonely. See Hebrews 12:22, etc.\n\nThe bitter present, Psalms 42:7-11. The day of pain and rebuke, when the heart is pierced, is the day of God! “His lovingkindness;” “his song;” “the God of my life;” “God of my rock;” “the health of my countenance;” “my God” -what a heritage is this!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 43
+ }
+}

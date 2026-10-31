@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Lord Fought for Israel” -- Joshua 10:1-14\n\nThe honor of Israel was implicated in this attack on their confederates, and Joshua went to their assistance. The deception which had been practiced on him did not alienate his help. Before he started he was assured of victory, but this did not make him slothful. See Joshua 10:7. But it was by his faith, courage and obedience that this and other victories were won. What may not one man do when God is with him! Paganini once broke all his strings but one; then, holding up his violin, he said, “One string and Paganini.”\n\nA terrific storm burst on the fugitives as they crossed the high ridge of Beth-horon and descended in full flight to the plain. We are not called upon to explain the miracle of the sun and moon. The prolongation of daylight was probably due to some cause like that which yields the after-glow of sunset and the optical refractions seen in high latitudes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "40-43, Joshua’s Victories over Israel’s Foes -- Joshua 10:15-27\n\nThe cave of Makkedah was a perpetual reminder of this wonderful victory which God gave His people. The details as to the placing of the princes’ feet on the necks of their foes are related with this precision to indicate the completeness of the conquest. So at the end of this age; see 1 Corinthians 15:25. We may therefore appropriate Joshua’s words about the enemies of the Church and ourselves. See Joshua 10:25.\n\nJoshua’s career was one of unbroken success, because the Lord went before him, delivering kings and armies, cities and peoples, into his hands. It was a war of utter extermination; but God’s justice had waited long, Genesis 15:16, and this was the only way of stamping out the infection. The lesson for us is that no quarter can be given in the inner war. All our thoughts must be brought into captivity, 2 Corinthians 10:5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 11
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 49,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“A Light to the Gentiles” -- Isaiah 48:17-22; Isaiah 49:1-13\n\nThe first division of this second part of Isaiah closes at Isaiah 48:22, with the phrase there is no peace to the wicked. The second division of part 2 closes with a similar phrase, Isaiah 57:21. The first division here ends with the proclamation for Israel to leave Babylon. They need never have gone there. If only they have been obedient in every particular theirs would have been the happy lot of Isa 48:18, as contrasted with Isaiah 48:22. But even under such circumstances, in captivity and as slaves of the Chaldeans the redeeming grace of God would triumph, Isaiah 48:20; Isaiah 49:5.\n\nThe second great division of Part 2 opens with Isaiah 49:1. In their first and immediate reference, these verses evidently apply to our Lord. See Acts 13:47, etc. In the mission of Jesus, the ideal of the Hebrew race was realized. As the white flower on the stalk He revealed the essential beauty and glory of the root, Isaiah 49:6. See Hosea 11:1; Matthew 2:1-2; Matthew 2:14-15, etc.\n\nThere is a secondary sense, also, in which the Christian worker may appropriate many things in this glowing paragraph. Our mouth must be surrendered to God, that He may use it for His own high purposes. But do not dread the shadow of His hand. It is the quiver case in which He keeps His chosen arrows against the battle!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Lord Cannot Forget His Own -- Isaiah 49:14-26\n\nThese assurances were given to the chosen race on the eve of their return from Babylon. They were timid and reluctant to quit the familiar scenes of their captivity; they dreaded the dangers and privations of their way home, and questioned whether the great empire of their captors would ever let them go or allow their city to rise from its ruins. Therefore the Lord’s voice takes on a tone of unusual persuasiveness. Let us ponder His assurances of compassion and comfort, Isaiah 49:13; Isaiah 49:15-16.\n\nHe will lead us with a shepherd’s care, Isaiah 49:10. He will make obstacles subserve His purpose, Isaiah 49:11. His love is more than motherhood, Isaiah 49:15. He treasures the remembrance of His own, Isaiah 49:16. Zion thinks herself cast away as a derelict, Isaiah 49:14, but such is not the case. Even her broken walls are ever before God, with a view to their rebuilding, Isaiah 49:19, etc. God’s love is stronger than our strongest enemies, Isaiah 49:25, etc. Let us hide in it, standing above the fears that compose the cloudland of our soul, in the upper peaks of a strong faith."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 49
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 48
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 50
+ }
+}

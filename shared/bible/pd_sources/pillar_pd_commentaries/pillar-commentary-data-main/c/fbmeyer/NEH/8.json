@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "New Light from God’s Law -- Nehemiah 8:1-18\n\nSurely this was the first public Bible-reading! When will the people be again as hungry for the Word of God as these Jews who stood in the open space from early dawn till the scorching noon? What reverence for the Word! When Ezra opened the Book, all the people stood up. What holy worship! When he blessed the great God, all the people answered, Amen, amen!\n\nWhat a model to us all! They gave the sense, so that they understood. What searching of heart! The people wept when they heard the words of the law.There is nothing which weakens us so much as does unrestrained remorse. Contriteness of heart is wholesome and helpful, but excessive grief incapacitates us for our duties. It is well therefore to cultivate holy joy; the joy of sin forgiven, of acceptance with God, of hope that anchors us to the unseen, and that cannot be ashamed.\n\nYou may not be able to joy in yourself or your surroundings, but you may always rejoice in the Lord."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 9
+ }
+}

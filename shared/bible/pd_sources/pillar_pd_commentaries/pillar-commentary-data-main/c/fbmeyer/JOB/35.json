@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Songs in the Night -- Job 35:1-16\n\nGod is so exalted above man in His nature that He is altogether independent of him. When men sin against Him, they hurt not Him but themselves. There is no motive, therefore, of retaliation or revenge in His chastisements. “Not for His pleasure,” the Holy Ghost saith in another place, “but for our profit,” Hebrews 12:10.\n\nInstead of seeking after God our Maker, who can give songs in the darkest night that ever befell a human spirit, we are too apt to despair. Instead of crying to God, we cry against Him. We murmur and complain. We arraign God. There is our pride, Job 35:12. We regard iniquity in our heart, and God cannot answer us until we change our note for one of loving, trustful submission. God will not hear vanity, neither will the Almighty regard it.Let us change our temper and our note. Have done with the proud self-will that chafes and argues and complains. This will not speed thy cause at God’s bar. Humble thyself under His mighty hand, and He will exalt thee. “The meek He will teach His way.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 36
+ }
+}

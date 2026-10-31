@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Song of Fearless Trust in God -- Psalms 27:1-14\n\nThis psalm probably dates from the time when the exiled king, surrounded by unscrupulous foes, looked from his hiding-place beyond the Jordan to the Holy City, where the Ark abode. One thing he desired above all else. The “one thing” people are irresistible, Philippians 3:13-14.\n\nHere we have assurance, Psalms 27:1-6. God’s house for us is His presence. We may live day by day in the New Jerusalem, which needs no light of sun or candle. We are in it, though we know it not. Oh, that our eyes might be opened to see where we are! 2 Kings 6:20. How beautiful must God be, who has made the world so fair!\n\nNext we have supplication, Psalms 27:7-14. The triumphant note changes to sadness. Did the writer look from his Redeemer to the winds and waves? But sometimes God seems to hide His face only to draw us to a point of trust and abandonment which otherwise the soul had never dared to adopt, Mark 7:28. The dearest may forsake, but the Lord gathers, Isaiah 40:11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 28
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Prepare to Meet Thy God” -- Amos 4:12-13; Amos 5:1-15\n\nWorse judgments than those mentioned in the previous verses were in store but before they are inflicted, the entire nation is summoned to the divine bar. Whether we choose or not, “we must all appear before the judgment seat of God.” Prepare, my soul, to meet Him! Note the sublimity of that last verse of Amo 4:1-13. How great is God, who made the mountains! How mysterious, who made the wind! How sublime, who calls to the dawn! How mighty, to whom mountains and peaks are stepping-stones!\n\nBut great and holy though God is, we are invited to seek Him. He desires to bless, but He must be sought. Were we more diligent in seeking, as the miner for gold, or the scientific man for nature’s secrets, we should be marvelously repaid. “Eye hath not seen,” etc. Amos speaks as nature’s child. Often as he had tended his flocks, he had watched the Pleiades with their gentle radiance, and Orion, the herald of storm. He had listened to God calling across the waters, and had drawn life from Him. “Seek and live!” O soul, what a God is thine! Thy springs and storms await His word of command. He can turn thy darkness into the morning. Be of good cheer!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "A Dark Day for Hypocrites -- Amos 5:16-27\n\nMighty sins had been committed, and mighty judgments were at hand. The oppression of the poor, Amos 5:11; the erection of elegant dwellings from unrighteous exactions, Amos 5:11; the acceptance of bribes to betray the needy, Amos 5:12 all these must be reckoned with. But if the guilty nation would not seek God and establish judgment in the gate, where magistrates sat to dispense justice, the streets would be filled with wailing, and the husbandmen and vine-dressers would be equally affected by the widespread desolation as the dwellers in the cities.\n\nMoreover, bad as Israel’s present condition was, it would become infinitely worse, as though a man fleeing from a lion rushed into the arms of a bear, or, taking refuge in a house, was stung by a serpent that lay hid in a cranny of the wall. Of what avail are religious rites, when the heart is alienated from God, Amos 5:21, etc.? Let us heed well the exhortation of Amo 5:23-24. The martyr Stephen quoted Amos 5:25-27, which accuse the people of carrying about little shrines and pocket-idols, to serve as amulets averting disaster, Acts 7:43. But they might as well have built a bank of sand to arrest an overflowing flood! The one thing which is going to help us is repentance toward God and faith in our Savior Jesus Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 6
+ }
+}

@@ -2,7 +2,7 @@
 **DAM Product Folder:** `media/products/clearstreak/`  
 **Web Product Page:** https://864zeros.com/products/clearstreak  
 **Google Play Store:** https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak  
-**Pricing Model:** 7-Day Free Trial $\to$ One-Time Lifetime Unlock (No recurring subscriptions)  
+**Pricing Model:** 7-Day Free Trial $\to$ one-time lifetime Unlock (No recurring subscriptions)  
 
 ---
 
@@ -77,7 +77,7 @@ ClearStreak has zero servers. No cloud accounts. Everything is encrypted on your
 👉 Get ClearStreak on Google Play: https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak
 
 🔒 Biometric hardware lock & FLAG_SECURE screenshot protection.
-💰 One-time lifetime unlock after a 7-day free trial (No recurring monthly subscriptions).
+💰 one-time lifetime unlock after a 7-day free trial (No recurring monthly subscriptions).
 
 🌐 Explore all tools: https://864zeros.com
 
@@ -87,22 +87,22 @@ ClearStreak has zero servers. No cloud accounts. Everything is encrypted on your
 
 ---
 
-### 4. Tier 1 Social Short C: "The $120/Year Habit Tracker Scam" (Price Hook — Staged as Private)
+### 4. Tier 1 Social Short C: "The one-time lifetime Habit Tracker Scam" (Price Hook — Staged as Private)
 * **Video File:** `media/products/clearstreak/social/clearstreak-social-price.mp4` (or stage script)
 * **Suggested Thumbnail:** `media/products/clearstreak/icons/clearstreak-thumbnail.png`
 * **YouTube Title:**
 ```
-The $120/Year Habit Tracker Scam: ClearStreak #Shorts
+The one-time lifetime Habit Tracker Scam: ClearStreak #Shorts
 ```
 * **YouTube Description:**
 ```
-$40/year... $80/year... $120/year just to count days and track vices?!
+one-time lifetime ... one-time lifetime ... one-time lifetime just to count days and track vices?!
 
 Renting your self-improvement is broken. Stop paying subscription rent to venture capital firms just to build discipline.
 
 ClearStreak gives you complete local-first habit tracking:
 - 7-day full free trial.
-- One-time lifetime unlock. No recurring fees.
+- one-time lifetime unlock. No recurring fees.
 - 100% free forever Crisis Lifeline Hub (988, SAMHSA, trusted ally).
 
 👉 Download ClearStreak on Google Play: https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak

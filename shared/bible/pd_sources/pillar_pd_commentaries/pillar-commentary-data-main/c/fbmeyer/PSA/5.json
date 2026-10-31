@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Protection from the Wicked -- Psalms 5:1-12\n\nThe ordering of prayer is very necessary, Genesis 22:9. Our Lord’s prayer should be our model. Often our words need to be supplemented by our meditations; that is, we must make room for the “groanings which cannot be uttered,” but which the Spirit understands, Romans 8:26-27. Distinct from either of these is the urgent ejaculation for aid which is here described as the voice of my cry, Psalms 5:2. As soon as we awake, let us speak to God. We must keep watch for the answer, Psalms 5:3, r.v. How many answers we miss, because we get tired of waiting for the return of our ships!\n\nNote the seven expressions for the ungodly, Psalms 5:4-7. As for me-the chief of sinners, but see 1 Corinthians 15:10. The Jew in prayer turned toward the Temple, Psalms 5:7; Daniel 6:10. Here the Tabernacle, which preceded it, stood for the same, 1 Samuel 1:9. We look to the Most Holy Place, whither Jesus has entered, Hebrews 10:19.\n\nThe ungodly are specially characterized by sins of speech, Psalms 5:9. Wicked men are like sepulchers, which exhale pestilential odors. Their doom is inevitable. Notice the combination of trust, love, and joy, Psalms 5:11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 6
+ }
+}

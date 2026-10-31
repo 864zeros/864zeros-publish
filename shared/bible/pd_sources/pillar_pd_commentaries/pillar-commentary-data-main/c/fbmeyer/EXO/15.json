@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moses’ Song of Praise to Jehovah -- Exodus 15:1-18\n\nThis sublime ode falls into three divisions. We learn, first, what God is: strength in the day of battle; song in victory; salvation always. He is the God of our fathers, and our own; the mighty champion of His people. Notice that the Spirit of Inspiration gives but a line or two to Israel’s murmurings, but records this happy song with elaborate care. Praise is comely!\n\nWe discover, second, what God is to His foes. They are covered by the engulfing waves of destruction. As well might thorns fight fire as a man succeed against God.\n\nWe are taught, third, what God does for His friends. He leads forth the people whom He has redeemed. He guides them in His strength to their home. He who brought them out brings them in, and plants them in the place He has prepared. Claim that He should do this for you. He who brought you out from Egypt can bring you into Canaan."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Marah’s Waters Sweetened; Elim’s Rest -- Exodus 15:19-27\n\nHow rapid are the transitions of life! Today the song of victory, tomorrow the bitter wells of Marah, and the next the shadow of Elim’s palms! One moment we are singing the joyous song of victory on the shores of the Red Sea, strewn with the bodies of foes, which we believe that we have seen for the last time; and then, by a sudden change, we find ourselves standing beside Marah-waters of pain and disappointment. We, however, learn more of God at Marah than at Elim; because He reveals to us the tree of the Cross. It was there that our Lord gave up His will absolutely to the Father. See Hebrews 10:5-7. “He bare our sins in His own body on the tree.” Now, for us, there is but one way to bear sorrow and to extract its sweetness.\n\nWe must yield our will to God; we must accept what He permits; we must do what He bids. So we come to find that dis-appointments are His appointments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 16
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Line by Which Messiah Came -- Matthew 1:1-17\n\nThe enumeration of our Lord’s ancestors, with its threefold division into fourteen generations and evident gaps, was probably so arranged to aid the memory. Notice that, in unison with the general purpose of the writer, the line is traced to Abraham through David the king. Of course we know that Joseph was only the reputed father of Jesus, Matthew 1:18; but in any case this genealogy conformed to Hebrew usage and explained how the birth took place in David’s city.\n\nIn this list of names the patriarchs, Gentiles, women of doubtful character, good men and bad men, the wise, the illustrious, the unknown-all supply important links. It is as though to teach us that in the Son of man there is a blending of all classes, that He might be the representative and helper of all. Each of us may find some point of contact in this genealogy. Jesus Christ belongs to our race. He knew what was in man by that subtle and intimate knowledge which comes of kinship. In Him, therefore, is neither Jew nor Greek exclusively, but all are one in Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Birth of Jesus Christ -- Matthew 1:18-25\n\nThe fear that Joseph, being a just man, might withdraw from their contemplated wedlock, would have filled Mary’s heart with untold anguish had she not been upheld by her faith in God. She felt that He was pledged to vindicate her character. Yield yourself to Him for His purposes and leave Him to deal with any contingent results! He becomes responsible!\n\nThat which happened historically must take place experimentally. In each of us Jesus Christ must be born through the direct action of the Holy Spirit. See Galatians 4:1-5. This is what we mean by the new birth; and when He has so entered our hearts, our Lord will become our Savior, not merely from the penalty but from the love and the power of our sins. Claim that this shall be your experience!\n\nLet us seek after that union with God which is the height of blessedness, both in this life and the next, and in virtue of which God becomes the companion of the soul in its earthly pilgrimage. This is the Name of names-Emmanuel. See Isaiah 7:14; Isaiah 9:1-7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAL",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 2
+ }
+}

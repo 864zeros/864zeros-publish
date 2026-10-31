@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2TI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Timothy",
+  "commonName": "2 Timothy",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Dark Picture of Evil Men -- 2 Timothy 3:1-9\n\nThe last days of the present age are to be black and sorrowful. Sinful rejection of Christ will come to a head. We must not be misled by the wide-spread profession of the forms of religion; this may co-exist with the rankest apostasy. When women are conscious of sins against God, society, and themselves, they are very liable to the seduction of false teachers, who promise peace and condone impurity.\n\nTares and wheat grow together unto the harvest. The devil has always set himself to counterfeit God’s handiwork: the Holy City by Babylon; the Son of man by the man of sin; blessedness by the worldling’s giddy merriment. Thus the Egyptian conjurers repeated the miracles of Moses by resorting to sleight of hand. So there is a pure gospel and a specious mimicry of it. Wait for the inevitable unfoldings of God’s purpose. Time will show what is true and what is false. In the meantime, examine yourselves whether ye be in the faith."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Hold Fast to Inspired Scripture -- 2 Timothy 3:10-17\n\nThe world does not love Christ or Christians any better than of old; and all who are minded to live godly lives will come inevitably to the cross in one form or another. To be without persecution should put us in serious doubt as to whether we are right. The spirit of the gospel is in absolute disagreement with the spirit of the world. But, whatever the losses and trials, let the children of God abide in the things which they have learned, and walk in blameless purity and consistency. The conduct, purpose, and patience of this great and holy Apostle gleam in front of us for our inspiration and guidance; and his experience will be ours-that there is no sorrow out of which we shall not be delivered, when we have learned the lesson it was sent to teach.\n\nIn the stern experiences of human life there is no stay that is comparable to the Holy Scriptures. The infinite variety of Scripture adapts itself to different states of the soul. Whatever our need, we can find its solace and remedy here. Thus we may live a complete life, finding in the Bible an equipment for all our emergencies. In this armory is every weapon for offense and defense; in this pharmacopoeia is a medicine and antidote for every wound."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 4
+ }
+}

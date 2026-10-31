@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abram’s Son Ishmael -- Genesis 16:1-16\n\nPoor Hagar! What contrasts met in her life! Bought in an Egyptian slave-mart, but destined to be the mother of a great people! She is not the last to suffer from the mistakes and sins of God’s children, but she was abundantly recompensed. Abram did her a great wrong. Human policy will often suggest a course which seems right in our own eyes, but the end is death.\n\nHow remarkable is the advice given to Hagar by the angel: return and submit! Does not the child of God often seek to evade the cross! “Let me but get away from this intolerable trouble,” we cry. But God meets us. “No stranger He to all our wanderings wild!” We have to take up the cross, and sit down again on the hard stool. Some day we shall be permitted to go out, but not till we have learned our lesson perfectly. In the meanwhile, we are assured that our life shall be prolific in great results. In an outburst of awe and joy, the slave-girl learned that God sees and hears.\n\nNote 2 Chronicles 16:9; 1 Peter 3:12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 17
+ }
+}

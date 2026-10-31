@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Differing Spiritual Gifts -- 1 Corinthians 12:1-11\n\nEach believer, being an heir of God, has the same amount of grace placed to his credit in the heavenly bank, on which he can draw in time of need. This is the parable of the pounds. Each servant received the same amount. But there are great diversities in the gifts with which we are endowed. Some have five talents, others two, and large numbers only one. A full enumeration of these gifts is made in 1 Corinthians 12:8-11, and it is a comfort to learn that to everyone something is allotted, 1 Corinthians 12:7; 1 Corinthians 12:11.\n\nNotice that the allotment is made by the Holy Spirit acting sovereignly as He will, 1 Corinthians 12:11. We are not informed when it is made-perhaps it is at the moment of our regeneration or adoption-but it is important to bear in mind that our gifts will probably correspond with our natural endowment. Hence our Lord tells us that to every man was given according to his several ability, Matthew 25:15.\n\nMark the allusion to the Divine Trinity: the same Spirit, 1 Corinthians 12:4; the same Lord, 1 Corinthians 12:5; the same God, 1 Corinthians 12:6. The Spirit directs, the Savior is the channel of supply, and the Father is the fountain of all."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Many Members in One Body -- 1 Corinthians 12:12-19\n\nThe use of gifts must never be dictated by personal ambition or the desire for selfish gain. As every member of the physical body is united to the head by two sets of nerves, the afferent, which bring to the brain the slightest sense impressions, and the efferent, which bear to the extremities the commands of the mind, so is every member of the Church, even the feeblest and most distant, bound to his glorious Lord. The head of the swimmer is in one element-the air-and the members may be in another-the water-yet the head is able to control and co-ordinate them; so with the unseen Christ and His visible Church on earth. He must direct and use us. We have nothing to do with the work He confides to others, and must concentrate on that which He wants to achieve through us. If this means co-operation with other members or service to them; if it means hidden obscurity or temporary disuse, we must be equally content.\n\nIt is for Him to do as He will. There is no room for envy or jealousy; they must give place to loving fellowship and mutual help, and the quiet peace and rest which come from recognizing the good pleasure of the Creator."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Each Contributing His Part -- 1 Corinthians 12:20-31\n\nThe hand and the foot obviously stand in need of each other; but the same interdependence marks the feebler and humbler parts of our frame. Indeed, it would appear as if we bestow more abundant honor on them by covering them with clothes or ornaments. In this way the least important parts of our nature are leveled up and compensated.\n\nThe Apostle’s aim throughout this passage is to enforce the interdependence of believers. One gives to others that in which they are deficient, and he derives help from each of them in turn. The Christian Church is not an inert mass of mere learners and subjects who are to be authoritatively taught and ruled by a small fraction of its members. It is a great co-operative society, in which each is for all and all for each, and the object is to bring Christ into every department of our being and our fellowship, as the life-blood nourishes the body of man. A new word has lately come into use, to express the interdependence and mutual interests of men and nations; and nothing could more aptly describe the Apostle’s ideal than that word solidarity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 13
+ }
+}

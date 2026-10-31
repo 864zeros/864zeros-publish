@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PHP",
+  "commentaryId": "fbmeyer",
+  "name": "Philippians",
+  "commonName": "Philippians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rejoice in Growth and Seek Increase -- Philippians 1:1-11\n\nIt is exceedingly difficult to compress this Epistle, which is the tenderest and most personal of them all. Every word merits consideration; every paragraph is full of linked sweetness long drawn out. In the opening verses we are taught that we may further the gospel, not only by direct efforts, but by helping those who, like the Apostle, are devoted to its spread. From the early beginnings of their friendship, this Church had never faltered in its loving gifts, which Paul sought to repay with prayers on their behalf. He regarded them as comrades fighting the same enemy, on the same field, and sharing in the same grace.\n\nThe Apostle’s confidence that whatever God begins will have its perfect end, Philippians 1:6, is very reassuring. This is what we need, though we must not take it for granted apart from faith and prayer. Each of the Epistles has its “collect,” its comprehensive prayer offered in the name of Christ. This one is especially beautiful. Abounding love will lead to increased knowledge; and this to quicker discrimination between things that differ, however similar they may appear; and this, in turn, to freedom from blame and offense. And all will result in the fruit of a holy life, pleasing to Jesus and bringing glory and praise to God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“To Live Is Christ, and To Die Is Gain” -- Philippians 1:12-21\n\nIt was a matter of comparative indifference to Paul what happened to himself so long as the gospel progressed, because the extension of the gospel meant the growing glory of Jesus. He was quite content to be in bonds, if only by his chains he might gain access to new realms, hitherto untrodden, for proclaiming his Lord. He could even view with equanimity the envy and strife of some, if Jesus might be named to those who had never heard of Him, He was prepared to live or to die, that Jesus might be magnified. He was willing to remain for a little longer outside of heaven, if that would better serve the cause he loved. His main argument for consistency of life on the part of his converts was that the success of the gospel might not be impeded. It seemed good to suffer, if only it were on the behalf of Christ. Oh that we might experience a similar absorption in the great interests of the gospel!\n\nIt is clear from this paragraph that death is not an unconscious sleep. It is gain. It is a loosing from anchorage so that the soul may go forth on the broad ocean of God’s love. It does not interrupt our conscious fellowship with the Lord. The moment of absence here is the moment of presence there. To die is therefore gain."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Privileged to Suffer in Christ’s behalf -- Philippians 1:22-30\n\nOur “manner of life” is all-important. In the open day and in the hours of darkness it must be worthy of the gospel. We must show ourselves to be of a heavenly tone and temper, as citizens of that “city which hath foundations, whose builder and maker is God.” Lady Powerscourt used to say that she dwelt in heaven, but came down for a few hours each day to do her work on earth, returning home at night. Clearly, then, our dress, accent, and behavior should betray us as strangers and pilgrims who can well endure the discomfort of the inn or the troublous experiences of the place of our sojourn.\n\nNotice that remarkable expression, For unto you if is given in the behalf of Christ… to suffer, Philippians 1:29. This is an added honor conferred on us by our Lord. The King gives us the opportunity of lying in the stocks with Him, of standing at the same pillory, and of being crucified on the same Calvary. But those who have drunk of His cup shall share His throne. When earth and heaven shall pass away, His fellow-sufferers shall be His chosen body-guard and attendants in a world where all shall love and honor Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 2
+ }
+}

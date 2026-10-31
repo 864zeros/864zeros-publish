@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Giving Rein to Self-Indulgence -- 2 Samuel 11:1-13\n\nThis was not an isolated sin. For some time, backsliding had been eating out David’s heart. The cankerworm takes its toll before the noble tree crashes to the ground. See Psalms 51:8. Joab and his brave soldiers were in the thick of a great conflict. Rabbah was being besieged and had not fallen. It was a time when kings went out to battle, but David tarried at home. It was a fatal lethargy. If the king had been in his place, this sin would never have besmirched his character.\n\nA look, as in Eve’s case, opened the door to the devil. “Turn away mine eyes from beholding vanity.” However great our attainments and however high our standing, we are all liable to attack and failure; but when we abide in Christ, no weapon that hell can forge can hurt us. When we have sinned, our only safety is in instant confession. This David delayed for a year and till forced to it. He was more eager to evade the consequences than to deal with his transgression. Sober David was far worse, here, than drunken Uriah. The singular self-restraint of the soldier threw the sin of the king into terrible and disgraceful prominence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Adding Blood-Guiltiness to Adultery -- 2 Samuel 11:14-27\n\nJoab must have smiled grimly to himself when he received his master’s letter. “This king of ours can sing psalms with the best, but I have to do his dirty work. He wants to rid himself of Uriah-I wonder why? Well, I’ll help him to it. At any rate, he will not be able to talk to me about Abner!” 2 Samuel 3:27. It is an awful thing when the servants of God give the enemy such occasion to blaspheme.\n\nUriah was set in the battle-line and left to die. The king was duly notified and, on hearing the news, must have given a sigh of relief. The child could be born under cover of lawful wedlock. There was, however, a fatal flaw in the whole arrangement: The thing that David had done displeased the Lord. David and the world would hear of it again. But, oh, the bitter sorrow, that he who had spoken of walking in his house with a perfect heart, who had so great a faculty for divine fellowship, should have fallen into this double sin! The psalmist, king, lover of God-all trampled in the mud by one passionate act of self-indulgence!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 12
+ }
+}

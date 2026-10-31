@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "fbmeyer",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Truth and Love Must Prevail -- Zechariah 8:1-17\n\nIn his third answer Zechariah dilates on the prosperity awaiting the chosen city. The Lord had returned, to dwell there, and the old men and women who were at the end of life should join with the happy boys and girls who were at the beginning in the enjoyment of the blessings of peace. Exiles also would return to people the former desolations. But with these delightful forecasts ensue reiterated appeals."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Nations Will Seek the God of Israel -- Zechariah 8:18-23; Zechariah 9:1-8\n\nIn his final answer the prophet gives a delightful picture of the future, which was on the eve of complete realization. So entirely would the memory of the past be obliterated that fateful anniversaries would soon fade from their minds. Indeed they would discover that their dark days had been the source and origin of their glad ones. In all subsequent ages, even when persecuting the Jews, the foremost nations have taken hold of their skirts, appropriating their sacred writings, venerating their lawgivers, prophets, and saints; and believing in the noblest representative of their race.\n\nThe prophet passes his eye over the surrounding nations, showing that his people need fear no more, because their oppressors had been effectually silenced."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 9
+ }
+}

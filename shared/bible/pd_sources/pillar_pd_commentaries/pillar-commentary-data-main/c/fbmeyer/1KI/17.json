@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sin’s Climax Summons Jehovah’s Prophet -- 1 Kings 16:29-34; 1 Kings 17:1-7\n\nFrom the beginning of his reign Ahab set aside both the First and the Second Commandment. His marriage with Jezebel, the young and beautiful Sidonian princess, plunged him and his kingdom into yet deeper darkness. In addition to Jeroboam’s calves, the worship of Baal, the sun-god, was shamelessly introduced, and his temple was served by hundreds of priests. The inspired artist does not hesitate to paint with Rembrandt colors, and the illustrious glory of Elijah shows clearly against the dark background. The darkest hour precedes the dawn; the keenest pain ushers in birth. First Ahab and Jezebel, then Elijah.\n\nGilead was far from court or temple-God trains His workers in His own school. The prophet’s name-“Jehovah is my strength” -suggests where he abode and whence he derived his power. He stood before God for the uniting and the uplifting of a divided people. The drought was the result of prayer. Elijah felt that nothing less could arrest king and people, James 5:17. The man who stands before God is not afraid to stand before Ahab. Now and again God bids His servants hide themselves toward the sunrise, but in these periods of enforced seclusion He makes Himself responsible for their supplies."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "The Jar of Meal That Wasted not -- 1 Kings 17:8-16\n\nEven at Cherith we cannot be exempt from trial, and it is hard to sit beside a gradually dwindling brook. But God always provides. None of them that trust in Him shall be desolate. Whether the visible agents are ravens, or a poor heathen widow ready to perish, it matters little. God’s majestic “I have commanded” is enough. Whether it is ordinary or extraordinary, natural or supernatural, through Jew or Gentile, God’s purpose does not tarry.\n\nGentile help supplied what Israel might not give, Luke 4:25-26. God uses the weak and foolish things as well as those which are not, 1 Corinthians 1:28. Yet there were noble qualities in this woman. She did not complain, but went at once for the water; she was generous and hospitable, and believed that God would supply their need. How little did she realize the greatness of her reward, Matthew 10:41-42! But her faith was great.\n\nShe stood the test of making Elijah’s cake first, believing that afterward there would be enough for herself and her son. Though she little understood it, she had within her a spark of the same fire that burned in the soul of the great prophet; and therefore, when we all stand in our lot at the end of the days, Daniel 12:13, her portion will be with the great prophets and heroes of faith."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "New Life for the Dead -- 1 Kings 17:17-24\n\nIt must have been a severe trial to Elijah’s faith, first to note the gradual diminishing of the brook; then the abject poverty of the woman to whom he was directed; and finally the illness and death of her child. But through it all, he held fast to the living God. It was still, “O Lord my God,” 1 Kings 17:20. Affliction is no proof that we are off the path of duty. The way of obedience is sometimes paved with flints, as every servant of God has discovered. But the difficulties only give room for the exercise of greater faith, and reveal more of the delivering power of the Almighty Friend.\n\nThe true physician bends over the little child of the poor, eager to save a human life; but his power is limited. To faith and prayer, however, other forces are available, which accomplish what no skill or medicine can. When we have confessed and put away sin which the hour of anguish has brought to light, room is made for the exercise of that divine power which is always within the reach of hands that are lifted without fear or doubting."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 18
+ }
+}

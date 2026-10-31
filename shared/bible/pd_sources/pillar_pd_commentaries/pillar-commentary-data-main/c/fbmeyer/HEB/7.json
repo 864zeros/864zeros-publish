@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Priesthood Superior to Aaron’s -- Hebrews 7:1-10\n\nMelchizedek was probably a literal king and priest in Salem. The blue smoke of his sacrifices rose morning and evening on the hill. Amid the turbulent lawlessness of those wild days, his realm was peace. Like him, Jesus meets us when flushed with success or wearied with some great effort, and therefore peculiarly liable to temptation. Notice the order! It is invariable! First righteousness, then peace, Zechariah 9:9.\n\nThe silences of Scripture are significant. In the case of this ancient priesthood no mention is made of parenthood. This was a matter of comparative indifference. So with our Lord. It is true that He did not come of the priestly family of Aaron, but this is quite unimportant. The one thing for us to notice is that Abraham paid tithes to Melchizedek, thus confessing him to be the greater. Levi was, so to speak, included in his grandfather’s act, so that the Hebrew priesthood, which sprang from Levi, was confessedly inferior to Melchizedek’s. If, then, Melchizedek is a type of Christ, we are taught that Christ’s priesthood is evidently and eternally superior to all other priesthoods whatsoever."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Our Ever-Living and All-Sufficient Intercessor -- Hebrews 7:11-28\n\nIf, as we saw in our last reading, the Levitical priests have been superseded, clearly the whole order of things-that is, the Mosaic covenant under which these priests were appointed-has been superseded also. The law of the carnal-that is, the outward ritual-has passed away in favor of a new dispensation which deals with the heart and character. It served a temporary purpose, but we are living in an eternal order which is steadfast and abiding.\n\nOur Lord’s priesthood is unchangeable and indissoluble. His blood and righteousness, His mediation for us, His loving understanding of us, will be a joy and comfort in the unending ages. We shall always be specially associated with Him-the brethren of the King, the sheep of the Divine Shepherd. Each priest of Aaron’s line had to vacate his office; but our Lord’s priesthood will never pass to another; and therefore to the uttermost lapse of time and to the farthest demand of circumstance, He will save and help all that come to Him. No infirmity weakens Him, no stain or sin unfits Him-above the heavens and from the throne He exercises His ministry."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 8
+ }
+}

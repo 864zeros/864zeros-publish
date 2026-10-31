@@ -1,0 +1,55 @@
+{
+  "variant": "price",
+  "total_duration": 21.36,
+  "soundtrackWav": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\soundtrack_price.wav",
+  "scenes": [
+    {
+      "id": "price_scene1_hook",
+      "stepLabel": "0-2s Problem Hook",
+      "caption": "Paying monthly rent just to save articles?",
+      "text": "Paying monthly rent just to save articles?",
+      "duration": 2.356009,
+      "durationMs": 2356,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\price_scene1_hook.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\price_scene1_hook_raw.mp3",
+      "start": 0.0,
+      "end": 2.356
+    },
+    {
+      "id": "price_scene2_payoff",
+      "stepLabel": "2-5s Immediate Visual UI Payoff",
+      "caption": "Click Clip in VaultPilot and watch the page save straight into your local folder.",
+      "text": "Click Clip in VaultPilot and watch the page save straight into your local folder.",
+      "duration": 4.26,
+      "durationMs": 4260,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\price_scene2_payoff.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\price_scene2_payoff_raw.mp3",
+      "start": 2.356,
+      "end": 6.616
+    },
+    {
+      "id": "price_scene3_walkthrough",
+      "stepLabel": "5-15s Quick Setup Walkthrough",
+      "caption": "Your notes never touch an external server. Pick your Obsidian or Logseq folder once and capture clean Markdown anytime.",
+      "text": "Your notes never touch an external server. Pick your Obsidian or Logseq folder once and capture clean Markdown anytime.",
+      "duration": 6.876009,
+      "durationMs": 6876,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\price_scene3_walkthrough.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\price_scene3_walkthrough_raw.mp3",
+      "start": 6.616,
+      "end": 13.492
+    },
+    {
+      "id": "price_scene4_cta",
+      "stepLabel": "15-21s Pricing Advantage & CTA",
+      "caption": "No recurring subscriptions\u2014one-time unlock forever. Get VaultPilot on Chrome, Edge, or eight sixty-four zeros dot com.",
+      "text": "No recurring subscriptions\u2014one-time unlock forever. Get VaultPilot on Chrome, Edge, or eight sixty-four zeros dot com.",
+      "duration": 7.868005,
+      "durationMs": 7868,
+      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\price_scene4_cta.wav",
+      "raw_mp3": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\vaultpilot\\social_shorts\\audio\\price_scene4_cta_raw.mp3",
+      "start": 13.492,
+      "end": 21.36
+    }
+  ]
+}

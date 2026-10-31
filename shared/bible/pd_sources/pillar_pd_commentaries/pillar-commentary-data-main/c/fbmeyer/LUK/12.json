@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Secret of Fearlessness -- Luke 12:1-12\n\nThe program of this paragraph seems dark. The leaven of evil always at work; the body tortured and killed; confession difficult, denial easy; the trials before synagogues and rulers; the anxiety of witnessing a good confession. The Lord never hesitated in stating the heavy tribulation through which His disciples must come to the Kingdom.\n\nBut what infinite compensations! Not forgotten by God; our hairs numbered; confessed before the angels; taught how to speak; all sin forgiven! With such comforts, who of us need fear, except only the power of Satan! What infinite sympathy and care our Father has for us! He knows our sorrows, marks every lurch of the boat, and will supply His gracious comfort and help. Why should we flinch before a world in arms, so long as the Son of man stands for us, as He did for Stephen, at “the right hand of God?” The outward man may decay, but the inward man is renewed day by day."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Doom of the Money Lover -- Luke 12:13-21\n\nOur Lord did not come into our world as an earthly judge, adjusting differences between man and man. He lays down great principles, obedience to which will bring heaven into human lives. One of the greatest of these is here enunciated in Luke 12:15. Covetousness is as much a temptation of the poor man who is wronged as of his rich oppressor; and love for money will inevitably, in poor and rich, becloud the vision and disturb the inner peace. The worth of a man cannot be computed by the amount that stands to his credit. Not what you have but what you are!\n\nThat is your value in the eyes of God. Some men live to get; see to it that you live to be.It is absurd to suppose that the soul can take its ease, just because its barns are bursting with goods. Goods are not good! The soul cannot live on corn! Merriment cannot come to a heart that is smitten by remorse and shadowed by the remonstrances of an evil conscience! Besides, we cannot take with us our possessions when we cross the river.\n\nWe can only take our character-our things pass into other hands."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The Cure for Anxious Care -- Luke 12:22-34\n\nNotice this contrast between two kinds of men: the one cares for himself, is anxious for this life, worries about food and clothes and standing a cubit higher in the estimate of his fellows; the other is content to fill the niche and do the work assigned him by the Father. And he performs his life-task, not for the remuneration it will bring, but for the “well-done” of God-sure that all which is needed, whether for his soul or body, will be provided by Him who gave him being. The Father knows thy varied need, trust Him!\n\nDo not think of God as grudging! It is your Father’s good pleasure to give. Nothing delights Him more than to be able to “give good things to them that ask Him.” For Him also “it is more blessed to give than to receive.” Remember that the best investments are those we store, not in banks, etc., but in the lives of others: for God Himself guarantees the interest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "Ever on the Watch -- Luke 12:35-48\n\nThe Lord leads our thoughts on to His advent, when He will call His servants to account. The day may pass into the evening, the evening into the night, and the night may even begin to wear away to the morning, but the faithful servants keep their watch. Their loins are girt to serve, and the house is radiant with their trimmed lights. Presently He comes, and He raises His slaves to sit at His table! They are henceforth His friends-and His highly honored friends-whom He serves with His own hands. The grandeur of the reward seems to have been too much for Peter to grasp, Luke 12:41. Surely it couldn’t be for all. Yes, said our Lord in effect, to all who are faithful to their possibilities and use their position and gifts for others.\n\nHow abrupt and awful the contrast in Luke 12:45-48! The greater our responsibility, the greater our condemnation, if we fail. Retribution is the inevitable penalty of infidelity to trust; but it will be precisely proportioned to our knowledge of the Lord’s will. There are degrees or grades in retribution as in glory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 49,
+    "content": [
+     {
+      "text": "The Great Divider -- Luke 12:49-59\n\nAs Prometheus, in the old Greek fable, brought fire from above in a reed, so Christ brought the fire of the Holy Spirit in the frail lantern of His humanity. But, first, He had to pass through a baptism of tears and blood. He was under pressure to enter it, because impatient to get through with it. Here was the prelude of Calvary. And what was true of our Lord must be true of His Church. Always the sword, always strife, always division, where the gospel begins to ferment like leaven in human hearts.\n\nThe signs of the time pointed to a climax of Hebrew history, for which most of His contemporaries were unprepared. The sands in God’s hour-glass were running out. This was the great requirement of the hour-get right with God. The warning is applicable to us all, but it was specially spoken of the brief interval which, like the silence that precedes a thunder storm, preceded the fall of Jerusalem."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 13
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Nobler Future for the Nation -- Isaiah 31:1-9; Isaiah 32:1-8\n\nIsaiah continues to denounce the contemplated alliance with Egypt. His compatriots put their trust in horses and chariots, and refused the help of their fathers’ God. Yet was He not so wise as the Egyptians, and equally as strong! And were they not running a fearful risk in rejecting One who would not recall His words of threatened punishment to those who refused His help? At best, the Egyptians were men, and not God, and their cavalry, flesh. If only they would trust Him, God would defy their foes, as a lion defies a company of unarmed shepherds, Isaiah 31:4.\n\nThe mother-bird hovers over her brood to protect it from the kestrel; so would He spread His covering wing over Jerusalem, Isaiah 31:5. We may have deeply revolted, yet we may turn back to God with the certainty that He will receive and rescue us, Isaiah 31:6.\n\nSennacherib fell by the sword of his sons. Compare Isaiah 32:8 with 2 Kings 19:36-37. How different is our glorious King, whose many-sided nature meets all our needs! Isaiah 32:2. Before Him all men are unveiled in their true characters. Only those who are royal in heart shall stand before Him, Isaiah 31:8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 32
+ }
+}

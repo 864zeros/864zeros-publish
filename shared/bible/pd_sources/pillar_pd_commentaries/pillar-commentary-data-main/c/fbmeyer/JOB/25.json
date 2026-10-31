@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "How Can Man Be Just before God? -- Job 25:1-6\n\nBildad’s closing speech adds little to the controversy. He suggests simply that Job’s vindications of himself do not imply that he is righteous before God, and, acting upon the philosophy of the time, Bildad prefers to consider that Job is guilty of unrealized sins rather than believe that God has permitted suffering to come to Him unmerited.\n\nThere are some unanswerable questions in this paragraph-suggestions full of helpfulness. God’s armies are numberless-ten thousand times ten thousand, and every angel is pledged to our help. His light shines everywhere, even on the saddest hearts. Not one of us can be just before Him, but we may avail ourselves of the justifying righteousness of Christ, which, as Bunyan says, is always the same, not increased by our good frames of mind or lessened by our bad ones. None of woman born are clean, but the blood of Jesus Christ cleanses from all sin. Moon and stars pale and pass away, but God hath set His heart upon His saints, and hath adopted them into His family. And when the fabric of nature shall have decayed, they shall shine as the sun in the kingdom of their Father."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 26
+ }
+}

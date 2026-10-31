@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Deceived by the Gibeonites -- Joshua 9:1-15\n\nThe presence of common peril forced the nations of Canaan to combine for self-preservation. Would that the various sections of the visible Church might see their way to a similar policy in view of the evil in the world!\n\nGibeon lay five miles north of Jerusalem. The name means “built on a hill.” The Church has suffered more from the wiles of the devil than from his attacks. The deceitfulness of sin is most to be dreaded. Better to meet Caiaphas than Judas, and a black devil than a white one.\n\nHow often we act without asking the counsel of God! Yet when once an oath is taken which does not absolutely conflict with morality, God holds us to it, 2 Samuel 21:1. By this impressive instance we are taught to wait on God before making our decisions, which are apt to become irrevocable, Psalms 127:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "“Hewers of Wood and Drawers of Water” -- Joshua 9:16-27\n\nThe faith of these people was so far rewarded that, while their deception was punished by their reduction to the most menial tasks, yet their lives were spared; and, to a certain degree, they were incorporated with Israel and associated with the service of God’s house. This position made them as unlikely as possible to seduce Israel from loyalty to Jehovah.\n\nThe Gibeonites were afterward known as Nethinim-that is, given. See 1 Chronicles 9:2; Ezra 2:43; Ezra 8:20. If in the earlier part of your life you have made some great mistake which threatens to limit your influence for good, do not sit down in despair, but get service out of it. Let it hew your wood and draw your water!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 10
+ }
+}

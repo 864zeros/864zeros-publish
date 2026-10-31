@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 41,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Parable of the Crocodile -- Job 41:1-34\n\nThe last paragraph described the hippopotamus; the whole of this chapter is devoted to the crocodile. In a series of striking questions the voice of the Almighty suggests his greatness. He is not an animal with whom you can play, or to whom you can speak soft words, or whose skin can be reached withsharpened weapons. His scales, Job 41:12-17; his eyes, mouth, and nostrils, Job 41:18-24; his fearlessness of human attack, Job 41:25-29; his power to lash the sea into a fury, making it to boil, Job 41:30-34 -each of these features is described in graphic terms.\n\nAs before, it is clear that the object is to throw into strong contrast the puniness and littleness of man. We may not be so much given to speculations about the organic world in which we live. But we are able to appreciate the argument. Surely He who tells the number of the stars, and weighs the mountains in scales, will have His pathway through the deep, and His footsteps in mighty waters. Being all that He is, He cannot but baffle the eye of man, but the heart can fully trust Him. We know that He does all things well."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 41
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 40
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 42
+ }
+}

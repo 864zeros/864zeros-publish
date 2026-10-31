@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Open and Empty Tomb -- Matthew 28:1-10\n\nEre the sun had risen and while the glory of the dawn was faint in the Eastern sky, the women were well on their way. But He whom they sought had gone. How often we look down into the grave of the dead past, and into the vault where we have buried twin-souls; or we peer for help into the diaries, prayers and rites of departed saints or a moribund church-but we do not find the Lord. The divine Leader of souls is not behind us, but before; not in the grave of the dead past, but in the van of the world’s march. Lo, he beckons us on to follow the Ascension mountain and the opened heaven!\n\nThe Lord engaged women as messengers of His resurrection. See Psalms 68:11. How eagerly they caught His idea, and with what alacrity they endeavored to fulfill it. And as they went He, for whom they went, met them! It is ever thus. We go on His errands, but we do not leave Him as we go. On the contrary, He meets us. See Isaiah 64:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Great Commission, of the Risen Lord -- Matthew 28:11-20\n\nWhat absurdity in this mendacious explanation! How could the soldiers know who stole the body, if they were asleep? Skeptics have to believe greater marvels than believers. Was it likely that Christ’s friends would have wished to unwind the clothes that covered that sacred body? Would His enemies have taken the time, or forfeited the rich shroud that Joseph’s love provided? Men will believe any lie rather than God’s truth, because their hearts are evil.\n\nThis mountain at the conclusion of our Lord’s life corresponds to the mountain of temptation at the beginning. There He was offered the empire of the world, if only He would take the easy lower path; here He is acknowledged King of the world, because He took the harder one of obedience unto death. This glorious charge to His Church has the ring of universality. It combines the herald and the shepherd, and assures each humble disciple that the day will never dawn, however stormy, on which his Lord will not be near.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Pleading with Faithless Children -- Jeremiah 3:11-25; Jeremiah 4:1-2\n\nThe people of the northern kingdom, to whom this appeal is especially addressed, were more excusable than Judah, because their privileges had been less. God judges us according to our opportunities. How precious the invitation and promise of Jer 3:12! Confession is an essential condition that must be fulfilled by us. See 1 John 1:7. Zion shall yet be the center of a restored Israel, Jeremiah 3:14; Jeremiah 3:18.\n\nIn Jeremiah 3:21-25 the voices of the people in confession and prayer mingle with Jehovah’s encouraging their return. When we lie down in broken-hearted shame and penitence, we are very near to being lifted to the bosom of God. Compare Jeremiah 3:25 with Jeremiah 4:1. The return of the Chosen People to the God of their fathers will be the cause of revival and quickening throughout the earth. Compare Jeremiah 4:2 with Romans 11:12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 5
+ }
+}

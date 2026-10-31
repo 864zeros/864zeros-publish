@@ -6,7 +6,7 @@
   "type": "google-add-ons",
   "name": "FormQR & Barcode — Permanent Static QR & Barcode Generator for Sheets & Drive",
   "summary": "Generate permanent, non-expiring QR codes and Code-128 barcodes from spreadsheet data and save high-resolution graphics directly to Google Drive. Zero tracking redirects, zero subscription fees.",
-  "metaDescription": "FormQR & Barcode generates permanent, scannable QR codes and Code-128 barcodes in Google Sheets and saves them directly to Google Drive. One-time lifetime license.",
+  "metaDescription": "FormQR & Barcode generates permanent, scannable QR codes and Code-128 barcodes in Google Sheets and saves them directly to Google Drive. one-time lifetime license.",
   "icon": "formqr.png",
   "storeUrl": "",
   "video": {
@@ -15,7 +15,7 @@
     "tag": "⏱️ 46s Product Demo",
     "title": "Watch FormQR & Barcode in Action",
     "desc": "Batch generate permanent static QR codes and Code-128 barcodes directly from spreadsheet rows. Save image files into your own Google Drive folder or embed formulas directly into cells.",
-    "sub": "<b>No subscriptions</b> · $7.99 one-time lifetime license · Pay once, keep forever"
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
   },
   "social_shorts": [
     {
@@ -60,7 +60,7 @@
       "Multiple resolution presets (150px, 300px, 600px)",
       "LockService mutex concurrency protection against race conditions",
       "100% private in-account execution via non-restricted scopes",
-      "One-time lifetime license — zero recurring SaaS subscriptions"
+      "one-time lifetime license — zero recurring SaaS subscriptions"
     ]
   }
 }

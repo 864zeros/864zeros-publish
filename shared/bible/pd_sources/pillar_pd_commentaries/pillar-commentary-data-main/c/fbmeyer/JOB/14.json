@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Shall Man Live Again? -- Job 14:1-22\n\nContinuing his appeal, Job looks from his own case to the condition of mankind generally, Job 14:1-6. All men are frail and full of trouble, Job 14:12; why should God bring a creature so weak into judgment with Him? Job 14:3. The sinfulness of man is universal-not one can be proved clean before God, Job 14:4. Since man is so frail Job pleads that he may not have such unwonted affliction, but may get some pleasure, Job 14:6, r.v., out of his brief day.\n\nThe anticipation of death as total extinction strengthens Job’s appeal, Job 14:7-12. Of a tree there is hope that, if cut down, it will sprout again, Job 14:7-9. But at present Job sees no such hope for man. He dies, and is done with, as waters “fail from the sea,” Job 14:10-12. This is a gloomy, despairing thought, and one against which the mind rebels as soon as uttered. Against the belief that death is the end of all things every man’s better nature revolts. Hence the picture of another life beyond the present immediately rises to Job, Job 14:13-15. It may be only a yearning desire, for Job still asks the question, Job 14:14. Yet this desire, as that for a Daysman, Job 9:32-34, both suggested by the heart’s despair, is equally answered by the gospel.\n\nThe hope for a future life is made stronger by the apparent injustices that exist now, Job 14:16-22. God’s treatment of Job appears to be so severe that Job must perish under His hand, Job 14:18-22. A future life is surely necessary to remedy the inequalities of the present. Evidently this is not the place and time of judgment."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 15
+ }
+}

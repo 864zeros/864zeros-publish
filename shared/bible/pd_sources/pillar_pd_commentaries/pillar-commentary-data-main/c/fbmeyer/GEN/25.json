@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abraham’s Death and Burial -- Genesis 25:1-18\n\nAfter being for sixteen years contemporary with his grandsons, Esau and Jacob, Abraham died without owning a foot of land except the cave for which he had paid, as a stranger might. But all was his. He was persuaded of God’s faithfulness, and earnestly reached out his hands toward the City with foundations. See Hebrews 11:13. He was full. Those who had known him in Ur might have looked on his life as a huge failure, and have spoken of him as a fanatic who had sacrificed all for nothing.\n\nBut he was satisfied. He was gathered to his people, a phrase which does not refer to the body, for his people were far away across the desert, but to the recognition and welcome that awaited him on the other side of death. His sons, Isaac and Ishmael, differed widely. The one dwelled by the well, engaged in pastoral pursuits, while the other lived by his own strong hand, in the desert expanse. But they met in their common respect and grief. Births and deaths unite families.\n\nWe all stand today in thankfulness at Lincoln’s cradle."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Jacob and Esau, Twin Brothers -- Genesis 25:19-34\n\nIn the thought of that age, the birthright carried with it the spiritual leadership of the tribe. To be the priest of the family, to stand between the Most High and the rest of the household, to receive divine communications and execute the divine will, and to be in the direct line of the Messiah-such were some of the privileges that gathered around this position. They were nought in Esau’s estimation, and he was quite content to part with all they implied, if only he might have the immediate gratification of appetite. The steaming fragrance of the lentil pottage was sweet in the nostrils of the hungry hunter. We have all passed through such an experience. On the one hand, our self-respect, our true advantage, our God; on the other, passionate desire crying, “Give, give.” In days and hours like that, beware: for you may say a word or do an act that shall determine your future, and, like Esau, you will find no loophole for altering the cast of the die. See Hebrews 12:16."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 26
+ }
+}

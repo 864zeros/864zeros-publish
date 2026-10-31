@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Savior of Mankind Is Born -- Luke 2:1-14\n\nThe manger bed and its precious occupant are among the most cherished memories of our childhood; but as we come there in later life, the wonder ever grows. “Great is the mystery of godliness; God was manifest in the flesh,” 1 Timothy 3:16.\n\nWhat company we meet there! Shepherds with their naive wonder; angels from the realms of glory; wise men with their gifts; aged saints like Simeon and Anna, Surely the desire of all nations is here! Let us ask that the Lord of glory will condescend to be born in the mean stable of our heart, transforming it into a palace!\n\nNotice how, to bring Mary to Bethlehem, the Master of all emperors sets on foot the machinery of providence and history. What can He not do for us and His Church!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Welcomed; Named; Presented -- Luke 2:15-24\n\nFrom April till the autumn the flocks pastured at night in the open fields, from which it seems probable that our Lord must have been born earlier or later than December. No doubt these shepherds were, like Simeon, “waiting for the consolation of Israel,” and their purity of life and simplicity of soul well qualified them to receive the blessed tidings of the angels. First simplicity and afterward science, Matthew 2:1-23, found their way into the presence of Jesus.\n\nIn the act of circumcision, our Lord admitted His obligation to fulfill the whole Law, Galatians 5:3. He was “made under the law, to redeem them that were under the law,” Galatians 4:4-5. Mary could afford only the gift of the poor, Leviticus 12:6-8; Leviticus 5:7-11; 2 Corinthians 8:9. The precious name of Jesus-Savior-is the name above every name, Acts 4:10-12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The Aged Simeon’s Prophetic Blessing -- Luke 2:25-39\n\nTwo aged watchers welcomed the King; but no one else, of all the crowds who went and came, guessed that the Messenger of the Covenant had suddenly come to His Temple, Malachi 3:1-3.\n\nIn the Arctic Circle in summer the visitor will behold the magnificent spectacle, on the same sky, of the hues of sunset and of dawn. Dipping only for a brief period beneath the horizon, the setting sun leaves the glorious trail of sunset, and rising, bathes the eastern clouds with the radiance of dawn. So, when Simeon embraced Christ, sunset and sunrise met. There was the glory of the age that was passing, and the glory of the new Christian age that shall ever stand at perfect noon.\n\nNote the concentric circles of Simeon’s character: a man; a man in Jerusalem-i.e., a Jew; righteous toward his fellows; devout toward God; looking; Spirit-anointed; to whom it was revealed; Christ in his arms. What more could be said?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "The Boy Jesus in the Temple -- Luke 2:40-52\n\n“Solitary floweret,” says Stier, referring to this incident, “gathered from the wonderful enclosed garden of the thirty years and plucked precisely when the swollen bud, at the age of twelve years, was about to burst into flower.”\n\nThe incident is specially valuable as indicating so perfect an understanding between our Lord and His mother. He wondered that, knowing Him as she did, she could have lost Him, or should have failed to seek Him in His Father’s house. The stress is on Wist ye not? Here, however, He seemed to pass into a new attitude toward His life-work. May we not say that He caught sight of its absorbing character, to which all else must be subordinated?\n\nLet us never suppose that we are in the company of Jesus, when, in fact, we may have lost Him. Never rest till you and He have found each other!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 3
+ }
+}

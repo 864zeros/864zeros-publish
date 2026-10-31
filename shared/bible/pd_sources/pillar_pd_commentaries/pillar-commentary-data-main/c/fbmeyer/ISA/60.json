@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 60,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord Glorifies His People -- Isaiah 60:1-14\n\nFrom this chapter and onward, the prophet predicts the glories of the restored Hebrew people. In a secondary sense, they are also true of the Church, for we are blessed with faithful Abraham. See Galatians 3:8-9.\n\nThe summons to arise is addressed to Jerusalem. The seer beholds the flush of dawn on the eastern sky and bids the Holy City catch the earliest beams, Isaiah 60:1-2. While darkness veils the lowlands, the dweller on the plains looks up to the heights of Zion, Isaiah 60:3-4, and finds them bathed in the splendor of dawn. See 2 Corinthians 3:18.\n\nThere is a marvelous attractiveness in real religion. Where that is present, men need no driving. From the Far East come the camels, laden with priceless treasures, and from the distant West the ships laden with costly merchandise. The wastes of many years are rebuilt by the labor of strangers, while kings vie with each other in ministering to the beauty of the chosen city. When you are right with God, He will raise up help from unexpected quarters and even from former foes, Isaiah 60:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "“He Is Their Everlasting Light” -- Isaiah 60:15-22\n\nWhat a graphic delineation is presented in these words of the privileges of the consecrated life! The Mighty One of Jacob becomes its Savior. Thenceforth it is ever ascending in the scale of experience, exchanging the period of stone for that of iron, of iron for silver, and of brass for gold. Anxiety and depression are followed by long and happy years of fulness and joy. Violence and destruction, which, like vandals, hewed and burned, are replaced by salvation and praise. The Lord becomes the everlasting light, and the days of mourning are ended.\n\nDo not think that such an experience is too good to last, and so beautiful that it must be evanescent. When once the dawn of perfect surrender and acceptance breaks, there is no sundown, no shadowed sky, no more sorrow or crying, no more heartbreak or hopelessness. The inheritance is forever! The branch is ever green! The strong nation is destined never again to become small!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 60
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 59
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 61
+ }
+}

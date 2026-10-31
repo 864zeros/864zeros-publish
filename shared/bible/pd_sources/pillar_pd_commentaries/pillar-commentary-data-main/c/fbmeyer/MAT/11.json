@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "How Doubts May Be Solved -- Matthew 11:1-10\n\nThe Baptist was languishing in a gloomy dungeon in the castle of Machaerus, on the farther shores of the Dead Sea-like a wild creature of the desert, suddenly entrapped. The darkness of his cell depressed his spirit; it seemed strange, too, if Jesus were the Messiah, that He did not overthrow the tyrant rule of Herod and release His captive friend.\n\nWhen you are in doubt, go straight to Jesus and ask Him to deal with it! Our Lord did not argue with the messengers sent by John, but pointed to the beneficent works that the Father had given Him to do. See John 5:36; also Isaiah 29:18; Isaiah 35:5-6. The influence of Christ on individuals and the world is the best testimony to the validity of His claims. The demonstration of Christianity is to be found in its acceptance and practice.\n\nThe disciples had gone before our Lord uttered this great eulogium on His faithful friend, lest he should be exalted beyond measure, and lest his faith should not have room to grow. Ah, downcast soul, who art writing hard things of thyself, it may be that thy merciful Lord is viewing thy life more accurately and estimating it more lovingly than thou knowest!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Last of the Prophets -- Matthew 11:11-19\n\nThe least in a higher dispensation has great advantages over the greatest in a lower one. A child on a hill can see farther than a giant in the valley. Many have tried to right the world by violence, by the vehemence of their speech and acts. But it is not so that the Kingdom comes. Its weapon is not the sword, but the cross. Its advent is not as the thunder shower, but as the summer dew or the opening of the dawn.\n\nOur Lord truly estimated the temper of His age. It was fickle, changeable, and hard to please; but beneath its evident superficiality there was a substratum of rock. They refused John because of his austerity, and they refused Jesus because of His human kindness and gentleness. Never trim your sails for the world’s breath. The breeze springs up and soon dies away. Do God’s will!\n\nO sinful brother and sister, can we ever estimate enough the assurance that Jesus is the friend of our souls? He does not disown, withdraw, or reproach. He knows what our temptations are, and makes allowances, and loves us steadfastly forever."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Woe or Welcome -- Matthew 11:20-30\n\nThe voice of upbraiding, Matthew 11:20-24. The Judge weeps as he pronounces the doom of those who reject Him. They would have crowned Him king, but refused to repent. See John 6:15. These cities did not crucify Him, but they had been deaf to His warnings and indifferent to His mighty works. Even where there is no direct opposition, indifference will be sufficient to seal our doom.\n\nThe voice of thanksgiving, Matthew 11:25-27. He “answered” the voice of God within His breast. Babes are those who mistrust the reasonings of their intellect, but trust the instincts and intuitions of their hearts. The child-heart looks open-eyed into all the mysteries of God. Learn to say Yea to all God’s dealings. The Spirit reveals the Son, and the Son the Father. Our Lord must be divine, if only God can know him.\n\nThe voice of pleading mercy, Matthew 11:28-30. Labor is for active manhood; heavy-laden for suffering, patient womanhood. The invitation is to commit and submit; to come and to bow under the yoke of the Father’s will. Submission and obedience are the secrets of the blessed life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 12
+ }
+}

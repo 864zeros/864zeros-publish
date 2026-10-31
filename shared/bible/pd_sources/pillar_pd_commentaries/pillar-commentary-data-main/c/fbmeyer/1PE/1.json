@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1PE",
+  "commentaryId": "fbmeyer",
+  "name": "1 Peter",
+  "commonName": "1 Peter",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Our Imperishable Inheritance -- 1 Peter 1:1-12\n\nScattered strangers! The designation is true of us all. Note the reference to the Trinity involved in the opening sentence. Our inheritance is prepared and kept for us, as we for it. We who believe may count on the guarding power of God. Not till our spirit is joined to a perfected body in the presence of Christ will our salvation be complete.\n\nTrial is manifold. There is more or less of it in every true life. The best diamonds take longer in cutting and polishing. But, after all, compared to the eternity before us, it is but short-lived, and there is a needs-be for all. Hope in 1 Peter 1:3, faith in 1 Peter 1:7, love in 1 Peter 1:8, blend in the joy that is unspeakable and full of the glory which is as yet hidden.\n\nNotice that the prophets, angels and apostles are represented as deeply interested in that glorious salvation which God has declared unto mankind in the gospel, and by which we have been redeemed."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Redeemed and Purified -- 1 Peter 1:13-25\n\nThe appeal for a holy life is enforced by considering the great cost of our redemption and the great hope which is opened before us. Ours must be the girded loins, lest our desires trail after forbidden things, or be sullied by the mud on the road. We must be holy, as God is: and this can be realized only when we allow God, by His Holy Spirit, to pour Himself into our natures.\n\nThere is no fear like that which love begets. We do not fear God with the fear of the slave or felon, but with the fear of the love that cannot endure the thought of giving pain to the loving and loved. Who can think of returning to Egypt, when such a Passover lamb has redeemed us! Our redemption was not an after-thought with God. It is part of an eternal plan; let us not get entangled in the meshes of mere earthly ambition. Notice the familiar combination of faith, hope and love, 1 Peter 1:21-22. But these graces are only indigenous in those who have been twice born by the Spirit through the Word."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 2
+ }
+}

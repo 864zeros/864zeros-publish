@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Both Repentance and Fruitfulness Required -- Luke 13:1-9\n\nOur Lord did not hesitate to hang great lessons on passing events. It is a great art to lead men’s thoughts from the outward and transient to the unseen and eternal. God often gives us texts in the happenings of His providence, and when men’s hearts are awed and softened there is a conspicuous opportunity for striking home.\n\nWe have no right to suppose that sudden disasters prove the presence of special sin in those who are involved in them. Sin is avenged in this life, but rather in the natural sequences than by some sudden “act of God.” Accidents are not necessarily punishments, and we who witness the sad fate of others have no right to congratulate ourselves on our moral or spiritual superiority. Instead of judging others, let us look to ourselves and repent.\n\nThe parable of the fig-tree, with its three years of effort to secure fruitfulness, was intended primarily for the Jewish nation favored with our Lord’s three years of ministry. But it is of universal application. God is always seeking fruit; love is ever pleading, but sometimes may have to acquiesce in judgment."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Good Work for the Sabbath -- Luke 13:10-17\n\nThere was in this woman a noble principle which led her to persevere in attending God’s house, although there was much to discourage her. Probably she was animated by a faith which made her specially susceptible to the healing word of Christ. Infirmity of any kind should drive us to the house of God. We shall meet Jesus there. When He says, loosed, all the powers of hell cannot bind us down. “He breaks the power of cancelled sin.”\n\nThe charge of Sabbath-breaking by these men was very unreasonable, because on that very morning each of them had unloosened his beast to lead him to the wellhead. And if it was not wrong, in their judgment, to untie a beast, surely it would not be wrong to untie the knotted disease that bound this woman’s head to her feet by an invisible thong! Great human needs must have precedence over the observance of details of ritual."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Penalty of Neglected Opportunity -- Luke 13:18-30\n\nNotice here the inward movement and the outward effect of the gospel whether in the heart or in the world of men. The garden and the kitchen, the lives of men and women, respectively yield the same lesson. Though the seed of the divine nature is sown in secret, it cannot remain secret, but works its way into manifestation. Man’s method is from without inward; God’s, from within outward. You cannot estimate the results when a little child receives the incorruptible seed, 1 Peter 1:23.\n\nBut the entrance into the full power and blessedness of Christ is by a narrow way. The strait gate is open to all, but it means that we have to deny and leave behind all that is carnal, whether good or bad in the estimate of men, so that the divine life may have the entire field. Merely to eat and drink in Christ’s presence betrays a self-indulgence which is foreign to His Spirit. You may sit at the Lord’s table and yet be a worker of iniquity! We may be first in privilege, but last in grace. Luke 13:29-30 remind us of Act 10:34-35 and Romans 2:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "The Lament for Those Who “Would Not” -- Luke 13:31-35; Luke 14:1-6\n\nOur Lord was at that time in Perea, in the jurisdiction of Herod, who probably desired to get rid of Him, lest His presence should introduce political complications. Our Lord saw through and exposed his stratagem. How awful to be read by the light of divine purity! He also kept His eye on heaven’s dial-plate, and knew that He was immortal till His work was done.\n\nJerusalem was clearly indicated as the scene of His death; and the city was already so deeply dyed with martyr blood that it would hardly have been congruous for Him to suffer anywhere else. Note that pathetic wail of disappointed love. God’s brooding love desires to interpose between us and the hovering peril; but we have the awful power to neglect or reject the covering wings of the Shechinah. See Rth 2:12 and Psalms 91:4.\n\nIn Luke 14:1-6 we have a specimen of Christ’s table-talk, which He continues through the Luke 14:24. Though He knew that He was being watched, nothing could stanch His power and love. If men care for their beasts, how much more will Christ care for men!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 14
+ }
+}

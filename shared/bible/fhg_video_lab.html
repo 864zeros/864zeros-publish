@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>FHG Video & Living Sanctuary Lab — Google Flow (4s) × Studio Sketch × OmniClip</title>
+<style>
+  :root {
+    --bg: #f6f1e7;
+    --card: #fdfaf3;
+    --ink: #2b2118;
+    --muted: #6e5a47;
+    --accent: #8c5828;
+    --pill: #efe6d5;
+    --border: #dcd0bc;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.5;
+  }
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(246, 241, 231, 0.96);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 28px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 14px;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 21px;
+  }
+  header p {
+    margin: 4px 0 0;
+    font-size: 13px;
+    color: var(--muted);
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+  .nav-links a {
+    text-decoration: none;
+    color: var(--ink);
+    background: var(--pill);
+    border: 1px solid #cbbba4;
+    padding: 7px 13px;
+    border-radius: 8px;
+    font-family: system-ui, sans-serif;
+    font-size: 12.5px;
+    font-weight: 700;
+    margin-left: 6px;
+  }
+  .nav-links a:hover {
+    background: var(--ink);
+    color: #fff;
+  }
+  main {
+    max-width: 1380px;
+    margin: 28px auto 80px;
+    padding: 0 24px;
+  }
+  .section-banner {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-left: 5px solid var(--accent);
+    border-radius: 12px;
+    padding: 18px 22px;
+    margin-bottom: 26px;
+  }
+  .section-banner h2 {
+    margin: 0 0 6px;
+    font-size: 19px;
+  }
+  .section-banner p {
+    margin: 0;
+    font-size: 14px;
+    color: var(--muted);
+    font-family: system-ui, sans-serif;
+  }
+  .video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(560px, 1fr));
+    gap: 24px;
+    margin-bottom: 36px;
+  }
+  .video-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 4px 14px rgba(43, 33, 24, 0.06);
+    display: flex;
+    flex-direction: column;
+  }
+  .video-card-header {
+    padding: 14px 18px;
+    background: #efe7d8;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: system-ui, sans-serif;
+  }
+  .code-pill {
+    background: var(--ink);
+    color: #fff;
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 3px 9px;
+    border-radius: 6px;
+    letter-spacing: 0.03em;
+  }
+  .token-pill {
+    background: #e2f0d9;
+    color: #275317;
+    border: 1px solid #b5d6a7;
+    font-size: 11.5px;
+    font-weight: 700;
+    padding: 3px 9px;
+    border-radius: 6px;
+  }
+  .video-stage {
+    background: #1c1611;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 340px;
+    max-height: 540px;
+  }
+  .video-stage video {
+    width: 100%;
+    max-height: 520px;
+    display: block;
+  }
+  .video-body {
+    padding: 16px 20px;
+    font-family: system-ui, sans-serif;
+  }
+  .video-body h3 {
+    font-family: 'Georgia', serif;
+    margin: 0 0 6px;
+    font-size: 17.5px;
+  }
+  .video-body p {
+    margin: 0 0 10px;
+    font-size: 13.5px;
+    color: #544332;
+  }
+  .recipe-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .recipe-tag {
+    background: var(--pill);
+    color: var(--ink);
+    font-size: 11.5px;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-family: ui-monospace, Consolas, monospace;
+  }
+
+  /* Interactive Hover/Click Living Parchment Widget */
+  .interactive-demo-wrap {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(520px, 1fr));
+    gap: 24px;
+    margin-bottom: 36px;
+  }
+  .living-frame {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 2px solid #8c5828;
+    cursor: pointer;
+    background: #f4efe6;
+    box-shadow: 0 6px 20px rgba(43,33,24,0.1);
+  }
+  .living-frame img.sketch-layer {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 2;
+    transition: opacity 1.3s ease-in-out;
+  }
+  .living-frame video.veo-layer {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .living-frame.active img.sketch-layer {
+    opacity: 0;
+  }
+  .living-badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 3;
+    background: rgba(43, 33, 24, 0.88);
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-family: system-ui, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    pointer-events: none;
+  }
+  .sketch-strip {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 14px;
+  }
+  .sketch-tile {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: system-ui, sans-serif;
+  }
+  .sketch-tile img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block;
+  }
+  .sketch-tile div {
+    padding: 8px 10px;
+    font-size: 12px;
+    font-weight: 700;
+  }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>🎬 FHG Video &amp; Living Sanctuary Lab — All 5 Creative Formats</h1>
+    <p>Powered by your 4-Second Google Flow (Veo) Jerusalem Plates + FHG 19-Variation Studio Engine + OmniClip</p>
+  </div>
+  <div class="nav-links">
+    <a href="fhg_animals_gallery.html">🐑 P4 Animals Gallery (69 Plates)</a>
+    <a href="bible_study_viewer.html">📖 Bible Study Warehouse</a>
+    <a href="framework/poc_sanctuary_reader.html">🕊️ Public Sanctuary Reader</a>
+  </div>
+</header>
+
+<main>
+  <!-- Interactive Web Feature #5: Click/Hover Living Parchment Widget -->
+  <div class="section-banner">
+    <h2>✨ Option 0 (Interactive Web Widget): The “Living Sanctuary” Sketch-to-Video Frame</h2>
+    <p><strong>Click or Hover over either parchment sketch below</strong> to watch the hand-drawn FHG sketch dissolve in real time into your live 4-second Google Flow video! This can be embedded directly inside <code>poc_sanctuary_reader.html</code> and <code>bible_study_viewer.html</code>.</p>
+  </div>
+
+  <div class="interactive-demo-wrap">
+    <div>
+      <div class="living-frame" id="lf1" onclick="toggleLiving('lf1', 'vid_lf1')" onmouseenter="startLiving('lf1', 'vid_lf1')" onmouseleave="stopLiving('lf1', 'vid_lf1')">
+        <span class="living-badge">🪄 Hover or Click: V1 Blotchy Sketch → Live Second Temple Flight</span>
+        <img class="sketch-layer" src="videos_showcase/flow_temple_v1_blotch.jpg" alt="Second Temple Sketch" />
+        <video class="veo-layer" id="vid_lf1" src="videos_showcase/opt1_ink_to_life_second_temple_16x9.mp4" muted loop playsinline></video>
+      </div>
+    </div>
+    <div>
+      <div class="living-frame" id="lf2" onclick="toggleLiving('lf2', 'vid_lf2')" onmouseenter="startLiving('lf2', 'vid_lf2')" onmouseleave="stopLiving('lf2', 'vid_lf2')">
+        <span class="living-badge">🪄 Hover or Click: V12 Ukiyo-e Loop Sketch → Live Jerusalem Street</span>
+        <img class="sketch-layer" src="videos_showcase/flow_street_v12_nb_loop_c3.jpg" alt="Jerusalem Street Sketch" />
+        <video class="veo-layer" id="vid_lf2" src="videos_showcase/opt4_two_shot_jerusalem_story_16x9.mp4" muted loop playsinline></video>
+      </div>
+    </div>
+  </div>
+
+  <!-- Rendered MP4 Video Prototypes #1 - #4 -->
+  <div class="section-banner">
+    <h2>🎥 Rendered Video Prototypes (Options 1–4 · With Sanctuary Voiceover &amp; Ambient Strings)</h2>
+    <p>Press Play on any of the 4 rendered MP4 videos below to experience how a 4-second clip becomes a complete 8s–15s Sanctuary deliverable at zero extra token cost.</p>
+  </div>
+
+  <div class="video-grid">
+    <!-- Option 1 -->
+    <div class="video-card">
+      <div class="video-card-header">
+        <span class="code-pill">OPTION 1 · 16:9 HERO (11.2s)</span>
+        <span class="token-pill">1 × 4s Clip → 11.2s Ink-to-Life</span>
+      </div>
+      <div class="video-stage">
+        <video controls preload="metadata" poster="videos_showcase/flow_temple_v1_blotch.jpg">
+          <source src="videos_showcase/opt1_ink_to_life_second_temple_16x9.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div class="video-body">
+        <h3>1. The “Ink-to-Life” Living Parchment Dissolve (Psalm 122:1–2)</h3>
+        <p>Opens on the exact Frame-0 <strong>V1 Blotchy Ink-Wash Sketch</strong> with a parchment Scripture card, dissolves over 1.6 seconds into the live Google Flow Second Temple flight slowed to 50% optical speed, accompanied by ambient Temple strings and Sanctuary voiceover.</p>
+        <div class="recipe-tags">
+          <span class="recipe-tag">[V1 · Blotchy]</span>
+          <span class="recipe-tag">[L0 · Anchor]</span>
+          <span class="recipe-tag">[M1 · Temple Mount]</span>
+          <span class="recipe-tag">16:9 YouTube / Web Header</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Option 2 -->
+    <div class="video-card">
+      <div class="video-card-header">
+        <span class="code-pill">OPTION 2 · 3× VERTICAL EXTRACTOR (8.0s)</span>
+        <span class="token-pill">1 × 16:9 Clip → 3 × 9:16 Shorts</span>
+      </div>
+      <div class="video-stage">
+        <video controls preload="metadata" poster="videos_showcase/flow_temple_v6_ukiyoe_c3.jpg">
+          <source src="videos_showcase/opt2_triple_9x16_crop_multiplier.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div class="video-body">
+        <h3>2. Triple 9:16 Vertical Extraction from One 16:9 Landscape Plate</h3>
+        <p>Demonstrates how a single high-resolution 16:9 Google Flow clip simultaneously yields <strong>three completely different 9:16 vertical Shorts</strong>: (A) Kidron Olive Groves &amp; Pilgrim Road, (B) Gilded Sanctuary &amp; Altar Smoke, and (C) Dynamic Pan across the Jerusalem Gates.</p>
+        <div class="recipe-tags">
+          <span class="recipe-tag">3× Token Multiplier</span>
+          <span class="recipe-tag">9:16 Shorts / Reels / TikTok</span>
+          <span class="recipe-tag">50% Slow-Mo</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Option 3 -->
+    <div class="video-card">
+      <div class="video-card-header">
+        <span class="code-pill">OPTION 3 · OMNICLIP 9:16 SHORT (11.5s)</span>
+        <span class="token-pill">Split-Screen Veo + Sketch + [O2]</span>
+      </div>
+      <div class="video-stage">
+        <video controls preload="metadata">
+          <source src="videos_showcase/opt3_omniclip_9x16_split_sanctuary_short.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div class="video-body">
+        <h3>3. OmniClip 9:16 Split-Screen Sanctuary Short (Luke 19:41)</h3>
+        <p>Vertical 9:16 social format combining the live <strong>Jerusalem Marketplace Street</strong> tracking shot on top, the <strong>FHG Sanctuary Plain Chapter Overview (<code>O2</code>)</strong> with bronze superscript citations (<code>¹</code>, <code>²</code>) in the center, and the matching <strong>V12 Non-Blotch Loop × Ukiyo-e Sketch</strong> on the bottom.</p>
+        <div class="recipe-tags">
+          <span class="recipe-tag">[O2 · CH-MH]</span>
+          <span class="recipe-tag">[T4 · FHG-SP]</span>
+          <span class="recipe-tag">[V12 · Loop × C3]</span>
+          <span class="recipe-tag">OmniClip 9:16 Preset</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Option 4 -->
+    <div class="video-card">
+      <div class="video-card-header">
+        <span class="code-pill">OPTION 4 · 2-SHOT DOCUMENTARY (14.5s)</span>
+        <span class="token-pill">Aerial + Street + 2 Sketches</span>
+      </div>
+      <div class="video-stage">
+        <video controls preload="metadata" poster="videos_showcase/flow_street_v1_blotch.jpg">
+          <source src="videos_showcase/opt4_two_shot_jerusalem_story_16x9.mp4" type="video/mp4" />
+        </video>
+      </div>
+      <div class="video-body">
+        <h3>4. “Entering Jerusalem” Two-Shot Documentary Story (Macro → Micro)</h3>
+        <p>Weaves both of your 4-second Google Flow clips and their Frame-0 sketches into a 14.5-second documentary arc: <strong>Ukiyo-e Temple Sketch → Live Temple Aerial Flight → Blotchy Marketplace Street Sketch → Live Marketplace Street Walk</strong>.</p>
+        <div class="recipe-tags">
+          <span class="recipe-tag">Macro → Micro Grammar</span>
+          <span class="recipe-tag">[V6 · Ukiyo-e] + [V1 · Blotchy]</span>
+          <span class="recipe-tag">Long-Form Chapter Intro</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Widescreen Studio Sketches Extracted from Frame 0 -->
+  <div class="section-banner">
+    <h2>🎨 Frame-0 Widescreen Studio Sketches Rendered from Your 2 Flow Videos</h2>
+    <p>Every Google Flow video automatically yields pixel-aligned 16:9 widescreen FHG Studio Sketches across our <code>V1–V19</code> variations:</p>
+  </div>
+
+  <div class="sketch-strip">
+
+      <div class="sketch-thumb"><img src="videos_showcase/flow_partridge_perched_v1_blotch.jpg"><div class="cap">Partridge Perched · V1 Blotchy (Default)</div></div>
+      <div class="sketch-thumb"><img src="videos_showcase/flow_partridge_perched_v6_ukiyoe_c3.jpg"><div class="cap">Partridge Perched · V6 Ukiyo-e (C3)</div></div>
+      <div class="sketch-thumb"><img src="videos_showcase/flow_partridge_soaring_v1_blotch.jpg"><div class="cap">Partridge Soaring · V1 Blotchy</div></div>
+      <div class="sketch-thumb"><img src="videos_showcase/flow_partridge_soaring_v6_ukiyoe_c3.jpg"><div class="cap">Partridge Soaring · V6 Ukiyo-e (C3)</div></div>
+
+    <div class="sketch-tile">
+      <img src="videos_showcase/flow_temple_v1_blotch.jpg" alt="Temple V1 Blotchy" />
+      <div>Second Temple · V1 Blotchy (Default)</div>
+    </div>
+    <div class="sketch-tile">
+      <img src="videos_showcase/flow_temple_v6_ukiyoe_c3.jpg" alt="Temple V6 Ukiyo-e" />
+      <div>Second Temple · V6 Ukiyo-e (C3)</div>
+    </div>
+    <div class="sketch-tile">
+      <img src="videos_showcase/flow_temple_v10_prussian_c4.jpg" alt="Temple V10 Prussian" />
+      <div>Second Temple · V10 Prussian Blue (C4)</div>
+    </div>
+    <div class="sketch-tile">
+      <img src="videos_showcase/flow_temple_v12_nb_loop_c3.jpg" alt="Temple V12 Loop C3" />
+      <div>Second Temple · V12 Non-Blotch Loop (C3)</div>
+    </div>
+    <div class="sketch-tile">
+      <img src="videos_showcase/flow_street_v1_blotch.jpg" alt="Street V1 Blotchy" />
+      <div>Jerusalem Street · V1 Blotchy (Default)</div>
+    </div>
+    <div class="sketch-tile">
+      <img src="videos_showcase/flow_street_v6_ukiyoe_c3.jpg" alt="Street V6 Ukiyo-e" />
+      <div>Jerusalem Street · V6 Ukiyo-e (C3)</div>
+    </div>
+    <div class="sketch-tile">
+      <img src="videos_showcase/flow_street_v10_prussian_c4.jpg" alt="Street V10 Prussian" />
+      <div>Jerusalem Street · V10 Prussian Blue (C4)</div>
+    </div>
+    <div class="sketch-tile">
+      <img src="videos_showcase/flow_street_v12_nb_loop_c3.jpg" alt="Street V12 Loop C3" />
+      <div>Jerusalem Street · V12 Non-Blotch Loop (C3)</div>
+    </div>
+  </div>
+</main>
+
+<script>
+function startLiving(frameId, vidId) {
+  const f = document.getElementById(frameId);
+  const v = document.getElementById(vidId);
+  f.classList.add('active');
+  v.play().catch(() => {});
+}
+function stopLiving(frameId, vidId) {
+  const f = document.getElementById(frameId);
+  const v = document.getElementById(vidId);
+  f.classList.remove('active');
+  v.pause();
+}
+function toggleLiving(frameId, vidId) {
+  const f = document.getElementById(frameId);
+  if (f.classList.contains('active')) {
+    stopLiving(frameId, vidId);
+  } else {
+    startLiving(frameId, vidId);
+  }
+}
+</script>
+</body>
+</html>

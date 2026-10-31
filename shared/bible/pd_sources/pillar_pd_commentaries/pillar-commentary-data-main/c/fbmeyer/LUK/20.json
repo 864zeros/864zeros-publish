@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Unanswered Question -- Luke 20:1-8\n\nWhen anyone has received a divine commission, he does not need to prove it. His credentials are written large upon his life and message. It was so with John the Baptist. There was no need for him to argue his claims. The crowds in the Jordan valley; the multitudes in the baptismal waters, were sufficient to attest him as God’s servant. What he said about God and sin found corroboration in their hearts.\n\nSo it was with our Lord. The masses of people that followed Him and hung on His words had no doubt that He was the heir of the vineyard. The leaders professed to doubt it, because, to use the language of the parable that follows, they were reluctant to surrender their claims to the ownership of the vineyard. Probably, sufficient stress has not been laid upon the supreme intellectual power of our Lord, which shone out so clearly in these conflicts with Hebrew casuists, and in which He always came off conqueror, by the sheer force of His mind. “We have the mind of Christ!”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "“The Stone Which the Builders Rejected” -- Luke 20:9-18\n\nThe vineyard represents the privileges and blessings of the Hebrew race. The servants are evidently the prophets and others sent from God. Whatever our position in life, God expects a revenue from it. We are not owners, but tenants; not proprietors, but stewards. Are you sure that you are giving God the dues which He may justly claim?\n\nNotice how our Lord severs Himself from all human messengers, as the Son. When He said my beloved Son, He anticipated John 3:16. The warm kiss of the father’s love was on His cheek. He realized that He was the heir, Hebrews 1:2; Romans 8:17.\n\nIt is said that in the building of Solomon’s Temple, a valuable carved stone was cast aside and neglected, till a part of the structure absolutely called for it. You may build society as you like, but there will come a time when Christ will be needed to give the finishing touch."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Tribute to Caesar and to God -- Luke 20:19-26\n\nFearing to touch Him themselves, and finding no foothold against Him according to the Mosaic law, His enemies sought to bring Christ into collision with the civil power. To do this, no hypocrisy was too mean.\n\nSo poor was our Lord that He must needs ask them to furnish the penny or drachma. Caesar has a certain claim on us. He has earned certain rights of homage and tribute by preserving the good order of society and the safety of our persons; but there his authority ends. When he intrudes into the realm of conscience, he is a usurper. In that kingdom he has no claims whatever.\n\nWe must give Caesar his dues. They can be paid in the coin of earth’s mintage; but he has no claim on our conscience, faith, love. These bear the mint-mark of God, and to God they must be rendered. Ah, soul! Thou belongest to the great King; thou art stamped with His image and superscription! Give Him thyself!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "The God of the Living -- Luke 20:27-40\n\nHere our Lord answers the materialism of His time. He speaks with the note of absolute certainty concerning the unseen, Hebrews 11:27. Its inhabitants do not die or marry, nor are they subject to the conditions of our earthly life. These are the children of the resurrection. What an inspiring title! May it be applied to us as in Colossians 3:1-4? Too many are “the sons of this age,” Luke 20:34, r.v., margin! They adopt this transient earth as their foster parent! We cannot belong to both, though some, like Bunyan’s waterman, row in one direction, while they look in another.\n\nHow wonderful to find a proof of immortality in that passage about the bush, Exodus 3:6! The fact that Jehovah said, “I am the God of Abraham,” proved that the patriarch was in existence somewhere at that moment. Those whom we describe as dead are living people who have died. Death is but a passage, a step. There is no break in the chain of existence. Yonder and here all live unto God, Romans 14:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "David’s Lord Testing Men and Women -- Luke 20:41-47; Luke 21:1-4\n\nIt was the Master’s turn to question. As man, He was David’s descendant and son; as the Son of God, He was his Lord. Though it sealed His doom, our Lord tore the veil from before these hypocrites, that when He had passed, His followers might be warned against these sunken rocks, Jude 1:12.\n\nWe note the difference between the false teachers, who devoured widows’ houses, and the true Leader and Teacher, who set so high a value on a widow’s gift. Our gifts to God should cost us something, else they are not reckoned in the accounts of eternity. The real value of a gift is to be estimated by what is left behind. Remember that the fragrance and beauty of this act have lasted, while the stones of the Temple have crumbled to dust. Holy deeds are imperishable! Jesus is still sitting by the treasury, watching and estimating our gifts."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 21
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Courage Promised to a Fearful Messenger -- Jeremiah 1:1-19\n\nGod has a distinct purpose for each life, and our one aim should be to discover and work out His plan. See Psalms 139:16; Galatians 1:15. The sanctification here referred to applies to office rather than to character, and means set apart. See John 17:19. Jeremiah was very young, and shrank from the responsibility of the great mission entrusted to him. Thus it has been with the noblest, Exodus 4:10.\n\nBut that is godly fear indeed which casts us back on God. He never gives a commission without assuming the responsibility of its execution in, and with, or through, us. Powers of utterance are specially His gift, Isaiah 6:7; Acts 6:10; 1 Corinthians 1:5. The almond tree in Hebrew is the wakeful tree. It awakes from the winter sleep earlier than others, flowering in January and fruiting in March. It indicated the swiftness of God’s movement.\n\nThe boiling pot is the symbol of war. The promises of Jer 1:18-19 are very precious to all who are called to stand in the breach and charge men with their sins."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 66
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 2
+ }
+}

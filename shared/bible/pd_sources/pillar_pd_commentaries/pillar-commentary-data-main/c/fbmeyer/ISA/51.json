@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 51,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Awake, O Arm of Jehovah!” -- Isaiah 51:1-11\n\nThis chapter is extremely dramatic. We are conscious that we are nearing a revelation of unparalleled sublimity. As we hear the thrice Hearken in Isaiah 1:1-8, and the thrice Awake, Isaiah 51:9, which follows, we realize that we are traversing the entrance portico of a noble temple. When God says, Hearken, it is for us to ask Him to fulfill-Awake!\n\nRecall the loneliness of Abraham. “He was but one!” Terah died, Lot dropped away, Hagar was thrust out, Isaac was laid on the altar, but the fire that burned in his heart only grew brighter. Do not despair if you are alone in your stand for God. One acorn, when the life of Nature touches it, may become parent to a forest. These exiled Jews hardly dared to hope that they could escape from their foes. The air was heavy with their revilings, but compare Isaiah 51:8 with Isaiah 50:9. With such assurances we may face a world in arms. The forces of evil are strong, but God is stronger. The clouds threaten, but the sun is shining. Don’t forget the Lord thy Maker, thy Redeemer, thy Father! He cannot fail or forsake!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“The Captive Exile Shall Be Loosed” -- Isaiah 51:12-23\n\nDuring the Sepoy mutiny in India, when a number of English men and women were shut up in a quarter of Cawnpore, expecting a terrible death by assault or slow starvation, a torn page of the Bible, containing this passage, was found on the street pavement and was of unspeakable comfort. Oh, the blessedness of appropriating Isaiah 51:16! See Isaiah 49:7.\n\nWe are too apt to forget that God pleads the cause of His people, even when they have sinned and have reduced themselves to sore straits, Isaiah 51:17 and Isaiah 51:22. We think more of the earth than of the over-arching skies; of the fading grass than of the tree of Life; of man than of God. The near obscures the distant, and the flaring earth lights, the shine of the stars! Root yourself in God! Think of Him who sits at the right hand of the throne, the seat of resistless, ceaseless energy! Believe that God has placed Himself between you and all enemies and circumstances which threaten. To fear all day is impossible in face of these paragraphs."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 51
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 50
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 52
+ }
+}

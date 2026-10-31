@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "fbmeyer",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Why Will Ye Die?” -- Ezekiel 33:1-16\n\nThe prophet depicts the peasantry of a fertile valley as engaged in pastoral pursuits. It is a peaceful, happy scene; but, creeping through the mountain passes, are their deadliest foes. How necessary that there should be a watchman, trumpet in hand, to give notice; and how unspeakable his guilt if he forbear to sound a warning! We are not responsible for those who refuse to take warning from our announcements, faithfully given; but if we perceive a soul in mortal danger and forbear to warn it, we are not only responsible for its ruin, but we bring awful retribution upon ourselves. Well might Richard Baxter lie awake at night beneath his awful sense of responsibility for the souls of men. God desires our salvation. If only the sinner will confess his sins to the faithful and merciful High Priest, and make such restitution as he can, not one of his sins shall be remembered against him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 34
+ }
+}

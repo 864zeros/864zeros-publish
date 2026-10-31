@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Tempted by the Devil -- Matthew 4:1-11\n\nThen marks the close connection between the heavenly voice of the baptism and the fiery ordeal of the forty days. Notice that temptation is not in itself sin; only when the evil suggestions of the tempter are harbored do they become sin. Notice also that all around us is a dark region of evil, out of which temptations arise. Whenever you have received a conspicuous revelation, you may expect a time of testing. This is God’s way of rooting the trees in the soil, and burning in the fair colors which He paints on the vessels that are being made meet for His use.\n\nThe first temptation was that our Lord should use for His physical needs the power which had been entrusted to Him, as Son of man, for the service of men. The second was an effort to incite Him to act presumptuously, at the dictate of self-will and apart from the clear guidance of God’s Spirit. The third was to attain the throne by a wrong method. It was only by the cross that He could win power to rule and save. See Hebrews 4:15-16; Hebrews 5:8-9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Light Begins to Shine -- Matthew 4:12-17\n\nOur Lord’s earliest ministry seems to have been centered in Jerusalem and its contiguous villages. See John 2:1-25; John 3:1-36. But on the news of the Baptist’s imprisonment, He took up His testimony to the hearers of the heavenly kingdom, which is the reign of God over the hearts and lives of men. Someone has said that it is “the universal awareness of God.” Yet there was a difference! At the commencement of His work, the Savior showed a tenderness and a winsomeness which were very inviting to the crowds of harried sheep. See Matthew 9:36.\n\nHis ministry resembled the gentle, holy dawn that breaks over the mountains and dispels the black shadows of the night. The evangelist quotes the prophet’s anticipation of the coming of Him who is called “Wonderful, Counselor, the Mighty God.” Oh, do not be afraid when Jesus comes to your heart! You may be as far away from goodness and purity as Naphtali and Zebulun from Jerusalem, but Galilee of the Gentiles is included in John 3:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Opening Works of Mercy and Power -- Matthew 4:18-25\n\nWe must read the first chapter of John into the opening paragraph. Already the Lord had met with these first disciples in the Jordan valley; but they had returned to their homes and nets. Their prompt surrender was the result of the power over their hearts which the Master had already won. Their old craft was to be theirs still-only in a nobler form. The patience, courage, tact which had been elicited by their calling, were now to be enlisted in the service of souls.\n\nThe evangelist then groups together the broad features of the early Galilean ministry. It was a triumphal progress. Notice the reiteration of all, Matthew 4:23. The words struggle to convey the wide comprehensiveness of Christ’s influence, even across the border. When the love of God came to our world in the person of Jesus, it immediately began to repair the havoc and damage which sin had caused. There was no hesitation or questioning where it was God’s will to heal. Let us always take that for granted for ourselves and others."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 5
+ }
+}

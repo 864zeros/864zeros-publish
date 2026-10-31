@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "fbmeyer",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Children and Parents; Servants and Masters -- Ephesians 6:1-12\n\nWhere our religion is true, it will affect every relationship in life. The love of Christ must find its manifestation in nursery and in kitchen, in workshop and in municipal chamber. But notice that its duties are reciprocal. We must give on our side, just as we expect others to give on theirs.\n\nThe first duty of children is obedience. They must be taught to obey because it is right, and their conscience bears witness to the rightness. Never plead with a child to do what is right, nor bribe it by a reward. Take your stand on that primeval sense of right and wrong, which is the foundation of morals and will be the stay of the child’s whole after-life, when once its supremacy is established. But parents should help their children by removing irritation or passion from their own speech. Slaves formed a large proportion of the early Church.\n\nTheir obedience must be explicit, and they were taught to believe that Christ took their faithful service to their earthly owner as service to Himself. But masters must ever deal with their servants as liable to be called to account by the great Master of all. The center of all authority is Christ, and He will demand an account of our treatment of every servant He has sent into our homes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "“Finally, Be Strong in the Lord” -- Ephesians 6:13-24\n\nMany would be strong, but fail because they forget that they can be effectively so only “in the Lord, and in the strength of His might.” Paul had a very vivid conception of the powerful forces that are arrayed against the Church. He is not dealing here especially with our personal temptations, but with those hosts of wicked spirits that lie behind the evil of the world. It is probable that the vast systems which oppose the gospel-the philosophies, temples, and priests of false religions; the trade in strong drink, impurity, and like evils; and such iniquitous institutions as the system of indentured slavery-are directly promoted and furthered by the agency of evil spirits in arms against God.\n\nWe must be pure and holy, if we are to prevail against evil; and especially must we give ourselves to prayer. To prevail in this warfare we must diligently employ the weapon of all prayer. Tychicus carried this letter. He was faithful to the end, Acts 20:4; 2 Timothy 4:12. The Epistle closes, as it began, with uncorrupted, that is, pure and eternal, love. Alford says, “This is the only truth worthy to be the crown and climax of this glorious Epistle.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 1
+ }
+}

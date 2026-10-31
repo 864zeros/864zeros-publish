@@ -13,10 +13,55 @@
     "count": 5
   },
   "verses": [
-    { "book": "2 Peter", "chapter": 1, "citation": "2 Peter 1:3", "text": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:", "plain": "His divine power has given us everything we need for life and godliness, through our knowledge of him who called us by his own glory and goodness." },
-    { "book": "2 Peter", "chapter": 1, "citation": "2 Peter 1:4", "text": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.", "plain": "Through these he has given us his very great and precious promises, so that through them you may share in the divine nature, having escaped the corruption in the world caused by evil desires." },
-    { "book": "2 Peter", "chapter": 2, "citation": "2 Peter 2:9", "text": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:", "plain": "the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment." },
-    { "book": "2 Peter", "chapter": 3, "citation": "2 Peter 3:9", "text": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.", "plain": "The Lord is not slow in keeping his promise, as some understand slowness. Instead, he is patient with you, not wanting anyone to perish, but everyone to come to repentance." },
-    { "book": "2 Peter", "chapter": 3, "citation": "2 Peter 3:18", "text": "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.", "plain": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever!" }
+    {
+      "book": "2 Peter",
+      "chapter": 1,
+      "citation": "2 Peter 1:3",
+      "text": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
+      "plain": "His divine power has given us everything we need for life and godliness, through our knowledge of him who called us by his own glory and goodness.",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in an oil lamp shining in a rough-walled stone room at dawn",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 1,
+      "citation": "2 Peter 1:4",
+      "text": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+      "plain": "Through these he has given us his very great and precious promises, so that through them you may share in the divine nature, having escaped the corruption in the world caused by evil desires.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a morning star rising above a dark coastal mountain ridge",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 2,
+      "citation": "2 Peter 2:9",
+      "text": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:",
+      "plain": "the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a morning star rising above a dark coastal mountain ridge near an oil lamp shining in a rough-walled stone room at dawn (2 peter 2:9 motif: knoweth)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 3,
+      "citation": "2 Peter 3:9",
+      "text": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.",
+      "plain": "The Lord is not slow in keeping his promise, as some understand slowness. Instead, he is patient with you, not wanting anyone to perish, but everyone to come to repentance.",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in an oil lamp shining in a rough-walled stone room at dawn near a morning star rising above a dark coastal mountain ridge (2 peter 3:9 motif: slack)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Peter",
+      "chapter": 3,
+      "citation": "2 Peter 3:18",
+      "text": "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.",
+      "plain": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever!",
+      "visual_prompt": "a small stone incense altar in a quiet courtyard corner at daybreak in an oil lamp shining in a rough-walled stone room at dawn",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

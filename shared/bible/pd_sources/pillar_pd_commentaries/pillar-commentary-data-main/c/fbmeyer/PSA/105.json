@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 105,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord’s Covenant with Israel -- Psalms 105:1-15\n\nThis psalm and the next are a pair, probably composed during the Exile in Babylon. They are evidently derived in part from the old Tabernacle service, in which is found the beginning of this psalm and the end of the next, 1 Chronicles 16:1-43. Here we have the story of Jehovah’s faithfulness to his Covenant and of Israel’s ingratitude.\n\nIt is right to make known God’s doings. Nothing touches men more quickly, or excites faith and hope more certainly, than to hear what others have experienced of God’s saving health. Let us talk more often of His marvelous works. If God has forgiven you, even to ten thousand talents, confess it. If you have learned more of Christ’s patience in His bearing with your sins and failures, tell it out. The salient points which stand out in our record of the past may be summarized under the same general headings as those of the psalmist.\n\nGod has been mindful of His Covenant, ratified by the blood of his Son. He has shown his independence of human standards in choosing us, though we are absolutely unworthy to inherit His Kingdom. How often He has interposed in our behalf even when we have deserved the worst, saying, Touch not mine anointed!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Wonders in Egypt -- Psalms 105:16-30\n\nThe psalmist retells the story of Joseph, as a link in the chain of providences which secured the fulfillment of the Covenant. It may be that it was also introduced to comfort Israel amid the afflictions of the Captivity. Another reading of the second clause of Psa 105:18 is, “The iron entered his soul.” This is what pain does for us all; it puts iron into our blood. In Psalms 105:19 we learn that God’s promise, while unfulfilled and apparently contradicted by present facts, serves as a test of a man’s reliance upon God. It brings into clear relief his unwavering faith. Joseph was tested and not found wanting.\n\nIn Psalms 105:23-27 carry us a step farther in the unfolding of God’s purpose. The sojourn in Egypt, with its terrible hardships and the trouble that befell the tyrant, is quoted with direct reference to the action and interposition of the Almighty. The psalmist sees only one hand at work. He does not hesitate to ascribe to God even, the hatred which the Egyptians entertained toward Israel, and which, in Pharaoh’s case, meant the hardening of his heart. Such is the inevitable effect when man’s pride conflicts with divine tenderness and love. Let us believe that God is in all the incidents of our daily life and of human history."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Led by a Mighty Hand -- Psalms 105:31-45\n\nNotice in this enumeration of the plagues that the emphasis in each is laid on God’s direct act. He is the great agent of his own purposes. The tenth plague, Psalms 105:36, is followed by the triumphant exodus, when Israel went forth, enriched with treasure and strong for the march. However sad and weary our life may be, it will one day be rich and strong as it goes forth to serve under new and loftier conditions. How good it is to realize that God hath prepared for us things that surpass human thought, and which are proportioned not according to intellect but according to heart; not according to deeds but according to character!\n\nGod is all-sufficient for us. He was everything that Israel needed. Can He not suffice for us? We have good hope, not because of our deserts, but because of the covenant into which He has entered with our Savior, who is our Representative and Federal Head. Not for our sakes, but for His holy Name’s sake, God has pledged Himself to make us His heirs, joint-heirs with His Son, and sharers in all that joy and bliss which await us on the other side. Ought we not, then, to love Him and to keep His statutes and laws? Hallelujah!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 105
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 104
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 106
+ }
+}

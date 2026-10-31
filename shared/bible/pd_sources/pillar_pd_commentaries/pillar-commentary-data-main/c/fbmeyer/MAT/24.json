@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Be Ready to Endure -- Matthew 24:1-14\n\nSuccessive generations have pored over these words of our Lord with great eagerness, endeavoring to extract from them a clear forecast of the future. In the case of the early Christians, they warned them to flee to Pella, and in doing so, to escape the destruction of Jerusalem by Titus. But to all of us they are full of instruction.\n\nIt is best to consider these paragraphs as containing a double reference. In the first place, up to Matthew 24:28, they evidently deal with the approaching fall of Jerusalem. Our Lord describes the events which were to mark the consummation of the age, Matthew 24:3, r.v., margin. Antichrists, disturbances of physical and national conditions, the persecutions which the infant Church must encounter, the progress of the gospel, and finally the swoop of the Roman eagles on their prey-all these were to mark the close of the Hebrew dispensation and the birth of the Christian Church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Beware of False Christs -- Matthew 24:15-28\n\nThe abomination of desolation is explained in Luke 21:20, and probably refers to the Roman ensigns as the symbols of pagan and therefore unclean power. So urgent would be their need of flight that the outside steps of the houses must be used. None might try to save his property. Ever, the winter’s cold must be faced, if life were to be saved; and the flight must be farther than could be covered on a Sabbath day, that is, according to Jewish law, less than a mile.\n\nIt is a matter of literal fact that there was compressed into the period of the Jewish War an amount of suffering perhaps unparalleled. Josephus’ history of the period abounds in references to these false Christs who professed themselves to be the Messiah.\n\nNotice that, though the elect may be powerfully tempted, they will repudiate and resist the attack and still remain loyal to their Lord. What a searching word is this!-“whom He did predestinate… them He also glorified,” Romans 8:30. They may be tempted, tried, almost deceived, but angels will bear them up in their hands and God will keep their feet. See Psalms 91:12; 1 Samuel 2:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Words That Must Be Fulfilled -- Matthew 24:29-39\n\nThe preceding portion of this prophecy is by all interpreters applied to the destruction of Jerusalem. But on the portion that follows there is a considerable division of opinion.\n\nPerhaps it is wisest, between Matthew 24:28-29, to interpolate the Christian centuries during which the gospel is being preached to the Gentiles, according to Romans 11:25, (but that whole chapter should be considered). Just as one who looks across a mountainous country may count the successive ranks of sierras or ranges, but does not record the valleys that lie between, so our Lord, who speaks as the last of the Hebrew prophets, does not stop to notice the story of the Church, but confines Himself to the events which are specially Hebrew.\n\nProbably the present age will be ushered out by scenes not unlike those of the preceding one; and immediately afterward the Lord will set up His reign, and there shall be a new heaven and a new earth. The Advent will be sudden, Matthew 24:36; and will find men unprepared, Matthew 24:38. The Jewish people will exist as a people till then, Matthew 24:34."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Watch and Work -- Matthew 24:40-51\n\nThere are many comings of the Son of man before the final one to judgment. We may derive the full benefit of our Lord’s words, even though we have arrived at no settled opinion as to the precise order of future events. The hour of our death is as uncertain as that of His coming in the clouds. For each, we should be ready!\n\nWatchfulness is keeping awake! We are beset by temptations to sleep. Bunyan said that we are traveling over the Enchanted Ground, the air of which is very heavy and sleep-producing. How dull we are to perceive the unseen, or to meet the great opportunities of life! Broken up alludes to the mud or clay house which could not keep off the thief. Death breaks in and carries us away from all of our treasures. See 1 Thessalonians 5:2; 1 Thessalonians 5:4.\n\nWe had best wait for our Lord while engaged in carefully discharging our appointed tasks. The Church is a big household in which each has his niche. “To labor is to pray;” to serve is to be ready."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 25
+ }
+}

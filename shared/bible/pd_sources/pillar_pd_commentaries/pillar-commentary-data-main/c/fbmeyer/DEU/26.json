@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "First-Fruits and Tithes -- Deuteronomy 26:1-19\n\nThe Israelites were God’s tenants-at-will. The entire land and its produce were His; and they were required to acknowledge His ownership by the payment of first-fruits-both at Passover and at Pentecost, Leviticus 2:14; Numbers 28:26 -and of tithes.\n\nAll we possess and all we earn are equally the gift of God. Let us acknowledge this by setting apart a fixed proportion of the results of our daily work, whether wages, or crops, or brood, or herd. The words of this ancient collect, with very slight modifications, will suit us well, Deuteronomy 26:5-10. Note the injunction of Deu 26:11. There is not enough joy in our lives or faces. Nothing so quickly commends our religion as the gladness which the world can neither give nor take. To joy let us add intercession, Deuteronomy 26:15; and let us never forget to renew our vows of consecration when we bring our gifts, Deuteronomy 26:16."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 27
+ }
+}

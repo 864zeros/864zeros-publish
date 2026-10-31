@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“He That Loveth Pureness of Heart” -- Proverbs 22:1-16\n\nGreat riches are not always a great blessing. When they are held in trust for God, they afford the opportunity of giving a vast amount of happiness to the benefactor as well as to those benefited. But we recall other riches, which do not consist in what a man has, but in what he is. There are four levels of human experience-to have, to do, to know, and to be-and these in their order are like iron, silver, gold, precious stones.\n\nSome of these riches are enumerated here: a good name and loving favor, Proverbs 22:1; the faith that hides in God, Proverbs 22:3; true humility and godly fear, Proverbs 22:4; the child-heart, Proverbs 22:6; the beautiful eye and open hand, Proverbs 22:9; purity of heart and thought, Proverbs 22:11; alacrity and diligence, Proverbs 22:13. If only we would cultivate the inward graces and gifts of our soul-life, all who feel our influence would be proportionately enriched."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 25
+ }
+}

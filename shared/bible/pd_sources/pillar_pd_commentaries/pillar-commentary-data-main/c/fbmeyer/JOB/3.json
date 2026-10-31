@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Is Life Worth Living? -- Job 3:1-26\n\nIn the closing paragraphs of the previous chapter three friends arrive. Teman is Edom; for Shuah see Genesis 25:2; Naamah is Arabia. The group of spectators, gathered round Job’s mound, reverently make way for them.\n\nJob opens his mouth in a curse. But it was not, as Satan had expected, against God. The Hebrew word is different from that used in Job 2:9. He does not curse God, but the day of his birth, and asks that his stripped and suffering existence may be brought to as speedy an end as possible. Job’s words are very profitable for all whose way is hid. Is the joy of life fled? Yet its duties remain. Continue in these and the path will lead back to light.\n\nThis opening elegy consists of two parts: the first, Job 3:1-10, calls on darkness to blot out the day which witnessed the beginning of so sad a life; the second, Job 3:11-26, inquires why, if he were doomed to be born, the luxury of instant death had not been also granted. Oh, human heart, of what sore anguish art thou not capable!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 4
+ }
+}

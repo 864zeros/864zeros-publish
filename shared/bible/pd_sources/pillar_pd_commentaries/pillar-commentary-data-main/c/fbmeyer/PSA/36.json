@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God the Fountain of Life -- Psalms 36:1-12\n\nThe servant of the Lord, as the superscription tells us, is speaking here. He is horror-stricken at the ways and thoughts of the ungodly. By a bold image, Psalms 36:1, r.v., margin; Transgression is personified as speaking in the heart of the ungodly, as the Delphic oracle in her dark cave; and the answer from that secret oracle is full of smooth but beguiling words. So our first parents found it.\n\nWhat a blessed thing it is to turn from man to God! Notice God’s attributes as here enumerated: “thy lovingkindness” (r.v.), “thy faithfulness,” “thy righteousness,” “thy judgments.” The golden bracelet begins and ends with love. All nature speaks, to the heart that loves, of the love of God. But they who fly to God find Him even better than nature can proclaim. He is better than banquets for hungry men. Let His life arise in thee as a fountain, and ask for the illumination of His light. Serenely sheltered under the wing, or in the house, of God, the soul may look out, unmoved, on “the wrecks of matter, and the crush of worlds.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 37
+ }
+}

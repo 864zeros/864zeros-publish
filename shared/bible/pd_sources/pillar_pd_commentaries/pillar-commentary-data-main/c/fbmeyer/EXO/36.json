@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 36,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Wise-hearted Workers for the Tabernacle -- Exodus 35:30-35; Exodus 36:1-8\n\n“What were the driving motives of this marvelous outburst of generosity? They remembered that Jehovah had brought them forth from Egypt, destroying their foes and liberating them from slavery. Again they heard the rattle of the pursuing chariots and the clash of arms! Again they thought of the march through the oozy bottom of the sea, while the walls of water stood on either side, irradiated with the glow of the cloud of fire!\n\nWith full hearts they turned to God, saying, “The best we have is thine. Thou art worthy to receive glory and honor and riches and power and blessing, for thou hast redeemed us.” Upon the heels of that thought came the remembrance of the constant provision for their daily needs. The manna had fallen; the water had gushed from the flinty rock; Amalek had fled! These were the fountains that fed the springs of generosity. But have we not similar reason? “I beseech you, therefore, brethren, by the mercies of God, yield yourselves.” See Romans 12:1-2."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 36
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 39
+ }
+}

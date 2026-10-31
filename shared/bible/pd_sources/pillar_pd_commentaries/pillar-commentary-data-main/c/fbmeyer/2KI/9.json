@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Avenger of Blood Anointed -- 2 Kings 9:1-13\n\nYouth is always being called upon to gird up its loins, and dare to fulfill its commissions without fear of man. We are not to tarry to hear what men say of us. The King’s business requires haste. Do your work and flee, before the world can scare you by its threats or cajole you by its blandishments. You have one Master, one errand: do it, and get back into His presence!\n\nGod has His appointed instruments to carry out His plans, 1 Kings 19:17. The King will avenge His own elect, though He bear long with their oppressors. Sooner or later His sentence will be executed. His servants are often accounted mad, but whether we are beside ourselves, it is to God! 2 Corinthians 5:13. Naturally his fellow-officers were astonished that Jehu should have dealings with one whose garb and bearing indicated his religious character. It is not usual for God’s servants to penetrate a camp with such a message; and yet how striking would be the effect if only we could announce to the strong, swift-acting, vehement-hearted leaders of the age, that a higher vocation awaited them than they had ever conceived, and that God’s anointing was within their reach. “I have anointed thee to be a king.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "“The Driving of Jehu” -- 2 Kings 9:14-26\n\nMany times in this chapter the question is asked, though in varying tones, “Is it peace?” The horsemen ask it of the furious driver; the king asks it of his captain; Jezebel asks it of the executioners of her son. Is not the human heart always asking the same question? If there is the slightest tremor in the air, the inquiry is at once started, “Will this make or mar our peace?” The heart of man is ill at ease. Deeply conscious that all is not right between itself and God, anxious that its efforts to reassure itself should not be disturbed, dreading lest an earthquake or a flood may detect the foundation on sand, the soul asks eagerly, “Is it peace?”\n\nThere can be no peace for man till he has put away the evil things associated with the name of Jezebel. Let us not forget those solemn words of the Holy Spirit, “I have against thee that thou sufferest the woman Jezebel.” We have to do with One who searches the reins and hearts of professing Christians. See Revelation 2:18-29. We are all in danger of being seduced by the soft caresses of the world and the honeyed flattery of false professors. There is no peace apart from true repentance and faith in the Lord Jesus, Romans 5:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "“The Word of the Lord by Elijah” -- 2 Kings 9:27-37\n\nLet us read again 1 Kings 21:23. How those words came back to the two men, who had heard them from the lips of God’s servant years before! God’s mills grind slowly, but to powder. In a deep sense Ahab’s blood was licked by dogs, as it flowed from the gaping wounds of his son. As a man sows he reaps, and when his children follow his steps, they too reap. But Ezekiel makes it perfectly clear that a godly son may break the entail of his father’s iniquities. See Ezekiel 18:1-32, which has a most important bearing on the modern doctrine of heredity.\n\nJezebel’s heart was proud and unbroken. She thought to make the conqueror the slave of her charms. When these failed, she taunted him with the fate of Zimri, so closely associated with the rise of Ahab’s family to the throne. His reign of seven days was thrown in Jehu’s teeth, 1 Kings 16:15, etc. But Jezebel could not avert her fate. Her very chamberlains turned against her. How often does God’s representative ask the same question, “Who is on my side?” Let us heed the challenge and dare to “look out” in answer! There is service appointed for us all, and we must not fail to render it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 10
+ }
+}

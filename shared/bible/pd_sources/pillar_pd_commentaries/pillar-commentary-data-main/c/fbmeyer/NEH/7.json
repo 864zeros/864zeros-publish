@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "36-73, Public-spirited Citizens -- Nehemiah 7:1-8\n\nIt is probable that Nehemiah returned to the Persian court on the completion of the first part of his enterprise, the building of the walls, and that he left Hananiah and his brother in charge until he had been able to obtain a prolongation of his mission. Hananiah’s character is very aptly described in Nehemiah 7:2. These are splendid characteristics-the fear of God and faithfulness, 1 Corinthians 4:2. Sound common sense, through which God wrought, dictated the policy of appointing each man to guard his own property, Nehemiah 7:3; Nehemiah 7:5. The extent of the city walls had evidently been marked out in faith, as directed in Zechariah 8:1-23. Registration seems to have engrossed much of the care of these returned exiles, and it was necessary, not only that each might inherit his ancestral property, but that the descent of our Lord might be easily traced to David.\n\nWe ought to be very sure that we and our dear ones are included in God’s register. We cannot lay claim to our inheritance, unless we are heirs through the new birth, Romans 8:16-17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 8
+ }
+}

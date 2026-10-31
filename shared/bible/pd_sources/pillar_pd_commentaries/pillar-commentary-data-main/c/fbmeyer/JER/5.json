@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Widespread Corruption -- Jeremiah 5:1-6; Jeremiah 19:1-15; Jeremiah 20:1-18; Jeremiah 21:1-14; Jeremiah 22:1-30; Jeremiah 23:1-40; Jeremiah 24:1-10; Jeremiah 25:1-38; Jeremiah 26:1-24; Jeremiah 27:1-22; Jeremiah 28:1-17; Jeremiah 29:1-32; Jeremiah 30:1-24; Jeremiah 31:1-40\n\nDiogenes, the cynic, was discovered one day in Athens in broad daylight, lantern in hand, looking for something. When someone remonstrated with him, he said that he needed all the light possible to enable him to find an honest man. Something like that is in the prophet’s thought. God was prepared to spare Jerusalem on lower terms than even Sodom, and yet He was driven to destroy her. Both poor and rich had alike “broken the yoke and burst the bonds.” The description of the onset of the Chaldeans is very graphic. They settle down upon the land as a flock of locusts, but still the Chosen People refuse to connect their punishment with their sin.\n\nIt never occurred to the Chosen People that the failure of the rain, the withering of their crops, and the assault of their foes, were all connected with their sin. There is nothing unusual in this obtuseness for as we read the history of our own times, men are equally inapt at connecting national disaster with national sin.\n\nHow good it would be if the national cry of today were that of Jer 5:24 : Let us now fear before the Lord our God! Notice the delightful metaphor of Jer 5:22. When God would stay the wild ocean wave a barrier of sand will suffice. The martyrs were as sand grains but wild persecutions were quenched by their heroic patience."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 8
+ }
+}

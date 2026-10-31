@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Rise and Fall of Empires -- Daniel 11:1-14\n\nThis chapter foretells the histories of Xerxes, of Alexander the Great, the division of his kingdom on his death, and the long conflicts between the kings of Syria and Egypt. During those years of turmoil and war the eyes of God’s faithful servants must often have turned to this page for guidance and comfort. The voice of the prophets was hushed between Malachi 4:1-6 and Matthew 1:1-25, and therefore the written word would be more than ordinarily precious. It must have comforted them to be assured that God knew the way they had to travel and would supply all needed help. What a weary monotony of strife, war, and misery is the history of world kingdoms! The heathen rage; the people are moved.\n\nEarth and sky are wrapped in clouds and darkness. We are reminded of the chaos of the primal condition of our earth, when it was without form and void and darkness was on the face of the deep. But as in creation, so in history: in the darkest hours the divine Spirit is brooding in the heart of the night, and will presently re-establish order and beauty."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Despoiler Triumphs for a Time -- Daniel 11:15-29\n\nWhat a picture is presented in this paragraph of the tangled web of earthly politics. They have been too much, and for too long, in the hands of those who sought only their own aggrandizement to attain which they have been willing to sacrifice their honor, their families, their daughters, their people. The time has arrived when the people themselves, at first hand, must determine their destinies. These intrigues between the kings of Syria on the north and the kings of Egypt on the south have little interest for us, and are recorded here only as affecting the history of the Chosen People. This enables us to realize that the events of the present hour are being overruled by divine Providence in the interests of the Church of Christ. This alone abides; all else is of secondary importance and is rapidly passing away. The eternal purpose stands forever sure-that the Father has committed the empire of the world to our Lord, and is about to sum all things up in Him, who is the Head."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Arrogance Overthrown -- Daniel 11:30-45\n\nThe career of Antiochus Epiphanes, in persecuting the people of God and plotting against Jehovah and His sanctuary, is so described as to suggest that it also includes further fulfillments, and especially that last Antichrist, of whom Antiochus was the pre-figurement. So accurate is the correspondence between this prophecy and its historical fulfillment that Porphyry, the opponent of Christianity, maintained that this description was written after the event. The abomination of Dan 11:31 refers to the idolatrous image or emblem, which in succession has been erected on Mount Zion under the auspices of Antiochus, of the Romans, the Moslems, and shall be set up yet once more by Antichrist. The last clause of Dan 11:32 was marvelously realized in Judas Maccabaeus and his brethren; but it represents the perennial source of strength for all who suffer or serve. The anguish of those who fail under trial has often tended to their greater purification, Daniel 11:35, and the white robe is the mark of final victory, Revelation 7:9. God will not allow His people to suffer beyond the determined time, Daniel 11:36; Matthew 24:22."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 12
+ }
+}

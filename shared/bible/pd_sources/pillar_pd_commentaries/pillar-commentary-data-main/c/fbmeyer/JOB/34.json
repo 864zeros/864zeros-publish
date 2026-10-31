@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Almighty Must Be Just -- Job 34:1-37\n\nElihu stands in Job 34:10 as God’s apologist. God’s absolute and impartial justice is at all times a matter of untold comfort. There will be no cause of ultimate complaint, but from the lips of the holiest beings in the universe, most able to pass an opinion, the cry will ascend, “Great and marvelous are thy works, O Lord God the Almighty. Righteous and true are thy ways, thou King of the ages…. Thy righteous acts have been made manifest,” Revelation 15:3-4, r.v.Ponder those last words. God’s righteous acts have not yet been made manifest; it is therefore foolish and wrong to pass judgment upon an unfinished program.\n\nWait, mortal man, until, at the great white throne, God shall unfold His inner reasons. If it is not fit to say to a king, “Thou art vile,” how much less to Him who lives through the ages, while the people are shaken and pass away, and the mighty are taken away without hand!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 35
+ }
+}

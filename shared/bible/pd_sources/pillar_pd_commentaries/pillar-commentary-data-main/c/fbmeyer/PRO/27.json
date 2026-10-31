@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Hearty Counsel” -- Proverbs 27:1-22\n\nThe keyword in this paragraph is friends, Proverbs 27:6; Proverbs 27:9-10; Proverbs 27:14; Proverbs 27:17; Proverbs 19:1-29. Friends, according to the original sense of the Hebrew word, are those who delight in each other’s companionship. Either they are useful to each other because the one possesses gifts that the other lacks, or they have certain tastes in common.\n\nIt is in friendship that we get to know ourselves, as a man sees his face in the mirror of calm water, Proverbs 27:19. We unfold to each other; our friend elicits traits of which we were hardly aware. Our sympathy and tenderness are drawn forth by our friend’s troubles, as our laughter flashes out to awaken or to answer his high spirits. We shudder to think what cold and undeveloped beings we should be without the sharpening of friendship, Proverbs 27:17. How sweet human friendships are! Proverbs 27:9. Why not find equal confidence and sweetness in the greatest Friend of all? Of course, there is a friendship “which is wholly hypocritical and worthless.” Such a friendship is marked by loud and ostentatious demonstration. See Proverbs 27:14. Ponder Christ’s offer, John 15:14-15."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 30
+ }
+}

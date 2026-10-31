@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Kindness Wakens a Better Spirit -- 1 Samuel 24:16-22; 1 Samuel 25:1\n\nDavid’s noble self-restraint, followed as it was by no less noble words, awoke the best side of Saul’s nature. Chords began to vibrate that had long been silent. The memory of happier days, before their intercourse had become clouded by jealousy and hatred, came trooping back, and Saul was himself again. Indeed, David’s appeal called forth from Saul a confession of his sin; and he went so far as to ask David to spare his house in the coming days, when David would assuredly be king. But, as the sequel proved, this better spirit was but temporary. It was a change of mood, not of will. Let us not form the habit of trusting in our emotional life. Nothing is permanent save the will that is energized by the will of God. Psalms 142:1-7 throws a light on David’s state of heart at this period.\n\nThe death of a good man is a serious loss at any time, but to Israel, governed by a cruel, wayward king, Samuel’s death was cause for special lamentation. His holy life, his fearless denunciation of wrong, his self-sacrifice for the people’s welfare, and especially his power in intercessory prayer, made him one of the most important national assets. Let us so live that we may be missed when we go home!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 2,
+    "content": [
+     {
+      "text": "A Rich Man’s Churlishness -- 1 Samuel 25:2-17\n\nThis Carmel was a city in the mountains of Judah, ten miles south of Hebron. See Joshua 15:55. Though a descendant of Caleb, Nabal had none of that hero’s spirit. He had great wealth, but little wit. Today the Arab tribe which guards the shepherd or caravan, or restrains itself from plundering, expects some acknowledgment. It was unfair that the rich sheep-master should take all the advantage and make no return, and altogether too bad to cap injustice with a coarse jest. Nabal’s shepherds were quite explicit in their testimony to the benefits they had received, 1 Samuel 25:7; 1 Samuel 25:15-16. His jibes and churlishness justified the general estimate entertained by those who knew him best.\n\nFor David to take the sword to avenge the insult stands out in striking contrast to Him who, “when He was reviled, reviled not again.” Revenge for an insult where one has personally suffered has no place in Christ’s teaching, and is separated by a whole heaven from the magisterial use of the sword referred to in Romans 13:4. In after-years, David must have been very thankful for the interposition, through Abigail, of God’s grace that arrested his hand. See Romans 12:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "A Wise Woman’s Plea -- 1 Samuel 25:18-31\n\nWhat a contrast between the sordid Nabal and his beautiful wife-as lovely in disposition as in face! What a terrible trial for such a woman to be united with a man of whom his servant did not hesitate to speak to his wife in the words of 1 Samuel 25:17! With what admirable tact did Abigail treat the whole situation! She did not talk to her husband while he was drunk; she took the matter in hand without a moment’s delay and marshaled her arguments with commendable sagacity.\n\nIt is a blessed partnership when husband and wife are so united that they are animated by a common purpose; but where this is not the case, let not the evil disposition of the one hinder the devotion and grace of the other. In the home-life, as in redemption, where sin abounds, grace should much more abound, that where the former reigns unto death, the latter may reign in life, Romans 5:21. Never let the difficulties of your home lead you to abdicate your throne. Do not step down to the level of your circumstances, but lift these to your own high calling in Jesus Christ. “Be not conformed,… be transformed,” Romans 12:1-2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "The End of Selfish Indulgence -- 1 Samuel 25:32-44\n\nThe lowly obeisance of this beautiful woman at the young soldier’s feet, her frank confession of the injustice done him, her thankfulness that he had been withheld from hasty vengeance, her appreciation of his desire to fight only as a soldier of the Lord, brought David back to his best self.\n\nWhat a revelation is here given of the agencies by which God seeks to turn us from our evil ways! And, above all, those that enter our lives as sweet human ministries are those arresting influences of the Holy Spirit, pleading with us, striving against our passion and selfishness, and calling us to a nobler, better life. Blessed Spirit, come down more often by the covert of the hill, and stay us in our mad career. Let us not press past thee to take our own wild way, and we shall review thy gracious arrest with ceaseless gratitude.\n\nThe idyll ended happily. Nabal died in an apoplectic fit, caused by his debauch and anger. Then David made proposals of marriage to the woman to whom he owed so much, and she gracefully but humbly accepted, declaring herself unworthy. 1 Samuel 25:35 is our Lord’s answer to every soul that casts itself upon Him, and every such soul becomes married to Him, when the former husband is dead. See Romans 7:4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 26
+ }
+}

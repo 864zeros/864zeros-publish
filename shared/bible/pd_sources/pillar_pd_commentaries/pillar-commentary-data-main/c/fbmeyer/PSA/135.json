@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 135,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Wonderful Power -- Psalms 135:1-12\n\nThis psalm begins and ends with Hallelujah. It contains choice extracts from various psalms, which have been culled as the flowers of a garden are gathered for one bouquet. The arguments for praise are threefold: God’s glory in nature, Psalms 135:5-7; His dealings with Israel, Psalms 135:8-14; the contrast of His glorious nature with idols, Psalms 135:15-21.\n\nNotice the arguments adduced to stimulate our praise: that God is good; that praise-giving is pleasant; that He has chosen His people to be His peculiar treasure; that He is as great as He is good; that He will take our part against our foes, etc. The moral of it all is that if we would praise God aright and with zest, we must carefully gather our materials and meditate on all His dealings with us. These are fuel for the flame. But how many more reasons than the psalmist had are there for us to praise Him, who have been adopted into His family and made joint-heirs with Christ!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Men become like the Gods They Serve -- Psalms 135:13-21\n\nWhat a contrast between our God and idols! His mouth speaks words of grace; His eyes follow our every movement and watch our sleep; His ears are open to the faintest call. Let us who love and adore Him resemble Him, as the idolater resembles his stony idol.\n\nThe fourfold division of the chosen race deserves our thought, Psalms 135:19-21. Some belonged to the great commonwealth of Israel, some to the priestly family of Aaron, some to the meaner and humbler ranks of Levi, and some were proselytes who just feared the Lord; but none could be excused from the offering of praise. Whoever and whatever we may be, let us never fail to add our quota of adoration to that song which John tells us he heard arising from all in heaven, and on earth, and under the earth, and on the sea, Revelation 5:13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 135
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 134
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 136
+ }
+}

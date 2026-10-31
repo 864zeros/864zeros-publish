@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 44,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joseph’s Cup in Benjamin’s Sack -- Genesis 44:1-17\n\nIt is a terrible revelation when our Benjamins are found possessed of the cup. They have been so loved, so favored, so screened; they have never been guilty of the excesses of Reuben and Judah; they have given no rise to evil reports, like the sons of Bilhah and Zilpah, Genesis 37:2. Now when they are convicted of sin, the surprise of their brethren is only equaled by their own remorse. This accounts for the soul agony of men like Cyprian, Augustine, Bunyan and Spurgeon. What transitions there are in life! At the close of the previous chapter the brothers were as happy as they could be, and here plunged into the deepest anguish. But the intensity of their pain and sorrow, like fire, melted and cleansed them, and prepared for the great reconciliation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Judah Pleads for Benjamin -- Genesis 44:18-34\n\nNo portion in Genesis could be more suitable for Good Friday. Judah’s proposal to give himself instead of Benjamin reminds us of Him who freely gave Himself up for us all. It was with such love, but of infinite intensity, that Christ loved us. In Judah’s words we find the loftiest type of pleading which man has ever put forth for man. It is extraordinary to get this glimpse of the strong and noble emotions that slumber in hearts where we should least expect them! But these words are poor and cold compared with those that Jesus utters on our behalf.\n\nIt must have required extraordinary self-command on Joseph’s part to make his brethren suffer thus. But he dared to enforce it, because he knew the goal they were approaching. Christ often turns aside to hide His sorrow at our griefs, which are the necessary pathway to where all tears are wiped away."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 44
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 43
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 45
+ }
+}

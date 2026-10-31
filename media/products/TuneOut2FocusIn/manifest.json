@@ -22,8 +22,8 @@
     },
     {
       "img": "tuneout2focusin-3.png",
-      "alt": "TuneOut2FocusIn — free and local, with an optional $2.99 Data Backup unlock",
-      "cap": "Free and local. Optional $2.99 unlock adds Data Backup."
+      "alt": "TuneOut2FocusIn — free and local, with an optional one-time lifetime Data Backup unlock",
+      "cap": "Free and local. Optional one-time lifetime unlock adds Data Backup."
     }
   ],
   "jsonld": {
@@ -34,7 +34,7 @@
       "Volume slider",
       "Keeps playing across tabs and when the panel is closed",
       "Local-first, no accounts, no tracking",
-      "Optional $2.99 Data Backup (export/import settings)"
+      "Optional one-time lifetime Data Backup (export/import settings)"
     ]
   }
 }

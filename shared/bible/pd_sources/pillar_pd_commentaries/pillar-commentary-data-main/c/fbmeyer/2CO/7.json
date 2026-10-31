@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Separate from All Uncleanness -- 2 Corinthians 6:11-18; 2 Corinthians 7:1-4\n\nPaul’s love failed to be appreciated by his converts because the channel of receptiveness, that is, of their faith and love, was so straitened. How often is this the case between Christ and us! Let us dredge the channel. Be ye enlarged! Open your mouth wide and He will fill it.\n\nThe best method of doing this is to be only, always, and all for Him. We must not offer Him a share of our heart and devotion. There must be no division between Him and others. Whenever iniquity, darkness, Belial, and unbelievers seek to share our nature with the Holy Spirit, and we permit the partnership, He withdraws. No idols must be permitted in any hidden shrine of the heart. The whole nature-spirit (that is, the Holy of Holies) soul (that is, the seat of our individuality), and body-must be the temple of the Eternal, who rules it from the Shekinah, which is enthroned on the Ark of the Covenant.\n\nGod still walks the world in those who love Him and are wholly yielded to His indwelling. The loneliest spirit finds Him to be father, mother, brother, sister, all. What an incentive to cleanliness not only of flesh but of spirit! Hebrews 10:22. The Apostle concludes by expressing his intense thankfulness that his converts had not misunderstood the urgency of his former letter."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "The Joyous Effect of Godly Sorrow -- 2 Corinthians 7:5-16\n\nAfter dispatching his first Epistle, with the strong words of 2 Corinthians 5:1-21 and elsewhere, Paul’s tender heart had been rent with anxiety lest the Corinthian church should resent its terms and be alienated from his friendship. But when Titus joined him in Macedonia, bringing the assurance of their deep repentance and unabated affection, he was profoundly comforted and gladdened. He felt also that their sorrow was of the true and genuine sort, which does not consist of mere mortification at being found out or of the dread of punishment, but which implies a profound hatred of sin as grieving the Holy Savior and unworthy of His precious blood. This sorrow does not need to be repented of; these tears do not require to be cleansed. Godly sorrow accepts rebuke meekly, puts away the wrong, and with chastened steps comes again into the way of the sacred Cross.\n\nTitus had imbibed much of Paul’s spirit. It is interesting to notice that though he was a companion and messenger of the Apostle, even his spirit could be in need of refreshment, 2 Corinthians 7:13; and Paul was pleased that his own anticipations had been realized in the response of his friends at Corinth. Here beats the heart of a true pastor, whose whole soul is wrapped up in the interests of his charge!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 8
+ }
+}

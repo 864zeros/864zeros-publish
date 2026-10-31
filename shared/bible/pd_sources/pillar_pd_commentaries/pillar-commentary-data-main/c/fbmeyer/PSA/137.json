@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 137,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Loyalty in Adversity -- Psalms 137:1-9\n\nIt seems as if the exiles had withdrawn from the city, with its distractions, to some natural retreat beside the Euphrates. They had brought their harps with them, but had not the heart to touch their chords. Songs were choked by sobs. Suddenly a band of insolent revelers broke in on the scene, demanding one of those Temple songs for which Hebrew minstrelsy was famed.\n\nBut the Lord’s song was possible only in the Lord’s house. To be separated from the Temple seemed to the Jews like separation from God. When we have been led captive by our sins and have lost the sense of God’s presence, we, too, lose the spring of holy joy. Let us make not Jerusalem, but the glory and interests of Christ’s kingdom, our chief joy. The closing imprecation on Edom reminds one of Jer 49:7-22; Lamentations 4:2; Lamentations 4:22; Ezekiel 25:12-14. We can understand it, but we must remember that we belong to another covenant. See Luke 9:54, r.v., margin; Romans 12:20."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 137
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 136
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 138
+ }
+}

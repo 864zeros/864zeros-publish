@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Meeting Murmuring within and Persecution Without -- Acts 6:1-15\n\nThe Grecians here mentioned were Jews who had lived abroad and spoke Greek. There were as yet no Gentiles in the Church. It was regarded as an annex to Judaism, and people had to become Jews before they were admitted to its privileges.\n\nWhat a glimpse is here afforded of the simplicity and fervor of the primitive Church! The daily ministration of relief; the choice of godly men to attend to secular details; the prime importance of prayer and the ministry of the Word; the recognition by the Apostles of the rights of the people-all is so spiritual and so worthy of the era of the Holy Spirit. Alas, that so fair a dawn should ever have been overcast!\n\nThe Church must dedicate to God those whom she has chosen under the guidance of His Spirit. Stephen on the one hand, and Saul on the other, were the leaders of their respective parties. We see traces of the latter in the references to them of Cilicia, Acts 6:9. Stephen’s enemies prevailed over him by brute force, but he was conqueror through the blood of the Lamb and the word of his testimony."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 7
+ }
+}

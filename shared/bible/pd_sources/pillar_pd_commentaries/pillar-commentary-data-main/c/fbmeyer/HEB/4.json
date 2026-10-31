@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Rest That Joshua Could Not Give -- Hebrews 4:1-10\n\nThe good news of Canaan’s rest was preached to Israel but availed nothing, because the hearers were destitute of faith. They said, Can God? instead of, God can! They thought of their enemies as giants and themselves as grasshoppers, because they left God out of account. Take God into account -and we are giants and our enemies grasshoppers.\n\nTo all of us Christ offers rest, not in the other life only, but in this. See Hebrews 4:3; Hebrews 4:11. Rest from the weight of sin, from care and worry, from the load of daily anxiety and foreboding. The rest that arrives from handing all worries over to Christ, and receiving from Christ all we need. Have we entered into that experience? In Hebrews 4:6; Hebrews 4:11, where a.v. reads, “unbelief,” r.v., reads, “disobedience.” If we disobey, we cannot believe; but when we believe we are sure to obey. In Hebrews 4:10 we are directed to our risen Lord, who has finished the work of Redemption and rests, as God did when He pronounced Creation to be “very good.” When we understand what He meant by “It is finished,” we, too, shall rest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Entered by Faith and Prayer -- Hebrews 4:11-16\n\nThere is no escape for disobedience and unbelief, because we have to do with the omniscience of God. The conception of Heb 4:12-13 is of a victim appointed for sacrifice and thrown upon its back, that the keen edge of the knife may do its work more readily. The divine scrutiny is still sharper. There is so much of the soul in what we do, that is, of our opinions and activities. God distinguishes between these and those promptings of His Spirit which are really important and influential. Only what is born of the Spirit will stand the test of eternity!\n\nShall we not fail in that scrutiny? Will he not detect in us that evil heart of unbelief? We need not fear; because our High Priest has passed the veil that hides the invisible and eternal and has entered the divine presence. “Mercy and grace to help in time of need!” These will meet our supreme needs-mercy for our sins, grace for our helplessness and frailty."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 5
+ }
+}

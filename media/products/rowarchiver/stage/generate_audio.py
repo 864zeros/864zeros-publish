@@ -25,7 +25,7 @@ SCENES = [
     },
     {
         "id": "scene4_pricing",
-        "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. RowArchiver is a one-time twelve ninety-nine unlock forever.",
+        "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. RowArchiver is a single one-time unlock forever.",
         "lead_silence": 0.15,
         "tail_silence": 0.25
     },

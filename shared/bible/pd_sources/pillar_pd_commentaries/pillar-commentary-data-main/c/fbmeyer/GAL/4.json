@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GAL",
+  "commentaryId": "fbmeyer",
+  "name": "Galatians",
+  "commonName": "Galatians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Live as Sons, not as Bondmen -- Galatians 4:1-11\n\nThe Apostle often uses the word elements or “rudiments,” Galatians 4:3; Galatians 4:9; Colossians 2:8; Colossians 2:20. High and holy as was the Mosaic legislation in itself, yet when it was imposed upon inquiring minds as necessary to salvation, Paul spoke of it as belonging to an age that had passed away and to a system that was already antiquated. The whole purpose of God in sending forth His Son was to redeem us from under the Law, that we might enjoy the liberty and joy of the Father’s home. We are no longer infants under age, or servants, but sons, and if sons, then heirs of God.\n\nThere is often a slavishness among professing Christians that is sadly out of keeping with their rightful position in Christ. Do not be scrupulous or over-anxious. Do not be punctilious. Live in your Father’s house in constant freedom of heart. Remember that you are under the same roof as Christ, and are therefore allowed to avail yourself of all His grace and help. Refuse no task, however irksome, that God sets before you; and do not worry about irksome rules or petty vexations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Truthful and Devoted Dealing -- Galatians 4:12-20\n\nHow great a loss is it when we allow ourselves to be diverted from the simplicity of faith to trust in ceremonies, rites, and a prescribed routine! Inevitably these bring us into bondage. Let us therefore not pay slavish attention to the outward, but seek to have Christ within, and from within He will become the energy and passion of a new life. Each time we yield to the prompting of His Spirit, there is less of self and more of Him.\n\nIn Galatians 4:15 we perhaps have a hint as to the nature of Paul’s thorn in the flesh. This reference has led many to suppose that he suffered from acute ophthalmia, or inflammation of the eyes. But nothing diverted him from his soul-travail on behalf of his converts, Galatians 4:19. What a beautiful analogy we may trace between the formation of Christ in the soul and the formation of a chick in the egg! At first the tiny germ of life is hardly discernible amid the viscous matter in which it floats; but, day by day, there is less of this and more of the tiny creature which is being formed. So in regeneration the life of Christ is implanted, which will continue to increase until all of self will be lost in the one infilling Presence."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "“Children of Promise” -- Galatians 4:21-31\n\nIn this allegory of Sarah and Hagar, it is important to notice that Paul is not dealing with the principle of evil within our hearts, but with the attempt to mingle two dispensations or methods of religious experience-the Law and the Gospel.\n\nHe says that the poor slave girl, Hagar, whom Abraham bought as a personal attendant for his wife, stands for Mount Sinai, the mountain of the Law, in the district of Arabia, from which she may have originally come. Hagar also stands for the Judaizers, whose headquarters were at Jerusalem, while their emissaries everywhere dogged the Apostle’s movements, insisting that his converts must come under the old Levitical ceremonialism. Paul says that the Galatians must choose between their slavish observance of outward ritual and a simple faith in the finished work of Jesus; and exhorts them to cast out Hagar and Ishmael, which savor of the flesh, and to give themselves to the service of the Spirit, which stands for freedom, peace, and joy in God. Let us also guard against a religious scrupulosity and subservience to the outward, and cultivate a quick sensitiveness to the Holy Spirit."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 5
+ }
+}

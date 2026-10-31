@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title>VaultPilot — Master Explainer (1080×1920)</title>
+<title>VaultPilot — Master Explainer v2 (1080×1920 · RULE-017 Zero-Price Omnichannel)</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
 <style>
   :root {
@@ -212,12 +212,12 @@
     color: var(--emerald);
     padding: 16px 36px;
     border-radius: 999px;
-    font-size: 28px;
+    font-size: 26px;
     font-weight: 800;
     text-align: center;
   }
   .price-highlight {
-    font-size: 46px; font-weight: 900; color: #fff;
+    font-size: 46px; font-weight: 900; color: #fff; text-align: center;
   }
   .price-highlight span { color: var(--emerald); }
   .url-text {
@@ -264,7 +264,7 @@
         <div class="brand-tag">Sovereign Browser Extension</div>
       </div>
     </div>
-    <div class="platform-pill">Microsoft Edge & Browser Add-On</div>
+    <div class="platform-pill">Chrome &amp; Microsoft Edge Extension</div>
   </div>
 
   <!-- Stage Viewport -->
@@ -275,7 +275,7 @@
       <h1 class="hook-title">Tired of cloud-based web clippers trapping your research behind proprietary subscriptions?<br /><span>Take Sovereign Control.</span></h1>
       <div class="hook-card">
         <div class="hook-lead">Tired of cloud-based web clippers trapping your research behind proprietary subscriptions?</div>
-        <div class="hook-sub">Most cloud add-ons charge endless monthly subscriptions while storing your private company data on their servers.</div>
+        <div class="hook-sub">Most cloud clippers charge endless recurring rent while storing your private notes and research on their servers.</div>
       </div>
     </div>
 
@@ -286,7 +286,7 @@
         <img src="assets/vaultpilot-1.png" alt="VaultPilot Interface" />
       </div>
       <div class="feature-pill-row">
-        <div class="feature-tag">Browser Extension</div>
+        <div class="feature-tag">Chrome &amp; Edge</div>
         <div class="feature-tag">Direct-to-Vault</div>
         <div class="feature-tag">Zero Cloud Relay</div>
       </div>
@@ -299,17 +299,17 @@
         <img src="assets/vaultpilot-2.png" alt="VaultPilot Feature Showcase" />
       </div>
       <div class="feature-pill-row">
-        <div class="feature-tag">Obsidian & Logseq</div>
+        <div class="feature-tag">Obsidian &amp; Logseq</div>
         <div class="feature-tag">Local Markdown</div>
         <div class="feature-tag">Zero Third-Party APIs</div>
       </div>
     </div>
 
-    <!-- Scene 4: Pricing vs SaaS -->
+    <!-- Scene 4: Sovereign Value vs SaaS -->
     <div class="scene" id="scene4">
       <h2 class="scene-heading">Own Your Knowledge Base — <span>Zero Subscriptions</span></h2>
       <div class="screenshot-frame">
-        <img src="assets/vaultpilot-3.png" alt="VaultPilot Lifetime Value" />
+        <img src="assets/vaultpilot-3-clean.png" alt="VaultPilot Lifetime Value" />
       </div>
       <div class="feature-pill-row">
         <div class="feature-tag">No Monthly SaaS Rent</div>
@@ -322,8 +322,8 @@
       <div class="cta-badge">AVAILABLE NOW</div>
       <h1 class="cta-title">Stop Renting Software.<br /><span>Own Your Notes.</span></h1>
       <div class="cta-card">
-        <div class="store-pill">Microsoft Edge Add-ons Store</div>
-        <div class="price-highlight">One-Time <span>$3.99 lifetime</span> Lifetime Unlock</div>
+        <div class="store-pill">Chrome Web Store &amp; Microsoft Edge Add-ons</div>
+        <div class="price-highlight">One-Time <span>Lifetime</span> Sovereign Unlock</div>
         <div class="url-text">864zeros.com/products/vaultpilot</div>
         <div class="tagline">Sovereign Software &middot; Pay Once, Keep Forever</div>
       </div>
@@ -338,21 +338,44 @@
   </div>
 
   <script>
-    let timeline = [];
-    let totalDur = 45.0;
-
-    async function loadTimeline() {
-      try {
-        const res = await fetch('audio/timeline.json');
-        timeline = await res.json();
-        if (timeline && timeline.length) {
-          totalDur = timeline[timeline.length - 1].end;
-        }
-      } catch (e) {
-        console.warn('Timeline json not loaded, using fallback timing');
+    const timeline = [
+      {
+        "id": "scene1_hook",
+        "start": 0.0,
+        "end": 5.38,
+        "duration": 5.38,
+        "text": "Tired of cloud-based web clippers trapping your research behind proprietary subscriptions?"
+      },
+      {
+        "id": "scene2_intro",
+        "start": 5.38,
+        "end": 11.84,
+        "duration": 6.46,
+        "text": "Meet VaultPilot. 100% sovereign, local-first web clipping straight into your Obsidian vault."
+      },
+      {
+        "id": "scene3_feature",
+        "start": 11.84,
+        "end": 21.39,
+        "duration": 9.55,
+        "text": "Clip any page or selection to clean Markdown — straight into your local Obsidian, Logseq, or Capacities vault. 100% local, no account."
+      },
+      {
+        "id": "scene4_pricing",
+        "start": 21.39,
+        "end": 32.37,
+        "duration": 10.98,
+        "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. VaultPilot gives you free Markdown capture forever, with a one-time lifetime Direct-to-Vault unlock."
+      },
+      {
+        "id": "scene5_cta",
+        "start": 32.37,
+        "end": 40.49,
+        "duration": 8.11,
+        "text": "Get it now on the Chrome Web Store and Microsoft Edge Add-ons, or take back sovereign control today at 864zeros.com."
       }
-    }
-    loadTimeline();
+    ];
+    const totalDur = 40.49;
 
     let startTime = null;
 
@@ -366,14 +389,12 @@
       const progress = Math.min(100, (elapsed / totalDur) * 100);
       document.getElementById('progressBar').style.width = progress + '%';
 
-      if (timeline && timeline.length) {
-        for (let i = 0; i < timeline.length; i++) {
-          const t = timeline[i];
-          if (elapsed >= t.start && elapsed < t.end) {
-            switchScene(i + 1);
-            document.getElementById('subText').innerHTML = t.text;
-            break;
-          }
+      for (let i = 0; i < timeline.length; i++) {
+        const t = timeline[i];
+        if (elapsed >= t.start && elapsed < t.end) {
+          switchScene(i + 1);
+          document.getElementById('subText').innerHTML = t.text;
+          break;
         }
       }
 

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Timothy",
+  "commonName": "1 Timothy",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Charge against “Vain Talking” -- 1 Timothy 1:1-11\n\nThe relation of Paul to Timothy is an example of one of those beautiful friendships between an older and a younger man, in which each is the complement of the other, 1 Corinthians 4:17; Philippians 2:22. Timothy was a lad of fifteen when converted at Lystra, and was probably about thirty-five years of age when this Epistle was addressed to him. He was enthusiastic and devoted but at times showed signs of timidity, and the Apostle watched over him with tender interest.\n\nIn this chapter the young minister is warned against the Gnostic heresy, i.e., the heresy of the knowing-ones, who pretended to give revelations about the angels and their ministry, and to bridge the gulf between man and God by a whole series of mysterious imaginary beings. Their teaching led from spiritual pride to sensuality, for they accounted the body as inherently evil. All this was contrary to healthy doctrine. That word sound, or healthy, is peculiar to the Pastoral Epistles, 1 Timothy 6:3; 2 Timothy 1:13; 2 Timothy 4:3; Titus 1:9; Titus 2:1. It suggests a certain test of the various teachers who cross our paths. The question always is, Do these words of theirs promote the health of the soul, and above all, love out of a pure heart and a good conscience?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "An Example of Christ’s Long-Suffering -- 1 Timothy 1:12-20\n\nThe Apostle breaks off into expressions of heartfelt thanks to God for the abounding grace which had overcome his former obstinacy and blindness. Only his ignorance could palliate his outrage and insult toward Christ, who was now the beloved object of his entire surrender. He had been a blasphemer against God, Acts 26:9-11; a persecutor towards his fellow-men, Galatians 1:13; injurious, insolent, full of overweening pride. He felt that he had been the chief of sinners, because he had sinned against more knowledge and opportunity than others. It is only when we see God, that we know ourselves and repent in dust and ashes. The Apostle, however, comforted himself in this at least, that through coming time the most hopeless and abandoned sinners would take heart as they considered his case.\n\nHe was a sample of mercy, a specimen of what Christ could do, an outline sketch to be filled in. Believe on Christ. Faith rests on Christ as foundation. Peter and John use another preposition, toward, or into, i.e., they conceive of union with him, to which all else is preliminary. War the good warfare, that against sin. When men thrust away faith and a good conscience, they stab their pilot and make shipwreck.\n\nSee 2 Timothy 2:17-18; 2 Timothy 4:14-15."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 2
+ }
+}

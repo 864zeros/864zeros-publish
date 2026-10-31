@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Press on unto Full Growth” -- Hebrews 5:11-14; Hebrews 6:1-8\n\nThe teacher has to suit his pace to his scholars. How much we miss because we are such inapt pupils! Milk is food which has passed through another’s digestion. Many cannot get their spiritual nutrition direct from God’s Word, but have to live on what others have obtained and have passed on in speech or book. Seek a first-hand acquaintance with the things of God. We grow by feeding and exercise.\n\nWe must leave the first principles, as a builder leaves the foundation; he is never so much on it as when farthest above it. The third and fourth principles, Hebrews 5:2, are the Jewish equivalents of the first and second, Hebrews 5:1. Notice the r.v. marginal reading for seeing in Hebrews 5:6 -“the while.” So long as men continue to tread the love of God under foot, they cannot repent and be restored. The failure, as with unproductive soil, is not on account of a failure of heaven, but because the soil is hard and obdurate. If we are unproductive, it is due to our own hard-heartedness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "“The Hope Set before Us” -- Hebrews 6:9-20\n\nThe keynote of this passage is patient continuance. We should seek not only faith but its accompaniments. It is not enough to manifest faith, hope and love, but to continue to do so unto the end. Notice that the two conditions on which the promises are inherited are faith and patience.\n\nThese truths are enforced by the example of Abraham. He believed God and patiently endured. Your prayers cannot be lost, as ships at sea; they will make harbor at last, laden with golden freight. God’s promise and oath are a double door, behind which they who have fled for refuge are safe-a double window beyond which all noise dies down. The allusion is either to the cities of refuge, or to a ship safely riding out the storm. Hope is sure, because the anchor has fastened in a sure ground; steadfast, because its cable will not snap in the strain; and entering, etc., because it unites us to the unseen. Jesus has taken our anchor into the inner harbor, and has dropped it down into the clear, still water there."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 7
+ }
+}

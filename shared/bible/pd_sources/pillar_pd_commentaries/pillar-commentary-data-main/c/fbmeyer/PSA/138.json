@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 138,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Most High Regards the Lowly -- Psalms 138:1-8\n\nThis is the first of a cycle of Davidic psalms, based on 2 Samuel 7:1-29. God’s promised favors are the theme of devout thanksgiving. No idols could have achieved such generous and great results. Even God had outdone Himself by magnifying His word above His name. Prayer had played its part, for in the day that it was offered it had been answered. Even kings in their various spheres would add their praises, Psalms 138:4.\n\nYet this would be only the beginning of wonders. God can never rest with an incomplete or an unfinished work. When He puts His hand to the salvation of a soul, He pledges Himself to perfect the good work until the day of Jesus Christ, Philippians 1:6. Trust God, amid all disappointment and heartache. He will wipe away all tears, explain all mysteries, and place the topstone on the structure of your life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 138
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 137
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 139
+ }
+}

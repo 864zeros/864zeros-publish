@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TH",
+  "commentaryId": "fbmeyer",
+  "name": "1 Thessalonians",
+  "commonName": "1 Thessalonians",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Imitators and Examples -- 1 Thessalonians 1:1-10\n\nThis chapter abounds in thanksgiving; and the Apostle recites the many beautiful and hopeful traits of character and behavior by which the members of this Christian community had endeared themselves to him. Notice his favorite grouping of faith, hope, and love. We are taught to crave for these in our own soul-garden, and to rejoice to find them blossoming in others. Too often the gospel comes only in word; let us seek the other three accompaniments of 1 Thessalonians 1:5. What a blessed thing it would be if our church life were so full of the Spirit of Christ that the ministers would not need to say anything! “By whose preaching,” a lad was asked, “were you converted?” “By no one’s preaching,” was the reply, “but by my Aunt Mary’s living.”\n\nThere are three memorable steps indicated in 1 Thessalonians 1:9-10. Turn unto God: serve Him as true and living: wait for the coming of the Son of man. The last phrase strikes the keynote of this Epistle. The Church is encouraged to stand expectant at the oriel window. Behind her is the night from which she has been delivered, and on the bosom of the dawn shines the morning star."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 2
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Food and Weapon: a Side Step -- 1 Samuel 21:1-15\n\nDavid fled to Nob, at the north of the Mount of Olives, where Ahimelech presided over the relics of the ancient sanctuary. His suspicions were removed by an evasion on David’s part, which he must have regretted to the end of his life. If we are right with God and know ourselves to be on the predestined path, we need not resort to deceit nor subterfuge-if we adopt such means, the results are likely to be disastrous to ourselves and others, our innocent fellow-sufferers.\n\nIt was the Sabbath day, for the show-bread had just been removed from the table, Leviticus 24:8. This was the perquisite of the priest, but, in subordinating the ceremonial to the urgency of human need, Ahimelech acted in strict harmony with the spirit of the Mosaic legislation. This is the distinct teaching of Mar 2:25, and of our Lord’s insistence on his right to heal on the Sabbath day. Read Psalms 34:1-22; Psalms 56:1-13 with the closing paragraph of 1 Samuel 21:1-15. David’s behavior was unworthy, yet, in his heart, he was hiding in God. We must not judge by appearances, but with discerning judgment. There is a large measure of humanity in all God’s saints."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 22
+ }
+}

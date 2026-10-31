@@ -15,6 +15,7 @@ PRE_COMPACT_*.md
 _*.tmp
 _psalms_web.json
 media/**/temp*
+_build/video/fhg_shorts_engine/tmp_work/
 
 # --- Raw image inboxes & large camera RAW dropboxes ---
 sources/google_photos_inbox/*

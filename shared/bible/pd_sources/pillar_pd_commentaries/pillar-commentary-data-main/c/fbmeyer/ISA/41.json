@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 41,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord Upholdeth His Servant -- Isaiah 41:1-16\n\nThe conception of this passage is superb. Jehovah is represented as summoning the earth to determine whether He or some idol of the heathen is the true God, Isaiah 41:7. Also see Isaiah 41:23. The test proposed is a simple one! Which can most precisely predict the future? Not, as in Elijah’s case, is the appeal made to fire, but to the fitting of prophecy with historical fulfillment. See Isaiah 41:22-23.\n\nWhile this great arbitration is in process, God turns with tender assurances to His own people. They were at this time captives in Babylon. They were poor and needy. They were surrounded by strong and crafty foes, against whom they were as powerless as a worm. But no height, however precipitous, or depth, however profound, could separate them from His love. Heart and flesh might fail, but He would strengthen; difficulties might appear insurmountable, but He would help. He does more. He takes His people, weak as worms, and makes them, if they but yield to Him, sharp threshing instruments having teeth before which the powers of evil become as chaff. O man, listen to God saying, I will make."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "What the Lord’s Hand Does for the Needy -- Isaiah 41:17-29\n\nLife is not easy for any of us, if we regard external conditions only; but directly we learn the divine secret, rivers flow from bare heights, fountains arise in sterile valleys, and the desert blooms like the forest-glade. To the ordinary eye there might appear no outward change in the forbidding circumstance; but faith’s eye always beholds a very paradise of beauty where other eyes see only straitened circumstances and a trying lot.\n\nOnce again our minds are brought back to the great convocation announced in the opening verses of the chapter. The idols are asked to say or do something to prove that they are divine. See Isaiah 41:21-23. There is no response; with the result that a crushing verdict is passed on them as recorded in Isaiah 41:24. On the other hand, the prophet of the Lord is prepared with His predictions of Cyrus “the one from the East,” (see Isaiah 41:2 and Isaiah 44:28) which would be fulfilled before that generation had passed away. Let us give heed to the sure word of prophecy, “as unto a light that shineth in a dark place,” 2 Peter 1:19."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 41
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 40
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 42
+ }
+}

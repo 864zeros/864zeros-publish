@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 89,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "No God like Our God -- Psalms 89:1-18\n\nTo understand this psalm we must turn to 2 Samuel 7:1-29, where God guaranteed that David’s kingdom should be continued to his descendants. Nathan’s words are quoted in Psalms 89:3-4. But in contrast with these promises, which were conditional upon the faithful obedience of David’s descendants, the psalmist sorrowfully recites the disobedience of the Chosen People. There could be no doubt as to the divine faithfulness to Covenant engagements. See Psalms 89:1-2; Psalms 89:5; Psalms 89:8; Psalms 89:14. And the object of this psalm is to inquire whether that faithfulness does not include the recall and restoration of a sinful nation, as it most certainly does include the continued blessing of an obedient one.\n\nIn the first division, Psalms 89:1-18, the singer enumerates the divine attributes. God’s mercy is conceived as a stately mansion, which is being reared, story by story, throughout the centuries. The enduring heavens, the mightiest natural forces, such as the tides, the glorious mountains, are emblems of qualities in God’s nature. He is described as going forth in a triumphal procession, preceded by Mercy and Truth; and we are invited to accompany Him, and to walk in the light of His countenance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "The Covenant with David -- Psalms 89:19-37\n\nIn this section the psalmist draws put, in detail, the fundamental prophecy by Nathan already mentioned; first, in the promises given to David, Psalms 89:19-27; and second, in those relating to his descendants, Psalms 89:28-37.\n\nDavid’s origin was very humble. His dignity and power were all of God. But our Father never sets a man in any position and fails to supply the gifts needed for it. When He chooses, He anoints, strengthens, and protects. Victory also is granted over the man’s enemies, because God’s faithfulness and mercy are beside him, Psalms 89:24. The relationship between the soul and God is very intimate; on the one hand you have Psalms 89:26; and on the other Psalms 89:27.\n\nWhat a precious promise is Psalms 89:28! From this point the psalmist turns to expand the promises to David’s line. They may be chastened, but not permanently rejected. In Psalms 89:33 the twin attributes of mercy and faithfulness are again blended as the ground of hope of sinful and unworthy men. God’s word, once spoken, is inviolable. He is bound by His oath. Sin cannot alter His promise or the obligations under which He has laid Himself. His unchangeableness is a bed-rock upon which we may build with certitude."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 38,
+    "content": [
+     {
+      "text": "“A Consuming Fire” -- Psalms 89:38-52\n\nHere the psalmist falls into expostulation and lament. Whether he alludes to the time when Jerusalem was taken by Shishak in the days of Rehoboam, 1 Kings 14:25-26, or when the youthful prince Jehoiachin was deposed by Nebuchadnezzar, 2 Kings 24:10-16, it is impossible to say; but it seemed as if God’s faithfulness had failed. The psalmist dwells sorrowfully upon the contrast between God’s ancient Covenant and the sad reality. The family that had been promised perpetual duration and dominion had lost its luster and had become like a dying lamp.\n\nThen the psalmist betakes himself to prayer, and bases his argument upon the brevity of the age. There is but a little while during which God has the opportunity of manifesting His love and truth. Literally the words are, “Remember-what a transitoriness!” Psalms 89:47. In the last three verses another plea is presented-that dishonor will accrue to God if He does not arrest the continuance of disaster. The insults and reproaches that are hurled against the servants are really directed against their God; therefore He is entreated, in vindicating them, to vindicate Himself.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 89
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 88
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 90
+ }
+}

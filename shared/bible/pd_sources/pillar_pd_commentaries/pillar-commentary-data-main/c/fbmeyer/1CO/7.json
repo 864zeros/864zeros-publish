@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Marriage Bonds -- 1 Corinthians 7:1-14\n\nThe Apostle first addresses the unmarried, 1 Corinthians 7:1, etc. He speaks elsewhere reverently of marriage, Ephesians 5:23. Forbidding to marry is in his judgment a symptom of apostasy, 1 Timothy 4:1-3. His recommendations here were evidently due to the special circumstances of that difficult and perilous time. The loftiest conception of marriage is the wedding of two souls, each of which, has found its affinity; the Apostle is treating here the only conception of marriage entertained by these recent converts from paganism. He deals with them on their own level, with the determination of ultimately leading them to view marriage from Christ’s standpoint. It is often well to fast from lawful things, that we may surrender ourselves more absolutely to the Spirit of God.\n\nIn addressing the married, 1 Corinthians 7:10, etc., Paul is not dealing with the formation of marriage ties; they are settled by 2 Corinthians 6:14. He is deciding what course shall be followed, when either a husband or a wife has become a Christian, the other remaining unchanged. He decides that the Christian should not separate, so long as the unbelieving partner is willing to continue their life together."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Serve God in Your Calling -- 1 Corinthians 7:15-24\n\nThere was much unsettlement in regard to marriage in the church at Corinth. An unnatural asceticism was showing itself in some quarters and a lawless self-indulgence in others. Against these tendencies Paul resolutely set himself. While he held that marriage should be contracted only in the Lord, he also taught that where it had been consummated it should not be dissolved at the instance of the Christian, though the wish of the unbelieving partner might be acceded to. Children, also, born when one of their parents was a heathen, might be reckoned clean.\n\nThe Apostle refers both to vocation and to the Christian life as a divine calling, 1 Corinthians 7:18-24. We are all called to our trade or profession as much as a student is to the ministry. It is interesting that a man will speak of his business as his calling. God has a purpose for each of us, and summons us to fulfill it. Unless we are specially led to do otherwise, we should, on entering the Christian life, remain in the same calling in which our former life was spent. The only difference is that we are to stay in it with God, 1 Corinthians 7:24. In every service, however lowly, we should have an eye toward Christ. All may be done in Him, with Him, for Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Counsel for Times of Emergency -- 1 Corinthians 7:25-40\n\nThe virgin here referred to is probably the young woman who was engaged to be married, and the counsel is expressly defined to be advice, and given only under the pressure of the times, when the dissolution of all things seemed at hand. It seemed wiser not to enter upon matrimony because everything was in flux, but no sin was contracted if marriage took place, so long as it was only in the Lord, 1 Corinthians 7:39. As pilgrims we should hold all earthly things but lightly, 1 Corinthians 7:30.\n\nThe allusion of 1 Corinthians 7:31 is to the shifting scenery of a theater. The fashion of the age is like the ever-changing moving-picture films that flash before the audience and cannot be arrested or recalled. Surely the unmarried among us should ponder carefully the recommendations of 1 Corinthians 7:32-34, the first of which refers to the man and the second to the wife. Where both are Christians, however, surely there may be union in caring for the things of the Lord, that the great cause of His Kingdom may be expedited rather than hindered. But everything in this chapter, as well as the general New Testament teaching, emphasizes the absolute importance of marriage being only in the Lord, 1 Corinthians 7:39."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 8
+ }
+}

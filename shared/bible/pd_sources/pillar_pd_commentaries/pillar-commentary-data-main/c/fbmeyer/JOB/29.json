@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 29,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Bitter Memory of the Happy Past -- Job 29:1-25\n\nHow many thousands, looking back on the beautiful dawn of life which has become overcast, have uttered the thought of the opening words of this chapter! The worldling has no hope of the renewal of that blessed past; but the believer knows that in Christ he belongs to the eternal order, which enters into the devastation wrought by sin, arresting, canceling and converting evil into good.\n\nIf we believe in Jesus Christ, submit to His will, and unite ourselves to His heart, “a statelier Eden” comes back to us. God watches over us for good; His lamp shines on our way; His friendship is in our tent, and His love transfigures all things. The graphic description which follows of the life of a godly man is still true when a man’s ways please the Lord."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 29
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 31
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Persistently Press Forward -- Hebrews 12:1-8\n\nIn one of Raphael’s pictures the clouds, when looked at minutely, are seen to be composed of little cherub-faces; and those who have already witnessed and suffered for God gather around us as a great cloud, like the crowded amphitheaters in the old Olympian games. We are still in the arena; probably every blow and sigh are beheld and heard by the general assembly and church of the firstborn. What an incentive to lay aside all “cumbrances” ; that is, whatever in your life may be a hindrance, though hardly a sin! But above all, we must put away the sin of unbelief, which we can best do by looking unto Jesus.\n\nThe word our should certainly be eliminated in Hebrews 12:2. Jesus began and finished His life-career by the same faith-“the faith of the Son of God” -which each of His children has to exercise. The light beyond the Cross beckoned to Him and so enamored Him that he counted no cost too dear, if only He might realize the possibilities that gleamed before His vision, of an elect church and a transformed world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Endure Chastening; Seek Holiness -- Hebrews 12:9-17\n\nIf we are God’s children, we will not look on suffering as a punishment. Chastening it may be, but not the penalty of sin. It is administered by our Father. Don’t look at the intermediary links in the chain, but remember that Satan could not go beyond the Father’s limit in the case of Balaam or Job. See Numbers 22:31; Job 2:6. It is only for the present; it will soon be over; it is intended to free us of dross and is therefore to profit; it will yield peace, and righteousness, and true holiness. Look on and up-the harvest will repay.\n\nWe are bidden, Hebrews 12:14-17, to watch each other’s interests and to stay the first speck of corruption in the fruit, lest it spread. The corrupt soul infects all in its neighborhood. There are irrevocable acts in life. We cannot undo them, but we may be forgiven. Esau received all that this world could give and became a prince, but he never got back his spiritual leadership."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Hearken to God’s Latest Word -- Hebrews 12:18-29\n\nSinai rocked with earthquake and burned with fire. None might touch it without incurring the death penalty. How much better our Christian heritage! Not a lonely mountain, but a city and commonwealth of holy souls. Not bands of worshipers gathered from the land of Canaan, but hosts of angels, the spirits of just men; and our blessed Lord Himself. For the blood of animals, the blood of Jesus; for the Old Covenant, the New; for Abel’s death beside his altar, the Savior’s death on the cross.\n\nNotice the writer does not say that we shall, but that we are come, Hebrews 12:22. Already, in our holiest moments, we are part of that great throng to which so many of our beloved have gone. Around us the most stable structures are being tested and some are crumbling to the ground. As they fall they show that their service was transient. But as the scaffolding is taken down, the true building-the City of God-emerges."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 13
+ }
+}

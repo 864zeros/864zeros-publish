@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Rebellion of Koran -- Numbers 16:1-19\n\nThis was a very serious revolt, because so many princes associated themselves with the Levites. Jealousy was at the root of the entire movement. “All the congregation are holy,” they said. “Wherefore lift ye up yourselves?” There is no root of bitterness that needs such careful watching as jealousy! If it is in your heart you must, like Samuel of old and General Gordon in our own times, “hew Agag in pieces before the Lord.”\n\nThe record of Moses’ meekness precedes this story of his testing. Whatever is strongest and best in us will be searched as by fire. Even Moses was ruffled by these gross charges. See Numbers 16:15. The best of men are but men at the best. Only Jesus was without a flaw.\n\nWhat a beautiful thought is expressed in Numbers 16:5; Numbers 16:7; Numbers 16:9. There are holy and blessed souls who have an especial right of access into God’s presence-chamber. See Zechariah 3:7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "Divine Judgment upon the Rebels -- Numbers 16:20-35\n\nIt was wise of Moses not to attempt to vindicate himself, but to leave God to maintain His cause. He is not slow to undertake the vindication of those who entrust their reputation with Him. To take the sword is to perish by the sword. “Wait on the Lord and keep His way, and He will exalt thee to inherit the land.”\n\nThe doom of Korah and his fellow-conspirators was very terrible; but if they had been spared, the whole camp would have been infected, and God’s purposes frustrated. Those who suffer from the bubonic plague must be instantly separated from their fellows, for the sake of society! Remember, as Jude says, that the pit still devours, Jude 1:11. In these last days of the present age, and in view of the terrible records of this chapter, we may well ponder the summons of Rev 18:4. The congregation was spared, because of the divine compassion of which Moses had a true conception. His prayer only reflected the divine thought, Numbers 16:22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "“Between the Dead and the Living” -- Numbers 16:36-50\n\nThe censers served as plates for the altar. Even evil men and evil things will be made to subserve the divine purposes. See Acts 2:23. What a wonderful anticipation of our Lord’s eternal priesthood and intercession is furnished by this picture of Aaron waving his censer between the living and the dead, and arresting the plague! On which side do you stand? Are you among the living, or among the dead? Is Christ to you a savor of life unto life or of death unto death? Awake thou that sleepest and arise from the dead, and Christ shall enlighten thee.\n\nThe priesthood and the incense-offering had been usurped by Korah to his destruction; but as exercised by God’s appointed priest, they brought life. It is an awful thing for mortal man to intrude into the sacred prerogatives of Christ. See 1 Timothy 2:5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 17
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 57,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "No Peace to the Wicked -- Isaiah 57:1-21\n\nA terrible portrayal is given here of the idolatries and impurities into which the Chosen People had fallen. These scenes under “the oaks” (r.v.) and in the valleys remind us of the invariable evils associated with idolatry which the great Apostle has recorded in Romans 1:23-28. They refused to retain God in their knowledge, and He gave them over to a reprobate mind; that is, He ceased to restrain them.\n\nBut amid the degenerate nation, there was a handful of elect souls; God is always careful against rooting up the tares, lest one stalk of wheat perish. Amid the destruction that must overtake the guilty land they that trusted in Him, would not be overlooked. See Isaiah 57:13-14.\n\nWith what comfort the chapter closes! Isaiah 57:15, etc. We may have been covetous and froward, and have deserved wrath and chastisement, but God will not always chide. Only return to Him! He will revive your heart, and “restore comfort” to you. He will heal where He has wounded, and will bring you near, through the blood of the Cross. See Ephesians 2:16-17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 57
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 56
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 58
+ }
+}

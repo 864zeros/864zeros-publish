@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Delivered from Mesopotamian Oppression -- Judges 3:1-14\n\nOur sins and failures will sometimes be so overruled as to promote the growth of our souls in the true knowledge of ourselves and of God. It would be better to acquire these great lessons and virtues by the regular advance of an obedient and believing life. But where this method fails, God will teach us through our faults. The presence of the Canaanite taught Israel war and self-knowledge. See Judges 3:2; Judges 4:1-24.\n\nOthniel had a noble estate of his own, which might have made him indifferent to the national crisis. But he and Achsah were animated by the high courage of Caleb, the lion-cub. See Judges 1:12. Let us be quick to feel the impulse of the Spirit of the Lord, and yield to it when it prompts us to go forth to war in some sacred cause. No thought of our own comfort or ease must hold us, when there is a wrong to right or an oppressor to beat to the ground! Dare to trust the unseen Christ who summons you, and as you step out, the ether will be rock beneath your feet."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The “Message from God” -- Judges 3:15-31\n\nThe sword is usually worn at the left hand, and Ehud escaped suspicion because his was girded under his raiment on his right thigh. Eglon was also the more ready to listen to him and give a secret audience, because he had just received a tribute from Ehud’s hand. It was a terrible deed of vengeance, which must not be judged by our ethical standards. But can we not understand how the hatred of a downtrodden and high-spirited race would express itself in just this manner?\n\nThat dagger, thrust in up to the hilt, was indeed a message from God, for it ended Eglon’s life and summoned his soul to stand at the bar of divine judgment. A supreme tragedy cannot befall except by the divine permission. Though God’s silent permission of evil cannot be construed as acquiescence, yet the results of an evil deed may be wrought into the scheme of His providence, as in the case of Gen 50:20-21 and Acts 2:23. It is our frequent experience to have thrusts made at us; let us ask if they may not be messages from God! There is no chance in life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 4
+ }
+}

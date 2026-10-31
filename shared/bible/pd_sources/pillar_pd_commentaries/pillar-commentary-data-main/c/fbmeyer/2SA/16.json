@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Day That Revealed Character -- 2 Samuel 16:1-12\n\nThere may have been some truth in Ziba’s statement, but we should balance it with 2 Samuel 19:24. Shimei vented the spleen of the house of Saul. He probably referred to the recent execution of the sons of Rizpah, and perhaps suggested that David had been guilty of all the disaster that had befallen Saul’s house from the day of Gilboa. When men curse us, whether we deserve it or not, let us look past them to the permissive will of God. “Let him curse; for the Lord hath bidden him!”\n\nWhen, through the treachery of Judas, the bitter cup came to the lips of our Lord, he said, “It is the cup that my Father hath given me to drink.” Pain and sorrow, treachery and hard speeches, may be devised against us by the malignity of an Ahithophel, a Shimei, or a Judas; but by the time these have passed, through the permissive will of God, we may receive them as the strokes of His chastening rod, that we may partake of His holiness. We are not the sport of chance or human caprice. God deals with us as with sons."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The True King’s Loyal Friend -- 2 Samuel 16:13-23\n\nThere are always some alleviations in our trials. Every cloud is edged with a silver or golden fringe. Shimei may curse, but Ittai swears allegiance; Zadok and Abiathar forget their ancient rivalry in a common sorrow; Ahithophel’s defection may cut us to the quick, but Hushai is willing to plead our cause.\n\nBeware of any advice which complies with and gratifies the impulses of your own lower nature. He who begins by counseling you to do what is morally wrong can never be trusted as an adviser in matters that require consummate prudence. He is no oracle of God who does not take his stand on righteousness and purity. “The wisdom which is from above is first pure, then peaceable,… and without hypocrisy,” James 3:17. Let us not run hither and thither to seek counsel of man. If any lack wisdom, let him ask of God, who giveth to all liberally, and upbraideth not. The one characteristic of a heaven-guided man is his calm decision and deliberateness. They that believe do not make haste!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 17
+ }
+}

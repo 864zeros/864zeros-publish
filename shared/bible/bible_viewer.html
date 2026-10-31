@@ -3,7 +3,21 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>864zeros Bible Library — Reviewer</title>
+<title>For His Grace — Scripture Sanctuary (834 Key Verses)</title>
+<script>
+// Isolated Parse & Runtime Error Handler (catches syntax/runtime errors in subsequent script blocks)
+window.addEventListener('error', function(ev) {
+  var box = document.getElementById('content');
+  if (!box) return;
+  var msg = (ev && ev.message) ? ev.message : 'Unexpected script error';
+  var loc = (ev && ev.lineno) ? (' (line ' + ev.lineno + ')') : '';
+  box.innerHTML = '<div style="margin:24px;padding:18px 20px;background:#fff8f6;border:1.5px solid #d9534f;border-radius:10px;color:#5c201e;font-size:13.5px;">' +
+    '<div style="font-weight:800;font-size:15px;margin-bottom:6px;">⚠️ Viewer Script Error Caught' + loc + '</div>' +
+    '<div style="font-family:monospace;font-size:12.5px;background:#fff;padding:8px 10px;border-radius:6px;border:1px solid #ebccd1;margin-bottom:10px;">' + String(msg).replace(/</g, '&lt;') + '</div>' +
+    '<button type="button" onclick="window.location.href=\'bible_viewer.html\'" style="cursor:pointer;padding:6px 12px;border-radius:6px;border:1px solid #8b6642;background:#8b6642;color:#fff;font-weight:700;font-size:12px;">↻ Reset Viewer State</button>' +
+    '</div>';
+});
+</script>
 <style>
   :root{
     --bg:#f6f5f1; --panel:#ffffff; --ink:#23201b; --muted:#8a8378; --line:#e6e2da;
@@ -53,6 +67,9 @@
   .rbook{font-size:11px;color:var(--accent);font-weight:600;margin-bottom:3px}
   mark{background:#fbe7a1;padding:0 1px;border-radius:2px}
   .empty{color:var(--muted);padding:40px 4px}
+  .nav-pill{font-size:11px;font-weight:600;padding:4px 8px;border-radius:5px;text-decoration:none;border:1px solid var(--line);color:var(--muted);background:var(--bg);cursor:pointer;display:inline-block}
+  .nav-pill.active-verses{border-color:var(--accent);color:#fff;background:var(--accent)}
+
   @media(max-width:820px){.app{grid-template-columns:1fr}aside{position:fixed;left:0;top:0;bottom:0;width:280px;transform:translateX(-100%);transition:.2s;z-index:5;box-shadow:0 0 40px rgba(0,0,0,.15)}aside.open{transform:none}.cols{grid-template-columns:1fr;gap:12px}.menu-btn{display:inline-flex!important}}
   .menu-btn{display:none;border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 10px;cursor:pointer}
 </style>
@@ -61,8 +78,13 @@
 <div class="app">
   <aside id="sidebar">
     <div class="brand">
-      <h1>864zeros Bible Library</h1>
+      <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;"><img src="images/fig-001-jeff-style.jpg" alt="For His Grace Fig Tree Logo" style="width:38px;height:38px;border-radius:8px;object-fit:cover;border:1.5px solid #8b6642;" /><div><div style="font-size:10.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#8b6642;">For His Grace</div><h1>Scripture Sanctuary</h1></div></div><div style="font-family:Georgia,serif;font-style:italic;font-size:11.5px;color:#5c4d3c;margin-bottom:4px;">“Solitude isn’t lonely when it’s the gift He gave.”</div>
       <div class="sub" id="stats">loading…</div>
+      <div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;">
+        <button type="button" id="navBtnVerses" class="nav-pill active-verses" onclick="window.showAllVersesView()">📜 834 Verses</button>
+        <a href="bible_study_viewer.html" class="nav-pill">🧭 660 Lessons</a>
+        <a href="bible_questions_viewer.html" class="nav-pill">🎯 762 Questions</a>
+      </div>
     </div>
     <div id="booklist"></div>
   </aside>
@@ -86,96 +108,232 @@
 <script src="bible_data.js"></script>
 <script>
 (function(){
-  var DATA = (window.BIBLE||{books:[],meta:{}});
-  var books = DATA.books, meta = DATA.meta;
-  var content = document.getElementById('content');
-  var current = 0;
+  try {
+    var DATA = (window.BIBLE||{books:[],meta:{}});
+    var books = DATA.books, meta = DATA.meta;
+    var content = document.getElementById('content');
+    var current = 0;
+    var viewMode = 'book'; // 'book' | 'pillar' | 'search'
+    var activeStyleField = 'image_file_blotch';
+    var activePillarFilter = null;
 
-  // stats
-  document.getElementById('stats').textContent =
-    meta.total_books + ' books · ' + meta.total_records + ' records · OT ' + meta.ot_records + ' / NT ' + meta.nt_records;
+    // stats
+    document.getElementById('stats').textContent =
+      meta.total_books + ' books · ' + meta.total_records + ' records · OT ' + meta.ot_records + ' / NT ' + meta.nt_records;
 
-  // sidebar
-  function buildSidebar(){
-    var html = '';
-    ['OT','NT'].forEach(function(t){
-      html += '<div class="grp">'+(t==='OT'?'Old Testament':'New Testament')+'</div>';
-      books.forEach(function(b,i){
-        if(b.testament!==t) return;
-        html += '<div class="book" data-i="'+i+'"><span>'+esc(b.book)+'</span><span class="n">'+b.records+'</span></div>';
+    function syncNavPills(){
+      var vBtn = document.getElementById('navBtnVerses');
+      if(vBtn) vBtn.classList.add('active-verses');
+    }
+
+    // sidebar
+    function buildSidebar(){
+      var html = '';
+      ['OT','NT'].forEach(function(t){
+        html += '<div class="grp">'+(t==='OT'?'Old Testament':'New Testament')+'</div>';
+        books.forEach(function(b,i){
+          if(b.testament!==t) return;
+          html += '<div class="book" data-i="'+i+'"><span>'+esc(b.book)+'</span><span class="n">'+b.records+'</span></div>';
+        });
       });
-    });
-    var bl = document.getElementById('booklist');
-    bl.innerHTML = html;
-    bl.querySelectorAll('.book').forEach(function(el){
-      el.onclick=function(){ selectBook(+el.dataset.i); document.getElementById('sidebar').classList.remove('open'); };
-    });
-  }
-  function markActive(){
-    document.querySelectorAll('.book').forEach(function(el){ el.classList.toggle('active', +el.dataset.i===current && !searching()); });
-  }
+      var bl = document.getElementById('booklist');
+      bl.innerHTML = html;
+      bl.querySelectorAll('.book').forEach(function(el){
+        el.onclick=function(){ selectBook(+el.dataset.i); document.getElementById('sidebar').classList.remove('open'); };
+      });
+    }
 
-  function selectBook(i){ current=i; document.getElementById('q').value=''; renderBook(); markActive(); content.scrollTop=0; window.scrollTo(0,0); }
+    function markActive(){
+      syncNavPills();
+      document.querySelectorAll('.book').forEach(function(el){
+        el.classList.toggle('active', viewMode === 'book' && +el.dataset.i === current && !searching());
+      });
+    }
 
-  function renderBook(){
-    var b = books[current];
-    var h = '<div class="bookhead"><h2>'+esc(b.book)+'</h2>'+
-            '<span class="badge '+b.translation+'">'+b.translation+'</span>'+
-            '<span class="meta">'+b.records+' verses · '+esc(b.shape)+'</span></div>';
-    var lastCh = null;
-    b.verses.forEach(function(v){
-      if(v.chapter!==lastCh){ h+='<div class="chapter">Chapter '+v.chapter+'</div>'; lastCh=v.chapter; }
-      h += verseHTML(v,null);
-    });
-    content.innerHTML = h;
-  }
+    window.showAllVersesView = function(){
+      viewMode = 'book';
+      activePillarFilter = null;
+      document.getElementById('q').value = '';
+      renderBook();
+      markActive();
+      content.scrollTop = 0;
+      window.scrollTo(0, 0);
+    };
 
-  function verseHTML(v, term){
-    var s = esc(v.text), p = esc(v.plain), c = esc(v.citation);
-    if(term){ s=hl(s,term); p=hl(p,term); c=hl(c,term); }
-    return '<div class="verse"><div class="cite">'+c+'</div><div class="cols">'+
-      '<div class="col scripture-col"><div class="lab">Scripture</div><div class="scripture">'+s+'</div></div>'+
-      '<div class="col plain-col"><div class="lab">Plain · 864zeros</div><div class="plain">'+p+'</div></div>'+
-      '</div></div>';
-  }
+    function selectBook(i){
+      current = i;
+      viewMode = 'book';
+      activePillarFilter = null;
+      document.getElementById('q').value = '';
+      renderBook();
+      markActive();
+      content.scrollTop = 0;
+      window.scrollTo(0, 0);
+    }
 
-  // search
-  function searching(){ return document.getElementById('q').value.trim().length>0; }
-  function runSearch(){
-    var term = document.getElementById('q').value.trim();
-    if(!term){ renderBook(); markActive(); return; }
-    markActive();
-    var low = term.toLowerCase(), hits=[], cap=400;
-    for(var i=0;i<books.length && hits.length<cap;i++){
-      var b=books[i];
-      for(var j=0;j<b.verses.length;j++){
-        var v=b.verses[j];
-        if(v.text.toLowerCase().indexOf(low)>-1 || v.plain.toLowerCase().indexOf(low)>-1 || v.citation.toLowerCase().indexOf(low)>-1){
-          hits.push({b:b.book,v:v}); if(hits.length>=cap) break;
+    var VERSE_ART_STYLES = [
+      { field: 'image_file_blotch',       label: '✨ Blotchy (B1)' },
+      { field: 'image_file_loop_scr',     label: '🌀 Loop Scribble' },
+      { field: 'image_file_xhatch_scr',   label: '🕸️ X-Hatch' },
+      { field: 'image_file_sub_scr',      label: '🪄 Subtractive P3' },
+      { field: 'image_file_c2',           label: '★ Riso Earth (C2)' },
+      { field: 'image_file_c3',           label: '★ Ukiyo-e (C3)' },
+      { field: 'image_file_line',         label: '✒️ Contour (G2)' },
+      { field: 'image_file_g4',           label: '📐 Angular (G4)' },
+      { field: 'image_file_c1',           label: '🌲 Terra/Pine (C1)' },
+      { field: 'image_file_c4',           label: '🌊 Prussian (C4)' },
+      { field: 'image_file_base',         label: '🎨 Base Draft' },
+      { field: 'image_file_nb_loop_c3',   label: '🌀★ Loop × Ukiyo-e' },
+      { field: 'image_file_nb_loop_c4',   label: '🌀🌊 Loop × Prussian' },
+      { field: 'image_file_nb_line_c3',   label: '✒️★ Contour × Ukiyo-e' },
+      { field: 'image_file_nb_line_c4',   label: '✒️🌊 Contour × Prussian' },
+      { field: 'image_file_nb_base_c3',   label: '🎨★ Base × Ukiyo-e' },
+      { field: 'image_file_nb_base_c4',   label: '🎨🌊 Base × Prussian' },
+      { field: 'image_file_nb_sub_c3',    label: '🪄★ Subtractive × Ukiyo-e' },
+      { field: 'image_file_nb_xhatch_g2', label: '🕸️✒️ X-Hatch × Contour' }
+    ];
+    var PILLAR_BADGES = {
+      people:  '🧑 People (From Back)',
+      nature:  '🌿 Nature & Flora',
+      objects: '🏺 Sacred & Daily Objects',
+      animals: '🐑 Indigenous Animals',
+      weather: '🌤️ Weather & Sky'
+    };
+
+    window.setVerseArtStyle = function(field){
+      activeStyleField = field;
+      if(searching()) runSearch();
+      else if(viewMode === 'pillar' && activePillarFilter) window.filterByPillar(activePillarFilter);
+      else renderBook();
+    };
+
+    window.filterByPillar = function(pillar){
+      activePillarFilter = pillar;
+      document.getElementById('q').value = '';
+      if(!pillar){
+        viewMode = 'book';
+        renderBook();
+        markActive();
+        return;
+      }
+      viewMode = 'pillar';
+      markActive();
+      var hits = [];
+      for(var i=0;i<books.length;i++){
+        var b=books[i];
+        for(var j=0;j<b.verses.length;j++){
+          var v=b.verses[j];
+          if(v.pillar === pillar) hits.push({b:b.book,v:v});
         }
       }
+      var h = studioSwitcherHTML() + '<div class="reslabel">🎨 Showing '+hits.length+' Verses in Pillar: <strong>'+(PILLAR_BADGES[pillar]||pillar)+'</strong> <button type="button" onclick="window.filterByPillar(null)" style="margin-left:8px;cursor:pointer;font-size:11px;padding:2px 8px;border-radius:5px;border:1px solid #cbb69b;background:#fff;">Show Current Book</button></div>';
+      hits.forEach(function(hit){ h+='<div class="rbook">'+esc(hit.b)+'</div>'+verseHTML(hit.v,null); });
+      content.innerHTML=h; content.scrollTop=0;
+    };
+
+    function studioSwitcherHTML(){
+      var pills = VERSE_ART_STYLES.map(function(st){
+        var on = (activeStyleField === st.field);
+        return '<button type="button" onclick="window.setVerseArtStyle(\''+st.field+'\')" style="cursor:pointer;padding:4px 9px;border-radius:7px;font-size:11.5px;font-weight:700;border:1px solid '+(on?'#6e4d2c':'#d8ccb8')+';background:'+(on?'#6e4d2c':'#f9f5ec')+';color:'+(on?'#fff':'#4d3d2b')+';">'+st.label+'</button>';
+      }).join('');
+      var pbtns = ['people','nature','objects','animals','weather'].map(function(pk){
+        var on = (viewMode === 'pillar' && activePillarFilter === pk);
+        return '<button type="button" onclick="window.filterByPillar(\''+(on?'':pk)+'\')" style="cursor:pointer;padding:3px 9px;border-radius:99px;font-size:11px;font-weight:700;border:1px solid '+(on?'#5c4328':'#cbb69b')+';background:'+(on?'#5c4328':'#fffdf9')+';color:'+(on?'#fff':'#4f3822')+';">'+PILLAR_BADGES[pk]+'</button>';
+      }).join('');
+      return '<div style="background:#fffdf9;border:1.5px solid #d5c5ae;border-radius:11px;padding:11px 14px;margin-bottom:16px;">'+
+        '<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:8px;">'+
+        '<span style="font-size:11.5px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:#5c4328;">🎨 Master Art Edition Switcher (834 Illustrated Verses · 19 Studio Styles · 5 Pillars)</span>'+
+        '<div style="display:flex;gap:5px;flex-wrap:wrap;">'+pbtns+'</div></div>'+
+        '<div style="display:flex;gap:5px;flex-wrap:wrap;">'+pills+'</div></div>';
     }
-    var h='<div class="reslabel">'+hits.length+(hits.length>=cap?'+':'')+' match'+(hits.length===1?'':'es')+' for “'+esc(term)+'”</div>';
-    if(!hits.length){ h+='<div class="empty">No matches.</div>'; }
-    hits.forEach(function(hit){ h+='<div class="rbook">'+esc(hit.b)+'</div>'+verseHTML(hit.v,term); });
-    content.innerHTML=h; content.scrollTop=0;
+
+    function renderBook(){
+      viewMode = 'book';
+      activePillarFilter = null;
+      var b = books[current];
+      var h = studioSwitcherHTML() + '<div class="bookhead"><h2>'+esc(b.book)+'</h2>'+
+              '<span class="badge '+b.translation+'">'+b.translation+'</span>'+
+              '<span class="meta">'+b.records+' verses · 🎨 100% Illustrated (19 Studio Styles)</span></div>';
+      var lastCh = null;
+      b.verses.forEach(function(v){
+        if(v.chapter!==lastCh){ h+='<div class="chapter">Chapter '+v.chapter+'</div>'; lastCh=v.chapter; }
+        h += verseHTML(v,null);
+      });
+      h += '<div style="margin-top:28px;padding:18px;border-top:1px solid var(--line);text-align:center;color:var(--muted);font-size:12px;"><img src="images/fig-001-jeff-style.jpg" alt="For His Grace Fig Tree Logo" style="width:44px;height:44px;border-radius:10px;object-fit:cover;border:1.5px solid #8b6642;margin-bottom:6px;" /><div style="font-weight:800;color:var(--ink);">For His Grace</div><div style="font-family:Georgia,serif;font-style:italic;color:var(--ink);margin:2px 0 6px;">“Solitude isn’t lonely when it’s the gift He gave.”</div><div style="font-size:11px;font-style:italic;line-height:1.5;">FHG Sanctuary Plain is our original interpretation of scripture. It is enhanced with AI models trained on the author\'s \'real\' poems and prayers. Original tonality and nomenclature are applied. No interpretation arrives unapproved. — JMC<br/>Artwork is original and enhanced with AI models trained on the artist\'s \'real\' sketches. No artwork arrives unapproved. — JMC</div><div style="font-size:11px;margin-top:4px;">© 2026 For His Grace, a DBA of 864zeros LLC. All rights reserved. · Software that lives where you do.</div></div>';
+      content.innerHTML = h;
+    }
+
+    function verseHTML(v, term){
+      var s = esc(v.text), p = esc(v.plain), c = esc(v.citation);
+      if(term){ s=hl(s,term); p=hl(p,term); c=hl(c,term); }
+      var imgPath = v[activeStyleField] || v.image_file || '';
+      var vp = v.visual_prompt || '';
+      var specId = v.spec_id || 'fhg_sketch_spec';
+      var hum = v.humanizer || 'G2+S2';
+      var pillarLabel = PILLAR_BADGES[v.pillar] || '🌿 Sanctuary Study';
+      var skHtml = '';
+      if(imgPath){
+        skHtml = '<div style="margin-top:12px;display:flex;gap:14px;align-items:center;background:#fdfaf3;border:1px solid #e6dac8;border-radius:10px;padding:10px 14px;">'+
+          '<a href="'+imgPath+'" target="_blank"><img src="'+imgPath+'" loading="lazy" alt="'+esc(v.citation)+'" style="width:132px;height:132px;object-fit:contain;border-radius:6px;border:1px solid #e6dac8;background:#f5efe2;flex-shrink:0;" /></a>'+
+          '<div><div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:4px;"><span style="font-size:10.5px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#8b6642;">🎨 For His Grace · Signed Studio Sketch</span>'+
+          '<span style="font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:99px;background:#f3eadb;color:#5c4328;border:1px solid #dccab0;">'+pillarLabel+'</span></div>'+
+          '<div style="font-size:13px;color:#3d331a;">'+esc(vp)+'</div><div style="font-size:10.5px;color:#7a6855;font-style:italic;margin-top:4px;">Artwork is original and enhanced with AI models trained on the artist\'s \'real\' sketches. No artwork arrives unapproved. — JMC</div></div></div>';
+      } else if(vp){
+        skHtml = '<div style="margin-top:10px;background:#faf8f3;border:1px dashed #dcd3c2;border-radius:8px;padding:7px 12px;font-size:12.5px;color:#5c4d3c;">'+
+          '<span style="font-weight:700;color:#8b6642;font-size:11px;text-transform:uppercase;letter-spacing:.06em;margin-right:8px;">🖋️ '+esc(specId)+' ('+esc(hum)+'):</span>'+
+          esc(vp)+'</div>';
+      }
+      return '<div class="verse"><div class="cite">'+c+'</div><div class="cols">'+
+        '<div class="col scripture-col"><div class="lab">Scripture</div><div class="scripture">'+s+'</div></div>'+
+        '<div class="col plain-col"><div class="lab">*FHG-SP (FHG Sanctuary Plain)</div><div class="plain">'+p+'</div></div>'+
+        '</div>'+skHtml+'</div>';
+    }
+
+    // search
+    function searching(){ return document.getElementById('q').value.trim().length>0; }
+    function runSearch(){
+      var term = document.getElementById('q').value.trim();
+      if(!term){
+        renderBook(); markActive(); return;
+      }
+      viewMode = 'search';
+      markActive();
+      var low = term.toLowerCase(), hits=[], cap=400;
+      for(var i=0;i<books.length && hits.length<cap;i++){
+        var b=books[i];
+        for(var j=0;j<b.verses.length;j++){
+          var v=b.verses[j];
+          if(v.text.toLowerCase().indexOf(low)>-1 || v.plain.toLowerCase().indexOf(low)>-1 || v.citation.toLowerCase().indexOf(low)>-1){
+            hits.push({b:b.book,v:v}); if(hits.length>=cap) break;
+          }
+        }
+      }
+      var h = studioSwitcherHTML() + '<div class="reslabel">'+hits.length+(hits.length>=cap?'+':'')+' match'+(hits.length===1?'':'es')+' for “'+esc(term)+'”</div>';
+      if(!hits.length){ h+='<div class="empty">No matches.</div>'; }
+      hits.forEach(function(hit){ h+='<div class="rbook">'+esc(hit.b)+'</div>'+verseHTML(hit.v,term); });
+      content.innerHTML=h; content.scrollTop=0;
+    }
+
+    // view toggle
+    document.getElementById('toggle').addEventListener('click',function(e){
+      var btn=e.target.closest('button'); if(!btn) return;
+      document.querySelectorAll('#toggle button').forEach(function(x){x.classList.toggle('on',x===btn);});
+      document.body.className='view-'+btn.dataset.v;
+    });
+
+    var qEl=document.getElementById('q'), t;
+    qEl.addEventListener('input',function(){ clearTimeout(t); t=setTimeout(runSearch,120); });
+
+    function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+    function hl(s,term){ try{ var re=new RegExp('('+term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'); return s.replace(re,'<mark>$1</mark>'); }catch(e){ return s; } }
+
+    if(!books.length){ content.innerHTML='<div class="empty">Could not load <code>bible_data.js</code>. Keep it in the same folder as this file.</div>'; return; }
+    buildSidebar();
+    selectBook(0);
+  } catch (err) {
+    var box = document.getElementById('content');
+    if(box) box.innerHTML = '<div class="empty" style="color:#a94442;">Viewer initialization error: ' + String(err && err.message || err) + '</div>';
   }
-
-  // view toggle
-  document.getElementById('toggle').addEventListener('click',function(e){
-    var btn=e.target.closest('button'); if(!btn) return;
-    document.querySelectorAll('#toggle button').forEach(function(x){x.classList.toggle('on',x===btn);});
-    document.body.className='view-'+btn.dataset.v;
-  });
-
-  var qEl=document.getElementById('q'), t;
-  qEl.addEventListener('input',function(){ clearTimeout(t); t=setTimeout(runSearch,120); });
-
-  function esc(s){ return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
-  function hl(s,term){ try{ var re=new RegExp('('+term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'); return s.replace(re,'<mark>$1</mark>'); }catch(e){ return s; } }
-
-  if(!books.length){ content.innerHTML='<div class="empty">Could not load <code>bible_data.js</code>. Keep it in the same folder as this file.</div>'; return; }
-  buildSidebar(); selectBook(0);
 })();
 </script>
 </body>

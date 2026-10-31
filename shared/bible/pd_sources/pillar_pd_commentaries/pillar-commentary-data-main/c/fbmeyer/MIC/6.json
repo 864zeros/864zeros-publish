@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "fbmeyer",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“What Doth the Lord Require of Thee?” -- Micah 6:1-16\n\nIn Micah 6:1-4 the prophet returns from his vision of the future to the actual condition of his people, which was utterly desperate. The mountains, as the most enduring monuments of nature, are summoned as witnesses in the great trial between Jehovah and His people. Like Israel, we have been delivered from the house of bondage with infinite love, but how wayward and willful we have been! Micah 6:5-8 prove the impotence of a religion which is only external.\n\nFew have known more sublime truth than Baalim, Micah 6:5, but he loved the wages of unrighteousness; and this eclipsed the divine radiance that became overcast and finally overwhelmed. Micah 6:9-11 reveal the fruitlessness of a life of sin. Sooner or later nature herself becomes unresponsive-sowing, but no harvest; the treading of the press, but no juice. The only path to real satisfaction and peace is in the love and faithful service of God. Why are we so slow to tread it?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 7
+ }
+}

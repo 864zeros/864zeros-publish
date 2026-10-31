@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Outskirts of His Ways” -- Job 26:1-14\n\nJob taunts Bildad with his reply as having imparted no help or thought. He then proceeds, Job 26:5-14, to give a description of God’s power as manifested in Hades, in space, in the clouds, in the ocean, and throughout the universe. The spirits of the dead tremble before Him; the grave and destruction that veil themselves in night are stripped before His gaze; the world itself is suspended in space by invisible threads (a wonderful foreshadowing of the true theory of the earth); the waters are held in the clouds, which do not burst under their weight but act as the veil of God’s throne; the sea owns His authority, hushing under His word or rising in its might; His breath brings the dawn; His hand strangles the dragon, as representing a well-known constellation, Draco. But these are only the outskirts of His ways. Great as is their acclaim as they circle His throne in thunder and splendor, they are but as a whisper compared with His divine power and Godhead. All that the scientist has known of God is, when compared with His essential nature, what the quiver of a leaf in the breeze is to the crash of the thunder-peal. This, O child of God, is thy Father, and His power is for thy defense."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 27
+ }
+}

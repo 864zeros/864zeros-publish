@@ -13,16 +13,115 @@
     "count": 11
   },
   "verses": [
-    { "book": "James", "chapter": 1, "citation": "James 1:2", "text": "My brethren, count it all joy when ye fall into divers temptations;", "plain": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds," },
-    { "book": "James", "chapter": 1, "citation": "James 1:5", "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.", "plain": "If any of you lacks wisdom, ask God, who gives generously to all without finding fault, and it will be given to you." },
-    { "book": "James", "chapter": 1, "citation": "James 1:12", "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.", "plain": "Blessed is the one who perseveres under trial, because having stood the test, they will receive the crown of life that God has promised to those who love him." },
-    { "book": "James", "chapter": 1, "citation": "James 1:17", "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.", "plain": "Every good and perfect gift is from above, coming down from the Father of lights, who does not change like shifting shadows." },
-    { "book": "James", "chapter": 1, "citation": "James 1:22", "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.", "plain": "But be doers of the word, and not hearers only, deceiving yourselves." },
-    { "book": "James", "chapter": 2, "citation": "James 2:17", "text": "Even so faith, if it hath not works, is dead, being alone.", "plain": "In the same way, faith by itself, if it isn't accompanied by action, is dead." },
-    { "book": "James", "chapter": 3, "citation": "James 3:17", "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.", "plain": "But the wisdom that comes from above is first of all pure, then peace-loving, gentle, willing to yield, full of mercy and good fruit, impartial, and sincere." },
-    { "book": "James", "chapter": 4, "citation": "James 4:7", "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.", "plain": "So submit yourselves to God. Resist the devil, and he will flee from you." },
-    { "book": "James", "chapter": 4, "citation": "James 4:8", "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.", "plain": "Come near to God, and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded." },
-    { "book": "James", "chapter": 4, "citation": "James 4:10", "text": "Humble yourselves in the sight of the Lord, and he shall lift you up.", "plain": "Humble yourselves before the Lord, and he will lift you up." },
-    { "book": "James", "chapter": 5, "citation": "James 5:16", "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.", "plain": "So confess your sins to one another and pray for one another, so that you may be healed. The earnest prayer of a righteous person is powerful and effective." }
+    {
+      "book": "James",
+      "chapter": 1,
+      "citation": "James 1:2",
+      "text": "My brethren, count it all joy when ye fall into divers temptations;",
+      "plain": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds,",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a clear fresh spring bubbling from a mossy limestone cleft",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "citation": "James 1:5",
+      "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+      "plain": "If any of you lacks wisdom, ask God, who gives generously to all without finding fault, and it will be given to you.",
+      "visual_prompt": "a fisherman seen from behind standing on the shore mending a net beside a wooden boat along early and latter rain falling softly over a terraced barley field",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "citation": "James 1:12",
+      "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
+      "plain": "Blessed is the one who perseveres under trial, because having stood the test, they will receive the crown of life that God has promised to those who love him.",
+      "visual_prompt": "a clay refining crucible resting beside warm hearth stones in a small wooden ship's rudder resting beside a horse's bridle bit",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "citation": "James 1:17",
+      "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.",
+      "plain": "Every good and perfect gift is from above, coming down from the Father of lights, who does not change like shifting shadows.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in early and latter rain falling softly over a terraced barley field",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 1,
+      "citation": "James 1:22",
+      "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
+      "plain": "But be doers of the word, and not hearers only, deceiving yourselves.",
+      "visual_prompt": "an unrolled parchment scroll weighted with smooth river stones on a wooden table in a small wooden ship's rudder resting beside a horse's bridle bit",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 2,
+      "citation": "James 2:17",
+      "text": "Even so faith, if it hath not works, is dead, being alone.",
+      "plain": "In the same way, faith by itself, if it isn't accompanied by action, is dead.",
+      "visual_prompt": "a narrow footpath bordered by stacked fieldstones winding into a quiet valley in a small wooden ship's rudder resting beside a horse's bridle bit",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 3,
+      "citation": "James 3:17",
+      "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.",
+      "plain": "But the wisdom that comes from above is first of all pure, then peace-loving, gentle, willing to yield, full of mercy and good fruit, impartial, and sincere.",
+      "visual_prompt": "a wide-canopied fig tree rooted in rocky soil beside a stone boundary wall in a small wooden ship's rudder resting beside a horse's bridle bit",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 4,
+      "citation": "James 4:7",
+      "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
+      "plain": "So submit yourselves to God. Resist the devil, and he will flee from you.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a clear fresh spring bubbling from a mossy limestone cleft near a small wooden ship's rudder resting beside a horse's bridle bit (james 4:7 motif: submit)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 4,
+      "citation": "James 4:8",
+      "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.",
+      "plain": "Come near to God, and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in early and latter rain falling softly over a terraced barley field",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 4,
+      "citation": "James 4:10",
+      "text": "Humble yourselves in the sight of the Lord, and he shall lift you up.",
+      "plain": "Humble yourselves before the Lord, and he will lift you up.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in early and latter rain falling softly over a terraced barley field near a clear fresh spring bubbling from a mossy limestone cleft (james 4:10 motif: humble)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "James",
+      "chapter": 5,
+      "citation": "James 5:16",
+      "text": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.",
+      "plain": "So confess your sins to one another and pray for one another, so that you may be healed. The earnest prayer of a righteous person is powerful and effective.",
+      "visual_prompt": "an unhewn twelve-stone altar standing quietly on a wind-swept hilltop in a small wooden ship's rudder resting beside a horse's bridle bit",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

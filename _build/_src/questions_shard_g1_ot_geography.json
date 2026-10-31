@@ -1,0 +1,1309 @@
+{
+  "questions": [
+    {
+      "qid": "GEN_002_GEO01",
+      "passage_id": "GEN_002",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 2,
+      "verse_start": 8,
+      "verse_end": 15,
+      "citation": "Genesis 2:8-15",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "In Genesis 2, where does God place the first humans to live and work?",
+      "options": [
+        "The Garden of Eden",
+        "The Land of Canaan",
+        "The Wilderness of Sinai",
+        "The Valley of Siddim"
+      ],
+      "correct_index": 0,
+      "explanation": "God plants a watered garden in Eden in the east, watered by four headwater rivers including the Tigris and Euphrates, giving humanity both abundant provision and meaningful stewardship before distrust shatters their peace.",
+      "location": {
+        "name": "Garden of Eden",
+        "region": "Mesopotamia",
+        "type": "garden",
+        "lat": 31.0000,
+        "lng": 47.4300
+      }
+    },
+    {
+      "qid": "GEN_008_GEO01",
+      "passage_id": "GEN_008",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 8,
+      "verse_start": 1,
+      "verse_end": 5,
+      "citation": "Genesis 8:1-5",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "Where does Noah's ark finally come to rest as the floodwaters go down?",
+      "options": [
+        "Mount Sinai",
+        "The mountains of Ararat",
+        "Mount Carmel",
+        "Mount Hermon"
+      ],
+      "correct_index": 1,
+      "explanation": "In Genesis 8:4, the ark grounds high on the mountains of Ararat in the northern highlands above Mesopotamia, giving Noah's family solid ground to restart human civilization after global catastrophe.",
+      "location": {
+        "name": "Mountains of Ararat",
+        "region": "Eastern Anatolia (Urartu)",
+        "type": "mountain",
+        "lat": 39.7022,
+        "lng": 44.2981
+      }
+    },
+    {
+      "qid": "GEN_011_GEO01",
+      "passage_id": "GEN_011",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 11,
+      "verse_start": 1,
+      "verse_end": 9,
+      "citation": "Genesis 11:1-9",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "What city and tower do people build in Shinar before God confuses their language?",
+      "options": [
+        "Jericho",
+        "Damascus",
+        "Babel",
+        "Memphis"
+      ],
+      "correct_index": 2,
+      "explanation": "Settling on the flat alluvial plain of Shinar (Babylonia), humanity baked mudbricks to build Babel as a monument to their own collective ego rather than filling the earth, prompting God to fracture their unified ambition.",
+      "location": {
+        "name": "Babel",
+        "region": "Plain of Shinar (Mesopotamia)",
+        "type": "city",
+        "lat": 32.5364,
+        "lng": 44.4208
+      }
+    },
+    {
+      "qid": "GEN_037_GEO01",
+      "passage_id": "GEN_037",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 37,
+      "verse_start": 25,
+      "verse_end": 28,
+      "citation": "Genesis 37:25-28",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "To what country do merchant traders take Joseph after his jealous brothers sell him?",
+      "options": [
+        "Assyria",
+        "Philistia",
+        "Syria",
+        "Egypt"
+      ],
+      "correct_index": 3,
+      "explanation": "Ishmaelite and Midianite caravans traveling the international trade highway south from Canaan haul Joseph down into Egypt—the very superpower grain storehouse where he will eventually save the brothers who betrayed him.",
+      "location": {
+        "name": "Egypt",
+        "region": "Nile Delta / Lower Egypt",
+        "type": "region",
+        "lat": 30.0444,
+        "lng": 31.2357
+      }
+    },
+    {
+      "qid": "EXO_014_GEO01",
+      "passage_id": "EXO_014",
+      "book_order": 2,
+      "book": "Exodus",
+      "testament": "OT",
+      "chapter": 14,
+      "verse_start": 21,
+      "verse_end": 29,
+      "citation": "Exodus 14:21-29",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "What body of water does God part so Moses and Israel can escape Pharaoh's army?",
+      "options": [
+        "The Red Sea",
+        "The Dead Sea",
+        "The Sea of Galilee",
+        "The Mediterranean Sea"
+      ],
+      "correct_index": 0,
+      "explanation": "Trapped between Pharaoh's charging chariots and the waters of the Red Sea, Israel walks through on wind-swept dry ground, turning a geographic dead end into the defining deliverance of the Old Testament.",
+      "location": {
+        "name": "Red Sea",
+        "region": "Gulf of Suez / Eastern Sinai Border",
+        "type": "sea",
+        "lat": 29.9285,
+        "lng": 32.5539
+      }
+    },
+    {
+      "qid": "EXO_019_GEO01",
+      "passage_id": "EXO_019",
+      "book_order": 2,
+      "book": "Exodus",
+      "testament": "OT",
+      "chapter": 19,
+      "verse_start": 16,
+      "verse_end": 20,
+      "citation": "Exodus 19:16-20",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "On what mountain does Moses receive the Ten Commandments from God amid thunder and smoke?",
+      "options": [
+        "Mount Tabor",
+        "Mount Sinai",
+        "Mount Zion",
+        "Mount Gilboa"
+      ],
+      "correct_index": 1,
+      "explanation": "Deep in the barren granite peaks of the Sinai Peninsula, away from Egypt's distractions, God meets a nation of former slaves at Mount Sinai to forge them into a law-governed community.",
+      "location": {
+        "name": "Mount Sinai",
+        "region": "Sinai Peninsula",
+        "type": "mountain",
+        "lat": 28.5392,
+        "lng": 33.9750
+      }
+    },
+    {
+      "qid": "NUM_013_GEO01",
+      "passage_id": "NUM_013",
+      "book_order": 4,
+      "book": "Numbers",
+      "testament": "OT",
+      "chapter": 13,
+      "verse_start": 1,
+      "verse_end": 27,
+      "citation": "Numbers 13:1-27",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "What promised land does Moses send twelve scouts to explore in Numbers 13?",
+      "options": [
+        "Moab",
+        "Babylon",
+        "Canaan",
+        "Edom"
+      ],
+      "correct_index": 2,
+      "explanation": "Canaan—flowing with milk, honey, and giant grape clusters—was the strategic land bridge promised to Abraham, yet ten of the twelve scouts let fear of its walled cities talk an entire generation out of entering.",
+      "location": {
+        "name": "Canaan",
+        "region": "Southern Levant",
+        "type": "region",
+        "lat": 31.5326,
+        "lng": 35.0998
+      }
+    },
+    {
+      "qid": "JOS_003_GEO01",
+      "passage_id": "JOS_003",
+      "book_order": 6,
+      "book": "Joshua",
+      "testament": "OT",
+      "chapter": 3,
+      "verse_start": 14,
+      "verse_end": 17,
+      "citation": "Joshua 3:14-17",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "What flooding river stops flowing so Joshua and the Israelites can cross into Canaan?",
+      "options": [
+        "The Nile River",
+        "The Euphrates River",
+        "The Tigris River",
+        "The Jordan River"
+      ],
+      "correct_index": 3,
+      "explanation": "Only when the priests' feet actually step into the harvest-swollen Jordan River does the water heap up upstream, proving to a new generation that God was with Joshua just as He had been with Moses.",
+      "location": {
+        "name": "Jordan River",
+        "region": "Jordan Rift Valley",
+        "type": "river",
+        "lat": 31.8369,
+        "lng": 35.5469
+      }
+    },
+    {
+      "qid": "JOS_006_GEO01",
+      "passage_id": "JOS_006",
+      "book_order": 6,
+      "book": "Joshua",
+      "testament": "OT",
+      "chapter": 6,
+      "verse_start": 1,
+      "verse_end": 20,
+      "citation": "Joshua 6:1-20",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "Which fortified city's walls collapse after Joshua's army marches around it for seven days?",
+      "options": [
+        "Jericho",
+        "Hebron",
+        "Gaza",
+        "Shechem"
+      ],
+      "correct_index": 0,
+      "explanation": "Sitting near the Jordan Valley floor, ancient Jericho guarded the mountain passes leading up into central Canaan; its collapse without siege engines showed Israel that victory came from obedience, not military hardware.",
+      "location": {
+        "name": "Jericho",
+        "region": "Lower Jordan Valley",
+        "type": "city",
+        "lat": 31.8708,
+        "lng": 35.4442
+      }
+    },
+    {
+      "qid": "RUT_001_GEO01",
+      "passage_id": "RUT_001",
+      "book_order": 8,
+      "book": "Ruth",
+      "testament": "OT",
+      "chapter": 1,
+      "verse_start": 19,
+      "verse_end": 22,
+      "citation": "Ruth 1:19-22",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "To what Judean hometown do Naomi and Ruth return at the start of the barley harvest?",
+      "options": [
+        "Beersheba",
+        "Bethlehem",
+        "Ramah",
+        "Gibeah"
+      ],
+      "correct_index": 1,
+      "explanation": "Bethlehem literally means 'House of Bread'—after fleeing a famine there and losing everything in Moab, Naomi returns with loyal Ruth to the small hill town where their family line will produce King David.",
+      "location": {
+        "name": "Bethlehem",
+        "region": "Hill Country of Judah",
+        "type": "town",
+        "lat": 31.7054,
+        "lng": 35.2024
+      }
+    },
+    {
+      "qid": "2SA_005_GEO01",
+      "passage_id": "2SA_005",
+      "book_order": 10,
+      "book": "2 Samuel",
+      "testament": "OT",
+      "chapter": 5,
+      "verse_start": 6,
+      "verse_end": 10,
+      "citation": "2 Samuel 5:6-10",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "What mountain fortress city does King David capture and make the capital of united Israel?",
+      "options": [
+        "Samaria",
+        "Tyre",
+        "Jerusalem",
+        "Joppa"
+      ],
+      "correct_index": 2,
+      "explanation": "By capturing the neutral Jebusite stronghold of Jerusalem perched on the border between Judah and the northern tribes, David chose a politically brilliant capital that belonged to no single rival tribe.",
+      "location": {
+        "name": "Jerusalem",
+        "region": "Judean Hills",
+        "type": "city",
+        "lat": 31.7683,
+        "lng": 35.2137
+      }
+    },
+    {
+      "qid": "2KI_025_GEO01",
+      "passage_id": "2KI_025",
+      "book_order": 12,
+      "book": "2 Kings",
+      "testament": "OT",
+      "chapter": 25,
+      "verse_start": 8,
+      "verse_end": 11,
+      "citation": "2 Kings 25:8-11",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "To what empire's capital city does King Nebuchadnezzar march the captives of Judah after burning Jerusalem?",
+      "options": [
+        "Nineveh",
+        "Damascus",
+        "Thebes",
+        "Babylon"
+      ],
+      "correct_index": 3,
+      "explanation": "In 586 BC, Nebuchadnezzar's forces demolished Solomon's temple and marched Judah's survivors hundreds of miles east to Babylon—forcing a displaced people to learn how to stay faithful without a homeland or temple.",
+      "location": {
+        "name": "Babylon",
+        "region": "Mesopotamia (Euphrates Plain)",
+        "type": "city",
+        "lat": 32.5364,
+        "lng": 44.4208
+      }
+    },
+    {
+      "qid": "JON_001_GEO01",
+      "passage_id": "JON_001",
+      "book_order": 32,
+      "book": "Jonah",
+      "testament": "OT",
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 2,
+      "citation": "Jonah 1:1-2",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "To what wicked Assyrian city does God command the reluctant prophet Jonah to go and preach?",
+      "options": [
+        "Nineveh",
+        "Tarshish",
+        "Sidon",
+        "Gath"
+      ],
+      "correct_index": 0,
+      "explanation": "Nineveh on the Tigris River was the brutal imperial heart of Assyria, Israel's cruelest enemy—which is why Jonah ran the other way rather than risk God showing mercy to people he hated.",
+      "location": {
+        "name": "Nineveh",
+        "region": "Assyria (Upper Mesopotamia)",
+        "type": "city",
+        "lat": 36.3594,
+        "lng": 43.1528
+      }
+    },
+    {
+      "qid": "PSA_137_GEO01",
+      "passage_id": "PSA_137",
+      "book_order": 19,
+      "book": "Psalms",
+      "testament": "OT",
+      "chapter": 137,
+      "verse_start": 1,
+      "verse_end": 4,
+      "citation": "Psalm 137:1-4",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "Beside the rivers of what foreign land do the exiled Israelites sit and weep while remembering Zion?",
+      "options": [
+        "Philistia",
+        "Babylon",
+        "Midian",
+        "Aram"
+      ],
+      "correct_index": 1,
+      "explanation": "Sitting along the irrigation canals of Babylon, homesick exiles hung up their harps on willow trees and refused to perform cheerful sacred songs as entertainment for the soldiers who destroyed their home.",
+      "location": {
+        "name": "Rivers of Babylon",
+        "region": "Lower Mesopotamia",
+        "type": "river",
+        "lat": 32.5400,
+        "lng": 44.4200
+      }
+    },
+    {
+      "qid": "1KI_005_GEO01",
+      "passage_id": "1KI_005",
+      "book_order": 11,
+      "book": "1 Kings",
+      "testament": "OT",
+      "chapter": 5,
+      "verse_start": 6,
+      "verse_end": 10,
+      "citation": "1 Kings 5:6-10",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "From what northern mountain range does King Solomon import famous cedar trees to build the temple?",
+      "options": [
+        "Seir",
+        "Gilead",
+        "Lebanon",
+        "Sinai"
+      ],
+      "correct_index": 2,
+      "explanation": "Through a trade alliance with King Hiram of Tyre, massive aromatic cedar logs from the mountains of Lebanon were felled, lashed into sea rafts, and floated south along the Mediterranean coast for Jerusalem's temple.",
+      "location": {
+        "name": "Mountains of Lebanon",
+        "region": "Phoenicia / Northern Levant",
+        "type": "mountain",
+        "lat": 34.2439,
+        "lng": 36.0494
+      }
+    },
+    {
+      "qid": "GEN_012_GEO01",
+      "passage_id": "GEN_012",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 12,
+      "verse_start": 1,
+      "verse_end": 5,
+      "citation": "Genesis 12:1-5",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "From what prosperous Mesopotamian city does Abram's family originally set out before God calls him from Haran into Canaan?",
+      "options": [
+        "Nineveh on the upper Tigris",
+        "Damascus in the Aramean oasis",
+        "Memphis in the Egyptian delta",
+        "Ur of the Chaldeans"
+      ],
+      "correct_index": 3,
+      "explanation": "Ur was a wealthy, sophisticated Sumerian trade hub in southern Mesopotamia; Abram's journey required trading urban security and ancestral roots for a nomadic tent life built entirely on a promise.",
+      "location": {
+        "name": "Ur of the Chaldeans",
+        "region": "Southern Mesopotamia (Sumer)",
+        "type": "city",
+        "lat": 30.9625,
+        "lng": 46.1031
+      }
+    },
+    {
+      "qid": "GEN_013_GEO01",
+      "passage_id": "GEN_013",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 13,
+      "verse_start": 10,
+      "verse_end": 13,
+      "citation": "Genesis 13:10-13",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "When Abram and Lot separate over grazing land in Genesis 13, why does Lot choose the plain around Sodom and Gomorrah?",
+      "options": [
+        "The Jordan plain looked well-watered and lush like a garden, so he chased easy wealth despite Sodom's corruption",
+        "God appeared to Lot in a dream and commanded him to preach repentance in the valley cities",
+        "Abram forced Lot down into the barren salt desert while keeping the fertile hills for himself",
+        "Lot wanted a high mountain fortress where he could defend his flocks from raiders"
+      ],
+      "correct_index": 0,
+      "explanation": "Lot judged purely by eye—picking the fertile lower Jordan valley for maximum short-term profit while ignoring the moral rot of Sodom right next door, a compromise that eventually cost him everything.",
+      "location": {
+        "name": "Sodom (Jordan Plain)",
+        "region": "Southern Dead Sea Basin",
+        "type": "city",
+        "lat": 31.1167,
+        "lng": 35.4667
+      }
+    },
+    {
+      "qid": "GEN_022_GEO01",
+      "passage_id": "GEN_022",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 22,
+      "verse_start": 1,
+      "verse_end": 14,
+      "citation": "Genesis 22:1-14",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "To what mountain region does Abraham travel for three days when God tests his trust with his son Isaac?",
+      "options": [
+        "The peaks of Mount Hermon in the far north",
+        "The land of Moriah, where Abraham names the peak 'The Lord Will Provide'",
+        "The desert ridge of Mount Hor on the border of Edom",
+        "The coastal ridge of Mount Carmel overlooking the sea"
+      ],
+      "correct_index": 1,
+      "explanation": "After a grueling three-day walk to the ridge of Moriah—later identified in 2 Chronicles 3:1 with the Jerusalem temple mount—God stops Abraham's hand and provides a ram in the thicket.",
+      "location": {
+        "name": "Mount Moriah",
+        "region": "Judean Central Ridge (Jerusalem)",
+        "type": "mountain",
+        "lat": 31.7781,
+        "lng": 35.2360
+      }
+    },
+    {
+      "qid": "GEN_028_GEO01",
+      "passage_id": "GEN_028",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 28,
+      "verse_start": 10,
+      "verse_end": 19,
+      "citation": "Genesis 28:10-19",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "As Jacob flees his brother Esau's anger and sleeps with a stone under his head, what does he rename the town of Luz after dreaming of a stairway to heaven?",
+      "options": [
+        "Beersheba, meaning 'Well of the Seven Oaths'",
+        "Peniel, meaning 'Face of God'",
+        "Bethel, meaning 'House of God'",
+        "Mahanaim, meaning 'Two Camps'"
+      ],
+      "correct_index": 2,
+      "explanation": "On the central mountain ridge road at Luz, a broke fugitive running for his life wakes up stunned to realize God is present even in his exile, renaming the rocky campsite Bethel ('House of God').",
+      "location": {
+        "name": "Bethel",
+        "region": "Central Hill Country of Ephraim",
+        "type": "town",
+        "lat": 31.9306,
+        "lng": 35.2211
+      }
+    },
+    {
+      "qid": "GEN_047_GEO01",
+      "passage_id": "GEN_047",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 47,
+      "verse_start": 1,
+      "verse_end": 6,
+      "citation": "Genesis 47:1-6",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what fertile eastern delta region of Egypt does Joseph settle Jacob's family so their flocks can thrive during the famine?",
+      "options": [
+        "The desert oasis of Kadesh",
+        "The upper Nile valley around Thebes",
+        "The coastal plains of Philistia",
+        "The land of Goshen"
+      ],
+      "correct_index": 3,
+      "explanation": "Located in the lush eastern Nile Delta, Goshen gave Jacob's family prime pastureland while keeping them geographically distinct from Egyptian urban culture so they could grow into a nation without assimilating.",
+      "location": {
+        "name": "Land of Goshen",
+        "region": "Eastern Nile Delta (Wadi Tumilat)",
+        "type": "region",
+        "lat": 30.5667,
+        "lng": 31.8000
+      }
+    },
+    {
+      "qid": "EXO_002_GEO01",
+      "passage_id": "EXO_002",
+      "book_order": 2,
+      "book": "Exodus",
+      "testament": "OT",
+      "chapter": 2,
+      "verse_start": 15,
+      "verse_end": 22,
+      "citation": "Exodus 2:15-22",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "After Moses kills an Egyptian taskmaster and Pharaoh seeks his life, to what desert region does Moses flee and live as a shepherd for forty years?",
+      "options": [
+        "The land of Midian",
+        "The hills of Gilead",
+        "The plains of Moab",
+        "The coast of Phoenicia"
+      ],
+      "correct_index": 0,
+      "explanation": "Fleeing Egyptian jurisdiction into the arid wilderness of Midian, a hot-headed prince had to spend forty quiet years tending sheep in the desert terrain he would later guide an entire nation through.",
+      "location": {
+        "name": "Midian",
+        "region": "Northwestern Arabia / Eastern Sinai",
+        "type": "desert",
+        "lat": 28.5000,
+        "lng": 35.0000
+      }
+    },
+    {
+      "qid": "NUM_013_GEO02",
+      "passage_id": "NUM_013",
+      "book_order": 4,
+      "book": "Numbers",
+      "testament": "OT",
+      "chapter": 13,
+      "verse_start": 25,
+      "verse_end": 33,
+      "citation": "Numbers 13:25-33",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "At what southern oasis on the edge of the Wilderness of Paran do the Israelites panic over the ten spies' fearful report and refuse to enter Canaan?",
+      "options": [
+        "Elim by the twelve springs",
+        "Kadesh-barnea",
+        "Rephidim near Horeb",
+        "Succoth in the delta"
+      ],
+      "correct_index": 1,
+      "explanation": "Kadesh-barnea sat right on the southern threshold of Canaan; by panicking at the finish line, Israel turned an eleven-day march from Sinai into a thirty-eight-year wilderness stalemate.",
+      "location": {
+        "name": "Kadesh-barnea",
+        "region": "Wilderness of Paran / Northern Sinai",
+        "type": "desert",
+        "lat": 30.6483,
+        "lng": 34.4222
+      }
+    },
+    {
+      "qid": "1SA_017_GEO01",
+      "passage_id": "1SA_017",
+      "book_order": 9,
+      "book": "1 Samuel",
+      "testament": "OT",
+      "chapter": 17,
+      "verse_start": 1,
+      "verse_end": 49,
+      "citation": "1 Samuel 17:1-49",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what valley between the Philistine plains and the Judean hills does young David pick up smooth brook stones to face Goliath?",
+      "options": [
+        "The Valley of Jezreel",
+        "The Kidron Valley",
+        "The Valley of Elah",
+        "The Valley of Achor"
+      ],
+      "correct_index": 2,
+      "explanation": "The Valley of Elah was a natural tactical corridor cutting from Philistia up toward Bethlehem and Hebron; while two armies froze on opposite ridges, David stepped down into the dry streambed that divided them.",
+      "location": {
+        "name": "Valley of Elah",
+        "region": "Shephelah (Judean Foothills)",
+        "type": "valley",
+        "lat": 31.6908,
+        "lng": 34.9567
+      }
+    },
+    {
+      "qid": "1SA_024_GEO01",
+      "passage_id": "1SA_024",
+      "book_order": 9,
+      "book": "1 Samuel",
+      "testament": "OT",
+      "chapter": 24,
+      "verse_start": 1,
+      "verse_end": 12,
+      "citation": "1 Samuel 24:1-12",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what rugged desert oasis along the western shore of the Dead Sea does David hide in a cave and spare King Saul's life?",
+      "options": [
+        "The forests of Gilead",
+        "The marshlands of Merom",
+        "The plains of Sharon",
+        "The wilderness of En-gedi"
+      ],
+      "correct_index": 3,
+      "explanation": "En-gedi's steep limestone cliffs, hidden caves, and freshwater springs above the Dead Sea gave hunted outlaws survival cover—and became the test chamber where David chose restraint over easy revenge.",
+      "location": {
+        "name": "En-gedi",
+        "region": "Judean Desert (Dead Sea West Coast)",
+        "type": "desert",
+        "lat": 31.4661,
+        "lng": 35.3881
+      }
+    },
+    {
+      "qid": "1KI_018_GEO01",
+      "passage_id": "1KI_018",
+      "book_order": 11,
+      "book": "1 Kings",
+      "testament": "OT",
+      "chapter": 18,
+      "verse_start": 19,
+      "verse_end": 39,
+      "citation": "1 Kings 18:19-39",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "On what coastal mountain ridge does the prophet Elijah challenge 450 prophets of Baal to call down fire from heaven?",
+      "options": [
+        "Mount Carmel",
+        "Mount Gilboa",
+        "Mount Tabor",
+        "Mount Olivet"
+      ],
+      "correct_index": 0,
+      "explanation": "Jutting out toward the Mediterranean near Phoenician territory, lush Mount Carmel was considered Baal's home turf as the storm god—making Baal's total silence there an undeniable public humiliation.",
+      "location": {
+        "name": "Mount Carmel",
+        "region": "Northern Coastal Ridge (Haifa)",
+        "type": "mountain",
+        "lat": 32.6542,
+        "lng": 35.0419
+      }
+    },
+    {
+      "qid": "EST_001_GEO01",
+      "passage_id": "EST_001",
+      "book_order": 17,
+      "book": "Esther",
+      "testament": "OT",
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 5,
+      "citation": "Esther 1:1-5",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what fortified Persian winter capital do Esther and Mordecai uncover and stop Haman's plot to wipe out the Jewish people?",
+      "options": [
+        "Ecbatana in the northern hills",
+        "The citadel of Susa",
+        "Persepolis in the southern mountains",
+        "Sardis in western Anatolia"
+      ],
+      "correct_index": 1,
+      "explanation": "From the royal citadel of Susa (Shushan), imperial decrees raced by courier across 127 provinces from India to Ethiopia—meaning a quiet courtroom decision in one palace held life-or-death stakes for an entire scattered nation.",
+      "location": {
+        "name": "Susa (Shushan)",
+        "region": "Elam / Southwestern Persia",
+        "type": "city",
+        "lat": 32.1892,
+        "lng": 48.2578
+      }
+    },
+    {
+      "qid": "GEN_032_GEO01",
+      "passage_id": "GEN_032",
+      "book_order": 1,
+      "book": "Genesis",
+      "testament": "OT",
+      "chapter": 32,
+      "verse_start": 22,
+      "verse_end": 30,
+      "citation": "Genesis 32:22-30",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "Beside what eastern tributary stream of the Jordan does Jacob wrestle all night until his name is changed to Israel?",
+      "options": [
+        "The Brook Kidron",
+        "The Wadi Arnon",
+        "The Ford of the Jabbok",
+        "The River Kishon"
+      ],
+      "correct_index": 2,
+      "explanation": "Standing alone in the dark ravine of the Jabbok River the night before facing Esau, the lifelong schemer is physically crippled and spiritually remade before stepping back into the promised land.",
+      "location": {
+        "name": "Jabbok River (Peniel)",
+        "region": "Gilead (Transjordan)",
+        "type": "river",
+        "lat": 32.1925,
+        "lng": 35.6950
+      }
+    },
+    {
+      "qid": "JDG_004_GEO01",
+      "passage_id": "JDG_004",
+      "book_order": 7,
+      "book": "Judges",
+      "testament": "OT",
+      "chapter": 4,
+      "verse_start": 6,
+      "verse_end": 16,
+      "citation": "Judges 4:6-16",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "From what dome-shaped mountain in Galilee do Deborah and Barak charge down as the Kishon River floods Sisera's 900 iron chariots?",
+      "options": [
+        "Mount Hermon",
+        "Mount Seir",
+        "Mount Ephraim",
+        "Mount Tabor"
+      ],
+      "correct_index": 3,
+      "explanation": "Holding the high ground of Mount Tabor while drawing Sisera's heavy iron chariots onto the flat Jezreel valley floor allowed a sudden downpour at the Kishon River to turn Canaan's deadliest military tech into stuck mud traps.",
+      "location": {
+        "name": "Mount Tabor",
+        "region": "Lower Galilee / Jezreel Valley",
+        "type": "mountain",
+        "lat": 32.6869,
+        "lng": 35.3906
+      }
+    },
+    {
+      "qid": "1KI_021_GEO01",
+      "passage_id": "1KI_021",
+      "book_order": 11,
+      "book": "1 Kings",
+      "testament": "OT",
+      "chapter": 21,
+      "verse_start": 1,
+      "verse_end": 19,
+      "citation": "1 Kings 21:1-19",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what fertile northern valley city does Queen Jezebel stage a fake treason trial to steal Naboth's ancestral vineyard for King Ahab?",
+      "options": [
+        "Jezreel",
+        "Tirzah",
+        "Beersheba",
+        "Lachish"
+      ],
+      "correct_index": 0,
+      "explanation": "Next to Ahab's winter palace in Jezreel, Naboth refused to sell his family inheritance for a royal vegetable garden—and the blood spilled on that exact plot of Jezreel dirt later became the site of the dynasty's downfall.",
+      "location": {
+        "name": "Jezreel",
+        "region": "Jezreel Valley (Northern Israel)",
+        "type": "city",
+        "lat": 32.5578,
+        "lng": 35.3281
+      }
+    },
+    {
+      "qid": "NEH_002_GEO01",
+      "passage_id": "NEH_002",
+      "book_order": 16,
+      "book": "Nehemiah",
+      "testament": "OT",
+      "chapter": 2,
+      "verse_start": 11,
+      "verse_end": 18,
+      "citation": "Nehemiah 2:11-18",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "Before rallying the people to rebuild, what ruined city's broken walls and burned gates does Nehemiah quietly inspect by night on a single mount?",
+      "options": [
+        "Samaria",
+        "Jerusalem",
+        "Hebron",
+        "Jericho"
+      ],
+      "correct_index": 1,
+      "explanation": "Riding alone in the dark past the Valley Gate and the Kidron rubble before making a single speech, Nehemiah assessed the exact physical reality of Jerusalem's broken defenses so his plan would be grounded in facts, not hype.",
+      "location": {
+        "name": "Walls of Jerusalem",
+        "region": "Judah (Yehud Province)",
+        "type": "city",
+        "lat": 31.7736,
+        "lng": 35.2353
+      }
+    },
+    {
+      "qid": "JON_001_GEO02",
+      "passage_id": "JON_001",
+      "book_order": 32,
+      "book": "Jonah",
+      "testament": "OT",
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 3,
+      "citation": "Jonah 1:1-3",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "When God orders Jonah to travel northeast to Nineveh, why is his decision to board a ship at Joppa bound for Tarshish such a stark geographical statement?",
+      "options": [
+        "Tarshish was an Assyrian tributary port that offered a faster sea shortcut to the Tigris River",
+        "Joppa was the priestly sanctuary where prophets went to seek a second oracle from the temple",
+        "He went down to the coast and paid to sail west across the Mediterranean to the farthest known edge of the world in the exact opposite direction",
+        "He hoped to recruit Phoenician naval mercenaries in Tarshish to attack Nineveh by force"
+      ],
+      "correct_index": 2,
+      "explanation": "Nineveh lay 500 miles overland to the northeast; by heading down to the port of Joppa and buying passage toward Tarshish in the far western Mediterranean, Jonah tried to use geography to outrun a calling he despised.",
+      "location": {
+        "name": "Joppa",
+        "region": "Mediterranean Coast (Sharon Plain)",
+        "type": "city",
+        "lat": 32.0543,
+        "lng": 34.7516
+      }
+    },
+    {
+      "qid": "DEU_034_GEO01",
+      "passage_id": "DEU_034",
+      "book_order": 5,
+      "book": "Deuteronomy",
+      "testament": "OT",
+      "chapter": 34,
+      "verse_start": 1,
+      "verse_end": 5,
+      "citation": "Deuteronomy 34:1-5",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "In Deuteronomy 34, what makes Moses' final climb from the plains of Moab to the summit of Mount Nebo (Pisgah) opposite Jericho such a bittersweet milestone?",
+      "options": [
+        "He finally crosses the Jordan River and plants his staff inside Jericho's city gates",
+        "He retreats back toward Egypt because the people refuse to follow Joshua into battle",
+        "He builds a permanent stone temple on the peak to replace the portable wilderness tabernacle",
+        "God lets him see the entire Promised Land from Gilead to the western sea with his own eyes, even though his past failure at Meribah barred him from stepping across"
+      ],
+      "correct_index": 3,
+      "explanation": "Standing on the windswept ridge of Mount Nebo high above the Dead Sea and Jordan Valley, Moses sees the finish line of his forty-year mission without ever setting foot in it—a profound lesson that the mission is bigger than its leader.",
+      "location": {
+        "name": "Mount Nebo (Pisgah)",
+        "region": "Moab (Transjordan Highlands)",
+        "type": "mountain",
+        "lat": 31.7669,
+        "lng": 35.7253
+      }
+    },
+    {
+      "qid": "JOS_008_GEO01",
+      "passage_id": "JOS_008",
+      "book_order": 6,
+      "book": "Joshua",
+      "testament": "OT",
+      "chapter": 8,
+      "verse_start": 30,
+      "verse_end": 35,
+      "citation": "Joshua 8:30-35",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "After entering central Canaan, why does Joshua divide the nation between the twin peaks of Mount Gerizim and Mount Ebal flanking the pass at Shechem?",
+      "options": [
+        "To create a natural outdoor amphitheater where half the tribes shout the covenant blessings from Gerizim and half shout the curses from Ebal",
+        "To fortify both mountain peaks with watchtowers against an invading Egyptian chariot army",
+        "To separate the wealthy cattle-owning tribes from the poorer farming clans permanently",
+        "To test which mountain would draw lightning from heaven to mark the future capital city"
+      ],
+      "correct_index": 0,
+      "explanation": "Before conquering the rest of the land, Joshua marches Israel into the natural acoustic bowl between Mount Ebal and Mount Gerizim at Shechem so every man, woman, child, and foreigner hears the law's blessings and consequences out loud.",
+      "location": {
+        "name": "Mount Ebal and Mount Gerizim",
+        "region": "Shechem Pass (Central Hill Country)",
+        "type": "mountain",
+        "lat": 32.2089,
+        "lng": 35.2731
+      }
+    },
+    {
+      "qid": "1SA_004_GEO01",
+      "passage_id": "1SA_004",
+      "book_order": 9,
+      "book": "1 Samuel",
+      "testament": "OT",
+      "chapter": 4,
+      "verse_start": 3,
+      "verse_end": 11,
+      "citation": "1 Samuel 4:3-11",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "From what central hill-country sanctuary do Eli's corrupt sons Hophni and Phinehas haul the Ark of the Covenant into battle like a lucky charm, leading to its capture?",
+      "options": [
+        "Mount Zion in Jerusalem",
+        "Shiloh",
+        "Gilgal in the Jordan valley",
+        "Ramoth-gilead"
+      ],
+      "correct_index": 1,
+      "explanation": "For centuries before Jerusalem was captured, Shiloh served as Israel's sacred tabernacle hub—yet treating the Ark from Shiloh as a mechanical weapon to force God's hand ended in catastrophic defeat and Shiloh's ruin.",
+      "location": {
+        "name": "Shiloh",
+        "region": "Hill Country of Ephraim",
+        "type": "town",
+        "lat": 32.0558,
+        "lng": 35.2894
+      }
+    },
+    {
+      "qid": "1KI_012_GEO01",
+      "passage_id": "1KI_012",
+      "book_order": 11,
+      "book": "1 Kings",
+      "testament": "OT",
+      "chapter": 12,
+      "verse_start": 26,
+      "verse_end": 30,
+      "citation": "1 Kings 12:26-30",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "When Jeroboam splits the northern kingdom from Judah, why does he place two golden calves at the border towns of Bethel in the south and Dan in the far north?",
+      "options": [
+        "Because those two towns had the richest gold mines in the northern hills",
+        "Because invading Syrian armies demanded idol shrines at the border crossings as tribute",
+        "To keep his citizens from traveling south to worship at Jerusalem's temple and defecting back to the house of David",
+        "Because Moses had originally commanded two border shrines in the book of Deuteronomy"
+      ],
+      "correct_index": 2,
+      "explanation": "Driven by political insecurity, Jeroboam weaponized convenience—placing rival shrines at Bethel (just north of Jerusalem) and Dan (in the far north) so religion would serve his border control rather than truth.",
+      "location": {
+        "name": "Tel Dan",
+        "region": "Upper Hula Valley / Foot of Mount Hermon",
+        "type": "city",
+        "lat": 33.2486,
+        "lng": 35.6525
+      }
+    },
+    {
+      "qid": "1KI_019_GEO01",
+      "passage_id": "1KI_019",
+      "book_order": 11,
+      "book": "1 Kings",
+      "testament": "OT",
+      "chapter": 19,
+      "verse_start": 3,
+      "verse_end": 13,
+      "citation": "1 Kings 19:3-13",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "After his triumph at Mount Carmel gives way to burnout and Jezebel's death threat, where does Elijah walk for forty days beyond Beersheba to hear God's gentle whisper?",
+      "options": [
+        "North to the cedar forests of Lebanon",
+        "East across the Euphrates to Ur",
+        "West to the island fortress of Tyre",
+        "South to Mount Horeb, the mountain of God"
+      ],
+      "correct_index": 3,
+      "explanation": "Retracing Israel's ancient roots all the way south past Beersheba to Mount Horeb (Sinai), an exhausted prophet who expected God only in Carmel's dramatic fire discovers God speaking in a quiet whisper at a desert cave.",
+      "location": {
+        "name": "Mount Horeb",
+        "region": "Southern Sinai Wilderness",
+        "type": "mountain",
+        "lat": 28.5392,
+        "lng": 33.9750
+      }
+    },
+    {
+      "qid": "2KI_005_GEO01",
+      "passage_id": "2KI_005",
+      "book_order": 12,
+      "book": "2 Kings",
+      "testament": "OT",
+      "chapter": 5,
+      "verse_start": 10,
+      "verse_end": 14,
+      "citation": "2 Kings 5:10-14",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "When Elisha tells the Syrian general Naaman to wash seven times in the Jordan River to cure his leprosy, what offended geographical comparison nearly makes Naaman storm home unhealed?",
+      "options": [
+        "He boasts that the Abana and Pharpar rivers of Damascus are far cleaner and better than all the muddy waters of Israel",
+        "He insists that only the salt waters of the Dead Sea have medicinal minerals strong enough to heal skin",
+        "He demands to bathe in the royal pools of Samaria beside the king's palace",
+        "He claims the Nile River of Egypt is the only sacred river worthy of a military commander"
+      ],
+      "correct_index": 0,
+      "explanation": "Compared to the snow-fed mountain rivers Abana and Pharpar watering Damascus, the winding, muddy Jordan offended Naaman's status—until his servants pointed out that pride over a river was costing him his cure.",
+      "location": {
+        "name": "Damascus (Abana and Pharpar Rivers)",
+        "region": "Aram-Damascus (Syria)",
+        "type": "city",
+        "lat": 33.5138,
+        "lng": 36.2765
+      }
+    },
+    {
+      "qid": "2CH_032_GEO01",
+      "passage_id": "2CH_032",
+      "book_order": 14,
+      "book": "2 Chronicles",
+      "testament": "OT",
+      "chapter": 32,
+      "verse_start": 2,
+      "verse_end": 4,
+      "citation": "2 Chronicles 32:2-4",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "As the Assyrian emperor Sennacherib marches on Jerusalem in 701 BC, how does King Hezekiah re-engineer the city's geography around the Gihon Spring?",
+      "options": [
+        "He dams the Jordan River thirty miles away to flood the Judean desert passes",
+        "He stops up the outer springs and carves an underground rock tunnel to bring water from the Gihon Spring safely inside the western city wall",
+        "He evacuates the entire population of Jerusalem to underground caves in En-gedi",
+        "He tears down the temple mount walls to build a moat around the palace"
+      ],
+      "correct_index": 1,
+      "explanation": "Knowing an ancient siege was won or lost over water, Hezekiah combined prayer with gritty civil engineering—cutting a 1,750-foot subterranean tunnel beneath the City of David to deny Assyria water while keeping Jerusalem supplied.",
+      "location": {
+        "name": "Gihon Spring (Hezekiah's Tunnel)",
+        "region": "City of David / Kidron Valley, Jerusalem",
+        "type": "city",
+        "lat": 31.7722,
+        "lng": 35.2364
+      }
+    },
+    {
+      "qid": "OBA_001_GEO01",
+      "passage_id": "OBA_001",
+      "book_order": 31,
+      "book": "Obadiah",
+      "testament": "OT",
+      "chapter": 1,
+      "verse_start": 3,
+      "verse_end": 4,
+      "citation": "Obadiah 1:3-4",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "In the book of Obadiah, how does the rugged geography of Mount Seir and the high rock clefts of Sela deceive the nation of Edom?",
+      "options": [
+        "The fertile river plains make them lazy and unwilling to train for war",
+        "Their coastal harbors make them overly dependent on Phoenician grain ships",
+        "Living high in nearly impenetrable sandstone cliffs tricks them into arrogant certainty that no one can ever bring them down",
+        "Frequent earthquakes in the rift valley convince them that the gods have abandoned them"
+      ],
+      "correct_index": 2,
+      "explanation": "Carved into the towering red sandstone canyons of Seir (the region of Sela/Petra), Edom mistook natural fortress terrain for moral invincibility while gloating over brother Judah's fall.",
+      "location": {
+        "name": "Mount Seir (Sela / Petra)",
+        "region": "Edom (Southern Transjordan)",
+        "type": "mountain",
+        "lat": 30.3285,
+        "lng": 35.4444
+      }
+    },
+    {
+      "qid": "DAN_008_GEO01",
+      "passage_id": "DAN_008",
+      "book_order": 27,
+      "book": "Daniel",
+      "testament": "OT",
+      "chapter": 8,
+      "verse_start": 1,
+      "verse_end": 8,
+      "citation": "Daniel 8:1-8",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "Beside what waterway at the citadel of Susa in the province of Elam does Daniel see his vision of the ram and the goat representing the clash of Medo-Persia and Greece?",
+      "options": [
+        "The Chebar Canal near Nippur",
+        "The Upper Gihon watercourse in Judah",
+        "The Great River Hiddekel in Assyria",
+        "The Ulai Canal"
+      ],
+      "correct_index": 3,
+      "explanation": "Before Babylon had even fallen, Daniel's vision transported him east to the Ulai Canal outside Susa—the exact future seat of Persian imperial power that would topple Babylon and later fall to Alexander the Great.",
+      "location": {
+        "name": "Ulai Canal (Susa)",
+        "region": "Province of Elam (Persia)",
+        "type": "river",
+        "lat": 32.1900,
+        "lng": 48.2500
+      }
+    },
+    {
+      "qid": "EZE_001_GEO01",
+      "passage_id": "EZE_001",
+      "book_order": 26,
+      "book": "Ezekiel",
+      "testament": "OT",
+      "chapter": 1,
+      "verse_start": 1,
+      "verse_end": 3,
+      "citation": "Ezekiel 1:1-3",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "Why is it so jarring when the exiled priest Ezekiel sees the blazing wheeled throne-chariot of God beside the Chebar Canal in the land of the Chaldeans?",
+      "options": [
+        "Ancient people assumed a god's power was locked inside his homeland temple, yet God's glory showed up mobile and sovereign among captives in pagan Babylonia",
+        "The Chebar Canal was a secret military staging ground where Judah's army planned an invasion",
+        "Ezekiel had traveled there voluntarily to study Babylonian astronomy and law",
+        "Only kings, never priests, were allowed to cross the Euphrates tributaries"
+      ],
+      "correct_index": 0,
+      "explanation": "Cut off from Jerusalem's temple in a refugee camp along Babylonia's Chebar irrigation canal, Ezekiel discovers that God is not trapped in Judean real estate—His throne has wheels and meets His people in exile.",
+      "location": {
+        "name": "Chebar Canal",
+        "region": "Nippur Region (Babylonia)",
+        "type": "river",
+        "lat": 32.1261,
+        "lng": 45.2308
+      }
+    },
+    {
+      "qid": "NUM_020_GEO01",
+      "passage_id": "NUM_020",
+      "book_order": 4,
+      "book": "Numbers",
+      "testament": "OT",
+      "chapter": 20,
+      "verse_start": 14,
+      "verse_end": 21,
+      "citation": "Numbers 20:14-21",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "In Numbers 20, why does the king of Edom's refusal to let Israel travel along the 'King's Highway' force a grueling geographical detour?",
+      "options": [
+        "Israel has to build ships and sail north along the Mediterranean coast instead",
+        "Denied the direct trade road through Edom's highlands, Israel must march back down around the scorching southern desert of the Red Sea route",
+        "Moses is forced to tunnel through the sandstone cliffs of Mount Hor",
+        "The Israelites must abandon their livestock in Kadesh and swim across the Dead Sea"
+      ],
+      "correct_index": 1,
+      "explanation": "The King's Highway was the ancient ridge-top trade artery running north through Edom and Moab; when Edom blocked it with an army, Israel refused a fratricidal war and endured a brutal detour through the Aravah desert.",
+      "location": {
+        "name": "King's Highway (Border of Edom)",
+        "region": "Transjordan Plateau / Edom",
+        "type": "region",
+        "lat": 30.5000,
+        "lng": 35.5500
+      }
+    },
+    {
+      "qid": "1SA_031_GEO01",
+      "passage_id": "1SA_031",
+      "book_order": 9,
+      "book": "1 Samuel",
+      "testament": "OT",
+      "chapter": 31,
+      "verse_start": 1,
+      "verse_end": 13,
+      "citation": "1 Samuel 31:1-13",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "After King Saul and Jonathan fall in battle on Mount Gilboa and the Philistines fasten their bodies to the wall of Beth-shan, who marches all night across the Jordan to rescue their remains?",
+      "options": [
+        "The elders of Bethlehem from David's home clan",
+        "The priests of Nob who survived Saul's purge",
+        "The valiant men of Jabesh-gilead, remembering how Saul rescued their town at the start of his reign",
+        "Mercenary soldiers hired by the king of Moab"
+      ],
+      "correct_index": 2,
+      "explanation": "Decades earlier in 1 Samuel 11, Saul's finest hour was saving Jabesh-gilead from Ammonite mutilation; when Saul fell on Mount Gilboa and hung in shame at Beth-shan, those Transjordan townspeople risked their lives to repay that debt of honor.",
+      "location": {
+        "name": "Mount Gilboa and Beth-shan",
+        "region": "Eastern Jezreel / Jordan Valley Junction",
+        "type": "mountain",
+        "lat": 32.4986,
+        "lng": 35.4158
+      }
+    },
+    {
+      "qid": "JER_043_GEO01",
+      "passage_id": "JER_043",
+      "book_order": 24,
+      "book": "Jeremiah",
+      "testament": "OT",
+      "chapter": 43,
+      "verse_start": 1,
+      "verse_end": 7,
+      "citation": "Jeremiah 43:1-7",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "After Babylon destroys Jerusalem, why is Johanan's decision to drag the prophet Jeremiah and the Judean remnant down to Tahpanhes in Egypt such a tragic reversal of history?",
+      "options": [
+        "Tahpanhes was an uninhabited salt flat with zero fresh water",
+        "Jeremiah had urged them to flee north to Damascus instead of south",
+        "Pharaoh had already surrendered Tahpanhes to the Persian navy",
+        "Out of fear of Babylon, they voluntarily marched back into Egypt—reversing the entire trajectory of the Exodus God had spent centuries leading them out of"
+      ],
+      "correct_index": 3,
+      "explanation": "God promised protection if the remnant stayed in Judah, but panic drove them down to the Egyptian border fortress of Tahpanhes—ironically dragging Jeremiah back into the very land of bondage Moses had led Israel out of.",
+      "location": {
+        "name": "Tahpanhes",
+        "region": "Eastern Nile Delta (Egypt)",
+        "type": "city",
+        "lat": 30.8603,
+        "lng": 32.1694
+      }
+    },
+    {
+      "qid": "AMO_007_GEO01",
+      "passage_id": "AMO_007",
+      "book_order": 30,
+      "book": "Amos",
+      "testament": "OT",
+      "chapter": 7,
+      "verse_start": 10,
+      "verse_end": 15,
+      "citation": "Amos 7:10-15",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "Why does the priest Amaziah tell the southern shepherd Amos to stop prophesying at Bethel and go back to Judah, calling Bethel 'the king's sanctuary and a royal house'?",
+      "options": [
+        "Bethel's shrine had become state-sponsored religion designed to protect King Jeroboam II's regime from uncomfortable moral truth",
+        "Amos did not speak the northern Hebrew dialect well enough to be understood",
+        "Bethel was under quarantine during a severe agricultural plague",
+        "Only Levites born in Samaria were legally permitted to enter the city gates of Bethel"
+      ],
+      "correct_index": 0,
+      "explanation": "Amos traveled north from tiny Tekoa in Judah right into the royal shrine at Bethel to expose how northern elites used booming religious rituals to mask their exploitation of the poor—provoking the regime's chief priest to expel him.",
+      "location": {
+        "name": "Royal Sanctuary of Bethel",
+        "region": "Southern Border of the Northern Kingdom",
+        "type": "town",
+        "lat": 31.9306,
+        "lng": 35.2211
+      }
+    }
+  ]
+}

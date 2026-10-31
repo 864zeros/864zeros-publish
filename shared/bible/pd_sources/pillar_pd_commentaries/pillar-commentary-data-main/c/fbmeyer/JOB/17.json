@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Bars of Sheol” -- Job 17:1-16\n\nJob’s continued complaint of his friends, Job 17:1-9 He avows that he could bear his awful calamities if only he were delivered from their mockery; and asks that God would arbitrate between him and them. God is the supreme Judge, and Job asks Him to become his surety against the recriminations of those who so shamefully misjudged him. There is no other course for hunted souls than appeal from man to God in the person of Jesus. At the close of this paragraph he insists that amid a whirlwind of trouble the righteous must hold on his way and keep his hands clean. If any should read these words whose path has dipped down into the valley of the shadow, let them hold on their way. Go on doing the will of God, so far as you know it, and it will bring you out under His heaven of love.\n\nJob’s gloomy anticipations of the future, Job 17:10-16 For him there was a grave of darkness and gloom. Men had not as yet been begotten again unto a living hope by the resurrection of our Lord Jesus Christ. The soul must descend to the bars of Sheol, Job 17:16, r.v. What a contrast to our Christian hope! There is no need for us to claim the pit for father and the worm for sister! In the Father’s house are many mansions. The sufferings of the present are not worthy to be compared with the glory to be revealed! Our kin are not in the dust. We are surrounded by a great cloud of witnesses."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 18
+ }
+}

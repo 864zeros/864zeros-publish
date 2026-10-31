@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Renewing the Covenant with God -- Joshua 5:1-12\n\nEvidently the people of Canaan realized that they were entering into conflict with God Almighty. This made their bitter resistance less excusable. But before Israel could go forward into the campaign, they must undergo that initial rite which from the days of Abraham had separated them unto God, Genesis 17:1-27. The outbreak at Kadesh had practically annulled that relationship, which now must be renewed, Numbers 14:1-45.\n\nBefore we can serve God’s high purposes in the world, we must be separated from sin. The old nature must be denied and put away, and the new nature, which is holy, harmless and separate from sin, must become ours. Nothing but death can meet the case, Colossians 2:11; 2 Corinthians 7:1.\n\nThe circumcised soul alone may eat of the Passover, which is Christ. We need to feed on Him, keeping the daily feast with joy, 1 Corinthians 5:7-8; John 6:51; John 6:54."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Commander and His Plan of Campaign -- Joshua 5:13-15; Joshua 6:1-11\n\nWhen the heart is perfect with God we may count on His presence and help. It is to the separated and obedient servant that the vision of Christ, as Ally and Captain, is given. Here were three hosts marshaled by Jericho-of the Canaanites, of Israel, and of the heavenly armies, waiting to war against the evil spirits which ruled the darkness of the land, Ephesians 6:12.\n\nThe answer to Joshua’s question depended on whether Israel was prepared to accept God’s plan of campaign, which was very humbling to the flesh. “The Lord is with us, if we are with Him,” Joshua 7:11-12; 2 Chronicles 15:2. As Jericho was the key to Canaan, and its fall was to be the earnest of complete victory, the program was carefully planned to give God His rightful position. From first to last its capture was the result of the interposition of Him who dwelled in the bush. Therefore, the Ark was borne around the city, as the symbol of His presence, Numbers 10:35."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 6
+ }
+}

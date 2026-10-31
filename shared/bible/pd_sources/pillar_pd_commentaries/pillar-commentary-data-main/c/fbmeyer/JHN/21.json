@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Miraculous Draught of Fishes -- John 21:1-9\n\nIt would almost seem as if the Apostles thought that the radiant vision of Christ was withdrawn forever; or did they think that they would glorify Him best, and be most likely to encounter Him, if they returned to the paths of ordinary toil? This miracle closely corresponds to that recorded in Luke 5:1-39, and proves that the methods of the risen Lord are not unlike those of His earthly ministry. Still He stands on the shore in the morning haze, to comfort the hearts of discouraged workers, telling them where to cast their net and revealing the certainty of His help. The eyes that love as John loved are the quickest to descry his presence. He thinks not only of our spoils, but of us, and provides for our sustenance and comfort-not bread only, but fish and a fire. Is not this a picture of the believer’s death?-the plunge into the cold stream of dividing water; the welcome on the other shore; the discovery that Christ had expected and prepared; and the feast with the Lord Himself, as He girds Himself to minister."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“Lovest Thou Me?” -- John 21:10-19\n\nChrist thrice questioned Peter’s love, thus giving him the opportunity of canceling his threefold denial. There are two Greek words for “love.” In His questions our Lord chose the higher, while Peter in his replies humbly chose the lower till in His third question our Lord came down to his level. Christ forecasted the hatred and opposition of the world, and suggested to Peter and the rest that the only way to combat and overcome was in the fervent love that they had for Him. Only this could give them the necessary tenderness and delicacy in leading and feeding the flock."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The Testimony of a Beloved Follower -- John 21:20-25\n\nHaving cautioned Peter, our Lord seems to have moved away, bidding Peter follow-a mandate intended to convey a deeper meaning. John followed some steps in the rear. Hearing footsteps, Peter turned and was seized with curiosity to see how far the future experiences of John and himself would agree. At once, without gratifying his curiosity, our Lord explained that the life-plan of His servants is determined by His will-If I will. It is equally certain that His arrangements for us are carefully adjusted to our nature, our special characteristics, and the service which we are best able to render. Peter was to be the Apostle of the tried and suffering.\n\nJohn was to behold and declare the apocalyptic vision of the Living Church. The one, contrary to his native disposition, wrote the Epistle of patient waiting; the other pictured the triumphant advent of the Son of God.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 1
+ }
+}

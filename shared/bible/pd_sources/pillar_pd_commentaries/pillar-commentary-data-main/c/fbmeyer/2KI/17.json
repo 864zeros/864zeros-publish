@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Cause of Israel’s Weakness -- 2 Kings 17:1-12\n\nThis chapter reads like a page from the books of the great white throne. Hoshea, the last king of Israel, did not follow in all the evil deeds of his eighteen predecessors, but the degeneracy of the nation was too far advanced for anything to arrest its collapse. The dry-rot had eaten its way through the specious covering. Worldly policy was the immediate cause of the nation’s downfall. Had they obeyed God simply and absolutely, they could have trusted Him to maintain their independence. But they chose to enter into alliances, now with Syria, and then with Egypt, and so became entangled in the wars of their allies. See Hosea 7:11; Hosea 9:3; Hosea 9:6; Hosea 12:1, etc.\n\nLet us read carefully the bill of divorce which the Heavenly Husband gave to the recreant people whom he put away. It is a pathetic document from 2 Kings 17:7 onward; but none can say that Jehovah had not good and sufficient cause for acting as he did. The wonder is that He bore so long with the apostate race. Read Hosea 1:1-11; Hosea 2:1-23; Hosea 3:1-5 to learn how the divine heart was rent when the hour of separation came: but let us not forget the assurances of Rom 11:1-36, that the true Israel shall ultimately be saved."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The End of Stiff-necked Disobedience -- 2 Kings 17:13-26\n\nThere are three leading counts in this terrible indictment against Judah and Israel: (1) idolatry; (2) the ignoring of the Law; and (3) disregard of the many warnings brought them by prophets and seers. And all were aggravated by the fact that they sinned against the Lord their God, who had brought them up out of the land of Egypt. How greatly the complexion of our sins is deepened, when we remember the anguish by which we have been redeemed!\n\nInterwoven with the black catalogue of sin are golden threads of tender love, 2 Kings 17:13. But note the remarkable expression of 2 Kings 17:15, that we resemble the objects we adore, Psalms 115:8. Israel, as we have seen, was never restored. Those that returned to Judah with Ezra were for the most part Jews. Yet many Hebrews became believers in Christ, and were added to the Church at Pentecost and afterward, 1 Peter 1:1-2. Paul gives us a far horizon in Romans 11:25-27; and who can tell, in these days when the Turkish Empire is trembling to its foundations, whether we are not very near that hour of the restoration of Israel and the restitution of all things!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "They Feared the Lord and Served Their Own Gods -- 2 Kings 17:27-41\n\nThe policy of peopling Israel with other races was intended to keep the land under cultivation, and to break the ties of fatherland, which are the spring of patriotism. Men will not fight for a land which does not pull at their heart-strings. These newly-imported peoples believed that each country was under the care of its own local deity. They therefore deemed it advisable, that, without renouncing their own gods, they should give the God of Israel some sort of recognition. Samaritan religion of this kind is still very popular. Too many people feel that they ought to do something to show their respect for God. They attend to the outward forms of worship, lest they should lose caste; but in their hearts they enthrone worldly and worthless ideals.\n\nThe Jews, as we learn from John 4:9, hated the Samaritans, as a kind of mongrel race. But how generous was the Savior, ministering to the woman of Sychar, healing the Samaritan leper, and making one of this despised people the central figure in his parable of mercy, thus compelling the world to speak of the good Samaritan!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 18
+ }
+}

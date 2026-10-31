@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 86,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Prayer to the God of Mercy -- Psalms 86:1-17\n\nThis psalm is largely composed of quotations. When the soul is in great need, it is not concerned with inventing new forms of address to God, but avails itself of well-known and well-worn phrases. Our Lord in Gethsemane “prayed the same words.” The background of the psalm is faith which reckons on God’s goodness. Thou art good, Psalms 86:5; thou art great, Psalms 86:10; thou art merciful and gracious, Psalms 86:15. Be sure to build prayer upon the revelation of God’s nature as given by Christ.\n\nPsalms 86:1-5. That we are indeed poor and needy is our strongest plea with God. That we are holy is true only so far as we present Christ as our righteousness. That we cry all the day is a plea which God honors. But the best of all is the plenteousness of His lovingkindness.\n\nPsalms 86:6-13. Again, in this strophe, there is the cry of need; and faith is helped by remembering that God’s power is sufficient. God is so great that He can include our little life in His microscopic care.\n\nPsalms 86:14-17. We can readily imagine the rabble that beset the psalmist, for we are similarly beset; but nearer than they can come is the calm and holy inner presence of God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 86
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 85
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 87
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob Leaves Laban -- Genesis 31:1-21\n\nJacob was a remarkable mixture. He had an eminently religious nature, and had intimate dealings with God. Note Genesis 31:3; Genesis 31:5; Genesis 31:7; Genesis 31:18. But he grossly misrepresented God’s dealings with him when he gave his wives the reasons on which he proposed flight. Note Genesis 31:9; Genesis 31:13. So the flesh and spirit struggle for mastery within us all, and only as the grace of God enters our hearts can we come into the absolute supremacy of the spiritual and divine, Galatians 5:17.\n\nThe secret departure was very undignified and unworthy of the heir of the promises. The command to return was of God, and what He commands He becomes responsible for. Besides, had not the Almighty promised to keep him in all places? See Genesis 28:15. When we are on God’s plan, we may reckon on Him absolutely."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The Dispute between Laban and Jacob -- Genesis 31:22-42\n\nThese chapters afford a remarkable insight into God’s forbearance. He knew what was in Jacob’s heart, and could see all its weakness and deceit. There was not a thought in his heart or a word on his tongue, but He knew them altogether. Yet God cast the mantle of forgiveness and defense around this most unworthy soul, bidding Laban not to speak to him either good or bad. Indeed, in a later book, we are told, “He hath not beheld iniquity in Jacob, neither hath He seen perverseness in Israel.” Not that the holy God was unaware of the evil traits in His child, but that He refused to dwell on them, or to allow himself to be turned away from His purposes of grace. Rachel secretly carried with her the teraphim, which wrought evil throughout the home in after-years, as we shall see. The “fear of Isaac” was on Jacob’s lips, but too little of it in his character and surroundings!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "The Covenant between Jacob and Laban -- Genesis 31:43-55\n\nIn our time covenants are engrossed on parchment, so that there may be written documentary evidence accessible, to prove that certain transactions have taken place. The same object was conserved, where the art of writing was confined to the few, by the erection of monuments, whose existence was associated with the agreements into which men had entered with one another. Though these two men were far below the Christian ideal of character, it is evident that they lived in an habitual recognition of God and the eternal sanction of His presence. The Lord was to watch between them. God was to be witness and judge. The third generation looked back on the days of Terah with reverential awe and loyalty, and commemorated their grandfather Terah’s God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 32
+ }
+}

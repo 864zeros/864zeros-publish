@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“God Loveth a Cheerful Giver” -- 2 Corinthians 9:1-7\n\nPaul evidently had considerable anxiety about the collection at Corinth for the starving saints at Jerusalem. He had started the idea, not merely because of his affection toward his own people, but in order to promote and foster the unity of the Church of Christ. There could be no greater evidence of the transforming power of the gospel than that it should obliterate the strongly-marked differences between East and West, between Jew and Gentile, and make it clear that Christ is all in all Paul does not, therefore, urge and entreat the Corinthians so much as he reminds them of his confidence in their response. No motive is so potent as the sense that a worthy response is expected of us by one whom we revere and love.\n\nHe likens money-giving to seed-sowing. What was placed in the collection box would assuredly return to the giver with large increase. Christians, therefore, should not give grudgingly, or of necessity, but freely, spontaneously, generously, as the farmer, who does not hesitate to dip his hand deeply into his granaries, expecting, as he does, that every additional atom of grain scattered will come back to him augmented certainly to thirty-fold and perhaps to a hundred-fold. You will meet again somewhere and sometime every coin that you have given with a pure heart."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Enriched unto Liberality -- 2 Corinthians 9:8-15\n\nWe are not really poorer by what we give away; and God will never starve His own almoners. Note the comprehensiveness of 2 Corinthians 9:8. God’s grace is like an ocean at full tide. Count the alls: all grace, always, all sufficiency, every good work, and twice the verb abound. When you are going forth to sow, ask God to give you the seed. When after sowing you are hungry, ask God to supply you with bread. When you are discouraged at the results, ask God to increase the fruit. We sow the seed, whether of the gospel, or of money to aid its circulation, and lo! we reap a harvest of thanksgiving to God and of love to those who have given. But who can ever measure the thanks and love which are due to God for having given the Gift that includes all gifts! But have we accepted it? Do we use it?\n\nRemember to look to God for your own supplies of spiritual nourishment, and specially for your seed of thought or money, of word or act. Leave the increase with Him. Hold all that God has given you as a trustee holds property for others. Administer God’s good gifts, giving people continual cause to glorify and praise Him for your exhibition of the essential nature of His holy gospel."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 10
+ }
+}

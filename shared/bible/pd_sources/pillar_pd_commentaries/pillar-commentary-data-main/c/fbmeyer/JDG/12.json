@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "At the Fords of Ephraim -- Judges 12:1-15\n\nIn this second war, Jephthah showed the same conciliatory spirit as he had showed to Ammon. He parleyed sensibly and courteously before he went into the conflict. A great many Christians are less Christian than this. They ignore Christ’s strict injunction, Matthew 18:15. Ephraim had acted in the same manner to Gideon, Judges 8:1. In each case that tribe wanted to retain its primacy without the sacrifice which leadership involves; and it was angry when deliverance had arisen from another source.\n\nLeadership must be won, not inherited. Ephraim, therefore, was clearly in the wrong; and when her troops, which had crossed the Jordan into Gilead, were hurled back, the slaughter at the ford fell as a national judgment. The omission of a letter in their speech betrayed them. Alas, that Christians have martyred their fellows for even less!\n\nJephthah died soon after. Probably he died, not of age nor the brunt of war, but of a broken heart. The sweet voice of his child was always calling him. But the Spirit of God wrote on his memorial tablet-“By faith Jephthah.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 13
+ }
+}

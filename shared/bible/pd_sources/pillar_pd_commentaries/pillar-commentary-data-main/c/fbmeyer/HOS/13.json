@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "To Oppose God Is Destruction -- Hosea 13:1-14\n\nAgain, a very tender chapter. The lips that speak with trembling betray the heart that God can exalt. But when we turn to Baal, the emblem of self-confidence, we pass as the morning cloud the dew, the chaff, and the smoke.\n\nIn Hosea 13:4 we again get the sweet strain of early memory. God had not changed and was waiting to save. They had refused His help and had destroyed themselves, and He who would have done His best for them had been constrained to act as though He were a lion, a leopard, or a bear. In the wilderness we are thankful enough for His help, but when we reach the land of the vine and olive, we follow the devices and desires of our own hearts.\n\nWhat a magnificent outburst is that which declares the divine intention to ransom even from death and the grave! We all know the New Testament setting of these words. Our Savior by His death destroyed him that had the power of death. He is death’s plague and the grave’s destruction. The sting of death is sin, but Jesus has borne sin away. The strength of sin is a violated law, but He has fulfilled the law. He is more than conqueror, and the soul that is one with Him shall share His triumph."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "“I Will Heal Their Backsliding” -- Hosea 13:15-16; Hosea 14:1-9\n\nThe prophet here ransacks the world of nature for phrases sufficiently expressive of his transports of joy. The whole world seems laid under contribution to set forth the love of God. The gentle dew, the rich raiment of the lily, the far-reaching spurs and roots of the Lebanon range, the spreading branches of the olive, the fragrant breath of the wind which is laden with the perfume of the land, the golden corn ripe for the sickle, the scent of the vines-these are the images with which the inspired imagination of the prophet teems.\n\nBut how deeply the chapter appeals to us! The very words that returning prodigals would adopt are set down. As we return, we hear the divine voice assuring us that our backslidings shall be healed, that there is no anger and only love, and that God Himself shall be the sap of our fruit-bearing life. Our Father wants it to be clearly understood that these promises do not belong to Israel only but to all who will accept them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 14
+ }
+}

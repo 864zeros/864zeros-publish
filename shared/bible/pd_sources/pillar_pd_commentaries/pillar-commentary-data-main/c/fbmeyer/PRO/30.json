@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 30,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Advice of a Shrewd Observer -- Proverbs 30:1-17\n\nThis chapter contains a collection of sayings of one person, Agur, of whom we know nothing further. It is supposed that he lived after the return from the Exile. The opening verses of the chapter may be thus rendered: “The utterance of the man who has questioned and thought.” I have wearied after God, I have wearied after God, and am faint; for I am too stupid for a man, and am without reason, and I have not learned wisdom, nor have I knowledge of the All-Holy.”\n\nAgur answers his complaint in Proverbs 30:5-9. You cannot know God by your own discovery, but He will make Himself known to you through the written Word, to which no addition may be made, Proverbs 30:6. See also John 1:18, which shows our clearest revelation of Him. But there are two conditions: We must put away vanity and lies; and we must be satisfied with God’s arrangement of our daily food. Notice the following quatrain, Proverbs 30:11-14, which is descriptive of four kinds of evil men: the unfilial, the self-righteous, the haughty, and the rapacious. The next quatrain, Proverbs 30:15-16, treats of “the insatiable;” and this is followed by a further description of the doom of the disobedient: strong, wise, shrewd, and sanctified sense."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Lessons from Common Things -- Proverbs 30:18-33\n\nWe have four more quatrains.\n\nThere are the four wonders that baffle Agur’s understanding. How superficial is our knowledge! How does the eagle mount the air, or the serpent find a hold on the slippery rock, or a ship plow her way across the deep, or a man and woman fall in love by a secret interchange of heart which no one else perceives? And further how can a sinner continue to sin without experiencing remorse?\n\nThere are four intolerable conditions: a slave in authority, a pampered fool, an ill-assorted marriage, and a slave-girl, like Hagar, preferred to her mistress.\n\nThere are four kinds of animals which prove that it is possible to be insignificant and yet be wise: the ant, the cony, the locust, and the lizard, r.v.\n\nThere are four things which give the idea of stateliness in motion: a lion, a greyhound, a he-goat, and a king “against whom there is no rising up.” This remarkable collection ends with an exhortation to the repression of anger. Sometimes to refuse to express one’s passion is the surest way of killing it. Treat it like a room on fire. Shut door and window, that it may die for want of air. Ask God’s holy sunlight to replace the unholy heat of your soul."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 30
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 31
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Prince of Peace -- Isaiah 8:19-22; Isaiah 9:1-7\n\nWhen men cease to trust in God and rely on the help of man, they often turn to necromancy and spirit-rapping. The medium takes the place of the Mediator. The séance is sought after instead of the Law and the Testimony. What have God’s children to do with back-stair gossip, when their Father’s presence-chamber is open to them? What He does not tell us is not worth our knowing.\n\nThe land of Galilee was destined to suffer sorely, but better days would dawn on its mountains and lakes. The joy that was in store is compared to the daybreak, Isaiah 8:2; to the joy of harvest, Isaiah 8:3; and to the gladness of the harried tribes when Gideon broke the power of Midian, Isaiah 8:4. The implements of battle would become fuel for the peasants’ cottage-fires. What titles are these for our Lord! They befit no human babe! Let us place the government of our lives on His shoulders; and as it extends so shall our peace. Ask God’s zeal to do this for thee! In the power of His grace, put the government of all on the wonderful Son of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "False Leadership Brings Ruin -- Isaiah 9:8-17\n\nThe grievous sins of the Chosen People are again enumerated. They defied God, Isaiah 8:9-10. They refused to repent; they were blind and deaf and profane, Isaiah 8:13. Their religious and political leaders led them astray, Isaiah 8:16. What could they expect but the letting loose of the judgments of the Almighty!\n\nIsaiah’s protests were disregarded, and 2 Kings 15:1-38 tells the sequel. It seems very terrible. But what would the forest-glades become if there were not a perfect machinery for the instant removal of all traces of disease, decay, and death! What is true in the physical is true also in the moral sphere. When a nation has ceased to help, and has commenced to impede the progress of humanity, it must be put out of the way."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Social Injustice Condemned -- Isaiah 9:18-21; Isaiah 10:1-4\n\nThe terrible indictment of the preceding paragraphs is continued here. Notice the awful monotony of the refrain, Isaiah 9:12; Isaiah 9:17; Isaiah 9:21; Isaiah 10:4. Internal anarchy spread with the rapidity of a prairie fire. Jealousy and distrust awoke murderous hatred. Even the ties of brotherhood would not avail to arrest the knife of the assassin. In the horrors of starvation men would consume their own flesh, Isaiah 9:20.\n\nCivil strife would exhaust the forces, which, combined with God’s blessing, might have arrested the invader. The weak would become the spoil of the strong; and there would be no appeal. What pathetic questions are suggested in Isaiah 10:3! What will ye do? To whom will ye flee? See Hebrews 9:26-28.\n\nWhat hope is there for the soul that has known and refused the offer of forgiveness in Jesus! Dear soul, make haste to the cleft of the Rock!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 10
+ }
+}

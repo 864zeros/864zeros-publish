@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Playing with the Enemy -- Judges 16:1-14\n\nThree women, one after another, brought Samson down. If only a noble woman could have influenced him, as Deborah did Barak, how different his record would have been. Let those who are eminent in spiritual capacity guard against the swing of their nature to the opposite, sensual side.\n\nIt is clear that Samson’s strength was not wholly accounted for by huge stature nor massive muscles, else Delilah would not have needed to ask his secret; and he lost his strength, not merely because the razor deprived him of his hitherto unshorn locks, which lay in glossy ringlets at the feet of his temptress, but because he had yielded to her seductive wiles. We should have supposed that one or two experiences of her shameful treachery would have sufficed to put him on his guard and lead hip to flee from the spot, as did Joseph, Genesis 39:12. But Samson lingered, as the moth which seems unable to resist the fascination of the flame, although already it has singed its wings, Proverbs 1:10-19. There is always a way of escape, but we must take it with instant eagerness, Genesis 19:17-22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Dying with the Philistines -- Judges 16:15-31\n\nIt may be that the razor has already severed your union with Christ. If we abide not in living union with Him, we are cast out as branches from the vine, and wither. This is bad enough, but it is still worse when we are not aware of it. See Hosea 7:9. Some of our greatest spiritual experiences may be like sunrise or sunset. “There is no speech nor language; their voice is not heard,” but the effect, for good or ill, soon shows itself.\n\nWe may be blind and captive, yet for us also the hair that was cut may begin to grow again. The old faith and love, the old consecration and surrender, the old power with God and man may come again. Do not turn away from Him, penitent soul, for God is willing to take you back again into the secret of His power. “He hateth putting away,” Malachi 2:16; Isaiah 50:1. Out of your sorrowful heart, send up Samson’s prayer! But do not ask to be strengthened only this once. God will do it not for once, but for many times, if only you will trust Him absolutely, 2 Kings 13:19. And do not ask to die; believe that life shall again become bright, strong and victorious."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 1
+ }
+}

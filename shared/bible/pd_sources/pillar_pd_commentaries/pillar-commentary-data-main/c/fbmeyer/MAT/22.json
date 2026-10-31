@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Penalty of Slighting the Invitation -- Matthew 22:1-14\n\nWe have here a continuation of our Lord’s teaching on that last great day in the Temple. This day seems to have begun with Matthew 21:23, and it continued to Matthew 25:46. What wonder that His strength was prematurely exhausted, and that He succumbed so soon under the anguish of His cross!\n\nIn this parable He describes His union with His people under the symbolism of marriage. This must have suggested the allusions of Eph 5:23-32, where the Apostle tells us that Christ loved the Church as His bride; and of Rom 7:1-4, where He encourages us to believe that we may be married to Him who was raised from the dead. We can never forget Revelation 21:2; Revelation 21:9. Messenger after messenger was sent to the Hebrew people, but as they would not come, the Church was called from the highways and byways of the world to occupy the vacant space. But let us see to it that we are clothed in the spotless robe of His righteousness, in which alone we can stand in the searching light of eternity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Duties to God and Society -- Matthew 22:15-22\n\nThis reading begins a marvelous cycle of interviews between our Lord and His questioners. First the Herodians, then the Sadducees, and finally the Pharisees were answered and silenced. What inimitable wisdom there was in His replies! How masterfully He turned the battle from the gate and slew them with their own swords!\n\nTheoretically God was King in Israel. Were, then, the Jews justified in paying tribute to Caesar? If our Lord had said so, His enemies would have accused Him of treachery to the theocracy. If He had forbidden it, they would have accused Him of treachery to their Roman conquerors. Our Lord answered with marvelous wisdom. He tore aside the veil and revealed their hypocrisy. That coin indicated that the Romans were responsible for maintaining law and order. It was surely right that Caesar’s dues should be paid. But it was equally right to give to God the souls that He had redeemed. Are we as careful in rendering to God our hearts and lives as we are in paying our taxes and serving the state?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "The Scriptures Teach the Resurrection -- Matthew 22:23-33\n\nThe Sadducees professed themselves to be bound by the Pentateuch, and to have searched in vain for evidences of a life beyond. They were greatly startled, therefore, when our Lord proved human immortality from the book of Exodus. He had never passed through their schools and sat at the feet of their great teachers, but He showed them that “at the Bush” the voice of God attested eternal life.\n\nThe great I AM would never have spoken of Himself as the God of the patriarchs, centuries after their earthly career had closed, unless they had been living somewhere still. It was certain that they were all alive; otherwise God would have said, “I was their God.” Death is not a chamber, but a passage; not an abiding-place, but a crossing over; not a state, but an act, an experience, a crossing of the bar, a going within the veil. Abraham, Isaac, Jacob, and all the myriads who have warred and stormed over the earth, are living as intensely as ever."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "The Summary of the Law -- Matthew 22:34-46\n\nOur Lord seemed to say: “Here is all Scripture in a nutshell; the whole range of human duty in a portable pocket form.” We are reminded of Ecc 12:13. But what a magnificent definition is here given of pure and undefiled religion! The whole Law is gathered up in that one word love! See Romans 13:8-10.\n\nIn Mark 12:33 the word strength is added. There are four channels of love. The heart stands for our emotions; the soul for our will and general individuality; the mind for our intellect; and strength for the activities and energies of our service. Often we cannot feel love, but we can always use our strength for God and show our love by doing things which we would never do except for His sake.\n\nThe question which the Master propounded to the scribes can be solved only by the admission of His two natures-divine and human-as existing in His one person. As David’s Lord He is divine; as his son, He was born of the Virgin. See Matthew 1:1."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 23
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 61,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Safe under God’s Protection -- Psalms 61:1-8\n\nThis psalm was probably composed at the time of Absalom’s rebellion, when David was a fugitive from the Tabernacle that he loved. There are two stanzas.\n\nPrayer, Psalms 61:1-4 The king was only across the Jordan, yet it seemed the end of the earth. He was at the end of human help. In overwhelming floods trouble poured all around, but in the distance he perceived the rock that towered above the waters. If he could but reach it, he would be safe. What rock is this save the Rock of Ages, that was cleft for us! We cannot reach or climb it by ourselves, but need to be led and lifted thither. And God answers, “I will put thee.” See Exodus 33:22.\n\nConfidence, Psalms 61:5-8 The psalmist quotes the great assurance of 2 Samuel 7:12-16, and turns it into prayer. Faith presents God’s pledges to Himself, and affirms her confidence in their fulfillment. Thus we advance from step to step on the predestined road, knowing that Loving-Kindness and Truth have gone before us, to prepare the way of our steps and to discover themes for endless praise."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 61
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 60
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 62
+ }
+}

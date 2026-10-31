@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "For Righteousness’ Sake -- Matthew 14:1-12\n\nIn the terror arising from his stricken conscience, Herod made confidants of his slaves, overleaping the barriers of position in his need of some ears into which to pour his fears. He had not finished with John. There is a resurrection of deeds as well as of bodies. The only way to have done with a sinful deed is to confess it and make reparation.\n\nWhat true nobility John displayed in summoning the king to the bar of eternal justice! He might have said, “It isn’t seemly,” or, “It isn’t politic;” but he puts it on more unassailable ground, which Herod’s conscience endorsed: “It is not lawful.” Herod was luxurious, sensual, superstitious and weak. He was easily entrapped by the beautiful fiend. To tamper with conscience is like killing the watch-dog while the burglar is breaking in.\n\nHow splendid the action of John’s disciples! Reverent love and grief made them brave the king’s hatred. In hours of lonely bereavement, the best policy is to go and tell Jesus."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Abundance for the Hungry -- Matthew 14:13-21\n\nJesus sighed for a little quiet and sought it amid the lonely hills across the lake. The crowds saw where His boat was making for, and hurried round the shore to greet Him. Without a sigh He put away the hope of rest and stillness, and set to work to heal and teach the unshepherded sheep.\n\nThis is not only a miracle but a parable. It is thus that the Creator is ever multiplying the slender stores left over from one harvest to produce another. It is thus that He will feed you and yours, if only you will trust him and not run hither and thither in panic. You need not depart from Christ in search of any good thing. All is in Him. When He bids us feed the crowds, He makes Himself ultimately responsible, but paves the way by forcing home the inadequacy of our resources apart from Him.\n\nIt is as we break and distribute, that the living bread multiplies in our hands. The Church is the intermediary between the living Savior and the desperate hunger of the world. You may sit at the world’s table and remain hungry. But at Christ’s table you are filled. There is always more than enough left for the distributor."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Help in the Hour of Need -- Matthew 14:22-36\n\nJesus always comes in the storm. It had been a great relief to escape from the pressure of the crowd to His place of prayer, on heights swept by the evening breeze and lighted by the holy stars. But He tore Himself away because His friends needed Him. He is watching you also in the storm and will certainly come to your help.\n\nHe uses the element we dread as the path for His approach. The waves were endangering the boat, but Jesus walked on them. In our lives are people and circumstances we dread, but it is through these that the greatest blessing of our lives will come, if we look through them to Christ.\n\nHis coming is sometimes delayed. The gray dawn was already beginning to spread over the scene. The disciples’ strength was spent. He was not too late to be of service, but just in time to save them from despair. Be of good cheer, and if Jesus bids you come to Him on the water, always believe that His commands are enabling. Keep looking to Him, not at the storm."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 15
+ }
+}

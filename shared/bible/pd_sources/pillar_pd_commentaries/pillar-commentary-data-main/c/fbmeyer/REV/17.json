@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Great World City Overthrown -- Revelation 17:1-18\n\nThis scarlet-attired woman is that miserable attempt made in every age to counterfeit the true Church of the living God. Man does not like the religion of the cross, of faith, of self-denial, and each age has witnessed some false system from which all these objectionable elements are eliminated. Surely a meretricious system has revealed itself successively in Babylon, Jerusalem, Rome, London, New York, and other great centers. Fashion smiles on it, wealth bedizens it, human power unites with it, and in every age it has been drunken with the blood of martyrs.\n\nBetween this miserable travesty of the Church and the Church herself there has been perpetual conflict. But the ultimate victory has always remained with the Lamb, and if only we side with Him, as the called, chosen, and faithful of Rev 17:14, we also shall be more than conquerors. Human prestige and power shall not ultimately avail in the conflict against the all-conquering Savior. And finally the very world-powers shall turn against the apostate and adulterous Church, Revelation 17:16. Come out from her and be separate!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 18
+ }
+}

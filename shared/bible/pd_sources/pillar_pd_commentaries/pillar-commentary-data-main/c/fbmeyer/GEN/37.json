@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 37,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joseph Loved and Hated; His Dreams -- Genesis 37:1-11\n\nIt is a mistake for parents to show favoritism; but we can hardly wonder at Jacob’s partiality for the lad, who reminded him so vividly of the beloved Rachel. Besides, there were a purity and an elevation of spirit in Joseph that stood out in welcome contrast to the coarse brutality and impurity of the others. He was separate from his brethren, Genesis 49:26. The coat of many colors was, as r.v. margin indicates, a long garment of delicate texture, with sleeves, that was the dress of the young princes or nobles, who were not called to the menial toil of the field or household. The dreams of youth are proverbial and prophetic. In this case it would have been wiser for the lad to have kept his secrets locked in his own heart, though it was a tribute to his simplicity and ingenuousness that he must needs disclose them. The suggestion of coming greatness aroused his brothers’ sharpest envy, but the hands of the Mighty One upheld the lad, Genesis 49:23."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Joseph’s Brothers Plot His Death -- Genesis 37:12-24\n\nThroughout Joseph was a very remarkable type of our Lord. There was, first, this mission of the beloved son to inquire after the well-being of his brethren, which reminds us so vividly of the advent of God’s Beloved and Only Begotten Son, who brought us the Father’s greeting, and came to see and know by personal inquiry how we fared. Dothan was in the northern portion of the land, and the journey must have taken time and strength; but he persisted until he found them, and came where they were. Their plot against their helpless brother was as the plot of Caiaphas and the rest against our Lord. Pilate knew that for envy they had delivered him into his hands. The pit was one of those rock-hewn cisterns that abound in Palestine, and as there was no water in it Joseph’s life was not sacrificed; and there he awaited what was a kind of resurrection. The scene at the pit’s mouth was recalled by Joseph in Genesis 42:9; and was never forgotten by the others, Genesis 42:21-22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Joseph Sold into Egypt -- Genesis 37:25-36\n\nIt was not chance, but providence, that brought these Midianites to the pit at that hour. They had, of course, fixed their time of departure from their native land, the speed at which their camels were to travel, and the amount of time which they would spend at the fairs and markets en route, quite irrespectively of all other considerations but their own profit and convenience; yet quite unconsciously they were moving according to a divine timetable. Everything in life is directed, superintended and controlled by a divine forethought. Let us live in constant recognition of this! You may be in a pit of dark misery, but God knows that you are there, and times the moments. Only continue to trust and do not be afraid!\n\nBlessed are they that believe, to them there shall be a performance. Months ago a caravan started, which will arrive at the precise hour when intervention will best serve you."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 37
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 39
+ }
+}

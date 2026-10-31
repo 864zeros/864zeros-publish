@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Man Who Wholly Followed His God -- Joshua 14:1-15\n\nThe lot was doubtless adopted to obviate cause for jealousy or charges of favoritism. It denoted God’s choice, Proverbs 16:33; Proverbs 18:18. It could be used only with very evident reliance on Him, and in our day has been superseded by the sending of the Comforter to teach us all things, John 16:13.\n\nIt was long since Caleb had cut down the bunch of grapes near the spot of his choice, but he had never forgotten it; and now God, who had read his purpose, arranged that what his heart loved best his hand should hold and keep: “Him will I bring into the land whereinto he went,” Numbers 14:24.\n\nOut of entire surrender to God springs a faith that dares to claim the realization of an olden promise, Joshua 14:12. The fact that the Anakim held Hebron did not stagger the old veteran. It was enough that God had promised! How strong and vigorous, even to hoar hairs, are those who walk with God, Isaiah 40:31!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 15
+ }
+}

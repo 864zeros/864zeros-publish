@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "COL",
+  "commentaryId": "fbmeyer",
+  "name": "Colossians",
+  "commonName": "Colossians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Gospel Bearing Fruit -- Colossians 1:1-8\n\nThe saints are men of faith, for their holiness is derived from Christ, but they are also faithful men, and will not betray their trust. Grace is the Greek and peace the Hebrew greeting. We can do a great deal with those whom we desire to correct or instruct, if we begin by commending all that is worthy of being praised. Thus the Apostle rejoices in the evidences of the trinity of Christian graces-Faith, Hope, and Love. His prayer-book was filled with intercession. One marvels at the accomplishment of this extraordinary man, who, in addition to his travels, labors, writings, and toil for his daily bread, had time for such abundant prayerfulness.\n\nThere is a note of triumph in his reference to the reception given to the gospel in all the world. The handful of corn on the top of the mountains was already beginning to shake like Lebanon. It seemed as though victory was assured; and if only the Church had possessed more men like him, the world would have been saved some sad experiences. Note the unaffected humility of the Apostle in classing Epaphras with himself as his beloved fellow-servant in the household of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Our Wondrous Privileges in Christ -- Colossians 1:9-20\n\nHere is a paragraph which may fitly form part of our daily intercession for ourselves and others. We all need a quicker insight into God’s will, and this is only acquired through the wisdom and understanding communicated by the Holy Spirit to our spirits. But that understanding is conditioned, as in Colossians 1:10, by a daily behavior which pleases God and bears fruit in every good work. It is as we slowly climb the ascent of consistent living that the landscape of God’s nature expands around us. As character and knowledge grow, so will our spiritual strength; but notice that frequently such strength is needed not so much for great exploits, as for the patient bearing of the Cross, Colossians 1:11.\n\nIn view of the fact that we are being qualified for an inheritance in light, there should be a song of perennial thanksgiving proceeding from us. What a wonder that the sons of ignorance and night can dwell in the Eternal Light, through the Eternal Love! It is not enough to receive the forgiveness of sins, we must be conformed to the image of the Son, who is Himself the image of the Father, Colossians 1:15. Notice the pre-eminence of Jesus-in creation, Colossians 1:16; in the Church, Colossians 1:18; in resurrection, Colossians 1:18; and in the great enterprise of reconciliation and restoration, Colossians 1:20. Let Him be pre-eminent for us also!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Laboring to Perfect the Church -- Colossians 1:21-29\n\nHow wonderful is God! His scheme of grace embraces the world of men, but He can concentrate on individual souls as unworthy as ours. You… hath He reconciled. And He will never abandon His work until we arrive in His presence-chamber without spot or blemish or any such thing. But, of course, the putting forth of His power on our behalf is conditioned on our steadfast faith.\n\nPaul drank deeply of the Master’s cup. It seemed as if Jesus had trusted him with participation in the sorrows of Gethsemane and Calvary. And he was thus fitted for the stewardship of two great secrets, which it was his joy to unfold. In Ephesians 3:1-21 he says that he was commissioned to show the Gentiles that they might become fellow-heirs; but here, Colossians 1:27, that they might experience the indwelling of Christ. Those who are conscious of that indwelling know its riches of power and joy and victory. Their hope of glory is dimmed by no fear, because they have the Christ; in their hearts, and, therefore, heaven in their hearts, so it follows naturally that their hearts will one day be with Christ in heaven.\n\nChrist in us is the hope of glory. Note the individual interest which the true pastor takes in his flock, as shown in the repeated use of every man."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHP",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 2
+ }
+}

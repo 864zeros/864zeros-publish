@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "3 John", "chapter": 1, "citation": "3 John 1:4", "text": "I have no greater joy than to hear that my children walk in truth.", "plain": "I have no greater joy than to hear that my children are walking in the truth." },
-    { "book": "3 John", "chapter": 1, "citation": "3 John 1:11", "text": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.", "plain": "Dear friend, do not imitate what is evil but what is good. Anyone who does good is from God; anyone who does evil has not seen God." }
+    {
+      "book": "3 John",
+      "chapter": 1,
+      "citation": "3 John 1:4",
+      "text": "I have no greater joy than to hear that my children walk in truth.",
+      "plain": "I have no greater joy than to hear that my children are walking in the truth.",
+      "visual_prompt": "a dusty desert road winding between scattered boulders toward distant hills in three oil lamps burning side by side on a wooden shelf",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "3 John",
+      "chapter": 1,
+      "citation": "3 John 1:11",
+      "text": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.",
+      "plain": "Dear friend, do not imitate what is evil but what is good. Anyone who does good is from God; anyone who does evil has not seen God.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a traveler's water flask and walking staff resting by an open door",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

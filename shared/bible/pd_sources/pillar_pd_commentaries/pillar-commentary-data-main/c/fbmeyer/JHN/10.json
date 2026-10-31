@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“A Stone of Stumbling” -- John 9:35-41; John 10:1-6\n\nIn John 9:35 we hear of Jesus finding the outcast, whom the Pharisees had excommunicated; and this story is appropriately followed by a picture of the true Shepherd as contrasted with the false. At night sundry flocks are brought to the Eastern sheepfold and committed to the care of the keeper or porter. In the morning the shepherds knock at the barred door of the enclosure, and the porter opens from within. Each separates his own sheep by calling their names, and when thus summoned the flock follows its shepherd, wherever he may lead.\n\nThe sheepfold in this parable holds the Jewish people. The stranger is the religious Teacher who fails to speak in the familiar phrase of Moses and the prophets. The Pharisees and scribes are the thieves and robbers who have stolen God’s glory and made profit of his flock. Note that whenever you are put forth, you will find Christ going before.\n\nGod has sent many true shepherds from out His presence chamber, to care not only for individuals or churches but for nations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Jesus the Good Shepherd -- John 10:7-18\n\nHe who came in by the door which John the Baptist opened has become the door. It stands open to all comers-if any man. The salvation here mentioned refers to the entire process of soul-health: go in for fellowship; go out for service.\n\nWherever destruction is uppermost in speech or act, you may detect the presence of the great enemy of souls. Christ is ever constructive, saving, life-giving. Let us not be content until our life has become abundant life. Our life cost the Shepherd’s life. He did not hesitate to interpose Himself between the sheep and the wolf of hell. There is possible between our Lord and ourselves an intimacy of knowledge which can be compared to nothing less than that which subsists between the Father and Himself.\n\nNote how our Lord looked beyond the hurdles of the Jewish fold and thought tenderly of the Gentile sheep that were far away. In the revelation committed to the Apostle Paul He gave vent to His love, and through the succeeding centuries He has ever sought them. There may be many folds, but there can be only one flock. Men die because they cannot help it; Christ was born that He might die; He died because He would."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Our Assurance of Safe-Keeping -- John 10:19-30\n\nOur Lord did not shrink from the avowal of His divine origin and glory, when there was need or when they were challenged. See John 4:26; Matthew 26:64. For the most part, however, He wished men to exercise their own faculties of discernment and to accept Him, not because He told them what He was, but because they were inwardly convinced.\n\nIn John 10:27 we have three characteristics of His sheep-to hear, to be recognized by Him, and to follow; and in John 10:28 there are also three privileges which they enjoy-to possess eternal life, never to perish, never to be snatched away by man or devil.\n\nNote the safety of those who really belong to Christ. They are not only in His hand, but in the Father’s, because the Father and He are one. “Your life is hid with Christ in God.” Here is a double protection. They may wander far, lose joy and comfort, fall on dark and stormy times, but He is responsible for them, will seek them out, and bring them home. This also is true-that our relationship with Jesus involves our relationship with the Father. But if any should presume to live carelessly because of this divine grace, it is clear that such a one is not one of Christ’s sheep."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "The Works of the Father -- John 10:31-42\n\nIn the strongest terms known to the Jews, our Lord insisted on His oneness with God; and they understood His claims, threatening Him with the penalty of blasphemy. This quotation from Psalms 82:6 was originally addressed to magistrates, and our Lord argued that if unjust judges were described by this phrase, because they exercised the divine prerogative of judgment, surely His opponents had no right to stone Him, when, as the Sent of God and sanctioned by God’s witness in His works, He spoke of Himself as the Father’s equal and fellow. See Zechariah 13:7; and Philippians 2:6. But their vindictive hate would brook no parley; and as His hour was not yet come, Jesus deemed it better to go beyond Jordan into hiding, until the minute-hand should reach the exact figure on the dial.\n\nThere was a special reason why He was attracted to the region beyond Jordan. It was the place of John’s early appearance. That ground had been black with crowds, those waters had witnessed countless baptisms. All that wonderful past trooped back to memory, and the people remembered John’s word as they saw in Christ their precise fulfillment. We may work no miracle, but let us speak true words about Jesus Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 11
+ }
+}

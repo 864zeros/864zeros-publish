@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 29,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Peace after Storm -- Psalms 29:1-11\n\nThis is a perfect specimen of Hebrew poetry, describing the march of a thunder-storm over Palestine from north to south.\n\nThe prelude, Psalms 29:1-2, is addressed to the angelic hosts, who stand above the tumult of earth and sky. Heaven is viewed as a temple in which the angels are the priests.\n\nThe storm, Psalms 29:3-9. The many waters are the Mediterranean. The tempest breaks first on the Lebanon, the cedars of which sway to and fro before its fury. Each thunder-clap is accompanied by forked lightning. The storm passes to Kadesh and the rock-hewn cities of Petra. The beasts are terror-stricken; the trees are stripped of their leafy dress. In the Temple the worshipers respond to the challenge of nature! Glory to the King! The voice of the Lord is mentioned seven times. Compare Revelation 10:3.\n\nThe conclusion, Psalms 29:10-11. This God is our God, and will give us strength and peace. The psalm begins with “glory in the highest” and ends with “peace on earth.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 29
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 30
+ }
+}

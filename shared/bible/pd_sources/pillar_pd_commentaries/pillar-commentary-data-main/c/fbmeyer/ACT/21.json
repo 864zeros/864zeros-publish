@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ready to Die for His Lord -- Acts 21:1-14\n\nThe vessel coasted along Asia Minor, sighted Cyprus, sailed to the south of it, and so finally to Tyre. There the disciples were poor and obscure, and it took searching to find them; but they were very warm-hearted, and the whole community, including the children, who never forgot that incident, accompanied Paul to his ship. As they neared the vessel they knelt on the shore to pray together, and so parted.\n\nThe journey from Ptolemais (Acre) to Caesarea lay along the edge of the plain of Sharon, at the season bright with the flowers of spring. The days Paul spent at Caesarea were the last happy days of freedom that he was to enjoy for two or three years. What blessed intercourse Paul and Philip must have had! They had both known Stephen. Agabus joined the happy party, with prophecies of peril ahead, but these only served to bring out the magnificent courage of the Apostle. His purpose was inflexible. An unseen hand was beckoning; a voice which only he could hear was calling. He had no doubt as to God’s purpose, and went straight forward; though he was not insensible to the love and sympathy of friends."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Binding Together the Church -- Acts 21:15-26\n\nMnason was an early disciple. He could remember the first days of the Church’s story. It was good for Paul to have the society and care of this good man during those last troublous days. Notwithstanding all the efforts of the Judaizing elements in the Church, the splendid labors of the Apostle were estimated at their true worth, and he was gladly welcomed by the brethren at Jerusalem. Note how careful he was to attribute all to God. Paul was only the instrument through whom the Almighty wrought for the glory of Jesus, Acts 21:19.\n\nThe action here described, which was strongly recommended by the leaders of the Church, seems at variance with what Paul so clearly states in his Epistle to the Galatians, Galatians 2:3-5; and perhaps it would have been a wiser and stronger policy for him to have remained in quiet obscurity till the feast was over. But we must remember the deep coloring which the proximity of the Temple gave to church life at Jerusalem, and Paul was willing to be guided by men like James, in whose judgment he had full confidence. In addition, he was always willing to yield in cases which did not concern principle. He acquiesced in such matters for the sake of charity, so that he gladly became as a Jew to Jews, that he might save the Jews, 1 Corinthians 9:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Facing a Bigoted Mob -- Acts 21:27-40\n\nFour days passed and there seemed a hope that, as the number of pilgrims grew less, Paul might escape recognition till his vow was fulfilled. In fulfilling it he was required to live with four paupers in a chamber of the Temple, to pay for sixteen sacrificial animals and the accompanying meat offerings on their behalf, and to stand with them while the priest offered lambs and rams on their behalf.\n\nBut as the ceremonies were approaching completion, he was recognized by Jews from Ephesus and other cities of Asia-perhaps Alexander the coppersmith was one of them-and a cry of hatred and horror was raised. They had seen the Ephesian Trophimus walking with him in the streets of Jerusalem, and supposed that Paul had taken him into the holy precincts. The punishment for that crime was death. They therefore seized him and forced him through the Beautiful Gate and down the fifteen steps, that they might kill him outside the Temple. This outburst attracted the notice of the Roman garrison in the neighboring Castle of Antonia, and Lysias with his soldiers forced his way through the throng, rescued Paul from his would-be murderers, and bore him beyond their reach. God had other work for the Apostle yet to do."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 22
+ }
+}

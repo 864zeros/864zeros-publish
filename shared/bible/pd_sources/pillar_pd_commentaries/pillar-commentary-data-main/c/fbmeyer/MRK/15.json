@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Choice of the Multitude -- Mark 15:1-21\n\nThe hurried consultation of the evening was followed by the more formal meeting of the early morning; and even the decision made then had no binding force till ratified by Pilate, the Roman governor, who happened at that time to be in Jerusalem. John gives a more detailed account of this memorable interview, John 18:33-38. Our Lord did not plead His own cause but committed Himself to the One who judges righteously, 1 Peter 2:23. It was only when Pilate asked questions for his own guidance that Jesus sought to help him and then He relapsed into silence. “Like a sheep dumb before her shearers, so He opened not His mouth.” Men like Barabbas, embodiments of brute force, are ever the darlings of the crowd. By narrowing the people’s choice to the murderer and Jesus, Pilate expected to bring them to demand the release of the lover and helper of men. But he failed to gauge the malice of which men are capable.\n\nPerhaps he hoped that the marks of extreme suffering would soften their hatred. As well appeal to a pack of hungry wolves! His purple stood for royalty won by blood; thorns, because His diadem was won by suffering; the reed, because he can wield the frailest life to momentous issues. Happy is the man who shares Christ’s cross! Simon was an African, probably colored, and this incident changed his life, Romans 16:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "A King upon His Cross -- Mark 15:22-47\n\nOur Lord refused to drink the potion prepared by the women of Jerusalem, in order to stupefy those who were crucified and so deaden the sense of pain, because He would drain the cup to its dregs. It was nine o’ clock in the morning when He was nailed to the cross. His persecutors were, as they thought, destroying the Temple of which He had spoken in John 2:19, and making its restoration impossible. In fact, however, they were giving Him the opportunity of fulfilling His great prediction. He saved others; Himself He cannot save. Nature veiled her face from that awful spectacle.\n\nChrist was not really forsaken, but as our Redeemer he passed under the dark shadow of human sin. The access to the Holy of Holies is now forever free through the entry of our great High Priest. See Hebrews 9:7-8. What love inspired the women, Mark 15:40, to brave the horrors of the scene! And how good to see that God cares for the body as well as for the spirit of His beloved! For Joseph, see Matthew 27:57 and Luke 23:50-51.\n\nBorn of the Virgin’s womb our Lord was buried in a virgin tomb."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 16
+ }
+}

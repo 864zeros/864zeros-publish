@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "The Tabernacle and its Furniture -- Exodus 39:32-43\n\nTen times over we are told that all the work was done, as the Lord commanded Moses. See Exodus 39:43. Their obedience had been minute and exact; and the blessing of the Lawgiver was the outward and audible assurance of the divine “Well done.” We are carried forward in thought to anticipate the verdict, which will be passed upon our own life-work. Will our Lord, when He beholds it, be able to say that it has all been wrought according to His pattern and in obedience to His command? Alas, that is too much to expect! We have been, too often, disobedient and unprofitable.\n\nWe would love to hear the Master say “Well done! I know thy works, and thy love, and faith, and patience, and that thy last works are more than the first.” But is there not reason to fear that He may say: “I have found no works of thine perfected before my God” ? See Revelation 2:19; Revelation 3:2. Let us repent, seek forgiveness and start again!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 40
+ }
+}

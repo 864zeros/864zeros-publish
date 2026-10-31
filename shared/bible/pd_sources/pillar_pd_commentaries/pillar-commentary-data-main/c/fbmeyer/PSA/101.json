@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 101,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "My Righteous Purpose -- Psalms 101:1-8\n\nThis psalm, as the title indicates, was composed by David, probably at the commencement of his reign. It contains a number of resolutions upon which he was prepared to act. First, he made up his mind that he would give heed to the perfect way, and would walk in his house in the integrity of his heart, Psalms 101:2, r.v., margin. Next, he made up his mind to choose his friends with rigorous care, that froward hearts and evil persons should depart from him; that he would not enter into close relations with those that slandered their neighbors, or that gave evidence by their high looks of proud hearts. Deceit and falsehood were alike to be banished from his palace; while faithful souls, who also walked in “the perfect way,” should minister to him. Finally, he made up his mind to carry out his rule in the public state, that the wicked might be put out of the way and the righteous exalted.\n\nIt was an excellent program, and happy would he have been if, throughout his life, he had rigorously adhered to it. It is not possible for us to exercise David’s absolute power in the selection of our environment. It is often necessary for us to work in places of business among those whom we would not choose as associates. But we can, at least, forbear making any of these our intimates, or the friends with whom we spend our leisure and recreational hours, 1 Corinthians 5:9-11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 101
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 100
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 102
+ }
+}

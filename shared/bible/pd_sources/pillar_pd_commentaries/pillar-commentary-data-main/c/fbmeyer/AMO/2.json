@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Judah Shall Be Judged also -- Amos 1:11-15; Amos 2:1-5\n\nEdom was Esau; that is, the people were closely akin to Israel; perhaps for that very reason the hatred on either side became more and more inveterate from the days of the Exodus to the siege and fall of Jerusalem, Psalms 137:7-8. Teman and Bozrah were principal cities, the first being named after Esau’s grandson, Genesis 36:11. Isaiah, in after years, saw the warrior Angel of Jehovah coming up from Edom to the foothills of Palestine, his garments stained with the blood of the foe whom he had overthrown, Isaiah 63:1. Thus Jesus Christ has overcome our foes, and now stands sentry between us and them.\n\nRabbah was the capital city of Ammon. The strife between the citizens and the Chosen People smoldered from the days of Saul, flaming out from time to time in terrible intensity. Moab-the terrible act referred to here was probably associated with 2 Kings 3:27. Alas that, in the divine vengeance, Judah should be associated with these heathen peoples! The indictment is not for sins against man, but for those committed against God. We are judged by the greater light and the higher standards that we possess. The fire here threatened was the invasion of Nebuchadnezzar and his Chaldeans, who have their modern counterparts. Man is often used by the Almighty for the chastening and purifying of his fellows."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Neither Shall Israel Escape -- Amos 2:6-16\n\nFirst the prophet enumerates Israel’s sins. They were unjust to the poor, carrying their extortions to such lengths as to goad the poor to desperation. They were unchaste. They held their idolatrous festivities in idol shrines while they unjustly detained and confiscated the pledges of the poor. They perpetrated shamelessly the enormous crimes for which the Amorites were dispossessed by Joshua and their fathers. But notice nothing is said of that great general and his valiant soldiers; our mind is carried beyond all human agency to the Eternal. I destroyed, etc. Amos 2:9.\n\nThe ripple of the ocean on the beach which you hear and see is due to the action of the sun or moon; so the changes that men attribute to political combinations must ultimately be traced back to the divine will in its permissive or decretive energy. One of the most graphic pictures is in Amos 2:13. We can almost see the heavily laden wagon dragged from the harvest field. The wheels creak and groan; the oxen advance with difficulty; the timbers threaten to succumb. So God bears up the world; and thus did Jesus stoop and sweat great drops of blood under the sins of the whole world."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 3
+ }
+}

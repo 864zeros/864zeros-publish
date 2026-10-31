@@ -1,0 +1,5 @@
+file 'C:/dev/864zeros-llc/LLC-DIV-4-GTM/videos/link-later/audio/scene1_hook.wav'
+file 'C:/dev/864zeros-llc/LLC-DIV-4-GTM/videos/link-later/audio/scene2_intro.wav'
+file 'C:/dev/864zeros-llc/LLC-DIV-4-GTM/videos/link-later/audio/scene3_feature.wav'
+file 'C:/dev/864zeros-llc/LLC-DIV-4-GTM/videos/link-later/audio/scene4_pricing.wav'
+file 'C:/dev/864zeros-llc/LLC-DIV-4-GTM/videos/link-later/audio/scene5_cta.wav'

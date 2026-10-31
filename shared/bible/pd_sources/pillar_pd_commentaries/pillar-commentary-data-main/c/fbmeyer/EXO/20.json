@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The “Ten Words” Spoken at Sinai -- Exodus 20:1-17\n\nThe Law was given by the disposition of angels, through the medium of Moses. See John 1:17; Acts 7:53. It tells us, not what God is, for that is only shown in Jesus Christ, but what man should be. It combines in a concise form that moral code which is part of the nature of things, and is written on man’s conscience. See Romans 2:5. Even the Fourth Commandment is deeply graven on our physical nature.\n\nThese laws are mostly negative, but their positive side is stated in Matthew 5:1-48. For practical purposes this divine code consists of two divisions or tables; the first, of our duties toward God; the second, of those to man; but these are summed up in the one great law of love. See Mark 12:29-31; Romans 13:8-10 and Galatians 5:14. Our Lord Jesus stands surety for us at the bar of Sinai. By His righteousness imputed and imparted, by His obedience and death, by the gracious indwelling of His Spirit, He comes “not to destroy, but to fulfill.” See Matthew 5:17; Romans 8:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The People Fear; Idols and Altars -- Exodus 20:18-26\n\nWhen our Lord was on earth He was so attractive and winsome that the publicans and sinners drew near to hear Him, penitents wept at His feet, children nestled to His heart. But even then there were some who desired Him to depart out of their coasts. So here, while Moses drew near, the people stood afar off. Let us not be among those who avoid the near presence of God, but of those who are made nigh by the blood of Christ. Let us exercise our right to draw near to the throne of grace, and stand in the very presence of our Father-God, because we have a great High Priest, who is passed through the heavens.\n\nAt Exodus 20:22, we begin the Book of the Covenant, which extends to Exodus 23:33, containing a series of wholesome laws, and the first enactment deals with the worship of the Most High. Note that in all places He will record His Name. Everywhere we may worship Him. The altar had to be of earth, teaching us the lessons of humility, simplicity and self-abasement. See Hebrews 13:10. But always the adjustment with God precedes rightness toward man."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 23
+ }
+}

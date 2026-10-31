@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Interpreter -- Job 33:1-33\n\nIt is not wonderful that Elihu has been mistaken for the Mediator Himself, so helpfully does he interpose between Job and his Maker. He dwells especially on his own likeness to Job in his manhood, and quotes this as the reason why he could specially help him: I also am formed out of the clay. So also our High Priest is man. Elihu takes up Job’s words protesting his innocence, and he insists that Job was not right in those protestations, or in the conclusions that he drew from them.\n\nThen follows one of the grandest passages in the book. Elihu tells how God speaks in nature and through conscience, and is often disregarded; and how then he speaks by revelation, opening the ears of men to withdraw them from their purpose. He shows that God often lays a man upon a bed of pain, that He may speak to his heart. Happy is the afflicted if an interpreter stands beside him to point the path to repentance. Finally, broken and penitent, he turns back to God, and sees His face with joy, and sings before men the story of his restoration. Thus Elihu argues that affliction is often sent as discipline to read to man God’s deepest truth."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 34
+ }
+}

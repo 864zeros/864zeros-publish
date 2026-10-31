@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JAS",
+  "commentaryId": "fbmeyer",
+  "name": "James",
+  "commonName": "James",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Steadfast Faith -- James 1:1-11\n\nThis Epistle is marked by the austere features of the Jerusalem church, which refused to be affected by that wider contact with the Gentile world, by which the life and teachings of St. Paul were so powerfully influenced. “Brother to Jesus” was the designation that James might have used, but he preferred the more modest title of bond-servant. The slaves of such a king are nobles! The times were full of severe testing. Each believer had to face ignominy, loss and death for his testimony to Jesus and His saving power. But James encourages these harried souls by the immense revenues that would accrue, more especially in the acquisition of patience. While patience is drawn out almost to the breaking-point, God is developing our characters with perfect beauty, so that no side is incomplete.\n\nThere are three urgent requirements for us all: (1) Wisdom to act and speak wisely in the hour of trial; (2) faith that refuses to respond to the surging billows of doubt; (3) humility and contentment with God’s dealings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "God Rewards, Not Tempts -- James 1:12-18\n\nThe word temptation may stand for trial and testing, without implying that there is any necessary impulse toward evil; or it may stand for the direct impulse of the evil one. Here, however, it is used in this latter sense. But of whatever kind the temptation is, whether upward or downward, whether of pain and sorrow at the permission of God, or of direct solicitation to evil at the suggestion of Satan, those who refuse to swerve from their high quest of nobility attain to higher levels of life. In the words of this paragraph, they receive the crown of life “here” and hereafter.\n\nNotice the genealogy of sin, James 1:15. Lust is the parent of sin, and sin when matured is the parent of death. How different to the blackness of this dark picture is the light and glory of our Father’s home and realm! All the good things of our lives are from His good hand. He is not fickle and changeable. Even our sin cannot make Him turn away. His sun still shines on the evil and the good, and His rain descends on the just and the unjust. See Matthew 5:45. We are His children; let us be sweet to the taste as the grapes of Eschol!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Doers, Not Hearers Only -- James 1:19-27\n\nKeep your mouth closed when you are angry; the inner fire will die out of itself, if you keep the doors and windows shut. In James 1:18 we are taught that God’s truth is the agent of regeneration; in James 1:21 it is the means of deepening our consecration. It is a blessed thing, when not only the words, but the Word of God is engrafted on the wild stock of our nature.\n\nThe one and only way of making holy impressions permanent is by translating them into Christian living. It is not enough to see ourselves reflected in the mirror of God’s Word; we must so continue, not as hearers who forget, but as doers that perform. Many appear to think that blessedness results from hearing, and are always on foot to attend new conventions. No; the true blessedness accrues from doing. The heart of our Christian faith is purity, the stainless garb of the soul, and thoughtful ministration to the widow and orphan-but these are possible only through the indwelling of Christ by the Holy Spirit."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 2
+ }
+}

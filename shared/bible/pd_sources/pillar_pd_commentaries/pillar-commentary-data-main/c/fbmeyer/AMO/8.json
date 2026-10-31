@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Worst Famine of All -- Amos 8:1-14\n\nWhat is more fragile than summer fruit! So beautiful, so refreshing, yet so readily corrupted and diseased. To Amos it was an emblem of the rapidity with which dissolution would overtake his rebellious nation. The end had arrived. The Great Husbandman could do no more. When the harvest has come, separation between good and bad is inevitable. See Isaiah 5:4; Matthew 13:30.\n\nThe crimes of the ruling class were enormous. Eager to increase their stores, they wearied of time given to religion. They grudged passing a day without opening their salesrooms. They did not scruple to make their measures (ephah) small, and to demand a greater weight of money (shekel) from their clients. These were crimes that could not be passed over. It is an awful sentence when God says, “I will never forget,” Amos 8:7. Invasion would sweep the land like an inundation. Since the people would not heed the God-sent messengers, they would be withdrawn. There would be a famine of the Word of God, and those who had most despised it, because enamored with the fascinations of youth, would be smitten with an insatiable appetite for it."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 9
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 150,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Praise-Songs of God’s People -- Psalms 149:1-9; Psalms 150:1-6\n\nIsrael was formed into a nation and delivered from Babylon, that her singers should lead the praises of mankind, and her teachers provide the metaphors and phrases for the world’s religious nurture. “This people have I made for myself,” said the Most High, “that they might show forth my praise.” Is it not also our Christian duty to be joyful in our King? Our religious life has not enough ecstasy and gladness in it to attract the world, which is sad enough beneath its outward gaiety.\n\nPsalms 150:1-6A worthy close to the Psalter. Ten times the summons to praise rings out, and ten is the number of perfection. Think of the tears and groans, the questionings and perplexities, the feeble faith and disappointed aspiration, that have preceded! Now it all finishes thus! So life will finish! Our Misereres will be forgotten in the outbursting Jubilates . The first three books of the Psalter end with Amen and Amen, the firm expression of faith. The fourth book with Amen, Hallelujah, as though faith were beginning to be lost in glad realization. But here, at the end of all, there is one abounding and unhesitating Hallelujah!\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 150
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 149
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 1
+ }
+}

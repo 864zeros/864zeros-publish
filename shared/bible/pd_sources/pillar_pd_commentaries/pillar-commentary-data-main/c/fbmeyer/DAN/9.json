@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Intercession for a Beloved People -- Daniel 9:1-15\n\nWhat a prayer is this! In many respects it is a model for us all. It was based on the divine Word. The fact that God had promised to restore the desolations of Jerusalem after seventy years, did not restrain, but prompted and inspired Daniel’s prayers. God’s promises are not independent of our faith, but await our appropriation. The blank checks are drawn and signed in our favor, but they must be presented at the bank for payment.\n\nIt was very humble. Fasting, sackcloth, and ashes, were the outward habiliments, but notice the tone. We have sinned… and have rebelled…; unto us [belongeth] confusion of face. He confessed his sin and the sin of his people. There is such a thing as vicarious confession, in which some holy soul takes to himself the task of bearing the sins of his people, and pouring out the story before God, as though the sins were his own. But we hardly need go to our country or people for sins to confess, for we have plenty of our own, and the nearer we come to God’s infinite light and holiness, the more we abhor ourselves and repent in dust and ashes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Renewed Favor in God’s Own Time -- Daniel 9:16-27\n\nDaniel 9:17-19 have in them a tone of anguish which reminds us of our Lord’s words as to the violence which takes the kingdom of heaven by force. God loves to see us in dead earnest. It is not long but strong prayers that prevail with Him. He sometimes seems to deny us, that He may draw us out in supplication. Notice the response to such prayer. Before it was spoken, it was granted, Daniel 9:23.\n\nBefore Daniel called, he was answered, and while he was yet speaking, he was heard. Pray on! God is more eager to hear and to bless us than we are to pray. Even now the divine answer is hastening towards thee, swifter than the speed of the morning beams across the vault of space. While we are speaking in prayer, nay, before the beginning of our supplication, the angel is sent out, and he is made to fly very swiftly. Six purposes were to be effected within 490 years from a specified date.\n\nSome refer these to final Jewish restoration, but for this the last week of the seventy has to be separated from the rest and postponed till “the end of the age.” It is more natural to understand the passage as describing here Christ’s finished work, and thus we avoid impairing the definiteness of the prophecy by indefinitely prolonging it. “The prince that shall come” seems to refer to the Roman emperor, Vespasian, whose people destroyed Jerusalem. But many think that Daniel 9:27 refers to a future compact between Antichrist and the Jews, previous to their conversion."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 10
+ }
+}

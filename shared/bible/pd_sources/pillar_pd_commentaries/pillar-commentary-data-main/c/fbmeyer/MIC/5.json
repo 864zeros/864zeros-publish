@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "fbmeyer",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Deliverer from Bethlehem -- Micah 5:1-15\n\nThis name for Bethlehem recalls Genesis 48:7. Though insignificant in size she would outshine her compeers, because of Messiah’s birth, Matthew 2:6. As man, our Lord comes from David’s city; but as Son of God, His goings forth are from eternity. Though the Jewish flock rejected Him, He is the Shepherd of men. He is great to the ends of the earth, and has made peace by the blood of His Cross. What though the Assyrian, whether ancient or modern, threaten us, shepherds and princes shall be raised up as delivers, Micah 5:5.\n\nThe ranks of the democracy hold within themselves unbounded stores of leadership. God’s people refresh the world like dew, and are lionlike in strength and courage, Micah 5:8. Horses, chariots, and walled cities, are classed with witchcrafts, etc., because they weaned away the trust of God’s people. “Thou shalt no more worship the work of thy hands.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 6
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 95,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Praise the Lord and Tempt Him not -- Psalms 95:1-11\n\nThis psalm is deeply inwoven into the life of the Church, because of the worshipful strain which pervades it, and also because of the illuminating manner in which it is introduced into the argument of Heb 3:1-19; Hebrews 4:1-16. The works of God in creation are specially enumerated as incentives to praise. The sea, the hills, the deep places of the earth have often inspired the minstrel, but how much more the devout soul!\n\nLet us remember, also, when we are tossed on the seas of life, or are called to descend into valleys of shadow, that faith will still dare to sing. But in the second stanza of the psalm, from Psalms 95:6 onward, we are confronted with the sad story of Exo 17:1-16. There are Meribahs and Massahs in all lives, where we murmur against God’s dealings and lose our inward rest. There is a sabbatism of the heart when the will is yielded to God’s will, and the bean is cleansed from its wayward whims; when the very peace that fills the divine nature settles down on the heart. That experience is an entrance into God’s rest. It remains unexhausted for all the people of God. Let us not miss it through default of faith!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 95
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 94
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 96
+ }
+}

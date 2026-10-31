@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2TI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Timothy",
+  "commonName": "2 Timothy",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Victor’s Final Charge -- 2 Timothy 4:1-12\n\nTo the end Paul held to the appearing of Jesus, though he might not live to see it; and it was to precede and usher in the coming of the Kingdom. The world of that time was sad and sick, and Paul’s sole panacea was the preaching of the gospel. 2 Timothy 4:2, do not only take opportunities, but make them. 2 Timothy 4:3, make haste; such opportunities are closing in. Sound throughout these Pastoral Epistles means “healthy” and “health-giving.” Note that striking phrase of the itching ears, which turn in every direction where they may obtain momentary relief. 2 Timothy 4:5, be on the alert! Fulfill, that is, work to the edge of your pattern.\n\nWith what pathetic words Paul refers to his approaching death! He regarded his life-blood as about to be poured out as a libation, 2 Timothy 4:6, r.v., margin. The time had come for him to go on board the good ship which was waiting in the offing to sail at sunset for its port of glory. He was a veteran who had fought valiantly and successfully-keeping the faith as in the old Roman story the heroes kept the bridge. But he was soon to be relieved. The crown at the end of the course was already in sight. He was lonely-only Luke is with me. He needed to be ministered unto-take Mark. But his courage was unabated. Demas might forsake, but Christ failed not."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "“The Lord Stood by Me” -- 2 Timothy 4:13-22\n\nThe winter was approaching, and the Apostle would be glad of his cloak amid the damp of the Mamertine prison. Evidently his arrest under Nero’s orders had been so sudden and peremptory that he was not allowed to go into his lodgings for this and other possessions, such as the books mentioned in 2 Timothy 4:13.\n\nHe had made his first appearance before Nero, and was expecting a further appearance to receive his sentence. But the Lord was with him, and his comfort was that he had proclaimed the gospel to the highest audience in the world of his time. His one thought always was that the gospel should be heard by men, whether they would hear or forbear. If that were secured, he did not count the cost to himself. The lion may stand for Nero or Satan. See Luke 22:31; 1 Peter 5:8. From 2 Timothy 4:20 we gather that miraculous gifts of healing, of which Paul was possessed, may not be used merely for friendship’s sake, but only where the progress of the gospel requires them."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 1
+ }
+}

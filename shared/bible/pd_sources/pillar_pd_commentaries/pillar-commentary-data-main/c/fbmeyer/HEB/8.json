@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Mediator of the New Covenant -- Hebrews 8:1-13\n\nSuch a High Priest, Hebrews 8:1-6. He sits because His work is finished so far as His sacrifice is concerned. His place is at God’s right hand-the seat of power. By faith we, too, may serve in the inner sanctuary of the spirit. Before you start building, and while engaged in building, your life-work, see that your eyes are fixed on the divine ideal and pattern.\n\nSuch a new covenant, Hebrews 8:7-13. It is as superior to the former as Christ’s priesthood is to Aaron’s. A covenant is a promise, made on conditions to be fulfilled, and attested by an outward sign, like the rainbow, or circumcision, or the Lord’s Supper. The covenant under which we live is between God and Christ on behalf of those who belong to Him. We have a perfect right to put our hand on every one of these eight provisions, and claim that each be made good to us. We need not ask that God should do as he has said, but with lowly reverence expect that He will-especially when we drink of the cup of the New Covenant at the Lord’s table."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 9
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Work of the Spirit -- John 16:1-11\n\nWe gain by our losses. It was expedient for the disciples that the Lord should go, because the Spirit’s presence was contingent upon His absence. The text needed to be completed before the great sermon could be preached. Christ’s work must be finished before the Spirit could apply it. Every phase of human experience centers in Him whom the Holy Spirit reveals. Whether it be conviction of sin, or faith, or hope, all begin and end with Jesus.\n\nThe chief sin of the present age is its rejection of Christ, and it is for this that men are condemned. The assertions of Jesus as to Himself are vindicated, and His righteousness is established. His divine mission was proved by His resurrection and ascension. The Cross was the scene of Satan’s judgment. There the prince of this world was condemned and cast out. His power is broken, though he still does his utmost to intimidate and hinder the followers of Jesus.\n\nThe world comes to us first with her fascinations and delights. She comes next with her frowns and tortures. Behind her is her prince. He, however, exists only by sufferance. Meet him as a discredited foe. He has been judged and condemned. For the Church there awaits victory and freedom; for the world, the flesh, and the devil, hopeless defeat-the bottomless pit and the lake of fire. See Jude 1:7-8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Looking beyond Present Sorrow -- John 16:12-24\n\nThe disciples were terribly overwrought by the events of the last few days, the reversal of their cherished hopes, and the growing darkness and sorrow of the approaching cross. Their physical nature and their minds and affections could bear no more. Sorrow had filled their heart, and the Master forbore to describe in further detail the valley of shadow through which they were still to pass. A comparison of the Gospels and Epistles will indicate how much our Lord left unsaid. All this remained for the Spirit’s teaching, to be communicated to the Church through the Apostles. It is thus that Christ deals with us still, apportioning our trials to our strength, our discipline to our spiritual capacity.\n\nWe long to know God’s secret plans for ourselves, and for those whom we love. Where does the path lead which we are treading, and which dips so swiftly and abruptly? How much longer will the fight be maintained between Truth on the scaffold and Wrong on the throne? What is the explanation of the mystery of evil, of the sorrow and agony of the world? And Jesus says: “My child, you cannot bear to know now. Trust me, I will tell you as soon as you are able to understand.” The blindness and limitation of the present time are not worthy to be compared with the glory that shall follow in God’s own time.\n\nSee Romans 8:18; 2 Corinthians 4:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Good Cheer for Hours of Trial -- John 16:25-33\n\nGod still speaks to us in proverbs. We could not understand or receive the perfect discovery of Himself. These are but part of His ways, Job 26:14. But in a little while, when the entire mystery of His will has been fulfilled, we shall see Him face to face, and He will speak to us plainly about the things that we do not now understand.\n\nThere is a close connection between prayer and joy. In the midst of a battle, when the soldiers are weary, galled with fire and grimed with smoke, if the general rides into their midst, to cheer them with hearty words and to assure them that the key to the position is already taken, they fight with the inspiration of victory. So down the line our Leader and Commander sends this encouragement. Let us carry His peace in our hearts, and be of good courage, 1 John 5:4-5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 17
+ }
+}

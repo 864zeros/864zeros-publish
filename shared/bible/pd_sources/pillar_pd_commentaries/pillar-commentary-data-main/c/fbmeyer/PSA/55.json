@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 55,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fleeing the City’s Ills -- Psalms 55:1-11\n\nThis psalm was suggested by Absalom’s rebellion and Ahithophel’s treachery. But it contains references which, in their full extent, are chiefly applicable to Judas’ treatment of our Lord. The terrors of the unseen, the stealthy tread of the assassin, the treachery of a friend, the drawn sword under unctuous speech-such were the bitter ingredients mingled for this deeply-tried soul. But we have all known something of his disappointment and anguish, and have longed for the swift wings of a dove to escape to the bosom of God.\n\nOne of the Puritans says: “My Spouse is ascended higher than the highest heavens, and I, poor soul, am left desolate and disconsolate in this valley of tears. The weight of my weakness and my sins doth so clog and shackle me, so glue and nail me to the earth, that I cannot rise. Let Him descend and give me wings whereby I may ascend.” Who will give-humility. Who will give wings-celerity. Like a dove-innocence. Fly away-aspirations to the Lord, “whom having not seen, we love.” Rest-permanent security."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Friends May Forsake, but God Abideth -- Psalms 55:12-23\n\nThe streets and open spaces of the city were filled with conspirators. Violence, strife, deceit, and oppression trampled the virtuous and helpless under foot. The treachery of Ahithophel was worse than all. How different the hot anger of David from our Lord’s treatment of Judas, when He washed Judas’ feet, expostulated with him in the garden, and bade him pause to think to what he had come! Blessed is the soul that retires from the hubbub of the street-as David, Daniel, and all devout Israelites were wont to do-three times a day. Compare Psalms 55:17 with Daniel 6:10 and Acts 10:9. He will cover our heads in the day of battle and redeem our souls in peace, if only we will trust Him.\n\nAs the r.v. marginal rendering of Psa 55:22 suggests, thy burden is that which God has given thee to carry. It did not come by chance nor from the evil intent of men. He cast it on thee; cast it back on Him. We cannot do our work so long as we stoop beneath the exhausting waste of anxiety and care. Hand all over to thy Father’s care. Let no burdens break the Sabbath-keeping of thy heart! Nehemiah 13:19."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 55
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 54
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 56
+ }
+}

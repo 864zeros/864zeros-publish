@@ -40,7 +40,7 @@ VARIANTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay 30 or 40 dollars a month just to insert recipient names into an email template?",
+            "text": "Why pay recurring subscription fees every single month just to insert recipient names into an email template?",
             "lead": 0.15,
             "tail": 0.25
         },
@@ -52,7 +52,7 @@ VARIANTS = {
         },
         {
             "id": "price_scene3_cta",
-            "text": "A one-time twelve ninety-nine unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
+            "text": "a single one-time unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
             "lead": 0.15,
             "tail": 0.5
         }

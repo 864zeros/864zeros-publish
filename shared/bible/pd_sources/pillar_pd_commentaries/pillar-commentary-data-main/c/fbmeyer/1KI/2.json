@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Breaking Three Commandments -- 1 Kings 21:1-29; 1 Kings 1:1-53; 1 Kings 2:1-46; 1 Kings 3:1-28; 1 Kings 4:1-34; 1 Kings 5:1-18; 1 Kings 6:1-38; 1 Kings 7:1-51; 1 Kings 8:1-66; 1 Kings 9:1-28; 1 Kings 10:1-29; 1 Kings 11:1-43; 1 Kings 12:1-33; 1 Kings 13:1-34; 1 Kings 14:1-31; 1 Kings 15:1-34; 1 Kings 16:1-34\n\nFrom a worldly point of view Naboth might have done a good stroke of business by selling his estate to. Ahab. A royal price and assured favor might have been his-but he had a conscience! Above the persuasive tones of the monarch’s offer sounded the voice of God: “The land shall not be sold for ever, for the land is mine.” See Leviticus 25:23; Numbers 36:7; Ezekiel 46:18.\n\nAhab knew perfectly well that Jezebel could not give him the property of another except by foul means, but he took pains not to inquire. Though the direct orders for Naboth’s death did not come from him, yet, by his silence, he was an accomplice and an accessory; and divine justice penetrates all such specious excuses. God holds us responsible for wrongs which we do not arrest, though we have the power. The crime was blacker because of the pretext of religion, as suggested by a fast. See also 2 Kings 9:26. The blood of murdered innocence cries to God, and his requital, though delayed, is inevitable. See Revelation 6:9-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "A Foolish and Fatal Petition -- 1 Kings 2:10-25\n\nSo David’s troubled life came to a close, but he has never ceased to lead the praises of the saints.\n\nAt the very beginning of his reign Solomon was confronted by a difficult problem. There was so close a connection in public opinion between the title to the crown and the possession of a deceased monarch’s harem, that it would have been impossible to grant Adonijah’s request without giving strong encouragement to his pretensions. Solomon treated Bathsheba with profound respect, but his love for her did not blind him to his duty to his realm, Proverbs 20:26.\n\nNotice that solemn declaration, “As Jehovah liveth,” 1 Kings 2:24. It was common to the godly of those days. See 1 Kings 17:1. They would not use the phrase lightly nor flippantly, but with a profound realization of standing in the presence of God. Let us recall those words of our Lord, “As the living Father sent me and I live because of the Father,” John 6:57, and let us draw daily on His life, so that we may live-yet not we, but he in us and we in Him, Galatians 2:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Paying Penalty for Bloody Deeds -- 1 Kings 2:26-35\n\nThe removal of Abiathar from the office of high priest and the execution of Joab quenched the last faint hopes of the house of Saul. In the case of Abiathar, note the remarkable fulfillment of the divine prediction, 1 Samuel 2:31-35. God does not fail to keep His word, whether of threatening or of promise.\n\nJoab fled to the altar. Men who, throughout their life, have disregarded or despised religion will often turn to it in their extremity. Those who blaspheme when the seas are smooth, will be the first to cry for mercy when the storm-winds lash the waters into foam.\n\nJoab’s attempt to find mercy through the altar was futile; but no sinner ever flees to the Cross in vain. If he fulfills the conditions of repentance and faith, the sword of the avenger cannot touch him there. If we confess and forsake our sins, and humbly trust in the mercy of the Redeemer, no weapon that is formed against us can prosper, and every tongue that rises in judgment is condemned. “This is the heritage of the servants of the Lord,” Isaiah 54:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Presuming and Perishing Therefore -- 1 Kings 2:36-46\n\nShimei broke the one condition on which his life had been given back to him, and could have no just cause of complaint against the king. It may be argued that his offense was a trifling and excusable one, but we must remember that it was committed not only against the royal commandment, but against the oath of God, 1 Kings 2:43. By this one act he forfeited all claim upon Solomon’s clemency.\n\nWe are here reminded of the parable of the two debtors in Matthew 18:28, etc. The debtor who owed the most had been released, and we naturally look to see the forgiven man’s glad forgiveness of his brother, who was, in turn, indebted to him. But, so far from forgiveness, there was rough retaliation. This canceled the first offer of pardon and it was withdrawn. So this act on the part of Shimei was fatal in its effect. The Jews were doubtful as to the forgivableness of presumptuous sins, and our Lord also taught that there is a sin against the Holy Spirit which cannot be forgiven. May God’s Holy Spirit Himself preserve us from this!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 3
+ }
+}

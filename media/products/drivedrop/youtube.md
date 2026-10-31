@@ -1,7 +1,7 @@
 # DriveDrop Portal — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/drivedrop/`  
 **Web Product Page:** https://864zeros.com/products/drivedrop  
-**Pricing Model:** $12.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Collect files from external clients and contractors directly into your private G
 👉 Try DriveDrop Portal: https://864zeros.com/products/drivedrop
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet DriveDrop Portal — the fast, local-first solution that solves this withou
 👉 Get DriveDrop Portal: https://864zeros.com/products/drivedrop
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $12.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet DriveDrop Portal — the fast, local-first solution that solves this withou
 * **Suggested Thumbnail:** `media/products/drivedrop/video/thumbnail-drivedrop-social-price.png`
 * **YouTube Title:**
 ```
-Paying $20/Month for File Request Portals — DriveDrop Portal #Shorts
+Paying one-time lifetime nth for File Request Portals — DriveDrop Portal #Shorts
 ```
 * **YouTube Description:**
 ```
-Client portal services charging $20 every single month just for a file upload form? Never again.
+Client portal services charging one-time lifetime every single month just for a file upload form? Never again.
 
-DriveDrop Portal gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
+DriveDrop Portal gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get DriveDrop Portal: https://864zeros.com/products/drivedrop
 

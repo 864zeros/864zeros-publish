@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fruits of the Scattered Seed -- Acts 8:1-13\n\nEvidently Stephen was beloved outside the precincts of the Church, for it would seem that the devout men who lamented his early death and carried his poor body to its burial were godly Jews who had been attracted by his earnest character. In the furious persecution that ensued under the leadership of Saul, neither sex nor age was spared. According to the subsequent statement of the arch-persecutor, the disciples of Jesus were dragged before the magistrate, thrust into prison, exposed to cruel torture, and compelled to blaspheme His holy Name. During those terrible days scenes were enacted which were destined to fill the heart of the future Apostle with most poignant sorrow.\n\nThis persecution was overruled to scatter the Church, which had grown too prosperous and secure, and needed to be reminded of the Lord’s injunction to go into all the world and preach the gospel to every creature. The light must be diffused; the salt must be scattered. How often God has to drive us by trouble to do what we ought to have done gladly and spontaneously! It was impossible to keep the deacons to the office of serving tables. Philip must needs go to Samaria, and that city welcomed what Jerusalem had refused. Here we enter upon the second circle of Act 1:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Confirming New Believers -- Acts 8:14-25\n\nSimon attracted people to himself; he posed as a man of power and mystery. The gospel fixes our thoughts exclusively upon Jesus. We preach Him as Lord, and ourselves as servants for His sake. Simon’s faith was spurious; he believed about rather than in Christ. John was sent with Peter to bring the fire of Pentecost to the very locality where formerly he and his brother had suggested that they should call fire from heaven to destroy. See Luke 9:54. May we not learn from this mission that some are specially qualified to lead others into the enjoyment of pentecostal blessing? In this service Peter used the power of the keys entrusted to him by the Master; and we may all do likewise when we lead others forward to claim that which awaits them in Christ Jesus.\n\nSimon saw what an additional source of influence would accrue to him if only he could exert the same powers, but he had no idea of the spiritual conditions on which alone they could be obtained. Simony is the name for the practice of making gain by means of religion, 1 Timothy 6:5. Perhaps in Acts 8:22 does not indicate a doubt upon God’s side, but upon Simon’s side-whether his treacherous heart would ever be able to conform to the divine conditions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Winning a Traveler -- Acts 8:26-40\n\nFrom the great city revival in Samaria Philip was led to the desert to minister to one seeking soul. It seems strange that God should be able to spare him from his busy and fruitful ministry in Samaria; but probably the comparative retirement was needed for soul and body after the strain of that successful campaign. How certain these Spirit-filled men were of the heavenly impulse! Every appearance suggested that this man of God was needed in the city, but the inner voice was the deciding factor, and his journey was so timed as to bring him in contact with a soul that was groping its way toward Christ.\n\nThe Bible is good as a traveling companion. Take it on your journeys. Read it as other men do their newspapers; not exclusively but boldly. There are many stories afloat of bullets being stopped by pocket Testaments; and it is certain that many a desperate thrust of the devil has been warded off by the Word of God being hidden in the heart and worn as a breastplate. Live in touch with God, and He will put you in touch with souls. This conversion of a son of Ham was a worthy fulfillment of Isa 56:3-8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 9
+ }
+}

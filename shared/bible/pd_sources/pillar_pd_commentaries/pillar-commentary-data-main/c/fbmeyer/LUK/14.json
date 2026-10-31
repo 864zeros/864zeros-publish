@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lament for Those Who “Would Not” -- Luke 13:31-35; Luke 14:1-6\n\nOur Lord was at that time in Perea, in the jurisdiction of Herod, who probably desired to get rid of Him, lest His presence should introduce political complications. Our Lord saw through and exposed his stratagem. How awful to be read by the light of divine purity! He also kept His eye on heaven’s dial-plate, and knew that He was immortal till His work was done.\n\nJerusalem was clearly indicated as the scene of His death; and the city was already so deeply dyed with martyr blood that it would hardly have been congruous for Him to suffer anywhere else. Note that pathetic wail of disappointed love. God’s brooding love desires to interpose between us and the hovering peril; but we have the awful power to neglect or reject the covering wings of the Shechinah. See Rth 2:12 and Psalms 91:4.\n\nIn Luke 14:1-6 we have a specimen of Christ’s table-talk, which He continues through the Luke 14:24. Though He knew that He was being watched, nothing could stanch His power and love. If men care for their beasts, how much more will Christ care for men!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "Lessons for Guests and Hosts -- Luke 14:7-14\n\nThe word rooms should be seats, r.v. We must, of course, guard against a false humility, which chooses a low seat in the hope of being invited forward. Let us seek it, because we are absolutely careless of prominence except as it gives us wider opportunity. The unconscious humility and meekness of a little child are very dear to Christ. Dwell on your own defects and on the excellencies of others till you realize that you are the least of all saints! Philippians 3:8.\n\nOur Lord’s words about invitations to our houses strike at the root of much of the so-called hospitality of modern society. Did not our Lord intend His words to be interpreted literally? They are imperative in their tone. He probably meant what He said. Some of us get so much thanks down here that there will be very little left to come to us at the resurrection of the just, when we shall stand before the judgment seat of Christ to receive our rewards, 2 Corinthians 5:10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Slighted Invitation -- Luke 14:15-24\n\nIn this parable the Master anticipated that the Jewish magistrates and leaders would repudiate His invitations, and that they would therefore be extended to the less likely masses to be found in the streets and lanes of the city, and to the Gentiles in the out-lying world. What a prevision is here of the suitableness of the gospel to all the world, and of the ultimate inclusion of all mankind under one roof, John 14:1-2.\n\nThe excuses were obviously trumped up and invalid. Men see fields before buying them; try oxen before purchase; and can take their wives where they go themselves, if they wish to do so. They who are acute enough for this world are often slow and careless about the next, though that is the only world which really matters.\n\nIf thou art poor, maimed, blind or lame, there is room for thee at God’s table; and for thee “a great spoil” shall be divided, Isaiah 33:23."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The Cost of Discipleship -- Luke 14:25-35\n\nHere we have our Lord’s use of the winnowing-fan. Amid the teeming crowds He knew that there were many light and superficial souls who had not realized the cost involved in discipleship. Mark the thrice-repeated words-cannot be my disciple.Our love must be greater than the ties of family affection, Luke 14:26; must be greater than our love for our own way, which must be nailed to the Cross, Luke 14:27; must be greater than our love of possessions and property, Luke 14:33. Christ has done more than any other teacher to cement the relationships of human love, but He always asks that they should be subordinated to the claims of God. Oh, for the love that Paul had! See Philippians 3:8.\n\nWhat a comfort it is to realize that God counted the cost before He set about the task of redemption, whether of a world or of us as individuals. He knew all that it would cost, and surely He did not begin what He cannot complete!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 15
+ }
+}

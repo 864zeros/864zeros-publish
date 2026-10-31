@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Wickedness of Men -- Genesis 5:25-32; Genesis 6:1-8\n\nWhen a son was born to Lamech, he named him Noah, which means “Rest.” He thought that the boy would grow up to share and alleviate the strain of daily toil. But his hope was premature: rest was not yet: the Deluge would soon sweep over the works of men. The world must await the true Rest-giver, who said, “Come unto Me.” It was an age of abounding wickedness, but the language describing it is obscure. Some think that “the sons of God” were fallen angels; others that the seed of Seth became joined in marriage with the daughters of Cain. But God’s Spirit strove with man, and though a limit was put to His pleadings, yet He sought men with yearning remonstrance, till His Holy Spirit received the final negative and turned away disappointed and grieved. There was considerable delay.\n\nFor 120 years the Spirit of God waited. See 1 Peter 3:20. He will not wait for ever, Luke 13:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Noah Builds the Ark -- Genesis 6:9-22\n\nHuman sin had reached an awful climax. Sooner or later its results must have swept the human race from the earth, as smallpox will slay every native on some infected island. God only hastened by the Flood the inevitable result of wrong-doing. Amid the universal corruption and violence, one man stood out as precious in the sight of God. His name meant Rest; he was righteous toward man and “blameless” toward God; he walked in fellowship with God; His ear was quick to detect, and His hand deft to fulfill the divine will. “By faith Noah….” See Hebrews 11:7. Such is the character to which God reveals His secrets and with which He enters into covenant.\n\nIf we live thus we shall cross the flood of death into the resurrection life, 2 Peter 2:5. Not only shall we be saved, but we shall save others."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 7
+ }
+}

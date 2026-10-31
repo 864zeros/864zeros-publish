@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Vashti’s Noble Refusal -- Esther 1:1-22\n\nThe book opens with a royal festival, which lasted for six months, Esther 1:1-9. Perhaps the princes came up from their governments to partake of it in rotation. It finished with a banquet, open to all the people who dwelt in Shushan, great and small. Whenever men are overcome with wine, there is grave peril for women. Coarseness, indelicacy, and impurity troop in at the door, which has been unlocked by the excess of wine. Who can tell the anguish which has been caused to women, children, and the dumb creation through the intemperance of man!\n\nHere is given a glimpse of a noble woman, who respected herself too highly to yield to a demand, wholly foreign to the customs of the time, which forbade women to appear in public. Of course the king was incensed, all the more so because he knew that he was in the wrong. He had command over 127 provinces, but he could not rule his own spirit, and the sense of moral weakness is always irritating. He consulted his counselors, who were only too glad to fall in with and humor the royal whims; they counseled that the divorce of Vashti was a public duty, for the repression of wife-insubordination throughout the empire. Men are not always to be trusted when they legislate about women, or in respect to their own dignity. When wine is in them they may be expected to say and do very stupid things.\n\nIt has been truly said that every Ahasuerus had his Memucan, a man who was sycophant and parasite, who held his influence by humoring caprice and lust."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 2
+ }
+}

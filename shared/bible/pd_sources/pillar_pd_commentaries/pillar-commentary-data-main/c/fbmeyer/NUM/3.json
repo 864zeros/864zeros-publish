@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "44-51, the Substitute for the First-born -- Numbers 3:1-13\n\nThe Levites were taken, instead of the firstborn sons of Israel, to perform the service of the Tabernacle. There were nearly as many Levites as first-born, and the difference was made good by the payment of redemption money on the part of the overplus, Numbers 3:45-48. So each of us has been redeemed by the blood of the Lamb to belong to God and to minister to Him! Aaron’s family provided the priesthood, Leviticus 3:9-10. The rest of the tribe performed the more irksome duties of ministry and transport.\n\nThe Gershonites, as eldest, pitched westward of the Tabernacle, and cared for the hangings and curtains. The Kohathites, because related to Aaron, pitched southward, and had charge of the sacred vessels. The Merarites pitched northward, and had charge of the boards and sockets. It was enough for each to know that his place and charge were God-appointed. Even to carry a pin became honorable, when God had allotted that to a man as his share."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 6
+ }
+}

@@ -13,8 +13,35 @@
     "count": 3
   },
   "verses": [
-    { "book": "Ecclesiastes", "chapter": 3,  "citation": "Ecclesiastes 3:1",  "text": "To every thing there is a season, and a time to every purpose under the heaven:", "plain": "There is a time for everything, and a season for every activity under the heavens." },
-    { "book": "Ecclesiastes", "chapter": 3,  "citation": "Ecclesiastes 3:11", "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.", "plain": "He has made everything beautiful in its time. He has also set eternity in the human heart, yet no one can fathom what God has done from beginning to end." },
-    { "book": "Ecclesiastes", "chapter": 12, "citation": "Ecclesiastes 12:13", "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.", "plain": "Here is the conclusion of the matter: Fear God and keep his commandments, for this is the whole duty of humankind." }
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "citation": "Ecclesiastes 3:1",
+      "text": "To every thing there is a season, and a time to every purpose under the heaven:",
+      "plain": "There is a time for everything, and a season for every activity under the heavens.",
+      "visual_prompt": "a solitary pilgrim seen strictly from the back ascending worn stone steps toward a winding mountain stream flowing toward the distant sea",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 3,
+      "citation": "Ecclesiastes 3:11",
+      "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+      "plain": "He has made everything beautiful in its time. He has also set eternity in the human heart, yet no one can fathom what God has done from beginning to end.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a sundial shadow falling across a quiet limestone courtyard",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Ecclesiastes",
+      "chapter": 12,
+      "citation": "Ecclesiastes 12:13",
+      "text": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
+      "plain": "Here is the conclusion of the matter: Fear God and keep his commandments, for this is the whole duty of humankind.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in an old dry-stone vineyard wall weathered by many seasons",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

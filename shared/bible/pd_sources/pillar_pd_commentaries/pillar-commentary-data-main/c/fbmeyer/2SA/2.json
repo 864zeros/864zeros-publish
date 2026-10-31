@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Divided People -- 2 Samuel 2:1-11\n\nDavid’s habit of inquiring of the Lord was not discontinued when he ascended the throne. He allowed his steps still to be ordered by the Lord, who delighted in His servant’s way. From how many blunders might we be saved, if we leaned less on our own understanding and trusted Him with all our hearts! Those who believe like this need not make haste.\n\nThis anointing in Hebron-the second in David’s life-is parallel with the unction of the Holy One received by our Lord on His ascension. “Having received of the Father the promise of the Holy Spirit,” said Peter on the day of Pentecost, “He hath shed forth this.” The house of Saul was still determined to rule. Its seat was across the Jordan. Is it not a type of the fashion of this world, which is destined to pass away? Between those who refuse and those who accept the Cross, with its separating death, there can be no peace. The war will be long and painful, but the result must end in the victory of the house of David, of which our Lord is both Root and Offspring, Revelation 22:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Sword-Play to the Death -- 2 Samuel 2:12-23\n\nFor seven and a half years David reigned over the house of Judah. He was in the prime of life, thirty years of age, and seems to have given himself to the consolidation of his kingdom and the quiet sanctities of the home. He maintained throughout those years that spirit of quiet expectancy of which his psalms so often speak. In this, he reminds us of our Lord, who is depicted as sitting at His Father’s side till His foes become His footstool.\n\nFrom Hebron, the city of fellowship, bands of mighty men went forth to fight with Ishbosheth, just as the warriors of the Cross have, in every age, gone forth to engage in deadly conflict with unbelief and sin. Asahel’s death reminds us of Stephen’s martyrdom. But the end is not yet! The Church’s warfare is not against flesh and blood, but against the wicked spirits that rule the darkness of the world. Her weapons, therefore, are not carnal but spiritual, and particularly that of “all-prayer,” Ephesians 6:10-20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Shall the Sword Devour for Ever? -- 2 Samuel 2:24-32\n\nThe longer the sword devours, the more bitter the hatred engendered. Early that morning, each of twenty-four young men had buried his sword in his antagonist’s heart; and, as the hours passed, the flame of mutual hate had become hotter. There was no telling to what it might lead. Hatred is like a prairie fire in its rapid spread and remorseless destruction.\n\nWhen night fell, Abner, alarmed by the prospects of slaughter, asked Joab to stay the pursuit. Otherwise, Joab would have fought through the night. However, he drew off his men, and Abner, still dreading his wrath, by a forced march crossed the Jordan that night.\n\nAbner’s reference to the insatiate lust of the sword for human life reminds us, by force of contrast, of the hunger of Christ to seek and to save that which is lost. His appetite to save is a consuming passion. It is His meat and drink to win souls to the eternal life that he is commissioned to impart."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 3
+ }
+}

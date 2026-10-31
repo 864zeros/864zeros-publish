@@ -1,7 +1,7 @@
 # Sheet2Webhook — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/sheet2webhook/`  
 **Web Product Page:** https://864zeros.com/products/sheet2webhook  
-**Pricing Model:** $14.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Fire formatted HTTP POST webhooks to Slack, Discord, Zapier, Make, and REST endp
 👉 Try Sheet2Webhook: https://864zeros.com/products/sheet2webhook
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet Sheet2Webhook — the fast, local-first solution that solves this without m
 👉 Get Sheet2Webhook: https://864zeros.com/products/sheet2webhook
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet Sheet2Webhook — the fast, local-first solution that solves this without m
 * **Suggested Thumbnail:** `media/products/sheet2webhook/video/thumbnail-sheet2webhook-social-price.png`
 * **YouTube Title:**
 ```
-Paying $20–$50/Month for Simple Row Webhooks — Sheet2Webhook #Shorts
+Paying one-time lifetime nth for Simple Row Webhooks — Sheet2Webhook #Shorts
 ```
 * **YouTube Description:**
 ```
-Stop paying $20 to $50 every month just to fire an HTTP POST request when a row is edited.
+Stop paying one-time lifetime to one-time lifetime every month just to fire an HTTP POST request when a row is edited.
 
-Sheet2Webhook gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
+Sheet2Webhook gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get Sheet2Webhook: https://864zeros.com/products/sheet2webhook
 

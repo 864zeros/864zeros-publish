@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Curses upon Evildoers -- Deuteronomy 27:1-26\n\nMount Gerizim and Mount Ebal were two masses of limestone rock, reaching 2700 and 2000 feet above the sea-level. Between them lay a beautiful valley, about 300 yards wide. At the foot and on the lower slopes of Gerizim stood the descendants of Rachel and Leah; on those of Ebal, the descendants of Zilpah and Bilhah, together with Zebulun and with Reuben, who had forfeited the rights of the first-born. The priests and the Levites, grouped beside the Ark in the valley, uttered both the benedictions and the solemn denunciations of the Law, each item eliciting the responsive “Amens.”\n\nNotice the sensitiveness of the divine Spirit! To make a blind man wander out of his way and to wrest the judgment of the fatherless, was held to be as reprehensible as to commit those terrible breaches of the law of purity. Nothing in life is insignificant or trivial when weighed in the balance of eternal justice. We can only rejoice when we realize that we are accepted in the Beloved, and that He has stood for us, Romans 3:20; Romans 5:1-3; Romans 5:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 28
+ }
+}

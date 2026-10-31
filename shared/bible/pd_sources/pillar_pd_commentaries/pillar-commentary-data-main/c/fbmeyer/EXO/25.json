@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moses Shown God’s Plan for the Tabernacle -- Exodus 24:12-18; Exodus 25:1-9\n\nThere were four concentric circles, so to speak, represented as gathered around the burning center of the Divine Presence. In the outer circle, the people, Exodus 24:2; Exodus 24:17; next, the seventy elders, Exodus 24:9; Exodus 24:14; then, Joshua, Exodus 24:13; Exodus 32:17, and lastly, Moses, Exodus 24:18. These represent respectively, the unenlightened; those whose religious life is hindered by their excessive devotion to the flesh; the few whose fellowship is liable to be interrupted by the war-clarion; and those who have been made nigh unto God in Jesus Christ our Lord, and have been baptized into the Holy Spirit. To which group have we attained? We are invited to draw nigh, let us act on the invitation. See Hebrews 10:19-20.\n\nThere is always room at the top, and there we may stand, beholding, as in a glass, the glory of the Lord. Notice that God said, Come up unto Me. He longs to have our love and faith; His delights are with the sons of men; at great cost He has opened the door of access, Romans 5:1-2. We need God, but God wants us, and therefore the construction of the Tabernacle is next arranged, that He may dwell with man upon the earth."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The Ark and the Mercy-Seat -- Exodus 25:10-22\n\nThe Tabernacle was full of symbolical teaching of which the full meaning is unfolded in the Epistle to the Hebrews, where we are distinctly told that the Holy Spirit inspired the plan of the various parts. See Hebrews 9:8. Well would it be for us, if we built our lives as Moses the Tabernacle, only on the divine plan. Note Exodus 25:9; Exodus 25:40; Exodus 26:30; Exodus 27:8; Hebrews 8:5. The Ark was the symbol of the Covenant between Jehovah and His people.\n\nThe golden slab, known as the mercy-seat, supplied the meeting-place between God and man. It was there that the high priest sprinkled the blood of atonement once a year. It is alluded to by the apostles, Paul and John, as the “propitiation.” We might insert Mercy-Seat in each passage. See Romans 3:25; 1 John 2:2. Angel forms bent on either side, with their faces downward. See 1 Peter 1:12. The tables of the Law lay written beneath, because the divine righteousness underlies all God’s dealings with men."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "The Table of Showbread and the Lampstand -- Exodus 25:23-40\n\nThe Table of the Showbread, or Presence-bread, held the twelve loaves, which represented the tribes of Israel. It was three feet long, one foot, six inches broad, and two feet, three inches high. The border or edging of gold around the top kept its contents from falling off. The loaves were changed each week, and when removed, were eaten only by the priests. See Mark 2:26. Surely the suggestion of this table, standing, as it did, immediately before the veil on the outer side, was intended to teach that the purity and devotion of Israel were as bread to God. He taketh pleasure in them that fear Him. We also feed with God on the beauty and glory of our Savior’s obedience unto death.\n\nThe candlestick, with its seven branches, cost $35,000, and is a type of Christ, the Light of the World, and of the people of God when illuminated by the Divine Fire and shining amid the darkness around. See Zechariah 4:2; John 8:12; Revelation 1:13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 26
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Penalty of a Broken Covenant -- Jeremiah 11:1-20\n\nThis and the following two chapters belong to the earlier ministry of Jeremiah, when he still dwelt in his native home of Anathoth. The prophet refers to the covenant which had been lately renewed by Josiah, 2 Kings 22:1-20 and 2 Kings 23:1-37, and quotes largely from the book of Deuteronomy, which had been recently read in the hearing of the people. To that covenant the prophet reverently gives his endorsement, Jeremiah 11:5. His amen reminds us of Him who is God’s Amen, and in whom all the promises of God are ratified forever, 2 Corinthians 1:20. Shall we not learn, like our Lord in Matthew 11:26, to look into the Father’s face and say, “Even so?” We must do so, that one day we may join with the redeemed in crying, “Amen, Hallelujah,” Revelation 19:4.\n\nThe repeated relapses of Israel into idolatry were in part due to the licentious rites associated with such worship. The people were seduced from their allegiance to Jehovah by the fascination of passion; and herein we are reminded of the many times that we have been beguiled into sinful thoughts and imaginings, in spite of God’s earnest solicitations and protestation, “rising early and protesting.” As long as the soul is wedded to its evil ways, it is impervious to the entrance of God’s light and love. “There is a sin unto death,” says the Apostle, “I do not say that he shall pray for it,” a saying which is closely akin to the solemn prohibition of Jer 11:14, “Therefore pray not thou for this people, neither lift up a cry or prayer for them.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 13
+ }
+}

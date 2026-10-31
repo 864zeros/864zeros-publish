@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 40,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joseph Fares Well in Prison -- Genesis 39:19-23; Genesis 40:1-8\n\nThese two men remind us of the two thieves crucified beside our Lord; to the one He was a savor of life, to the other of death. Jeremy Taylor says that he must be in love with peevishness who chooses to sit down on his little handful of thorns, when there are so many causes that call for him. Wherever in the world we are, there is a fellowship of sad and lonely hearts for us to cultivate. Like Joseph, let us set about helping others, and so find solace and help for ourselves. We must move in and out among our fellows with “a glorious morning face.” Keep your sorrows for your Lord and yourself, but learn from your own experiences how to comfort those who are in any sorrow by the comfort with which you yourself have been comforted of God. How quick Joseph was to detect the added anxiety on the two faces!\n\nIt was because he had known similar alternations of experience. See 2 Corinthians 1:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Joseph Interprets Two Dreams -- Genesis 40:9-23\n\nJoseph as an interpreter was among a thousand. Because his pure heart was open to God, he could unriddle the mysteries of human life. Very often those who walk with God can solve and explain the dark riddles of human life for the less enlightened. Joseph was keenly alive to God’s presence. It filled the prison with glory. He knew that thence must come all their hope and expectation; and God was “in the shadow, keeping watch above His own.” He was contriving and superintending the chain of events which were to set His young servant on the throne.\n\nMan had despised and rejected him, but God had already prepared for him a position of honor and usefulness, to which his ministry to these men was as rungs in the upward ladder. Do not neglect small acts of ministry. Faithfulness in the very little leads to the throne-life. The butler’s forgetfulness reminds us of our shameful forgetfulness of the Redeemer, who has brought us up out of the pit, and redeemed us with precious blood. Yet He said: “This do in remembrance of me.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 40
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 39
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 41
+ }
+}

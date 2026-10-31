@@ -15,7 +15,7 @@
     "tag": "⚡ 41s Product Demo",
     "title": "Watch ChoiceGuard in Action",
     "desc": "Dynamically eliminate choices and cap seat limits in Google Forms as responses arrive. LockService mutex ensures zero race condition double-bookings during simultaneous sign-ups. 100% in-account processing.",
-    "sub": "<b>No subscriptions</b> · $7.99 one-time lifetime license · Pay once, keep forever",
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
     "youtubeUrl": "https://www.youtube.com/watch?v=HT8skzIFdxY"
   },
   "social_shorts": [
@@ -48,7 +48,7 @@
     {
       "img": "choiceguard-3.png",
       "alt": "ChoiceGuard — one-time lifetime license vs subscription competitors",
-      "cap": "One-time lifetime license. Permanent sovereign capacity control without recurring SaaS rent."
+      "cap": "one-time lifetime license. Permanent sovereign capacity control without recurring SaaS rent."
     }
   ],
   "jsonld": {
@@ -59,7 +59,7 @@
       "Auto-closing trigger when all event or product capacity is exhausted",
       "One-click original choice and inventory restoration",
       "100% in-account execution via non-sensitive forms.currentonly scope",
-      "One-time lifetime license — zero recurring subscriptions"
+      "one-time lifetime license — zero recurring subscriptions"
     ]
   }
 }

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Confidence in the Righteous Judge -- Psalms 9:1-20\n\nThe Chaldee version adds to the inscription, “concerning the death of the champion who went out between the camps,” referring to the death of Goliath. This is the first of the Acrostic or Alphabetical Psalms, of which there are nine: Psalms 9:1-20; Psalms 10:1-18; Psalms 25:1-22; Psalms 34:1-22; Psalms 37:1-40; Psalms 111:1-10; Psalms 112:1-10; Psalms 119:1-176; Psalms 145:1-21.\n\nThere is a predominant note of praise, Psalms 9:1-5; Psalms 9:11-12; Psalms 9:14. Let memory heap fuel on the altar of praise. In the resurrection of our Lord, God indeed rebuked our arch-enemy, and his strongholds are now wastes, Zechariah 3:1-2; 2 Corinthians 10:4; Colossians 2:15. But there is a corresponding note of trust, Psalms 9:7-12. Calamity drives us to God. The more we know the more we trust Him. Doubt is born of ignorance. Leave God to vindicate; He will not forget, Psalms 9:12. There is a petition for further help, Psalms 9:13; Psalms 9:19-20. We have been at the gates of death, Psalms 9:13; here are the gates of the Holy City, Psalms 9:14. Compare Psalms 9:15 and Esther 7:10. God does not forget; forget Him not, Psalms 9:12; Psalms 17:1-15."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 10
+ }
+}

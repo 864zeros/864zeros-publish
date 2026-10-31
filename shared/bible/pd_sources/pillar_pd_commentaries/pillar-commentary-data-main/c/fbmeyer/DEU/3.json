@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Inheritance of Reuben, Gad and Manasseh -- Deuteronomy 3:1-22\n\nSihon’s defeat, described in the previous chapter, compelled his ally Og to take the field and oppose the further advance of Israel. “He came out” against them. Perhaps also Joshua 24:12 affords a clue. Swarms of hornets harassed him and his people, and drove them out of their stone houses and fortifications; they preferred meeting the chosen race in the open to the scourge of these formidable creatures. When God says, “Fear not,” He fights on our side.\n\nRecent discoveries confirm these references to the many stone cities of Bashan, mentioned in Deuteronomy 3:4. The country is covered with ruins. Porter says that 500 ruined places attest the might of the Amorites. The royal bedstead is thought to mean coffin or bier. Its length of 13 1/2 feet would infer a stature of 11 or 12 feet.\n\nThese victories opened fertile and beautiful pasture-lands, including Hermon and Gilead. “The Lord delivered… and we took.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "“Take Heed to Thyself” -- Deuteronomy 3:23-29; Deuteronomy 4:1-14\n\nStrong faith was required by the two and a half tribes to leave their wives and children while they went to succor their brethren. But God’s commands and assurances foreclosed all arguments. Whenever we are summoned to special service, we may consign the care of our personal interests to God. Seek first the kingdom, and all other things will be added.\n\nNotice that Moses referred to the wondrous acts of the Exodus as only the beginning of God’s wondrous works, Deuteronomy 3:24. Probably in the countless ages of eternity we shall always feel that we are witnessing only the beginning of God’s self-revelation.\n\nMoses, like Paul afterward, tried to reverse the divine decision. Compare Deuteronomy 3:23-25 and 2 Corinthians 12:8-9. Do not pray against God’s will, but with it, 1 John 5:14. When God says No, there are always tender compensations, such as this Pisgah-vision.\n\nIsrael’s tenure of Canaan depended on obedience to God’s will, in statutes, including the ordinances of religion, and in judgments relating to civil matters."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 4
+ }
+}

@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "Obadiah", "chapter": 1, "citation": "Obadiah 1:15", "text": "For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.", "plain": "The day of the Lord is near for all nations. As you have done, it will be done to you; your deeds will return upon your own head." }
+    {
+      "book": "Obadiah",
+      "chapter": 1,
+      "citation": "Obadiah 1:15",
+      "text": "For the day of the Lord is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.",
+      "plain": "The day of the Lord is near for all nations. As you have done, it will be done to you; your deeds will return upon your own head.",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in the lofty red-rock clefts and high cliffs of Edom",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

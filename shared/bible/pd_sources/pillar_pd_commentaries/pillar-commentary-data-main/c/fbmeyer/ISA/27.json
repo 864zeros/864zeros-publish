@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Care for His Vineyard -- Isaiah 27:1-13\n\nThroughout these chapters we must remember that the doom of Babylon and the restoration of God’s people are symbolical of other events, for which the world is preparing. Then Babylon the Great shall give place to the Holy City, which comes down out of heaven from God. Egypt and Babylon are represented by the leviathan, a general term applicable to any great water animal. The one had its Nile, the other its Euphrates. Parallel with the destruction of our foes is God’s care of His own people. The Church is His vineyard. We do not keep Him, but He, us. Not for a moment does He relax His care. Those who oppose His purposes are trampled down as briars beneath the booted foot. In Isaiah 5:6 we have a prevision of the ultimate mission of the Hebrew race.\n\nNote the difference in Isaiah 27:7-11 between punishment and chastisement. The former is irremediable and destructive, the latter is always in measure. The rough wind is stayed in the day of the east wind. Its object is to purge away our sins. After the captivity idolatry ceased out of Israel. How tenderly God gathers His wanderers-one by one as hand-picked fruit; even those who had wandered farthest and were ready to perish!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 28
+ }
+}

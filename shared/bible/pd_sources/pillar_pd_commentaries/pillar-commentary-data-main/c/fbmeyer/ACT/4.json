@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Name above Every Name -- Acts 4:1-12\n\nThe Sadducees are particularly mentioned, because they were the agnostics of the age, and had no belief in the unseen and eternal. The fact of our Lord’s resurrection was, therefore, especially obnoxious to them. The captain of the Temple, who was head of the Levitical guard, was probably their nominee. How weak man shows himself when he sets himself against God! All that they could do was to shut the Apostles up; but they could not bind nor imprison the Living Spirit or the speech of one saved soul to another, and so the numbers of disciples kept mounting up.\n\nPeter must have contrasted this with his former appearance in that hall. Then he trusted his own power; now he was specially filled with the Holy Spirit for a great and noble confession. The name of Jesus stands for His glorious being. It was because the man had come into vital union with the ever-living Christ, that disease was stayed and health restored. The name of Jesus rings through these chapters like a sweet refrain. Evidently He was living and at hand, or the streams of power and grace could not have poured forth to make desert lives begin to blossom as the garden of the Lord."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Braving Men to Obey God -- Acts 4:13-22\n\nDo people realize that there is something about us which cannot be accounted for except that we have been with Jesus? Our company always influences us. A man is known by the company he keeps. Good manners are caught by association with the well-mannered. What, then, will not be the effect upon us, if only we live in fellowship with Jesus! Our faces will shine with a reflection of His purity and beauty; and the ancient prayer will be answered, “Let the beauty of the Lord our God be upon us,” Psalms 90:17.\n\nOur converts are our best arguments. The man which was healed (was) standing with them-his face suffused with the light of a new energy and hope. That fact answered all the sophistries of these Jewish leaders. It was as impossible to stay the effect of that miracle as to bid the sun cease shining. Note the exuberance of the life of God! We cannot but speak, Acts 4:20.\n\nWhen once we have got the real thing, we cannot and dare not be still; we must speak. As the swelling seed will break down a brick wall, so when the love of Christ constrains us, though all the world is in arms, we must bear witness to our Lord."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Help from on High -- Acts 4:23-35\n\nLike draws to like; Judas went to his own place, and the Apostles to their own company. The best answer to threats is prayer. The Apostles’ one petition just then was for boldness. They scorned to ask for their own safety; it was enough if Jesus was glorified.\n\nWhat a note of jubilant triumph was in that glorious prayer, offered by this threatened little band! They realized that they were under the special protection of God, who had made the world, had spoken by the prophets, and was the Father of Jesus. They thought that more miracles of healing would promote their cause; but, though they did not realize it at the time, their unity, love, hope, willingness to share their goods, coupled with their intrepid bearing, were their most potent arguments. Notice that in their consciousness, it was God’s hand that was being stretched out to heal, though their hands were the immediate channel of its beneficent operations. They had been filled before, but they were filled again. It is our privilege to claim repeated infillings to make good our leakage and evaporation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "Lying to the Holy Spirit -- Acts 4:36-37; Acts 5:1-11\n\nThe Spirit of God is the source of generous and liberal giving. It is a poor substitute to set up bazaars, and fairs, and ice cream suppers. When the Church is filled with the Holy Spirit, her pockets will be easily emptied before His gracious, thawing presence. Let the sun arise in the heavens, and the frozen streams are instantly liberated and begin to sing on their way to transform wildernesses into gardens.\n\nMark the contrast between Ananias and Barnabas. The same phrases are applied to each. The sin of Ananias was not in keeping back part of the purchase money, but in pretending to have brought all to the Apostle. He wished to pose as a saint, and at the same time to line his own nest. In the act of consecration, we must not allow one corner for Satan or selfishness to possess, because instantly we shall have to concede the right of way, and a thoroughfare will be opened, along which all manner of contraband may be smuggled in. Peter had no doubt as to the personality of the Holy Spirit. You cannot lie to an influence! Note the interchange of Holy Spirit and God in Acts 4:3-4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 5
+ }
+}

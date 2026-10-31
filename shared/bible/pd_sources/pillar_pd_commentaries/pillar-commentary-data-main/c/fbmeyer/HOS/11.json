@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Bands of Love” -- Hosea 11:1-11\n\nThis is a very tender chapter, full of moving appeals. God looks back on the happy, blessed past, as a fond parent on the innocent childhood of a son who is now causing endless pain and grief. He recapitulates the call from Egypt, and relates how, in obedience to His appeal, Israel came out of the idolatries of that country. He describes Israel as a tiny child beginning to walk, and says, I taught him to go. He compares the Israel of those days to horses or oxen, relieved of the yoke, before whom food is set. Let us remember that God is also willing to teach us to go, and to carry us when we are weary.\n\nThe blessed childhood of Israel had become like an overcast morning. They were bent on backsliding. But God’s love is not easily repelled. What more pathetic words were ever uttered by broken-hearted parents than Hosea 11:8-9! That is the motive of our plea still. If we were dealing with man, we might despair. But we are dealing with One who forgives us according to the riches of His grace. If a back-slider should read these touching appeals, let him be encouraged to retrace His steps one by one, sure that the Father waits to welcome him where the by-path has broken off from the main road."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Turn to God, not to Selfish Gain -- Hosea 11:12; Hosea 12:1-14\n\nThough Judah still ruled with God, Hosea 11:12, yet there was grave fault in him, and, like Ephraim, which had been engaging the prophet’s thought, he also must come under the rod. But throughout this paragraph there lingers the sweet music of the previous chapter, and especially the reminiscence of Israel’s early days, when he had power with the Angel and prevailed. The angel-haunted ideals and resolves of Beth-el could not be forgotten. Tears and weakness are the best arguments with God. He yields to us when we are weak; He yields to our despair. The soul that has been shut up to God and then casts itself at His feet can have what it will. Only beware lest after such an interview with the Angel, you deteriorate into a deceitful trafficker, and allow your God-given power to be reduced to making gain.\n\nNotwithstanding all, God was still willing to call His people to the Feast of Tabernacles, the gladdest of all the feasts in the Hebrew year. But even divine love was thwarted by their inveterate sinning. How wonderfully these ancient prophets conceived of the love of God! The spirit of revelation led them to make declarations that the Cross has more than realized!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 12
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Renew Thy First Love -- Revelation 2:1-7\n\nEach of these letters consists of three parts: 1. The introduction, specifying some characteristic from the vision of the preceding chapter, which is appropriate to the need of the church addressed. 2. A description of the condition of the church. 3. A promise to the overcomer, following the successive revelations of God in the Old Testament, which begin with the tree of life and include the manna, the conquest of Canaan, the glory of the Temple, and the reign of Solomon.\n\nWe may go far in outward activity for the cause of the Redeemer and yet be threatened with the removal of our candlestick. Full of labor, opposed to wicked men and false teachers, persistently orthodox, not fainting in the day of trial; and yet, if love be wanting, nothing can compensate. Is the complaint true of us, that we have lost our first love? The exuberance of its emotion may have passed with the years, but has it been replaced by a deep, all-constraining, and masterful devotion to our Lord? It is the Spirit’s prerogative to shed abroad His love in our hearts and to teach us to love Him. But none of us can acquire that love without perpetually feeding on the Tree of Life, which is the emblem of Himself, Genesis 2:9; Revelation 22:2; Revelation 22:14; Revelation 22:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "“Be Thou Faithful unto Death” -- Revelation 2:8-11\n\nThis epistle has a new pathos and significance if we connect it with “the blessed Polycarp,” who almost certainly was the angel or chief minister of the church in Smyrna. He was the disciple of John. Irenaeus who lived a generation later, tells how, in early boyhood, he had heard from the lips of Polycarp what John had told him of our Lord’s person, converse, and earthly ministry.\n\nHow sweet the comfort of this epistle must have been to him in the closing scene of his life, when, at eighty-six, he was sentenced to be burned! Notice how every line of it had a message for him, as for all who are called to follow in his steps. The Savior reminded him that beyond the suffering of this brief life a crown awaited him, which would abundantly reward his fidelity.\n\nWhat music there is in those inspiring words! Even Peter’s crown of glory and Paul’s crown of righteousness seem to fade in comparison with this “crown of life.” The thought of it enabled Polycarp to say at the stake, “I give thee hearty thanks that thou hast brought me to this hour, that I may have my part in the cup of thy Christ, unto the resurrection of eternal life, through the operation of thy Holy Spirit.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Beware of Evil Teachers -- Revelation 2:12-17\n\nNotice the Lord’s commendation of the church at Pergamos (from which we get our word parchment). He recognizes their peculiar dangers and their difficulties-where Satan’s seat is. It was an honorable thing to have held fast Christ’s name under such circumstances. To hold fast His name is to be loyal to Him in all circumstances. Not to deny His faith is to hold fast to the essential facts and doctrines of primitive Christianity, undeterred by the blandishments or threats of the world.\n\nFor the doctrine of Balaam, we must turn to Numbers, Numbers 22:1-41; Numbers 23:1-30; Numbers 24:1-25, and then especially to Numbers 25:1 and Numbers 31:16. Balaam had failed to curse, but though he had thereby forfeited his prestige and payment, he won them back by advising Balak to corrupt the morals of Israel and so break their union with Jehovah. The Nicolaitanes apparently promulgated similar tenets, and in their proud and wealthy city were prepared to admit orthodoxy of doctrine so long as it was combined with laxity of morals. But Christ cannot for a moment tolerate such a conjunction. His judgment sword must vindicate the purity of His Church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "“Hold Fast Till I Come” -- Revelation 2:18-29\n\nNote that Jesus does not hesitate to appropriate the sublime title-the Son of God. His eyes penetrate profoundest secrets, and His advent leaves a trail of purity like fire behind Him. He recognizes the many good qualities of His church at Thyatira, but accuses her of having raised no protest against the woman Jezebel. She had actually permitted the promulgation of soul-destroying error, with most disastrous results.\n\nThis Jezebel apparently taught that there were deep philosophies in the heathen system around them, and the result was that the professing servants of Christ were led into complicity with the outward corruption of heathendom. An evident attempt was being made to graft on to Christianity the mysteries of darkness, which were in direct antagonism to the purity of the teachings of Christ.\n\nNotice the contrast between her works and my works, Revelation 2:22; Revelation 2:26. The saints who are true to Christ shall be associated with Him in His Kingdom, but best of all they are made to possess the Morning Star, that is, they now stand with their Lord in the dawn of a new era. Already the day has dawned and the Day Star has arisen in their hearts, 2 Peter 1:19."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 3
+ }
+}

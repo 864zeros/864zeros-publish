@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "fbmeyer",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "24-26, Vain Undertakings -- Ecclesiastes 2:1-17\n\nAt the beginning of his search for happiness Solomon erected a splendid home and planned all kinds of delights of an artistic and sensuous nature. There were gardens, pools of crystal water, fruit trees, meadows filled with cattle, regal splendor, musicians who poured into the palace their sweet melodies. He went further, adding to architecture and art his intellectual pursuits. But when he had gone to the furthest limit, he turned from it all, with the old gnawing at his heart-Vanity of vanities!\n\nA few days before the death of the great Cardinal Mazarin, he was heard by a friend to utter something of the same sad refrain. “I was walking,” says this friend, “in one of the apartments of the palace, when I recognized the approach of the Cardinal by the sound of his slippered feet, which he dragged one after the other as a man suffering from a mortal malady. I concealed myself behind the tapestry and heard him say, as he looked at one picture and rare treasure after another, ‘ I must leave all these.’” Let us, in the light of these things, ponder again those words of Christ in Luke 12:33."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 11
+ }
+}

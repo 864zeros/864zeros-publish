@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Glory Reflected in Christ -- 2 Corinthians 4:1-6\n\nThe servant of Christ must never forget that he once needed and obtained mercy. This will sustain him in many an hour when heart and flesh fail. His weapon is the truth, his appeal to conscience. Others may vie with him in brilliant imagination, fervid enthusiasm, and intellectual force, but he has unrivaled supremacy in the realm of conscience. As Richard I of England, immured in a castle-dungeon, recognized the voice and song of his troubadour, singing outside the castle gate a strain familiar to them both, and responded note for note, so does conscience awaken and respond to the truth, which it recognizes as the voice of God.\n\nWhy, then, does the gospel fail? Not through any defect in itself, nor because of some arbitrary decree on the part of God, but because the god of this world has blinded the eyes of the heart by the glamour of worldly prosperity and success, or perhaps by the covering film or scale of evil habit, so that the light of the dawn, stealing over the world, is unable to penetrate the darkened life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 7,
+    "content": [
+     {
+      "text": "The Inward Life Triumphant over Affliction -- 2 Corinthians 4:7-18\n\nFew men have been more conscious of their weakness than was the Apostle. The earthen vessel had become very cracked and scratched, but the heavenly treasure was unimpaired, as in the case of Gideon, when the pitcher was broken the lantern shone out. Paul here confesses that he was troubled, perplexed, persecuted, and cast down, always bearing the scars of Jesus, and being perpetually delivered over to death. But he gratefully accepted all these disabilities because he knew that they gave greater opportunities to Jesus to show forth, through him, His resurrection power. With the daily decay of the outward, there came the renewal of the unseen and spiritual. It is only in proportion as we are conformed to the sufferings and death of Christ that we begin to realize the fullness of what He is, and what He can be or do through us. Our one thought must always be the glory of Christ in the salvation of others.\n\nNote the contrasts of 2 Corinthians 4:17. The affliction is light, but the glory of the future is fraught with radiant and satisfying blessedness. The one is transient, the other eternal. The one is the price of the other, though each is the gift of God. The comet which has gone farthest into the outer darkness returns closest to the central sun."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 5
+ }
+}

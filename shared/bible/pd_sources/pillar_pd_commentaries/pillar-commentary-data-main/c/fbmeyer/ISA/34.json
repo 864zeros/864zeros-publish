@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Reaping the Whirlwind -- Isaiah 34:1-17\n\nThis chapter is one prolonged description of the judgments which were to befall the nations at the hand of Assyria and Babylon. The imagery employed is borrowed from the destruction of the cities of the plain. Streams of pitch; dust of brimstone; the ever-ascending smoke of a furnace; the scream of the eagle, hawk, and owl; the invasion of palaces by the thistle; the howl of the wolf; the call of the jackal; the arrow-snakes nest; the kite with its mate-such are the illustrations employed to depict the scorching desolations which were impending. Edom is especially mentioned as suffering these awful desolations because of her long-standing hatred of Israel. See Psalms 137:7; Ezekiel 36:5; Lamentations 4:21-22. These terrible and graphic predictions have been literally fulfilled, but they foreshadow those further and eternal disasters which must overtake willful and designed rejection of the divine purposes and laws.\n\nAre not all nations at this hour standing before the Son of man and being judged? See Matthew 25:31."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 35
+ }
+}

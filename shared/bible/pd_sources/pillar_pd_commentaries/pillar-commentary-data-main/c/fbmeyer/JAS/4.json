@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JAS",
+  "commentaryId": "fbmeyer",
+  "name": "James",
+  "commonName": "James",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Draw Nigh to God” -- James 4:1-10\n\nThe Apostle returns to “the jealousy and faction” of the previous chapter, James 3:14, and says that these evils are traceable to lust, that is, to inordinate desire. The restless inward war is the prolific parent of failure in speech and act. If we would pray more and better, we should soon find the inner fires dying down.\n\nIn James 4:5, r.v., margin, we learn that God has placed His Spirit within us, and that He yearns for complete control over our hearts. He can best overcome inordinate desire and teach us how to pray. God wants more of us. His love is insatiable in its yearning for every room and cupboard of our inner life, and He is ever wishful to give more grace.\n\nThere are four conditions which we must fulfill, if God is to have full possession:\n\nWe must be subject to the will of God, James 4:7;\n\nWe must draw nigh to God, James 4:8;\n\nWe must cleanse our hands and purify our hearts, James 4:8;\n\nWe must humble ourselves in His sight, James 4:10.\n\nThen God will fill the soul, the sluice gates of which are open to Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "“If the Lord Will” -- James 4:11-17\n\nWhen we speak evil of another, we usurp the functions of the only lawgiver and judge. If that other is endeavoring to model his life by the law, to speak evil of him is to question not his action alone, but the law he is trying to observe. Let us turn the light in upon ourselves and be merciless in self-criticism, while merciful to all others. When you see another doing wrong, always ask yourself whether the same evil is not hiding in your own character. Do not speak of men, but to them, when their faults confront you.\n\nWe are prone to make plans without reference to God’s will. Life is so transient and brief that if we are to make the most of it, we should ask the divine Spirit to choose for and guide us. Our one endeavor must be to discover God’s will and do it. If we are not constantly saying, “If the Lord will,” the sentiment it expresses should always be uppermost with us. “Thy will be done” in me as in heaven!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 5
+ }
+}

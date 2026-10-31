@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The “Two Witnesses” -- Revelation 11:1-13\n\nWe cannot in this brief note indicate the various interpretations of this chapter, but certain great principles underlie it, which are true of every age.\n\n(1) During the darkest ages, men have been raised up to testify against the prevailing corruption of their time, and especially the corruption of the apostate Church. Their opponents have endeavored to silence their voice and blacken their character, but God has ever vindicated them and given life out of death. (2) Always when the enemies of the truth have deemed themselves triumphant, there has been a rekindling of gospel testimony. A few years before Luther appeared, a medal was struck to commemorate the extinction of so-called heresy. (3) Such witness-bearing as is suggested by the comparison with Zechariah’s vision, is fed from the heart of Christ. He is the root of the martyr line; His Spirit is the life-breath of His witnesses. All through the centuries, commonly called Christian, though generally very un-Christian, there has been an unbroken succession of pure and noble souls who have stood for Jesus Christ even unto death. Let us dare to stand with them and our Lord, that He may not be ashamed of us at His coming."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "“He Shall Reign For Ever and Ever” -- Revelation 11:14-19; Revelation 12:1-6\n\nThe kingdom is even now Christ’s, but it is hidden, even as He is. One day it will be manifested. For a long time David was the anointed king of Israel, but Saul sat on the throne until the predestined hour came when the tribes of Israel made David their chosen monarch. This surely is a type of that which will one day become apparent to the whole creation. The kingdom of the world will wholly and permanently become Christ’s. Suffering and sorrow will then flee away, as birds of ill omen at dawn.\n\nWar will cease to the end of the world. The glad populations of mankind will walk in the light of life, and the long night and travail of nature will be ended. It may be that each great era of human history ends with a scene of judgment; or that these series of visions are concurrent, viewing the earth-order from different standpoints.\n\nWhat comfort is derived from this vision of the Ark of God’s Covenant, which abides in the inner sanctuary! He is true to us. His word cannot alter, neither will He recede from His pledge to overthrow our enemies, to undo the devastation they have caused, and to realize His original purpose in man’s creation."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 12
+ }
+}

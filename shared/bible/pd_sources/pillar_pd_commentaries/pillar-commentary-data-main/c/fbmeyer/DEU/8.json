@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Beware of Forgetting God -- Deuteronomy 8:1-20\n\n“Thou shalt remember,” Deuteronomy 8:2; “thou shalt consider,” Deuteronomy 8:5; “thou shalt bless,” Deuteronomy 8:10.\n\nThe lessons of hunger, Deuteronomy 8:1-9 : “Suffered to hunger.” “Blessed are they that hunger.” “Man doth not live by bread only;” he hungers for knowledge, opportunity, society, love. How many wan faces around us bear witness to the gnawing within. But the Father suffered His Son to fast; and so he deals with us, to prove us. It is only through the discipline of the soul, in learning to go without, that it can be trusted with spiritual opulence and power. See Deuteronomy 8:7-9.\n\nThe perils of prosperity, Deuteronomy 8:10-20 : It is harder to walk with God in the sunshine of success than in the nipping frosts of failure. When Paul said, “I know both how to be abased, and I know how to abound,” he put the hardest last. The one secret is to give all the glory to God, and to look always to the Cross, where we were crucified to the pride of the flesh, Philippians 2:7-11; Philippians 4:12. “I lay in dust life’s glory dead!”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 9
+ }
+}

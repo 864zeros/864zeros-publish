@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Service of a Foreigner -- Esther 2:1-23\n\nEsther’s Hebrew name meant Myrtle. It could not have been easy for her to retain her sweet simplicity amid the corruptions of her time, but her Persian name means “a star,” as though she were a garden enclosed, encircled by the atmosphere of the divine purity and protection. We must not judge Esther by our own standards, but by the custom of her time. Each of these young girls was considered to be married to the king, was kept under his roof, and was his wife of a lower rank. How great is the influence of Christianity in raising our standards and pervading the world with a loftier morality! She was not bidden to deny her parentage, but only advised not to proclaim it, Esther 2:10.\n\nWhen, afterwards, she was raised to power, she showed no flinching from identification with her race. So she attained the highest position in the world to which a woman could aspire. God lifted her there to serve a high and noble purpose. Her relative, Mordecai, discovered a plot against the king, and told it to his ward, the queen, and she to her royal spouse. The deed was unrewarded; in this, however, the faithful doorkeeper felt no disappointment. He acted not for reward, but from a sense of duty.\n\nBut the act was registered both in heaven and on earth, and it bore fruit. It is enough for us to do our duty, and please God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 3
+ }
+}

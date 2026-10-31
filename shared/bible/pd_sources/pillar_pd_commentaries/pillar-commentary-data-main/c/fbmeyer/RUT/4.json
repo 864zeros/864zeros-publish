@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "RUT",
+  "commentaryId": "fbmeyer",
+  "name": "Ruth",
+  "commonName": "Ruth",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "In the Line of David’s Ancestry\n\nRth 4:1-22\n\nWe are admitted here to a graphic picture of the old world. Men’s memories were longer and stronger than ours: and what was done publicly in the Gate, the place of public concourse, had the seal of permanence irrevocably attached to it. The transference of the shoe indicated the inferior position of woman, though she was honored in Israel more than in the neighboring nations.\n\nWhat a happy ending! The gleaner need never again tread the fields, following the reaper’s footsteps. All the broad acres were now hers, since she had become one with the owner. When we are one with Christ, we no longer work for redemption; but being redeemed, we bring forth fruit unto God, Romans 7:4. The curtain falls on a blessed group. The tiny babe lies on Naomi’s bosom. The women who had gone together into the valley of the shadow of death stand together in the light of the mountain-top. God turns mourning into gladness, Psalms 30:11. And let us Gentiles learn that we too have a part in Christ. In Him is neither Jew nor Greek, Colossians 3:11."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 1
+ }
+}

@@ -15,7 +15,7 @@
     "tag": "⚡ 43s Product Demo",
     "title": "Watch DocWatermarker Pro in Action",
     "desc": "Stamp dynamic confidentiality notices, draft status banners, and localized timestamps across Google Docs headers and footers with one-click clean removal. Zero external document servers.",
-    "sub": "<b>No subscriptions</b> · $9.99 one-time lifetime license · Pay once, keep forever",
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
     "youtubeUrl": "https://www.youtube.com/watch?v=YhRGzYAb9EM"
   },
   "social_shorts": [
@@ -48,7 +48,7 @@
     {
       "img": "docwatermarker-3.png",
       "alt": "DocWatermarker Pro — one-time lifetime license vs subscription rent",
-      "cap": "One-time lifetime license. Permanent sovereign document stamping without recurring SaaS rent."
+      "cap": "one-time lifetime license. Permanent sovereign document stamping without recurring SaaS rent."
     }
   ],
   "jsonld": {
@@ -59,7 +59,7 @@
       "Multi-page header and footer positioning with color and opacity controls",
       "One-click complete watermark removal without touching body text",
       "100% in-account execution via non-sensitive documents.currentonly scope",
-      "One-time lifetime license — zero recurring subscriptions"
+      "one-time lifetime license — zero recurring subscriptions"
     ]
   }
 }

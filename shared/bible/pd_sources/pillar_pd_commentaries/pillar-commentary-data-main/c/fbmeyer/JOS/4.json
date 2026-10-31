@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Memorial Stones -- Joshua 4:1-24\n\nTwelve stones were brought up from the Jordan and erected in Gilgal. They gave fathers the opportunity of telling their children of the miraculous passage of the river. We, too, through our Lord, have passed through the waters of death on to resurrection-ground. Let the great deliverances of God wrought for our fatherland, as well as those wrought for us personally in Christ, be more frequent subjects of family-talk.\n\nTwelve other stones were placed in the river-bed and would be visible when the waters were low. There was an ocular demonstration, therefore, that Israel was really once in these depths. We must not forget the Rock out of which we were hewn, Isaiah 51:1; 1 Corinthians 6:11. Let us never cease to magnify God’s grace, Psalms 40:2.\n\nThe presence of the Ark alone restrained the piled-up waters. Thus Jesus stands between us and whatever would overwhelm us, especially sin and death, Hebrews 2:14. Do not, in rejecting Him, reject your only screen."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 5
+ }
+}

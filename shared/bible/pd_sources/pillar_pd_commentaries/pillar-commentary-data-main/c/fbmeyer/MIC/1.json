@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "fbmeyer",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Witness against His Chosen -- Micah 1:1-16\n\nMicah was contemporary with Isaiah and Hosea. Jeremiah quotes from him. Compare Micah 3:12 and Jeremiah 26:18.\n\nIn Micah 1:1-4 the prophet summons the nations to behold the just punishment which Jehovah would mete out to His faithless people. Micah 1:5-6 portray the desolation of Samaria. Destruction would settle on the homes and fields of men, and the prospect of this so affected the prophet that he divested himself of outer garment and sandals, that his disheveled condition might depict the calamities that he announced. Micah 1:10-16 make clear that Judah also would suffer similar chastisements. Aphrah and Shaphir would be hurried into captivity. So universal would be the calamity that Zaanan would not come to bewail with the neighboring city of Bethezel.\n\nThe prophets were true patriots and they felt that all good citizens should lament with them, Micah 1:16, in the hope of averting impending judgments. Are we feeling the sins and sorrows of our time, as Jesus felt those of Jerusalem, when He wept over the city?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 2
+ }
+}

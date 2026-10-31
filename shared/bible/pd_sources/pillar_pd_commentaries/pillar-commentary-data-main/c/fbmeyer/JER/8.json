@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 4,
+    "content": [
+     {
+      "text": "False Promises of Peace -- Jeremiah 8:4-22\n\nThis chapter is filled with denunciation of the unreasonable and infatuated obstinacy of Israel. As the horse rushes madly to the fight, so were the people set on evil. The very birds that were sensitive to the laws of migration, and obeyed the call of the sunnier clime, were more impressible than the Chosen People. God often calls us out of the stormy winter blasts to lands of sunny fellowship, but we will not heed. From Jeremiah 5:10 onward we have a description of the desolation about to visit the land. Notwithstanding the promises of false prophets, the invader overran the country and the exiled people might readily begin to question why such a fate had befallen them.\n\nTo this there was but one answer. Their sin had cut them off from God’s protecting care. Is not this the reason why harvests pass and summers end, and the years roll on, and still you are not saved? There is balm for your wounds, and a physician for your healing, but you do not avail yourselves of them; and God’s love is powerless, however greatly He desires to help you, until you return. The father would do anything for the prodigal, but He has no chance so long as the prodigal remains in the far-land."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 9
+ }
+}

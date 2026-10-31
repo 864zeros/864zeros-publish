@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Crowning the Boy-King -- 2 Kings 11:1-12\n\nAthaliah well deserves the title given her in 2 Chronicles 24:7. She usurped the throne, and played in Judah the part of her mother Jezebel. Joram was a wicked man and a bad king, but he recognized the value of piety, and chose the good priest Jehoiada as the husband of his daughter. The husband neutralized the evil influences of his wife’s upbringing and led her into a noble and useful career, the chief episode of which was the rescue of the youngest son of Ahaziah. His nurse and he were hidden in a room where the mattresses were kept in case of a sudden influx of priests at festal times. Is not this hidden king a type of the hiding of the true Prince in the recesses of our hearts, while some Athaliah occupies too large a share of government? There is no alternative but that the evil self-life, our Athaliah, should be stoned.\n\nIt was a glad moment when the hidden prince was produced. Many loyal hearts had renounced all hope of again seeing a scion of David’s line. But God kept His promise. The Word of God was a befitting gift to place in the hands of the young prince, 2 Kings 11:12. Compare Deuteronomy 17:18-19. But what a revelation will it be when Jesus assumes the government of the earth, and its kingdoms become the kingdom of God and His Christ! He is now hidden, but He shall be manifested, Colossians 3:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Covenanting to Be the Lord’s People -- 2 Kings 11:13-20\n\nThe death of Athaliah led the way to a thorough change throughout the kingdom. There was a double covenant, first, between the Lord on the one hand and the king and the people on the other, and second, between the king and the people; then the demolition of the Baal-house, which had sadly profaned the Holy City; and finally regulations for the proper performance of diving worship. These led the way to the public enthronement of the boy-king. The joy and quiet which ensued always follow the casting out of evil. Adjust a nation or an individual to the claims of God, and at once peace and joy succeed. The Lord Jesus, who is now hidden, shall one day be manifested, as we have seen.\n\nThose that hate Him shall be put to shame. Then shall come salvation and the kingdom of God. Every evil that exalts itself against Him shall be cast out, and the nations shall rejoice and be quiet because they have discovered their rightful ruler. Notice the alliance between the young king and the aged priest. It was necessary, under the old Covenant, that the functions of king and priest should be fulfilled by different individuals. The civil and religious elements demanded separate expression, but in Jesus they perfectly blend.\n\nHe is “a priest upon His throne,” Zechariah 6:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Money for the Lord’s House -- 2 Kings 11:21; 2 Kings 12:1-16\n\nSo long as the good priest lived, the young king did well. How much we owe to the presence of wise, strong men to advise and assist us! But neither king nor priest dared to go to the furthest limit of reform, 2 Kings 12:3. This failure bore disastrous fruit in after-years. It is a mistake to cut off weeds on the surface; they will sprout again and give trouble. If thy right hand cause thee to offend, cut it off.The Temple had suffered terribly under Athaliah, 2 Chronicles 24:7.\n\nThe king might well take an interest in its reconstruction, because of the shelter it had afforded him from his enemies. The first attempt to raise a renovation fund was a failure. It was in the wrong hands. The priests appear to have appropriated for their own use offerings intended for Temple repair. A change was therefore required, and their receipts were limited to the sin-offerings. As soon as a clear chance was given to the people, their free-will gifts totaled a large amount, which justified the resumption of the work.\n\nCertainly the promptness and integrity of the men who did the work put to shame the lethargy and peculation of the priests. Trust the people! This is not the last time that the heart of the masses was more to be trusted than the priestly caste."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 12
+ }
+}

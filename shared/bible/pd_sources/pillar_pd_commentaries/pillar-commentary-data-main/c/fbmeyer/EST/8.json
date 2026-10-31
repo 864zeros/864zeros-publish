@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Courage Rewarded -- Esther 8:1-17\n\nThe ring symbolized royal power and authority; by this sign Mordecai was suddenly raised to the position formerly held by Haman. He also managed for Esther the large estate which had come into her possession. Because of the fixity of the customs and laws of the Medes, it was impossible to reverse the royal proclamation, which had decreed that the Hebrew people should be exterminated. So the king granted Mordecai permission to send letters to his people, allowing them to arm and defend themselves. The speed with which the circulation of the royal decree was carried out is a rebuke to the Church of God which has been entrusted with the gospel of salvation. More than eighteen hundred years have passed, and still immense multitudes have never heard the name of Christ or the love of God. Let us at least strain every nerve to pass on the joyful news, overtaking the tidings of death."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 9
+ }
+}

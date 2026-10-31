@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "Esther", "chapter": 4, "citation": "Esther 4:14", "text": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?", "plain": "For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father's family will perish. And who knows but that you have come to your royal position for such a time as this?" }
+    {
+      "book": "Esther",
+      "chapter": 4,
+      "citation": "Esther 4:14",
+      "text": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?",
+      "plain": "For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father's family will perish. And who knows but that you have come to your royal position for such a time as this?",
+      "visual_prompt": "a heavy timber door with an iron latch set into a thick stone wall in a carved stone archway opening onto a walled Persian garden",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

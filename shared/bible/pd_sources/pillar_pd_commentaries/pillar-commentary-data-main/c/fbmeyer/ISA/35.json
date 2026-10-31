@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 35,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Rejoicing of the Redeemed -- Isaiah 35:1-10\n\nGod’s judgments change Carmel and Sharon into a waste; but His blessing makes the wilderness and parched land as Carmel and Sharon. Where the smile of God rests, deserts sing and become carpeted with flowers. Your hands may be weak and your knees feeble, but when your helplessness invokes the help of God, He will begin to perform wonderful things that pass expectation. Say over and over to yourself: “My God will come: be strong, my heart, and fear not. He will come and save.” Oh, for the quickened sense; the bounding leap of our nature lamed by the fall; the songs from lips that God will touch! Your dreariest desert shall become water-springs; the mirage shall no longer disappoint; thirst shall be satisfied; and the dragons of the heart extirpated.\n\nNothing can hurt us while we walk with God in holiness. Dreaded evils may threaten to cast their shadows on our path, but they shall not stay our songs as we come with singing unto the everlasting joy.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 35
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 34
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 40
+ }
+}

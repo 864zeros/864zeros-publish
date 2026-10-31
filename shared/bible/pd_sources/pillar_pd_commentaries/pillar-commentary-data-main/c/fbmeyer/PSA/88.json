@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 88,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Cry from the Waves -- Psalms 88:1-18\n\nMost of the psalms which begin in sorrow end in exuberant joy and praise. This is an exception. There seems to be no break in the monotony of grief and despair. In Psalms 88:1-8 it would appear that the psalmist was oppressed by some loathsome disorder which made even his friends shrink from companionship. But it is a hopeful sign when, even in such circumstances, a man can still speak of God as “the God of my salvation.”\n\nIn Psalms 88:9-18 the psalmist combats his despair by reminding God and himself that his has been a praying soul. Surely the Almighty will not forget his outstretched hands, nor the prayers that have anticipated the morning! It is a true argument. That you can pray at all is a sure sign that the divine Spirit is within your heart. From unknown depths He is helping your infirmity, and this proves that God has not forgotten or forsaken you. If just now life’s bark is overwhelmed with difficulty, God rules the waves. The storm-wind will presently subside at His rebuke. Lover and friend will again stand round about you, and your soul will come back into light. God’s days are not like man’s-from morning to evening, but from dark to dawn."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 88
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 87
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 89
+ }
+}

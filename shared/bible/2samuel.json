@@ -13,8 +13,36 @@
     "count": 3
   },
   "verses": [
-    { "book": "2 Samuel", "chapter": 7,  "citation": "2 Samuel 7:22",  "text": "Wherefore thou art great, O Lord God: for there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears.", "plain": "How great you are, Sovereign Lord! There is no one like you, and there is no God but you, as we have heard with our own ears." },
-    { "book": "2 Samuel", "chapter": 22, "citation": "2 Samuel 22:2",  "text": "And he said, The Lord is my rock, and my fortress, and my deliverer;", "plain": "He said: The Lord is my rock, my fortress, and my deliverer;" },
-    { "book": "2 Samuel", "chapter": 22, "citation": "2 Samuel 22:31", "text": "As for God, his way is perfect; the word of the Lord is tried: he is a buckler to all them that trust in him.", "plain": "As for God, his way is perfect; the word of the Lord is flawless; he is a shield to all who take refuge in him." }
+    {
+      "book": "2 Samuel",
+      "chapter": 7,
+      "citation": "2 Samuel 7:22",
+      "text": "Wherefore thou art great, O Lord God: for there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears.",
+      "plain": "How great you are, Sovereign Lord! There is no one like you, and there is no God but you, as we have heard with our own ears.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a quiet rooftop parapet overlooking Jerusalem",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "citation": "2 Samuel 22:2",
+      "text": "And he said, The Lord is my rock, and my fortress, and my deliverer;",
+      "plain": "He said: The Lord is my rock, my fortress, and my deliverer;",
+      "visual_prompt": "a massive overhanging crag of weathered limestone sheltering a quiet mountain trail in the steep dry-stone terraces of Mount Zion",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "2 Samuel",
+      "chapter": 22,
+      "citation": "2 Samuel 22:31",
+      "text": "As for God, his way is perfect; the word of the Lord is tried: he is a buckler to all them that trust in him.",
+      "plain": "As for God, his way is perfect; the word of the Lord is flawless; he is a shield to all who take refuge in him.",
+      "visual_prompt": "a massive overhanging crag of weathered rock sheltering a quiet mountain path",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2",
+      "image_file": "sketches/verse_06_2samuel_22_31_s2_locked.jpg"
+    }
   ]
 }

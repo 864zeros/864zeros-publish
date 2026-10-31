@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Touch not Mine Anointed -- 2 Samuel 1:1-16\n\nThe scene changes from Gilboa to Ziklag, whither the tidings were carried by an Amalekite. It is remarkable to notice how David received them. Though he had spent years in the rough life of a freebooter, surrounded by coarse and hardened men, he had not lost the delicacy and refinement of his earlier days. To men like Nabal, he seemed an outlaw; but those who were admitted to the inner circle of David’s friendship knew that there was a whole heaven of difference between him and the men who followed him. Let us see to it that by fellowship with God, we keep our nature uncontaminated by the world, its fine edge, not blunted, its bloom not brushed off.\n\nIt was genuine grief that made David rend his clothes, and a genuine emotion of horror that led to the execution of this self-confessed regicide. Then from the depths of a guileless heart there poured forth the “Song of the Bow,” one of the noblest elegies in any tongue. Let us speak tenderly of the dead. Let God in His infinite pity judge them, while we scatter rose-leaves on their graves."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The Song of the Bow -- 2 Samuel 1:17-27\n\nThis noble poem is unrivaled. It is a perfect model of a funeral dirge. It is in poetry what Händel’s Dead March in Saul is in music. The psalmist is borne along both by art and affection. He could not have composed this song unless he had been a consummate artist, and unless he had drunk deep of that divine love which believes, bears, hopes and endures all things and never fails.\n\nHe forgets all that he has suffered. His love refuses to consider anything but what has been pleasant and lovely in his liege lord. And for Jonathan there is a special stanza. A brother soul! The Philistines had felt David’s might, but his friend had tasted his sweetness! Terrible as a whirlwind in flight, yet winsome as a woman! But if human love can impute only good to those who are the objects of its affection, what will not God’s love say of us, feel toward us and impute to us! Here is a clue to the exceeding riches of the love with which He loved us, even when we were dead in sins!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 2
+ }
+}

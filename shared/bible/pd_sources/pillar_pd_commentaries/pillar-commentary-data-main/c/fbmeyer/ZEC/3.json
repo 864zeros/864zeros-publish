@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "fbmeyer",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Purified for God’s Service -- Zechariah 3:1-10\n\nThe regulation for the maintenance of the priesthood had fallen into disuse, and they had neither robes, vessels, nor proper provision of offerings. Probably also the spiritual life of the priests was at a very low ebb, Malachi 1:1-14; Malachi 2:1-17. Satan is always discovering the weak spots in character and thrusting at them. He is keen as steel and cruel as hell. But we have One who pleads. As the priest Melchizedek, He ever lives to make intercession for us. “The Lord rebuke thee, O Satan.”\n\nWe are as brands scorched and charred with the burning. But we have been plucked out of the consuming flame. Surely then we are being kept for some high and useful purpose. All the past is an argument for faith. That God has done so much is a pledge that He will perfect that which concerneth us, because His mercy endureth forever. It is not enough to be cleansed from sin, we need the miter of the divine anointing that we may have a place of access among the saints. Whom He justifies, He also glorifies. Let us be content with nothing short of God’s best."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 4
+ }
+}

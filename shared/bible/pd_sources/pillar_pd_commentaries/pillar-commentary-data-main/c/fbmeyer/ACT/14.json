@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Varying Treatment of the Message -- Acts 14:1-13\n\nFrom Antioch the Apostles passed to Iconium, the capital of Lycaonia. It is most illuminating to note the source of their success: The Lord bore witness unto the word of His grace. We must not expect success if that divine witness is absent. There is nothing more vital than this. The secret of joyful and successful service is the consciousness that, in every sermon and address, there is an unseen fellow-worker who is listening to each sentence and punctuating with his strong affirmation each utterance which magnifies the grace of God.\n\nLystra was situated in the highlands, amid a wild, mountainous country. In Paul’s audience here he saw a cripple who had faith to be healed, Acts 14:9. What quick insight God gives the soul that lives in fellowship with Him! There was an old tradition that the gods had frequented this very region. Jupiter, the father of the gods, was the guardian deity of Lystra. There was, accordingly, an especial reason for the excitement among these simple and untutored folk. Man has ever longed for a daysman, and believed that there might be commerce between heaven and earth. Oh, that we were as quick to worship and adore the Son of God!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Establishing the New Believers -- Acts 14:14-28\n\nIn Paul’s address we have distinct anticipations of the early chapters of the Epistle to the Romans. How fickle a mob is! Now, enthusiastic loyalty; again, disappointment and rejection. Today, “Hosanna;” tomorrow, “Crucify.” “Cease ye from man, whose breath is in his nostrils.”\n\nIt has been supposed by some that the trance of 2 Corinthians 12:1-21 took place at the time of Paul’s stoning in Lystra. It must have been sorrow indeed to awaken from such a vision to the suffering of his battered body. But that scene, no doubt, gave him the love and devotion of the young Timothy and his mother and grandmother. See Acts 16:1-2. On Paul’s next visit to Lystra, this son, whom he had begotten in the sore anguish of that hour, was to become his devoted attendant.\n\nIn spite of the treatment Paul had received, he returned to the city, Acts 14:21. Back to the stones! Naught could stay his ardent spirit, if only disciples were to be won or confirmed in their faith for the Master, Acts 14:22. Everywhere these intrepid missionaries found the blood-stained track of the Cross, but they filled up to the brim the measure of their opportunity. This will be possible for us all only when we are such that God can co-operate with us as our fellow-worker and open the door."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 15
+ }
+}

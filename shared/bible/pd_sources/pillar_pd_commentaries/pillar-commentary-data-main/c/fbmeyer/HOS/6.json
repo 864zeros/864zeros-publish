@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Let Us Return unto the Lord” -- Hosea 6:1-11\n\nHow full Scripture is of tender invitations: Come, and let us return! This opening verse is closely connected with Hosea 5:15. The hand that smote was the Father’s who waited to welcome the prodigal nation with healing and up-binding. When the sun seems to dip below the horizon, we begin to travel toward its rising again. Then we follow on, to behold the glorious dawn of the next day, which is prepared for us. Presently we catch the first glimpse, and soon come into its full splendor.\n\nThe sun does not move toward us, but we toward it. So when the soul turns toward God, if only it is willing to do His will, it has begun to follow on toward the light of His countenance, which presently will be revealed in its full radiance. God’s favor is also compared to the fertilizing rain, for its certainty and refreshment, Genesis 8:22.\n\nWhile God’s love is constant, our religious life is fickle and changeful. Emotion is evanescent as the morning clouds, which in Palestine vanish by nine or ten o’ clock. Our Lord quoted Hosea 5:6 in Matthew 9:13; Matthew 12:7. The pomp of outward ritual, however ornate, counts less with God than one contrite sigh or tear."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 7
+ }
+}

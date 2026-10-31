@@ -13,8 +13,35 @@
     "count": 3
   },
   "verses": [
-    { "book": "Ezekiel", "chapter": 34, "citation": "Ezekiel 34:16", "text": "I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.", "plain": "I will seek the lost and bring back the strays. I will bind up the injured and strengthen the weak." },
-    { "book": "Ezekiel", "chapter": 36, "citation": "Ezekiel 36:26", "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.", "plain": "I will give you a new heart and put a new spirit in you; I will remove your heart of stone and give you a heart of flesh." },
-    { "book": "Ezekiel", "chapter": 37, "citation": "Ezekiel 37:5", "text": "Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:", "plain": "This is what the Sovereign Lord says to these bones: I will make breath enter you, and you will come to life." }
+    {
+      "book": "Ezekiel",
+      "chapter": 34,
+      "citation": "Ezekiel 34:16",
+      "text": "I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment.",
+      "plain": "I will seek the lost and bring back the strays. I will bind up the injured and strengthen the weak.",
+      "visual_prompt": "an alabaster ointment jar and linen bandage resting on a stone bench in a valley floor scattered with dry sun-bleached stones and fresh green shoots",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 36,
+      "citation": "Ezekiel 36:26",
+      "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.",
+      "plain": "I will give you a new heart and put a new spirit in you; I will remove your heart of stone and give you a heart of flesh.",
+      "visual_prompt": "a sturdy dry-stone watchtower standing firm on a rocky hillside in the reed-lined banks of the Chebar canal in Babylon",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Ezekiel",
+      "chapter": 37,
+      "citation": "Ezekiel 37:5",
+      "text": "Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:",
+      "plain": "This is what the Sovereign Lord says to these bones: I will make breath enter you, and you will come to life.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a valley floor scattered with dry sun-bleached stones and fresh green shoots",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

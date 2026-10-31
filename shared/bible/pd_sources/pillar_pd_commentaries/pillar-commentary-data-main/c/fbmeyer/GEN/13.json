@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abram and Lot Part -- Genesis 13:1-13\n\nThe patriarch, like a restored backslider, made his way back to the old spot, on the highlands of Bethel, where his first tent and altar had stood. Through his wanderings hitherto there had been a depressing element of worldliness in his camp, through the presence of Lot, who, like many more, was swept along by his uncle’s religion, but had little of his own. Feeling that separation was inevitable, and that God would surely care for him, Abram offered Lot his choice. See Psalms 16:5. The younger man chose according to the sight of his eyes. In his judgment he gained the world-but see 2 Peter 2:7-8.\n\nThe world is full of Lots-shallow, impulsive, doomed to be revealed by their choice and end. “Let there be no strife!” Blessed are the peacemakers! Wherever the interests of peace can be conserved through the sacrifice of your own interests, be prepared to forfeit the advantage, but stand like a rock when God’s truth is in balance."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Abram at Hebron; Lot Taken Captive -- Genesis 13:14-18; Genesis 14:1-12\n\nLot lifted up his eyes for himself, but when the last of Lot’s followers had streamed out of the camp, God bade Abram lift up his eyes, not to choose, but to behold what God had chosen for him. He must first estimate his possessions, and then enjoy them. Let us count up our treasures in Christ, and use them. Lot grasped at and lost his all. Abram left and inherited all. Notice how prodigal God’s provision is: “All the land… for ever… as the dust… the length and breadth.” It was a far cry from the valley of the Euphrates to Sodom, and the little confederate kings dared to rebel against Chedorlaomer, who swept over their lands like a sirocco, and marched up the valley of the Jordan, laden with booty, and carrying Lot.\n\nYou cannot have the sweets of the world and miss its bitters. The path of separation is the only way of safety and peace!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 14
+ }
+}

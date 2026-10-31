@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TH",
+  "commentaryId": "fbmeyer",
+  "name": "1 Thessalonians",
+  "commonName": "1 Thessalonians",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Called to Sanctification -- 1 Thessalonians 4:1-8\n\nThe first paragraph of this chapter exhorts to purity, the second to industry, the third to expectation of the Second Advent. But the three are closely combined, because those who wait for the Lord will instinctively wear white robes. The body is compared to a vessel, and we must keep it clean for the Master’s use, walking day by day so as to please Him. Before Enoch was translated, he had the testimony borne him that he had pleased God, Hebrews 11:5. It is God’s will that we should be holy-the whole object of our redemption has this for its purpose. Therefore we ought to be holy, and if we ought we can, and if we can we must; and if we must we will! If you cannot possess yourself of your own nature, be possessed by the Holy Spirit. God giveth His Holy Spirit for this purpose.\n\nNo one must come in between husband and wife to defraud either of the lawful love which each should receive from the other. The home has been rescued and exalted by Christ, and the Christian Church must still be its custodian, not only inculcating the ideal, but revealing the sufficient power for its defense."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "United Now and Hereafter in the Lord -- 1 Thessalonians 4:9-18\n\nIt is suggested that God Himself is the teacher of love. Others may teach the lower classes in the school of grace, but the highest is reserved for the Supreme Teacher. Note that recurring more and more, 1 Thessalonians 3:12; 1 Thessalonians 4:1; 1 Thessalonians 4:10. The distribution of goods in the early Church may have led to abuses, which the injunctions here given were intended to rectify. It is well to bring up every child to know one means of livelihood, and children are much more likely to grow up into noble and useful people, if they are encouraged to work for their living. Do something in the world!\n\nThese disciples anticipated the speedy return of the Lord and feared lest those who had died would be worse off than they: The Apostle bade them dismiss such fears, because they who remained alive until the coming of the Lord would have no precedence over others who had died. Paul assures them that they who had fallen asleep were with Jesus, and that they would accompany Him when He came again; To those who needed to be raised, Jesus would be “the Resurrection” ; to those who were living, He would be “the Life.” They that believed in Him, though they had died, yet would they live; and they who lived till He came would never die."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 5
+ }
+}

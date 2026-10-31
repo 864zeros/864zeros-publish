@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“A Door of Hope” -- Hosea 2:14-23; Hosea 3:1-5\n\nThe valley of Achor was a long wild pass up through the hills. The prophet says that a door of hope would open there, like the Mont Cenis tunnel which leads from the precipices and torrents on the northern slopes of the Alps to the sunny plains of Italy. That door opens hard by the heap of stones beneath which that troubler of Israel, Achan, was laid. We must put away our Achans before we can see doors of hope swing wide before us.\n\nThe prophet was bidden to make one further overture to his truant wife. She had been faithless, but the old love burnt in her husband’s soul, and he was prepared to buy her back to himself at half the price of a female slave, Exodus 21:32. His only stipulation was that she should abide with him for many days. This was to be a time of testing, with the assurance that, if she were penitent and faithful, she would be perfectly restored.\n\nWhat a wonderful verse is Hosea 2:3! We are purchased to God by the death of His Son. He only asks us to be for Himself and He promises to be for us. “The best of all,” cried the dying Wesley, “is that God is for us!” Shall we not close with the offer and give ourselves to Him?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 4
+ }
+}

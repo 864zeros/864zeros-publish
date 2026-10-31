@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "fbmeyer",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Selfish Shepherds -- Ezekiel 34:1-16\n\nThe shepherds of this chapter were not the religious leaders of the people, but rulers who sought in their government not the good of the people but their own selfish ends. But the statements made by the prophet may be rightly applied to rapacious priests who care more for the fleece than for the flock. Pastors are required to lead the flock of God not for filthy lucre but as examples for the sheep, 1 Peter 5:2-3. It is their duty, also, to strengthen the spiritually diseased, heal the sick, bind up the broken in heart, and seek the lost.\n\nNotice the tender manner in which the Lord Jesus Himself supplies the deficiencies of His unfaithful servants. In beautiful contrast to their selfish cruelty and rapacity, He sets Himself in cloudy and dark days to gather and tend His people, though they had been as scattered sheep, each taking his own way. When the ministers of His Church fail in their duty, the Lord hastens to supply their lack. Without doubt these gracious promises refer primarily to the Lord’s Second Advent, when He will seek out and deliver His Chosen People, and bring them to their own land. But surely we must not limit the reference thus. We are His sheep, by purchase and by choice. He knows us, as we know Him. He has sought and saved us. He feds us and causes us to lie down beside the waters of rest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "“Showers of Blessing” -- Ezekiel 34:17-31\n\nThough God now often seems to make no difference between the oppressors and the oppressed, the time is fast coming when He will make momentous and lasting distinctions, Matthew 25:32-33. No wrong shall then be unredressed. Note the designation of our Lord as “the One Shepherd,” peerless and matchless in dignity and authority. Once He died to save His flock from the wolf, but He is destined to reign forever as their Great Shepherd in the midst of them, Ezekiel 34:24. They shall be everlastingly exempted from hunger, harm, and reproach. Jesus has been raised up from the dead to be our plant of renown.\n\nPlanted in the grave of death, He has become with His faithful people a Vine, whose shadow covers the hills, and enriches the hearts and lives of men with luscious fruit. And because He lives, we shall live also. His resurrection implies and guarantees our own."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 37
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "An Enlarged Inheritance -- Joshua 17:14-18\n\nThe greatness of the children of Joseph did not arise from their numbers; for, according to Numbers 26:1-65, the two tribes, united, did not much exceed the tribe of Judah. Also one-half of Manasseh was already settled on the other side of Jordan. But they based their claims on the special promises made decades before to Joseph, Deuteronomy 33:13.\n\nVery rightly Joshua bade them prove their greatness by their deeds. It is a vast misfortune when children live in the achievements of their parents, instead of standing on their own feet. Besides, they had land enough, if only they would drive out the Canaanites and cut down the shaggy forests that encumbered the soil. All around us are uncleared forests! What a precious promise for us all in Joshua 17:18! Let us cut down the wood!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 18
+ }
+}

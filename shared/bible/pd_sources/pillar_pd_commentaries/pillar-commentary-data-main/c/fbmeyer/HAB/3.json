@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HAB",
+  "commentaryId": "fbmeyer",
+  "name": "Habakkuk",
+  "commonName": "Habakkuk",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Faith That Is Invincible -- Habakkuk 3:1-19\n\nThis psalm was intended to be sung by the captives during the Exile, which was near. In Habakkuk 3:3-15 there is a recital of the great events in the past. First Sinai, then the victories and deliverances of the book of Judges, the passage of the Red Sea and Jordan, the divine vengeance on the oppressors. But the prophet could not contemplate the future of the Chosen People without dismay. He longed to be at rest before those terrible Chaldean hosts burst upon the land. At the close he breaks into a sublime refrain which has been the solace and song of myriads of believers. If all God’s gifts failed he would still possess the Giver. He could still triumph in God. Indeed, the divine Savior and Friend is often more apparent when the fields and the farmsteads are bare."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 66,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Come and See the Works of God” -- Psalms 66:1-15\n\nSome of the old expositors speak of this psalm as “the Lord’s Prayer in the Old Testament.”\n\nA summons to praise, Psalms 66:1-4 The devout soul cannot be glad alone. It demands sympathy in its raptures. All the earth is not too great for an orchestra, nor all mankind for a choir. God’s love may compel a feigned obedience, Psalms 66:3, R.V., margin, but the divine Spirit changes the heart.\n\nDivine deliverance, Psalms 66:5-12 Come and see. Compare John 1:39-40. Let us never forget the great past. The Red Sea and the Jordan have their counterparts in all lives. How often God has turned our seas into dry land, and cleaved paths through our rivers! Through the flood on foot is a miracle of daily experience. The rebels exalt themselves, but we are unmoved. We are tried in the fire, but no atom perishes. We go through persecution and oppression, but we come forth into abundance.\n\nThe payment of vows, Psalms 66:13-15 Let us pay under bright skies what we vowed under dark ones. Pay your vows; declare what God has done for you; offer not beasts, but offer yourself, as a living sacrifice unto God! Romans 12:1."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "“Let All the Peoples Praise Thee” -- Psalms 66:16-20; Psalms 67:1-7\n\nCome and hear, Psalms 66:16-20 The psalm began with Come and see, Psalms 66:5. Compare Mark 5:19-20; John 4:29. It will be one of the employments of heaven to go from group to group to tell what God has done for us. But each hearer will have a tale as wonderful as ours. We must praise without stint, and pray with pure and unselfish motives. From such prayers God will not turn away.\n\nPsalms 67:1-7, like Psalms 65:1-13, was composed for use at an annual festival. “Bless us,” say the saints in yearning prayer. “God shall bless us,” is the certain answer of faith, Psalms 67:1; Psalms 67:7. We desire blessing, not to hoard for ourselves, but that all mankind may share with us. Ask for God’s smile on yourself alone, and you will miss it; ask for it that you may reflect and pass it on, and the Lord will become your everlasting light, and the days of your mourning will be ended.\n\nFour times the psalmist cries, Let the peoples praise thee, R.V. In answer to his appeal, it seemed as if the whole world had broken out into fresh fertility. Our own God, Psalms 67:6. He has given Himself to us, and each may have the whole of the fullness as an estate of boundless extent and wealth, Numbers 18:20; Psalms 16:5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 66
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 65
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 67
+ }
+}

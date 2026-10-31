@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Shall Any Teach God?” -- Job 21:1-34\n\nAfter a brief introduction, in which he claims the right to reply, Job 21:1-6, Job brings forward a new argument. He affirms that his friends are wrong in assuming that the connection between sin and suffering is invariable. On the contrary, he urges that wicked men often spend their lives in prosperity, on the farm, in the fold, and in the home, Job 21:10-11. Sounds of joy issue from their dwellings, Job 21:12. They die without prolonged torture, Job 21:13. From the contention of his friends, Job turns to the passer-by for confirmation of his words. Surely, he says, it is a matter of common observation that some wicked men do prosper and die in peace, Job 21:29.\n\nWith Job’s answer the second colloquy ends. His friends have gained nothing by their arguments, but Job has learned much by his afflictions. On the dark background of his night the Morning Star has actually begun to shine. He appeals to God with greater confidence and even finds refuge in Him; but so far, though arguing his case, he has preserved a humble and reverent attitude."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 22
+ }
+}

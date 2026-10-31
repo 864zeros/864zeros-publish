@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1JN",
+  "commentaryId": "fbmeyer",
+  "name": "1 John",
+  "commonName": "1 John",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Victorious Life -- 1 John 5:1-12\n\nThe “begotten” children of God are constantly referred to in this Epistle. The word indicates the communication, in regeneration, of the divine nature, of which the first evidence is love. This love is not a weak sentimentality, but a, strong, vigorous response to the motions of the divine love.\n\nGod’s life in the soul also manifests itself in our faith; and as faith is the substance of the unseen and eternal world, it overcomes the fascination and glamour of this transient scene. Let your faith entwine around the risen Lord and you will be weaned from all else. Jesus must become all-in-all to you, else you will miss the crown!\n\nWe need not only the water of repentance, but also the blood of propitiation. When these two are admitted, the Holy Spirit will bear His secret witness to the soul. God is ever bearing witness to the Son by the eternal life that He gives to and maintains in those who believe. Eternity begins even here for those who have the Son as their indwelling guest."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Ask According to His Will -- 1 John 5:13-21\n\nWe know that we have eternal life. The rope is in our hand bearing us onward, but its ends are hidden from view in the past and in the future. We also know that God hears us when we comply with the conditions of true prayer. We know, moreover, that we can become the medium through which the life of God passes to others. Thus the humblest child may have power with God and man.\n\nThe Only-Begotten keeps the begotten. Evil can no more touch them than blight could reach the bush in the wilderness that was bathed in the celestial fire. Who would go back to the world? Enumerate and press to heart these four items of positive knowledge; but beware lest what is legitimate and natural in itself may become an idol. Love, knowledge, abiding, conquering-these are the keynotes of this wonderful letter."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2JN",
+  "chapter": 1
+ }
+}

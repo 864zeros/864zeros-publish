@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Light for the New Year’s Path -- John 1:1-13\n\nThe titles of our Lord are set forth in royal fashion. As speech reveals the hidden thoughts of men, so does our Lord utter the unseen God. God spake and it was done. His words preceded the act of creation, but Christ was the Word or utterance of God. He who created time preceded time, and that which is before time is eternal and divine. Christ is the organ or medium by which God goes forth in creation, providence, and redemption. The life of God was stored in the human nature of Jesus, when the Word became flesh, that it might more readily pass into us. True life is always light, as the minute infusoria of the ocean are phosphorescent. When we receive Christ’s life, we shine.\n\nMen are still sent from God, as John was, to bear witness to Jesus; but there is also a witness to Him in the breast of man. We call it conscience, or the inner light. The blinded world knew Him not. Indeed, John 9:1-41 is a parable of mankind’s condition, 2 Corinthians 4:4. Believing and receiving are the same thing. Let Christ in, and you have instantly the right to call yourself a child of God, Galatians 3:26. Only God can impart to us the germ of that life, which we share with the Son Himself, James 1:18."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Voice of Promise -- John 1:14-28\n\nNote that the Revised Version changes the words was made to became, John 1:14. Evidently Jesus had existed before this becoming; and evidently there was a process of self-limitation. Dwelt, that is, tabernacled. As the Shechinah light was veiled by the curtain of the Tabernacle, so the divine essence in Jesus was veiled by His humanity, though it shone out at the Transfiguration. He was full of grace, the unmerited love of God; full of truth, coming to bear witness to it; full of glory, that of the only begotten Son. There are many sons, but only one Son.\n\nWhat a beautiful testimony John the Baptist gave! He was not the Christ, not Elijah (except in spirit), not the expected prophet, but just a voice, announcing the Christ and dying away. He was content to decrease before the greater whom he had been taught to expect and was sent to herald. There is a sense in which the preacher of repentance must always precede the Christ. There must be a putting away of known sin, previous to the recognition of the Lamb of God. But how great must Christ be, when so noble a man as the Baptist felt unworthy to unloose His sandals!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 29,
+    "content": [
+     {
+      "text": "Witness Borne to the Son of God -- John 1:29-34\n\nJohn’s description of Christ gave answer to Isaac’s inquiry, Genesis 22:7. Let us not narrow the extent of the gospel. By the grace of God Jesus tasted death for every man, 1 John 2:2. Though they knew it not, the Messiah had stood on those banks, had mingled with those crowds, had descended into those waters, and was standing among them at that moment. But their eyes were blinded. The new era had already dawned.\n\nThe general reader of the story of our Lord’s baptism probably supposes that the sign of the descending dove and the sound of the Father’s voice were apprehended by all the crowd. This, however, was not the case. John had been previously informed that some day one, indicated by those signs, would come to His baptism. John was the porter of the door of the fold, and it was necessary to certify the true Shepherd when He appeared, John 10:3. To our Lord this was the beginning of His ministry. The heavenly powers were opened to Him, which He was in turn to open to all who believe and cooperate with Him for the regeneration of the world."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 35,
+    "content": [
+     {
+      "text": "How Jesus Wins Followers -- John 1:35-42\n\nOn this third day John again looked eagerly and wistfully on Jesus as He walked. He spoke of Him again as God’s Lamb, and there was a significance in His words that was instantly detected by the two disciples-probably John and Andrew-who stood beside him. He intended to transfer their allegiance from himself to the Lord. Henceforth they were to behold Him. So, at least, they understood it. We are told that they followed Jesus.\n\nAs the preacher watched their retreating figures and realized that His work was done, he had no feeling of jealousy or regret. He was the bridegroom’s friend, and rejoiced greatly to hear His voice, John 3:29. Notice how our Lord develops men. He invites them to His familiar friendship-Come and see, and He looks deep down into their hearts, detecting capacities and possibilities that were hidden even from themselves, but which He helps them to realize: Thou shalt be called Cephas, a “rock.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 43,
+    "content": [
+     {
+      "text": "The Doubter Becomes a Disciple -- John 1:43-51\n\nThe Apostles were attracted to the Master in different ways. Some came to Him through preaching, as when John proclaimed His rank and sacrifice. Others were brought through human relationships. The record does not say how many Andrew brought to Jesus, but we are told that he at least brought his own brother. Others were brought by the Master’s direct personal influence-he findeth Philip. Still others were brought by the call and ties of friendship, following on a long course of previous preparation.\n\nPhilip had often crossed the hills that separated the Lake from Cana, where Nathanael dwelt, and the two would earnestly discuss the signs of the time: the desperate straits of their country, the preaching of the Baptist, and the Messiah’s advent. The guileless Israelite would sit beneath his favorite fig-tree, pondering over the things which Moses and the prophets had written. It was not difficult to win such a man, when Philip broke in on him with the news of their discovery.\n\nJesus is always showing us greater things, John 1:50. He leads His disciples onward and upward, for He is Himself the ladder of ascent to God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 2
+ }
+}

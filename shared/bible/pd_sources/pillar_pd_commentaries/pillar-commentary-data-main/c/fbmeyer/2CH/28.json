@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Smitten for Forsaking the Lord -- 2 Chronicles 28:1-11\n\nThe reign of Ahaz was marked by terrible and rapid degeneration. He not only restored idolatry and offered his children to Moloch, but as the difficulties of his reign increased, he made an alliance with the king of Assyria, notwithstanding the vehement protests of Isaiah. His extreme wickedness made him notorious. “This is that king Ahaz,” 2 Chronicles 28:22. The instruments used for his punishment were the kings of Syria and Israel, 2 Chronicles 28:5-6; and his sin led to the suffering of his people, carried from their homes to Samaria. When a nation or an individual life turns from the love and life of God, it becomes at once a prey to enemies that are lurking near, as an anemic constitution is liable to the microbes of disease.\n\nIt was a noble act on the part of the prophet Oded to denounce the captivity of so many brethren and sisters; and his splendid protest touched the finest chords in the conquerors’ hearts. We must never flinch from holding up God’s standard before the minds of our contemporaries. It will often arrest evil and incite to nobleness of action."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A Wicked King’s Blind Folly -- 2 Chronicles 28:12-27\n\nThis sending of the captives home, clothed, shod, and anointed was a beautiful act, and anticipates the spirit of Christianity. This is the true way of making and maintaining peace. Magnanimity is, after all, the best solvent of national hatred, and lays the foundations of enduring brotherhood. The Edomites and Philistines smote Judah and weakened it, but they were only the instruments. We are distinctly told that the Lord brought Israel low, 2 Chronicles 28:19. The relief bought from the king of Assyria at so great a sacrifice secured a temporary respite. See 2 Kings 16:7-9. In the end, however, it only added to his distress, 2 Chronicles 28:20. None can help the man who has forfeited the help of God. If He is against us, who can be for us!\n\nThe more distressed Ahaz was, the more he trespassed. See Isaiah 1:5-6. With blind infatuation he went step by step farther from God, sacrificed to the gods of Damascus, and offered wanton insult to God’s house. The detestation of the people was evidenced in their treatment of his remains. See Proverbs 10:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 29
+ }
+}

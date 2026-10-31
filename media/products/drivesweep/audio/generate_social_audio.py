@@ -38,7 +38,7 @@ SCRIPTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay thirty to sixty dollars every single year just to find and clean duplicate files in your own Google Drive?",
+            "text": "Why pay recurring subscription fees every single month just to find and clean duplicate files in your own Google Drive?",
             "lead": 0.25,
             "tail": 0.35
         },

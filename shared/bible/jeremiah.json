@@ -13,11 +13,65 @@
     "count": 6
   },
   "verses": [
-    { "book": "Jeremiah", "chapter": 1,  "citation": "Jeremiah 1:5",   "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.", "plain": "Before I formed you in the womb I knew you, before you were born I set you apart; I appointed you as a prophet to the nations." },
-    { "book": "Jeremiah", "chapter": 17, "citation": "Jeremiah 17:7",  "text": "Blessed is the man that trusteth in the Lord, and whose hope the Lord is.", "plain": "Blessed is the one who trusts in the Lord, whose confidence is in him." },
-    { "book": "Jeremiah", "chapter": 29, "citation": "Jeremiah 29:11", "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.", "plain": "For I know the plans I have for you, declares the Lord, plans for peace and not for harm, to give you a future and a hope." },
-    { "book": "Jeremiah", "chapter": 29, "citation": "Jeremiah 29:13", "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.", "plain": "You will seek me and find me when you seek me with all your heart." },
-    { "book": "Jeremiah", "chapter": 31, "citation": "Jeremiah 31:3",  "text": "The Lord hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.", "plain": "The Lord appeared to us in the past, saying: I have loved you with an everlasting love; I have drawn you with unfailing kindness." },
-    { "book": "Jeremiah", "chapter": 33, "citation": "Jeremiah 33:3",  "text": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.", "plain": "Call to me and I will answer you, and tell you great and unsearchable things you do not know." }
+    {
+      "book": "Jeremiah",
+      "chapter": 1,
+      "citation": "Jeremiah 1:5",
+      "text": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.",
+      "plain": "Before I formed you in the womb I knew you, before you were born I set you apart; I appointed you as a prophet to the nations.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a deep tree rooted beside an unfailing stream in a dry year",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 17,
+      "citation": "Jeremiah 17:7",
+      "text": "Blessed is the man that trusteth in the Lord, and whose hope the Lord is.",
+      "plain": "Blessed is the one who trusts in the Lord, whose confidence is in him.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in a potter's stone workshop in the Hinnom valley",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 29,
+      "citation": "Jeremiah 29:11",
+      "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.",
+      "plain": "For I know the plans I have for you, declares the Lord, plans for peace and not for harm, to give you a future and a hope.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a deep tree rooted beside an unfailing stream in a dry year",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 29,
+      "citation": "Jeremiah 29:13",
+      "text": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
+      "plain": "You will seek me and find me when you seek me with all your heart.",
+      "visual_prompt": "a stone well in a quiet clearing with a wooden bucket resting on its rim",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 31,
+      "citation": "Jeremiah 31:3",
+      "text": "The Lord hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+      "plain": "The Lord appeared to us in the past, saying: I have loved you with an everlasting love; I have drawn you with unfailing kindness.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a potter's stone workshop in the Hinnom valley",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Jeremiah",
+      "chapter": 33,
+      "citation": "Jeremiah 33:3",
+      "text": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
+      "plain": "Call to me and I will answer you, and tell you great and unsearchable things you do not know.",
+      "visual_prompt": "a small stone incense altar in a quiet courtyard corner at daybreak in an almond branch budding in early spring",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

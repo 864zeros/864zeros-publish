@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Cast into a Net” -- Job 18:1-21\n\nBildad’s second speech reveals how utterly he failed to understand Job’s appeal for a divine witness and surety. Such words were snares to him, Job 18:2, r.v. The deep things that pass in a heart which is enduring sorrow are incomprehensible to shallow and narrow souls.\n\nHis description of the calamities which befall the wicked is terrible: their extinguished light, Job 18:5-6; their awful distress, Job 18:7-11; their destruction, Job 18:12-17; the horror with which men shall regard their fate, Job 18:18-21. All this was, of course, intended for Job. It was very severe. Even if the worst had been true, his extreme sufferings should have elicited more tenderness from his friends. Only the strong, wise hand of love can assuage the wounds that sin has made. We are indebted to Bildad for the phrase, king of terrors, as applied to death, Job 18:14. Apart from Christ, it is a significant and appropriate term. Sin has made his monarchy terrible. Yet even he has met his conqueror, John 11:25-26; Hebrews 2:14; 1 Corinthians 15:26.\n\nThe ancients had a deep presentiment of the punishments which must overtake sin. Probably we make too little of them. The note of fear has almost died out of modern preaching. In this there is a marked divergence from Baxter’s Call to the Unconverted and from Jonathan Edwards’ Sinners in the Hands of an Angry God. But the doom of sin can only be terrible, especially for those to whom Calvary has pleaded in vain. A great atonement implies great sin, and this, a great penalty."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 19
+ }
+}

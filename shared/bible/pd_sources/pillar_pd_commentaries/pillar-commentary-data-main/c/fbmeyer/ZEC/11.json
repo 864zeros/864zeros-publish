@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEC",
+  "commentaryId": "fbmeyer",
+  "name": "Zechariah",
+  "commonName": "Zechariah",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Beauty and Bands -- Zechariah 11:1-17\n\nThe times were very dark when Zechariah felt called upon to act as shepherd to Jehovah’s harried flock. Rulers and priests were actuated by selfish greed and mutual antagonism. Three shepherds had already failed. After a brief effort Zechariah renounced the attempt. He broke his staff of Beauty, or Grace, Zechariah 11:10, r.v. margin, as if God’s tender love had withdrawn from its struggle with evil; and when he challenged the people to set a value on his services, they weighed him out thirty pieces of silver, the price of a slave. Thereupon he broke the other staff, disrupting the brotherhood between Judah and Israel.\n\nIn the following paragraph, Zechariah 11:15-17, there is an evident reference to the terrible reign of Antiochus whose cruelties led to the heroic uprising of the Maccabees. Five centuries afterwards Jesus was sent to gather the flock with the same result, Matthew 27:9-10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEC",
+  "chapter": 12
+ }
+}

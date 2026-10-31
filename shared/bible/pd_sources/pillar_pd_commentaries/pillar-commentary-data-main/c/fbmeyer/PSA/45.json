@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 45,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The King’s Wedding Song -- Psalms 45:1-17\n\nThough this psalm was probably composed to celebrate Solomon’s marriage with Pharaoh’s daughter, we must remember that it is distinctly applied to our Lord in Hebrews 1:8. See also Ephesians 5:23; Revelation 19:7. What wonder that the psalmist’s heart overflowed! It was bubbling up with good matter! His work was for a King! See Psalms 45:1, R.V., margin.\n\nThe Warrior, Psalms 45:2-5. The Word of God rides forth to war, followed by the armies of heaven. See Revelation 19:13. His glory is the Cross; His majesty is in His meekness; His prosperity, in His loyalty to truth. His arrows are tipped with love, and those who fall beneath them die that they may live. The King, Psalms 45:6-8. The oil of gladness is the anointing of the Holy Spirit, which we also may share. See 1 John 2:20; 1 John 2:27. The Bridegroom, Psalms 45:9-17. Clad in glistening raiment, the Church stands by her Lord, who claims her love and loyalty. But these are not inconsistent claims! By nature she was without beauty or dower; but she has won both in Him. See to it that you are not missing at that wedding-feast! Matthew 7:22-23."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 45
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 44
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 46
+ }
+}

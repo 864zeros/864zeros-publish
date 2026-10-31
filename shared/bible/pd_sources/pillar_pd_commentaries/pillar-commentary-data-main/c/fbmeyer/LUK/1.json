@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Beginning of the Good News -- Luke 1:1-12\n\nThe opening verses are very explicit. They are answer enough to those who question the story of our Lord’s supernatural birth and early years. Luke did not catch up the first legend that floated past him. He made searching inquiry. Doctor Weymouth renders the words in Luke 1:3, “having had perfect understanding of all things from the very first,” as, “After careful examination of the facts from the commencement.”\n\nThat our Lord should come into our race under special and supernatural conditions was as it should have been; but the historicity of this story largely rests on the careful investigations of “the beloved physician,” who was authenticated by Paul.\n\nThe priests were divided into 24 courses, and shared the Temple services for a week each, the work of each priest being decided by lot, 1 Chronicles 24:1-31. Sweeter than the incense which he sprinkled on the coals, was Zacharias’ own prayer, commemorated in the name given to his son, “God’s gracious gift,” Exodus 30:7-8; Revelation 8:3, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Forerunner -- Luke 1:13-25\n\nAs we open this Gospel we feel the wealth of a new age. The country was full of anarchy, misrule and wild passion, but there were many who “spoke often one to another,” Malachi 3:16. They were the quiet in the land, who “were looking for the redemption of Israel,” Luke 2:38.\n\nThe separation of the Nazirite was in ordinary cases temporary and voluntary; but Samson, Samuel and John the Baptist were Nazirites from their birth. As the leper was the living symbol of sin, so was the Nazirite of holiness. No alcohol, no razor, no ceremonial defilement, Numbers 6:1-27. The mission of the Baptist was to bring back the ancient spirit of religion and prepare Messiah’s way.\n\nNotice Gabriel’s great and noble position of standing before God, and compare 1 Kings 10:8; 1 Kings 17:1; Luke 21:36. Unbelief robs us of the power of testimony for Jesus. But when faith is in full exercise, the tongue of the dumb sings."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "The Promised Messiah -- Luke 1:26-38\n\nThe narrative is artlessly simple and natural and is its own complete vindication. No human genius could have invented it. Compare it, for instance, with all the ornate and fantastic pictures of the Annunciation by the great masters! That little children and wise men alike appreciate this story bespeaks its humanness and its divineness.\n\nIt is to the humble and childlike maiden that the supreme honor of womanhood is given. The choice was one of pure grace. The Creator-Spirit Himself wrought this divine miracle. The appearance of our Savior among mankind was the direct and immediate act of Deity, so far as His body was concerned, but as to His spirit, it was the voluntary emptying on His own part, of which Paul speaks, Philippians 2:7. “The word became flesh.” It was not a transient assumption of the appearance of humanity, but a real fusion of the divine and the human in that holy thing which was to be born. Here was the beginning of a new humanity, to be reproduced in all that believe, till the earth is filled with the “sons of God,” Romans 8:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "The Song of the Virgin Mother -- Luke 1:39-56\n\nZacharias lived in a Levitical city in the hill country of Judah. The narrative evidently implies that there had been no previous communication between the two women of what had happened. In their greeting both were led and taught of the Spirit.\n\nEvidently Mary was living in close familiarity with the Scriptures. Often she had been deeply moved by their radiant promises, and had pleaded that God would at last help His people and send the Savior. Now that this blessing had come to her, she voiced her thanks, not only under the express inspiration of the Holy Spirit, but in the familiar expressions of Scripture. No others would have sufficed. Compare Hannah’s song of praise, under similar circumstances, 1 Samuel 2:1-10. This song is called the Magnificat, that being the first word in the Latin version. Wonder and praise, humility and exultation, adoration and congratulation-these colors chase one another in the heart of this jewel."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 57,
+    "content": [
+     {
+      "text": "The Song at the Herald’s Birth -- Luke 1:57-80\n\nThis song is second only to that of Mary. It is a noble ode, tracing our Lord’s advent back to the early covenant of God with the fathers and anticipating its effects to the end of time.\n\nIt is wholesome to apply the song to ourselves and ask how far we have participated in these great blessings. Are we experiencing this daily salvation from our spiritual enemies, who hate us? Do we serve God without the slavish fear of the serf, and with the loyal allegiance of the child? Are all our days characterized by holiness toward God and righteousness toward man? Has the “dayspring from on high” visited our hearts and are our feet walking in the way of peace? Solemn questions these, but they must be faced."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 2
+ }
+}

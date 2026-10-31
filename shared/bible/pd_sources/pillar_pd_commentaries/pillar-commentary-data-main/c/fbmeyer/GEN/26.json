@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Isaac Is Blessed and Grows Rich -- Genesis 26:1-17\n\nThere was no harm in Isaac’s going to Gerar, as he had a distinct command to that effect, Genesis 26:2-3. But he does not seem to have been strong enough to stand the test of residence there. He might have received into his soul that sufficient grace which is always within the reach of tempted men; but, like so many of us, he looked down and not up. What could have been more reassuring than the promises of the divine presence and blessing! But he was guilty of incredible meanness to the woman who had come so far to be his wife, and of deceit to Abimelech. Notice how the sins of the fathers repeat themselves in the children!\n\nIt was a disappointing lapse from the glorious height on which he had stood when he yielded himself to God’s call on Mount Moriah! But we have experienced the same contrasts within ourselves. Now on the mount of transfiguration, asking to live there, and then in the valley, quarreling for pre-eminence. But, notwithstanding all, God’s loving-kindness does not fail. See Genesis 26:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Isaac’s Wells and Covenant -- Genesis 26:18-35\n\nIt is interesting to follow Isaac in his well-digging. Let us also dig wells and set streams flowing, which will bless men long after we have gone home to heaven. The first well was Esek-strife. The second, Sitnah-hatred. The third, Rehoboth-room. Thus is human life, too often, till it ends with Sheba-oath or covenant.\n\nBut even the outward repose to which life may attain, as the result of the struggles of earlier life, may be interrupted by anxiety and trial, caused by children or grandchildren. Esau’s marriage brought endless trouble in its train. And grief of mind will sow life with thorns. Let children take care lest they give needless pain to those who love them. That which hurts tender and true hearts is not likely to carry with it the blessing of God. As soon as a wandering soul gets back to God even his enemies make peace with him; he is at least secure from their hurt.\n\nSee Proverbs 16:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 27
+ }
+}

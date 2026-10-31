@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Self-willed Youth -- Judges 14:1-14\n\nTimnath lay just across the frontier, in the Philistine country. It was a bad match and the beginning of life-trouble. Young people cannot be too careful as to their first love-match. Pray over it before you let your heart go. Take the advice of parents and friends. Whatever you do, marry only “in the Lord.” For a Christian to marry one who is destitute of the divine life, is not only to set Christ’s law at defiance, but to incur the misery of perpetual discord. It is impossible to have perfect fellowship with one who is not agreed with you in your deepest nature, 1 Corinthians 7:39.\n\nThis young lion, on the path between the vineyards, seems to have been the means of awakening Samson to claim that divine strength which had awaited his appeal but until that moment had been undiscovered. May it not be that lions have been allowed to roar at you, that you might be driven back upon God, and compelled to avail yourself of those infinite resources which reside in the ever-living Savior?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "In Bad Company -- Judges 14:15-20; Judges 15:1-8\n\nWhat strong confirmation is afforded, by Samson’s experience, of the misery of a mixed marriage! This Philistine wife had no real love for him, and was more readily influenced by her own people than by her husband. How could she enter into his desire to emancipate Israel? To carry out his life-purpose of freeing Israel, He must break with her. Notice how this poor wife was visited with the very chastisement from which she hoped, by treachery, to save herself. Compare Judges 14:17 and Judges 15:6.\n\nSamson’s riddle is constantly being verified. We all have to encounter lions. Happy are we if we rend them in the power of the Holy Spirit! And have we not often discovered that the very sorrow, trial, or temptation which we dreaded most and which threatened to destroy us, has yielded the strength and sweetness, the meat and honey, which have enriched us for all after-time? Samson shared these with his mother and father. Let us never keep to ourselves those glorious lessons and results which we may have won in conflicts and sorrows that only the eye of God has witnessed. Let others share their benefit."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 15
+ }
+}

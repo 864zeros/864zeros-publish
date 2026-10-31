@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 42,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Restored to Right Relations with God -- Job 42:1-17\n\nIn complete surrender Job bowed before God, confessing his ignorance and owning that he had spoken glibly of things which he understood not. He had retorted to his friends that he was as good as they, but now he confessed, as did the Apostle after him, that he was of sinners the chief. It is one thing to hear of God, another to see and know Him close at hand. Well may we loathe our proud words and repent in dust and ashes, Job 42:6, r.v., margin.\n\nWhen Job was right with God, the Almighty took his side against his accusers and silenced them. It was through Job’s intercessions that they were forgiven. He himself was not fully forgiven till he could pray for them with loving forgiveness. But immediately he had done so God turned “the shadow of death into the morning” and gave him the double portion of the first-born. Thus men, when forgiven and restored, are heirs of riches greater than they had forfeited."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 42
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 41
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 1
+ }
+}

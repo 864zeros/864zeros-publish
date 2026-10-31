@@ -1,0 +1,16 @@
+{
+  "commentaries": [
+    {
+      "id": "calvin",
+      "name": "John Calvin Commentaries",
+      "englishName": "John Calvin Commentaries",
+      "language": "eng"
+    },
+    {
+      "id": "fbmeyer",
+      "name": "F. B. Meyer's Through the Bible Day by Day",
+      "englishName": "F. B. Meyer's Through the Bible Day by Day",
+      "language": "eng"
+    }
+  ]
+}

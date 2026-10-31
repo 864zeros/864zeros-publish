@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 111,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Works of the Lord -- Psalms 111:1-10\n\nA fresh series of psalms begins here, of which the dominant note is Hallelujah. This and the next are similar in construction, each being alphabetical; that is, the verses begin with the letters of the Hebrew alphabet. The first is a hymn of praise and thanksgiving at the contemplation of Jehovah’s works; and the second describes the righteousness which His chosen derive from Him. They are the work of an unknown minstrel, but anonymity is characteristic of the highest work. When a man has achieved a really noble and beautiful work, he is indifferent to the judgment and praise of his fellows.\n\nLet us, as Psalms 111:2 suggests, take pleasure in God’s works and seek them out. It is well to acquaint ourselves with some branch of natural study for this purpose. But the wealth of truth hidden in the precepts of the Word of God, Psalms 111:7, will still better repay us. God’s works in nature, providence, and grace will be our theme and joy for eternal ages. A veil, however, is now on our eyes and a lethargy on our tongues. What precious phrases are scattered through this psalm! Full of compassion; meat for his own ever mindful of his covenant; redemption sent to his people; the covenant commanded forever. What strong consolation for those who have fled for refuge! In the closing verses wisdom is used, as in Solomon’s time, of the intuitions of the pure heart."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 111
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 110
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 112
+ }
+}

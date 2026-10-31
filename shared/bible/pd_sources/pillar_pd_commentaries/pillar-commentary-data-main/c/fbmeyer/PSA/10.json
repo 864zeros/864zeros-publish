@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Will not Forget the Lowly -- Psalms 10:1-18\n\nThe malice of our foes, and especially of Satan, is powerfully described, Psalms 10:1-11. Now it is the venom beneath the serpent’s tongue, Psalms 10:7; now the bandit in ambush, Psalms 10:8; now the lion in his den, and again the hunter snaring his unsuspecting prey, Psalms 10:9. And all the while God is so quiet that it seems as if He has abdicated His throne.\n\nThen the oppressed begin to pray, committing themselves to Him, Psalms 10:12-15. May we not rise above the spirit of the Old Covenant and ask that the venomous evil which is in the heart of our foes may be exterminated, so that it leave no vestiges? And such prayer must be answered. Compare Psalms 9:19 with Psalms 10:16-17. True prayer begins with God and returns to Him. When He prepares the heart, Psalms 9:17, He prepares the answer, which exceeds all, 1 Corinthians 2:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 11
+ }
+}

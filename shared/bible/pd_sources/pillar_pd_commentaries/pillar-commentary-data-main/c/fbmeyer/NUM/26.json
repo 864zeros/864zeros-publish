@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "51-65, the Census of the Nation -- Numbers 26:1-4\n\nThe terrible visitation of the preceding chapter swept away the survivors of the old generation. See Psalms 95:11. This new census was very important, partly as showing the numbers to which Israel had grown, and partly as fixing families and clans, preparatory to their entrance into Canaan.\n\nThe census of the Levites was taken separately, and conducted on different principles. It showed an increase of 1000 since the numbering, forty years before, Numbers 3:39. That this was no greater was probably due to Korah’s rebellion.\n\nGod is ever writing up His people. Can we claim to be included in the divine enumeration and enrolled in the Lamb’s book of life? Compare Psalms 87:5-6; Revelation 3:5. We are born to a great inheritance, but must claim it by faith."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 27
+ }
+}

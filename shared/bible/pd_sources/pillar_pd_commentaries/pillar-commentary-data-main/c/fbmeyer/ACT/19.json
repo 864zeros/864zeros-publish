@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Holy Spirit Working in Ephesus -- Acts 19:1-12\n\nPaul had planted good seed at Corinth, and Apollos, in turn, had watered it, 1 Corinthians 3:6. Large numbers became his devoted followers. This, however, excited no jealousy in Paul. Apollos and he were only instruments through whom God was pleased to work.\n\nMeanwhile Paul had a ministry to fulfill in Ephesus. The twelve men mentioned had known only so much of the truth as had been revealed to the Baptist. They had felt the need of repentance and had heard of Christ as the Lamb of God; but of His resurrection and ascension and the gift of the Holy Spirit they were ignorant. Paul at once fixed on this lack as the source of their impotence. He seemed to say, “If you men had received the baptism of the Spirit, you would move this city.”\n\nIt was wise on Paul’s part to remove the disciples and his work to their own premises, which soon became famous throughout the city and indeed throughout the adjacent country. People who had come in to worship at the shrine of Diana gave themselves to Christ, and the Christian faith became disseminated through the province, Ephesus itself being mightily moved."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Power of Jesus’ Name -- Acts 19:13-29\n\nWhere God’s spirit is mightily at work, Satan is not far away. Here the enemy’s emissaries were mean enough to use the name of Jesus to get themselves a few more shekels. But the name is useless apart from the living power of the Spirit. It is terrible when the very demons flout those who profess religion. Who are ye? meant, “You do not count.” The demons knew Christ as the Holy One of God and Paul as His representative, but these exorcist Jews were hollow as sounding brass. Cast into the balances, they were altogether lighter than vanity, Psalms 62:9.\n\nThe outcome of all this was a mighty revival. The name of the Lord Jesus was magnified, and a searching work of grace led to the confession of sin and the cleansing of heart and life in many who had followed vain superstitions.\n\nSo deep was the work of God in that great city of Ephesus that the trade in charms and amulets, sold in the neighborhood of the temple, began to fall off. The crowd of worshippers in Diana’s temple was also perceptibly less. People who came in from the seaboard would find their way to the Apostle, who preached the gospel with a power that could not be withstood. Regenerated souls therefore, in turn, carried the gospel throughout the whole region."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "The Lawlessness of Selfish Greed -- Acts 19:30-41\n\nThe theater of Ephesus still stands, and the writer of these words has spoken in its mighty enclosure, from the very spot where this town clerk-the model of officialism-must have stood to address and calm the frenzied crowd. Paul never knew the fear of man, and was with difficulty prevented from endangering his life in his desire to turn the occasion to account. He probably refers to this incident when he says that he fought with wild beasts at Ephesus, 1 Corinthians 15:32. But he could have done no good in the face of such a turmoil. Be valorous, Christian soldiers, but be discreet! Do not throw yourselves from the mountain brow unless God clearly calls for it.\n\nIt is well to bear this scene in mind when the Apostle tells us of a “peace that passeth understanding” which stands sentry over heart and mind. His was not the sequestered life of a religious recluse; he was continually battling his way through a stormy sea. But it is in the floods of great waters that we learn what our Lord can be. Dying outwardly and in human estimation, yet we live, 2 Corinthians 4:16; the earthern vessel chipped and broken, but the heavenly treasure unimpaired, 2 Corinthians 4:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 20
+ }
+}

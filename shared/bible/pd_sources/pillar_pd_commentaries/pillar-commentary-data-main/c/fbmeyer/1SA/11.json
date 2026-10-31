@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The New King’s Good Beginning -- 1 Samuel 11:1-15\n\nA hundred years before, the Ammonites had been defeated by Jephthah; now they were beleaguering Jabesh-gilead. Help seemed impossible. But when the Spirit of God comes upon a man, what cannot that man do! That was Saul’s blessed experience. He aroused the country, after the manner of the Scottish chieftains with their fiery cross; then he sent a message of hope to the agonized city; and finally, as morning broke over the quiet pasture-lands, with his army of deliverance he burst upon the Ammonite camp.\n\nWas there not a connection between Saul’s previous self-control and his present victory? And must not that connection always be realized? Each of us must fight our fight against heredity, environment and habit; against self within and Satan without. The measure of our success will be the measure of our ability to help others. The mountain of temptation in the life of our Lord was followed in due course by His freeing the bodies and souls of men. In the hour of victory, Saul was borne to the throne. His success was the stairway to his coronation. We remember that when our Lord had destroyed and broken our foes, He took His seat, amid the acclaim of heaven, at the right hand of power."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 12
+ }
+}

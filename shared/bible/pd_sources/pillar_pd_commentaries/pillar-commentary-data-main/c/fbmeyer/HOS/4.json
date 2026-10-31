@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Like People, like Priest” -- Hosea 4:1-10\n\nThis chapter contains a terrible indictment against the whole kingdom. There was neither truth nor mercy in the land, but swearing, lying, and adultery. Apart from the restraints of religion, such would be the condition of human society today. Even atheists have been known to remove from mining-camps, where there was no semblance of religion, to places within the sound of the church-bell. Notice in Hosea 4:3 how man’s sin seems to affect even the animals. “The whole creation groaneth and travaileth… waiting for our adoption” as the recognized sons of God, Romans 8:22-23.\n\nRightly enough, the prophet remonstrates with the priests. They were drunken and sensual; they rejected the knowledge and rule of God; they promoted outward ritual in order to fatten on the offerings of the people; and as it was with them, so it became with the deluded worshipers. What a solemn lesson is contained in the proverb which originated in this passage, Like people, like priest! It is not what we teach, but what we are, that really affects men. The colorless rays of the sun, lying outside the prismatic band of color, give health."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "“Joined to Idols” -- Hosea 4:11-19\n\nThe prophet does not mince his words in describing the morals of his time. We are reminded of Bunyan’s words: “My original and inward pollution was my plague. It was always putting itself forth in me, and I was more loathsome in my own eyes than a toad, and I thought I was in God’s eyes also. Corruption bubbled up in my heart as naturally as water in a fountain, and I thought that everyone had a better heart than I.” Of course in Christ “we have redemption through His blood,” and that means more than forgiveness; it implies the deliverance of the soul from the love and power of evil. But if the soul of man refuses this, obstinately and persistently, a time arrives when God gives him up to reap as he has sown.\n\nThe greatest gift we can make to our generation is that of unblemished character. Sir Leslie Stephen, the brilliant agnostic, in his mature life, went back to the grave of an undergraduate, who had been his pupil and had died in early life without having distinguished himself in his studies or athletics, but had lived the Christian life with transparent simplicity and lovableness."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 5
+ }
+}

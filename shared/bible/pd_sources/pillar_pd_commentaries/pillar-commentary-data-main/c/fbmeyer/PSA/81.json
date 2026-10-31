@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 81,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sing unto God, the Deliverer -- Psalms 81:1-7\n\nIt is supposed that this psalm was composed for use at the great Hebrew festivals and especially at the Passover, which is referred to in Psalms 81:5-7; Psalms 81:10. See also 2 Chronicles 30:21. Let us remember to celebrate the redemption of the Cross, where our Paschal Lamb was sacrificed. We must celebrate, here and hereafter, the love that rescued us from the burden and the basket, at Sinai and Meribah. Baskets have been found in the sepulchral vaults at Thebes, and were doubtless used for carrying the clay or the manufactured bricks. They are symbols of the drudgery and slavery of sin, when we served a hard taskmaster, whose wages is death.\n\nIf we are in trouble, let us quote Psalms 81:7, call on God, and reckon on His delivering helpfulness. He will answer from “his thunder-covert.” He comes out of His secret place. Especially when the thunder of a broken law is in our ears, let us hasten to the Redeemer, who has fulfilled the law in our stead. Let us maintain by faith our standing in Him; then we shall be as they who look down from the high mountains on the thunder-storm at our feet."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "“If Thou Wouldest Hearken unto Me” -- Psalms 81:8-16\n\nGod wants our emptiness, which seems to Him like the gaping beak of the young fledgling, Psalms 81:10. Give me room! is his incessant appeal. It must be the wonder of eternity, and it will certainly be our regret when we come to review our life, that we have asked so little. Give me room! cries the river, as it comes with a rush to the plains. Give me room! cries the wind, as it searches into the narrow courts and alleys of the slums. Give me room! says the Spirit of God, as He breathes around the house of our heart, seeking by any tiny crack to enter.\n\nIn the closing Psalms 81:13-16, we have an enumeration of all the blessings which would be ours, if only we would open our mouths wide. God would constitute Himself as our champion in subduing our enemies-the temptations from without and the inward warrings of selfishness and passion. He would give us unbroken and enduring blessedness. He would allow us to eat of His flesh and drink of His blood, which are meat and drink indeed. He would surely satisfy us with the sweet honey of His love. Let us begin to claim these benefits!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 81
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 80
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 82
+ }
+}

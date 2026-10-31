@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Reaping the Whirlwind -- Hosea 8:1-14\n\nA conqueror was at hand who should subdue and punish the whole nation for taking its own course, irrespective of God, Hosea 8:4-8; for seeking foreign alliances which could bring only oppression in their train, Hosea 8:9-10; and for multiplying altars and fortresses which were destined to be destroyed, Hosea 8:11; Hosea 8:14. The circumstances referred to in this chapter seem to point to the reigns of Menahem and Uzziah, 2 Kings 15:19; 2 Chronicles 26:6-15.\n\nHosea 8:5 is very striking. Israel had renounced Jehovah for the likeness of a calf, and now in the misfortunes which had overtaken them, their calf had cast them off. What is it that you are putting in the place of God? Power, wealth, the help of influential friends? Sooner or later it will fail you. How different is the One who perpetually encourages us, saying, “I will not fail nor forsake thee,” and who promises to carry us to hoar hairs. The persistence with which Israel turned to other lovers left God no option but to put them back into a furnace such as Egypt had been, which would finally burn put their apostasy. Only when we walk before God with a perfect heart are we strong and happy. Once entangle yourself with expedients and alliances, and you lay yourself open to many sorrows."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 9
+ }
+}

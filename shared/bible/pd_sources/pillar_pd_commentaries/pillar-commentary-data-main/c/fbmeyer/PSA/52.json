@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 52,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Boaster and the Truster -- Psalms 52:1-9\n\nThe inscription of this psalm describes its origin. The contrast which it presents is full of instruction. The ungodly is often a mighty man in the estimation of the world. He boasts mischief; his tongue resembles the razor, which inflicts sharp and deep wounds; his words devour reputations, family-peace, and souls.\n\nWhat a contrast is presented by the humble believer who trusts, not in wealth which vanishes, but in God’s mercy which abides forever! Psalms 52:1-8. As the olives grew around the humble forest sanctuary at Nob, where the tragedy which called forth this psalm took place, and were hallowed by the shrine they encompassed, so the believer grows and is safe in loving fellowship with his Almighty Friend. Let us be among God’s evergreens, drawing our nutriment from Him, as the roots struck into the rich mold. The psalmist is so certain of vindication and so assured of the overthrow of wickedness that he celebrates God’s interposition before it takes place, and accounts it as being already accomplished."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 52
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 51
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 53
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Faithful Though Men Be Faithless -- Romans 3:1-8\n\nThe Jewish people had a great treasure entrusted to them for the benefit of the whole world. This position as stewards for mankind conferred upon them very special privileges, but also exposed them to searching discipline, if they should prove faithless. Some of these advantages are enumerated in Romans 9:4-5. But our failures cannot cancel God’s faithfulness to His covenant promises, 2 Timothy 2:13. We may always reckon confidently upon His steadfastness to His engagements, whether to the individual or to the nation. It is wonderful, Romans 3:5, how human sin has been a foil to God’s glory, eliciting qualities in His love which otherwise had been unknown; but this cannot excuse our sinfulness.\n\nIf this excuse were admitted, God would clearly have been unjust in punishing sin as He has done; and if that line of argument were maintained, it would be right to do evil, if good were always the outcome. Such an admission would open the door to all kinds of abomination, and the mere suggestion of such a conclusion to this argument ought to silence the objector and cover him with shame."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "All Justly under Judgment -- Romans 3:9-20\n\nA number of quotations are advanced-mostly from the Septuagint or Greek version of the Old Testament-establishing the hopeless evil of man’s condition. These apply, in the first place, to God’s peculiar people, the Jews; but if true of them, how terrible must be the condition of the great heathen world! Every mouth will be stopped and all the world brought in guilty before God, Romans 3:19. Various organs of the body are enumerated, and in each ease some terrible affirmation is made of inbred depravity. What need for salvation! What can atone for such sin, or cleanse such hearts, save the redeeming grace of God?\n\nLaw here is obviously employed in the wide sense of conscience as well as Scripture. It is God’s ideal held up before our faces, to show us from what we have fallen. The looking-glass is intended, not to wash the face, but to show how much it needs washing. You may commend your soap, and no one will use it; but if you reveal the discoloring filth, people will be only too glad to avail themselves of the cleansing power which otherwise they would neglect and despise. The way to fill the inquiry room is to hold up the divine standard before men’s consciences."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "All Freely Justified by Grace -- Romans 3:21-31\n\nFrom the universal need the Apostle turns to the all-sufficient remedy. The Law and the Prophets hinted dimly at justification by faith, but did not unveil it. God’s way of justification is to impute righteousness to the believer. He places us in that position in law, before proceeding by the Holy Spirit to bring us into the condition of holiness. The perfect day is imputed to the dawn, the perfect flower to the seed, the finished picture to the crude sketch. As soon as we trust in Jesus we are viewed as standing in Him and justified before the Law; but before us lies the great work of assimilation to His perfect likeness by the indwelling of the Holy Spirit.\n\nIt is sin to come short, Romans 3:23; and who among us has fulfilled his possibilities of godlikeness? Romans 3:24; Genesis 1:26-27. Though justification costs us nothing but the sacrifice of our pride, it has cost Christ His own blood, Romans 3:25. The propitiatory, or mercy seat, was the golden lid of the Ark which the high priest sprinkled with blood. See Hebrews 9:5. Faith has no room in her household for vaunting and boasting, Romans 3:27. The Law is best honored when the Lawgiver, dwelling within us, fulfills it through us."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 4
+ }
+}

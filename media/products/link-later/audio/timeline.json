@@ -1,0 +1,40 @@
+{
+  "total_duration": 39.074,
+  "scenes": [
+    {
+      "id": "scene1_hook",
+      "start": 0.0,
+      "end": 3.922,
+      "duration": 3.922,
+      "text": "Keeping forty browser tabs open just so you don't lose one good link?"
+    },
+    {
+      "id": "scene2_intro",
+      "start": 3.922,
+      "end": 12.504,
+      "duration": 8.582,
+      "text": "Watch this: click Save in LinkLater, jot a quick note, and click Send to Obsidian\u2014your note lands inside your local vault in one second."
+    },
+    {
+      "id": "scene3_feature",
+      "start": 12.504,
+      "end": 23.438,
+      "duration": 10.934,
+      "text": "Tag every link, filter unread versus read, export clean Markdown files free, or send your entire reading digest straight to Obsidian with zero cloud accounts."
+    },
+    {
+      "id": "scene4_pricing",
+      "start": 23.438,
+      "end": 33.796,
+      "duration": 10.358,
+      "text": "Saving pages, notes, tags, and Markdown file export are free forever\u2014with a one-time lifetime Obsidian Bridge unlock and zero monthly subscriptions."
+    },
+    {
+      "id": "scene5_cta",
+      "start": 33.796,
+      "end": 39.074,
+      "duration": 5.278,
+      "text": "Own your reading list. Get LinkLater at eight sixty-four zeros dot com."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # RowArchiver — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/rowarchiver/`  
 **Web Product Page:** https://864zeros.com/products/rowarchiver  
-**Pricing Model:** $12.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Automatically move completed, dated, or inactive rows to archive tabs. Speed up 
 👉 Try RowArchiver: https://864zeros.com/products/rowarchiver
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet RowArchiver — the fast, local-first solution that solves this without mes
 👉 Get RowArchiver: https://864zeros.com/products/rowarchiver
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $12.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -61,9 +61,9 @@ Enterprise Data Pipeline Subscription Paywalls — RowArchiver #Shorts
 ```
 * **YouTube Description:**
 ```
-You don't need a $100/month enterprise database sync just to archive closed rows from Google Sheets.
+You don't need a one-time lifetime nth enterprise database sync just to archive closed rows from Google Sheets.
 
-RowArchiver gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
+RowArchiver gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get RowArchiver: https://864zeros.com/products/rowarchiver
 

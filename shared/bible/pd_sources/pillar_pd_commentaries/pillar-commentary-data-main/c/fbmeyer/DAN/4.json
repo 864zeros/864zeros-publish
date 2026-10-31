@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Decree of the Watchers” -- Daniel 4:1-18\n\nNebuchadnezzar was in the zenith of his fame and power. His wars were over; his prosperity was assured. But he attributed all to his own wisdom and prowess. There was no thought of God, who had raised him up and given him everything. He must be humbled, if his soul was to be saved; and the whole living world must know that the Most High rules in the kingdom of men and gives it to whomsoever He pleases, Daniel 4:17. How gladly worldly men turn in hours of crisis to religious men, who draw upon unseen resources, and bear themselves with calm and unruffled peace, Daniel 4:9.\n\nThe greatness of the King is set forth under the figure of a mighty tree, filling the earth and sheltering the nations. There was only one Being who came down, combining in Himself watchfulness and holiness. In Daniel 4:17 we learn that no destiny is decided apart from the careful sifting of the celestial council-chamber. How august is this conception of the matured judgment of heaven. Where should we stand apart from the pleading of the great High Priest?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Nebuchadnezzar’s Humiliation -- Daniel 4:19-37\n\nBeyond doubt Nebuchadnezzar was one of the most illustrious princes the world has ever seen. The discoveries which Layard commenced among the mounds of the Euphrates valley have afforded striking evidences of his magnificence. Nebuchadnezzar was very conscious of his greatness, and as he looked from the eminence of his throne upon the world at his feet, his heart was lifted up with pride. It would be easy to cite proofs from the stones and bricks of Babylon to corroborate the general tenor of this story; for all the bricks of the ruins in that great province, so far as they have been examined, bear the name of Nebuchadnezzar; and several inscriptions have been found which, in their boastfulness, tally exactly with Daniel 4:30. But how marvelous the contrast between those proud and vaunting words, and the ascriptions of humble homage and praise in Daniel 4:34-37! If God could produce such a result on the haughty king of Babylon, is there any sinner He cannot subdue? May not the stern discipline to which some lives are subjected be intended to subdue their proud wills and bring them to similar confessions?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 5
+ }
+}

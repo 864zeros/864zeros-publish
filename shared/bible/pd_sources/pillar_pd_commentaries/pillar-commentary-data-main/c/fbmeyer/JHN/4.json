@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Satisfying an Eternal Thirst -- John 4:1-14\n\nOur Lord had no wish to precipitate the conflict with the Pharisee party, until He had finished His ministry to the people. He was the last and greatest of the prophets, as well as the world’s Redeemer. He therefore withdrew from the metropolis. Here is another must, John 4:4. There were three in the previous chapter and there are two in this. It was not necessary for Jesus to go through Samaria except for the purpose of mercy to one soul.\n\nJacob’s well is still visible, at the entrance of the green valley up which Sychar lay. Thus, that is, as a tired man would sit. It was noon. The time when women usually drew water was in the evening, but there were special reasons why this woman came by herself. The love of God overleaps narrow restrictions of sex, and sect, and nationality. Two conditions, John 4:10, precede our reception of God’s best gifts: we must know, and we must ask.\n\nThe living water is not a stagnant pond or well, but leaps up from a hidden spring. The woman keeps referring to the well, Jesus to the spring in the well. That alone can satisfy. Not the word, but the spirit in the word. Not the rite, but the grace it symbolizes. John 4:13 might serve as the inscription on all places of worldly amusement. Ponder that word become, John 4:14. You first drink for your own need, then you help to meet the need of others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The True Worship of the Father of All -- John 4:15-26\n\nWhat a train of memories our Lord’s words evoked! A spasm of remorse seized the woman, as she remembered the grave within her heart where her first love lay buried, trampled down by the wild crew of later passion. But why awaken such memories? Why open the cupboard and bid that skeleton step down? It could not be otherwise! Christ was there not to enter into an argument but to awaken the dormant conscience and save.\n\nThe woman evaded the sword thrust, but she realized that she was dealing with a master hand in the spiritual realm. Hence her question about worship. This led to one of the greatest sayings ever uttered on earth-that God is Spirit; that He is ever searching for true worshipers; and that He is indifferent to places and nationalities and method, that we cannot worship until we live in the spirit-realm and are willing to conform ourselves absolutely to truth-these thoughts have revolutionized the religious thinking of mankind. They have not yet fulfilled their mission, but they bear witness to the unique supremacy of the Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "The Rewards of Service -- John 4:27-38\n\nAs soon as Jesus opens the living spring within our hearts, we abandon our water pots. When we are saved, we must hasten with the tidings to those with whom we have sinned. First find Christ for yourself; then say, “Come and see.” He who knows us with an unchallengeable knowledge cannot be other than the Christ.\n\nThe disciples were naturally astonished when they came upon this interview. They might have asked the woman what she was seeking, and the Master why He was talking to her. But they were silent; the awe of God was upon them. Their natural care for their beloved leader led them to press on Him the viands they had purchased, but they were destined to learn that the soul may be nourished in obeying the will of God. The whiteness of the harvest appeared in the crowds that were coming down the valley; but at harvest time we are sometimes apt to forget the sower who passed home without seeing the result of his labor. That is not the divine method. The sower is rewarded for his share, as the reaper for his-they rejoice together."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "The Growth of Faith -- John 4:39-45\n\nThere are many ways of coming to know Christ. In some cases He comes to us, as to the woman by the well, and reveals Himself in a direct and illuminating manner, so that the soul can never afterward entertain a doubt as to his reality or its own experience. In other cases, the report of some associate or friend is the arresting and converting factor. Many Samaritans believed “because of the word of the woman.” There was a light in her eyes, a radiance in her face, a strength and dignity in her bearing that convinced them. There was yet another section of the Samaritans, who watched and listened, as Jesus tarried with them. They heard Him for themselves, and were convinced that He was indeed the Saviour, not of the Jews only, but of the whole world.\n\nOur Lord could not remain among this interesting people, for His mission was primarily to His own nation. He therefore proceeded on His way to Galilee, not to Nazareth where He was so well known, but as appears in the following paragraph, to Cana of Galilee, where He was welcomed because of the marked impression that He had already made in the metropolis."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "The Reward of Trusting Jesus’ Word -- John 4:46-54\n\nThe particular interest of this beautiful incident is in John 4:50. The father had such faith in our Lord’s promise that he started off at once on his homeward journey, needing no further assurance that all was well. It would appear, indeed, that he went to some inn or caravansary on his way back, because there would have been ample time between the seventh hour (one o’ clock in the day) and nightfall to get from Cana down to Capernaum. Why should he hasten! The boy was living, doing well, since the Master had said so. He was sure of it and thanked God for it and gladly took the opportunity of a quiet night’s rest, to sleep off the effects of long watching, intense anxiety, and the swift journey to Cana.\n\nWhen his servants met him with the news that the boy was healed, he inquired at what hour the change had taken place, merely to corroborate his own conclusions. What a happy family that was! This nobleman may have been Chuza, Herod’s steward, Luke 8:3, or Manaen, Herod’s foster-brother, Acts 13:1. Why should we not have the same simple faith in the word of God’s promise!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 5
+ }
+}

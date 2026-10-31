@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“I Know That My Redeemer Liveth” -- Job 19:1-29\n\nIn Job’s melancholy condition his friends seemed only to add vexation and trial. The hirelings who sojourned in his household looked on him with disdain; his kith and kin were alienated; it seemed as if the Almighty had an antipathy against him. So great was his physical suffering that the only sound part of his body seemed to be the skin of his gums and his teeth, Job 19:20 (that is, all he could do was to speak). Then he suddenly breaks into the majestic utterance of Job 19:25-26.\n\nAmong the Bedouins the institution of the goel-or kinsman representative-still exists for the avenging of wrong done to a kinsman: and Job believed that his divine Goel would one day stand on the earth for his vindication. Yes, and more, he felt that somehow he, too, would arise from the very grave to hear that vindication spoken by those just and true lips. Above all, he would see God Himself standing with him-whom I… shall see, on my side, Job 19:27, r.v."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 20
+ }
+}

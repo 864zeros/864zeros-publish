@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Vanity and Selfish Luxury Condemned -- Isaiah 3:13-26; Isaiah 4:1-6\n\nThis paragraph opens with the majestic figure of Jehovah Himself, who arises to judge the misrulers and plead the cause of the poor. The prophet enumerates the trinkets of the women of Israel, who had given themselves up to luxury and corruption. Woman is the priestess and prophetess of the home and religion, and when she forsakes the level of spiritual influence for that of physical adornment, the salt has lost its savor and the whole commonwealth suffers. The manhood of a land is lost, morally and spiritually when woman falls from her high estate; and there could be no hope for Jerusalem until the divine fire had consumed the filth of her daughters, and the oppressive selfishness of her sons. Then once more each home in Jerusalem would have the same blessed signs of the divine presence as had once been granted to the Tabernacle-the shadowing cloud by day and the gleam of the Shekinah-fire by night. Let us claim these for our homes also!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 5
+ }
+}

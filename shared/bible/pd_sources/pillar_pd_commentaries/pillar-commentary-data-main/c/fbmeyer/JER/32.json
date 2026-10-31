@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Shepherds That Mislead God’s Flock -- Jeremiah 23:1-12; Jeremiah 23:1-40; Jeremiah 24:1-10; Jeremiah 25:1-38; Jeremiah 26:1-24; Jeremiah 27:1-22; Jeremiah 28:1-17; Jeremiah 29:1-32; Jeremiah 30:1-24; Jeremiah 31:1-40; Jeremiah 32:1-44\n\nIt is God’s purpose to care for His people through shepherds (pastors) who are responsible to Him. Jesus our Lord is the Branch into which we may be grafted. He is our King who saves us and clothes us with His own spotless righteousness. God finds us in Him, Philippians 3:9. Because He reigns, we are saved and dwell in safety. When we are brought into contact with false shepherds, whether the failure be in doctrine or example, let us ask for the broken heart of Jer 23:9.\n\nGod is everywhere present; as the latter paragraph indicates, He is near at hand to overhear the blasphemy of those who deride religion, and to be a very present help in time of trouble. If He fills heaven and earth, can He not fill thy heart? If His Word is like fire, let it cleanse thee! If it is as a hammer, let it pulverize thy pride! Let those of us who essay to teach and preach, not steal our words from our neighbors, or utter our own, but receive them from the source of all truth."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 35
+ }
+}

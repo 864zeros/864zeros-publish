@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Triumphing of the Wicked” -- Job 20:1-29\n\nZophar is the man who least of all understood Job. The rebuke which Job had just administered, Job 19:28-29, has vexed him, so that he speaks with impatience.\n\nThe theme of Zophar’s speech is the brevity of the prosperity of the wicked. He claims that this is an acknowledged principle, Job 20:4; then proceeds to show it by many striking metaphors.\n\nHypocrite, Job 20:5, is “godless” in the r.v.; and in describing the prosperity and speedy destruction of such, Job 20:5-11, he manifestly applies his words to Job. He refuses to pay any heed to Job’s protestations of innocence. His theology was: God is righteous; he blesses and prospers the good, and destroys the wicked. Job was being destroyed; therefore Job was wicked. Thus often do we in our ignorance misunderstand God and cruelly misjudge man.\n\nZophar descends to more particulars. He describes the pleasure which the ungodly has in sin, Job 20:12-13; how his sin becomes his punishment, Job 20:14-22; and how terrible destruction at last visits him, Job 20:23-28, as his portion from God, Job 20:29. Though in all this Zophar was wrong in applying it to Job’s case, and equally wrong in supposing that this life is the place of judgment for the wicked, yet it is important to remember that he was right in seeing a very real connection between sin and punishment. However sweet sin may be to the taste, it is sure to become bitter as the gall of asps ere long. The “pleasures of sin” are but for a season."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 21
+ }
+}

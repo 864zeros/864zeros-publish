@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rebekah Plans to Cheat Isaac -- Genesis 27:1-17\n\nThis chapter narrates a sad story of the chosen family. Esau is the only character which elicits universal sympathy. Isaac appears to have sunk into premature senility. It seems hardly credible that he who had borne the wood for the offering up Mount Moriah, and had yielded himself so absolutely to the divine will, would have become so keen an epicure. He could only be reached now through the senses. Perhaps this was due to the prosperity and even tenor of his life.\n\nIt is better, after all, to live the strenuous life, with its uphill climb, than to be lapped in the ease of the valley. The birthright had been already promised to Jacob, and there was no need for him to win it by fraud; and Rebekah was truly blameworthy in that she deceived her husband, showed partiality toward her children, and acted unworthily of herself. Who would have expected that out of such a family God was about to produce the religious leaders of the world! Pharaoh would one day crave a blessing from those kid-lined hands!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Jacob Gets Esau’s Blessing -- Genesis 27:18-29\n\nIt is better not to attempt to justify Jacob in this act of treachery; but we may learn the deep and helpful lesson, that if God were able to make a saint out of such material as this, He also can take our poor lives with all their sin and failure and make something of them for His glory. Notice how one lie led to another! Few who enter on a course of deception stop at one falsehood; and how terrible it was to add blasphemy to lying, as when he said that God brought him his quarry in the hunt. Luther wonders how Jacob was able to brazen it out, adding, “I should probably have run away in terror and let the dish fall.” Rebekah kept her son’s garments well perfumed with the aromatic plants of Palestine, and their odor awoke the sleeping poetry and fire of the aged father. He compared them to a field of Paradise, filled with the sweet presence of God. Let us see to it that we carry everywhere the fragrance of Christ. See 2 Corinthians 2:15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Esau’s Grief and Anger -- Genesis 27:30-45\n\nEsau apparently had awakened to realize the value of the blessing of the birthright which he had treated so lightly. His exceeding great and bitter cry expressed the anguish of one who awakes to discover that he has forfeited the best for a trifle. But obviously, he was only being held to his own original contract with Jacob. There are similar events in all lives when we take some irrevocable step under the sway of evil passion, and it affects the whole future. There is “no place for repentance” -i.e., no opportunity of altering the decisive effect, of that act. See Hebrews 12:17.\n\nWe may obtain some lower and inferior blessing, as Esau did, acquiring something of the fatness of the earth and the dew of heaven, living by our sword, and finally, after long years, shaking the yoke from our neck, but we can never be what we might have been! We can never undo that moment of sowing to the flesh. See Galatians 6:7-8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 46,
+    "content": [
+     {
+      "text": "Jacob Sent Away from Home -- Genesis 27:46; Genesis 28:1-9\n\nEsau deferred the execution of his murderous purpose, because of the near approach, as he supposed, of his father’s death. But Isaac lived for forty years after this. His secret purpose, however, became known to Rebekah. See Proverbs 29:11. The ostensible reason for Jacob’s expatriation which Rebekah gave her husband was not the real one. He was sent to Haran, not primarily for a wife, but to escape his brother.\n\nDoes not this constant duplicity explain the reason of Rebekah’s heart-weariness? It seems probable that she never saw her favorite son again. The benediction already pronounced on Jacob was repeated with greater amplitude and tenderness as he left his father’s tent. Sad as he was in the inevitable wrench, the star of hope shone in the sky, beckoning him onward. It was necessary that he should be taken from under his mother’s influence into that greater world, where, through pain and disappointment, he should become a prince with God. Often our nest is broken up that we may learn to fly."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 28
+ }
+}

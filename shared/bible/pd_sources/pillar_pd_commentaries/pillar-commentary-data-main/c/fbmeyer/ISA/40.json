@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 40,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Cry of Jehovah’s Herald -- Isaiah 40:1-8\n\nVoices are ever speaking to us from the infinite; let us heed them.\n\n(1.) There is the voice of forgiveness, Isaiah 40:2. Are you truly penitent? Have you put away your sin? Have you meekly accepted the chastening rod? Then be of good cheer, this promise is for you. The time of hard service as a conscript (the literal rendering) is accomplished, your iniquity is pardoned, you have received double for all your sins. God speaks comfortably to your heart, that you may be able to comfort others as He does you, 2 Corinthians 1:4.\n\n(2.) The voice of deliverance, Isaiah 40:3-4. Between Babylon and Canaan lay a great desert of thirty days’ journey with mountain ranges, yawning gulfs. But when God arises to deliver His children, “who cry day and night unto Him,” crooked places straighten out, rough ones become smooth, and mountains disappear.\n\n(3.) The voices of decay, Isaiah 40:6-8. The one herald, speaking from his observation of human mortality, describes man and his glory as the “flower of the field.” But in contrast to this, another voice seems to break in with the eternal word of God, which stands forever. The precepts, promises, and invitations of the gospel are as sure as God’s throne, 1 Peter 1:25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Creator and Ruler of All the Earth -- Isaiah 40:9-17\n\nZion is bidden to climb the highest mountain within reach, and announce the advent of the Savior-God. When all eyes are turned to behold Him, expecting a mighty hero, lo, a shepherd conducts His flock across the waste lands, gathering the weakly lambs to His bosom and gently leading the ewes with their young. Do not be afraid of God; He has a shepherd’s heart. Words can never tell out all His tenderness; His pitying, understanding love.\n\nWe are next conducted to the Great Sea, Isaiah 40:12. Remember, says the prophet, that God’s hands are so strong that the ocean lies in them as a drop of water in man’s. He can place mountains in the scales He holds. So great is He that if all Lebanon’s forests were laid as wood on His altar, and all its beasts were consumed as burnt sacrifices, it would not be sufficient to set forth Page 68 His praise. And this God is our God forever and ever. The Creator of the ends of the earth is our Father."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "The Everlasting God the Giver of Strength -- Isaiah 40:18-31\n\nDay changes to night, and as the twilight deepens, the stars come out in their myriads, Isaiah 40:26. To the poetic eye of the watcher, they appear as a vast flock following the shepherd, who calls each by its name. Not one falls out of its place, or is lacking. Will Jehovah do so much for stars and nought for men? Will He not have a name for each? Will He not guard and guide each? If He has sustained the orbs of light in their mighty rounds, will He fail the poor soul that clings to His feet?\n\nThey that wait on God change their strength. In their earliest days they rely on the energy and vigor of youth, on their blameless, unstained character, in the consciousness of their glorious manhood; but as years pass, they come to count all these as refuse in comparison with Jesus Christ the Lord, Philippians 3:8. Notice the order in Isaiah 40:31! At first sight we should have expected that it would advance from walking to running, and so to flying. But that order is reversed. It is more difficult to walk than to mount! Every cyclist will tell you that the hardest task is to keep your cycle at walking pace."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 40
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 35
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 41
+ }
+}

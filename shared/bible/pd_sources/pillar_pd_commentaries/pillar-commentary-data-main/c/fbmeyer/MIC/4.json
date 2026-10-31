@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MIC",
+  "commentaryId": "fbmeyer",
+  "name": "Micah",
+  "commonName": "Micah",
+  "numberOfChapters": 7
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Promise of Peace -- Micah 4:1-13\n\nIt is not improbable that Isaiah, Micah 2:1-4, and Micah quoted an older prophecy, which in its fullness, is yet to be fulfilled. In the millennial age Israel, in her restored beauty, will be the center of a renovated world. That restoration will bring great glory to God and blessing to mankind, Romans 11:15. The time center of unity is not to be found in creeds or systems, but in the impulse of a common desire after God and common worship. When men have found their unity in God they will renounce war; and the home-life will become the preservative of society, Micah 4:4. Micah 4:6-7 foretell the gathering of Israel to their own land.\n\nBabylon probably stands not only for the literal nation by which the Jews were carried into captivity, but for all of the Gentile nations that have afflicted the Chosen People. Notice that God’s deliverances discover and help us in the midst of our direct affliction."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MIC",
+  "chapter": 5
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "15-34, an Everlasting Love -- Jeremiah 31:1-9\n\nIt is all-inclusive: all the families of Israel. It is patient under provocation: during forty years it bore with Israel. It has a drawing-power which overcomes our obduracy. It longs to restore the old joyous confidence and freedom: thou shalt go forth in the dances of them that make ready. It will never rest till it has broken down misunderstandings and alienation, so that even Ephraim shall propose to worship at Mount Zion. It meets the heart: they shall come with weeping.\n\nIt sets the blind by rivers of waters, and the blind and the lame in a straight way. The effect of such love is still further described in Jeremiah 31:18-19 we bemoan our sins with profound remorse. These words, which were so sweet to the prophet, Jeremiah 31:26, are yet to be fulfilled; but in the meantime the covenant is for us all and each one may claim the fulfillment of the I wills of Jer 31:33-34. See Matthew 26:28; Hebrews 8:8."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 32
+ }
+}

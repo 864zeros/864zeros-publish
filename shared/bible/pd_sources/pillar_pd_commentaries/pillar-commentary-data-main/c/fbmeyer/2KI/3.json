@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "An Unwise Alliance -- 2 Kings 3:1-12\n\nJehoram’s reign over the ten tribes was marked by some measures of reform. He discountenanced Baal worship; though, in defiance of the Second Commandment, he clave to Jeroboam’s calves. Therefore Jehoshaphat was ill-advised to enter into alliance with him. The servant of Jehovah had no right to say to such a man, “I am as thou art,” etc. He had said this before, and narrowly escaped with his life. It was very bad, therefore, to repeat a policy which was already discredited. See 1 Kings 22:4.\n\nHow often we rush into alliances and undertake engagements without prayer for guidance, and begin to seek God only when faced with disappointment! In the day of sore trouble, when it seemed likely that kings and troops would perish in the waterless desert, Judah sought divine help. But it was foolish and wrong to charge the Lord with their disasters, as in 2 Kings 3:10. When the curtains of the night are drawn, sailors steer by the stars; and often it is the pressure of dark trials that drives men to seek the advice and help of the servants of God. They know where to find such helpers, when they want them, though in their prosperity they ignore and deride. He who is willing to pour water, as a servant, will not be inflated with pride when three kings visit him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Mesha’s Defeat and Desperate Sacrifice -- 2 Kings 3:13-27\n\nJehoshaphat, though erring, was still God’s child, and deliverance came to him. The heights of our senseless folly and the depths of our waywardness will not succeed in severing us from God’s love. Elisha used the very words of Elijah, 2 Kings 3:14 and 1 Kings 17:1. Notice how men of different mold and mission, the Elijahs and the Elishas, derive their inspiration and strength in the same way. As a great Christian general put it, “Every morning I stand at attention before my Maker.” Note the effect of music in soothing the soul! 2 Kings 3:15.\n\nIn all God’s gifts there is need for our cooperation. He alone can send the water, but we must trench the ground. Our expectant faith creates the capacity to receive God’s gifts; but when we have gone to our limit and the valley is filled with ditches, He is able to do exceeding abundantly beyond. The answer came at the hour of morning prayer, and probably at the prophet’s intercession, 1 Kings 8:44. God’s answers are often too deep and inward to give outward sign. There is sound of neither wind nor rain; but our prayers are answered to the full. Many of the points in this narrative-notably 2 Kings 3:27 -have been corroborated by the recent explorations in Moab."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 4
+ }
+}

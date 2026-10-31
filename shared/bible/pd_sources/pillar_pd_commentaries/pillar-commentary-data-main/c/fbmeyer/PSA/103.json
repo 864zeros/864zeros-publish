@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 103,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord’s Abundant Mercies -- Psalms 103:1-12\n\nDavid’s name heads this peerless psalm, which expresses, as none other, the soul of the universal Church and of the individual Christian. Notice the present tenses throughout these verses. God’s tender dealings run parallel with our lives. He is never weary nor exhausted. When once He begins, He keeps on. Let us enumerate the blessings that He gives in such unbroken abundance, and as the fingers tell the successive beads, praise Him: forgiveness; healing, Exodus 15:26; redemption from perils and accidents, seen and unseen; the crowns that He places on our unworthy heads; entire satisfaction, Psalms 36:8; Isaiah 58:11; perennial youth.\n\nIt was a proverb among Orientals that the eagle literally grows younger. This is the psalmist’s reference in Psalms 103:5. For us it means that the life which is fed from the eternal springs is eagle-like in royal strength and sunward flight. Ways or plans are revealed to the inner circle; the ordinary congregation knows only acts. The Father does chide, but only till we put sin away. Conceive the infinite spaces of East and West-such is the distance of forgiven sin from us. It is impossible that the blame or curse of it should ever return upon the redeemed soul."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Everlasting Loving-Kindness -- Psalms 103:13-22\n\nThe psalmist comes from the far-reaching sky to the homely image of a father’s pity. God is a great King, the mighty Creator, but the Spirit witnesses that we are His children and teaches us to say, Abba, Father. The idea of dust is that of frailty. Made of dust and fragile as an earthen vessel, man by his weakness appeals to Jehovah’s compassion. The thought of frailty and helplessness is still further impressed by the figure of the fading flower, scorched by the hot desert wind. But, by force of contrast, the psalmist passes from man’s brief span of life to God’s eternal years.\n\nAnd God’s love is as His life. Because God is eternal, His love is eternal. When once He loves, He loves always; He never wearies, never cools, and never lets go. A parent who fears God may leave a legacy of priceless worth to his children’s children. See Psalms 103:17.\n\nFrom Psalms 103:19 to the end, the psalmist pulls out all the stops in the great organ of existence. Angels and hosts of other intelligent beings who perform the Lord’s will, all his works animate and inanimate, all saints, all souls, stars and suns, oceans, and mountains-all must join the “Hallelujah Chorus.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 103
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 102
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 104
+ }
+}

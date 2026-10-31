@@ -13,18 +13,135 @@
     "count": 13
   },
   "verses": [
-    { "book": "Philippians", "chapter": 1, "citation": "Philippians 1:6", "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:", "plain": "I'm confident of this: that the one who began a good work in you will carry it on to completion until the day of Christ Jesus." },
-    { "book": "Philippians", "chapter": 1, "citation": "Philippians 1:21", "text": "For to me to live is Christ, and to die is gain.", "plain": "For to me, to live is Christ, and to die is gain." },
-    { "book": "Philippians", "chapter": 2, "citation": "Philippians 2:3", "text": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.", "plain": "Do nothing out of selfishness or empty pride, but in humility consider others better than yourselves." },
-    { "book": "Philippians", "chapter": 2, "citation": "Philippians 2:5", "text": "Let this mind be in you, which was also in Christ Jesus:", "plain": "Let the same mindset be in you that was in Christ Jesus." },
-    { "book": "Philippians", "chapter": 2, "citation": "Philippians 2:13", "text": "For it is God which worketh in you both to will and to do of his good pleasure.", "plain": "For it is God who works in you, both to want to do and to actually do what pleases him." },
-    { "book": "Philippians", "chapter": 3, "citation": "Philippians 3:13", "text": "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,", "plain": "Brothers and sisters, I don't consider that I've arrived yet. But this one thing I do: forgetting what is behind and reaching for what is ahead," },
-    { "book": "Philippians", "chapter": 3, "citation": "Philippians 3:14", "text": "I press toward the mark for the prize of the high calling of God in Christ Jesus.", "plain": "I press on toward the goal, to win the prize of God's heavenward calling in Christ Jesus." },
-    { "book": "Philippians", "chapter": 4, "citation": "Philippians 4:4", "text": "Rejoice in the Lord alway: and again I say, Rejoice.", "plain": "Rejoice in the Lord always. I'll say it again: rejoice!" },
-    { "book": "Philippians", "chapter": 4, "citation": "Philippians 4:6", "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.", "plain": "Don't be anxious about anything, but in everything, by prayer and petition, with thanksgiving, bring your requests to God." },
-    { "book": "Philippians", "chapter": 4, "citation": "Philippians 4:7", "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.", "plain": "And the peace of God, which is beyond all understanding, will guard your hearts and minds in Christ Jesus." },
-    { "book": "Philippians", "chapter": 4, "citation": "Philippians 4:8", "text": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.", "plain": "Finally, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things." },
-    { "book": "Philippians", "chapter": 4, "citation": "Philippians 4:13", "text": "I can do all things through Christ which strengtheneth me.", "plain": "I can do all things through Christ, who gives me strength." },
-    { "book": "Philippians", "chapter": 4, "citation": "Philippians 4:19", "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus.", "plain": "And my God will supply all your needs according to his riches in glory in Christ Jesus." }
+    {
+      "book": "Philippians",
+      "chapter": 1,
+      "citation": "Philippians 1:6",
+      "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:",
+      "plain": "I'm confident of this: that the one who began a good work in you will carry it on to completion until the day of Christ Jesus.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a quiet riverside prayer place shaded by willow trees outside Philippi",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 1,
+      "citation": "Philippians 1:21",
+      "text": "For to me to live is Christ, and to die is gain.",
+      "plain": "For to me, to live is Christ, and to die is gain.",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a runner's finish-line stone marker on an ancient stadium track",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "citation": "Philippians 2:3",
+      "text": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+      "plain": "Do nothing out of selfishness or empty pride, but in humility consider others better than yourselves.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in abarred stone window opening onto a clear morning sky",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "citation": "Philippians 2:5",
+      "text": "Let this mind be in you, which was also in Christ Jesus:",
+      "plain": "Let the same mindset be in you that was in Christ Jesus.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in abarred stone window opening onto a clear morning sky near a quiet riverside prayer place shaded by willow trees outside Philippi (philippians 2:5 motif: mind)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 2,
+      "citation": "Philippians 2:13",
+      "text": "For it is God which worketh in you both to will and to do of his good pleasure.",
+      "plain": "For it is God who works in you, both to want to do and to actually do what pleases him.",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in a quiet riverside prayer place shaded by willow trees outside Philippi",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "citation": "Philippians 3:13",
+      "text": "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,",
+      "plain": "Brothers and sisters, I don't consider that I've arrived yet. But this one thing I do: forgetting what is behind and reaching for what is ahead,",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a runner's finish-line stone marker on an ancient stadium track",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 3,
+      "citation": "Philippians 3:14",
+      "text": "I press toward the mark for the prize of the high calling of God in Christ Jesus.",
+      "plain": "I press on toward the goal, to win the prize of God's heavenward calling in Christ Jesus.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in abarred stone window opening onto a clear morning sky near a quiet riverside prayer place shaded by willow trees outside Philippi (philippians 3:14 motif: press)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "citation": "Philippians 4:4",
+      "text": "Rejoice in the Lord alway: and again I say, Rejoice.",
+      "plain": "Rejoice in the Lord always. I'll say it again: rejoice!",
+      "visual_prompt": "a kneeling robed figure seen strictly from the back in quiet prayer beside a rough stone ledge in a quiet riverside prayer place shaded by willow trees outside Philippi",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "citation": "Philippians 4:6",
+      "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+      "plain": "Don't be anxious about anything, but in everything, by prayer and petition, with thanksgiving, bring your requests to God.",
+      "visual_prompt": "an empty clay bowl resting on a rough stone ledge beside a trickling spring in a runner's finish-line stone marker on an ancient stadium track",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "citation": "Philippians 4:7",
+      "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.",
+      "plain": "And the peace of God, which is beyond all understanding, will guard your hearts and minds in Christ Jesus.",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in a quiet riverside prayer place shaded by willow trees outside Philippi near a runner's finish-line stone marker on an ancient stadium track (philippians 4:7 motif: peace)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "citation": "Philippians 4:8",
+      "text": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.",
+      "plain": "Finally, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is admirable — if anything is excellent or praiseworthy — think about such things.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a quiet riverside prayer place shaded by willow trees outside Philippi near a runner's finish-line stone marker on an ancient stadium track (philippians 4:8 motif: finally)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "citation": "Philippians 4:13",
+      "text": "I can do all things through Christ which strengtheneth me.",
+      "plain": "I can do all things through Christ, who gives me strength.",
+      "visual_prompt": "an earthenware water pitcher resting on a rough stone bench in a quiet riverside prayer place shaded by willow trees outside Philippi near a runner's finish-line stone marker on an ancient stadium track (philippians 4:13 motif: things)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philippians",
+      "chapter": 4,
+      "citation": "Philippians 4:19",
+      "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus.",
+      "plain": "And my God will supply all your needs according to his riches in glory in Christ Jesus.",
+      "visual_prompt": "a stacked fieldstone cairn beside a winding footpath in abarred stone window opening onto a clear morning sky near a quiet riverside prayer place shaded by willow trees outside Philippi (philippians 4:19 motif: supply)",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

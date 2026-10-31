@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Multitude before the Throne -- Revelation 7:1-10\n\nBefore times of unusual trial God prepares for the safety of His people. See Genesis 7:1; Genesis 19:16; Exodus 12:13; Ezekiel 9:3-5; Matthew 24:15-16. What a majestic conception this is and how comforting the thought that the winds are controlled by angels, and that the storms which sweep earth and heaven must obey the mandate of eternal love! God’s people are not always saved from trial, but they are kept safe in it. We are sealed when the divine likeness is stamped on our characters, Ephesians 1:13. Those that have that likeness also enjoy the earnest of heaven in their hearts, 2 Corinthians 1:21-22.\n\nThe definiteness of the number sealed indicates the perfectness and greatness of this first fruit sheaf of souls. If the first sheaf be so full and heavy, what will not the harvest be! See Revelation 14:4. Beyond human count in number; representing every country under heaven; spotless in character; victorious in their conflict with evil; ascribing all glory to the Lamb as the result of His travail of soul. The tribe of Dan is omitted but perhaps reappears in Revelation 21:12. Does this mean that some will be saved as by firebrands plucked from it by the grace of God?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Joyous Service of the White-robed Throng -- Revelation 7:11-17\n\nNo nation has a monopoly of saints. No tribe is unrepresented. No language is so rude that its children may not learn the speech of heaven. The theology of heaven attributes salvation to God as its source through Jesus as its medium. Palm branches symbolize victory and the white robes, transfiguring purity. “His raiment became white and dazzling,” Luke 9:29, r.v. Thus it was spoken of the transfigured Christ. Notice that sevenfold doxology! The visions of the saved shall awaken new joy in the angelic hosts, but how much more in the heart of Christ!\n\nWhen we stand face to face with an inexplicable mystery, how comforting it is to be able to say in perfect faith, Thou knowest! Tribulation, whether it stands for our private afflictions or for some great crisis of martyrdom, is left behind forever. It should never be forgotten, however, that we are not saved by our sufferings but by His. The blessedness of heaven consists in the unveiled presence of God, in unbroken service, and in safety because God will spread His tabernacle over us. This exquisite description of the future life consists largely of negatives, because the positive defies human speech. No scorching trial, no fear, no want, no finality, because the Lamb will conduct our eternal progress deeper and deeper into heaven."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 8
+ }
+}

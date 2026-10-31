@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Inveterate Idolatry -- Judges 10:1-16\n\nThe scene is now removed to the tribes across the Jordan, especially those settled, in Gilead and its vicinity. The children of Ammon were the aggressors, and acquired such boldness as even to cross the Jordan and fight against Judah and Ephraim. “Israel was sore distressed.” Almost spontaneously we say, “Surely it served them right.” It seems incredible that, after all they had suffered on account of their idolatry, they should again relapse to Baal, and add further the gods of Zidon, of Moab, of Ammon and of Philistia. If Jehovah had finally cast them off, could they have complained? But as the psalmist puts it in his touching words, “God regarded their distress and heard their cry.” See Psalms 106:3, etc.\n\nAll these things were written for our example and instruction. Israel did not forsake God more often than we have done. Life has been full of fits and starts, of backsliding and recommencement, of sin and repentance. We have nothing to say against Israel; let us look at home, and search our hearts, and thank the Lord that His mercy endureth forever, Psalms 136:1-26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Turning to a Rejected Leader -- Judges 10:17-18; Judges 11:1-11\n\nThe life of Jephthah is a great consolation to those whose birth has been irregular. The sin of his parents was not allowed permanently to injure his career. He is also distinctly mentioned in Hebrews 11:1-40 as one of the heroes of faith. See Ezekiel 18:14-17.\n\nDriven from his home, Jephthah took to the life of a bandit-chieftain, probably in much the same fashion as David in after-years when he protected, for payment, the cattle of the Hebrew grazers from Ammonite forays. See 1 Samuel 25:15. Jephthah’s wife apparently had died; but his sweet and noble daughter grew up amid that wild horde, and they were all in all to each other. As David influenced a similar band, so did this father and child lift the tone and morale of their followers, until the story of it filled the land and brought the, elders, who years before had sided with Jephthah’s brethren, to entreat him to lead the fight for freedom. What a beautiful suggestion of our Lord! He came to His own and they crucified Him.\n\nHe comes to us and we at first refuse Him. But His love never faileth. Being reviled, He blesses; being persecuted, He endures; being defamed, He entreats, 1 Corinthians 4:12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 11
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 106,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Unfailing Loving-Kindness -- Psalms 106:1-15\n\nWho can utter? That is an unanswered question. Not even the leader of the heavenly choir can answer it. But what blessedness it brings to the heart of one who begins to recite the goodness and loving-kindness of God! When prayer goes heavily, begin to praise.\n\nThe theme of this psalm is God’s redeeming grace. It contains a gruesome catalogue of sin. We have sinned… we have committed iniquity… our fathers understood not… they remembered not… but provoked… they soon forgat… they waited not… but lusted exceedingly… and tempted God. But side by side were the divine love and mercy: “Nevertheless He saved them for His name’s sake,” Psalms 106:8. God is bound to keep His Covenant, even to the children’s children. He must act worthily of Himself. “Truth” is another spelling of “troth.” When God has pledged His troth, as He did to Abraham, and has also to us, He cannot fail.\n\nNotice the pathetic prayer of Psa 106:4. Though we are more or less implicated in the sins of those around us, we, as Christians, may claim special favor and help, in order to be placed in a stronger position when we come to intercede for others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Judgment Restrained by Intercession -- Psalms 106:16-33\n\nThe strife between the ungodly and the servants of God has characterized all the centuries. These verses record some of its phases. Moses is called God’s chosen, Aaron his saint, while Phinehas is held in honor as one to whom his noble deed was counted for righteousness. But such men are always envied, refused, resisted. Men hate them, but God loves and vindicates them for their loyalty and uncompromising righteousness.\n\nIt is beautiful to notice how, so far from human hatred inducing such leaders to turn from their persecutors, it seems to drive them to more intense and ceaseless intercession for them. They stand in the breach, to turn away deserved wrath. From the days of Abraham, who prayed for Sodom, right down the stream of time, the people of God have been his remembrancers, giving Him no rest. Let us cultivate the great art of intercession; and if there is need, let us, like Phinehas, not hesitate to strike strongly in the interests of purity. But while thus standing before men, we must cultivate the grace of humility. We are only servants at the most and must not arrogate more to ourselves. Our authority is only delegated. This is where Moses failed, Numbers 20:2-13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Regarded When They Cried -- Psalms 106:34-48\n\nIsrael’s conquest of Canaan did not fulfill the divine mandate. The inhabitants, whose sins had become a menace to mankind, were allowed to exist side by side with the Hebrew immigrants; and, as is often the case, the conquerors were conquered, and the invaders were contaminated by the morals of the invaded. Intermarriage poured a large admixture of alien blood into Israel, and the excesses of idolatry, even to the hideous practice of human sacrifices, became intensified by the ties of kinship and neighborhood.\n\nThe whole history of Israel is summed up as alternating cycles of sin and punishment, repentance and deliverance; and we are left wondering, first at the inveterate evil of the human heart, which learns nothing from experience, and next at the inexhaustible long-suffering of God, which, while justice strikes, yet finds some way of alleviating the smart of the stroke, Psalms 106:46. The love of God persists all through humanism and outreaches it.\n\nThe prayer of Psa 106:47 shows that this psalm was written in exile. The psalmist hopes and believes that one result of his people’s restoration will be thankfulness and the expression upon grateful lips of never-ending praise. So ends the fourth book of the Psalter.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 106
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 105
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 107
+ }
+}

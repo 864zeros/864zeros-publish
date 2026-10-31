@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 31,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "One Brave Deed on a Dark Day -- 1 Samuel 31:1-13\n\nThis defeat meant something more than a temporary reverse. It was symptomatic of national decay. Saul’s reign had brought moral degeneracy to his people. Their moral fiber was impaired, their life-blood impoverished. As king and people were weighed in the divine balances (which are ever testing us), they were found wanting. No man can sin alone! Sin becomes an epidemic!\n\nMuch had happened since Saul’s designation as king. Alas, that so bright a dawn should have clouded in such a sunset! Like a noble tree Saul fell before the storm. He fell because he had never prayed, as David did, to be cleansed from secret faults, and to be held back from presumptuous sins. The only gleam of light on that terrible day was the chivalrous deed of Jabesh-gilead. Her sons could never forget Saul’s valorous exploit on their behalf. After the manner of Joseph and Nicodemus at the death of our Lord, they identified themselves with what seemed a lost cause. Would that every reader of these lines was equally grateful and generous in confessing Him who delivered us from a yet greater death!\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 31
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 30
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 1
+ }
+}

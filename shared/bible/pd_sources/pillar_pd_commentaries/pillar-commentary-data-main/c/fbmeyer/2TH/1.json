@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2TH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Thessalonians",
+  "commonName": "2 Thessalonians",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Faithful through Faith in a Righteous God -- 2 Thessalonians 1:1-12\n\nNotice the remarkable couplets of this chapter. Grace and peace, 2 Thessalonians 1:2; faith and love, 2 Thessalonians 1:3; faith and patience, 2 Thessalonians 1:4; tribulation for those who trouble, and rest for those who are troubled, 2 Thessalonians 1:6-7; know not, obey not, 2 Thessalonians 1:8; the presence of the Lord, the glory of His power, 2 Thessalonians 1:9; glorified and admired, 2 Thessalonians 1:10; the good pleasure of His goodness and the work of faith, 2 Thessalonians 1:11. Like mirrors that face each other, these words flash back and forth their depths of sacred significance.\n\nWhat marvelous scenes the future conceals for believers!-such as rest for the weary, palms of victory for the defeated, glory for the name and cause of Christ, and, above all, the revelation of that dear Presence with which we have been so constantly in touch. But how inexpressibly awful and terrible, on the other hand, the fate of the willful rejecters of the love of God!\n\nThe final prayer has always been highly prized by God’s people. If they shall ever be worthy of their high calling, it is for Him to make them so. His being glorified and admired in His saints is not a far-off event, but one within the possibilities of the present hour; and the name of Jesus may be magnified here and now in us, as it will be finally and more perfectly. Compare II Thessalon ians 1:10, 12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 2
+ }
+}

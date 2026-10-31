@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Imperfect Way of Approach to God -- Hebrews 9:1-10\n\nWith careful enumeration each item of the Tabernacle furniture is specified, because of each there is a spiritual equivalent in the unseen, spiritual Temple to which we belong. The veil that screened the Most Holy Place and forbade entrance, save once a year, taught that fellowship with God was not fully open. Ignorance, unbelief, unpreparedness of heart still weave a heavy veil which screens God from the soul’s gaze.\n\nThe altar of incense is here associated with the inner shrine, because it stood so near the veil. Its analogue is Revelation 8:4. The Ark was an emblem of Christ: the wood, of His humanity; the gold, of His deity. He holds the manna of the world, and is the ever-budding plant of renown, beautiful and fruit-bearing through death. There is one gateway in St. Peter’s, Rome, through which the Pope passes only once a year; how glad we may be that our gates for prayer stand open day and night! Contrast the sadness of such passages as Psalms 51:3-4 and Micah 6:6 with the joy of Eph 1:3-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Blood Which Sealed the New Covenant -- Hebrews 9:11-20\n\nWe are led to consider Christ’s high-priestly work. The scene for it is no edifice made with hands in this transitory world, but eternal and divine. His stay in the Holiest is not brief, hurried, and repeated year by year, but once for all He enters by virtue of His own blood. That blood cleanses not only from ceremonial guilt, but from moral and spiritual pollution. A will or testament comes into force when the testator dies; so the will of the eternal Father toward us has been made valid through the blood of Jesus.\n\nConsider, then, the Eternal or Timeless Spirit. What Jesus did on the Cross was the doing of God through His Spirit. The Atonement was not wrought by the dying Sufferer to appease God, but to express God as reconciling the world to Himself. The Timeless Cross. It belongs to no one age, but “towers o’ er the wrecks of time,” and is as near us as to the early Church. The Timeless Christ. Cast yourself out of yourself and into Him; out of the fret of the time-sphere into the freedom and ecstasy of the eternal!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "The One Sacrifice That Puts Away Sin -- Hebrews 9:21-28\n\nHere are the three appearances of Christ: (1) He appeared once, at the ridge or meeting-place of the ages-where the first Covenant and the second met-to put away the sin of the race; and He has done this for each of us. We are called on to believe this and to enter upon our inheritance without questioning or trying to feel it. Men are told clearly that God will not impute their transgressions unto them, unless they place themselves out of the at-one-ment by the deliberate repudiation of Christ. The one question for us all is not sin, but our attitude toward Christ, the Sin-Bearer. See 2 Corinthians 5:19.\n\n(2.) He appears in heaven for us, as our Intercessor and Mediator, presenting our prayers mingled with the rich incense of His merit, and acting as the ground of our beseechings, Revelation 8:3. (3) He will appear the second time. There will be no sin-bearing then. His appearance will be “apart from sin.” But then, salvation will be perfected, because creation itself will share in the liberty and glory of the sons of God, Romans 8:21."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 10
+ }
+}

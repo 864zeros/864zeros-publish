@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abram’s Vision of the Future -- Genesis 15:1-21\n\nAbram had good reason to fear the vengeance of the defeated kings; but the divine voice reassured him. For all of us there is need of a shield, because the world hates us; and for each God will be our compensation for every sacrifice we have made. Refuse to take even the shoe-latchets of Sodom, and God will be your exceeding great reward. The patriarch addressed God as Adonai Jehovah, which occurs only twice more in the Pentateuch. While he was pouring out the bitterness of his soul, the stars came out. Count these, said his Almighty Friend; and he believed.\n\nFor the first time that mighty word occurs in Scripture, and the Apostle makes much of it. See Romans 4:9; Galatians 3:6. It was as good as done. Henceforth the patriarch reckoned on God’s faithfulness. In olden times covenants were ratified by the parties passing between the pieces of the sacrifice. To give strong consolation, the Almighty confirmed His word with an oath.\n\nSee Hebrews 6:18. But God must wait until the hour for interposition is fully come."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 16
+ }
+}

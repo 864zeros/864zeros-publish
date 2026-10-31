@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Breaking the Bonds of Tradition -- Mark 7:1-23\n\nThe Pharisees laid great stress on ritual. They followed endless rules, both intricate and troublesome, as to ablutions and outward ceremonials. So long as their devotees were careful in the minor observances, they were permitted a wide license so far as the weightier matters of the Law were concerned. This is a natural tendency of the human heart. It is glad to be able to reduce its religious life to an outward and literal obedience, if only its thoughts may be unhampered. In the life of true holiness everything depends on the control of the thoughts. “As a man thinketh in his heart, so is he.” With infinite wisdom the wise man said, “Keep thy heart with all diligence, for out of it are the issues of life,” and Jesus put “evil-thoughts” first in the black category of the contents of the evil heart.\n\nA gang of thieves sometimes put a very small boy through a tiny window that he may unlock the front door. So one evil thought will often admit an entire crew of evil. Heart of mine, hast thou learned this lesson? Art thou careful enough of thy cleanliness? That the hands should be often washed, that vessels of household use should be kept cleansed, that there should be decorum and neatness in the outward life, all these customs are good. But it becomes thee to inquire whether thou art not more eager for the outward than the inward cleanliness. “Create in me a clean heart,” should be thy constant prayer."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "A Mother’s Faith Rewarded -- Mark 7:24-37\n\nBefore faith can be fully exercised we must take the right attitude toward Christ. His mission at that time was to the Jewish people; they were the children. This woman had no claim as a child, and the question was whether she was prepared to take the lower place. It is the humble soul that has power with God, and when she showed herself prepared to put Jesus in His place as Lord, and to take her own place as willing to accept the children’s crumbs, the Lord was able to put the key of His treasure house into her hand and bid her have her desire. Faith can wring blessing from an apparent negative, and use what might seem to be a rebuff to open God’s treasuries.\n\nIn the following miracle, notice that upward look, that sigh, and that touch. These are the conditions of all successful religious work, and it is a great encouragement to faith that our Lord Himself knew what it was by a look to draw down the mighty power of God. That upward look may be ours when it is impossible to kneel for prolonged prayer. When we stand in the light of eternity, we also shall say, as our Lord’s contemporaries did, “He hath done all things well.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 8
+ }
+}

@@ -1,7 +1,7 @@
 # ApprovalWorkflow Local — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/approvalworkflow/`  
 **Web Product Page:** https://864zeros.com/products/approvalworkflow  
-**Pricing Model:** $14.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Multi-step form approval router with tokenized email action buttons and dynamic 
 👉 Try ApprovalWorkflow Local: https://864zeros.com/products/approvalworkflow
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet ApprovalWorkflow Local — the fast, local-first solution that solves this 
 👉 Get ApprovalWorkflow Local: https://864zeros.com/products/approvalworkflow
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet ApprovalWorkflow Local — the fast, local-first solution that solves this 
 * **Suggested Thumbnail:** `media/products/approvalworkflow/video/thumbnail-approvalworkflow-social-price.png`
 * **YouTube Title:**
 ```
-Paying $36/Quarter for Form Approval Buttons — ApprovalWorkflow Local #Shorts
+Paying one-time lifetime /Quarter for Form Approval Buttons — ApprovalWorkflow Local #Shorts
 ```
 * **YouTube Description:**
 ```
 Why pay recurring quarterly subscriptions just for approval buttons in form emails?
 
-ApprovalWorkflow Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
+ApprovalWorkflow Local gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get ApprovalWorkflow Local: https://864zeros.com/products/approvalworkflow
 

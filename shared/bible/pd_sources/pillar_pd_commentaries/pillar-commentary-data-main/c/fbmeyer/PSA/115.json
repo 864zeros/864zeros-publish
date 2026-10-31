@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 115,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Powerless Idols; Our Powerful God -- Psalms 115:1-18\n\nEvidently this psalm was intended to be sung by various voices: Psalms 115:1-8 by the whole congregation in unison, while the sacrifice was being offered; Psalms 115:9-11, by a solo voice giving the first line of each couplet, the whole audience chanting the refrain; Psalms 115:12-15, by the priest as a benediction; Psalms 115:16-18, by the whole congregation, which now breaks into glad hallelujahs.\n\nIt was composed during the early days of the return from Babylon, when the small groups of settlers were surrounded by the jeers and scoffs of their enemies. This was their reply, as they brought out the scathing contrast between the idols of their neighbors and the majesty of Jehovah. We are reminded of Isaiah’s description of an idol factory. The idols had outward semblance and no power. Jehovah had no outward semblance, but all power. Let us take to heart the threefold invitation to faith in Psalms 115:9-11, and reckon on God as our help in the battle and our shield against our foes. The smallest may get his blessing as well as the greatest, Psalms 115:13. We can never impose a strain on the resources of God, however great our demands."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 115
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 114
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 116
+ }
+}

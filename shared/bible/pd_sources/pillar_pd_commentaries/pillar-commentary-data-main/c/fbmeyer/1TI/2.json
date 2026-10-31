@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Timothy",
+  "commonName": "1 Timothy",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Prayer and Modest Adorning -- 1 Timothy 2:1-15\n\nThe Apostle especially urged intercessory prayer, because it meant so much to himself. Three different words are used of prayer, because there are so many ways of approaching God. It is our duty to pray for those in authority, and to seek after a calm and quiet life in all godliness and gravity. It was most important that Christians should not be suspected of revolutionary designs or civic turbulence. If they had to suffer, it must be only on account of their religious faith. The solidarity of our race is the reason for our wide-embracing supplications. The whole race is one in the creation of God and the ransom of Christ; we are therefore one with all men, and should express in prayer the common sins and sorrows of mankind.\n\nThe men were bidden to lead in public prayer, and to see that the hands they uplifted were clean, while the women joined quietly after the Eastern fashion. There was nothing revolutionary in Paul’s teaching. He was content, in minor matters, to conform to the usages of his age, though promulgating doctrines which would ultimately revolutionize the position of womanhood. A holy married life, with the bearing and training of children, is, as a rule, the appointed path for woman, and this will lead to their salvation through faith in the Holy One who was born in Bethlehem."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 3
+ }
+}

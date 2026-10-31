@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Cut Out the Plague Spot -- Deuteronomy 13:1-18\n\nHow to exterminate sources of disease is a main question with the modern world; but the stamping-out of possible sources of temptation must not less energetically be pursued by each religious soul. The prophet, the beloved associate, the community, that endeavored to turn Israel aside from God, might have no mercy shown. There was no room for those liberal views, in vogue today, that smile on the greatest divergencies of belief, if only their advocates are sincere.\n\nFor ourselves the lesson is clear enough. We must dissociate ourselves from companionships, however affectionate, which exert a deleterious effect on our characters, and draw us away from God. There is only one alternative-that we should overcome evil with good and lift them to our own ideals. If that be impossible, our course is clear. Our eye must not pity, nor our hand spare. And Jesus left no other alternative. See Mark 9:42-43."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 18
+ }
+}

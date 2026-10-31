@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moses Receives Jehovah’s Words in the Mount -- Exodus 19:1-15\n\nThe plain beneath Sinai, where Israel encamped, has been identified, and the reader should study the books of travelers which afford a mental conception of the scene. The brilliant colors, in which red sandstone predominates; the shattered, thunder-stricken peaks; the awful silence; the utter absence of vegetation; the level plain giving abundant opportunity for all to hear and see-all these deserve notice. The tenderness of the divine address is very touching. Nor are we excluded from these promises, if we are among Abraham’s spiritual children. See Romans 4:10. If God could carry this multitude of people, He is sufficient for us and our burdens. We also may be His peculiar treasure and a kingdom of priests.\n\nBut Israel’s solemn pledge was a profound mistake. Had they known themselves better, they would never have made it, and one design of the Decalogue was to show how absolutely impossible it is for any to be justified by the works of the Law. Pentecost, which Whitsuntide commemorates, took place on the anniversary of this august scene."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The People Warned not to Approach the Mount -- Exodus 19:16-25\n\nThe holiness of God was taught in object lessons. The people must wash their garments, the mount must be fenced in, not a beast might graze upon the slopes, not a hand might touch the holy soil. Moses must twice descend to warn the people, Exodus 19:14; Exodus 19:21; Exodus 19:25. Only he and Aaron might ascend. All was done to convince the people of the vast distance that intervened between themselves and God. It was the awe engendered by such provisions, and which pervaded the ancient dispensation, that led Peter to cry, when the divine glory of Jesus smote upon him: “Depart from me, for I am a sinful man, O Lord.”\n\nDare to believe that beneath every cloud of soul-anguish, bereavement, and trial, you will find the burning love of God. Clouds and darkness may be round about Him, but faithfulness and truth, judgment and mercy are at the foundation of His throne. Listen to the voice that bids you enter the pavilion, and remember Hebrews 12:18, etc."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 20
+ }
+}

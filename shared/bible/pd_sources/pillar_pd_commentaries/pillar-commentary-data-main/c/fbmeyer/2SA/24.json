@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Proud Heart Humbled -- 2 Samuel 24:1-14\n\nThe sin of numbering the people lay in its motive. David was animated by a spirit of pride and vainglory. He was eager to make a fine showing among the surrounding nations, and to impress them with such a conception of Israel’s greatness that they would not dare to attack any point of the long frontier line. He yielded to the temptation of trusting in chariots and horses, instead of in the victories of faith.\n\nWhen the enumeration was nearly complete, David’s heart smote him. He saw how far he had swerved from the idea of the theocracy, in which God’s will was the sole guide of national policy. He had substituted his own wisdom for the divine edict. A night of anguish followed on this self-discovery, but David submitted himself to God’s dealings.\n\nIt was wise to choose to fall into the hands of God. They are very loving and tender hands, but David viewed them as punitive and not redemptive; and the plague, which devastated the people, cut him to the quick."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Judgment Stayed by Sacrifice -- 2 Samuel 24:15-25\n\nThe pestilence swept through the land like cholera or the black death in modern times. At last it approached the Holy City. It seemed as if the angel of the Lord were hovering over it, sword in hand, awaiting the final order. All this is spoken after the manner of men. It is clear, however, that, in answer to David’s penitent faith, a great change came over the scene. If the same faith had been exercised before the plague reached Jerusalem, may we not believe that an arrest would have come previously? As soon as David was prepared, as in 2 Samuel 24:17, to suffer instead of his people, his love and contrition and faith were accepted on their behalf.\n\nThen, on Mount Moriah, where centuries before Abraham’s uplifted knife was stayed, the angel now stayed his act of judgment. The threshing floor of Araunah became the site of an altar, while afterward on that spot stood the Temple, the center of national worship and the scene of the manifestation of the Son of man. The lesson for us is that, when we take the true attitude toward God, we can exercise, by our faith, prayer and self-sacrifice, a wonderful influence in behalf of cities and nations.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 1
+ }
+}

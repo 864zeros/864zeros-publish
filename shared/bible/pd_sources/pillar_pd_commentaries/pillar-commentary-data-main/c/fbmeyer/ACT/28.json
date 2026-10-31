@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Kindness Richly Repaid -- Acts 28:1-10\n\nIt is pleasant to read of the kindness of these Maltese. In humanity everywhere there are kindly traits, and often there will be ready help for the really destitute.\n\nAccidents are not punishments. The clinging of the viper to Paul’s hand was not an evidence of the anger of God, but was permitted in order to give these simple-hearted people an evidence which they would appreciate of God’s care for His own.\n\nHow changeable is human opinion, shifting in a moment from the highest to the lowest estimate of our fellows, and basing that estimate solely on the favorable or unfavorable aspect of outward circumstances! Let us not judge by appearance, but righteously. Because Paul cast off the viper, they accounted him divine; if he had died, they would have thought him a felon. Let us also shake off temptation. We cannot prevent its attacking us, but we need not take the viper into our heart.\n\nPaul’s unfailing influence for good shows what a blessing even one Christian man can be wherever he goes, if he lives in the power of God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Still Seeking His Own Kinsmen -- Acts 28:11-20\n\nPaul went toward Rome, as we have seen, under very different circumstances from those that he originally anticipated; but, after all, they gave him the greatest opportunity of his life. The things that befell him were for the furtherance of the gospel. In no other way could he have approached or touched such men as the centurion, or the members of Caesar’s household, or Publius, or Nero himself.\n\nIt was very good of Julius to give Paul seven days’ rest in the lovely bay of Puteoli, at the foot of Vesuvius. The little towns of Pompeii and Herculaneum were not yet overwhelmed. What teaching and what happy fellowship the little church now enjoyed! Forty-three miles from Rome, at Appii Forum, a body of Christians awaited the Apostle with greetings, and ten miles farther on, at the Three Taverns, was another group. If Paul had entertained fears about his reception, they were immediately dispelled. The Apostle thanked God and took courage.\n\nHow he had longed to see mighty Rome! He was now allowed to live in his own house, chained to a soldier. In these circumstances he was secure from the hatred and plottings of the Jews, who in every city had endangered his life and impeded his labors."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Preaching in the World’s Capital -- Acts 28:21-31\n\nIt was one of the earliest cares of Paul to summon the leading members of the Jewish community, that he might explain to them his position. He made clear that he had not opposed or injured his own people, and that he was suffering because of his devotion to the “Hope of Israel,” by which he obviously referred to Christ. The Jews replied cautiously, declaring that they had not as yet received the formal charge against him. But as they professed a wish for further information, he begged them to fix their own day and come. This they did in considerable numbers. All day long he set before them arguments from Scripture and the story of his own experience.\n\nA few were convinced; the rest disagreed. Probably the debate toward its close became somewhat stormy, and the Apostle felt at liberty to quote Isaiah 6:9-10.\n\nHe, thereafter, turned to the Roman Christians, who had already been addressed in his memorable Epistle, in the last chapter of which is a list of names of those whom he loved in Christ. They were constantly coming in to cheer his loneliness and to hear his words, while Tychicus, Epaphras, Epaphroditus, and others brought news, greetings, and gifts from the churches he had founded.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 1
+ }
+}

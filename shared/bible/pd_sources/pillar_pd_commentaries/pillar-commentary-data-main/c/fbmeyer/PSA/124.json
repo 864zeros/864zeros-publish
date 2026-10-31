@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 124,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Christian’s Fortress -- Psalms 124:1-8; Psalms 125:1-5\n\nHere are three instances of escaped peril. In Psalms 124:3 is an allusion to Korah and his company; see Numbers 16:32-33. Why are we spared when others have been overwhelmed by swift disasters? In Psalms 124:4 and Psalms 124:5, as the morning breaks, we see the proud waters that have burst their banks and are inundating the low-lying lands. Why did our house escape? In Psalms 124:6 and Psalms 124:7 we have the metaphor of the ensnared bird and as the fluttering fledgling, when freed, leaps into the sunny air, so do we rejoice when God frees us. But why should we escape when so many never break loose?\n\nPsalms 125:1-5 Jerusalem lies on a broad and high mountain range, shut in by two deep valleys. But the surrounding hills are higher, and made her almost impregnable to the methods of ancient warfare. They who trust in God live within ramparts of His loving care for evermore. The scepter of evil may sometimes cast its gaunt shadow over their lives, but it is always arrested in time. Crooked ways are by-paths. The commandments of God are a public thoroughfare. Keep on the highway and no hurt shall assail you."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 124
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 123
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 125
+ }
+}

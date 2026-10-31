@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 148,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Creation’s Song of Praise -- Psalms 148:1-14\n\nThe “Benedicite” in the Book of Common Prayer is based on this psalm. The sacred minstrel is not content that he or his people should have a monopoly of praise. He calls to nature, with her myriad voices, to take up the strain. It is interesting to turn these words from the imperative to the indicative mood, for already the heights and depths around us are vocal. The sun leads the chorus, and the moon plays upon her silver harp. The stars “quire to the young-eyed cherubim.” The deeps praise for depths of love, the mountains for its height, the fruit trees for its sweetness, while the great forest monarchs, their branches swaying in the wind, “clap their hands.” Surely the children of God should awake from their lethargy!\n\nCan we be redeemed and dumb? Saved and silent? Delivered and made “near,” and no word of gratitude? Let us, as we read this psalm, remember also that there is a praise note for the fire of tribulation and the hail of abusive scorn. The saints have long ago praised God in the fires. The stormy wind or adversity, no less than the zephyrs of prosperity, fulfills His purpose and deserves our trust."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 148
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 147
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 149
+ }
+}

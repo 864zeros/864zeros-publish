@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Peace through Steadfast Trust -- Isaiah 26:1-10\n\nNo doubt when Babylon fell before Cyrus the Jewish remnant under Ezra and Nehemiah sang this triumphal ode, which contrasts the respective lots of Babylon and Jerusalem. The one is the city of this world and its children; the other the city and home of the saints. The fate of Babylon is delineated in Isaiah 26:5-6; but with what glowing words does the prophet dwell on the blessedness of those who are fellow-citizens with the saints and of the household of God, Ephesians 2:19. Note in Isaiah 26:3, margin, one of God’s double doors against the intrusion on the soul of a single note of alarm or fear. God is the Rock of Ages, Isaiah 26:4, margin. Our trust should be permanent as His love-forever.\n\nThe weakest foot may trample on the proudest foe, when God has laid him in the dust. God levels the path of the just. However difficult your path, dare to believe that you are being directed in righteousness God cannot make mistakes. Any other path would be impracticable. Only nurse the desires of your soul for God; they are the result of the promptings and drawings of His Spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Chastened by Suffering -- Isaiah 26:11-21\n\nWhen God ordains our peace, a world in arms cannot disturb us. Our peace results from the conviction that God is going before us and preparing our works. But be careful to make mention of His name, that is, to give Him the glory.\n\nDo not be afraid of your enemies. When God brings you back from the ends of the earth, He will free you from their toils and snares. Let us, as Isaiah 26:16 suggests, pour out our prayers, as a vessel its contents; though, as the Hebrew signifies, those prayers are but whispers. It is true that apart from God we work no deliverance in the earth, Isaiah 26:18, but when He speaks, even the dead live. Jesus, the resurrection and the life, speaks in Isaiah 26:19. What comfort results to those that dwell in the dust of self-abasement and despair to look up to the ever-living Christ, from whom streams of life-giving energy come to believing hearts!\n\nArise and sing, thou broken heart: even now the stone is being rolled from the door of thy sepulcher; the morning dew is distilling upon thee. Cast out by earth, thou shalt be welcomed by heaven, and sheltered in God’s secret place till the storm-burst has spent itself."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 27
+ }
+}

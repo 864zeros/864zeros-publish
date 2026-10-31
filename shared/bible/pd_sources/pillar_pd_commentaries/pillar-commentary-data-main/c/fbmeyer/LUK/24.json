@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Empty Tomb -- Luke 24:1-12\n\nThe most perplexing question for those who deny Christ’s resurrection is, “What became of His body if He did not rise?” If foes stole it, they would have produced it in disproof of the allegations of the Apostles. If friends had taken it, they would certainly have borne it off wrapped in the cerements of death; but these were left behind and wrapped together in such an orderly fashion that evidently there had been neither violence nor haste.\n\nNotice the stress that the angels laid on Christ as the living one. They had doubtless overheard that sentence of His spoken in Galilee and recorded in Luke 9:22. Too many seek the living Christ amid the wrappings of ceremony and creed. He is not there. He has gone forth, and we must follow Him where Easter is breaking.\n\nWomen were the first evangelist-messengers of the Resurrection. The very ardor of their belief seems to have prejudiced their message; the Apostles “dis-believed,” Luke 24:11 (r.v.). But the orderly arrangement of the tomb proved to Peter that clearly it had not been rifled."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Walking with the Risen Lord -- Luke 24:13-27\n\nThis exquisite idyll of the Resurrection is too lifelike and natural to have been invented. The sorrowful walk; the reasonings; the wonder that anyone could have been for ever so short a time in Jerusalem without knowing of the events that filled their souls; the lingering hope; the despair that the third day was waning and He had not come; the clue of the morning announcement which had not been followed up; the burning heart-all these touches are full of natural pathos.\n\nHow swiftly the seven and a half miles must have sped in such company; and what new light illumined the pages of the Old Testament! All the Bible is full of Him, but we need to be shown its meaning. It is only through suffering that we shall come to the glory. But why should not life be one sweet walk of fellowship with One whom we cannot see, but whose presence fills our hearts with burning love, until suddenly the veil shall part in twain! See 1 Peter 1:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 28,
+    "content": [
+     {
+      "text": "“Abide with Us” -- Luke 24:28-35\n\nOur Lord must be invited and constrained. He will not impose Himself on an unwilling host; but how glad He is to enter where a welcome awaits! He turns ordinary meals into sacraments; common rooms into royal chambers: and the homeliest things into symbols of the eternal. He sat with them, then vanished; but He was no less truly with them when He ceased to be seen-and all to teach them that when He had passed permanently from their sight He would be nearer than ever.\n\nWhen you have had a great vision of the Lord, be sure to tell it. Do not wait in the interior of your own chamber, hugging the joy and comfort of His presence. Hasten back to your fellow-believers. They also have much to tell. This appearance to Simon Peter is referred to by Paul in 1 Corinthians 15:5. When men really love the Savior, they will love the ordinances of the Church, the fellowship of the brethren, and especially the holy supper, where He makes Himself known."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "“Peace Be unto You” -- Luke 24:36-43\n\nJesus Himself! We need nothing else when we are terrified and afraid. You may be fearing the consequences of your sin; fearing the approach of your enemy; fearing the future with its unknown contingencies; but Jesus Himself is the antidote of fear. He keeps the soul that trusts Him within the double doors of peace. See Isaiah 26:3.\n\nThis was not an apparition, but the clothing of the spiritual body, which evidently repeats the general outlines of the physical body, though in a rarer and more subtle substance. Does this incident not teach us that when we also are clothed in the spiritual body we shall not be wholly dissimilar from what we are today? We shall be recognizable by our beloved and they by us, 1 Corinthians 15:44.\n\nWhat was it that made those hands and feet distinctly His own, except that the print of the nails was in them? John 20:27. “In the midst of the throne… a Lamb as it had been slain,” Revelation 5:6."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 44,
+    "content": [
+     {
+      "text": "“Witnesses of These Things” -- Luke 24:44-53\n\nThe risen Savior is the key to Scripture. The pages of Holy Writ need the illumination that falls from His face. Whenever you open the Old Testament, described here under its customary Hebrew threefold division, be sure to ask Him to open your understanding also!\n\nRepentance is turning from sin. It is the act of the will. In remitting sin Christ not only forgives, but stands between the sinner and the consequences.\n\nThe “beginning” must be Jerusalem, because the Jew is first in the divine order, Romans 1:16. But the end is the uttermost part of the earth. We are not called to be defenders, but witnesses of the truth. We speak what we know and testify what we have seen. Our fellow-witness is the Holy Spirit, Acts 5:32.\n\nThose outspread hands have never been withdrawn. They are still extended over us in benediction, and from heaven itself rain down perennial Messing. Let us rejoice in Him with great joy; may each lowly home be a temple full of praise!\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 1
+ }
+}

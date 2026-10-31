@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Right Use of Money -- Luke 16:1-13\n\nWe are all stewards, but how much we waste! Well might our Master deprive us of our post and trust! The unjust steward used his opportunity of ingratiating himself with the tenants at the landowner’s cost. He thus secured for himself a welcome to their homes, when his defalcations came to light and he was dismissed. Our Master did not commend his fraud, but pointed out that the children of this world are singularly alive to their future and prepare for its contingencies. If they make a wrong use of money to provide for the future, how much more should Christians make a right use of it, so that when they die they may be welcomed to the eternal home by those whom they have benefited!\n\nMoney is described as unrighteous Mammon, the name of the heathen god of wealth. It is so often associated with cheating that the adjective is most appropriate. Note also that money is “the least” and “not that which is our own,” but God’s, to be used by us as His servants and at His direction,"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "A Look into the Future -- Luke 16:14-31\n\nHere was a flagrant case of heartless indifference, amid luxuries of every kind, to the daily spectacle of abject need. Most of us have at least one Lazarus at the gates of our life. The charge against the rich man was, not that he had injured Lazarus, but that he had not helped him. Man condemns us for doing wrong, God for failing to do right.\n\nLazarus was translated to the realm of blessedness-the bosom of Abraham bespeaking nearness to him at the great feast-not because he had been so poor and miserable, but because, beggar though he was, he possessed the faith of heart and the purity of motive that characterized his great ancestor.\n\nNotice that memory plays a conspicuous part in the sorrow of Gehenna; that Christ gives no hope of changing the soul’s habitation; and that we have in the Scripture a more certain agent of spiritual renewal than would be provided by even the apparition of the dead."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 17
+ }
+}

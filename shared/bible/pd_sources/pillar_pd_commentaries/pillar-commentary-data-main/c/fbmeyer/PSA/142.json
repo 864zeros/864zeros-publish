@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 142,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“No Man Cared for My Soul” -- Psalms 142:1-7\n\nThe cave was dark and shared by rough and lawless men with whom David had little sympathy. His gentle and devout spirit must often have craved for more congenial society. But he never ceased to cry and make supplication whenever his spirit was overwhelmed. Are you in that plight? Be comforted by the reflection that God knows your path. It is the predestined way, Ephesians 2:10.\n\nBefore the heavens or earth were made it was prepared. God foreknew all its perplexities and difficulties-how dark the shadows, how fearsome the black current-but He chose it as your best way home. Are all faces averted? Does no one seem to care? Is your soul in prison, and are your persecutors strong? Be of good cheer!\n\nReinforcements of divine grace are on their way; the righteous shall crown themselves because of you; and you will say with your dying breath, “He has dealt bountifully with me.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 142
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 141
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 143
+ }
+}

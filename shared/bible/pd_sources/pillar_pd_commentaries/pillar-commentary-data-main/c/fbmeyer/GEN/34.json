@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jacob with the Shechemites -- Genesis 33:18-20; Genesis 34:1-17\n\nJacob was tempted by the fat pastures of Shechem, without thought or care of the character of its people, and he lived to bitterly rue his choice. How many religious parents have made the same mistake! They first encamp near the world, pitching their tent doors in that direction; then they buy a parcel of land, and finally their children contract alliances that end in shame and disaster. He who came of a pilgrim race, and to whom the whole land had been given by promise, bought real estate right against Shechem, one of the worst cities in the country. Like Lot, Jacob bid high for wealth and worldly advancement, risked the highest for the lowest, and was saved as by fire. Poor Dinah!\n\nYet she was more sinned against than sinning. Jacob had put her in jeopardy by his selfish policy; and Leah was not blameless, for she had let her go unwarned and unaccompanied into the middle of that furnace of trial."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Jacob’s Sons Spoil the Shechemites -- Genesis 34:18-31\n\nIt is not easy to steer our family life amid the rocks and quicksands of present-day worldliness; but we shall not prosper by using the world’s weapons of duplicity and craft. The true way is to make our homes so attractive that our children will not be tempted to court the alliances that are offered by those whose only portion is in this life. Our Ruths would not leave our fields if we dropped more handfuls on purpose for them. The treachery of these two brethren was absolutely inexcusable. On his dying-bed Jacob reverted to it, and pronounced their scattering in Israel. Though Levi undid that curse by his obedience and devotion, Simeon seems to have made no effort in that direction, and soon became as water absorbed by the desert-sands.\n\nBut see Revelation 7:7. What an awful thing it is when our conduct is such as to make religion offensive to those who observe our behavior, Genesis 34:30."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 35
+ }
+}

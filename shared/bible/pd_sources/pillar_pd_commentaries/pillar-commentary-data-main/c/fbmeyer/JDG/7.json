@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Quantity versus Quality -- Judges 7:1-8\n\n“No king is saved by the multitude of an host,” Psalms 33:16. God does not need multitudes. It is false to say that He is “on the side of the heaviest battalions.” Read 2 Chronicles 14:1-15; 2 Chronicles 23:1-21. Those that are fearful and trembling, because they look at the might of their enemies rather than to the eternal God, had better depart to their homes; they are an impediment and hindrance, and may, by an evil telepathy, slacken the faith of others. Those also who forget that they are soldiers, who put the ease of the body before the strenuous attitude of the soul, who think most and first of their physical indulgence, are of no use to God for great exploits. Send them to their tents; they can assist in the secondary work of pursuit.\n\nIt was a very little act-the attitude in drinking-but how much it meant! The 300 who caught up the water in the hollow of their hands, showed that they could not forget the foe; that they were resolved to subordinate bodily appetite to the spirit and dared not relax their girded loins. These are the men that God can use! But 300 of these are enough to rout 135,000, Judges 7:8-10. Live in the Spirit; walk in the Spirit; be always in touch with the Spirit, and make no provision for the flesh, Romans 13:14; Galatians 5:16. And be faithful, also, in very little actions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The Sword of Jehovah and of Gideon -- Judges 7:9-23\n\nGideon asked for the sign of the fleece, but God, without his asking, gave him that of the barley-cake. It was only barley-bread, the cheapest and commonest kind of food, but it overthrew a tent. Gideon was quick to recognize the symbol of his weakness and helplessness, but he recognized also the presage of victory. Lying there in the moonless night, with his head toward that tent, he worshiped and hastened back to his camp. We remember what Jesus made of barley-loaves. See John 6:9; John 6:13.\n\nThe blare of the trumpets, the breaking of the pitchers, the flashing of the lights, and the shouting from three sides of the camp startled the sleeping host into panic. Surely this scene was in Paul’s thought when he said that God’s light had shone forth on the midnight darkness of that age; and then confessed that the light was contained in the earthen vessel of mortality, “that the excellency of the power might be of God.” Let us not be too greatly disturbed when the sorrows and persecutions of earth break up our peace and strength-this is the breaking of the earthen vessel. Our business must be to see that the torch burns within, 2 Corinthians 4:6, etc."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "A Soft Answer Turneth Away Wrath -- Judges 7:24-25; Judges 8:1-12\n\nThe fleeing host made for the three fords of the Jordan, and with all haste Gideon summoned the tribes to anticipate them. The way of the victor was not without its drawbacks and discouragements. Ephraim was wroth; Succoth and Penuel were contemptuous; his own men were faint, though pursuing. But the faith that had won the great victory never wavered. Gideon “endured as seeing Him who is invisible.” From the eternal source of patience and hope he derived the grace of continuance. This is what Paul also learned and taught in after-years, 2 Corinthians 6:4, etc.\n\nWhen the soul is leaning on God, drawing on his resources and affirming his sufficient grace, it can afford to answer Ephraim pleasantly; it will not shrink from rebuking cowardice in Penuel and Succoth; and it will hold on its victorious way, until the last enemy is destroyed and it enters the presence of God to receive the “Well done!” Discouraged soul, get alone, shut your door on all other thoughts, and say over and over to God the words with which the good Asaph ends Psalms 73:23-28. Let these fill your heart with music till you are strong again."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 8
+ }
+}

@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "2 John", "chapter": 1, "citation": "2 John 1:6", "text": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.", "plain": "And this is love: that we walk in obedience to his commands. This is the command that you have heard from the beginning — that you walk in love." }
+    {
+      "book": "2 John",
+      "chapter": 1,
+      "citation": "2 John 1:6",
+      "text": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.",
+      "plain": "And this is love: that we walk in obedience to his commands. This is the command that you have heard from the beginning — that you walk in love.",
+      "visual_prompt": "a robed shepherd seen strictly from the back standing beside a low dry-stone wall with a wooden staff in hand looking out toward a stone threshold step leading into a welcoming courtyard home",
+      "spec_id": "fhg_sketch_people_spec",
+      "humanizer": "G2+S3"
+    }
   ]
 }

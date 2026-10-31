@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 68,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Leader of His People -- Psalms 68:1-11\n\nThis is one of the grandest odes in literature. It was probably composed when the Ark was brought in triumph from the house of Obed-edom to the newly acquired hill of the Lord, 2 Samuel 6:1-23. It is evidently a processional hymn, intended to be sung by bands of white-robed priests and Levites. In this paragraph the Ark was lifted to the shoulders of its bearers, while a measured strain was chanted, Psalms 68:1-6. Then, as the procession moved forward, the march through the wilderness was recited, Psalms 68:7-11.\n\nLet God arise! These opening words are borrowed from the formula used by Moses, Numbers 10:35. Through the smoke of many a battlefield have they rung out! Cromwell’s “Ironsides” charged to their music. In Psalms 68:5-6 we learn that God has a special care for lonely people and prisoners. The former He introduces to families, John 19:26-27. The latter are brought out into prosperity. Psalms 68:11, r.v. seems to have a modern fulfillment in the exodus of noble women from happy homes in Christian lands to publish the gospel of Christ to the heathen."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Their Mighty Deliverer -- Psalms 68:12-25\n\nThe processional march still continues. Presently Mount Zion comes in sight, and the neighboring hills are depicted as eying it enviously for its selection in preference to themselves. In Psalms 68:17-18 the glad throng begins to climb the sacred slopes of Zion, amid still more triumphant strains; and in Psalms 68:19, etc., the gates of the sanctuary stand wide open to welcome the festal crowds.\n\nHow great the contrast between the blackened appearance of a smoky caldron, and the lustrous sheen of a bird’s pinions as they flash in the sunlight! Psalms 68:13. Yet that is the contrast between what we were, and what we now are. Zalmon, Psalms 68:14 -perhaps a reference to the wooded hill near Shechem, mentioned in Judges 9:48. The hostile kings were scattered as snowflakes are driven before the wind and melt in the sun. The hill Bashan, Psalms 68:15, is a snow-clad summit, but Zion is greater, since God is there.\n\nIn the triumphant words of Psa 68:18, the singer quotes Judges 5:12, and they are applied in Ephesians 4:8 to our Lord’s ascension. Note the r.v. rendering of Psa 68:19 -that the Lord daily beareth our burdens. Singers, minstrels, and girls with timbrels, Psalms 68:25 -all have a share in the Church’s joy."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "The God of the Whole Earth -- Psalms 68:26-35\n\nThe constituent parts of the procession are now described, and in these closing verses the triumphal note rings out. It tells of the confidence of Israel in her ultimate dominance of the world, which was to be not physical, but moral and spiritual.\n\nThe psalmist sees tribe after tribe passing into the sanctuary, and indicates each as it goes by Zebulun and Naphtali were mentioned in Deborah’s song, already quoted. They are specially noticed here, because they who have done well in the wars of the Lord will ever be rewarded. Among the results of God’s enthronement among His people is the submission of the kings of unnamed lands. In Psalms 69:30, r.v., the beast of the reeds is probably the crocodile, and refers to Egypt. Bulls and calves refer to the princes of surrounding nations and their subjects. Ethiopia reaches out her hands, offering tribute.\n\nThe whole world is subdued to worship before the great God of Israel. He giveth strength and power unto His people. Let us avail ourselves of His gracious provisions. Let us ask Him to command our strength, Psalms 68:28; Psalms 68:35."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 68
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 67
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 69
+ }
+}

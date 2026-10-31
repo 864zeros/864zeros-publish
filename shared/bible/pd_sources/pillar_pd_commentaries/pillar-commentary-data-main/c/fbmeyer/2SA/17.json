@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 17,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Tripped by Flattering Counsel -- 2 Samuel 17:1-14\n\nWhat a contrast to the plottings of David’s foes was his own state of mind, as disclosed in Psalms 3:1-8; Psalms 4:1-8, written at this time! At Jerusalem they were taking counsel against him. Ahithophel describes the deposed king as weary and weak-handed, and shows how easily he may be smitten. Hushai pictures him as chafed and savage. The messengers are hastened on their way, lest he should be swallowed up. But David betakes himself to God.\n\nHe knows that God is a Shield unto him, so that there is no need to be afraid of ten thousands of people. He lies down in peace and sleeps, because God makes him to dwell in safety. He knows that God hath set him apart for Himself, and will answer to his call. He said all this, though he knew that these disasters were the result of his sin. But this is the prerogative of all whose iniquity is forgiven and whose sin is covered. Though we continue to blame ourselves, and “go softly” as we remember the past, yet we absolutely accept our Lord’s assurances that He will deliver us from the complications caused by our sins, and act as our rearguard against the consequences."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Helpers of the King -- 2 Samuel 17:15-29\n\nThe two young men were narrowly watched, and had it not been for the deception practiced on Absalom’s servants by the mistress of the house at Bahurim, they would probably not have reached David in time to put him on his guard. That her device secured his safety does not extenuate nor justify her falsehood. God could have found some other method of delivering his servant. Let us remember the warning voices that speak to us, bidding us beware of temptation. There is a river that we also may put between us and our pursuers. It is the Jordan of Calvary-the Cross of our Savior. Reckon yourselves dead unto sin!\n\nAs Ahithophel foreshadowed Judas in his treachery, so did he in his end. See Psalms 41:9; Matthew 27:5. He was not only mortified by the refusal of his advice, but clearly saw therein the inevitable triumph of David’s cause and the punishment that would follow. On the farther bank friends awaited the fugitives. For Shobi, see 2 Samuel 10:1-2; Machir, 2 Samuel 9:4. But Psalms 42:1-11; Psalms 43:1-5 reflect David’s feelings at this sad hour. Even in the night God’s song was with him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 17
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 18
+ }
+}

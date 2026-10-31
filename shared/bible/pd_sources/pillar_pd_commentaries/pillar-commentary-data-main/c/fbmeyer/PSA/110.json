@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 110,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Our Priest-King at God’s Right Hand -- Psalms 110:1-7\n\nLuther describes this psalm as “the true, high, main psalm of our beloved Lord Jesus Christ.” Our Lord attributed it to David, in the power of the Holy Spirit; and there is no portion of the Old Testament more frequently quoted in the New. See Matthew 22:44; 1 Corinthians 15:25; Hebrews 1:3; Hebrews 1:13; Hebrews 5:6; Hebrews 5:10; Hebrews 7:17; Hebrews 7:21. David speaks of the Messiah as my Lord. The inference as to the deity of our Lord is incontestable. His mighty scepter, the symbol of his rule, reaches from Son to the utmost limits of space and time. He waits till all his enemies are His footstool. Their character is evident in their attire-the beauties of holiness. They are as numerous and refreshing as dewdrops on parched meadows. There is an infinite attractiveness between our Savior and young life-thy youth.\n\nThe offices of priest and king were jealously kept apart in the old Hebrew monarchy, so the psalmist has to travel into the childhood of the world to find the type of a priesthood. Jesus is King and Priest after a more ancient and abiding order, which, it is testified, is based on a timeless life. Our Lord shall come to the throne from the battlefield. He shall bruise the serpent’s head, but He needs the refreshment of our love and faith. That is the wayside brook."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 110
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 109
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 111
+ }
+}

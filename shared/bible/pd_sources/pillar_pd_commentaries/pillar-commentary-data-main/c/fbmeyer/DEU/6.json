@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DEU",
+  "commentaryId": "fbmeyer",
+  "name": "Deuteronomy",
+  "commonName": "Deuteronomy",
+  "numberOfChapters": 34
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "How to Treat God’s Words -- Deuteronomy 6:1-19\n\nObedience is still the one condition of true prosperity and success. Lands still flow with milk and honey; and they live long who live well. Lives are measured by heart-throbs, and not by figures on the dial.\n\nDeuteronomy 6:4 is reckoned by pious Jews as one of the choicest portions of Scripture. They write it on their phylacteries and repeat it, with other verses, at least twice a day. Note the various methods for maintaining the religious atmosphere: (1) by meditation; (2) by the religious training of children; (3) by pious discourse and conversation; (4) by the persistent study of Scripture. When books are scarce, use wall-texts; but never substitute stray snippets, however sweet, for the whole meal of Scripture.\n\nLet us not forget how many of our present privileges and spiritual advantages must be credited to the prayers and the tears, the labors and the sufferings, of those who have left these precious inheritances to us, their children and heirs! We drink of cisterns we never hewed!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "No Compromise with Idolatry -- Deuteronomy 6:20-25; Deuteronomy 7:1-11\n\nThe great Lawgiver had His eye constantly on the coming generation. It is good when the children are so arrested by our religious life, that they come to ask us to tell them the reasons that account for it. Seek to live so purely and devoutly, and yet so attractively, that the young people around will be compelled to inquire after your secret, Luke 11:1.\n\nWe are not only to teach the children, but to guard them against forming friendships and making marriage alliances with those who might divert them from God. In the New Testament, Christians are forbidden to marry except “in the Lord,” and equally stringent are prohibitions against worldly intercourse, 1 Corinthians 7:39; 2 Corinthians 6:14.\n\nGod can break the seven-fold power of sin in the heart of those who are absolutely given over to Him and are willing to surrender their evil ways. This is pledged to us by His fidelity and love, Deuteronomy 7:8-9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DEU",
+  "chapter": 7
+ }
+}

@@ -1,0 +1,1309 @@
+{
+  "questions": [
+    {
+      "qid": "LUK_002_GEO01",
+      "passage_id": "LUK_002",
+      "book_order": 42,
+      "book": "Luke",
+      "testament": "NT",
+      "chapter": 2,
+      "verse_start": 4,
+      "verse_end": 7,
+      "citation": "Luke 2:4-7",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "Where was Jesus born?",
+      "options": [
+        "Bethlehem",
+        "Nazareth",
+        "Jerusalem",
+        "Capernaum"
+      ],
+      "correct_index": 0,
+      "explanation": "In Luke 2:4-7, Caesar Augustus's imperial tax census forces Joseph and Mary to travel south to Bethlehem—David's ancestral hometown—meaning the promised Messiah enters the world not in a royal palace in Jerusalem, but in a crowded Judean hill town.",
+      "location": {
+        "name": "Bethlehem",
+        "region": "Judea",
+        "type": "town",
+        "lat": 31.7054,
+        "lng": 35.2024
+      }
+    },
+    {
+      "qid": "LUK_002_GEO02",
+      "passage_id": "LUK_002",
+      "book_order": 42,
+      "book": "Luke",
+      "testament": "NT",
+      "chapter": 2,
+      "verse_start": 39,
+      "verse_end": 40,
+      "citation": "Luke 2:39-40",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "What town did Jesus grow up in?",
+      "options": [
+        "Jericho",
+        "Nazareth",
+        "Bethany",
+        "Hebron"
+      ],
+      "correct_index": 1,
+      "explanation": "Luke 2:39-40 records that Jesus grew up in Nazareth, an overlooked blue-collar village in Galilee so unremarkable that Nathanael later scoffed in John 1:46, 'Can anything good come out of Nazareth?'",
+      "location": {
+        "name": "Nazareth",
+        "region": "Galilee",
+        "type": "town",
+        "lat": 32.6996,
+        "lng": 35.3035
+      }
+    },
+    {
+      "qid": "JHN_004_GEO01",
+      "passage_id": "JHN_004",
+      "book_order": 43,
+      "book": "John",
+      "testament": "NT",
+      "chapter": 4,
+      "verse_start": 4,
+      "verse_end": 7,
+      "citation": "John 4:4-7",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "Where did Jesus speak to the woman at the well?",
+      "options": [
+        "Cana in Galilee",
+        "Bethany near Jerusalem",
+        "Samaria (Sychar)",
+        "Joppa on the coast"
+      ],
+      "correct_index": 2,
+      "explanation": "In John 4:4-7, Jesus stops at Jacob's well outside Sychar in Samaria, breaking centuries of bitter ethnic and religious hostility between Jews and Samaritans to offer living water to a socially ostracized woman.",
+      "location": {
+        "name": "Sychar",
+        "region": "Samaria",
+        "type": "town",
+        "lat": 32.2136,
+        "lng": 35.2856
+      }
+    },
+    {
+      "qid": "MAT_003_GEO01",
+      "passage_id": "MAT_003",
+      "book_order": 40,
+      "book": "Matthew",
+      "testament": "NT",
+      "chapter": 3,
+      "verse_start": 13,
+      "verse_end": 17,
+      "citation": "Matthew 3:13",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "In what river did John baptize Jesus?",
+      "options": [
+        "Nile River",
+        "Euphrates River",
+        "Kishon River",
+        "Jordan River"
+      ],
+      "correct_index": 3,
+      "explanation": "In Matthew 3:13, Jesus steps down into the Jordan River—the same historic boundary Joshua crossed to bring Israel into the Promised Land—publicly identifying himself with ordinary people seeking spiritual renewal.",
+      "location": {
+        "name": "Jordan River",
+        "region": "Judean Wilderness",
+        "type": "river",
+        "lat": 31.8369,
+        "lng": 35.5464
+      }
+    },
+    {
+      "qid": "MAT_002_GEO01",
+      "passage_id": "MAT_002",
+      "book_order": 40,
+      "book": "Matthew",
+      "testament": "NT",
+      "chapter": 2,
+      "verse_start": 13,
+      "verse_end": 15,
+      "citation": "Matthew 2:13-15",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "To what country did Joseph and Mary flee to protect baby Jesus from Herod?",
+      "options": [
+        "Egypt",
+        "Syria",
+        "Greece",
+        "Persia"
+      ],
+      "correct_index": 0,
+      "explanation": "Matthew 2:13-15 shows Joseph taking Mary and Jesus by night across the border into Egypt to escape King Herod's purge, turning Israel's ancient land of slavery into a temporary sanctuary for the Messiah.",
+      "location": {
+        "name": "Egypt",
+        "region": "North Africa",
+        "type": "region",
+        "lat": 30.0444,
+        "lng": 31.2357
+      }
+    },
+    {
+      "qid": "MRK_004_GEO01",
+      "passage_id": "MRK_004",
+      "book_order": 41,
+      "book": "Mark",
+      "testament": "NT",
+      "chapter": 4,
+      "verse_start": 35,
+      "verse_end": 41,
+      "citation": "Mark 4:35-41",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "On what sea did Jesus calm the storm and walk on water?",
+      "options": [
+        "Dead Sea",
+        "Sea of Galilee",
+        "Red Sea",
+        "Mediterranean Sea"
+      ],
+      "correct_index": 1,
+      "explanation": "Sitting roughly 700 feet below sea level and surrounded by steep hills, the Sea of Galilee (Mark 4:35-41) was notorious for sudden violent windstorms that tested even veteran fishermen like Peter and Andrew.",
+      "location": {
+        "name": "Sea of Galilee",
+        "region": "Galilee",
+        "type": "sea",
+        "lat": 32.8231,
+        "lng": 35.5831
+      }
+    },
+    {
+      "qid": "JHN_002_GEO01",
+      "passage_id": "JHN_002",
+      "book_order": 43,
+      "book": "John",
+      "testament": "NT",
+      "chapter": 2,
+      "verse_start": 1,
+      "verse_end": 11,
+      "citation": "John 2:1-11",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "In what village did Jesus turn water into wine at a wedding?",
+      "options": [
+        "Bethsaida",
+        "Emmaus",
+        "Cana",
+        "Nain"
+      ],
+      "correct_index": 2,
+      "explanation": "In John 2:1-11, Jesus performs his first public sign not in the Jerusalem Temple before religious elites, but at a local village wedding feast in Cana of Galilee to save a bride and groom from public embarrassment.",
+      "location": {
+        "name": "Cana",
+        "region": "Galilee",
+        "type": "town",
+        "lat": 32.7486,
+        "lng": 35.3414
+      }
+    },
+    {
+      "qid": "MAT_026_GEO01",
+      "passage_id": "MAT_026",
+      "book_order": 40,
+      "book": "Matthew",
+      "testament": "NT",
+      "chapter": 26,
+      "verse_start": 36,
+      "verse_end": 46,
+      "citation": "Matthew 26:36",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "In what garden did Jesus pray the night he was arrested?",
+      "options": [
+        "Garden of Eden",
+        "Solomon's Porch",
+        "Vineyard of Naboth",
+        "Garden of Gethsemane"
+      ],
+      "correct_index": 3,
+      "explanation": "Located at the foot of the Mount of Olives, Gethsemane (Matthew 26:36) literally means 'oil press'—the olive grove where Jesus faced crushing anguish and chose to surrender to the Father's will rather than flee into the night.",
+      "location": {
+        "name": "Garden of Gethsemane",
+        "region": "Jerusalem",
+        "type": "garden",
+        "lat": 31.7794,
+        "lng": 35.2397
+      }
+    },
+    {
+      "qid": "LUK_023_GEO01",
+      "passage_id": "LUK_023",
+      "book_order": 42,
+      "book": "Luke",
+      "testament": "NT",
+      "chapter": 23,
+      "verse_start": 33,
+      "verse_end": 46,
+      "citation": "Luke 23:33",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "In what city was Jesus crucified and raised?",
+      "options": [
+        "Jerusalem",
+        "Rome",
+        "Antioch",
+        "Damascus"
+      ],
+      "correct_index": 0,
+      "explanation": "Jerusalem (Luke 23:33) was the spiritual and political heart of Judaism where Passover lambs were sacrificed for centuries, making it the exact stage where Jesus was publicly executed and raised from the dead.",
+      "location": {
+        "name": "Jerusalem",
+        "region": "Judea",
+        "type": "city",
+        "lat": 31.7784,
+        "lng": 35.2297
+      }
+    },
+    {
+      "qid": "ACT_009_GEO01",
+      "passage_id": "ACT_009",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 9,
+      "verse_start": 1,
+      "verse_end": 6,
+      "citation": "Acts 9:1-3",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "On what road was Saul traveling when a blinding light stopped him?",
+      "options": [
+        "Road to Jericho",
+        "Road to Damascus",
+        "Road to Gaza",
+        "Road to Emmaus"
+      ],
+      "correct_index": 1,
+      "explanation": "In Acts 9:1-3, Saul is marching nearly 150 miles north on the Road to Damascus with extradition letters to arrest followers of Jesus when the risen Christ intercepts him and turns the church's fiercest prosecutor into its boldest missionary.",
+      "location": {
+        "name": "Road to Damascus",
+        "region": "Syria",
+        "type": "road",
+        "lat": 33.5138,
+        "lng": 36.2765
+      }
+    },
+    {
+      "qid": "LUK_019_GEO01",
+      "passage_id": "LUK_019",
+      "book_order": 42,
+      "book": "Luke",
+      "testament": "NT",
+      "chapter": 19,
+      "verse_start": 1,
+      "verse_end": 5,
+      "citation": "Luke 19:1-5",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "In what city did Zacchaeus climb a tree to see Jesus?",
+      "options": [
+        "Tiberias",
+        "Caesarea",
+        "Jericho",
+        "Lydda"
+      ],
+      "correct_index": 2,
+      "explanation": "Jericho (Luke 19:1-5) was a wealthy customs hub along the Jordan Valley trade route, making it a lucrative post for a chief tax collector like Zacchaeus until meeting Jesus completely rewired his greed into generosity.",
+      "location": {
+        "name": "Jericho",
+        "region": "Judea",
+        "type": "city",
+        "lat": 31.8611,
+        "lng": 35.4603
+      }
+    },
+    {
+      "qid": "JHN_011_GEO01",
+      "passage_id": "JHN_011",
+      "book_order": 43,
+      "book": "John",
+      "testament": "NT",
+      "chapter": 11,
+      "verse_start": 1,
+      "verse_end": 18,
+      "citation": "John 11:1-18",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "In what village did Jesus raise his friend Lazarus from the dead?",
+      "options": [
+        "Nain",
+        "Bethphage",
+        "Ramah",
+        "Bethany"
+      ],
+      "correct_index": 3,
+      "explanation": "Located less than two miles from Jerusalem, Bethany (John 11:1-18) was close enough to the capital that raising Lazarus from the tomb after four days triggered an immediate panic among the high priest Caiaphas and the Sanhedrin.",
+      "location": {
+        "name": "Bethany",
+        "region": "Judea",
+        "type": "town",
+        "lat": 31.7714,
+        "lng": 35.2611
+      }
+    },
+    {
+      "qid": "MAT_004_GEO01",
+      "passage_id": "MAT_004",
+      "book_order": 40,
+      "book": "Matthew",
+      "testament": "NT",
+      "chapter": 4,
+      "verse_start": 13,
+      "verse_end": 16,
+      "citation": "Matthew 4:13",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "What lakeside town became the main home base for Jesus' ministry?",
+      "options": [
+        "Capernaum",
+        "Beersheba",
+        "Joppa",
+        "Shiloh"
+      ],
+      "correct_index": 0,
+      "explanation": "When Jesus launched his public ministry in Matthew 4:13, he moved from hillside Nazareth to Capernaum—a bustling fishing and trade town on the northern shore of the Sea of Galilee where Peter, Andrew, and Matthew lived and worked.",
+      "location": {
+        "name": "Capernaum",
+        "region": "Galilee",
+        "type": "town",
+        "lat": 32.8803,
+        "lng": 35.5753
+      }
+    },
+    {
+      "qid": "ACT_028_GEO01",
+      "passage_id": "ACT_028",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 28,
+      "verse_start": 14,
+      "verse_end": 16,
+      "citation": "Acts 28:14-16",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "To what capital city was Paul taken in chains to stand trial before Caesar?",
+      "options": [
+        "Athens",
+        "Rome",
+        "Alexandria",
+        "Babylon"
+      ],
+      "correct_index": 1,
+      "explanation": "By appealing his case to Caesar, Paul used the Roman legal system to travel under imperial guard all the way to Rome (Acts 28:14-16), preaching the gospel without hindrance right inside the capital of the empire.",
+      "location": {
+        "name": "Rome",
+        "region": "Italy",
+        "type": "city",
+        "lat": 41.9028,
+        "lng": 12.4964
+      }
+    },
+    {
+      "qid": "REV_001_GEO01",
+      "passage_id": "REV_001",
+      "book_order": 66,
+      "book": "Revelation",
+      "testament": "NT",
+      "chapter": 1,
+      "verse_start": 9,
+      "verse_end": 11,
+      "citation": "Revelation 1:9",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 1,
+      "question": "On what rocky island was John exiled when he wrote Revelation?",
+      "options": [
+        "Cyprus",
+        "Crete",
+        "Patmos",
+        "Malta"
+      ],
+      "correct_index": 2,
+      "explanation": "Rome banished the apostle John to Patmos (Revelation 1:9), a barren Aegean island used for political prisoners, only for John to receive a sweeping vision there showing that Christ's kingdom would outlast the Roman Empire.",
+      "location": {
+        "name": "Patmos",
+        "region": "Aegean Sea",
+        "type": "island",
+        "lat": 37.3189,
+        "lng": 26.5489
+      }
+    },
+    {
+      "qid": "LUK_024_GEO01",
+      "passage_id": "LUK_024",
+      "book_order": 42,
+      "book": "Luke",
+      "testament": "NT",
+      "chapter": 24,
+      "verse_start": 13,
+      "verse_end": 32,
+      "citation": "Luke 24:13-32",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "On Easter Sunday in Luke 24, toward what village seven miles from Jerusalem are two discouraged disciples walking when the risen Jesus joins them on the road?",
+      "options": [
+        "Bethphage on the eastern slope of the Mount of Olives",
+        "Arimathea in the hill country of Ephraim",
+        "Lydda along the coastal plain toward Joppa",
+        "Emmaus along the Judean hill country road"
+      ],
+      "correct_index": 3,
+      "explanation": "In Luke 24:13-32, the seven-mile walk to Emmaus captures the exact psychological retreat of two disillusioned followers walking away from Jerusalem after their hopes were crushed—until the risen Jesus opens the Scriptures and breaks bread with them.",
+      "location": {
+        "name": "Emmaus",
+        "region": "Judea",
+        "type": "town",
+        "lat": 31.8389,
+        "lng": 34.9894
+      }
+    },
+    {
+      "qid": "ACT_001_GEO01",
+      "passage_id": "ACT_001",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 1,
+      "verse_start": 9,
+      "verse_end": 12,
+      "citation": "Acts 1:9-12",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "From what ridge overlooking Jerusalem from the east does Jesus commission his disciples and ascend in Acts 1?",
+      "options": [
+        "Mount of Olives across the Kidron Valley",
+        "Mount Tabor in the valley of Jezreel",
+        "Mount Gerizim in central Samaria",
+        "Mount Carmel overlooking the Mediterranean coast"
+      ],
+      "correct_index": 0,
+      "explanation": "In Acts 1:9-12, Jesus ascends from the Mount of Olives directly overlooking Jerusalem—the same ridge where he wept over the city and sweated blood in Gethsemane—turning a site of grief into the launchpad of the global mission.",
+      "location": {
+        "name": "Mount of Olives",
+        "region": "Jerusalem",
+        "type": "mountain",
+        "lat": 31.7781,
+        "lng": 35.2458
+      }
+    },
+    {
+      "qid": "ACT_011_GEO01",
+      "passage_id": "ACT_011",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 11,
+      "verse_start": 19,
+      "verse_end": 26,
+      "citation": "Acts 11:19-26",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what cosmopolitan Syrian city in Acts 11 did Jewish and Greek believers form a multi-ethnic church where the disciples were first called 'Christians'?",
+      "options": [
+        "Damascus along the inland caravan highway",
+        "Antioch on the Orontes River in Syria",
+        "Caesarea Maritima on the Judean coast",
+        "Alexandria at the mouth of the Nile delta"
+      ],
+      "correct_index": 1,
+      "explanation": "Acts 11:19-26 shows that in Syrian Antioch—the third-largest city in the Roman Empire—followers of Jesus crossed ethnic boundaries so visibly that locals had to coin a brand-new label, 'Christians,' because the movement could no longer be categorized as a Jewish sect.",
+      "location": {
+        "name": "Antioch",
+        "region": "Syria",
+        "type": "city",
+        "lat": 36.2021,
+        "lng": 36.1601
+      }
+    },
+    {
+      "qid": "ACT_016_GEO01",
+      "passage_id": "ACT_016",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 16,
+      "verse_start": 12,
+      "verse_end": 34,
+      "citation": "Acts 16:12-34",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "When Paul crosses into Europe in Acts 16, in what leading Macedonian city do both the wealthy merchant Lydia and a blue-collar Roman jailer come to faith?",
+      "options": [
+        "Berea in the foothills of southern Macedonia",
+        "Neapolis on the northern Aegean shoreline",
+        "Philippi, a proud Roman colony in Macedonia",
+        "Corinth on the narrow Greek isthmus"
+      ],
+      "correct_index": 2,
+      "explanation": "In Philippi (Acts 16:12-34), the very first European church starts with an unlikely household merge: Lydia, an affluent businesswoman dealing in luxury purple cloth, and a rough Roman prison warden who nearly took his own life during a midnight earthquake.",
+      "location": {
+        "name": "Philippi",
+        "region": "Macedonia",
+        "type": "city",
+        "lat": 41.0131,
+        "lng": 24.2842
+      }
+    },
+    {
+      "qid": "ACT_017_GEO01",
+      "passage_id": "ACT_017",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 17,
+      "verse_start": 16,
+      "verse_end": 34,
+      "citation": "Acts 17:16-34",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what historic Greek city and council site in Acts 17 does Paul use an altar inscribed 'To an Unknown God' to debate Stoic and Epicurean philosophers?",
+      "options": [
+        "The great amphitheater at Ephesus in Asia Minor",
+        "The judgment tribunal of Gallio in Corinth",
+        "The royal hall of Agrippa in Caesarea",
+        "The Areopagus (Mars Hill) in Athens"
+      ],
+      "correct_index": 3,
+      "explanation": "Standing on the Areopagus in Athens (Acts 17:16-34)—the intellectual capital of antiquity—Paul neither compromises his message nor insults his audience, instead quoting their own Greek poets and using their 'Unknown God' altar as a bridge to proclaim the Creator and the resurrection.",
+      "location": {
+        "name": "Areopagus (Athens)",
+        "region": "Achaia",
+        "type": "city",
+        "lat": 37.9722,
+        "lng": 23.7233
+      }
+    },
+    {
+      "qid": "JHN_005_GEO01",
+      "passage_id": "JHN_005",
+      "book_order": 43,
+      "book": "John",
+      "testament": "NT",
+      "chapter": 5,
+      "verse_start": 2,
+      "verse_end": 9,
+      "citation": "John 5:2-9",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "Beside what five-porticoed Jerusalem pool near the Sheep Gate in John 5 does Jesus heal a man who had been paralyzed for thirty-eight years?",
+      "options": [
+        "Pool of Bethesda in northern Jerusalem",
+        "Pool of Gibeon northwest of the capital",
+        "Waters of Merom in upper Galilee",
+        "Spring of En-gedi near the Dead Sea"
+      ],
+      "correct_index": 0,
+      "explanation": "At the Pool of Bethesda (John 5:2-9), where desperate invalids waited for a superstition of stirred water, Jesus cuts through thirty-eight years of helpless excuses by asking the man directly, 'Do you want to get well?' before commanding him to pick up his mat and walk.",
+      "location": {
+        "name": "Pool of Bethesda",
+        "region": "Jerusalem",
+        "type": "pool",
+        "lat": 31.7814,
+        "lng": 35.2364
+      }
+    },
+    {
+      "qid": "JHN_009_GEO01",
+      "passage_id": "JHN_009",
+      "book_order": 43,
+      "book": "John",
+      "testament": "NT",
+      "chapter": 9,
+      "verse_start": 6,
+      "verse_end": 7,
+      "citation": "John 9:6-7",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "To what historic water reservoir at the southern end of Jerusalem does Jesus send a man born blind to wash the mud from his eyes in John 9?",
+      "options": [
+        "Brook Kidron below the eastern temple wall",
+        "Pool of Siloam, whose name means 'Sent'",
+        "Solomon's Pools south of Bethlehem",
+        "Spring of Harod at the foot of Mount Gilboa"
+      ],
+      "correct_index": 1,
+      "explanation": "In John 9:6-7, Jesus sends the blind man to wash in the Pool of Siloam—fed by Hezekiah's ancient tunnel and meaning 'Sent'—setting up a sharp dramatic contrast where a beggar born blind gains clear sight while the religious Pharisees harden into spiritual blindness.",
+      "location": {
+        "name": "Pool of Siloam",
+        "region": "Jerusalem",
+        "type": "pool",
+        "lat": 31.7706,
+        "lng": 35.2350
+      }
+    },
+    {
+      "qid": "MAT_016_GEO01",
+      "passage_id": "MAT_016",
+      "book_order": 40,
+      "book": "Matthew",
+      "testament": "NT",
+      "chapter": 16,
+      "verse_start": 13,
+      "verse_end": 18,
+      "citation": "Matthew 16:13-18",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what pagan temple city at the base of Mount Hermon does Jesus ask his disciples, 'Who do you say that I am?' in Matthew 16?",
+      "options": [
+        "Tiberias on the western shore of Galilee",
+        "Sepphoris, the administrative capital of Galilee",
+        "Caesarea Philippi at the northern headwaters of the Jordan",
+        "Ptolemais along the Phoenician seacoast"
+      ],
+      "correct_index": 2,
+      "explanation": "Caesarea Philippi (Matthew 16:13-18) stood right in front of a massive cliff carved with shrines to the Greek god Pan (known locally as 'the gates of Hades') and Caesar's imperial temple—making it the boldest possible backdrop for Peter to declare Jesus the true Messiah and for Jesus to promise that the gates of Hades will not overcome his church.",
+      "location": {
+        "name": "Caesarea Philippi",
+        "region": "Gaulanitis",
+        "type": "city",
+        "lat": 33.2483,
+        "lng": 35.6942
+      }
+    },
+    {
+      "qid": "ACT_010_GEO01",
+      "passage_id": "ACT_010",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 10,
+      "verse_start": 5,
+      "verse_end": 16,
+      "citation": "Acts 10:5-16",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what Mediterranean port town in Acts 10 is Peter staying at Simon the tanner's house when a rooftop vision prepares him to welcome Gentiles?",
+      "options": [
+        "Sidon on the northern Phoenician coast",
+        "Gaza near the southern desert road",
+        "Ashdod in the ancient Philistine plain",
+        "Joppa on the Judean Mediterranean coast"
+      ],
+      "correct_index": 3,
+      "explanation": "It is rich historical irony that in Joppa (Acts 10:5-16)—the very port where Jonah once boarded a ship to flee rather than preach to Gentiles—Peter receives a vision dismantling his prejudice and sends him straight to the Roman centurion Cornelius.",
+      "location": {
+        "name": "Joppa",
+        "region": "Judea",
+        "type": "city",
+        "lat": 32.0543,
+        "lng": 34.7516
+      }
+    },
+    {
+      "qid": "ACT_019_GEO01",
+      "passage_id": "ACT_019",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 19,
+      "verse_start": 23,
+      "verse_end": 34,
+      "citation": "Acts 19:23-34",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what major city of Asia Minor in Acts 19 does the silversmith Demetrius spark a massive theater riot because Paul's preaching is hurting idol sales?",
+      "options": [
+        "Ephesus, home of the famous temple of Artemis",
+        "Smyrna, a rival harbor city to the north",
+        "Pergamum, seat of the imperial altar of Zeus",
+        "Tarsus, capital of the province of Cilicia"
+      ],
+      "correct_index": 0,
+      "explanation": "In Ephesus (Acts 19:23-34), where the Temple of Artemis was one of the Seven Wonders of the Ancient World and a massive banking and tourism engine, Paul's gospel disrupted the local economy so deeply that silversmiths incited a two-hour mob chant inside the 24,000-seat theater.",
+      "location": {
+        "name": "Ephesus",
+        "region": "Asia Minor",
+        "type": "city",
+        "lat": 37.9411,
+        "lng": 27.3419
+      }
+    },
+    {
+      "qid": "ACT_021_GEO01",
+      "passage_id": "ACT_021",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 21,
+      "verse_start": 39,
+      "verse_end": 39,
+      "citation": "Acts 21:39",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "When arrested in Jerusalem in Acts 21, what prominent university and trade city in Cilicia does Paul identify as his hometown—'no ordinary city'?",
+      "options": [
+        "Iconium on the central Anatolian plateau",
+        "Tarsus in the southeastern province of Cilicia",
+        "Derbe near the eastern border of Galatia",
+        "Troas on the northwestern coast of Mysia"
+      ],
+      "correct_index": 1,
+      "explanation": "Being born in Tarsus of Cilicia (Acts 21:39)—a bustling crossroads of Greek philosophy, Roman civic administration, and Diaspora synagogue life—uniquely equipped Paul with both fluency in Greek culture and inherited Roman citizenship.",
+      "location": {
+        "name": "Tarsus",
+        "region": "Cilicia",
+        "type": "city",
+        "lat": 36.9165,
+        "lng": 34.8952
+      }
+    },
+    {
+      "qid": "ACT_028_GEO02",
+      "passage_id": "ACT_028",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 28,
+      "verse_start": 1,
+      "verse_end": 6,
+      "citation": "Acts 28:1-6",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "After two weeks adrift in a violent storm in Acts 27–28, on what central Mediterranean island do Paul and all 276 passengers safely wash ashore?",
+      "options": [
+        "Rhodes off the southwestern coast of Asia Minor",
+        "Samos in the eastern Aegean archipelago",
+        "Malta south of Sicily in the Mediterranean",
+        "Salamis on the eastern shore of Cyprus"
+      ],
+      "correct_index": 2,
+      "explanation": "On the island of Malta (Acts 28:1-6), the shipwrecked survivors are welcomed with extraordinary kindness by the locals, and when Paul shakes a venomous viper off his hand into the fire without dying, it opens the door to heal the island chief's father.",
+      "location": {
+        "name": "Malta",
+        "region": "Mediterranean Sea",
+        "type": "island",
+        "lat": 35.9481,
+        "lng": 14.3806
+      }
+    },
+    {
+      "qid": "JHN_019_GEO01",
+      "passage_id": "JHN_019",
+      "book_order": 43,
+      "book": "John",
+      "testament": "NT",
+      "chapter": 19,
+      "verse_start": 16,
+      "verse_end": 18,
+      "citation": "John 19:16-18",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "Outside the walls of Jerusalem in John 19, what Aramaic name meaning 'Place of a Skull' is given to the execution site where Jesus was crucified?",
+      "options": [
+        "Gabbatha, the stone pavement of Pilate's court",
+        "Akeldama, the potter's field of blood",
+        "Armageddon, the mount of Megiddo",
+        "Golgotha, just outside the city gate"
+      ],
+      "correct_index": 3,
+      "explanation": "Romans positioned execution sites like Golgotha (John 19:16-18) right outside city gates along busy entry roads as a brutal public billboard of imperial terror—yet that public humiliation became the exact centerpiece of human redemption.",
+      "location": {
+        "name": "Golgotha",
+        "region": "Jerusalem",
+        "type": "mountain",
+        "lat": 31.7784,
+        "lng": 35.2297
+      }
+    },
+    {
+      "qid": "MRK_005_GEO01",
+      "passage_id": "MRK_005",
+      "book_order": 41,
+      "book": "Mark",
+      "testament": "NT",
+      "chapter": 5,
+      "verse_start": 1,
+      "verse_end": 20,
+      "citation": "Mark 5:1-20",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "Across the Sea of Galilee in Mark 5, in what Gentile region of the Decapolis do locals beg Jesus to leave after a healed man's demons drown two thousand pigs?",
+      "options": [
+        "The region of the Gerasenes (Gadara) on the eastern shore",
+        "The plain of Gennesaret on the northwestern shore",
+        "The valley of Sharon along the western coast",
+        "The hill country of Ephraim north of Judea"
+      ],
+      "correct_index": 0,
+      "explanation": "In the Gentile region of the Gerasenes (Mark 5:1-20), the townspeople value their lost herd of two thousand pigs more than the restoration of a tortured human being—yet Jesus commissions the healed man as the first missionary to the ten pagan cities of the Decapolis.",
+      "location": {
+        "name": "Gergesa (Gerasenes)",
+        "region": "Decapolis",
+        "type": "region",
+        "lat": 32.7850,
+        "lng": 35.6494
+      }
+    },
+    {
+      "qid": "ACT_018_GEO01",
+      "passage_id": "ACT_018",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 18,
+      "verse_start": 1,
+      "verse_end": 11,
+      "citation": "Acts 18:1-11",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 2,
+      "question": "In what commercial Greek port city in Acts 18 does Paul spend eighteen months making tents with Aquila and Priscilla while planting a famously turbulent church?",
+      "options": [
+        "Thessalonica along the Via Egnatia highway",
+        "Corinth, capital of the Roman province of Achaia",
+        "Colossae in the Lycus Valley of Phrygia",
+        "Miletus on the western coast of Caria"
+      ],
+      "correct_index": 1,
+      "explanation": "Corinth (Acts 18:1-11) was a booming, status-obsessed commercial hub where newly rich merchants, freedmen, and dockworkers collided—explaining why Paul stayed eighteen months and later wrote two intense letters confronting their pride, lawsuits, and cliques.",
+      "location": {
+        "name": "Corinth",
+        "region": "Achaia",
+        "type": "city",
+        "lat": 37.9061,
+        "lng": 22.8806
+      }
+    },
+    {
+      "qid": "REV_003_GEO01",
+      "passage_id": "REV_003",
+      "book_order": 66,
+      "book": "Revelation",
+      "testament": "NT",
+      "chapter": 3,
+      "verse_start": 14,
+      "verse_end": 18,
+      "citation": "Revelation 3:14-18",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "In Revelation 3:14-18, why did Jesus' rebuke that the church was 'neither hot nor cold, but lukewarm' carry such a razor-sharp local sting for the residents of Laodicea?",
+      "options": [
+        "Laodicea was situated on a volcanic fault line where unpredictable geysers boiled the local crops.",
+        "Laodicea was a high-altitude mountain fortress whose winter snowstorms froze the city's Roman cisterns.",
+        "Laodicea piped its water miles via aqueduct between Hierapolis's hot medicinal springs and Colossae's cold mountain streams, arriving tepid and nauseating.",
+        "Laodicea controlled the salt marshes of Phrygia where stagnant brackish water poisoned passing merchant caravans."
+      ],
+      "correct_index": 2,
+      "explanation": "Unlike neighboring Hierapolis (famous for hot healing springs) and Colossae (famous for refreshing cold mountain water), wealthy Laodicea had to pipe its water from miles away so it arrived lukewarm and mineral-heavy—making Jesus' warning in Revelation 3:15-16 an unforgettable indictment of their spiritually useless self-sufficiency.",
+      "location": {
+        "name": "Laodicea",
+        "region": "Asia Minor",
+        "type": "city",
+        "lat": 37.8358,
+        "lng": 29.1078
+      }
+    },
+    {
+      "qid": "ACT_017_GEO02",
+      "passage_id": "ACT_017",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 17,
+      "verse_start": 10,
+      "verse_end": 14,
+      "citation": "Acts 17:10-14",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "When Paul and Silas slip away by night from mob violence in Thessalonica to the inland Macedonian town of Berea in Acts 17:10-14, what specific intellectual posture makes Luke call the Bereans 'more noble'?",
+      "options": [
+        "They demanded that Paul perform physical miracles in the city square before allowing him to speak in the synagogue.",
+        "They deferred entirely to the rabbinic rulings of Jerusalem before accepting any new messianic teaching.",
+        "They forbade political discussions in the marketplace so Roman authorities would not revoke their tax exemption.",
+        "They received the message with eager openness while examining the Scriptures daily to verify whether Paul's claims were true."
+      ],
+      "correct_index": 3,
+      "explanation": "In Acts 17:10-11, off the main Via Egnatia highway in Berea, the synagogue community modeled the gold standard of intellectual and spiritual maturity: neither gullibly accepting every new teacher nor defensively rioting like Thessalonica, but eagerly testing every claim against the text of Scripture.",
+      "location": {
+        "name": "Berea",
+        "region": "Macedonia",
+        "type": "town",
+        "lat": 40.5244,
+        "lng": 22.2028
+      }
+    },
+    {
+      "qid": "JHN_004_GEO02",
+      "passage_id": "JHN_004",
+      "book_order": 43,
+      "book": "John",
+      "testament": "NT",
+      "chapter": 4,
+      "verse_start": 3,
+      "verse_end": 9,
+      "citation": "John 4:3-9",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "When John 4:4 states that Jesus 'had to pass through Samaria' on his journey from Judea back to Galilee, why is that statement about the central ridge route so revealing?",
+      "options": [
+        "Strict Jews routinely detoured east across the Jordan River through Perea to avoid Samaritan contamination, meaning Jesus' compulsion was a deliberate mission choice rather than a lack of alternate roads.",
+        "Roman military checkpoints had closed the coastal highway and the Jordan Valley road during the Passover festival.",
+        "Flash floods from Mount Hermon had washed out the bridges along the eastern bank of the Sea of Galilee.",
+        "Jewish law required rabbis traveling north from Jerusalem to pay a temple toll at Mount Gerizim in Samaria."
+      ],
+      "correct_index": 0,
+      "explanation": "While the ridge road through Samaria was the shortest route between Judea and Galilee, pious Jews often took the longer bypass down the Jordan Valley through Perea to avoid defilement—showing that when John 4:4 says Jesus 'had to' go through Samaria, it was a divine appointment to dismantle ethnic hostility.",
+      "location": {
+        "name": "Samaria",
+        "region": "Samaria",
+        "type": "region",
+        "lat": 32.2764,
+        "lng": 35.1950
+      }
+    },
+    {
+      "qid": "1CO_001_GEO01",
+      "passage_id": "1CO_001",
+      "book_order": 46,
+      "book": "1 Corinthians",
+      "testament": "NT",
+      "chapter": 1,
+      "verse_start": 10,
+      "verse_end": 29,
+      "citation": "1 Corinthians 1:10-29",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "How did Corinth's unique geography straddling the narrow four-mile isthmus between the Aegean and Adriatic seas directly fuel the church dysfunctions Paul confronts in 1 Corinthians?",
+      "options": [
+        "Its isolation in the Peloponnesian mountains bred a monastic asceticism that rejected marriage and commerce.",
+        "Controlling two harbors (Lechaeum and Cenchreae) created a hyper-competitive, status-obsessed boomtown culture that infected the church with celebrity factions, lawsuits, and class humiliation at the Lord's Supper.",
+        "Its economy depended entirely on agricultural estates worked by Spartan helots who revolted against the church elders.",
+        "Its proximity to Mount Olympus made the church dependent on seasonal pilgrims who abandoned the city every winter."
+      ],
+      "correct_index": 1,
+      "explanation": "Because ancient sailors dragged cargo across Corinth's four-mile isthmus rather than risk the deadly cape of southern Greece, Corinth became a ruthless, upward-mobility boomtown—and its obsession with wealth, patronage, and rhetorical status spilled straight into the church fractures of 1 Corinthians 1 and 11.",
+      "location": {
+        "name": "Isthmus of Corinth",
+        "region": "Achaia",
+        "type": "region",
+        "lat": 37.9344,
+        "lng": 22.9869
+      }
+    },
+    {
+      "qid": "ACT_027_GEO01",
+      "passage_id": "ACT_027",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 27,
+      "verse_start": 8,
+      "verse_end": 15,
+      "citation": "Acts 27:8-15",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "At Fair Havens on the southern coast of Crete in Acts 27:8-15, why do the centurion and ship's pilot overrule Paul's warning and sail straight into a catastrophic hurricane ('Euroclydon')?",
+      "options": [
+        "They were fleeing a pirate fleet operating out of the coves of southern Cilicia.",
+        "They needed to deliver perishable Egyptian grain to Athens before the Olympic games began.",
+        "Because Fair Havens was an inconvenient harbor for wintering and a deceptive gentle south wind blew, the majority gambled on reaching Phoenix forty miles west just before the hurricane struck.",
+        "The Roman governor of Crete ordered all Alexandrian prisoner ships out of port within twenty-four hours."
+      ],
+      "correct_index": 2,
+      "explanation": "Acts 27:8-15 is a masterclass in how groupthink and short-term comfort produce disaster: unwilling to spend a dull winter in inconvenient Fair Havens, the crew mistook a mild south breeze for an endorsement of their plan—right before a violent northeaster swept down off Mount Ida and wrecked the ship.",
+      "location": {
+        "name": "Fair Havens (Crete)",
+        "region": "Crete",
+        "type": "island",
+        "lat": 34.9286,
+        "lng": 24.8086
+      }
+    },
+    {
+      "qid": "ACT_013_GEO01",
+      "passage_id": "ACT_013",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 13,
+      "verse_start": 1,
+      "verse_end": 4,
+      "citation": "Acts 13:1-4",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "In the strategic arc of Acts 13:1-4, why did Syrian Antioch—rather than Jerusalem—become the primary launchpad for Paul's missionary journeys across the Roman world?",
+      "options": [
+        "The Roman Emperor Claudius had permanently banned all travel out of Judea following a famine.",
+        "The apostles in Jerusalem opposed sharing the gospel outside the borders of historic Israel.",
+        "Antioch possessed the only deep-water naval shipyard capable of crossing the Aegean Sea.",
+        "While Jerusalem wrestled with temple-centered cultural pressures, cosmopolitan Antioch had already forged a multi-ethnic leadership team primed to cross cultural and geographic frontiers."
+      ],
+      "correct_index": 3,
+      "explanation": "Acts 13:1-4 reveals that Antioch's leadership roster—spanning Barnabas from Cyprus, Simeon called Niger, Lucius of Cyrene, Manaen raised with Herod, and Saul of Tarsus—already looked like the Mediterranean world, making it the natural hub to send missionaries into the Gentile empire.",
+      "location": {
+        "name": "Seleucia Pieria (Port of Antioch)",
+        "region": "Syria",
+        "type": "city",
+        "lat": 36.1244,
+        "lng": 35.9219
+      }
+    },
+    {
+      "qid": "ACT_016_GEO02",
+      "passage_id": "ACT_016",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 16,
+      "verse_start": 35,
+      "verse_end": 40,
+      "citation": "Acts 16:35-40",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "Why did Paul wait until the morning *after* he and Silas were beaten and jailed in Philippi (Acts 16:35-40) to reveal his Roman citizenship and demand a public escort from the city magistrates?",
+      "options": [
+        "Because Philippi prized its status as a Roman colony (*ius Italicum*), exposing that the magistrates had illegally beaten uncondemned Roman citizens forced the officials to publicly vindicate the fledgling church before Paul left town.",
+        "Paul had lost his citizenship papers during the midnight earthquake and had to wait for Luke to bring copies.",
+        "Roman law only protected citizens after sunrise when the praetorian court was officially in session.",
+        "Paul wanted to collect financial damages from the Philippian treasury to fund his next journey to Athens."
+      ],
+      "correct_index": 0,
+      "explanation": "Philippi was fiercely proud of its status as a miniature Rome in Macedonia; by invoking his Roman citizenship after the magistrates tried to hush up their illegal beating in Acts 16:35-40, Paul put the officials on the defensive and secured legal protection for Lydia and the new believers.",
+      "location": {
+        "name": "Agora of Philippi",
+        "region": "Macedonia",
+        "type": "city",
+        "lat": 41.0125,
+        "lng": 24.2839
+      }
+    },
+    {
+      "qid": "GAL_002_GEO01",
+      "passage_id": "GAL_002",
+      "book_order": 48,
+      "book": "Galatians",
+      "testament": "NT",
+      "chapter": 2,
+      "verse_start": 11,
+      "verse_end": 14,
+      "citation": "Galatians 2:11-14",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "Why was the table fellowship clash between Peter and Paul at Syrian Antioch in Galatians 2:11-14 a watershed geographical and theological crisis for early Christianity?",
+      "options": [
+        "Antioch was under Parthian jurisdiction where Roman dining laws did not apply to Jewish visitors.",
+        "When visitors from Jerusalem arrived in Antioch, Peter pulled back from eating with Gentile believers out of fear of peer pressure, threatening to split the movement into two segregated churches.",
+        "Peter demanded that the church in Antioch relocate its headquarters south to Caesarea Maritima.",
+        "Paul refused to allow Jewish believers in Antioch to observe the Passover meal in their homes."
+      ],
+      "correct_index": 1,
+      "explanation": "In Jerusalem, Peter was surrounded by mono-ethnic Jewish tradition, whereas in Syrian Antioch (Galatians 2:11-14) Jew and Gentile ate at one table—and when Peter flinched under pressure from Jerusalem hardliners, Paul confronted him publicly because the unity of the gospel was on the line.",
+      "location": {
+        "name": "Antioch on the Orontes",
+        "region": "Syria",
+        "type": "city",
+        "lat": 36.2021,
+        "lng": 36.1601
+      }
+    },
+    {
+      "qid": "MAT_004_GEO02",
+      "passage_id": "MAT_004",
+      "book_order": 40,
+      "book": "Matthew",
+      "testament": "NT",
+      "chapter": 4,
+      "verse_start": 12,
+      "verse_end": 16,
+      "citation": "Matthew 4:12-16",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "Why does Matthew 4:12-16 highlight that Jesus launched his ministry in 'Galilee of the Gentiles' along the 'Way of the Sea' rather than in the rabbinic centers of Judea?",
+      "options": [
+        "Galilee was an uninhabited desert wilderness where John the Baptist had built a monastery.",
+        "The High Priest in Jerusalem had signed a treaty granting Jesus exclusive authority over northern towns.",
+        "Crossing the international trade highway linking Damascus to the Mediterranean, Galilee was a despised borderland where Isaiah prophesied light would dawn first on those living in shadow.",
+        "Galilee was exempt from Roman taxation and military occupation under Emperor Tiberius."
+      ],
+      "correct_index": 2,
+      "explanation": "Religious elites in Jerusalem looked down on Galilee as a compromised borderland crowded with Gentile trade routes ('Galilee of the Gentiles'), yet Matthew 4:12-16 points out that launching the kingdom along the busy 'Way of the Sea' fulfilled Isaiah 9 and signaled that the gospel was headed for the nations.",
+      "location": {
+        "name": "Way of the Sea (Galilee)",
+        "region": "Galilee",
+        "type": "road",
+        "lat": 32.8550,
+        "lng": 35.5330
+      }
+    },
+    {
+      "qid": "LUK_010_GEO01",
+      "passage_id": "LUK_010",
+      "book_order": 42,
+      "book": "Luke",
+      "testament": "NT",
+      "chapter": 10,
+      "verse_start": 30,
+      "verse_end": 37,
+      "citation": "Luke 10:30-37",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "In the Parable of the Good Samaritan (Luke 10:30-37), how does the physical terrain of the road going 'down from Jerusalem to Jericho' sharpen the moral cowardice of the priest and Levite?",
+      "options": [
+        "The road ran through a crowded coastal plain with Roman police stations every half mile.",
+        "The road crossed the fertile Jezreel Valley where Samaritan farmers owned all the roadside inns.",
+        "The road climbed four thousand feet into snow-covered mountains where travelers froze to death.",
+        "Dropping over 3,300 feet in seventeen miles through jagged desert ravines notorious as the 'Way of Blood,' the perilous canyon gave the religious professionals a convenient self-preservation excuse to hurry past a dying man."
+      ],
+      "correct_index": 3,
+      "explanation": "Every listener in Luke 10:30-37 knew the Jerusalem-to-Jericho road was a steep, winding wilderness drop infested with highwaymen—meaning the priest and Levite prioritized ritual cleanliness and personal safety over human life, while the despised Samaritan risked ambush to stop and help.",
+      "location": {
+        "name": "Road to Jericho",
+        "region": "Judean Wilderness",
+        "type": "road",
+        "lat": 31.8167,
+        "lng": 35.3500
+      }
+    },
+    {
+      "qid": "ACT_023_GEO01",
+      "passage_id": "ACT_023",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 23,
+      "verse_start": 23,
+      "verse_end": 35,
+      "citation": "Acts 23:23-35",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "When Paul's nephew uncovers a forty-man assassination plot in Jerusalem in Acts 23:23-35, why does the Roman commander rush Paul by night to Caesarea Maritima under heavy cavalry guard?",
+      "options": [
+        "Built by Herod the Great on the Mediterranean coast, Caesarea Maritima was the official Roman military headquarters and seat of the governor where Paul could be held outside the reach of Jerusalem's temple mobs.",
+        "Caesarea Maritima was a Jewish Levitical city of refuge where blood avengers were legally barred from entering.",
+        "The commander wanted to hand Paul over to King Herod Agrippa's private prison in Galilee.",
+        "Caesarea Maritima was the only city in Judea where the Sanhedrin held jurisdiction over Roman citizens."
+      ],
+      "correct_index": 0,
+      "explanation": "Acts 23:23-35 highlights the sharp tale of two capitals in first-century Judea: volatile Jerusalem was the religious center, while coastal Caesarea Maritima was Rome's administrative and military fortress, where Paul spent two years testifying before Governors Felix and Festus and King Agrippa.",
+      "location": {
+        "name": "Caesarea Maritima",
+        "region": "Judea",
+        "type": "city",
+        "lat": 32.5000,
+        "lng": 34.8917
+      }
+    },
+    {
+      "qid": "ACT_020_GEO01",
+      "passage_id": "ACT_020",
+      "book_order": 44,
+      "book": "Acts",
+      "testament": "NT",
+      "chapter": 20,
+      "verse_start": 16,
+      "verse_end": 38,
+      "citation": "Acts 20:16-38",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "In Acts 20:16-38, why does Paul summon the Ephesian elders thirty miles south to the port of Miletus for his emotional farewell speech rather than sailing into Ephesus itself?",
+      "options": [
+        "The city council of Ephesus had placed a bounty on Paul's head following the silversmith riot.",
+        "Determined to reach Jerusalem before Pentecost without getting bogged down in lengthy obligations in Asia, Paul used the coastal stopover at Miletus to deliver his final charge to guard the flock.",
+        "Ephesus's harbor had been blockaded by a Roman naval fleet suppressing a rebellion in Phrygia.",
+        "Jewish purity laws forbade Paul from entering a city containing a temple to Artemis prior to Pentecost."
+      ],
+      "correct_index": 1,
+      "explanation": "Knowing how easily a return visit to Ephesus would consume weeks of relational demands, Paul bypassed the city in Acts 20:16-17 and called the elders down to the beach at Miletus—modeling disciplined mission focus alongside deep pastoral affection.",
+      "location": {
+        "name": "Miletus",
+        "region": "Asia Minor",
+        "type": "city",
+        "lat": 37.5303,
+        "lng": 27.2783
+      }
+    },
+    {
+      "qid": "REV_002_GEO01",
+      "passage_id": "REV_002",
+      "book_order": 66,
+      "book": "Revelation",
+      "testament": "NT",
+      "chapter": 2,
+      "verse_start": 12,
+      "verse_end": 17,
+      "citation": "Revelation 2:12-17",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "In Revelation 2:12-13, why does Jesus describe the city of Pergamum as the place 'where Satan's throne is' and where Antipas was martyred?",
+      "options": [
+        "Pergamum was built inside an extinct volcanic crater that ancient Greeks believed was the entrance to Tartarus.",
+        "Pergamum housed the secret headquarters of the Zealot assassins who ignited the Jewish revolt.",
+        "Towering on a thousand-foot acropolis dominated by the monumental Altar of Zeus and the provincial center of compulsory Roman emperor worship, Pergamum was ground zero for state-enforced idolatry.",
+        "Pergamum was the banking capital where Roman tax farmers auctioned off confiscated Jewish estates."
+      ],
+      "correct_index": 2,
+      "explanation": "Pergamum (Revelation 2:12-17) was the first city in Asia Minor granted permission to build a temple to a living Roman Caesar, and its massive acropolis held the throne-shaped Altar of Zeus—meaning Christians there faced lethal daily pressure to burn incense to the state or die like Antipas.",
+      "location": {
+        "name": "Pergamum",
+        "region": "Asia Minor",
+        "type": "city",
+        "lat": 39.1322,
+        "lng": 27.1842
+      }
+    },
+    {
+      "qid": "LUK_004_GEO01",
+      "passage_id": "LUK_004",
+      "book_order": 42,
+      "book": "Luke",
+      "testament": "NT",
+      "chapter": 4,
+      "verse_start": 28,
+      "verse_end": 30,
+      "citation": "Luke 4:28-30",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "Why did Jesus' hometown neighbors in Nazareth fly into a rage and drive him to the brow of the hill to throw him off the cliff in Luke 4:28-30?",
+      "options": [
+        "He refused to pay the local synagogue tax demanded by the elders of Nazareth.",
+        "He announced that he was moving his family's carpentry business to rival Capernaum.",
+        "He condemned the Roman garrison stationed on the ridge overlooking the Jezreel Valley.",
+        "When they demanded hometown favors, he reminded them that Elijah and Elisha bypassed entitled Israelites to heal outsiders—a Phoenician widow in Zarephath and Naaman the Syrian."
+      ],
+      "correct_index": 3,
+      "explanation": "In Luke 4:16-30, the people of Nazareth initially marveled at their hometown boy, but the moment Jesus dismantled their parochial entitlement—showing from Scripture that God's grace reaches despised foreigners when insiders grow smug—their pride turned murderous on the ridge above the valley.",
+      "location": {
+        "name": "Mount Precipice (Nazareth)",
+        "region": "Galilee",
+        "type": "mountain",
+        "lat": 32.6836,
+        "lng": 35.2975
+      }
+    },
+    {
+      "qid": "PHM_001_GEO01",
+      "passage_id": "PHM_001",
+      "book_order": 57,
+      "book": "Philemon",
+      "testament": "NT",
+      "chapter": 1,
+      "verse_start": 10,
+      "verse_end": 18,
+      "citation": "Philemon 1:10-18",
+      "category": "GEOGRAPHY_AND_PLACES",
+      "difficulty": 3,
+      "question": "What made the nearly thousand-mile return journey of the runaway slave Onesimus from Paul's prison cell back to Philemon's household in Colossae (Philemon 1:10-18; Colossians 4:7-9) so counter-cultural?",
+      "options": [
+        "Under Roman law a runaway slave faced brutal branding or execution, yet Paul sent Onesimus back to Colossae bearing a letter that demanded Philemon welcome him no longer as property, but as a beloved brother.",
+        "Colossae was an independent free city where Roman slavery laws had already been abolished by the senate.",
+        "Onesimus traveled with a Roman military detachment that ordered Philemon to pay Paul's bail.",
+        "Paul instructed Onesimus to flee past Colossae into the mountains of Phrygia to start a separate church."
+      ],
+      "correct_index": 0,
+      "explanation": "Onesimus had fled hundreds of miles from the inland Lycus Valley town of Colossae to hide in the anonymity of a major metropolis, only to meet Paul in chains—and returning to Colossae with Paul's letter (Philemon 1:15-17) detonated the moral logic of Roman slavery from the inside out.",
+      "location": {
+        "name": "Colossae",
+        "region": "Asia Minor",
+        "type": "town",
+        "lat": 37.7869,
+        "lng": 29.2603
+      }
+    }
+  ]
+}

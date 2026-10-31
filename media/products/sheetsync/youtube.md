@@ -1,7 +1,7 @@
 # SheetSync Local — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/sheetsync/`  
 **Web Product Page:** https://864zeros.com/products/sheetsync  
-**Pricing Model:** $19.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Synchronize, roll up, and consolidate master spreadsheets across tabs and workbo
 👉 Try SheetSync Local: https://864zeros.com/products/sheetsync
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $19.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet SheetSync Local — the fast, local-first solution that solves this without
 👉 Get SheetSync Local: https://864zeros.com/products/sheetsync
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $19.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet SheetSync Local — the fast, local-first solution that solves this without
 * **Suggested Thumbnail:** `media/products/sheetsync/video/thumbnail-sheetsync-social-price.png`
 * **YouTube Title:**
 ```
-$35/Month Recurring Subscriptions for Sheet Sync — SheetSync Local #Shorts
+one-time lifetime nth Recurring Subscriptions for Sheet Sync — SheetSync Local #Shorts
 ```
 * **YouTube Description:**
 ```
-Stop paying $35 every single month for third-party spreadsheet connector services.
+Stop paying one-time lifetime every single month for third-party spreadsheet connector services.
 
-SheetSync Local gives you complete control with a single $19.99 lifetime (no recurring monthly subscriptions).
+SheetSync Local gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get SheetSync Local: https://864zeros.com/products/sheetsync
 

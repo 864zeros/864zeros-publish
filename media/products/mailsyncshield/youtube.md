@@ -1,7 +1,7 @@
 # MailSync Shield — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/mailsyncshield/`  
 **Web Product Page:** https://864zeros.com/products/mailsyncshield  
-**Pricing Model:** $12.99 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Personalized email merge engine operating directly from Google Sheets via native
 👉 Try MailSync Shield: https://864zeros.com/products/mailsyncshield
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet MailSync Shield — the fast, local-first solution that solves this without
 👉 Get MailSync Shield: https://864zeros.com/products/mailsyncshield
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $12.99 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet MailSync Shield — the fast, local-first solution that solves this without
 * **Suggested Thumbnail:** `media/products/mailsyncshield/video/thumbnail-mailsyncshield-social-price.png`
 * **YouTube Title:**
 ```
-Paying $40/Year Recurring for Basic Mail Merge — MailSync Shield #Shorts
+Paying one-time lifetime Recurring for Basic Mail Merge — MailSync Shield #Shorts
 ```
 * **YouTube Description:**
 ```
-Why pay a recurring $40 yearly subscription for something your Google account already does for free?
+Why pay a recurring one-time lifetime yearly subscription for something your Google account already does for free?
 
-MailSync Shield gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
+MailSync Shield gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get MailSync Shield: https://864zeros.com/products/mailsyncshield
 

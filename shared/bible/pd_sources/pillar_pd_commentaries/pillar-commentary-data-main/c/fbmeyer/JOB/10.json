@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Soul Bitterness -- Job 10:1-22\n\nIn this chapter Job accuses God of persecuting His own workmanship, Job 20:3; of pursuing him with repeated strokes, as if he had not time enough to wait between them, but must hurry on to achieve His design, Job 10:5; of reversing the careful providence which had watched over his earlier years, Job 10:12; of hunting and playing with him as a wild beast with his prey, Job 10:16-17; and asks that he may be allowed speedily to enter the land of Sheol, Job 10:18-22.\n\nAs we read these complaints, we may remember days in our lives when we uttered similar ones, but we are without excuse. And when we are tempted in this direction, it is for us to remember that probably we are being tried to teach the manifold wisdom of God, and that the works of God should be made manifest in us, Ephesians 3:10; John 9:3. It will enable us to endure, if we remember that God has conferred on us high honor, by choosing us to show that we can stand the fire, like those iron safes, blackened by smoke, which the makers place in the shop windows to prove the stability of their workmanship."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 11
+ }
+}

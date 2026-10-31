@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Woe to Them That Are at Ease in Zion!” -- Amos 6:1-14\n\nZion is included with Samaria in this prophecy and the nobles are especially condemned for their drunkenness, gluttony, and insolence. The prophet quotes the example of great neighboring peoples as a warning that the abuse of God’s good gifts leads to their withdrawal. Calneh on the Tigris, and Hamath, had fallen before Assyria; Gath, also, had been recently overwhelmed-how unlikely, therefore, that Israel, eaten through by extravagance and luxury, could endure. National dissolution is not far away, when palaces are filled with riot while the poor rot in neglect. It was thus that Joseph’s brethren ate their food at the pit’s mouth, while Joseph lay beneath. Many professing Christians are similarly “at ease,” indifferent to their brother’s woe.\n\nThe greatness of approaching judgment is illustrated by a simple incident. A household of eleven is smitten by plague; ten die, one only survives. So great has been the mortality that no nearer relative than an uncle is left to carry out the dead for cremation; and when the matter of a funeral service is broached, the suggestion is instantly met by the remark, “Those old customs cannot be observed amid the stress of such a time; we do not now mention God’s name.” Funeral rites would pass out of use. God’s dealings with His people had been as useless as plowing rocks would be."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 7
+ }
+}

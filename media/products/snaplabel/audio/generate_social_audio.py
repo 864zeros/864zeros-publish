@@ -40,7 +40,7 @@ VARIANTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why are cloud services charging 50 dollars a year just to align text boxes into Avery grids?",
+            "text": "Why are cloud services charging recurring subscription fees just to align text boxes into Avery grids?",
             "lead": 0.15,
             "tail": 0.25
         },

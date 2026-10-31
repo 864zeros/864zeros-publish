@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1PE",
+  "commentaryId": "fbmeyer",
+  "name": "1 Peter",
+  "commonName": "1 Peter",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Christian Family-Life -- 1 Peter 3:1-12\n\nIn the previous chapter the Apostle had been urging the poor slaves of wealthy householders to submit quietly to wrongs, leaving God to vindicate. Here he turns to the wives of unbelieving husbands, showing that their chaste behavior, their meek and quiet spirit, their pleasant subordination of self, are the greatest arguments for our religion. What we are is more important than what we say. Our life is our best sermon. If we would expend as much care on the hidden man of the heart as many do on the outer, what lovely characters would result! When Massillon had preached on this subject of the inner and outer man before Louis XIV, the king exclaimed as he left the church, “I know those two men!”\n\nThe same temper becomes us all. Let us be compassionate to the faults of others, even when they repay our good with evil and revile our blessing. God sends rain and sun irrespective of the character of the recipients. In this way we shall inherit the blessedness to which we have been called, and see good days."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Following Christ in Bearing Injustice -- 1 Peter 3:13-22\n\nIt was said of Archbishop Cranmer that the way to make him a life-long friend was to do him some disservice, and surely these words of the Apostle have created many characters of the same type. The one aim and purpose of life should be to sanctify Christ as Lord; that is, to put Him on the throne. Let all the powers of our nature stand around to do His bidding, as the courtiers of a royal sovereign.\n\nKeep a good conscience! Remember you have to live with yourself! A good conscience is the best bedfellow! Paul exercised himself always to have a conscience void of offense toward God and man, Acts 23:1; Acts 24:16. This is especially necessary when we are called on to give our witness for our Lord. We must not keep silent when we ought to speak, and when we speak we should do so reverently, simply and without heat.\n\nOur Lord seems to have carried the news of redemption through the world of disembodied spirits. The Apostle compares baptism to the deluge, because it lies between the believer and his old worldly life, as Noah’s flood lay between the old world and the new which emerged from its waters."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 4
+ }
+}

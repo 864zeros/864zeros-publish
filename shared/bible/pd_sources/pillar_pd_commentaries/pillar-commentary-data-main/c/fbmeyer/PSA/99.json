@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 99,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Worship the Great and Holy One -- Psalms 99:1-9\n\nThis psalm has its counterpart in Psalms 97:1-12. There Jehovah’s reign is associated with the gladness of faith; here with the trembling of mortal and sinful hearts. Thrice we are reminded that He is holy, Psalms 99:3; Psalms 99:5; Psalms 99:9. This threefold ascription of earth concerning the holiness of God answers the threefold ascription of heaven, where one seraph cries to the rest, saying, “Holy, holy, holy, is the Lord of hosts: the whole earth is full of His glory,” Isaiah 6:3.\n\nGod’s holiness is terrible to sinners. It inspires even His own people with awe. However near we come to Him in Christ, we always must remember that we are sinful men who have no right to stand before Him, save through the mediation and in the righteousness of His Son.\n\nHow great God must be, who can reckon Moses, Aaron, and Samuel as His servants! And we, too, though beneath them in personal character and gift, are permitted to be among His priests; to call upon His name; to hear Him speaking from the pillar of cloud. Let us all walk worthy of our high calling! Let us fear this great and holy God, who cannot tolerate sin in His children, and will not scruple to inflict pain if sin is persisted in. He does forgive-glory to His name!-but He will not hesitate to chasten us for sins which we presumptuously and knowingly permit."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 99
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 98
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 100
+ }
+}

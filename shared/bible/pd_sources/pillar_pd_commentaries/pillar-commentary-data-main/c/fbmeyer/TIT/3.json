@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "TIT",
+  "commentaryId": "fbmeyer",
+  "name": "Titus",
+  "commonName": "Titus",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Making Return to God’s Loving-Kindness -- Titus 3:1-7\n\nThroughout this Epistle, the Apostle insists on good works. See Titus 2:7; Titus 2:14; Titus 3:8; Titus 3:14. The word good might be rendered beautiful. We must not work to be saved, but being saved we must be ready to every good work, and careful to maintain good works. In this last phrase the Apostle apparently refers to the trades and callings by which his converts were to earn their daily bread.\n\nWhat singular beauty there is in this allusion to the appearance of the kindness and love of God our Savior! These appeared in the person of Jesus, whose human nature alternately veiled and revealed them. The full outshining of God’s love was curtained by the veil of His humanity, but enough was shown to irradiate the life of humanity, if only men’s eyes had not been blind. Paul speaks of the laver of regeneration, Titus 3:5, r.v., margin, because the new nature, which we receive when we are born again, is clean, and cleanses the entire life from within outward. This is the result of the daily renewing of the Holy Spirit, whom God is ever pouring richly into our hearts. Is this your experience?\n\nWill you not claim an ever-increasing inflow? You have been born again; then, as an heir, enter upon the double portion of the firstborn, Titus 3:7."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Maintaining Good Works -- Titus 3:8-15\n\nIt is wise advice that we should try to shun controversy and disputations. Small benefit accrues from such methods of advancing the truth. After all, the Lord’s test is the true one for all teachings which are in question-What is their fruit? “By their fruits ye shall know them.” Let us, therefore, cultivate the grace and beauty, the righteousness and purity, of a holy life. Let us yield ourselves to Jesus to be wholly possessed and used by Him; and let our one aim be to get glory for Him and success for His Kingdom. Then our views of truth will become clear and sound, and the beauty of our lives will have the most convincing effect on gainsayers. It is better to live a holy life than be a successful disputant. The best proof of orthodoxy is a Christlike life.\n\nPaul, having been liberated from his first imprisonment, was itinerating in Asia Minor and Macedonia, accompanied by several friends. He was intending to winter at Nicopolis in Epirus, and was about to send Artemas or Tychicus to relieve Titus in Crete, so that Titus might join him in the winter sojourn. These plans were probably canceled by his own sudden arrest at Nero’s instigation."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "TIT",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHM",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 58,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Fast That God Has Chosen -- Isaiah 58:1-14\n\nThe divorce between outward rites and inward piety has been the curse of every age. When the Pharisees were plotting our Lord’s death, they refused to enter Pilate’s hall. Not the bowed head, but the broken heart; not the sackcloth and ashes of the flesh, but the contrition of the soul!\n\nNotice the three paragraphs descriptive of the experiences of the devout and consecrated soul: (1.) The conditions of blessedness, Isaiah 58:6-7. (2.) The successive items which go to make a blessed life, Isaiah 58:8-12. (3.) The true Sabbath-keeping, Isaiah 58:13-14. Primarily, it is inward, not outward. Let us be on our watch against the entrance into our hearts of all thoughts that would break the holy inward calm. Remember to imitate Nehemiah’s instructions: Nehemiah 13:16-22. Let the divine peace rule within and be as a sentinel keeping the outward gate, Colossians 3:15; Philippians 4:7. Cease to follow your own ways, or find your own pleasures, or speak your own words. Delight yourself in God; so shall you sit with Christ in heavenly places and feed at the heavenly table."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 58
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 57
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 59
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Moral Courage Rewarded -- Daniel 1:1-21\n\nThese young men of noble Jewish families were brought to Babylon to receive education for the civil service. Their names were altered to break, so far as possible, their connection with the past. The food provided probably contravened Leviticus 3:17. According to the usual custom it had been presented before an idol, 1 Corinthians 8:10. Note those words: Daniel purposed in his heart. It is all important to resolve in one’s heart that certain things are not possible for us.\n\nToo many of us have a secret reserve. We barricade the front door but leave the back door on the latch. We ought to realize the extent to which Paul referred when he said, “dead to sin.” God always cooperates with His servants when they are true to Him. He brought Daniel into favor; He gave him skill; He caused his face and that of his three friends, to bear the hue of health. Let us trust Him to do His part! This is the secret of continuance, Daniel 1:21."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 37
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 2
+ }
+}

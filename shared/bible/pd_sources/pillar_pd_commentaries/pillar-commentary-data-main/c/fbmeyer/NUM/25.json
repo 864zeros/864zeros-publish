@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Zeal of Phinehas against Impurity -- Numbers 25:1-18\n\nUnable to curse Israel directly, Balaam suggested to Balak the device of destroying the union between Israel and their divine Protector by enticing them into sin. Once bring license and passion into play, and let the seductions of evil prevail, and surely the holiness of God would compel Him to withdraw His protection! This was a diabolical suggestion to gain his wage. See Revelation 2:14.\n\nThe women of the land, notorious for their wantonness, seduced the men of Israel to join in the sensual rites of their worship. All did not fall into this sin. See Deuteronomy 4:3-4. But it brought terrible chastisement on the offenders, 1 Corinthians 10:8. You must amputate a gangrened limb.\n\nFor Phinehas, see Malachi 2:4, etc. Let us come out of the world, cleansing ourselves from its filthiness! 2 Corinthians 6:14, etc. There are crises when love for God’s honor demands strenuous action, which never fails, as in the case of Phinehas, of an abounding recognition, Numbers 25:12."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 26
+ }
+}

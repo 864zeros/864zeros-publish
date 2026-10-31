@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Threefold Temptation -- Luke 4:1-13\n\nAs the waters of Jordan bisect the Holy Land, so does our Lord’s baptism bisect His holy life. In that act He had identified Himself with the world’s sin; and now, as the High Priest who was to deal with sin and sinners, He must be “in all points” tempted and tested “like as we are.”\n\nHe took into the wilderness a perfect humanity of flesh and blood, made in all points like His brethren, though without sin. He elected to fight His great fight, not by the use of the divine attributes, but as Son of man. Where the first Adam fell, the second must stand.\n\nFirst, He could not use His native power for His own gratification. Second, He would abide strictly within the limitations of the world He had entered, Hebrews 2:16-17. Third, He would win His kingdom by the Cross."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "“His Own Received Him Not” -- Luke 4:14-30\n\nA wide gap occurs here, embracing the important transactions of Joh 1:29-51; John 2:1-25; John 3:1-36; John 4:1-54.\n\nWhat a flutter in Mary’s heart when she saw her son sitting in the teacher’s place of His native synagogue! How gratified at the reception given to the opening sentences! What a sword pierced her heart at the sudden revulsion of feeling! They were jealous that He performed only a few private miracles; but He could not do more because of their unbelief. See Mark 6:5.\n\nNote that our Lord here sounded forth the silver trumpet of jubilee. Seizing on the imagery of the gladdest festival of Hebrew life, He likened Himself to a priest proclaiming the acceptable year of the Lord. Not yet the day of vengeance! Compare Luke 4:19 with Isaiah 61:1-2. This is Christ’s program for the present age."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Healer and Preacher -- Luke 4:31-44\n\nIn after years the evil spirit cried out, “Jesus I know,” Acts 19:15. Evidently our Lord was not only “seen of angels,” but closely watched by the fallen spirits, who beheld His every act and listened to every word. What a remarkable verdict was that given in Luke 4:34! Those who know most of evil are most certain of the ultimate woe which awaits its votaries; and they know genuine goodness when they meet it. Our Lord had overcome the prince of demons, and could therefore command His household.\n\nWe need to be delivered from the fever of passion, caught in the low-lying marshes of our lives; to have Christ’s hands laid upon our sicknesses and wounds; to be delivered from evil things that haunt our hearts. Then we must help Him in similar services to others. But if He must have His quiet prayer times, so must we, Luke 4:42."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 5
+ }
+}

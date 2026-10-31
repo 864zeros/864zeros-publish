@@ -15,7 +15,7 @@
     "tag": "⏱️ 43s Product Demo",
     "title": "Watch Form2Docx Local in Action",
     "desc": "Automatically turn Google Forms responses into polished Google Docs and direct-to-Drive PDFs. Replaces expensive document automation subscriptions with 100% local Apps Script.",
-    "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever",
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
     "youtubeUrl": "https://www.youtube.com/watch?v=rTgSYrV23kU"
   },
   "social_shorts": [
@@ -48,7 +48,7 @@
     {
       "img": "form2docx-3.png",
       "alt": "Form2Docx Local — sovereign ownership vs monthly subscription rent",
-      "cap": "One-time lifetime license. Merge unlimited form submissions to Docs and PDFs without recurring SaaS fees."
+      "cap": "one-time lifetime license. Merge unlimited form submissions to Docs and PDFs without recurring SaaS fees."
     }
   ],
   "jsonld": {
@@ -59,7 +59,7 @@
       "Custom file naming patterns based on dynamic submission timestamps and names",
       "Automated execution on form submission via native onFormSubmit triggers",
       "100% in-account execution via non-restricted drive.file scope",
-      "One-time lifetime license — zero recurring subscriptions"
+      "one-time lifetime license — zero recurring subscriptions"
     ]
   }
 }

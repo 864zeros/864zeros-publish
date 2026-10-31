@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "Nahum", "chapter": 1, "citation": "Nahum 1:7", "text": "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him.", "plain": "The Lord is good, a stronghold in the day of trouble; he knows those who take refuge in him." }
+    {
+      "book": "Nahum",
+      "chapter": 1,
+      "citation": "Nahum 1:7",
+      "text": "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+      "plain": "The Lord is good, a stronghold in the day of trouble; he knows those who take refuge in him.",
+      "visual_prompt": "a sturdy dry-stone watchtower standing firm on a rocky hillside in a breached ancient mudbrick fortress wall beside a river",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

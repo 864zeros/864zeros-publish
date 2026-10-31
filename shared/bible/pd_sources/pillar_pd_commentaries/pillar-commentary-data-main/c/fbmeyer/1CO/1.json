@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Enriched and United in Christ -- 1 Corinthians 1:1-11\n\nIt was pleasant to the church at Corinth to realize that one of their own number was associated with the Apostle in his great ministry. Compare 1 Corinthians 1:1 with Acts 18:17. We have been sanctified in Christ in the purpose of God, but we must make our calling sure by living as saints. Note Paul’s liberality-it was enough for him if men called on Jesus as their Lord. Such he could receive as brothers. There was no strain of narrow sectarianism in his nature.\n\nIf we would live a true life, we must draw on Jesus Christ. Our riches are in Him, awaiting our claiming and use. The unsearchable riches of Christ are at our disposal, but we must appropriate and use them. Let us begin to live as God’s heirs. Utterance and knowledge are ours through the Holy Spirit. We have looked into ourselves for them. That is the mistake! We must look up and reach down. God has called us into partnership with His Son. We share His sorrows, sufferings, and labors for a world’s conversion; He bids us share in His grace. The perfecting of 1 Corinthians 1:10 is the weaving together of a rent. Paul’s object in this Epistle was the ending of the strife that had divided the Corinthian church."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Cross God’s Saving Power -- 1 Corinthians 1:12-25\n\nApollos had gone straight from Ephesus to Corinth, Acts 19:1. A party gathered around him, especially attracted by his eloquence and intellectual brilliance. Cephas was Peter, and around his name the more conservative elements gathered. Christ, stood for the promised glory of the Messianic kingdom. Paul was filled with dismay on hearing that a fourth division of the Church called themselves by his name. He told the Corinthians that whatever any of their human teachers had done for them, they had contributed only different phases or viewpoints of truth, all of which service sank into absolute insignificance as contrasted with the death of Jesus Christ on the cross.\n\nThe cross here implies not only the doctrine of the Atonement, but the humble bearing of the cross in daily life. There are many who wear a cross as an article of dress, but who evince nothing of its pitying, self-immolating, sacrificial spirit. Everyone needs a Calvary in the heart. Note from 1 Corinthians 1:18, r.v., margin, that being saved is a process, as well as an immediate experience. Oh to have grace to know the Cross, never to be ashamed of it, and to preach a crucified Savior in a humble, crucified spirit!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "God’s Glory in Men’s Weakness -- 1 Corinthians 1:26-31; 1 Corinthians 2:1-5\n\nLike the sons of Jesse before Samuel, so do the successive regiments on which the world relies pass before Christ. The wise, the mighty, the noble, the great, the things that are! And the King says, I have not chosen these. The warriors with whom He will win the world to Himself are the nobodies, the ciphers, the people who in the world’s estimate do not count. Do not depreciate yourself, but give yourself to Him; He will find a niche for you and make your life worth living. Notice that God has put you into union with Christ Jesus. Everything we need for life and godliness is in Him; only let us make all that we can of our wonderful position and possessions.\n\nPaul came to Corinth from Athens, where he had sought to win his hearers by a studied and philosophical discourse as best adapted to their needs. But as he entered Corinth, he appears to have deliberately determined that his theme would be the crucified Lord, and expressed in the simplest phrases. When we speak the truth as it is in Jesus, the Spirit is ever at hand to enforce our testimony by His demonstration and power."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 2
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Planning the Harvest -- Matthew 9:35-38; Matthew 10:1-4\n\nA new chapter in our Lord’s ministry opens at this point. As He walked amid the crowded towns and villages of Galilee, His heart was deeply moved. His was the shepherd’s nature, which, ever forgetful of self, expends its all for the flock. Jesus loved the poor people tenderly-those vast multitudes were a scattered, harassed flock. Fainted has the meaning of being cast panting on the ground. It was as though they could not move another step. Let us-like our Master-behold, pity, intercede, do our best to send out laborers, and go ourselves, even to a cross, if only we may save.\n\nPray for laborers, and you will become a laborer. Begin as a disciple, and you will become an apostle. Our Lord is king, and if He sends, He gives His signet ring of authority. See Matthew 28:18. How little did these men dream that their names would be engraved on the foundations of the New Jerusalem, Revelation 21:14."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "Missionaries Sent out -- Matthew 10:5-15\n\nFor the present, the Twelve were to confine themselves to Jews, because the Lord’s ministry was the climax of the Jewish probation and it was desirable that every opportunity should be given to the lost sheep of the house of Israel to repent. God can never be unmindful of any covenant into which He has entered with the soul. If we believe not, He remaineth faithful.\n\nMay we not say that our Lord was the first medical missionary? He has taught us that the healing of disease is often the best way of approaching the soul. The kingdom of God deals not only with our eternal welfare, but with the conditions of human life. On Christ’s head are many crowns; social, family and civic life are departments of His beneficent reign. His servants must be without worldly entanglements and live in absolute dependence upon God to whom they have consecrated their lives. The peace of God goes forth and returns."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Steadfast under Persecution -- Matthew 10:16-23\n\nThe way of the servants and heralds of Christ will never be easy. From the first, it has been lined with jagged flints. On the one hand, they are assailed by the rulers and potentates of this world; and on the other, by the members of their own homes. See Acts 4:25. But all these experiences are permitted in order to secure an entrance for their message into the most unlikely places, 2 Timothy 4:17. The fact of the disciples being driven from city to city brought the gospel within the reach of a much wider audience than if they had remained in peace in one center. See Acts 11:19.\n\nBut when we are persecuted for the Lord’s sake, the Father bends over us with tender pity and helpfulness, John 12:26. And we are supplied, from the Eternal Light and Love, with a wisdom of speech and an unfailing patience of love that cannot be gainsaid."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Fearless Confessors of Christ -- Matthew 10:24-33\n\nThe more Christlike we are, the more certainly shall we incur the dislike and hatred of men. Only let us take care that they hate us, not on account of our personal peculiarities and pretensions, but solely for the truth’s sake. See 1 Kings 22:8; Daniel 6:5.\n\nChrist is often speaking. In the secret chamber of the heart, in the darkness of the night, in the shadowed room of pain and sorrow, in the room which holds all that is mortal of our beloved, hear His voice. It may be in dark sayings, but they are “the dark sayings on a harp,” of which the psalmist sings. There are music, tenderness, love-notes in these dark sayings. And our hearts can receive lasting impressions in the dark.\n\nRemember that in all your anxiety and pain, the Father is near. His presence encloses you in its gentle, holy embrace. You are of value to Him, of more value than you can count, because you were purchased with the precious blood of Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 34,
+    "content": [
+     {
+      "text": "Receiving Christ’s Representatives -- Matthew 10:34-42\n\nIn Jesus Christ we acquire a new affinity, stronger than that of family ties. When we enter into the family of God we belong to all His children. They are our brethren and sisters in the most intimate sense. See Matthew 12:48-50. The new love that floods our nature does not make us less but more tender and sympathetic toward our own kith and kin; but if we are compelled to choose, then we must stand with the children of God, though it should rend us from the old happy family life in which we were nurtured.\n\nAs to the closing paragraph, may we not illustrate it thus? When the widow who sustained Elijah at Zarephath entered Paradise, she found herself standing amid the great prophets of Israel. When she asked the attendant angel whether there was not some mistake, he replied, “Certainly not. In treating the prophet as you did, you proved yourself to be of the same spirit and temper as he; and it is but right that you should share in the prophet’s reward.”\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 11
+ }
+}

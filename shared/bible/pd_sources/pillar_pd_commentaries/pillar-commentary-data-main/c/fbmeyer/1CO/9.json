@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rights and Their Surrender -- 1 Corinthians 9:1-15\n\nPaul’s claim to an equality with Peter and the other Apostles was violently disputed by his enemies at Corinth, because in several matters he differed from them. Unlike Peter, he had no wife to support, and he worked for his livelihood, instead of being supported by the churches. In this chapter he strongly asserts his rights in this particular; but he is equally strong in saying that he had refused to avail himself of his right, that he might influence a wider circle of men. He was a soldier, a vineyard-keeper, a shepherd, and could claim his maintenance. But he desired to be free from the slightest imputation of self-seeking. He knew that jealous critics were watching his every action and seeking to weigh his secret motives. These were the very men he desired to win, and for their sakes he voluntarily surrendered his undoubted rights.\n\nWhat a lesson for all of us and especially for those who are called to be ministers of Christ’s gospel! We must be above suspicion. If we do or permit anything that might prove a hindrance to the acceptance of Christ by others, we must forego it, though reasonable in itself, that we may win them to our Savior."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "“Under Bondage to All” -- 1 Corinthians 9:16-27\n\nPaul’s one aim was to gain men. He uses the words repeatedly. To gain one more for his Lord, he would forego comfort, emolument, and well-earned repose. He would allow no competitor for an earthly prize to supersede himself in his sacrifices for this crown of rejoicing. He points to the denials, the hard training, and the severe discipline to which men who took part in the games subjected themselves. No one thought it strange that they should sacrifice so much for the chance of winning; why, then, should he be counted eccentric, who sought the certain reward of gaining new lovers of his Master’s cross?\n\nHe tells us that he lived in constant dread of becoming a castaway. He had no fear of being rejected from God’s love; but he feared lest God, who had used him so wonderfully, should cease to do so, and should cast him aside in favor of someone more unselfish, more pliant, more free from that which would excite prejudice. If Paul was so eager to surrender his rights and bruise his body that he might attain the prize of soul-winning, the question arises whether for our failure in these respects God may not be obliged to cast us on the rubbish-heap!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 10
+ }
+}

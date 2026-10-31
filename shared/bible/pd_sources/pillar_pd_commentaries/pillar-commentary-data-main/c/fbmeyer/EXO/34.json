@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 34,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Covenant of the Law Renewed -- Exodus 34:1-17\n\nBefore we can behold the vision of Eternal Love we must be willing to fulfill three conditions: (1) Earliness: “My soul, be ready in the morning.” (2) Solitude: “No man shall come up with thee.” (3) The open heart: “That God may write there what He will.” God is always passing by and covering us with the shadow of His hand, and proclaiming His loving kindness and tender mercy. He keeps mercy for thousands, and limits the entail of sin to the third and fourth generation.\n\nWhenever we get near to God we should begin to think of and pray for others. As the last notes of the divine procession were dying away Moses bowed his head and worshiped, saying, “Let the Lord go in the middle of us and forgive.” It was as though he said, “If thou art a God like that, thou art the God that stiff-necked people need. Go with us, therefore, for thou canst bear with us.” He went on to ask that they might be pardoned, and that God would account them His heritage. His request was more than granted! God entered into covenant with them and promised to drive out their enemies on conditions which He proceeded to enumerate."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Moses Brings the Renewed Tables of the Law -- Exodus 34:18-35\n\nFor forty days, with no sustenance from bread or water, Moses abode on the Mount-absorbed with a passion of love and awe-not counting the hours which passed like a dream. He talked with God as a man face to face with His friend; but he was completely unaware of the marvelous transformation which this holy intercourse was effecting. At God’s dictation he wrote out the covenant, as we have it in this Book, and finally God gave him the two tables of stone, on which He had imprinted His autograph.\n\nWith these in his hand Moses descended to the plain, unconscious that his face shone. See 2 Corinthians 3:18, r.v. The Apostle urges that we, as Christians, should first behold, and then reflect the glory of Jesus. We must be mirrors, for the purpose of shedding His light among our fellow-men; and in the effort to do this we shall become transfigured into His glorious beauty from one degree to another. The crowning glory of that transfiguration will be our unconsciousness: “He wist not.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 34
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 33
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 35
+ }
+}

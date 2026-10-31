@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Sanctuary Dishonored -- Daniel 8:1-14\n\nShushan was the lily palace. There, by the river Ulai, the prophet beheld in vision the attack which would subsequently be made on the Medo-Persian kingdom by Alexander. The great horn which was broken is, of course, Alexander, and the four notable ones are his four generals, who after his death divided up his conquests. The little horn is referred by many to Antiochus, whose conflict with the Maccabees was one of the most significant in later Jewish history. Others refer it to Mohammed and his followers, who have reigned over the same regions. In this case the little horn would stand for the Eastern apostasy as distinguished from the Western, which is said to be represented by the little horn of the fourth beast, Daniel 7:8.\n\nThe Books of the Maccabees, included in the Apocrypha, should be studied to understand more clearly what is intended in Daniel 8:11-12. The explanation of these obscure verses is also given in Daniel 8:24-25. Antiochus was obsessed with hatred against the spiritual worship of the Jews, and their refusal to admit his image into the Temple. He stayed their sacrifices, though they were restored for a season, to be finally suspended during the present age. The day for a year system, Daniel 8:14, may refer to the desolations of the Turkish or Ottoman empire, of which Antiochus was the representative."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "God’s Deliverance Is Sure -- Daniel 8:15-27\n\nIt does not fall within our province to go into the various fulfillments which have been assigned to the predictions of this chapter-one to the time of the Maccabees, one to our own days, and one to that malign Satanic power which stands up perpetually against the Prince of princes. Let us dwell, rather, on the assertion that whatever sets itself against the kingship of Jesus Christ shall inevitably be broken. The Church of God is menaced today, as never before, by a vast multiplication of malign influences; but the Master’s promise holds good that the gates of Hades shall not prevail against her. They shall be broken without hand. This is our strong confidence with respect to all our foes, and therefore we may possess our souls in patience. It is interesting that Daniel continued to do the king’s business, notwithstanding the abundance of the revelations given unto him. However much we may be caught up into the heaven of religious meditation and ecstasy, we must never forget or neglect the interests which are committed to our hands, whether of the home, the business, or the state."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 9
+ }
+}

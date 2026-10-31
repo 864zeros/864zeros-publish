@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Deliverance in Trouble -- Psalms 6:1-10\n\nThis is the first of the Penitential Psalms, the other six being Psalms 32:1-11; Psalms 38:1-22; Psalms 51:1-19; Psalms 102:1-28; Psalms 130:1-8; Psalms 143:1-12. The earliest verses are a wail, but the psalm ends in a song. It is like a day of rain which clears at evening. Sheminith is a musical term signifying “octave.”\n\nThe elements of the psalmist’s sorrow are given in Psalms 6:1-7. The pressure of God’s displeasure, soul-anguish, sickness, soul-depression, an enemy’s opposition-all these were ingredients in his cup of bitterness. How touching the plea-I am weak! How expressive the broken sentence, so often on Calvin’s lips-How long! And that prayer, O Lord, heal me, includes the mental as well as the physical.\n\nThe certainty of deliverance looms in sight in Psalms 6:8-10. The consciousness of having been heard steals over the soul as a glint of light in the hospital ward. The answer may not be at hand, but it is sure, 1 John 5:15. Weeping has a voice: God interprets sighs. The r.v. turns the imprecation of Psa 6:10 into prediction. When God returns to us, because we return to Him, our enemies turn back."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 7
+ }
+}

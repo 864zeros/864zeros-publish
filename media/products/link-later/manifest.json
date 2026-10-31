@@ -2,37 +2,76 @@
   "slug": "link-later",
   "category": "browser-extensions",
   "pillar": "CMC",
-  "ingested_at": "2026-09-07T02:39:25.340Z",
+  "ingested_at": "2026-10-28T22:10:00.000Z",
   "type": "extension",
-  "name": "LinkLater — local read-later with notes & tags",
-  "summary": "Save the page you're on to a local read-later list with notes & tags. Read later or export to Markdown. 100% local, no account.",
-  "metaDescription": "Save the page you're on to a local read-later list with notes & tags. Read later or export to Markdown. 100% local, no account.",
+  "pageFile": "link-later.html",
+  "name": "LinkLater — Local Read-Later & Obsidian Bridge",
+  "summary": "Save any page to a local read-later list with notes & tags. Export to Markdown free or Send to Obsidian in 1 click. 100% local, no account.",
+  "metaDescription": "Save any page to a local read-later list with notes & tags. Export to Markdown free or Send to Obsidian in 1 click. 100% local, no account. one-time lifetime license.",
   "icon": "link-later.png",
-  "storeUrl": "",
+  "storeUrl": "https://chromewebstore.google.com/detail/linklater/fbbfjddncblgfdokkkbehepgjelnbjfk",
+  "edgeStoreUrl": "https://microsoftedge.microsoft.com/addons/detail/feecneebckadfphnmphhfiocddbbbeaa",
+  "demoUrl": "https://864zeros.com/demo/link-later/index.html",
+  "vsUrl": "https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html",
+  "video": {
+    "src": "link-later-short.mp4",
+    "liveUiDemo": "link-later-live-ui-demo.mp4",
+    "poster": "link-later-thumbnail.png",
+    "tag": "⚡ 39s Product Demo",
+    "title": "How to Save Web Links With Notes & Send Straight to Obsidian",
+    "desc": "Save any page to a local read-later queue with personal notes and tags — export to Markdown free or send straight into your Obsidian vault in 1 click.",
+    "sub": "<b>No subscriptions</b> · one-time lifetime Obsidian Bridge unlock · Free reading queue &amp; .md export forever"
+  },
+  "social_shorts": [
+    {
+      "id": "social-hook-pain",
+      "src": "link-later-social-pain.mp4",
+      "poster": "thumbnail-link-later-social-pain.png",
+      "title": "How to Stop Hoarding 50 Open Browser Tabs as a Reading List #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_open_tabs",
+      "duration": 22.73
+    },
+    {
+      "id": "social-hook-price",
+      "src": "link-later-social-price.mp4",
+      "poster": "thumbnail-link-later-social-price.png",
+      "title": "How to Replace Cloud Read-It-Later Subscriptions With a Local Obsidian Queue #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_zero_subscription",
+      "duration": 23.47
+    },
+    {
+      "id": "social-hook-speed",
+      "src": "link-later-social-speed.mp4",
+      "poster": "thumbnail-link-later-social-speed.png",
+      "title": "How to Send Saved Web Links & Notes Straight to Obsidian in 1 Click #Shorts",
+      "angle": "0_2s_pain_to_2_5s_ui_payoff_1_click_obsidian",
+      "duration": 22.49
+    }
+  ],
   "shots": [
     {
       "img": "link-later-1.png",
-      "alt": "LinkLater — save any page to a local read-later list",
+      "alt": "LinkLater — save any page to a local read-later list without a cloud account",
       "cap": "Read it later without a cloud account — save any page to a local list."
     },
     {
       "img": "link-later-2.png",
-      "alt": "LinkLater — every save carries a note, tags, and read/unread status",
-      "cap": "Every save carries your context — a note, tags, read/unread, and search."
+      "alt": "LinkLater — every save carries your note, tags, Export .md, and 1-click Send to Obsidian",
+      "cap": "Every save carries your context — notes, tags, Export .md, and 1-click Send to Obsidian."
     },
     {
       "img": "link-later-3.png",
-      "alt": "LinkLater — local and exportable to Markdown",
-      "cap": "Local, and yours. Export your whole list to Markdown."
+      "alt": "LinkLater — free Markdown export and full reading digest to Obsidian",
+      "cap": "Local, private, and yours. Export to Markdown free or send straight to Obsidian."
     }
   ],
   "jsonld": {
-    "description": "Save the page you're on to a local read-later list with notes & tags. Read later or export to Markdown. Local-first, no account.",
+    "description": "Save the page you're on to a local read-later list with notes & tags. Export to Markdown free or send straight to Obsidian in 1 click. Local-first, no account.",
     "featureList": [
-      "Local read-later list",
-      "Notes & tags",
-      "Search & filter",
-      "Markdown export"
+      "Local read-later queue with notes & tags",
+      "Instant search & Unread/Read filter",
+      "Per-item & full-list Markdown (.md) export (free)",
+      "1-click Send to Obsidian & full reading digest bridge"
     ]
   }
 }

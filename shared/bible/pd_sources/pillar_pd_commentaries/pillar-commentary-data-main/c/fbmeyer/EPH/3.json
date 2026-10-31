@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "fbmeyer",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Gentiles Share the “Unspeakable Riches” -- Ephesians 3:1-13\n\nDispensation should be rendered, “stewardship.” We are God’s trustees for men. To each of us is given some special phase of truth which we must pass on to others by the force of our character or by the teaching of our lips. It was given to Paul to make known the great truth that Gentiles might enter the Church of God on equal terms with Jews. During the earlier stages of human education this secret had been withheld; but with the advent of the Son of man, the doors into the Church had been thrown open to all. Paul’s insistence on this truth was the main cause of the hatred and opposition which checkered his life. Fellow-heirs, fellow-members, and fellow-partakers!\n\nThis truth was not the result of logical argument, but had been communicated by direct revelation, as was so much else in Paul’s teaching. See Galatians 1:11, etc.\n\nThe history of the Church-its genesis, growth, and development-is the subject of angelic study, Ephesians 3:10. In the story of redemption there are presented and illustrated aspects of the divine nature which are to be learned nowhere else, and therefore heavenly intelligences bend with eager interest over human history from the viewpoint of the Church of Christ."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Greatest of All Desires -- Ephesians 3:14-21\n\nThe kernel of this prayer is in the clause that Christ may make His home in the believer’s heart through faith. The previous petitions lead up to this. Note the Apostle’s attitude-with bended knee; his plea with God-that He is the Father from whom all family love emanates; his measure-the wealth of God’s glorious perfection; the necessary preliminary to Christ’s indwelling-the penetration of our inmost being with the strength of the Holy Spirit. And then note the outcome: The indwelling Christ means that we shall be rooted and grounded in love. When this is the case we shall understand His love; and when we experience and know Christ’s love, we shall be as completely filled in our little measure as God is in His great measure.\n\nA dying veteran in Napoleon’s army, when the surgeon was probing for the fatal bullet, said, “A little deeper and you will find the Emperor.” Faith opens the door to the Spirit; the Spirit reveals Christ; Christ fills the heart; the heart begins to understand love; and love is the medium through which we become infilled with God, for God is love. It is staggering to ask all this; but the God who works in us with such power is able to do more than we ask, more than we think-abundantly more, exceeding abundantly more."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 4
+ }
+}

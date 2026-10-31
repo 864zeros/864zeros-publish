@@ -13,6 +13,15 @@
     "count": 1
   },
   "verses": [
-    { "book": "Haggai", "chapter": 2, "citation": "Haggai 2:9", "text": "The glory of this latter house shall be greater than of the former, saith the Lord of hosts: and in this place will I give peace, saith the Lord of hosts.", "plain": "The glory of this present house will be greater than the glory of the former house, says the Lord Almighty. And in this place I will grant peace." }
+    {
+      "book": "Haggai",
+      "chapter": 2,
+      "citation": "Haggai 2:9",
+      "text": "The glory of this latter house shall be greater than of the former, saith the Lord of hosts: and in this place will I give peace, saith the Lord of hosts.",
+      "plain": "The glory of this present house will be greater than the glory of the former house, says the Lord Almighty. And in this place I will grant peace.",
+      "visual_prompt": "a heavy timber door with an iron latch set into a thick stone wall in a stone olive press brimming with new oil",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

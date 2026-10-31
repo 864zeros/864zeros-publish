@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Jordan Safely Crossed -- Joshua 3:1-17\n\nFor three days the host faced that swollen river. It was enough to appall them, except that, like Abraham, they dared to behold it in the light of the divine promise. Every method was adopted to impress on them that the river was cleft by and for the Ark. The distance between the people and the advancing priests was purposely widened that there might be no doubt about the miracle. Whenever we step out on the unknown path, the Ark of the Covenant, which symbolizes Christ, precedes, Isaiah 52:12.\n\nThe waters far up the stream were arrested and formed themselves into a vast lake. The bed of the river became dry for miles. The priests stood still till all Israel was safely over. Not only the leaders and priests, but the rank and file. Each of the blood-bought is dear to God. They shall not come into judgment, John 5:24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 4
+ }
+}

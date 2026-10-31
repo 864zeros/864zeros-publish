@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 48,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Obstinate and Insincere Rebuked -- Isaiah 48:1-16\n\nWe are meant to be for God’s praise and glory; but we may delay the realization of His high purpose. Our neck iron, our brow brass, we trust in idols and refuse to open our ear. It is necessary, therefore, to send us to Babylon, where, as in a furnace for silver, the dross and alloy are purged away. Many of us are in furnaces which have been rendered needful through our evil ways.\n\nNotwithstanding our sins, God comes to the furnace mouth and chooses us there. For His own sake, His own sake, He does it that His name may not be polluted. He cannot give His glory to another. You cannot account for God’s grace to you personally. He must have known all, from the first. Then dare to believe that the reason that prompted Him at the first will suffice to the end. He is not “the son of man that He should repent.” He who was the first will be the last. Jesus is Omega as well as Alpha; the end as well as the beginning! Fear not! Revelation 1:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "“A Light to the Gentiles” -- Isaiah 48:17-22; Isaiah 49:1-13\n\nThe first division of this second part of Isaiah closes at Isaiah 48:22, with the phrase there is no peace to the wicked. The second division of part 2 closes with a similar phrase, Isaiah 57:21. The first division here ends with the proclamation for Israel to leave Babylon. They need never have gone there. If only they have been obedient in every particular theirs would have been the happy lot of Isa 48:18, as contrasted with Isaiah 48:22. But even under such circumstances, in captivity and as slaves of the Chaldeans the redeeming grace of God would triumph, Isaiah 48:20; Isaiah 49:5.\n\nThe second great division of Part 2 opens with Isaiah 49:1. In their first and immediate reference, these verses evidently apply to our Lord. See Acts 13:47, etc. In the mission of Jesus, the ideal of the Hebrew race was realized. As the white flower on the stalk He revealed the essential beauty and glory of the root, Isaiah 49:6. See Hosea 11:1; Matthew 2:1-2; Matthew 2:14-15, etc.\n\nThere is a secondary sense, also, in which the Christian worker may appropriate many things in this glowing paragraph. Our mouth must be surrendered to God, that He may use it for His own high purposes. But do not dread the shadow of His hand. It is the quiver case in which He keeps His chosen arrows against the battle!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 48
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 47
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 49
+ }
+}

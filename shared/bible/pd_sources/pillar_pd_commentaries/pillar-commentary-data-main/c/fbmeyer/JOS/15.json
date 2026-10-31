@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "63, Rewards of Courage -- Joshua 15:13-19\n\nArba was the greatest among the Anakim or giants, Joshua 14:15. His three sons were equally formidable, Joshua 15:14. But Caleb subdued them through an omnipotent faith, 1 John 5:4-5. Jesus can give us victory over the Anakim of our hearts; the only condition is faith.\n\nTwice in Scripture we are told this story of Achsah. See Judges 1:13, etc. With fatherly generosity Caleb gave her the upper and the nether springs. When men are right with God they can distribute living water to others. Let us never rest content with the lower, but aspire to the highest, John 3:12, remembering that it is our Father’s good pleasure to give.\n\nAlas for the record of Jos 15:63! Centuries passed till David came and subdued the city, 2 Samuel 5:6. But there would have been no waiting had Judah gone up in the power of God. See Psalms 60:5, etc."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 17
+ }
+}

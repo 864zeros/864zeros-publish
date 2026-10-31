@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Acquaint Thyself with God” -- Job 22:1-30\n\nEliphaz opens the third cycle of the discussion with a speech altogether too hard and cruel. He begins with an enumeration of Job’s fancied misdeeds, Job 22:1-11. The fundamental position with Eliphaz was the absolute, even-handed justice of God. In contrast with the oriental magnate who is influenced by gifts, God at least was unimpeachable; and therefore, however Job might affirm the contrary, he must have deserved the chastisement which had befallen him.\n\nThen follows his argument from the Deluge, Job 22:12-20. Evil men are always anxious to think that God does not notice them. This was, says Eliphaz, the policy of those who were destroyed by the Flood. They attempted to build society on atheistic lines, though he filled their houses with good things. The inference, of course, was that Job had been guilty of the same offense, Eliphaz concludes with a tender delineation of a holy life, Job 22:21-30. To be reconciled to God, to obey His Word, to put away iniquity and trust in earthly riches, are the conditions of blessedness.\n\nWe shall gain more than we lose, Job 22:25. We shall inherit the confidence and joy of His presence, Job 22:26. Our prayers will be answered; we shall walk “in the light;” and our ministry to others will be full of helpfulness. Let us, then, acquaint ourselves with God and be at peace!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 23
+ }
+}

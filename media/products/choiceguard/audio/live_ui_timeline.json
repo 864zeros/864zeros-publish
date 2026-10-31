@@ -1,0 +1,56 @@
+{
+  "totalDurationSec": 51.662,
+  "soundtrackWav": "C:\\dev\\864zeros-publish\\media\\products\\choiceguard\\audio\\live_ui_soundtrack.wav",
+  "scenes": [
+    {
+      "id": "live_step1_enable",
+      "stepLabel": "Step 1 of 4 \u00b7 Open ChoiceGuard & Enable Limits",
+      "caption": "Enable capacity limits inside the real ChoiceGuard sidebar \u2014 100% inside your Google account.",
+      "text": "Setting up sign-up caps in Google Forms shouldn't require recurring monthly or annual rent. Inside ChoiceGuard, check Enable Capacity Limits and set your seat caps for each session.",
+      "start": 0.0,
+      "end": 10.804,
+      "durationSec": 10.804,
+      "durationMs": 10804
+    },
+    {
+      "id": "live_step2_save",
+      "stepLabel": "Step 2 of 4 \u00b7 Arm Concurrency-Safe LockService Trigger",
+      "caption": "Click 'Save & Activate Limits' \u2014 ChoiceGuard arms native LockService protection with zero external servers.",
+      "text": "Click Save and Activate Limits. ChoiceGuard arms Google's native LockService mutex right inside your tenant\u2014with zero external cloud servers and zero student data exposure.",
+      "start": 10.804,
+      "end": 22.034,
+      "durationSec": 11.23,
+      "durationMs": 11230
+    },
+    {
+      "id": "live_step3_submit",
+      "stepLabel": "Step 3 of 4 \u00b7 Final Respondent Claims Seat 5 of 5",
+      "caption": "When a parent submits the 5th and final seat for Session A on the live Google Form...",
+      "text": "Watch the live form on the middle panel. Four of five seats are taken in Session A. Now a parent submits the fifth and final spot.",
+      "start": 22.034,
+      "end": 30.358,
+      "durationSec": 8.324,
+      "durationMs": 8324
+    },
+    {
+      "id": "live_step4_eliminated",
+      "stepLabel": "Step 4 of 4 \u00b7 Instant Choice Elimination \u00b7 Zero Double Bookings",
+      "caption": "Session A (5/5) is automatically eliminated from the live Google Form while Sessions B & C remain open!",
+      "text": "Instantly, ChoiceGuard marks Session A as full and eliminates it from the live form\u2014preventing double bookings while Sessions B and C stay open.",
+      "start": 30.358,
+      "end": 39.548,
+      "durationSec": 9.19,
+      "durationMs": 9190
+    },
+    {
+      "id": "live_step5_outro",
+      "stepLabel": "864zeros \u00b7 Sovereign Software \u00b7 Pay Once, Keep Forever",
+      "caption": "2 Active Forms 100% Free \u00b7 one-time lifetime Pro Unlock \u00b7 864zeros.com/products/choiceguard",
+      "text": "Get ChoiceGuard on the Google Workspace Marketplace, or try the interactive live demo today at eight sixty-four zeros dot com. Sovereign software\u2014pay once, keep forever.",
+      "start": 39.548,
+      "end": 51.662,
+      "durationSec": 12.114,
+      "durationMs": 12114
+    }
+  ]
+}

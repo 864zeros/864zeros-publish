@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Rendering “to All Their Dues” -- Romans 13:1-7\n\nHuman government, like the existence of the family relationship, is a divine institution. It is part of the order of the world and rooted in the original conception of the race. It was never intended that we should live as individual units, but as members of family and state. It is evident, therefore, that the authority which is wielded by the ruler expresses, generally speaking, a divine principle. The comfort and well-being of society are better attained in that way than in any other, and the recognition of this principle carries with it the assent of our intuitive convictions. We must render therefore to all their dues.But it must be acknowledged, also, that there are limits beyond which imperial or legislative authority may not go.\n\nWhen Nero, according to tradition, bade the Apostle to abandon his faith as the condition of liberty, Paul did not hesitate to say that the emperor was intruding on a province to which he had no claim, and that he must obey God rather than man. So far as our life in a community goes, there must be some form of government, which may be modeled according to the varying opinions of men, whether monarchical or republican, autocratic or socialistic; but when once it has been agreed upon, it must be obeyed, unless it forfeits confidence, in which case a new order becomes necessary."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Love Fulfills the Law -- Romans 13:8-14\n\nThe one debt which can never be discharged is love. Because we can never be out of debt to God, we are called upon to show unending love to man. So long as we love we cannot injure; and therefore the man who is always caring for others as much as, or more than, he does for himself (and this latter is the Christian ideal) is fulfilling that ancient law.\n\nWe resemble soldiers slumbering in their tents while dawn is flushing the sky. Presently the bugle rings out its awakening note. The long night of the world is ending, the dawn is on the sky, and all the malignity of men and demons cannot postpone it by a single hour. Let us put off the garments which only befit the darkness, and array ourselves in the armor of the day! What is that armor? In a word, it is Jesus Christ-His character and method, His unselfishness and purity-so that when men see us, they may involuntarily turn to Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 14
+ }
+}

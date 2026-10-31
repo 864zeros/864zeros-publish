@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Loyalty Severely Tested -- Daniel 3:1-18\n\nThe king, at the close of the foregoing chapter, acknowledged the supremacy of Daniel’s God, yet here he erects an image to Bel and to himself, demanding divine honor. Probably there was state policy in this. In so heterogeneous an empire of peoples, nations, and languages, there could be no unity but in universal prostration before one and the same object. Nineteen years had elapsed since the recovery of the lost dream. In that period successful wars had been waged and vast treasures accumulated which made this vast expenditure possible. Imagine the assembled myriads, the glittering array of princes, satraps, viceroys, statesmen, and priests, the grouped bands, and in the background the furnace.\n\nThe three youths could not have stood alone amid the prostrate throng, had they not been supported by a living faith in the God of their fathers, Hebrews 11:33-34. They would not argue, but they could die, if God willed. Their attitude must be taken and maintained altogether apart from any expectation of deliverance. Our God whom we serve is able-and He will."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Loyalty Rewarded -- Daniel 3:19-30\n\nIt is only when we reach the fire that we become aware of the presence of the divine Companion, walking beside us as if treading the dew-besprinkled glades of Paradise. The Good Shepherd was there with His rod and staff. Loose, Daniel 3:25, that is, the fire had consumed their bonds and nothing else. Hair would soonest catch the flame, but not a hair perished, Luke 12:7; Luke 21:18. The yielded body of Dan 3:28 reminds us of Rom 6:13; Romans 12:1-2. Let us yield our bodies and souls to our faithful Creator for Him to use as He will. He made and redeemed, let Him have; and when we are possessed by His Spirit, all other fires, whether physical or temperamental, fail to hurt. Of the martyrs, it may be said that upon them also the fire had no power, Isaiah 43:2!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 4
+ }
+}

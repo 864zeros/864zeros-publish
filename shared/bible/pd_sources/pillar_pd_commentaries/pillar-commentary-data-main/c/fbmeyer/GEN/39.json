@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 39,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joseph in Potiphar’s House -- Genesis 39:1-18\n\nUngodly families and employers owe more than they realize to the presence in their homes and businesses of those who love God; for God comes with His servants. See Genesis 39:2; Genesis 39:21; Genesis 39:23, and Acts 7:9. But those who would enjoy that accompanying Presence must resist and overcome the appeals of the flesh. Days of outward prosperity are those in which we are most keenly tempted. The most venomous serpents coil in the damp heat of tropical forests. When temptation and opportunity meet, our case is hard indeed.\n\nAt such times only God’s grace can hold us back. As temptation presents itself again and again, it gives us opportunities of continued growth in strength and grace. Joseph had probably wrought out his noble answer in his own secret heart, and had lived by it, weeks before he flashed it forth. In the critical hour the mouth blurts out what the heart has been meditating. They who can rule themselves will be presently trusted to rule others."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Joseph Fares Well in Prison -- Genesis 39:19-23; Genesis 40:1-8\n\nThese two men remind us of the two thieves crucified beside our Lord; to the one He was a savor of life, to the other of death. Jeremy Taylor says that he must be in love with peevishness who chooses to sit down on his little handful of thorns, when there are so many causes that call for him. Wherever in the world we are, there is a fellowship of sad and lonely hearts for us to cultivate. Like Joseph, let us set about helping others, and so find solace and help for ourselves. We must move in and out among our fellows with “a glorious morning face.” Keep your sorrows for your Lord and yourself, but learn from your own experiences how to comfort those who are in any sorrow by the comfort with which you yourself have been comforted of God. How quick Joseph was to detect the added anxiety on the two faces!\n\nIt was because he had known similar alternations of experience. See 2 Corinthians 1:4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 39
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 37
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 40
+ }
+}

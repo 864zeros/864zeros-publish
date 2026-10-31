@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Break up Your Fallow Ground” -- Hosea 10:1-15\n\nIsrael brought forth fruit, but not such as God could delight in. It was corrupt and evil. How great a disappointment to the Great Cultivator! The land was covered with obelisks and altars, the symbols of idolatry, and the Canaanites themselves had not been more shameless in sin. But notice the terrible judgments that must befall. There would be revolution, for when men say, We fear not the Lord, they will go on to say, We fear not the king.\n\nBeth-aven, the “house of vanity,” would replace Beth-el, the “house of God.” The golden calves would be carried off by the conqueror. The king would perish as foam upon the water. The yoke of conquest would be placed on Ephraim’s fair neck. The fortresses of Israel would be carried by assault, with all the accompaniments of savage warfare. Is it not “an evil thing and bitter” to forsake the Lord!\n\nIs it not time that we should look into our hearts and lives, break up the fallow ground, now covered with thorns and thistles, and begin to sow in righteousness? Let us ask God to drive the plowshares of deep soul-searching and conviction across the hard and sterile acres of our hearts, and sow them with His good seed."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 11
+ }
+}

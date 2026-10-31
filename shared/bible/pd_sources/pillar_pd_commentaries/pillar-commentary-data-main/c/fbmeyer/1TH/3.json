@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TH",
+  "commentaryId": "fbmeyer",
+  "name": "1 Thessalonians",
+  "commonName": "1 Thessalonians",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Awakening Thanksgiving and Intercession -- 1 Thessalonians 3:1-13\n\nAt the outset observe that marginal reading by which Timothy is described as a fellow-worker with God. What a wonderful phrase, and yet it is applicable to all true workers for God! Think what it must have been for a young artist to be permitted to collaborate with Michelangelo! No thought of his own comfort interfered with Paul’s efforts for the young churches he had planted; he was only eager that they should be established and comforted amid the storm of persecution that swept over them. There is only one path for the followers of Jesus, and it is lined with flints and flecked with blood.\n\nThough the waters surged up to Paul’s heart, he could bear anything, if only his work stood fast. What he suffered was as nothing compared with his joy at the stability of his charges. As he wrought day and night at his handicraft, so he prayed day and night for them. The stitches put into the tent cloth were accompanied by the holy threads of prayerful intercession. He only longed that Christ would make a straight thoroughfare to them, and would keep them blameless and strong."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 4
+ }
+}

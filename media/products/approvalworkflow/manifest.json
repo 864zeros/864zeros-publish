@@ -6,7 +6,7 @@
   "type": "google-add-ons",
   "name": "ApprovalWorkflow Local — Dynamic Form & Sheet Approval Engine",
   "summary": "Multi-step form approval router with tokenized email action buttons and dynamic Sheet logging. 100% local-first in Apps Script — zero external data relays.",
-  "metaDescription": "ApprovalWorkflow Local routes Google Forms submissions to managers with one-click email approval buttons and dynamic Sheet status tracking. One-time lifetime license with zero subscriptions.",
+  "metaDescription": "ApprovalWorkflow Local routes Google Forms submissions to managers with one-click email approval buttons and dynamic Sheet status tracking. one-time lifetime license with zero subscriptions.",
   "icon": "approvalworkflow.png",
   "storeUrl": "",
   "video": {
@@ -15,7 +15,7 @@
     "tag": "⏱️ 42s Product Demo",
     "title": "Watch ApprovalWorkflow Local in Action",
     "desc": "Automate multi-step approval decisions in Google Forms and Sheets. Tokenized email buttons allow managers to approve requests directly from their inbox, writing decisions straight to your tracking spreadsheet in real time.",
-    "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
   },
   "social_shorts": [
     {
@@ -58,7 +58,7 @@
       "Direct Google Sheets decision and timestamp logging",
       "LockService mutex concurrency protection against race conditions",
       "100% in-account execution via non-restricted scopes",
-      "One-time lifetime license — zero recurring SaaS subscriptions"
+      "one-time lifetime license — zero recurring SaaS subscriptions"
     ]
   }
 }

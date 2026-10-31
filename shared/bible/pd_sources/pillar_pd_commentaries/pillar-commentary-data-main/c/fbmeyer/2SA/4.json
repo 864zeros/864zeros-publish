@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Another Treacherous Deed and Its Penalty -- 2 Samuel 4:1-12\n\nAbner’s death rendered hopeless the cause of Ish-bosheth. Two captains incurred lasting shame and deserved punishment by their dastardly act of murder. Their act was the more despicable because of their prince’s trust.\n\nHow little do coarse natures understand the workings of a really religious nature! These men knew that, if they were in David’s place, nothing would please them better than the removal of the last obstacle to the throne. They reasoned that David would feel thus and reward them munificently. But to their astonishment, he turned on them with honest indignation. We must dare to act apart from self-interest, as in the light and fire of the Eternal Throne.\n\nNotice David’s devout spirit. He ascribed his redemption to God’s tender mercy, 2 Samuel 4:9. His first thought was always of God’s love and grace and help. Ah, Christian soul, you, too, will one day attain the sunny heights, standing on which you also will be able to say, “He hath redeemed my soul from all adversity.” The night may be long, but the day-spring is at hand."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 5
+ }
+}

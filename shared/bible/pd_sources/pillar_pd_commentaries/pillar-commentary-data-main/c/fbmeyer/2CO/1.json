@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sharing Comfort in Affliction -- 2 Corinthians 1:1-11\n\nThis was a circular letter, including in its scope all the scattered communities in the district. Grace was the usual salutation of the West, Peace of the East. Here they meet. All our mercies emanate from the Father’s heart, and all comfort comes from the Comforter. When next passing through great sorrow and trial, notice how near God comes and what He says. Try to learn His methods, to get His secret. Remember that you are being comforted in order to comfort others. God is training you to be, like Barnabas, a “son of consolation.” The gains of trial are immense, because they furnish the experience from which others may profit. Often God ministers comfort by sending a friend, 2 Corinthians 7:5-7.\n\nEither through persecution or through severe illness Paul had been brought to the gates of death, 2 Corinthians 1:8. His recovery was little less than a miracle, but throughout his trust never wavered. Dare to believe, like Paul, that God has delivered, doth deliver, and will deliver! Past, present, and coming deliverances blend in this sweet verse. What He hath done, He doth now, and will do. Only see to it that you have the sentence of death in yourself, and on yourself, and that you go out of yourself to God, in whom is all necessary help. In such hours we may also receive great help from the faith of our friends, 2 Corinthians 1:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Sincere like His Master -- 2 Corinthians 1:12-22\n\nThe Apostle laid great emphasis on the witness of his conscience. See Acts 23:1; Acts 24:16. As we pass out of this life, and stand in the revealing dawn of eternity, it will be a blessed thing if we are able to say this much of ourselves.\n\nPaul had thought of visiting Corinth on his way to Macedonia, and again on his return journey; but this purpose had been defeated. He was eager, however, that his friends should understand that the change was not due to vacillation on his part, for this would be unworthy of one who stood for the great certainties of the gospel.\n\nChrist is God’s attestation to His promises. All these have received their seal in the words, sufferings and resurrection of our Lord. In Jesus God says Yea to the yearnings and prayers of human hearts, and Amen (verily) to all the ten thousand promises of Scripture. He who rests on Christ stands in the focal point of certainty and assurance. Not one good thing shall fail him of all that has been promised.\n\n2 Corinthians 1:21 is full of comfort. God alone can give us a settled and established position. He anoints us for service; seals us with His Spirit for safety, likeness, and authentication; and in this way gives us the earnest and foretaste of heaven, as the grapes of Eschol were the pledge and foretaste of Canaan."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Tender-hearted and Forgiving -- 2 Corinthians 1:23-24; 2 Corinthians 2:1-11\n\nIn these opening words Paul evidently refers to the sin mentioned in 1 Corinthians 5:1-13. His judgment had been strong and stringent, the Corinthian church had acted upon it, and the offender had suffered severely in consequence. But the result had been more than satisfactory. He had repented with great brokenness of spirit. Indeed, it seemed as if he would be swallowed up with overmuch sorrow, 2 Corinthians 2:7.\n\nThe Apostle desires the Corinthians to understand that he also had shed many tears over the case, 2 Corinthians 2:4. His was a very affectionate and tender disposition, which shrank from inflicting pain, and yet was resolute at all costs to maintain truth. We get a sidelight here as to the heart of God. May we not believe that whenever He chastens us, it is with profound pity? Whom He loves He chastens; and whom He receives, He scourges. But when there is full and frank repentance, there should be forgiveness. The penitent offender was to be restored to church fellowship and received with brotherly welcome. The Savior Himself speaks through forgiveness. It is His love that moves, His voice that declares; while an unforgiving spirit sets an open door to the entrance of Satan."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 2
+ }
+}

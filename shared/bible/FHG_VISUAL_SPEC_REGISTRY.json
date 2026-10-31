@@ -1,0 +1,722 @@
+{
+  "_meta": {
+    "registry_id": "FHG-VISUAL-SPEC-REGISTRY",
+    "version": "1.4.0",
+    "updated_at": "2026-10-30",
+    "pillar": "FHG (For His Grace) + All 864zeros Studio & Media Division Pillars (Sloane Sterling STUDIO-001 · Orion Kai MEDIA-001)",
+    "description": "Extensible mapping registry from abstract visual spec IDs to their exact generation prompt templates, negative tokens, Geometry Filter Ladder (G1-G5), Humanizer Filter Ladder (S1-S5), Blotchy Sumi-e Ink-Wash Prepass (B1), Pure-Python Color Printmaking Filter Ladder (C1-C4), and canonical bottom-right signature rules.",
+    "cross_division_pipeline_order": {
+      "owner": "Sloane Sterling (STUDIO-001) & Orion Kai (MEDIA-001)",
+      "scope": "Available across ALL 864zeros Studio & Media Division products (FHG Bible Study/Trivia/Journals, Poetry & Creative Books, Editorial Covers, Social/Video Stills)",
+      "stages": [
+        "Stage 0 (Base Generation): jeff_sketch LoRA or base ink-and-wash draft",
+        "Stage 1 (Blotchy Prepass · B1): apply_blotch_prepass() — converts translucent washes or contour line clusters into 3-tier sumi-e charcoal brush daubs while clearing outer 5.8% parchment margins",
+        "Stage 2 (Geometry Ladder · G1-G5): apply_geometric_transform() — Zhang-Suen 1px skeletonization + RDP straight-chord simplification",
+        "Stage 3 (Humanizer Ladder · S1-S5): apply_humanizer_ladder() — feTurbulence nib tooth + anisotropic charcoal diffusion",
+        "Stage 4 (Color Printmaking Ladder · C1-C4): apply_color_printmaking_stage() — Pure-Python Risograph angled halftone screens & Ukiyo-e skyline bokashi woodblock layers (or hybrid AI Img2Img prompt templates)",
+        "Stage 5 (Canonical Signature Lock): jeff_canonical_signature.png stamped last at bottom-right (width=0.18w, x_right=0.942w, y_bottom=0.971h)"
+      ]
+    },
+    "canonical_signature": {
+      "asset_path": "C:/dev/864zeros-publish/media/visuals/jeff_canonical_signature.png",
+      "source_plate": "C:/dev/864zeros-publish/media/visuals/rendered_art/ebook_meditation_04_surrender_burden.jpg",
+      "placement": "bottom-right",
+      "width_ratio": 0.18,
+      "x_right_ratio": 0.942,
+      "y_bottom_ratio": 0.971,
+      "halo_clearing": "MaxFilter(7) + GaussianBlur(4.0)"
+    },
+    "geometry_ladder": {
+      "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+      "algorithm": "Zhang-Suen 1px skeletonization + Ramer-Douglas-Peucker (RDP) per-stroke polyline simplification",
+      "stages": {
+        "G1": {
+          "epsilon": 0.0,
+          "overshoot_px": 0.0,
+          "label": "Natural Freehand Curves (0px chord simplification)"
+        },
+        "G2": {
+          "epsilon": 2.5,
+          "overshoot_px": 0.15,
+          "label": "Subtle Chiseled Curves (2.5px straight-chord tolerance)"
+        },
+        "G3": {
+          "epsilon": 5.5,
+          "overshoot_px": 0.35,
+          "label": "Planar Straight-Line Draftsmanship (5.5px straight-chord tolerance)"
+        },
+        "G4": {
+          "epsilon": 9.5,
+          "overshoot_px": 0.65,
+          "label": "Bold Angular Straight-Edge Strokes (9.5px straight-chord tolerance)"
+        },
+        "G5": {
+          "epsilon": 16.0,
+          "overshoot_px": 1.1,
+          "label": "Architectural Straight-Chord Abstraction (16.0px straight-chord tolerance)"
+        }
+      }
+    },
+    "color_printmaking_ladder": {
+      "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+      "algorithm": "Morphological 3-tier tonal separation (deep_black, dark_gray, mid_gray, ambient_pool) with MaxFilter(5) anti-alias fringe guard + angled 2D halftone dot matrices (halftone_screen) + automatic skyline Ukiyo-e bokashi gradient (compute_sky_bokashi_mask)",
+      "stages": {
+        "C1": {
+          "aliases": [
+            "C1",
+            "PY1",
+            "RISO_TERRA_PINE"
+          ],
+          "favorite": false,
+          "label": "Dual-Tone Earth Risograph (Terracotta Clay 35deg & Deep Forest Pine)",
+          "spec_id": "fhg_riso_terracotta_pine_spec"
+        },
+        "C2": {
+          "aliases": [
+            "C2",
+            "PY2",
+            "RISO_EARTH",
+            "RISO_OCHRE_OLIVE_UMBER"
+          ],
+          "favorite": true,
+          "label": "★ FAVORITE #1: 3-Color Earth Risograph (Golden Ochre 18deg, Sage Olive 52deg, Terracotta Rust 78deg & Raw Umber)",
+          "spec_id": "fhg_riso_earth_3color_spec"
+        },
+        "C3": {
+          "aliases": [
+            "C3",
+            "PY3",
+            "UKIYOE_RISO",
+            "UKIYOE_EARTH_RISO_HYBRID"
+          ],
+          "favorite": true,
+          "label": "★ FAVORITE #2: Ukiyo-e Woodblock × Earth-Tone Risograph Hybrid (Framed Terracotta-Amber Skyline Bokashi + 3-Color Earth Risograph)",
+          "spec_id": "fhg_ukiyoe_earth_riso_hybrid_spec"
+        },
+        "C4": {
+          "aliases": [
+            "C4",
+            "PY4",
+            "UKIYOE_PRUSSIAN",
+            "UKIYOE_PRUSSIAN_WOODBLOCK"
+          ],
+          "favorite": false,
+          "label": "Classic Ukiyo-e Prussian Blue Bokashi + Earthy Woodblock Tints",
+          "spec_id": "fhg_ukiyoe_prussian_woodblock_spec"
+        }
+      }
+    },
+    "filter_upstream_source_matrix": {
+      "description": "Canonical upstream input source for each downstream filter variation in the 11-Style FHG Studio Pipeline",
+      "base_draft_inputs": {
+        "✒️ Contour (G2 / _g2_s2.jpg)": {
+          "applied_to": "🎨 Base Draft (_base.jpg)",
+          "stage_flag": "G2+S2 (or G2+S3 for people from back)",
+          "reason": "Requires pure un-blotched contour line skeleton from _base.jpg so Zhang-Suen skeletonization and RDP 2.5px chiseled chord simplification operate solely on pen lines."
+        },
+        "📐 Angular (G4 / _straight_g4.jpg)": {
+          "applied_to": "🎨 Base Draft (_base.jpg)",
+          "stage_flag": "G4",
+          "reason": "Requires pure contour line skeleton from _base.jpg to convert curves into 9.5px planar straight-edge architectural segments without wash blotches."
+        }
+      },
+      "blotchy_b1_inputs": {
+        "🌲 Terra/Pine (C1 / _c1_riso_terra_pine.jpg)": {
+          "applied_to": "✨ Blotchy Ink-Wash (B1 / _b1_g2_s2.jpg)",
+          "stage_flag": "C1",
+          "reason": "Separates the 3 tonal ink-wash tiers of the B1 blotchy plate into angled Terracotta Clay (35°) & Sage-Slate (75°) Risograph halftone dot screens while preserving Deep Forest Pine contours."
+        },
+        "★ Riso Earth (C2 / _c2_riso_earth.jpg)": {
+          "applied_to": "✨ Blotchy Ink-Wash (B1 / _b1_g2_s2.jpg)",
+          "stage_flag": "C2",
+          "reason": "Separates the B1 blotchy ink-wash daubs into 3-color Earth Risograph halftone screens: Golden Ochre (18°), Sage Olive (52°), and Terracotta Rust (78°) with Raw Umber primary linework."
+        },
+        "★ Ukiyo-e (C3 / _c3_ukiyoe_riso.jpg)": {
+          "applied_to": "✨ Blotchy Ink-Wash (B1 / _b1_g2_s2.jpg)",
+          "stage_flag": "C3",
+          "reason": "Uses the B1 top skyline contour ridge for the framed Ukiyo-e bokashi sky gradient and converts the lower B1 ink-wash blotches into 3-color Earth Risograph halftone screens."
+        },
+        "🌊 Prussian (C4 / _c4_ukiyoe_prussian.jpg)": {
+          "applied_to": "✨ Blotchy Ink-Wash (B1 / _b1_g2_s2.jpg)",
+          "stage_flag": "C4",
+          "reason": "Applies a top-down Prussian Blue (#183858) Ukiyo-e bokashi woodblock sky fade and tints the B1 ink-wash blotch zones with mineral woodblock pigments."
+        }
+      },
+      "hybrid_contour_plus_b1_inputs": {
+        "🌀 Loop Scribble (_loop_scr.jpg)": {
+          "applied_to": "✒️ Contour (G2) + ✨ Blotchy (B1) tonal delta",
+          "reason": "Extracts structural contour from G2/G4 and converts the B1 wash tonal delta into continuous fountain-pen circular coils."
+        },
+        "🕸️ X-Hatch (_xhatch_scr.jpg)": {
+          "applied_to": "✒️ Contour (G2) + ✨ Blotchy (B1) tonal delta",
+          "reason": "Extracts structural contour from G2/G4 and converts the B1 wash tonal delta into 3-tier (-48° / -132° / -12°) cross-hatching."
+        },
+        "🪄 Subtractive P3 (_sub_scr.jpg)": {
+          "applied_to": "✒️ Contour (G2) + ✨ Blotchy (B1)",
+          "reason": "Combines G2 contour search ribbons with darkened found silhouettes and open negative-space erasure from B1."
+        }
+      }
+    },
+    "locked_8_nonblotch_editions": {
+      "signed_off_by": [
+        "Jeff (Founder)",
+        "Sloane Sterling (STUDIO-001)",
+        "Orion Kai (MEDIA-001)"
+      ],
+      "default_hero_edition": "nb_loop_c3 (🌀★ Loop Scribble × Ukiyo-e Riso C3)",
+      "editions": [
+        {
+          "order": 1,
+          "key": "nb_loop_c3",
+          "field": "image_file_nb_loop_c3",
+          "suffix": "_nb_loop_c3.jpg",
+          "upstream": "_loop_scr.jpg",
+          "filter": "C3",
+          "label": "🌀★ Loop Scribble × Ukiyo-e Riso (C3 · Hero)"
+        },
+        {
+          "order": 2,
+          "key": "nb_loop_c4",
+          "field": "image_file_nb_loop_c4",
+          "suffix": "_nb_loop_c4.jpg",
+          "upstream": "_loop_scr.jpg",
+          "filter": "C4",
+          "label": "🌀🌊 Loop Scribble × Prussian Woodblock (C4)"
+        },
+        {
+          "order": 3,
+          "key": "nb_line_c3",
+          "field": "image_file_nb_line_c3",
+          "suffix": "_nb_line_c3.jpg",
+          "upstream": "_g2_s2/s3.jpg",
+          "filter": "C3",
+          "label": "✒️★ Pure Contour (G2) × Ukiyo-e Riso (C3)"
+        },
+        {
+          "order": 4,
+          "key": "nb_line_c4",
+          "field": "image_file_nb_line_c4",
+          "suffix": "_nb_line_c4.jpg",
+          "upstream": "_g2_s2/s3.jpg",
+          "filter": "C4",
+          "label": "✒️🌊 Pure Contour (G2) × Prussian Woodblock (C4)"
+        },
+        {
+          "order": 5,
+          "key": "nb_base_c3",
+          "field": "image_file_nb_base_c3",
+          "suffix": "_nb_base_c3.jpg",
+          "upstream": "_base.jpg",
+          "filter": "C3",
+          "label": "🎨★ Clean Base × Ukiyo-e Riso (C3)"
+        },
+        {
+          "order": 6,
+          "key": "nb_base_c4",
+          "field": "image_file_nb_base_c4",
+          "suffix": "_nb_base_c4.jpg",
+          "upstream": "_base.jpg",
+          "filter": "C4",
+          "label": "🎨🌊 Clean Base × Prussian Woodblock (C4)"
+        },
+        {
+          "order": 7,
+          "key": "nb_sub_c3",
+          "field": "image_file_nb_sub_c3",
+          "suffix": "_nb_sub_c3.jpg",
+          "upstream": "_sub_scr.jpg",
+          "filter": "C3",
+          "label": "🪄★ Subtractive P3 × Ukiyo-e Riso (C3)"
+        },
+        {
+          "order": 8,
+          "key": "nb_xhatch_g2",
+          "field": "image_file_nb_xhatch_g2",
+          "suffix": "_nb_xhatch_g2.jpg",
+          "upstream": "_xhatch_scr.jpg",
+          "filter": "G2+S2",
+          "label": "🕸️✒️ 3-Tier Cross-Hatch × Chiseled Contour (G2)"
+        }
+      ]
+    }
+  },
+  "specs": {
+    "fhg_sketch_spec": {
+      "spec_id": "fhg_sketch_spec",
+      "status": "LOCKED",
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "label": "FHG Canonical Biblical Fountain-Pen Sketch (Mode A · G2 + S2)",
+      "medium": "Freehand black fountain-pen contour on warm cream parchment (#F5EFE2) with G2 chiseled straight segments and S2 nib tooth",
+      "ground_truth_ref": "C:/dev/forhisgrace-web/images/fig-001-jeff-style.jpg",
+      "prompt_template": "jeff_sketch style, {subject}, authentic freehand black fountain-pen contour drawing on warm cream parchment paper (#F5EFE2). Framed inside a thin hand-drawn black ink square border near the outer margin with subtle overshooting (+) corner intersections. Expressive calligraphic line-weight modulation with bold thicker outer silhouette contours and delicate fine interior contour lines. All interior forms and sky remain 100% open unshaded warm parchment.",
+      "negative_prompt": "shading, cross-hatching, stippling, grey washes, color fills, geometric or cubist blocks, ruler-straight CAD lines, text, watermarks, signatures",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "geometry_stage": "G2",
+        "geometry_params": {
+          "epsilon": 2.5,
+          "overshoot_px": 0.15
+        },
+        "humanizer_stage": "S2",
+        "humanizer_params": {
+          "baseFrequency": 0.045,
+          "numOctaves": 3,
+          "scale": 1.8,
+          "blur_x": 0.0,
+          "blur_y": 0.0,
+          "haze_opacity": 0.0
+        },
+        "signature": {
+          "enabled": true,
+          "asset": "C:/dev/864zeros-publish/media/visuals/jeff_canonical_signature.png",
+          "width_ratio": 0.18,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_sketch_people_spec": {
+      "spec_id": "fhg_sketch_people_spec",
+      "status": "LOCKED",
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "label": "FHG Canonical Biblical Human-Silhouette Sketch (Mode A · People from Back · G2 + S3)",
+      "medium": "Freehand black fountain-pen contour of robed biblical figures seen strictly from the back on warm cream parchment (#F5EFE2) with G2 chiseled straight segments and S3 soft diffusion",
+      "ground_truth_ref": "C:/dev/forhisgrace-web/images/fig-001-jeff-style.jpg",
+      "prompt_template": "jeff_sketch style, {subject}, authentic freehand black fountain-pen contour drawing on warm cream parchment paper (#F5EFE2). Framed inside a thin hand-drawn black ink square border near the outer margin with subtle overshooting (+) corner intersections. Expressive calligraphic line-weight modulation with bold thicker outer silhouette contours on the cloak and figure and delicate fine interior contour folds. All interior forms, robes, and sky remain 100% open unshaded warm parchment. Seen strictly from behind with zero facial features.",
+      "negative_prompt": "face, eyes, portrait, shading, cross-hatching, stippling, grey washes, color fills, geometric or cubist blocks, ruler-straight CAD lines, text, watermarks, signatures",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "geometry_stage": "G2",
+        "geometry_params": {
+          "epsilon": 2.5,
+          "overshoot_px": 0.15
+        },
+        "humanizer_stage": "S3",
+        "humanizer_params": {
+          "baseFrequency": 0.035,
+          "numOctaves": 3,
+          "scale": 3.8,
+          "blur_x": 1.5,
+          "blur_y": 1.0,
+          "haze_opacity": 0.35
+        },
+        "signature": {
+          "enabled": true,
+          "asset": "C:/dev/864zeros-publish/media/visuals/jeff_canonical_signature.png",
+          "width_ratio": 0.18,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_inkwash_blotch_spec": {
+      "spec_id": "fhg_inkwash_blotch_spec",
+      "status": "LOCKED_DEFAULT",
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "label": "FHG Blotchy Sumi-e Ink-Wash & Fountain-Pen Sketch (Default · G2 + S2 + B1)",
+      "medium": "Expressive fountain-pen contour lines combined with layered grey-to-charcoal sumi-e ink-wash daubs on warm cream parchment (#F5EFE2) with 45% open negative space around edges",
+      "ground_truth_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_deu_06_deuteronomy_15_7_g2_s2.jpg",
+      "prompt_template": "Minimalist architectural and botanical fountain pen and ink sketch of {subject}, hand-drawn with expressive brown-black sepia ink lines (#2B2623), loose gestural cross-hatching, organic line weight variation, and delicate translucent watercolor washes in muted olive green, warm ochre, dusty terracotta, and pale sky blue. Set on rough, heavy cold-press cream watercolor paper (#F5F1E8) with generous 45% unpainted negative space around the edges. Quiet, contemplative, sunlit editorial sketchbook aesthetic. Strictly no people, no faces, no text, no letters, no signature, no watermark, no border.",
+      "negative_prompt": "people, faces, text, letters, watermarks, signatures, outer frame border, edge-to-edge fill",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "stage_flag": "G2+S2+B1",
+        "geometry_stage": "G2",
+        "humanizer_stage": "S2",
+        "blotch_prepass": "B1 (clears outer 5.8% margin & converts translucent washes or existing line-art contour clusters into multi-tone sumi-e charcoal brush daubs)",
+        "signature": {
+          "enabled": true,
+          "asset": "C:/dev/864zeros-publish/media/visuals/jeff_canonical_signature.png",
+          "width_ratio": 0.18,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_inkwash_blotch_people_spec": {
+      "spec_id": "fhg_inkwash_blotch_people_spec",
+      "status": "LOCKED_DEFAULT",
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "label": "FHG Blotchy Sumi-e Ink-Wash Human-Silhouette Sketch (Default People from Back · G2 + S3 + B1)",
+      "medium": "Expressive fountain-pen contour lines and sumi-e ink-wash daubs of robed figures seen strictly from the back on warm cream parchment (#F5EFE2) with S3 soft diffusion",
+      "ground_truth_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_deu_02_deuteronomy_6_6_g2_s3.jpg",
+      "prompt_template": "Minimalist narrative and architectural fountain pen and ink sketch of {subject}, hand-drawn with expressive brown-black sepia ink lines (#2B2623), loose gestural cross-hatching, organic line weight variation, and delicate translucent watercolor washes in muted olive green, warm ochre, dusty terracotta, and pale sky blue. Set on rough, heavy cold-press cream watercolor paper (#F5F1E8) with generous 45% unpainted negative space around the edges. Quiet, contemplative, sunlit editorial sketchbook aesthetic. Strictly human figures seen from the back or distant silhouette only, zero facial features, no eyes/nose/mouth, no text, no letters, no signature, no watermark, no border.",
+      "negative_prompt": "face, eyes, nose, mouth, front-facing person, text, letters, watermarks, signatures, outer frame border",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "stage_flag": "G2+S3+B1",
+        "geometry_stage": "G2",
+        "humanizer_stage": "S3",
+        "blotch_prepass": "B1 (clears outer 5.8% margin & converts translucent washes or existing line-art contour clusters into multi-tone sumi-e charcoal brush daubs)",
+        "signature": {
+          "enabled": true,
+          "asset": "C:/dev/864zeros-publish/media/visuals/jeff_canonical_signature.png",
+          "width_ratio": 0.18,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_sketch_trivia_spec": {
+      "spec_id": "fhg_sketch_trivia_spec",
+      "status": "TEMPLATE_READY",
+      "label": "FHG Bible Trivia Card Spot-Vignette Sketch",
+      "medium": "Compact high-contrast fountain-pen spot vignette on warm parchment (#F5EFE2) optimized for small mobile/card viewports",
+      "ground_truth_ref": "C:/dev/forhisgrace-web/images/fig-001-jeff-style.jpg",
+      "prompt_template": "jeff_sketch style, {subject}, isolated central spot-vignette freehand black fountain-pen contour drawing on warm cream parchment (#F5EFE2), bold readable outer silhouette for compact card legibility, generous open parchment margin around the central object, thin hand-drawn ink border with (+) corner overshoots, 100% unshaded interior.",
+      "negative_prompt": "shading, cross-hatching, crowded background, tiny unreadable details, color fills, geometric blocks, text, watermarks, signatures",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "geometry_stage": "G2",
+        "humanizer_stage": "S2",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_sketch_journal_spec": {
+      "spec_id": "fhg_sketch_journal_spec",
+      "status": "TEMPLATE_READY",
+      "label": "FHG 5x8 KDP Print Journal Header / Margin Sketch",
+      "medium": "300-DPI print-safe black fountain-pen contour on pure cream stock with extra upper/lower breathing room for ruled ledger lines",
+      "ground_truth_ref": "C:/dev/forhisgrace-web/images/fig-001-jeff-style.jpg",
+      "prompt_template": "jeff_sketch style, {subject}, quiet contemplative freehand black fountain-pen contour drawing on warm cream paper (#F5EFE2), composed in the upper two-thirds with spacious open parchment below for journaling reflection, thin hand-drawn ink border with (+) corner overshoots, zero halftone shading.",
+      "negative_prompt": "grey washes, halftone shading, cross-hatching, color fills, geometric blocks, edge-to-edge clutter, text, watermarks, signatures",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "geometry_stage": "G2",
+        "humanizer_stage": "S2",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_illustration_color_spec": {
+      "spec_id": "fhg_illustration_color_spec",
+      "status": "TEMPLATE_READY",
+      "label": "FHG Warm Heritage Line-and-Tint Illustration",
+      "medium": "Freehand fountain-pen contour with muted biblical earth-tone tints (olive sage, warm ochre, terracotta, parchment)",
+      "ground_truth_ref": "C:/dev/forhisgrace-web/images/fig-001-jeff-style.jpg",
+      "prompt_template": "jeff_sketch style, {subject}, freehand black fountain-pen contour drawing on warm cream parchment (#F5EFE2) with selective muted biblical earth-tone flat tints (olive sage, warm ochre, soft terracotta, raw sienna), thin hand-drawn ink border with (+) corner overshoots, open parchment sky.",
+      "negative_prompt": "neon colors, primary cubist blocks, photorealistic 3D rendering, muddy gradients, text, watermarks, signatures",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "geometry_stage": "G2",
+        "humanizer_stage": "S2",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_watercolor_spec": {
+      "spec_id": "fhg_watercolor_spec",
+      "status": "TEMPLATE_READY",
+      "label": "FHG Line & Translucent Watercolor Wash",
+      "medium": "Fountain-pen contour with soft translucent cold-press watercolor wash (warm sepia, olive leaf, pale sky amber)",
+      "ground_truth_ref": "C:/dev/forhisgrace-web/images/fig-001-jeff-style.jpg",
+      "prompt_template": "jeff_sketch style, {subject}, freehand black fountain-pen line art with soft translucent watercolor wash on textured cold-press cream paper (#F5EFE2), delicate warm amber, olive green, and raw umber pigment blooms with generous unpainted parchment highlights, hand-drawn ink border.",
+      "negative_prompt": "heavy opaque acrylic, neon saturation, geometric cubist blocks, digital airbrush, text, watermarks, signatures",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "geometry_stage": "G2",
+        "humanizer_stage": "S2",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_painting_acrylic_color_spec": {
+      "spec_id": "fhg_painting_acrylic_color_spec",
+      "status": "TEMPLATE_READY",
+      "label": "FHG Tactile Impasto Acrylic / Gouache Biblical Study",
+      "medium": "Expressive brush-textured matte acrylic/gouache in heritage earth palette over ink underdrawing",
+      "ground_truth_ref": "C:/dev/forhisgrace-web/images/fig-001-jeff-style.jpg",
+      "prompt_template": "jeff_sketch style, {subject}, tactile matte acrylic and gouache painting over subtle black ink contour underdrawing on warm toned canvas (#F5EFE2), visible dry-brush stroke texture in warm bronze, olive, limestone cream, and deep charcoal, quiet contemplative lighting.",
+      "negative_prompt": "glossy plastic 3D, neon synthwave colors, geometric cubist ribbons, text, watermarks, signatures",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "geometry_stage": "G2",
+        "humanizer_stage": "S2",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_charcoal_spec": {
+      "spec_id": "fhg_charcoal_spec",
+      "status": "TEMPLATE_READY",
+      "label": "FHG Expressive Vine Charcoal & Smudge Study",
+      "medium": "Raw vine charcoal contour and directional thumb-smudge haze on heavy tooth cream paper (Humanizer S3/S4)",
+      "ground_truth_ref": "C:/dev/forhisgrace-web/images/fig-001-jeff-style.jpg",
+      "prompt_template": "jeff_sketch style, {subject}, expressive vine charcoal drawing on heavy-tooth warm cream paper (#F5EFE2), tactile charcoal friction, selective directional smudge planes with luminous open paper highlights, hand-drawn charcoal border.",
+      "negative_prompt": "color fills, vector CAD lines, geometric cubist blocks, glossy gradients, text, watermarks, signatures",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "humanizer_stage": "S3",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_riso_terracotta_pine_spec": {
+      "spec_id": "fhg_riso_terracotta_pine_spec",
+      "status": "LOCKED",
+      "favorite": false,
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "division_scope": "All 864zeros Studio & Media Division Pillars (Sloane Sterling STUDIO-001 · Orion Kai MEDIA-001)",
+      "label": "FHG Dual-Tone Earth Risograph (Terracotta Clay & Deep Forest Pine · C1)",
+      "medium": "2-ink screenprint halftone Risograph over jeff_sketch + B1 blotchy ink-wash (Terracotta Clay 35deg + Sage-Slate 75deg + Deep Forest Pine primary linework on #F5EFE2 cream paper)",
+      "ground_truth_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_jos_09_joshua_14_10_b1_g2_s3_c1.jpg",
+      "ai_hybrid_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_jos_09_joshua_14_10_ai_c1_riso_terra_pine.jpg",
+      "base_upstream_spec": "fhg_inkwash_blotch_spec (G2+S2+B1) or fhg_inkwash_blotch_people_spec (G2+S3+B1)",
+      "ai_img2img_prompt_template": "Apply a minimalist 2-color Earth-Tone Risograph screenprint treatment to this exact fountain-pen and sumi-e ink-wash sketch. Keep 100% of the black/forest-pine contour linework, composition, and bottom-right signature intact on warm cream paper (#F5EFE2) with 45% open negative space around the outer margins. Convert the grey ink-wash brush daubs into tactile angled Risograph halftone dot screens using warm Terracotta Clay (#BA5634) and muted Sage-Slate (#687666), with Deep Forest Pine (#182A20) for primary contours and cloak silhouettes.",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "stage_flag_from_raw": "G2+S2+B1+C1 (or G2+S3+B1+C1 for people from back)",
+        "stage_flag_from_b1": "C1",
+        "color_stage": "C1",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_riso_earth_3color_spec": {
+      "spec_id": "fhg_riso_earth_3color_spec",
+      "status": "LOCKED_FAVORITE",
+      "favorite": true,
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "division_scope": "All 864zeros Studio & Media Division Pillars (Sloane Sterling STUDIO-001 · Orion Kai MEDIA-001)",
+      "label": "★ FAVORITE #1: FHG 3-Color Earth Risograph (Golden Ochre, Sage Olive & Raw Umber · C2)",
+      "medium": "3-color angled screenprint Risograph over jeff_sketch + B1 blotchy ink-wash (Warm Golden Ochre 18deg trail bed, Sage Olive 52deg scrub/foliage dabs, Terracotta Rust 78deg cloak/rock accents, and Raw Umber/Espresso primary ink on #F5EFE2 cream paper)",
+      "ground_truth_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_jos_09_joshua_14_10_b1_g2_s3_c2.jpg",
+      "ai_hybrid_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_jos_09_joshua_14_10_ai_c2_riso_earth.jpg",
+      "base_upstream_spec": "fhg_inkwash_blotch_spec (G2+S2+B1) or fhg_inkwash_blotch_people_spec (G2+S3+B1)",
+      "ai_img2img_prompt_template": "Apply a 3-color Earth-Tone Risograph printmaking treatment to this exact fountain-pen and sumi-e ink-wash sketch. Preserve 100% of the primary linework, composition, and bottom-right signature on warm cream paper (#F5EFE2) with generous unpainted outer margins. Render the lower trail and interior ground with a Warm Golden Ochre (#DAA04A) angled halftone dot screen, the scrub brush and mid-tone wash daubs with a Muted Sage Olive (#6C7C52) halftone screen, the dark brush strokes with Warm Terracotta-Rust (#B25230) halftone dots, and the primary contour linework in rich Raw Umber / Deep Espresso (#281B13).",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "stage_flag_from_raw": "G2+S2+B1+C2 (or G2+S3+B1+C2 for people from back)",
+        "stage_flag_from_b1": "C2",
+        "color_stage": "C2",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_ukiyoe_earth_riso_hybrid_spec": {
+      "spec_id": "fhg_ukiyoe_earth_riso_hybrid_spec",
+      "status": "LOCKED_FAVORITE",
+      "favorite": true,
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "division_scope": "All 864zeros Studio & Media Division Pillars (Sloane Sterling STUDIO-001 · Orion Kai MEDIA-001)",
+      "label": "★ FAVORITE #2: FHG Ukiyo-e Woodblock × Earth-Tone Risograph Hybrid (Framed Bokashi Sky + 3-Color Riso · C3)",
+      "medium": "Framed Japanese Ukiyo-e Terracotta-Amber skyline bokashi woodblock gradient behind the top ridge combined with 3-color Earth Risograph halftone screens (Golden Ochre 20deg, Moss Olive 55deg, Terracotta Rust 80deg) and Deep Walnut-Umber linework on #F5EFE2 cream paper",
+      "ground_truth_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_jos_09_joshua_14_10_b1_g2_s3_c3.jpg",
+      "ai_hybrid_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_jos_09_joshua_14_10_ai_c3_ukiyoe_riso_hybrid.jpg",
+      "base_upstream_spec": "fhg_inkwash_blotch_spec (G2+S2+B1) or fhg_inkwash_blotch_people_spec (G2+S3+B1)",
+      "ai_img2img_prompt_template": "Apply a hybrid Japanese Ukiyo-e Woodblock × Earth-Tone Risograph printmaking treatment to this exact fountain-pen and sumi-e ink-wash sketch. Preserve 100% of the primary linework, composition, and bottom-right signature on warm cream paper (#F5EFE2) with generous unpainted outer margins. Drop a framed warm Terracotta-Amber (#B35F3B) Ukiyo-e bokashi woodblock gradient cleanly into the upper sky behind the mountain/architectural skyline ridge, and render the terrain, foliage, and cloak brush daubs below using angled Earth-Tone Risograph halftone screens in Golden Ochre (#CE9142), Moss Olive (#697A54), and Terracotta Rust (#AD5436) with Deep Walnut-Umber (#221A15) primary ink.",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "stage_flag_from_raw": "G2+S2+B1+C3 (or G2+S3+B1+C3 for people from back)",
+        "stage_flag_from_b1": "C3",
+        "color_stage": "C3",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_ukiyoe_prussian_woodblock_spec": {
+      "spec_id": "fhg_ukiyoe_prussian_woodblock_spec",
+      "status": "LOCKED",
+      "favorite": false,
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "division_scope": "All 864zeros Studio & Media Division Pillars (Sloane Sterling STUDIO-001 · Orion Kai MEDIA-001)",
+      "label": "FHG Classic Ukiyo-e Prussian Blue Bokashi + Earthy Woodblock Tints (C4)",
+      "medium": "Top-down Prussian Blue Ukiyo-e bokashi woodblock sky fade with flat woodcut pigment fills in Terracotta Ochre, Muted Sage Green, Rust, and Mineral Indigo over jeff_sketch + B1 ink-wash on #F5EFE2 cream paper",
+      "ground_truth_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_jos_09_joshua_14_10_b1_g2_s3_c4.jpg",
+      "ai_hybrid_ref": "C:/dev/864zeros-publish/shared/bible/sketches/study_jos_09_joshua_14_10_ai_c4_ukiyoe_prussian.jpg",
+      "base_upstream_spec": "fhg_inkwash_blotch_spec (G2+S2+B1) or fhg_inkwash_blotch_people_spec (G2+S3+B1)",
+      "ai_img2img_prompt_template": "Apply a traditional Japanese Ukiyo-e woodblock print treatment (Hokusai / Hasui Kawase aesthetic) to this exact fountain-pen and sumi-e ink-wash sketch. Preserve 100% of the primary black contour linework, composition, and bottom-right signature on warm washi/parchment paper (#F5EFE2). Add a top-down Prussian Blue (#183858) bokashi woodblock sky fade with subtle woodcut grain, and tint the interior brush washes with flat mineral woodblock pigments in Terracotta Ochre (#C27A4E), Muted Sage Green (#6E8060), Warm Rust (#A84E34), and Mineral Indigo (#1E3C5C).",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "stage_flag_from_raw": "G2+S2+B1+C4 (or G2+S3+B1+C4 for people from back)",
+        "stage_flag_from_b1": "C4",
+        "color_stage": "C4",
+        "signature": {
+          "enabled": true,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      }
+    },
+    "fhg_indigenous_animals_g1_h2_minblotch_spec": {
+      "spec_id": "fhg_indigenous_animals_g1_h2_minblotch_spec",
+      "status": "LOCKED",
+      "signed_off_by": [
+        "STUDIO-001",
+        "MEDIA-001",
+        "CPO-001",
+        "GTM-001"
+      ],
+      "division_scope": "All 864zeros Studio & Media Division Pillars (Sloane Sterling STUDIO-001 · Orion Kai MEDIA-001)",
+      "label": "FHG Indigenous Biblical Animals Field Sketch (G1 Freehand + H2/S2 Humanizer + Minimal Blotchy B1-Lite)",
+      "pillar": "animals",
+      "medium": "Ultra-sparse single-pass sepia fountain/reed-pen contour (G1) with H2/S2 hand-drawn wrist micro-tremor and 1–2 minimal translucent walnut/earth tea-wash blotches on 70–75% open warm cream parchment (#F5EFE2)",
+      "master_prompt_template": "Minimalist hand-drawn biblical field sketch of {subject}. Style & Filter Spec (G1 + H2 + Minimal Blotchy): G1 (Sparse Contour Line): Ultra-simple, single-pass sepia fountain-pen and reed-pen contour line work with open broken-stroke intervals, zero dense cross-hatching, zero fur/feather rendering, and zero heavy shading. H2 (Hand-Drawn Humanizer): Natural human wrist micro-tremor, slight pen-lift hesitation at turns, and tiny organic ink pooling where the nib pauses. Minimal Blotchy Wash (B1-Lite): Only 1 to 2 very light, translucent warm walnut-ink and raw-umber watercolor tea-wash blotches loosely brushed behind the main silhouette with soft water-bloom edges, keeping 70-75% of the warm cream cotton parchment (#F5EFE2) completely untouched. Strict Constraints: Square 1:1 composition, generous negative space around the border, NO human faces, NO text, NO letters, NO signatures, NO watermarks.",
+      "negative_prompt": "dense cross-hatching, photorealistic fur or feathers, heavy dark washes, edge-to-edge fill, human faces, text, letters, signatures, watermarks, modern fencing",
+      "post_process": {
+        "tool": "C:/dev/864zeros-publish/_build/tools/apply_fhg_human_filter.py",
+        "geometry_stage": "G1",
+        "humanizer_stage": "S2 (H2)",
+        "blotch_prepass": "B1-Lite (Minimal 1-2 translucent sumi-e / walnut wash daubs, 70% open parchment)",
+        "downstream_c1_c4_source": "Apply C1, C2, C3, C4 to the B1 (_b1_g2_s2.jpg) plate; apply G2 Contour and G4 Angular directly to the Base (_base.jpg) plate.",
+        "signature": {
+          "enabled": true,
+          "asset": "C:/dev/864zeros-publish/media/visuals/jeff_canonical_signature.png",
+          "width_ratio": 0.18,
+          "x_right": 0.942,
+          "y_bottom": 0.971
+        }
+      },
+      "indigenous_animal_prompts_10": [
+        {
+          "id": "study_fauna_01_awassi_sheep_pasture",
+          "title": "Awassi Fat-Tailed Sheep (Judean Pasture)",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "two indigenous Middle Eastern fat-tailed Awassi sheep grazing quietly beside a low dry-stone fieldstone wall in an open Judean hill pasture",
+          "prompt": "Minimalist hand-drawn biblical field sketch of two indigenous Middle Eastern fat-tailed Awassi sheep grazing quietly beside a low dry-stone fieldstone wall in an open Judean hill pasture. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Ultra-sparse single-pass sepia fountain-pen contour lines (G1) with natural human wrist tremor and slight nib ink pooling at stroke ends (H2). Apply only a minimal, translucent warm walnut and olive-earth watercolor blotch wash behind the sheep's backs, leaving 70% of the warm cream cotton parchment (#F5EFE2) completely open and unshaded. Zero dense hatching, zero fur detail, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_02_lost_lamb_crags",
+          "title": "Solitary Lost Lamb in Limestone Crags",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "a solitary young lamb resting quietly in the shelter of a cleft weathered limestone rock along a quiet wilderness ravine trail",
+          "prompt": "Minimalist hand-drawn biblical field sketch of a solitary young lamb resting quietly in the shelter of a cleft weathered limestone rock along a quiet wilderness ravine trail. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Ultra-sparse single-pass sepia fountain-pen contour lines (G1) with gentle hand-drawn wrist tremor and broken contour intervals (H2). Apply a single minimal, soft raw-umber and warm ochre ink-wash blotch in the rock cleft shadow behind the lamb, leaving 70% of the warm cream parchment (#F5EFE2) untouched. Zero dense cross-hatching, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_03_engedi_ibex_goats",
+          "title": "En-Gedi Nubian Ibex / Syrian Mountain Goats",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "a sure-footed Nubian ibex with sweeping curved horns standing poised on a high stepped limestone crag overlooking the En-Gedi desert canyon",
+          "prompt": "Minimalist hand-drawn biblical field sketch of a sure-footed Nubian ibex with sweeping curved horns standing poised on a high stepped limestone crag overlooking the En-Gedi desert canyon. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Economy-of-line single-pass sepia reed-pen contour drawing (G1) with authentic hand-drawn micro-tremor and slight ink pooling at corners (H2). Apply only a minimal, airy warm walnut and terracotta tea-wash blotch along the cliff ledge, keeping 70% of the warm cream parchment (#F5EFE2) open negative space. Zero heavy shading, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_04_turtledoves_olive",
+          "title": "Pair of Turtledoves on an Olive Branch",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "two Levantine turtledoves—one perched quietly on a gnarled olive branch and one rising in gentle flight with an olive leaf",
+          "prompt": "Minimalist hand-drawn biblical field sketch of two Levantine turtledoves—one perched quietly on a gnarled olive branch and one rising in gentle flight with an olive leaf. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Ultra-simple, continuous sepia fountain-pen contour lines (G1) with loose hand-drawn wrist flow and slight nib pauses (H2). Apply only 1 or 2 minimal, pale olive-sage and warm walnut watercolor blotches behind the wings and leaves, leaving 75% of the warm cream cotton parchment (#F5EFE2) completely bare. Zero feather detailing, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_05_sparrows_stone_wall",
+          "title": "Two House Sparrows on a Dry-Stone Wall",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "two small biblical house sparrows perched side by side on a weathered dry-stone courtyard wall beside a single dry grass stem",
+          "prompt": "Minimalist hand-drawn biblical field sketch of two small biblical house sparrows perched side by side on a weathered dry-stone courtyard wall beside a single dry grass stem. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Whisper-light, single-pass sepia fountain-pen contour lines (G1) with natural human hand tremor and broken-line simplicity (H2). Apply a single minimal, translucent warm sepia tea-wash blotch across the top stone under the sparrows, keeping 75% of the warm cream parchment (#F5EFE2) open and clean. Zero cross-hatching, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_06_ravens_brook_cherith",
+          "title": "Ravens Soaring Over Brook Cherith",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "two ravens gliding on open wings above a narrow rocky desert wadi stream and limestone gorge at Brook Cherith",
+          "prompt": "Minimalist hand-drawn biblical field sketch of two ravens gliding on open wings above a narrow rocky desert wadi stream and limestone gorge at Brook Cherith. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Sparse, gestural single-pass dark sepia ink contour lines (G1) with organic hand-drawn wrist variation and ink-nib endpoints (H2). Apply only a minimal, soft diluted walnut-ink blotch wash along the canyon rim and stream bend, leaving 70% of the warm cream parchment (#F5EFE2) open negative space. Zero heavy feather rendering, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_07_soaring_eagle_thermals",
+          "title": "Griffon Eagle Soaring on Thermal Winds",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "a solitary Griffon eagle soaring effortlessly with outstretched wings high above a distant Judean mountain ridge",
+          "prompt": "Minimalist hand-drawn biblical field sketch of a solitary Griffon eagle soaring effortlessly with outstretched wings high above a distant Judean mountain ridge. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Ultra-clean, single-pass sepia fountain-pen contour silhouette (G1) with subtle hand-drawn line weight variation and natural wrist tremor (H2). Apply a single minimal, airy warm ochre and diluted umber watercolor blotch beneath the wing and ridge line, leaving 75% of the warm cream parchment (#F5EFE2) untouched sky. Zero dense hatching, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_08_humble_donkey_olive",
+          "title": "Humble Donkey on an Ancient Stone Trail",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "a humble pack donkey walking calmly along a quiet ancient footpath bordered by stacked fieldstones and a small olive tree",
+          "prompt": "Minimalist hand-drawn biblical field sketch of a humble pack donkey walking calmly along a quiet ancient footpath bordered by stacked fieldstones and a small olive tree. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Simple, unhurried single-pass sepia fountain-pen contour lines (G1) with organic hand-drawn imperfection and broken line intervals (H2). Apply only a minimal, pale raw-umber and sage tea-wash blotch along the stone wall and trail shadow, keeping 70% of the warm cream parchment (#F5EFE2) open. Zero photorealistic shading, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_09_plowing_oxen_yoke",
+          "title": "Plowing Oxen & Wooden Yoke in a Turned Field",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "a pair of oxen seen from the side/back wearing a simple hand-hewn wooden yoke, standing quietly beside shallow plowed earth furrows and distant hills",
+          "prompt": "Minimalist hand-drawn biblical field sketch of a pair of oxen seen from the side/back wearing a simple hand-hewn wooden yoke, standing quietly beside shallow plowed earth furrows and distant hills. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Sparse, architectural single-pass sepia reed-pen contour lines (G1) with authentic hand-drawn wrist tremor and slight ink pooling at joints (H2). Apply a minimal, translucent warm terracotta-earth and walnut watercolor blotch across the wooden yoke and foreground furrow, leaving 70% of the warm cream parchment (#F5EFE2) open. Zero heavy cross-hatching, no text, no signature, no watermark."
+        },
+        {
+          "id": "study_fauna_10_galilee_fish_net",
+          "title": "Galilean St. Peter's Fish & Draped Linen Net",
+          "pillar": "animals",
+          "filter_recipe": "G1+S2+B1_MINIMAL",
+          "subject": "three indigenous Sea of Galilee St. Peter's tilapia fish swimming beneath gentle water ripples beside the corner of a draped linen fishing net on a flat shoreline stone",
+          "prompt": "Minimalist hand-drawn biblical field sketch of three indigenous Sea of Galilee St. Peter's tilapia fish swimming beneath gentle water ripples beside the corner of a draped linen fishing net on a flat shoreline stone. Style & Filter Spec (G1 + H2 + Minimal Blotchy): Flowing, minimalist single-pass sepia fountain-pen contour curves (G1) with natural hand-drawn tremor and light pen-lift breaks (H2). Apply only a minimal, pale Prussian-slate and warm walnut watercolor blotch wash along the water ripple, keeping 75% of the warm cream parchment (#F5EFE2) open and breathable. Zero scale detailing, no text, no signature, no watermark."
+        }
+      ]
+    }
+  }
+}

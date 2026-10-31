@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "RUT",
+  "commentaryId": "fbmeyer",
+  "name": "Ruth",
+  "commonName": "Ruth",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Back to Bethlehem\n\nRth 1:1-14\n\nIt was a mistake for Elimelech and his family to have left Bethlehem; God would have sent them bread. The path became darker and darker. Mahlon means Pining and Chilion Consumption. Three graves in a strange land! All the laughter and hope that had given Naomi her name of Pleasant had turned to sadness; she longed to see the dear village of her childhood and early married life, and to drink the water of the well, 2 Samuel 23:15. It is thus that the banished soul comes back to God. Moab’s fascination palls on the taste; its cisterns are broken and will hold no water. See Psalms 63:1-11.\n\nThe two younger women climbed the road with Naomi, till they reached the point where the last glimpse could be taken of Moab. There Naomi uttered this remarkable address, urging her daughters to return. It was very thoughtful and tender, and touched chords of bitter memory and deep pathos. But the saddest undertone was not regret for the dead past; it was the feeling that the hand of the Lord had been against her. Nay, dear soul, that hand is already engaged in making all things work together for good. A few more months and your sorrow will be turned into joy, Rth 4:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Love’s Steadfast Choice\n\nRth 1:15-22\n\nThis young woman was to be an ancestor of David and in the line of our Lord’s descent. Moabite though she was by birth, Ruth was designated for the high honor of introducing a new strain into the Hebrew race, that was to enrich it and through it the world. Indeed, we may almost detect in her noble and beautiful words some anticipation of the Psalms, which have gone singing down the ages. But how stern is the discipline through which those must pass who are called to the highest tasks! The death of her husband in their early married life, the anguish of Naomi, the separation from her own people, the loneliness of a foreign land-these were part of the great price that Ruth paid.\n\nMay not something also be said for the mother? It was because of her that Ruth was led to her supreme self-giving. She had never seen a suffering soul bear itself so heroically. She felt that, in the Hebrew faith, there was something which Chemosh had never imparted, to her people; she craved for herself some of the holy radiance that lingered on the worn face of Naomi. More people watch our bearing than we think. Let us attract them to Jesus!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 16
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "RUT",
+  "chapter": 2
+ }
+}

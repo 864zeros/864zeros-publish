@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 139,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The All-seeing God -- Psalms 139:1-13\n\nThe psalmist speaks as if there were only two beings in the universe-God and himself. In all literature there is no nobler conception of the divine attributes.\n\nGod’s omniscience, Psalms 139:1-6. The downsittings of life are times of weariness, depression, failure, shortcoming, and inconsistency, when we are far short of our best. Our uprisings are our strongest, happiest, holiest moments, when we are at our best. God knows all. He cannot be surprised. He besets us before-the future is full of Him-and behind, as the wave follows closely in the wake of the bather or the rear guard the march. His hand is laid upon us, shielding and protecting. His winnowing-fan is ever detecting every grain of wheat and extracting it from the chaff.\n\nGod’s omnipresence, Psalms 139:7-12. It is impossible to flee from God. However thick the foliage, it cannot separate the sinner from those eyes of love and fire. This thought is terrible to those who are not at peace with Him, but delightful to those who love. Be of good cheer, lonely one; thy night of sorrow is as the day-full of Him."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "God’s Thoughts and Ours -- Psalms 139:14-24\n\nGod’s creative power, Psalms 139:14-18. The psalmist goes back to the beginning of life and describes the weaving of our physical nature. Here we may discover a suggestive analogy; for the Church, which is the Body of Christ, has been wrought in secret from its earliest beginnings, and its development continues preparatory to the manifestation in complete beauty and glory at the Lord’s coming. “When He shall be manifested, we shall be manifested with Him in glory,” Colossians 3:1-4. Remember, also, that the Christ-life in our hearts is subject to the same secret processes.\n\nThe psalm closes with the saints’ antagonism to evil, Psalms 139:19-24. The more they meditate on the precious thoughts of God, the more they desire to be freed from the tyranny of evil, whether it shows itself in the ways of evil men or in the inward evil of the heart. Our one cry should be that God would lead us in the way, which is based on eternal principles and which winds ever upward from the lowland valleys, where we have dwelt too long, to those glorious uplands, where God Himself is Sun."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 139
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 138
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 140
+ }
+}

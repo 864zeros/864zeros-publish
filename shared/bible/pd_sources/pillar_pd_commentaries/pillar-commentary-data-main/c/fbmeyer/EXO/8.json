@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Plague of Frogs and its Removal -- Exodus 8:1-15\n\nProbably the plagues followed in rapid succession, so that the impression of one had not passed away before another succeeded. The whole conflict was probably comprehended in nine or ten months. The frog was a goddess, hence the plague was aggravated, as it was unlawful to destroy one. This stroke elicited the first symptom of surrender. Though the magicians counterfeited the coming of the frogs they failed to remove them, and the king did not hope for such help from them. Pharaoh implored the intercession of the great Hebrew brethren, who, to make the power of God and the efficacy of prayer more manifest, asked the king to fix the time.\n\nThey who know God and obey Him absolutely can reckon on Him with perfect certainty and confidence. Our God delights in the faith that dares to pledge His willingness and power, and He will not fail the soul that ventures wholly on His all-sufficiency."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The Plagues of Lice and of Flies -- Exodus 8:16-32\n\nExodus 8:22 gives us the clue to these successive visitations-“To the end that thou mayest know.” The Egyptians worshiped the river from which the frogs came; were extremely punctilious in their purity by perpetual bathing; and sacrificed to the deities who presided over the noisome insect tribes. It was necessary to prove, therefore, that these gods were no gods, “but that the Lord made the heavens.” The just and righteous Jehovah could not expect Pharaoh to obey His voice, until He had shown Himself to be God of gods and Lord of lords, and that He was Lord “in the middle of the earth.” He is not an absentee; but nearer than breathing.\n\nNotice the severance in Exodus 8:22! We do not belong to this world, because we have been crucified to it in Christ, and in Him have risen to the heavenly places."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 9
+ }
+}

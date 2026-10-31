@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Flagging in Their Great Task -- Judges 1:16-36; Judges 2:1-5\n\nThe conquest of Canaan was very partial. Israel dwelled among the ancient inhabitants of the land, much as the Normans did among the Anglo-Saxons, whom they found in England; and the mixture of the two peoples was the beginning of moral degeneracy and decline in the chosen race. Wherever there was the old-time faith in God, as in the case of Caleb, the land was cleared of the Canaanite; but where God was out, the Canaanite was in.So it is in the life of the soul. It is intended that the whole should be yielded to Christ, that no evil passion should reign, that no besetting sin should enthrall. But how often Christian people give up the fight! They say that the old Adam is too strong for them, and settle down to a joint-occupation.\n\nLet us not yield to reasoning like this! The Lion of Judah can break every chain. By faith in Him we can be more than conquerors! The Holy Spirit strives with the flesh, so that we may not do as otherwise we would. Only give Him the right of way! Sin shall not reign in your mortal body!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "A Generation that Knew not Jehovah -- Judges 2:6-15\n\nWhat a thrilling experience it must have been to hear Joshua and Caleb talk of Egypt, the Red Sea, and Sinai! The younger men would stand awestruck as the veterans narrated their experiences of God. Open your diaries of the past, ye older saints, and tell what the Lord hath done for you. It will hearten us for the fight, Malachi 3:16.\n\nJoshua was carried to his last resting-place in his inheritance-“the portion of the sun” -amid the respect and affection of the entire people. Like Moses, he had deserved to be known as “the servant of the Lord.” The elders, who had witnessed the conquest of Canaan, took up his testimony and told of Jericho and the valley of Ajalon. But these also were “gathered unto their fathers,” which implies more than burial. They joined the great throng of holy ones who are gathering around our Lord, awaiting the hour when, as a radiant throng, they shall issue forth with Him to take up the kingdom of the world. What a gathering that will be! Whatever else we miss, let us see to it that we stand in our lot, “at the end of the days,” Genesis 49:33; Genesis 50:14; Daniel 12:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Ineffectual Penitence -- Judges 2:16-23\n\nThis paragraph is an epitome of this book, which covers some 450 years, Acts 13:20. Israel lacks unity and kingship; and in that reminds us of the heart of the man which has not become united under the reign of Jesus. See Judges 17:6; Judges 18:1. Such rites as were associated with Baal and Ashtaroth were both cruel and demoralizing; a distressing picture is given in Psalms 106:34, etc., of the condition of Israel at this period. What wonder that such practices ate out the heart of the people, and left them exposed to the surrounding nations! When the blood becomes thin and impoverished, we can no longer repel the pestilence that walketh in darkness, nor the temptations that assail us at noonday!\n\nNotice God’s great patience and pity. He was against the people when they sinned, but as soon as the groans of their misery arose, they touched Him to the quick, and He raised up a deliverer. Note Psalms 106:43-44 : “Many times did He deliver them; but they were rebellious in their counsel; nevertheless He regarded their distress; and remembered his covenant.” Herein we may take heart of hope for ourselves!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 3
+ }
+}

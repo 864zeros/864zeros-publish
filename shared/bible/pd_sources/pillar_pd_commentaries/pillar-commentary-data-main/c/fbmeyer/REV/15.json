@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Song of Moses and of the Lamb -- Revelation 15:1-8\n\nThe imagery in the magnificent scene with which this chapter opens is perhaps borrowed from Pharaoh’s overthrow in the Red Sea, which, as the rich lines of an Eastern dawn illuminated its waters, seemed like a sea of glass mingled with fire. So, beside the crystal sea of Time, from whose surface all traces of storm will have been removed and on which the eternal morning will be breaking, we, who by grace have overcome, shall celebrate the final victory of God. We shall sing an anthem in which the Hebrew and the Christian, the children of the old dispensation and of the new, the souls who have seen through a glass darkly and those who have beheld face to face, shall rejoice together.\n\nOne day we shall see the rightfulness of all that God has done, Revelation 15:4. All His ways are just and true, whether our poor human sense detects this or not. Let us dare to affirm it even now. Ponder that great name-King of the ages, Revelation 15:3, r.v. He only is holy; we need the perfect cleansing and righteousness which He gives us, that we may dare to stand in His presence. From this radiant vision, we turn sadly to the fate of the godless, Christ-rejecting world. See Revelation 15:1-8; Revelation 14:1-20; Revelation 13:1-18; Revelation 12:1-17; Revelation 11:1-19; Revelation 10:1-11; Revelation 9:1-21; Revelation 8:1-13."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 16
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1PE",
+  "commentaryId": "fbmeyer",
+  "name": "1 Peter",
+  "commonName": "1 Peter",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Serving One Another -- 1 Peter 5:1-7\n\nAccording to these words Peter, though he stood at a distance, must have been an eyewitness of the Savior’s death. He is careful to speak of the glory in the same breath as the sufferings, because if we endure the one, we shall share the other. Positions of influence in the Church in those days involved grave risks, but the Apostle believed that love to Christ would induce men to take the place of under-shepherds to the flock of God, and that they would use their power with gentleness, humility and holy consistency.\n\nThe younger men may include the deacons, but the all, 1 Peter 5:5, refers to the entire membership. They were to gird on humility, as a slave his towel, that they might serve one another, John 13:4. Those who humble themselves in the profoundest loyalty toward God stand as rocks before their fellows. Remember Luther’s-“Here I stand, I can do no other.” You cannot say, “Nobody cares what becomes of me.” God cares, and with an infinite tenderness. He cared before you cast your care on Him! God is linked to your little life by His tender regard and care for you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Resisting the Devil -- 1 Peter 5:8-14\n\nWe hear of the adversary in Zechariah 3:1. The enemy of Christ desires to hurt the Shepherd by injuring His flock. The hunger of a lion for his prey is an emblem of the insatiable desire of our spiritual foes for our undoing. Walketh about-temptation never assails us long from the same quarter. Perhaps the figure of a roaring lion suggests an outburst of persecution, which made timid people tremble. See 2 Timothy 4:17.\n\nAll grace is in God for every hour and need, 1 Peter 5:10. We too are called to His eternal glory through Christ. The path of suffering, and that path alone, leads to the world where suffering is unknown. The suffering is only for a little while. Perfect, that nothing be lacking; stablish, that we may not waver; strengthen, that we may stand and withstand.\n\nSilvanus is Silas, 1 Peter 5:12. He was a man to be trusted. Peter’s theme was grace. So he began, so he finishes; and from the church in the literal Babylon, or in Rome, Revelation 14:8, where he and Mark were living and working, he sends this message of grace, and love and peace."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 1
+ }
+}

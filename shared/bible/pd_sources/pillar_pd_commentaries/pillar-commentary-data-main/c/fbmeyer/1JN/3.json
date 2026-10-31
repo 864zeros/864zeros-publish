@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1JN",
+  "commentaryId": "fbmeyer",
+  "name": "1 John",
+  "commonName": "1 John",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Marks of God’s Children -- 1 John 3:1-12\n\nThis chapter opens with one of the astounding announcements of Scripture. Why God should have made us His children is incomprehensible, except to show forth the riches of His grace. See Ephesians 2:7. That such we are is certain, but how marvelous! Yet even greater wonders await us, for we are to be like Jesus our Lord. He is the type to which we are being conformed, and on the other side we shall awake in His likeness.\n\nHe is pure; such is the verdict of one who lived in the closest possible association with Him. We cannot think of Christ, or of the future to be spent with Him, without desiring purity above all. Ask Him to become in thee the fountain of purity! If He is thy constant study, the quality of His character will become thine. Presumptuous sin is impossible under such conditions. He will destroy the works of the devil in the individual and in the universe. That we are God’s own children is proved by our integrity and love. They are the hallmark of God’s ownership."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Loving in Deed and in Truth -- 1 John 3:13-24\n\nLove to the brethren is a sign that we have been born into the family. We may not like them all, yet we can love them. If we love, we live; and if we live in the deepest sense, we shall love; that is, we shall put others first, and our care for them will be tinged with the crimson of sacrifice. Love is not measured by the expressions of the lip or the emotion of the heart, but by the extent to which we will do or suffer.\n\nThe believer dares not affirm too much about himself, he is so unworthy and fickle; but God understands us and imputes to us what we would be. Mark in 1 John 3:22 the double condition of prevailing prayer. It is also clear from 1 John 3:23 that men can believe, if they will. God is prepared to impart to those who are wishful all that He commands. Augustine prayed thus: “Give what thou commandest, and command what thou wilt.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 4
+ }
+}

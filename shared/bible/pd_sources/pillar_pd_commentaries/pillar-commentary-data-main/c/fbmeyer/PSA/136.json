@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 136,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Review of God’s Mercies -- Psalms 136:1-12\n\nAn antiphonal psalm, intended to be sung by two choirs or by a soloist and the Temple choir. This avowal of the eternity of God’s mercy, amid all the fluctuation and change of human affairs, is very striking. When we can look out on the history of our world from God’s standpoint, we discover that the black-edged pages have been interleaved with golden pages of mercy. When we review our own lives from the vantage ground of heaven, we shall see that the mercy of God was the blue sky of background across which the dark clouds floated for but a limited space.\n\nThe divisions are as follows: Creation, Psalms 136:1-9; Redemption, Psalms 136:10-22; Providence, Psalms 136:23-26. In the first division the psalmist views the framework of the world and the redemption of Israel from Egypt as equal monuments of the divine loving-kindness. It was love that made the theater on which the great revelation of redemption was manifested. The crimson lips of a tulip’s petals are His work as well as the crimson blood that flowed at Calvary."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Deliverance from Enemies -- Psalms 136:13-26\n\nThis psalm is no mere running commentary on the ways of God. It is a song of redemption. Pharaoh, Sihon, Og opposed God’s redeeming purpose, though there were abundant evidences throughout the Exodus that it was of supernatural origin, and they came under the divine judgment. It was a mercy for all after-ages that their ideals did not prevail. Was there not ineffable wisdom and benevolence in the substitution of monotheism and the honor of womanhood and the assertion of individual rights for the degradation of their type of civilization? We must take large views of God’s dealings in providence and history.\n\nMen are apt to forget us when we are in low estate, but that is the time when God seems more thoughtful, Psalms 136:23. He has delivered, does deliver, and will deliver, Psalms 136:24. Will God make provision for all living creatures and neglect His children, Psalms 136:25? Let us trust in the love of God, which remains constant amid our fluctuations, and unaffected by our failures and sins, so long as we return from our backslidings with repentance on our lips. It is very comforting to realize that the essence of this psalm will be sung on the other side. See Revelation 15:3."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 136
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 135
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 137
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ordering His Way before God -- 2 Chronicles 27:1-9\n\nThis story of Jotham is memorable if only for one sentence; that he became mighty because he ordered his way before the Lord his God. We should order our lives, as we order our prayers. First things must come first. We should always consider, in anticipating any course of action, how best to promote God’s glory and the interests of His Kingdom. As far as lies in our power, we should adopt and follow some plan or program, such as He will reveal to us. An ordered life is a mighty life.\n\nThe people that make themselves felt in the world are those who can say with Paul, “This one thing I do.” They are invulnerable and invincible. Repressed in one place, they break out in another; cast down, they are not destroyed; perplexed, they are not in despair. An ordered and mighty life draws its supplies from God. However well-laid our plans, or single our purpose, nothing avails apart from God. It is by Him that we become strong; and His power, allied with us and working through us, make us more than conquerors."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 28
+ }
+}

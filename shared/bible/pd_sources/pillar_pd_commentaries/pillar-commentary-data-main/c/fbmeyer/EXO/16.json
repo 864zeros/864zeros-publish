@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Murmuring for Food Rebuked -- Exodus 16:1-12\n\nMoses made a double promise to the Israelites in God’s name. In the evening they were to have flesh to eat, and in the morning bread to the full. But before these gifts could be received, notice must be taken of their conduct toward the two brothers, whose authority had been impugned by the events of the morning. Hence the appearance of the divine glory in the cloud, Exodus 16:10. After this a vast flight of quails, a migratory bird which often crosses the Red Sea at this very spot, fell to the ground in the near neighborhood of the Hebrew camp, and lay there in an exhausted condition, which allowed of their being captured by the hand. How striking are those words: “The Lord heareth your murmurings!” We should remember them, when next we are tempted to doubt God’s love and to complain of His dealings with us. Let God’s faithful servants take courage; He will vindicate them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Manna in the Wilderness -- Exodus 16:13-26\n\nThe manna was typical of Christ. See John 6:31-34. He came down from heaven to bring God’s life within the reach of man. It is not enough that God has made so rich and plentiful a provision for us; we must appropriate it by our daily prayer and faith. Our Lord calls Himself “the bread of life,” not only to teach us what He is in himself in relation to our soul-need, but to remind us that He must be inwardly appropriated, fed upon, and made part of our very selves. Only so can He impart strength and joy to our hearts.\n\nIt was not enough that the manna, sparkling like pearls in the morning sunshine, laid within their reach, the Israelites must gather it. The dew speaks not only of the Holy Spirit, but of the dawn. There is no time like the early morning for fellowship with Jesus! You cannot have too much. Gather all you may, you will have none to spare; but if you are pressed with needful duty, a little of Christ will go a long way, you shall have no lack."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Daily Food and its Memorial -- Exodus 16:27-36\n\nWherever the cloud broods the manna falls. If we are true to God’s leadings, and pitch our tents in obedience to His guiding cloud, we may confidently reckon on Him to provide our daily food. It will come “day by day.” Each man must gather, not only for himself, but for his own household. We are not to hoard up against tomorrow, because God, who has provided, will provide. And we are not to break in on the rest-day, or on the rest of our soul, by perpetual fret and care about our physical needs. God who opens His hand to supply the hunger of every living thing will not neglect His children.\n\nGive yourself up to holy fellowship; roll your anxieties on Him; take what He provides now, and trust Him for all coming days. Your bread shall be given you, and more than that. Remember that He gave quails in the desert and fish to the five thousand!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 17
+ }
+}

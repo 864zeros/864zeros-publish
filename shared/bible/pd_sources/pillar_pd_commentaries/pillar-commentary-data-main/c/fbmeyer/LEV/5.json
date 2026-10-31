@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Trespass-Offerings for Various Sins -- Leviticus 5:1-13\n\nThe sin-offering was closely resembled by the trespass-offering; but they differed in this: that the former was meant to fix the thought of the sinner rather on the evil of his character, and that there was within him a root of bitterness and a poisonous fountain. But the latter deals with the acts of transgression to which this evil character gives rise, and more especially with the harm which it inflicts on others. We need to confess our trespasses as often as we eat our daily bread; and it is very reassuring that, through the blood of Jesus, God forgives all our trespasses. See Colossians 2:13.\n\nIt is very touching to notice the provision made for the very poor. Mary, the mother of our Lord, had to content herself with the two pigeons or turtle doves of Lev 5:11. But none of us are exempted. We cannot come to the close of any day without kneeling to confess our sins and asking that we may be sprinkled from an evil conscience."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Trespass-Offerings and Restitution -- Leviticus 5:14-19; Leviticus 6:1-7\n\nThe root idea of the Hebrew word for trespass is “failure of duty through negligence.” In addition to the sin itself, which is against God, as the august Custodian of the law and order of the universe, the injury, which such negligence inflicts upon one’s neighbor, must be met by a compensation and fine. Any sum which another has lost through us should, of course, be repaid, and a fifth part added, if required. But probably, the main lesson of the trespass-offering is that we cannot injure any fellow-creature without offending against God. Our offence penetrates beyond the thin veil of humanity and the visible universe into the unseen Holy.\n\nIn dealing with all failures in regard to our fellows, there are three points, therefore, always to bear in mind: First, we must confess the sin to God; second, we must seek out our brother and confess to him, and ask his forgiveness, that we may win him, as our Lord said, Matthew 18:15; and, third, we must make restitution, with an addition. This was the teaching under the Law. Should it be less under the Gospel of love?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 6
+ }
+}

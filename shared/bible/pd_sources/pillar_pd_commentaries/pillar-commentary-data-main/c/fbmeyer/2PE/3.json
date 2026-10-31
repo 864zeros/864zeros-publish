@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2PE",
+  "commentaryId": "fbmeyer",
+  "name": "2 Peter",
+  "commonName": "2 Peter",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Longsuffering Delay -- 2 Peter 3:1-9\n\nPeter does not hesitate to place the commandments of himself and the other Apostles of Jesus on a level with the words which were spoken before by the holy prophets, and he repeats his admonitions because of the urgency of the crisis then threatening the Church. Apparently there was a well-grounded fear that she would relax her attitude of expectancy and give credence to the materialistic philosophy of the age.\n\nMen argued then from the appearances of things, and especially from the regular routine of cause and effect. They did not realize that, from time to time, there had been the intrusion of the divine personal will into the course of history, introducing a higher set of laws and arresting the ordinary succession of events; as for instance, the Flood and the miracles of Old Testament history. Why, then, should not the ordinary course of nature be broken in upon by the Second Advent, when the Lord shall gather His saints about Him and reign gloriously? What God has done He can do again! There is a person and a will behind the slight veil of the present life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“Holy Living and Godliness” -- 2 Peter 3:10-18\n\nHow quickly the great European convulsion broke upon the world in the summer of 1914! Who expected such a sudden burst of the great storm! We are evidently near some vast change in the history of mankind, which may fitly be compared to the coming of new heavens and a new earth, as mentioned in 2 Peter 3:13. The condition of the world calls on each of us to be holy, as the virgins in their pure dresses, with burning and well-filled lamps. See Matthew 25:1-13. This is the manner in which we may hasten the coming of the day of God. It is not enough to say, “Thy kingdom come.” Each day we should move some pebble from its pathway!\n\nIn twenty-four hours God can do as much as all His servants at home and abroad could not accomplish in a thousand years. According to God’s chronology, it was on the morning of yesterday that Jesus died. Be watchful. Christ’s coming is certain, but not the hour. If we are blameless now, we shall be faultless presently. See Jude 1:24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 1
+ }
+}

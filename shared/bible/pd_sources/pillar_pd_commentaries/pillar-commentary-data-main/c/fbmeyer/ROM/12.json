@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Devoting Self and Using Gifts -- Romans 12:1-8\n\nTherefore links this practical appeal to the whole of the sublime argument, which reaches its climax in the previous chapter. It is easier to die once for God than to live always the surrendered life. But nothing so pleases God as daily surrender, the sacrificed and yielded will tied by cords to His altar. Such an attitude is the only reasonable one we can assume. If God be all we profess to believe, He is worthy of all we are. But we are reminded that the world is ever seeking to mold us to its will, and we need the renewing grace of the Holy Spirit, that we may withstand its baleful influence. We need to be transformed-that is, transfigured-by the renewing of our mind. Please God, and you will be pleased with the will of God.\n\nNotice in Romans 12:3 that God deals out according to the measure of our faith. Let us ask that it may be “pressed down and running over.” In proportion as we are united to the head, we are members of one another. We may not recognize each other, or be recognized by the world as one, but in His sight there is only one body, Romans 12:5. Let each learn what he can do best, and devote his best to it. To give or rule aright is equally a gift with teaching."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Living as a Christian -- Romans 12:9-21\n\nIn this section the Apostle shows how the great principle of consecration must affect the details of conduct. It is most necessary to insist on these practical issues. At some impressive religious convention, where the vision of a surrendered and transfigured life is presented, sensitive souls are led to make the vows and claim the plane of life which have been presented; but on their return to the commonplaces, there is no perceptible improvement in their speech, or tone, or attitude. This induces shame and contempt. Hence the great wisdom of the Apostle’s particular teaching in this and the following chapters.\n\nThe lumbering wagon must be hitched to a star. We must not be star-gazers only. God has endowed us with faith as the receptive faculty, through which we may receive His blessed help. In the power of the Holy Spirit let us set ourselves to our common tasks, thinking humbly and soberly of ourselves, lovingly of our associates, and reverently of God. We are inspired to fulfill the obligations of our position, whether in giving money or in teaching the ignorant; whether in showing mercy or in exercising authority, because all is done as under the eye of the great Master of the household."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 13
+ }
+}

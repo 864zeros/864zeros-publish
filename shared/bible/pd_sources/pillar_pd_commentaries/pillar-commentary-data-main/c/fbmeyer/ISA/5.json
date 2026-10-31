@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Disappointing Harvest -- Isaiah 5:1-17\n\nIn a picture of great beauty, Isaiah describes a vineyard situated on one of the sunny heights visible from Jerusalem. Every care which an experienced vine-dresser could devise had been expended on it, but in vain. The vine-dresser himself is introduced, demanding if more could have been done. When God selects a nation, a church, or an individual for high and holy work in the world and expends care and pains on the preparation of the instrument, and His plans miscarry through no failure on His part but through the obstinancy or obtuseness of the human soul, the measure of what might have been is the gauge of its doom. The worst weeds grow on the richest soil. This picture is the counterpart of Paul’s dread of being a castaway, 1 Corinthians 9:27.\n\nThe six woes which follow, arising from drunkenness and avarice remind us of sorrows that menace the selfish heart. How different such a lot to the blessedness of the humblest soul that possesses God and is possessed by Him! “Evil shall slay the wicked; and they that hate the righteous shall be condemned. Jehovah redeemeth the soul of His servants; and none of them that take refuge in Him shall be condemned,” Psalms 34:21-22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Warning against Pride, Intemperance, and Corruption -- Isaiah 5:18-30\n\nThe wild grapes of Judah are here continued: blind atheism, Isaiah 5:18-20; proud self-conceit, Isaiah 5:21; drunkenness, Isaiah 5:22; injustice in the courts, Isaiah 5:23-24. What a terrible description is that given in Isaiah 5:18 of the inevitable progress of sin! The bacchanalian procession which is seen, in Isaiah 5:14, descending with music and flowers into the open gates of Hades is described in Isaiah 5:18 as being drawn down by a cable. Men begin with a thread, but the thread of habit becomes a rope, and the rope grows to a cable, which ultimately lands a man in the pit. From Isaiah 5:25 onward we have the description of impending judgment. Earthquakes, armed raids, civil strife, and famine fever, the devastating inroads of hostile invasion, a desolate land and a hungry sea such would be the forces of destruction which Judah’s sin would unloose.\n\nRecent events have revealed the terror of such a visitation. Remember that the wrath of love is as severe as a consuming fire."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 6
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 56,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Blessedness of Sabbath-Keeping -- Isaiah 56:1-12\n\nThe bright array of Messianic promises, which occupied the preceding chapters, is now followed by a portion of less interest, seeing that our attention is not now fastened on Christ, but on Israel. Birk calls this sermon “The Middle Ages of Delay,” and says: “This new section of advice and warning belongs to this whole period from Isaiah to Christ. The like message applies now to the Church of Christ and its prospect of the Second Advent.”\n\nSpecial emphasis is laid on Sabbath-keeping because it was the special sign of God’s connection with Israel. See Exodus 31:13-17; Ezekiel 20:12. It was also a type and pledge of the redemption rest, soon to be brought in and perfected by Christ’s finished work, Hebrews 4:9-10.\n\nWhat an ideal is presented here for character and conduct! To keep God’s rest in our heart-the rest of faith; to cease from ourselves; to be joined to the Lord by one Spirit; to minister to Him; to love His name; to be His servants! What more could we imagine as characteristic of the Christian soul! Let us ask God to bring us to His “holy mountain” and to make us “joyful” in His “house of prayer.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 56
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 55
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 57
+ }
+}

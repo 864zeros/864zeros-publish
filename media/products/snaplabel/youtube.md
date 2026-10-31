@@ -1,7 +1,7 @@
 # SnapLabel — YouTube Upload Metadata
 **DAM Product Folder:** `media/products/snaplabel/`  
 **Web Product Page:** https://864zeros.com/products/snaplabel  
-**Pricing Model:** $29.00 lifetime (No recurring subscriptions)  
+**Pricing Model:** one-time lifetime (No recurring subscriptions)  
 
 ---
 ### 1. Tier 2 Master Explainer
@@ -18,7 +18,7 @@ Merge Google Sheets into millimeter-calibrated Avery labels, envelopes, and barc
 👉 Try SnapLabel: https://864zeros.com/products/snaplabel
 
 🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $29.00 lifetime (No recurring monthly subscriptions).
+💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
 
 🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
 
@@ -43,7 +43,7 @@ Meet SnapLabel — the fast, local-first solution that solves this without messy
 👉 Get SnapLabel: https://864zeros.com/products/snaplabel
 
 🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $29.00 lifetime (No monthly subscription fees).
+💰 one-time lifetime (No monthly subscription fees).
 
 🌐 Explore the full fleet: https://864zeros.com
 
@@ -57,13 +57,13 @@ Meet SnapLabel — the fast, local-first solution that solves this without messy
 * **Suggested Thumbnail:** `media/products/snaplabel/video/thumbnail-snaplabel-social-price.png`
 * **YouTube Title:**
 ```
-Stop Paying $50/Year Subscriptions to Print Labels — SnapLabel #Shorts
+Stop Paying one-time lifetime Subscriptions to Print Labels — SnapLabel #Shorts
 ```
 * **YouTube Description:**
 ```
-Why are cloud services charging $50 a year just to align text boxes into Avery grids?
+Why are cloud services charging one-time lifetime a year just to align text boxes into Avery grids?
 
-SnapLabel gives you complete control with a single $29.00 lifetime (no recurring monthly subscriptions).
+SnapLabel gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
 
 👉 Get SnapLabel: https://864zeros.com/products/snaplabel
 

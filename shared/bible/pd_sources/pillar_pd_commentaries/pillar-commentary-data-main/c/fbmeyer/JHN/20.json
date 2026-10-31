@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Witness of the Empty Tomb -- John 20:1-10\n\nIn considering John’s account of the Resurrection, we should remember that it is largely supplementary to the other narratives. This Gospel having been written long after those were in circulation, the selection of incidents which are recorded is made for spiritual purposes. John’s object was to show various instances of faith in the risen Christ, each one being typical and having its own lessons to teach.\n\nEaster morning! What dismay there is in Mary’s voice and what consternation in her face! What a mistake also she made, for who can take our Lord away from hearts where He is enshrined! The Greek word used to describe the disposition of the clothes is very remarkable. It conveys the idea that they had fallen together, as if that which they had covered had been suddenly withdrawn.\n\nHow much those two disciples missed! Had they only waited, they might have seen the Lord. Do not hurry with wanton haste from the mysteries of our Lord’s grave; but learn that on the one hand He was declared to be God’s Son, Romans 1:4, and on the other we are taught the victory of faith even over death, John 11:26."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Joy of the Resurrection -- John 20:11-18\n\nMary wept with hopeless sorrow, with no thought that Jesus was risen, and anxious only to secure the body of her dear Master and Friend. It is because we know so little of the inner meaning of events which are happening around us, under the hand of God, that we weep so bitterly. What we suppose we have lost is really close at hand, and what we count disastrous is part of the process designed to irradiate our lives for evermore.\n\nIn her grief Mary mistook Jesus for the gardener, but who shall say that she was greatly mistaken? for surely Jesus is the Keeper of the Church, which may fitly be compared to a garden. At that moment He had come into it to lift up one drooping flower. She recognized the intonation of His voice, for speech is ever a telltale. In the resurrection we shall hear again tones that we have not heard since childhood. In John 20:17 women receive the highest authority for acting as evangelists. Let them tell out the glad news of a love that is stronger than death, and which passes through death undiminished and unchanged. Our beloved are waiting for us in the garden of Paradise. We shall hear and see them and be with them forever."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "The Risen Christ Brings Peace -- John 20:19-25\n\nEvidently our Lord was clothed in the spiritual body of which the Apostle speaks, not subject to the laws governing physical life. Twice He uttered the salutation, Peace be unto you. The first time He accompanied His words with the indication of His wounds: He showed unto them His hands and His side. This was the peace of forgiveness, falling on conscience-stricken hearts as the dew distils on the parched herbage. “Look at the wounds of Jesus!” cried Staupitz to Luther, and there is, indeed, no other sign which can give rest to the penitent. This is the peace of the evening hour, when we come back from the soil and fret of the world, and need to have our feet washed and our heart quieted.\n\nThe second time the message of peace was accompanied by an injunction to go forth into the world, as He was sent from the Father, on the great errand of world evangelization. Then He breathed on them and said, Receive ye the Holy Ghost, which shortly after was to descend as a rushing, mighty wind. There is no way of remitting sin but by preaching the gospel of reconciliation, with the Holy Spirit accompanying our message. This is the peace of the morning, when we go forth to our post of duty or danger."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "Overcoming Doubt -- John 20:26-31\n\nHow great the anguish of Thomas during that week, as he tossed between hope and fear, and saw on other faces the light which he might not share! At length Jesus came, and suited Himself to the needs of the perplexed disciple, complying with the conditions that his poor faith had laid down. Jesus was set on winning this one poor starving soul to Himself and blessedness.\n\nIt is unlikely that Thomas availed himself of Jesus’ invitation to reach forth his hand, that he might touch as well as see. Christ’s evident knowledge of what Thomas had said, and his willingness to meet it, were sufficient. But, as our Lord said, there is a greater blessedness than that which became his. When there is no star on the bosom of night, and no friendly voice in the solitude, to believe then is to get very near the heart of Him who on the cross clung to the Father in the midnight darkness."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 21
+ }
+}

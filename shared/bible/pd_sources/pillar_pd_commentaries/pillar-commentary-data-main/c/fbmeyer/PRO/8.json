@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Better than Gold” -- Proverbs 8:1-21\n\nThis chapter contains a bewitching picture of Wisdom as a noble matron. Were it not for this feminine touch, we might, suppose that the Preacher had become a Prophet and was discerning the lineaments of Christ, who in His human life embodied the Divine Wisdom, as indeed He was the Eternal Word.\n\nShe stands in the open places; her ringing voice is heard down the streets, appealing to those who are entering the city gates or doors of the houses. There is no muttering or whispering; but the beauty of goodness illuminates all she says. She insists on her own value, as compared with the valuables that men prize. The central point in her promises is that she imparts those great moral qualities which imply the true leadership and right estimate of others. What a precious word is Proverbs 8:17 : but we can never forget that we love “because He first loved us.” Oh, the mystery and wonder of it! And can that love ever fail us?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Finding Wisdom, Finding Life -- Proverbs 8:22-36\n\nThe world did not come into being by chance. It was created by an intelligent Creator. Nothing is arbitrary or by accident. Law is the expression of the perfect will of God. It is founded on the inherent necessity which is at the heart of all things; and it is according to unchanging law that all things subsist. Yet never forget that God is Redeemer, as well as Creator, and reserves to Himself the right of suffering the infliction of a broken law, that He may step in to redeem those who are penitent and believing.\n\nIt would seem as if in Luke 7:35 our Lord appropriated these sublime words as applicable to Himself. How glorious it is that He appropriates Proverbs 8:31! He does not delight in us after we are redeemed, but before; and it is on this that He bases His appeal: Blessed are they that keep My ways, Proverbs 8:32. Let us watch daily at His gates, and wait at the posts of His doors. For to find Him is to find eternal life, 1 John 4:19."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 9
+ }
+}

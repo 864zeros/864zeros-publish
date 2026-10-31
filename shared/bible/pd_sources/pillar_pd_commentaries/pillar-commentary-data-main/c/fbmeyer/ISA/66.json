@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 66,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s People Made a Blessing -- Isaiah 66:1-14\n\nThe prophet forecasts the advent of a new day, when places and rites would be comparatively unimportant compared with the condition of the heart, Isaiah 66:1-4. The opening words were quoted by Stephen, when announcing the substitution of spiritual worship for the effete system which it superseded. See Acts 7:48-49. What is the outward rite to God, when the spirit has fled? It was all one to Him, whether a man killed a lamb in the Temple, or broke a dog’s neck on his farm. His chosen home is not in ornate temples but in contrite hearts!\n\nThe blessedness of God’s people is depicted in glowing words, Isaiah 66:5-14. God will appear, to the joy of His people and the recompense of their foes. Those times will be characterized by great revivals, and souls will be easily born into the heavenly kingdom. The Jew and Gentile will meet like confluent streams in one blessed channel. But, above all, we shall become aware of the mother-side in God’s nature. As one whom his mother comforteth, Isaiah 66:13."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "All Flesh Shall Worship the Lord -- Isaiah 66:15-24\n\nThe prophet makes it clear that, whatever blessings accrue in the golden future, they will be apportioned to those alone, who are the Israel of God, not merely by descent but in heart and life. They must be what the Apostle describes in Philippians 3:3. Those who were bent on practicing idolatrous rites, such as passing in procession, with priests as teachers, through gardens and groves devoted to impurity; or who, by partaking of the flesh of animals forbidden in the Levitical law, had become as Gentiles, must suffer with the heathen.\n\nIsaiah 66:19 suggests that the restored Jewish remnant are to become the future missionaries of the world; and the book closes with a vision of the Holy City as the focus and center of the religious life of mankind. It is as though, like John, Isaiah beheld her descending from God out of heaven, with wide-open gates, through which the kings of the earth bring their glory and honor, Isaiah 66:20. The lot of all enemies of goodness is depicted in the everburning fires of Tophet-the rubbish heaps of which are significant of uselessness, Isaiah 66:24.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 66
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 65
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Stewards Responsible to Their Lord -- 1 Corinthians 4:1-13\n\nAt the most the ministers or teachers of God’s Gospel are but stewards of the hidden things of God, according to Matthew 13:51-52. They ought not to attract attention to themselves or to the way they purvey their Master’s goods. Their prime object is to be faithful to their trust; to make much of the Master and as little as possible of themselves. Paul was not aware that he had violated his Master’s confidence, but he could not be content till he had heard the Master’s verdict on his life-work. Notice the four courts of appeal-my own judgment, your judgment, man’s judgment, and Christ’s. The Master will reverse many human judgments, but all will bear witness to the absolute justice of His verdict.\n\nIn vivid words the Apostle shows how great was the difference between the ease and self-satisfaction of the Corinthian church and the sorry plight to which he and his fellow-workers were often reduced. Many regarded them as the captives in a conqueror’s triumphal procession, who behind the triumphal car were being-marched to death. But it mattered little to them so long as Christ was adored, loved, glorified, and His Kingdom advanced."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Teaching Converts Christ’s Ways -- 1 Corinthians 4:14-21\n\nThe relationship between the Apostle and his converts was very tender. They were his children. They might have instructors and tutors, but they could have but one father; and as father he might have to use the rod. Love can be stern and punitive. Spare the rod and spoil the child. It is not pure but selfish love that forbears to speak and act strongly when eternal interests are at stake. This is an aspect of God’s love which is likely to be overlooked. If we escape chastisement, we are bastards and not sons. “What son is he whom the father chasteneth not?” Hebrews 12:5-11.\n\nThe beloved Timothy was sent to bring the recreant church back to its old love and faith. He was well fitted to represent the Apostle till Paul could tear himself from his thronging duties at Ephesus. Notice that God’s kingdom comes in power, not in word, 1 Corinthians 4:21. Is not this the reason why it comes so slowly? We treat it as though it would come through our much speaking, through eloquent and honeyed speech. But it is not so. It comes in the power of the Holy Spirit, and in that supremacy of the Divine Spirit over all other spirit forces. God send us more of this great dynamic!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 5
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 32,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Song of the Forgiven -- Psalms 32:1-11\n\nDavid wrote this psalm, Romans 4:6-8. Maschil means “to give instruction.” We are deeply instructed as to the working of conscience. Compare with Psalms 51:1-19. This was one of Luther’s favorites.\n\nFor some time after his sin, David withheld confession and suffered terribly. But when the wound was opened and the poison pressed from it, he burst out in the words with which the psalm opens: Oh, the blessedness! Sin means missing the mark; iniquity is that which is turned aside from its course. Forgiven, covered, not imputed-each of these is true in Jesus.\n\nThe presence of God is always appreciably nearer when floods are running high. Note those three precious promises of instruction, teaching, and guidance, Psalms 32:8. Throw on God the responsibility of indicating your path. Don’t wait for the sharp jerk of bit or bridle; let love prompt and inspire your every movement. Haydn said: “When I think on God, the notes dance from my pen.” Remember the music and dancing that welcomed the prodigal!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 32
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 33
+ }
+}

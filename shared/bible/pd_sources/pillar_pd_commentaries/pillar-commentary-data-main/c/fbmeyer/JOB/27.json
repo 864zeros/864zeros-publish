@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 27,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Justice of God -- Job 27:1-23\n\nZophar ought now to have taken up the discourse, but, as he is silent, Job proceeds. First he renews his protestations of integrity, Job 27:1-10. He denies the charge of being ungodly, and says that till he dies he will not put away his integrity. He refuses to justify the accusations of his friends, and demands that they who had spoken against him should suffer the punishments which they had suggested as his due, Job 27:7. The falsity of their charges was surely evidenced by the fact that he could still delight in the Almighty and call upon His name, Job 27:10.\n\nThen he speaks of the portion of the wicked, Job 27:11-23. Zophar and the rest could hardly have spoken more strongly. Though Job denied the application to himself, he was willing to admit the general truth of these propositions. Through what marvelous alternations the mind of man passes-now on the crest of the wave and again in the trough; arguing, debating, questioning; now antagonizing a position, and then almost accepting it! But be of good cheer! “At eventide it shall be light!” “I have been within the gates,” said one brave explorer, “and there is no dark valley.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 27
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 26
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 28
+ }
+}

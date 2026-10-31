@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CO",
+  "commentaryId": "fbmeyer",
+  "name": "2 Corinthians",
+  "commonName": "2 Corinthians",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Mighty with Spiritual Weapons -- 2 Corinthians 10:1-7\n\nPaul here makes his defense. Some who resisted his authority spoke disparagingly of his weak body and uneloquent speech. Why should they yield so absolute a submission to his words? Others suggested that he was little better than a schemer for his own ends, and that he walked after worldly maxims, 2 Corinthians 10:2. There is considerable comfort to others who are placed in the driving storm of adverse criticism, to know that this great saint passed by the same road. Be of good cheer, comrade, if you are misunderstood and maligned! It is best to leave these reproaches with your Lord. He will shield and vindicate you. “No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn,” Isaiah 54:17.\n\nIn reply Paul quotes the spiritual results that have accrued from his ministry, and argues that they attest the purity and spirituality of his methods. He could not have attained to such great usefulness, if his motives had been those which his enemies imputed. What a lesson 2 Corinthians 10:4 contains! In the gospel there are weapons which no human reasonings or workings can withstand; but we too often trust carnal methods, and do not avail ourselves of this invincible panoply."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Enlarging One’s Sphere of Influence -- 2 Corinthians 10:8-18\n\nThere is marvelous power in the weakest of men, when governed by a single purpose and filled with the consciousness and the power of God. Weak and contemptible in themselves, they are often the chosen channels through which God pours His living water. Any child could have destroyed Raphael’s brush, but in his hand it painted immortal pictures. Incidentally the Apostle remarks that some who criticized him bore themselves proudly, because their standard was so low. A five-foot man thinks himself tall when he compares himself with a dwarf! Always compare what is worst in yourself with what is best in others, and you will be kept humble.\n\nPaul was always pressing outward to the fields that lay beyond. These were vast unoccupied regions, which he coveted to count as provinces in the Kingdom of Christ. This is the supreme test of a man. It is comparatively easy to build on foundations laid by another Christian worker, and to win away his converts. Such conduct is mean and cowardly. Open up new ground and show the stuff that’s in you. The Apostle was justified in making these affirmations, but he did so in the meekness and gentleness of Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 11
+ }
+}

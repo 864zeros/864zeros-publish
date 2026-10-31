@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Wonderful Deliverance -- Psalms 18:1-26\n\nThere is another edition of this psalm in 2 Samuel 22:1-51. Psalms 18:2 and Psalms 18:49 are applied in the New Testament to the Lord Jesus, Hebrews 2:13 and Romans 15:9. We begin with the psalmist’s good resolve, Psalms 18:1-3. No single metaphor can comprehend the whole of God’s helpfulness to men; but can we say, “I love thee” ? See John 21:17. “Thou knowest!”\n\nThe story of the past, Psalms 18:4-19. We also have our Red Seas. In our distress let us also cry. The voice of the sufferer may be weak and solitary, but it reaches through the gates of pearl and moves creation! Luke 8:46.\n\nThe confident claim of the righteous, Psalms 18:20-26. We cannot boast a righteousness of our own, but we stand in Christ. We are full of impurity and evil, but we may claim at least integrity of motive. Compare Psalms 18:26 with Leviticus 26:21-24. The wind blows in one direction; you can walk against it or with it-take your choice."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Girded with Strength for Service -- Psalms 18:27-50\n\nGod’s way is perfect, and if only we will walk with Him He will make ours perfect also. Walls and troops cannot stop a man when God leads him through them. We must follow on the line of His purpose, and then the very mountains are a way and our enemies subserve the program, Acts 2:23.\n\nSwift and sure-footed, when the path is slippery, Psalms 18:33; strong in battle, Psalms 18:34; great through God’s gentle kindness, or, as the English Book of Common Prayer renders it, “thy loving correction,” Psalms 18:35. Severity would never have done for the Apostles what Jesus did by His patience and long-suffering.\n\nThe closing hallelujah of Psa 18:46-50 is very fine. It is the living Savior that we need. We must stint our words when we speak of men; but mortal lips, however eloquent, have never exhausted the worth of our King."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 19
+ }
+}

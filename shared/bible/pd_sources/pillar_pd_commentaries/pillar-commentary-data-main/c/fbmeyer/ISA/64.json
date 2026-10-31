@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 64,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Cry for Pardon -- Isaiah 64:1-12\n\nThe great past, Isaiah 64:1-5. We are introduced to the prophet’s oratory and hear the outpourings of his heart. As he recalls the story of bygone days, he asks that God would do as He had done. It is as easy for God to rend the heavens as for us to tear a piece of cloth: and great mountains of difficulty dissolve before Him, as a pyramid of snow in a thaw. God works while we wait. When there is no sign of His help, He is hastening toward us. If you go out to meet Him, He will quicken His pace, and run to embrace you. These are God’s ways and in them there is everlasting continuance. See Malachi 3:6.\n\nConfession and prayer, Isaiah 64:6-12. The leper, the foul garment, the fading leaf fleeing before the autumn gusts-such emblems become us. If our righteousnesses are black, what must not our sins be! We need Him who comes not with water only, but with water and with blood. See 1 John 5:6. Perhaps our greatest sin is our prayerlessness. We do not stir ourselves up to it. God cannot refrain His mercy, if we cannot refrain our tears!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 64
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 63
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 65
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "fbmeyer",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "What Grace Has Done -- Ephesians 2:1-10\n\nEvidently dead men may walk; that is, they may be dead to the eternal world but alive to this world, which is moving past like the films of a moving picture. The death of the spirit is compatible with much active interest in the course of this world. Behind the shifting scenes of the material is the great enemy of souls. As the Spirit of God works in the obedient, so does the evil spirit work in the disobedient. Note this trinity of evil-the course of this world, the lusts of our flesh, and the prince of the power of the air. If we desire to save men, we must be in living union with the all-conquering Spirit of Christ.\n\nNotice, also, the past tense which describes the finality of Christ’s work, Ephesians 2:5-6. In the purpose of God we have been raised from the grave of sin and are seated with the risen Lord in the place of acceptance and victory. We were one with Christ when He lay in the grave and arose. In God’s thought we have already taken our seat with the glorified Christ upon the throne; only the pity is that we do not believe this or act as if we had done so. All this is the gift of God’s unmerited love. By grace have we been brought into this position, and by grace are we maintained in it. We are of God’s “making;” such is the Greek word for workmanship, Ephesians 2:10. We have been created for good works; they have been planned for us and we have only to walk in them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Reconciled and United by the Cross -- Ephesians 2:11-22\n\nThe state of the unconverted must be described by a series of negations. Shut the sun out of the world, love out of the home, liberty out of the state! The unsaved know not of their infinite loss; but if they could see what we inherit through union with Jesus, they could cease to wonder that we run not with them into the same excess of riot. Does a maiden need much persuasion to cast aside paste jewels when real ones are offered her!\n\nThere was no natural affinity between Jew and Gentile. This arose partly because of diverse nationality and genius; but in addition the whole code of Jewish customs as to eating clean meats and ceremonial pollution, prevented it. All these party-walls of division were swept away by Christ. In Him, as the cornerstone, two walls, running in different directions, met. Two sections of humanity, East and West, became united to each other, because each was united to Him, and thus was formed a new unit of humanity.\n\nWhat a noble conception is given of the Church and ultimately of the redeemed race, growing slowly through the ages and becoming God’s dwelling-place! Notice the Trinity; through Jesus, the Eternal Father comes by His Spirit to dwell in the heart of man."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 3
+ }
+}

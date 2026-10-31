@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Forgotten Dream -- Daniel 2:1-13\n\nThis was the second year of Nebuchadnezzar’s sole reign. At first he was joint-governor with his father. From Daniel 2:4 b to Daniel 7:28 the Syriac language is employed, and as this was the vernacular tongue of the king and his court, it is possible that this part of Daniel’s record is based upon documents of state. The king’s argument throughout his discussion with the magicians and astrologers, was that if they could not recall the past, they certainly could not be trusted to foretell the future; and the failure of the wise-men provided the opportunity for the greater triumph of the servant of God. The wise-men of Babylon said truly that only the gods, whose dwelling is not with flesh, could recover lost dreams. Daniel thought so, too, only he looked to the Lord God of his fathers.\n\nIrresponsible power is a temptation to the ruler, and perilous to the ruled. No mortal should have despotic power over life and death. But a movement is afoot in our times which is likely to give to all nations what Abraham Lincoln described as, “government of the people, by the people, and for the people.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Wisdom Granted in the Hour of Need -- Daniel 2:14-35\n\nThe action of Daniel in this supreme crisis is very instructive. He reckoned absolutely on God, and in his chivalrous endeavor to save the lives of the aged men, the heads of the college in which he had been trained. He never doubted that God would be His stay. A prayer meeting was convened to ask for the merciful interposition of the God of heaven, and at its close Daniel seems to have lain down to sleep in unwavering faith. In this act we are reminded of Jesus sleeping amid the storm. Only a heart so pure and true, so trustful and godly, could have slept within the shadow of so terrible a menace.\n\nIt was in a night-vision that he beheld the majestic procession of empire, from the gold of absolute monarchy to the clay and metal of constitutional government. Note his care to give all the glory to God and to take the humble position of the mere channel through which the divine message was transmitted to the king."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "God’s Kingdom Triumphant -- Daniel 2:36-49\n\nOur Lord probably refers to these five empires when He speaks of “the times of the Gentiles.” The empire of Babylon was followed by that of Medo-Persia under Cyrus; that by Greece under Alexander the Great; and that in turn by Rome led by the Caesars. Since the dissolution of the Roman Empire, the vast dominions of the East and the West have fallen, generally speaking, into some ten main divisions. There is, therefore, now nothing between us and the final setting up of the kingdom that is not made by human hands and shall never be destroyed. Note the striking anticipation of the outcome of Gentile dominion, in the prostration of supreme human power at the feet of a Jew. Evidently Daniel refused the king’s homage, because we are told that Nebuchadnezzar “answered” him. Those who have shared our anxieties and prayers must not be forgotten in our hour of triumph, Daniel 2:49. The heart of man may not be able to recall its forgotten dreams of innocence and truth, but it will recognize them when presented by the servant of God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 3
+ }
+}

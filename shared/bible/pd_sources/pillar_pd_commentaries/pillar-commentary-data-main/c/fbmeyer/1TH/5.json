@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TH",
+  "commentaryId": "fbmeyer",
+  "name": "1 Thessalonians",
+  "commonName": "1 Thessalonians",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Ready for “the Day of the Lord” -- 1 Thessalonians 5:1-11\n\nTo the Apostle “the day of the Lord” was near. He expected it in his lifetime, and if we remember that the Lord’s words with reference to it were in part fulfilled when Jerusalem fell, it is clear that his expectation was not altogether vain.\n\nThe suddenness of the Advent was the theme of Jesus’ reiterated assurances. See Matthew 24:38; Matthew 24:43; Luke 17:29-30. The world spends its days in careless indifference (sleep), or in sensual enjoyment (drunkenness); but believers are bidden to be soldier-like in their attire and watchfulness. Ponder that wonderful word in 1 Thessalonians 5:10. Together implies that Christians now living are closely united with those who have died. The state we call death, but which the Apostle calls sleep-because our Lord’s resurrection has robbed it of its terror-is as full of vitality as the life which we live day by day in this world. We live together, animated by the same purposes-they on that side and we on this. Whether here or there, life is “in Him.” The closer we live to Him, the nearer we are to them."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“Without Blame” at His Coming -- 1 Thessalonians 5:12-28\n\nThe remainder of the chapter is filled with brief sentences of exhortation, like cablegrams from our Heavenly Captain to his soldiers, who, in the previous section, are described as wearing the breastplate of faith and love. As we endeavor to put them into practice, we become conscious of a new and divine energy entering and quickening our nature. It is the God of peace who is at work, co-operating with our poor endeavors and sanctifying us wholly.\n\nEach soul has a ministry to others, 1 Thessalonians 5:14. A sketch is here given of the ideal believer, 1 Thessalonians 5:16-22; full of joy, constant in prayer, giving thanks in everything, loving with the unquenched fire of the Holy Spirit, willing to listen to any voice that may bear a divine message, testing all events and utterances with a celestial solvent, steadfast in good, and persistent against evil. This is a high standard, and impossible of realization apart from the indwelling of the Holy Spirit. But when the inner shrine is truly surrendered to Him, He will possess the whole temple, even to our physical well-being. God is faithful and will never fail the soul that dares to be all that He wills."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 1
+ }
+}

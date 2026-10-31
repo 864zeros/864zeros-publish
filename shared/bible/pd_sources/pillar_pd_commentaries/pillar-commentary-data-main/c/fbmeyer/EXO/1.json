@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Children of Israel Afflicted -- Exodus 1:1-14\n\nThe buried seed began to bear an abundant harvest, notwithstanding the efforts of Pharaoh and his people. The kings of the earth take counsel together to thwart the divine purpose. They might as well seek to arrest the incoming tide. The days of persecution and opposition have always been the growing days of the Church.\n\nThe new king probably belonged to a great dynasty, intent on preventing the recurrence of shepherd domination. The first move of the new policy was to embitter Israel’s existence by cruel bondage. The pictured walls of the Pyramids bear witness to sufferings inflicted on slaves of a Hebrew cast of face by taskmasters armed with whips. Pharaoh and his counselors had to learn that they were not only dealing with a subject nation, but with the Eternal God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "God Protects Hebrew Babes from Pharaoh’s Decree -- Exodus 1:15-22\n\nEgypt’s second stroke of policy was to begin with the children. Pharaoh and Herod set us an example in turning their attention to young life. There is nothing which so closely and instantly touches national well-being as the treatment of the children.\n\nIt is wonderful to notice what unexpected instruments God uses to defeat the purposes of his enemies. Of all people these two women seemed the unlikeliest. It may be that these two women were Egyptians, who had recently learned to fear God; but if so, their conduct was even more remarkable. God, who makes of soft sand a strong barrier against the billows, can restrain man’s wrath by the humblest instruments. You may be obscure and weak, but if you fear God He will make use of you, write your name in the book of life and multiply your spiritual children."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 50
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 2
+ }
+}

@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "Philemon", "chapter": 1, "citation": "Philemon 1:6", "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.", "plain": "I pray that the sharing of your faith may become effective as you fully recognize every good thing we have in Christ." },
-    { "book": "Philemon", "chapter": 1, "citation": "Philemon 1:7", "text": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.", "plain": "Your love has given me great joy and encouragement, because you, brother, have refreshed the hearts of the Lord's people." }
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "citation": "Philemon 1:6",
+      "text": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
+      "plain": "I pray that the sharing of your faith may become effective as you fully recognize every good thing we have in Christ.",
+      "visual_prompt": "an unhewn twelve-stone altar standing quietly on a wind-swept hilltop in an open courtyard guest chamber with a prepared wooden table",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Philemon",
+      "chapter": 1,
+      "citation": "Philemon 1:7",
+      "text": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.",
+      "plain": "Your love has given me great joy and encouragement, because you, brother, have refreshed the hearts of the Lord's people.",
+      "visual_prompt": "a quiet stone courtyard archway opening onto the hills in a broken iron chain link resting beside an olive branch",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

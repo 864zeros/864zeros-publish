@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 38,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Cry of the Needy Penitent -- Psalms 38:1-22\n\nA long drawn-out sigh of pain. Some think it should be classed with Psalms 32:1-11; Psalms 51:1-19, as belonging to the time of David’s fall and repentance. It is filled with a sense of God’s judgments and the profound consciousness of sin. Perhaps David was suffering physically, or he may be describing his spiritual maladies in terms borrowed from that source. His friends stood apart and his enemies were near. But it was wise to refrain from man and to wait only on God. When we are buffeted and derided, the true attitude is our Lord’s. As the dumb sheep before her shearers, He opened not His mouth!\n\nIn Psalms 38:15 the tone becomes calmer. The soul begins to recover its center of gravity in God. Notice the fourfold repetition of For, Psalms 38:15-18. Faith marshals her arguments. Out of “stony griefs” she builds “Bethels.” Like Samson, she finds honey in the lion’s carcass. But God will not forsake. He never for a moment withdraws His close attention. The Refiner sits by the crucible, and will cool down the heat the moment it has done its work."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 38
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 37
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 39
+ }
+}

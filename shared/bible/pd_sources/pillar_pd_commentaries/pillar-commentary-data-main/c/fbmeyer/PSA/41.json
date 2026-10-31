@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 41,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Lord, Heal My Soul” -- Psalms 41:1-13\n\nThis psalm was probably composed, with the adjacent ones, during the four years in which Absalom’s conspiracy was being hatched. Perhaps the anxiety thus caused induced some serious illness, over which David’s enemies exulted with unseemly glee. His sensitive nature was evidently greatly pained. But who does not realize the applicability of the psalm to the betrayal of our Lord? Psalms 41:9 is quoted in John 13:18.\n\nIn the day of trouble, when enemies oppose, Psalms 41:5-8, and friends prove false, Psalms 41:9, God draws near. Look after God’s poor and He will care for you in the evil day. The blessings that you have endeavored to communicate will return to your own comfort in the hour of tribulation. God will make (or change) your bed in sickness, Psalms 41:3; will heal your soul, Psalms 41:4; and will set you before His face forever, Psalms 41:12. What a sweet conception of God as nurse in the room where feet must be shod with velvet and voices speak in gentlest tones!\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 41
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 40
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 42
+ }
+}

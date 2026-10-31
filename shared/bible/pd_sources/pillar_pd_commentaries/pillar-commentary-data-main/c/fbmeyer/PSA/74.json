@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 74,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Sanctuary of God Profaned -- Psalms 74:1-11\n\nThis psalm probably dates from the time when the Chaldeans destroyed the Temple and the city of Jerusalem. Compare Psalms 74:8 with Jeremiah 3:13-17. The main emphasis of Psa 74:1 lies in the argument which arose from Israel’s close relationship with God. Were they not His congregation! Was not the Temple His own chosen sanctuary? Did not these facts constitute the reason why He should come with swift footsteps to undo the evils that their foes were inflicting? The invaders were His (Thine) adversaries. The Temple was the dwelling-place of His (Thy) name. The whole psalm is dominated by this note. It says very little of the sufferings which the enemy has inflicted, but constantly recurs to the insult and reproach, done to God.\n\nWhen we live only for Jesus Christ, so that our case and His have become one, we can use language like this. But this position is not acquired lightly, nor without much watchfulness and prayer. We by nature watch out for our own dignity and welfare much more quickly than for the interests of God’s kingdom and glory. When, however, we are absolutely identified with the kingdom and glory of Jesus, our argument for deliverance is omnipotent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "“Plead Thine Own Cause, O God” -- Psalms 74:12-23\n\nYet! Psalms 74:12, r.v. There is always some compensating and consolatory thought. God is in the background of our thought. Not only the King, but my King, ever working salvation in the midst of the earth. Faith is quickened as she reviews the marvels of the past, or considers the constant forth-putting of God’s power in nature. See Psalms 74:12-15.\n\nThe dove is a tender emblem of the Church in her simplicity, weakness, and defenselessness; and there is no plea so potent as to remind God of His Covenant, which has been sealed with the blood of the Cross. Though we are utterly unworthy, He cannot deny Himself. Every time we put the cup to our lips in the Holy Supper, we say in effect. Have respect unto the Covenant, Psalms 74:20. This is an invincible argument with God. Go over the different items of that Covenant enumerated in Hebrews 8:1-13.\n\nPlace your finger on the one that fits your case, and present that at the bank of heaven, endorsed by the countersign of our Lord. See to it that your cause is so identified with God’s that, in soliciting His help, you may be able to add: Arise, O God; plead thine own cause, Psalms 74:22. God is faithful to those whom He has called into the fellowship of His Son."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 74
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 73
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 75
+ }
+}

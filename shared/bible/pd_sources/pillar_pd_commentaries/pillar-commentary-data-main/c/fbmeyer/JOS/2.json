@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Heathen Woman’s Act of Faith -- Joshua 2:1-14\n\n“To view the land” was a hazardous undertaking. The physiognomy of the Hebrews would certainly betray them, and it did. The sacred writer does not commend Rahab’s mode of life nor her lies. Her morality was faulty enough, but beneath it, slowly smoldering, was a spark of pure love and faith, and this would consume the rubbish and burn clear, Hebrews 11:31.\n\nThe stalks of flax were probably laid out on the roof to dry. She believed, on the ground of the wonders wrought in Egypt, that Jehovah was the true God, and that His word was sure. Her faith proved itself in her works-in her efforts to save others, and in the confidence with which she rested behind her scarlet cord. That she was sneered at and persecuted is quite likely, but she persisted and became an ancestress of Christ, Matthew 1:5. How faith greatens the soul! James 2:25."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Escape and Report of the Spies -- Joshua 2:15-24\n\nRahab’s trust in the promise of the spies, and in the efficacy of the scarlet line around her window is a striking type of the faith that relies on the promise of God, that those who are united with Christ shall be saved in this world and the next. Her faith was not the result of impulse, but of a considerate review of the story of the Exodus. Would you have faith, soak your soul in the fact and teachings of Christ.\n\nNote the strict conditions exacted by the spies as to the extent of their responsibility. Amid the general destruction, only those sheltered in the precincts of Rahab’s house would escape. To be outside, though related to her, would not avail. So the great salvation of Jesus is available only to those who are found “in Him,” having upon them the divine righteousness, Philippians 3:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 3
+ }
+}

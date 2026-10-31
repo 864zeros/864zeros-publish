@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Friend of Sinners -- Mark 1:40-45; Mark 2:1-22\n\nThe leper, Mark 1:40-45. The news of Christ spread fast and far until it reached the outcasts from Jewish society, the very dregs of humanity. As the story of the wonderful miracles wrought by our Lord was pondered deeply by this man, He concluded that the only question which remained was that of Christ’s willingness to hear. As to His power there could be no doubt. But no one of all the religious world of that time had ever thought of extending a helping hand to such as he. Note the instantaneousness of our Lord’s response to this appeal. His love and power are commensurate; when you gauge the one, you have measured the other.\n\nThe paralytic, Mark 2:1-12. The disease had resulted from sin. It was necessary to deal with the soul before the body could be emancipated. As soon as we sin, God’s pardon awaits our asking for it, and of this fact our Lord gave the paralytic man definite assurance. Jesus’ right to speak was evidenced by His power to heal. If the latter was effectual, so was the former.\n\nThe sinner’s friend, Mark 2:13-22. They thought to coin a term of reproach, but they added a crown of glory. In eternity the Friend of sinners will surround His table with saved sinners who have become His guests."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "The Lord of the Sabbath -- Mark 2:23-28; Mark 3:1-19\n\nThe ritualist demands the outward, the conventional, the ancient usage of the past. Christ says, “Be natural.” The needs of man, whether of body or of soul, are greater than ceremonial restriction. Ceremonies are only expressions of life, and where life is wanting, they are meaningless and void.\n\nThe withered hand, Mark 3:1-6. Through long disuse of powers which God has given, but which we have refrained from exercising, degeneration may have set in; Christ, however, bids us exert them again. In so far as we dare to obey, we shall find ourselves able. Dare to speak, or pray, or work, not at the impulse of your nature, but at His bidding, and you will suddenly find yourself given power.\n\nThe Apostolate, Mark 2:7-19. On three occasions Christ used the boat as His pulpit, Mark 4:1; Luke 5:3. We must be disciples (learners), before we can be apostles (those sent). As the Father sent the Master, so the Master sends us. Our mission is threefold-to bear Him company, to perform His errands, and to cast out devils. What infinite variety in the apostolic band! The Boanergic group of four; the group of questioners who were sometimes doubters; and the group of practical men, whose business capacity was a snare at least to one. If there was a traitor even amid the Twelve, who can expect to find his fields free from tares?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 3
+ }
+}

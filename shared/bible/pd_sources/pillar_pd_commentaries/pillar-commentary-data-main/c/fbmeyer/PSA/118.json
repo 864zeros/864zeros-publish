@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 118,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Trust in God Brings Strength -- Psalms 118:1-14\n\nIt is generally agreed that this psalm dates back to the restoration from Babylon. It was probably used as a processional hymn for the first time at the great Feast of Tabernacles mentioned in Nehemiah 8:13-18. The structure of the psalm is as follows: Psalms 118:1-4, the summons of the full choir to the constituent parts of the procession; Psalms 118:5-14, the song of the soloist; Psalms 118:15-16, the answer of the choir; Psalms 118:17-19, the soloist. At this point the procession reaches the Temple gates. Psalms 118:20 is the response of priests and Levites, the custodians of the sacred edifice, who lay stress on the character of those who tread its courts. Psalms 118:21, the soloist; Psalms 118:22-27, the full chorus; Psalms 118:28, the soloist; Psalms 118:29, the concluding doxology.\n\nLuther says of this psalm: “This is mine, the one which I love.” As it was included in the great Hallel we infer that our Lord sang it as He went forth to die, Matthew 26:30. It will be sung once more on that coming day for which we wait. See Isaiah 25:9; Matthew 23:39. When we identify ourselves with God’s great cause, we may absolutely count on God as our strength in the conflict, and our song in assured victory."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "A New Way in a New Day -- Psalms 118:15-29\n\nAs we draw near the mellowing light of the sanctuary we see more deeply into the divine meaning of our experiences. In Psalms 118:13, “Thou [the enemy] didst thrust sore at me,” but in Psalms 118:18, “The Lord hath chastened me sore.” Our Lord and His Apostles made much use of Psa 118:22. See Matthew 21:42; Acts 4:11; Ephesians 2:20; 1 Peter 2:4-7. It probably refers to an incident in the building of the Temple, when a rejected stone was sought for to complete the structure. Its rejection and recovery were “the Lord’s doing,” as a parable of other and more momentous events.\n\nPsalms 118:27 is peculiarly beautiful. As soon as God gives you light, make use of it for a fuller consecration and be renewal of sacrifice. New light means the discovery of fresh opportunities for divine service. Let light and life keep step! Pass from the altar to the Cross, at which Jesus stands to welcome and endorse your new act of surrender. Behold there the golden cord of love, the silver cord of hope, and the crimson cord of his redeeming sacrifice for you. The confession of such a life will be that God is good, that His service is bliss, and that His mercy never fails."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 118
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 117
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 119
+ }
+}

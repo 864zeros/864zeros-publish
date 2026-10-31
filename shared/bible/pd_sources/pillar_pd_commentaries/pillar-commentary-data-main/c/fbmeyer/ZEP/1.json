@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ZEP",
+  "commentaryId": "fbmeyer",
+  "name": "Zephaniah",
+  "commonName": "Zephaniah",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Great Day of the Lord” -- Zephaniah 1:1-18\n\nZephaniah means hidden of the Lord. He lived in Josiah’s reign, and cooperated with that king in his efforts to put down idolatry. His prophecy deals with the sins that were rife in Judah and the fearful retribution that would be inflicted through the Chaldeans.\n\nApproaching destruction, Zephaniah 1:2-6. The Chemarim, r.v., were idolatrous priests dressed in black garments. Malcam is Milcom or Moloch. Notice the successive classes of those who were to suffer in the overthrow. They constitute a series of concentric circles, narrowing down at last to those who had turned back, and to those who had never sought the Lord.\n\nThe invaders, Zephaniah 1:7-18. The guests whom God invited to the banquet were Nebuchadnezzar and his soldiers! They marched in through the Fish Gate; and, as they advanced, cry after cry arose from the affrighted populace, driven from quarter to quarter. Maktesh, Zephaniah 1:11, was probably the Vale of Siloam, where the merchant princes dwelt or pursued their business. None would be able to elude the coming vengeance. Those that affected foreign attire, or leaped across the threshold in superstition, or practiced deceit, would have to pay dearly for their sins. Fulfilled in the overthrow of Jerusalem by Nebuchadnezzar, and afterward by Titus, these words will always stand for the inevitable national sufferings which follow national crimes."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAB",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 2
+ }
+}

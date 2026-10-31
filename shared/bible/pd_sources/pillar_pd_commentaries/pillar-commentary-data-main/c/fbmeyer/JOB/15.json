@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The Heavens Are not Clean” -- Job 15:1-35\n\nThe second colloquy, like the first, is commenced by Eliphaz. He begins by rebuking Job, Job 15:1-16. He complains that the words of Job proved him to be unwise, Job 15:2-3, and even impious, Job 15:4. His very speech testified to his iniquity, Job 15:5-6. With something of irony Eliphaz asks upon what Job’s claim to superior wisdom rests. Was he the first man?\n\nJob 15:7. Or had he access to the secret counsel of God? Job 15:8. In refusing the counsel of his friends, Job 15:9-10, and the consolations of God they had offered, Job 15:11, r.v., had he not proved his want of wisdom? He had even proved his folly and his impiety, by attempting to assert his innocence before God, Job 15:12-14, in whose presence even the heavens were unclean, Job 15:15-16. It is clear that Eliphaz and his friends did not believe the sincerity of Job’s protestations of innocence.\n\nEliphaz then attempts to instruct Job, Job 15:17-35. His theme is almost the same as that of his former speech. It is the righteousness of God as specially manifested in the punishment of the wicked. He claims that his doctrine is that of the wise men, Job 15:17-19; then proceeds to describe the wicked man as troubled in conscience and full of fear, Job 15:20-24; attributes this to his bold impiety, Job 15:25-28; and predicts his fearful doom, Job 15:29-35. The application of such teaching to Job must have been very painful. He insinuated that Job’s terrible afflictions were God’s testimony against his sin. We know better from John 11:4-5."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 16
+ }
+}

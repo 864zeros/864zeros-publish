@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Hand in History -- Nehemiah 9:1-21\n\nWhat a blessed result of the Bible-study of the previous chapter. It led to confession, separation from evil association and worship. It is good to review the dealings of God with us and with our people in bygone days. There are hilltops in our experience where the air is clear, and we can see the way by which we have been led. At such times we look beyond second causes to the great Orderer of our lives, and our history is one perpetual assertion of THOU. The history of God’s dealings with Israel is an epitome of His dealings with ourselves.\n\nThe choice in Ur, the redemption from Egypt, the wilderness wanderings, the land of rest-all these have their counterparts in our life-story. Side by side with the story of God’s care runs the story of transgression, Nehemiah 9:16-18. The gold and black strands are closely interwoven. In the midst of God’s best gifts, we break out into sin; yet He still gives us His good spirit, and withholds not the manna which He promised, Nehemiah 9:20."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "The Penalty of Ingratitude and Disobedience -- Nehemiah 9:22-38\n\nThe theme of this prayer is the covenant mercy of God. However great the provocation of the Chosen People, He never swerved from His ancient promise to their fathers. He testified against them by His Spirit and chastened them for their sins. He allowed them to be oppressed by their enemies and carried into captivity. But when they returned and cried for His help they found His manifold mercies waiting to welcome, forgive, and restore them. They were conscious that there was nothing in themselves or even in their fathers to explain these wonderful dealings, and the secret had ever to be found in His great mercies.\n\nIn this hour of distress, they turned back to Him and bound themselves by a faithful covenant. But, alas, even written promises will not hold the wayward heart of man. What a picture this is of our own lives, and how often have all these experiences been repeated in us! Fortunately for us we are represented now, not by our promises and prayers, but by Jesus Christ, in whom we stand and are accepted and kept."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 10
+ }
+}

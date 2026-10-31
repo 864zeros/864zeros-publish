@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "Judges", "chapter": 6, "citation": "Judges 6:12", "text": "And the angel of the Lord appeared unto him, and said unto him, The Lord is with thee, thou mighty man of valour.", "plain": "The angel of the Lord appeared to him and said, 'The Lord is with you, mighty warrior.'" },
-    { "book": "Judges", "chapter": 6, "citation": "Judges 6:23", "text": "And the Lord said unto him, Peace be unto thee; fear not: thou shalt not die.", "plain": "But the Lord said to him, 'Peace! Do not be afraid. You are not going to die.'" }
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "citation": "Judges 6:12",
+      "text": "And the angel of the Lord appeared unto him, and said unto him, The Lord is with thee, thou mighty man of valour.",
+      "plain": "The angel of the Lord appeared to him and said, 'The Lord is with you, mighty warrior.'",
+      "visual_prompt": "a rough-hewn limestone bench overlooking a quiet valley in a rough fieldstone watchtower in Gilead",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Judges",
+      "chapter": 6,
+      "citation": "Judges 6:23",
+      "text": "And the Lord said unto him, Peace be unto thee; fear not: thou shalt not die.",
+      "plain": "But the Lord said to him, 'Peace! Do not be afraid. You are not going to die.'",
+      "visual_prompt": "a weathered dry-stone boundary wall and wild olive branch in a stone winepress hewn into an Ophrah hillside",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

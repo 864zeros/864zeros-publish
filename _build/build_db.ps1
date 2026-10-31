@@ -31,7 +31,9 @@ CREATE TABLE bible_applications(id TEXT PRIMARY KEY, chapter INT, citation TEXT,
 DROP TABLE IF EXISTS bible_study_books;
 CREATE TABLE bible_study_books(book_order INT PRIMARY KEY, book TEXT, testament TEXT, category TEXT, overview TEXT, key_themes TEXT);
 DROP TABLE IF EXISTS bible_study_lessons;
-CREATE TABLE bible_study_lessons(book TEXT, lesson_number INT, title TEXT, citation TEXT, scripture_text TEXT, lesson TEXT, application TEXT, PRIMARY KEY(book, lesson_number));")
+CREATE TABLE bible_study_lessons(book TEXT, lesson_number INT, title TEXT, citation TEXT, scripture_text TEXT, lesson TEXT, application TEXT, PRIMARY KEY(book, lesson_number));
+DROP TABLE IF EXISTS bible_questions;
+CREATE TABLE bible_questions(qid TEXT PRIMARY KEY, passage_id TEXT, book_order INT, book TEXT, testament TEXT, chapter INT, verse_start INT, verse_end INT, citation TEXT, category TEXT, difficulty INT, question TEXT, options_json TEXT, correct_index INT, explanation TEXT, location_json TEXT);")
 
 # --- shared/bible (walk the manifest) ---
 $idx = Get-Content (Join-Path $bibleDir "bible_index.json") -Raw -Encoding UTF8 | ConvertFrom-Json
@@ -81,6 +83,19 @@ if (Test-Path $studyFile) {
   }
 }
 
+# --- shared/bible Question Engine (Trivial Pursuit / Comprehension Cards) ---
+$questionsFile = Join-Path $bibleDir "bible_questions.json"
+$questionCount = 0
+if (Test-Path $questionsFile) {
+  $qData = Get-Content $questionsFile -Raw -Encoding UTF8 | ConvertFrom-Json
+  foreach ($q in $qData.questions) {
+    $optsJson = ($q.options | ConvertTo-Json -Compress)
+    $locJson  = if ($q.location) { ($q.location | ConvertTo-Json -Compress) } else { "" }
+    [void]$sb.AppendLine("INSERT OR REPLACE INTO bible_questions VALUES('$(Esc $q.qid)','$(Esc $q.passage_id)',$($q.book_order),'$(Esc $q.book)','$(Esc $q.testament)',$($q.chapter),$($q.verse_start),$($q.verse_end),'$(Esc $q.citation)','$(Esc $q.category)',$($q.difficulty),'$(Esc $q.question)','$(Esc $optsJson)',$($q.correct_index),'$(Esc $q.explanation)','$(Esc $locJson)');")
+    $questionCount++
+  }
+}
+
 # --- apps/clearstreak passages ---
 $pc    = Get-Content (Join-Path $csDir "passages_core.json") -Raw -Encoding UTF8 | ConvertFrom-Json
 $plist = if ($pc.passages) { $pc.passages } else { $pc }
@@ -96,7 +111,7 @@ foreach ($p in $plist) {
 
 [void]$sb.AppendLine("COMMIT;")
 Set-Content -LiteralPath $sqlPath -Value $sb.ToString() -Encoding UTF8
-"wrote $sqlPath  (bible=$bcount, applications=$appCount, study_books=$studyBookCount, study_lessons=$studyLessonCount, passages=$pcount)"
+"wrote $sqlPath  (bible=$bcount, applications=$appCount, study_books=$studyBookCount, study_lessons=$studyLessonCount, questions=$questionCount, passages=$pcount)"
 
 $sqlite = Get-Command sqlite3 -ErrorAction SilentlyContinue
 if ($sqlite) {

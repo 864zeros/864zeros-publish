@@ -13,7 +13,25 @@
     "count": 2
   },
   "verses": [
-    { "book": "Ruth", "chapter": 1, "citation": "Ruth 1:16", "text": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:", "plain": "But Ruth replied, 'Don't urge me to leave you or to turn back from you. Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.'" },
-    { "book": "Ruth", "chapter": 2, "citation": "Ruth 2:12", "text": "The Lord recompense thy work, and a full reward be given thee of the Lord God of Israel, under whose wings thou art come to trust.", "plain": "May the Lord repay you for what you have done. May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge." }
+    {
+      "book": "Ruth",
+      "chapter": 1,
+      "citation": "Ruth 1:16",
+      "text": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:",
+      "plain": "But Ruth replied, 'Don't urge me to leave you or to turn back from you. Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.'",
+      "visual_prompt": "a gnarled fig tree casting open contour lines across rocky ground in a narrow footpath winding between sheaves of grain",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    },
+    {
+      "book": "Ruth",
+      "chapter": 2,
+      "citation": "Ruth 2:12",
+      "text": "The Lord recompense thy work, and a full reward be given thee of the Lord God of Israel, under whose wings thou art come to trust.",
+      "plain": "May the Lord repay you for what you have done. May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge.",
+      "visual_prompt": "a dressed cornerstone set squarely into a solid bedrock foundation in a quiet courtyard gate in Bethlehem",
+      "spec_id": "fhg_sketch_spec",
+      "humanizer": "G2+S2"
+    }
   ]
 }

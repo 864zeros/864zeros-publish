@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Breaking Three Commandments -- 1 Kings 21:1-29; 1 Kings 1:1-53; 1 Kings 2:1-46; 1 Kings 3:1-28; 1 Kings 4:1-34; 1 Kings 5:1-18; 1 Kings 6:1-38; 1 Kings 7:1-51; 1 Kings 8:1-66; 1 Kings 9:1-28; 1 Kings 10:1-29; 1 Kings 11:1-43; 1 Kings 12:1-33; 1 Kings 13:1-34; 1 Kings 14:1-31; 1 Kings 15:1-34; 1 Kings 16:1-34\n\nFrom a worldly point of view Naboth might have done a good stroke of business by selling his estate to. Ahab. A royal price and assured favor might have been his-but he had a conscience! Above the persuasive tones of the monarch’s offer sounded the voice of God: “The land shall not be sold for ever, for the land is mine.” See Leviticus 25:23; Numbers 36:7; Ezekiel 46:18.\n\nAhab knew perfectly well that Jezebel could not give him the property of another except by foul means, but he took pains not to inquire. Though the direct orders for Naboth’s death did not come from him, yet, by his silence, he was an accomplice and an accessory; and divine justice penetrates all such specious excuses. God holds us responsible for wrongs which we do not arrest, though we have the power. The crime was blacker because of the pretext of religion, as suggested by a fast. See also 2 Kings 9:26. The blood of murdered innocence cries to God, and his requital, though delayed, is inevitable. See Revelation 6:9-10."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Pillars of Security and Strength -- 1 Kings 7:13-26\n\nHiram, the artificer, was remarkably gifted. From his father he had inherited all the genius of Tyre, while on his mother’s side he was of the tribe of Naphtali and thus inherited the religious genius of the Hebrew people. The twin pillars were made of the brass taken from the king of Zobah, 1 Chronicles 18:8-9. Each would stand to a height of forty feet. Their names were symbolical, and indicated their strength and durability. Wreaths of golden chainwork hung from the capitals, while beautiful ornaments of lily-work adorned the heads of these noble columns. Jachin-“he shall establish” -and Boaz-“in him is strength” -combined with the beauty of the lily-work, remind us that strength and beauty are in God’s sanctuary and blend in the character of His people.\n\nThe molten sea was substituted for the ancient laver, Exodus 30:18. It was an immense circular vase, holding 20,000 gallons of water. Its brim was in the form of a lily and it stood on twelve brazen oxen. Water in abundance was needed for the cleansing of the courts; and our Lord has taught us in John 13:1-38 the necessity for constant washing if we would walk with God."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Vases and Lavers -- 1 Kings 7:27-39\n\nIn addition to the great molten sea, described in the previous verses, there were ten portable vessels, or vases, that ran on wheels, so that they could be pushed across the level marble floor to any part of the court where fresh cleansing water was required. Five of these lavers were placed on the right, and ten on the left, of the great brazen altar. Such things as belonged to the burned-offering they washed in them; but the sea was for the priests to wash in, 2 Chronicles 4:6.\n\nWe should carefully note the large provision made under the old Covenant for ceremonial washings. How precise is this account of these vessels! Does it not give weight to that injunction: “Be ye clean that bear the vessels of the Lord” ? Isaiah 52:11. This passage reminds us of the infinite purity of God, who charges His angels with folly, Job 4:18, and in whose sight the heavens are not clean, Job 15:15. As our Lord said to His disciples: “He that is clean needs… to wash his feet,” John 13:10. Every act of ours, even though we are priests unto God, needs to be cleansed and sanctified by the Word of God and prayer, Acts 6:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Vessels of Brass and of Gold -- 1 Kings 7:40-51\n\nAs we pass from the outward to the inward part of the sanctuary, brass gives place to gold. The nearer we come to God’s throne in the Holy of Holies, the more costly and magnificent everything must become. Even snuffers, hinges, and spoons must be of gold. God’s highest service calls for our best in the least things that pertain to it.\n\nThe enumeration of ornaments and utensils in brass and gold, leads to the announcement that Solomon gave up counting the weight, and that the weight of the brass could not be found out. The r.v. margin says, “was not searched out.” In this there is shadowed forth “the unsearchable riches of Christ,” Ephesians 3:8. You cannot weigh them up. They defy calculation. It is only when you get the accumulated experience of all the saints that you can comprehend the length and breadth and depth and height of the love of Christ that passeth knowledge, Ephesians 3:18. See to it that you grow in the grace and in the knowledge of God and of Jesus Christ our Lord, 2 Peter 3:18.\n\nLet there be a sensible advance into the deep things of God. For wood bring stones, for stones iron, for iron brass, and for brass gold, Isaiah 60:17. And may we all leave a finished building behind us when we pass on to see the King!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 8
+ }
+}

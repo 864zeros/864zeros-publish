@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Price of Innocent Blood -- 2 Kings 24:1-9\n\nNote the entail of Manasseh’s sin. He had lived, had been forgiven, and had died years before, but Judah was irretrievably implicated in his sins. The poison had eaten into the national heart, and for the innocent blood which had been shed like water there had been no amends. Notice the emphatic statement that Nebuchadnezzar and the other enemies who came against the land were deliberately carrying out the divine chastenings. They were, as Isaiah puts it, the rod of God’s anger and the staff of His indignation, Isaiah 10:5. How often does God still use evil men as His instruments to chasten us! The best way of escaping them is to commit ourselves to God.\n\nJehoiakim was blatant in his blasphemy, Jeremiah 36:23. He was a very contemptible prince, and was carried in chains to Babylon, Daniel 1:1-4. Apparently he was temporarily restored to his throne, but in the end he perished ignominiously, Jeremiah 36:30.\n\nWhat sorrows befell the Holy City! Though God would have gathered her under the wings of his protecting care, she would not, and therefore the times of the Gentiles began, which would now seem to be hastening to their end, Luke 21:24."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "The Captivity Begins -- 2 Kings 24:10-20\n\nJehoiachin followed the evil path of his predecessors. Again Jerusalem was besieged and Deuteronomy 28:48 began to be fulfilled. The ill-advised revolt of the young king ended in bitter disappointment, as Jeremiah had foretold, Jeremiah 22:24-25; and the final tragedy came on apace, in spite of the insistence of the false prophets that the sacred vessels of the Temple should be returned from Babylon, Jeremiah 27:16. Finally, a sad procession issued from the gate of the doomed city, and the king, his nobles and officials, presented themselves before the enemy, sitting on the ground, clothed in black, their faces covered in their mantles, Jeremiah 13:18. They were at once deported to Babylon with thousands more. The treasures in the Temple and the palace were rifled; and a cry of agony and astonishment arose from Jeremiah and the whole land. See Jeremiah 22:24; Jeremiah 22:28; some add Psalms 42:1-11; Psalms 43:1-5.\n\nZedekiah, Josiah’s youngest son, enticed into a league with neighboring nations against the conqueror, brought upon himself and his people a yet more disastrous overthrow. How foolish man’s wisdom becomes when he departs from the living God! “A wave of the sea driven with the wind and tossed,” James 1:6."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 25
+ }
+}

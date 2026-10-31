@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TH",
+  "commentaryId": "fbmeyer",
+  "name": "1 Thessalonians",
+  "commonName": "1 Thessalonians",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Fruit of Unsparing Labor -- 1 Thessalonians 2:1-12\n\nPaul preached in great conflict of soul because of his passionate desire for the salvation of men. In this, many of the notable servants of God have shared; and we shall not attain to the great end of our ministry unless the seeds we sow are steeped in prayers and tears. The Apostle viewed the gospel as a sacred deposit left with him by God on man’s behalf, 1 Thessalonians 2:4. Do we sufficiently realize that as Christ is our Trustee, entrusted with God’s gift for us, so we are executors of His bequests to our fellow-men, who will have serious charges to bring against us if we hoard for ourselves what was meant for them? The questions which should sustain and quicken us are: “What does God think of my service?-Is He pleased?”\n\nCombined with Paul’s strength of purpose there were the sweetness and tenderness of a nurse. Self-denying labor for his own maintenance took from his eyes their needed sleep, and was another proof of his sincerity and devotion. There was no harm in receiving gifts, but Paul was most anxious to do nothing that would invalidate his testimony, or be unworthy of the Master he served. Admirable example for us all!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "The Apostle’s Glory and Joy -- 1 Thessalonians 2:13-20\n\nThe Christian worker always should wait on God till he gets the word of the message. There is an essential difference between delivering a sermon or an address and delivering a message. The latter is direct, eager; you wait to be sure it is understood; you expect an answer. A gospel message works in those who believe. That its ultimate effect will be to bring us into collision with the world-spirit goes without saying. For this conflict the Christian must be prepared in advance.\n\nThe separation between this true, strong, loving soul and his converts was a bereavement, though only for an hour, r.v. margin, and his heart longed to be with them again. He clung to them the more tenaciously because he had been cast out by his Jewish brethren, and also because he looked for a great revenue of joy and glory to accrue to the Savior’s name. His one purpose seems to have been to accumulate garlands of saved souls, as children make garlands of flowers in spring, that he might lay them at the feet of the Redeemer. Satan hinders, but Jesus helps and smiles His benediction."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TH",
+  "chapter": 3
+ }
+}

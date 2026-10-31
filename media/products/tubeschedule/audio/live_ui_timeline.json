@@ -1,0 +1,56 @@
+{
+  "totalDurationSec": 65.44,
+  "soundtrackWav": "C:\\dev\\864zeros-publish\\media\\products\\tubeschedule\\audio\\live_ui_soundtrack.wav",
+  "scenes": [
+    {
+      "id": "live_step1_audit",
+      "stepLabel": "Step 1 of 4 \u00b7 Audit Google Drive Video Folder (Free Wedge)",
+      "caption": "Scan any Google Drive folder of MP4s \u2014 TubeSchedule calculates exact YouTube API quota burn and stages 8 video rows.",
+      "text": "Scheduling YouTube videos and Shorts from Google Drive shouldn't require monthly SaaS rent or crashing into Google's six-video daily API wall. Inside TubeSchedule, paste your Drive folder and click Audit Folder and Stage Queue.",
+      "start": 0.0,
+      "end": 13.9,
+      "durationSec": 13.9,
+      "durationMs": 13900
+    },
+    {
+      "id": "live_step2_drip",
+      "stepLabel": "Step 2 of 4 \u00b7 Two-Way Google Calendar Sync & 6/Day Quota-Drip",
+      "caption": "Click 'Sync Calendar & Drip to YouTube' \u2014 6 videos schedule into YouTube publishAt today while 2 overflow safely to tomorrow.",
+      "text": "TubeSchedule stages eight videos and calculates twelve thousand eight hundred quota units. Click Sync Calendar and Drip to YouTube\u2014six videos schedule into native YouTube publish-at slots today, while two overflow safely to tomorrow's quota reset.",
+      "start": 13.9,
+      "end": 28.682,
+      "durationSec": 14.782,
+      "durationMs": 14782
+    },
+    {
+      "id": "live_step3_reschedule",
+      "stepLabel": "Step 3 of 4 \u00b7 Drag on Google Calendar to Reschedule Release Slot",
+      "caption": "Move any release event on Google Calendar \u2014 TubeSchedule detects the shift and updates the Sheet & YouTube publishAt UTC slot.",
+      "text": "Every queued video creates a linked Google Calendar event. Reschedule an event right on your calendar, and TubeSchedule automatically updates your sheet and YouTube's native publish-at timestamp.",
+      "start": 28.682,
+      "end": 39.792,
+      "durationSec": 11.11,
+      "durationMs": 11110
+    },
+    {
+      "id": "live_step4_autodrip",
+      "stepLabel": "Step 4 of 4 \u00b7 Arm Hands-Free Midnight-PT Quota-Drip Trigger",
+      "caption": "Enable the background trigger \u2014 LockService mutex protection drips remaining queued videos automatically after Midnight PT.",
+      "text": "Finally, enable the hands-free daily drip trigger. Protected by Google's native LockService mutex, TubeSchedule drips your remaining queue automatically each night\u2014one hundred percent inside your own Google account.",
+      "start": 39.792,
+      "end": 52.894,
+      "durationSec": 13.102,
+      "durationMs": 13102
+    },
+    {
+      "id": "live_step5_outro",
+      "stepLabel": "864zeros \u00b7 FHG Sovereign Workspace \u00b7 Pay Once, Keep Forever",
+      "caption": "Drive Quota Auditor + 2 Videos/Wk 100% Free \u00b7 one-time lifetime Pro Unlock \u00b7 864zeros.com/products/tubeschedule",
+      "text": "Get TubeSchedule on the Google Workspace Marketplace, or test the interactive live sandbox today at eight sixty-four zeros dot com. Sovereign software\u2014pay once, keep forever.",
+      "start": 52.894,
+      "end": 65.44,
+      "durationSec": 12.546,
+      "durationMs": 12546
+    }
+  ]
+}

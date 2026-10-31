@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Split in the Enemy’s Ranks -- 2 Samuel 3:1-11\n\nAbner’s career reveals the principles on which ambitious men build their lives. He was, according to David’s estimate, a great man and a prince, but his soul was eager for his own advancement. “He made himself strong in the house of Saul,” 2 Samuel 3:6, r.v. He knew that David was God’s appointed king and that through him the divine purpose would move, 2 Samuel 3:10; 2 Samuel 3:18; but yet, because it seemed likely to insure his own advancement, he set Ish-bosheth on the throne. It was a deliberate attempt to thwart God’s will, and it failed miserably. “Woe to him that striveth with his Maker!”\n\nIsh-bosheth was a poor weak soul, a mere puppet king, who was set on the throne because he was likely to be pliant in the hands of his great general. Yet even he was aroused to protest when Abner threatened to desert him. And so the alliance between ambition and weakness was broken and the way was made for David to come to the throne of all Israel. In the meantime he ruled at Hebron, waiting, as our Lord waits at the Father’s right hand, till His enemies should be made His footstool, Acts 2:34-35."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Abner Wins David’s Favor -- 2 Samuel 3:12-21\n\nWe cannot defend David’s request for Michal to be restored to him. It inflicted bitter pain on an apparently happy pair, and Michal’s revenge stung him to the quick, 2 Samuel 6:20. But he may have felt it right to insist on his legal status as son-in-law to the late king. It was, however, a needless precaution, as they who wait on God can dispense with expedients which are esteemed by worldly prudence.\n\nWith this exception David maintained a passive policy. The overtures for the transference of the kingdom were made by Abner. It was he who communicated with Israel and Benjamin, and then with David. Thus great events may move around us while we live in the center of God’s will in perfect peace. We must be willing to respond to the stirring bugle-call to action, but we must also have our waiting-times, when the soul is learning to possess itself in patience. The long summer days are needed to prepare for the autumn ingatherings; and the hours spent in Horeb and Carmel prepare for the stirring part that God’s servants must play in the history of their time."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "A Treacherous Revenge -- 2 Samuel 3:22-30\n\nThere is no doubt that Abner was guilty of disloyalty and treachery, but this did not excuse Joab’s dastardly act. He could not claim the right to act as goel-blood avenger-for his dead brother, because Asahel had died a soldier’s death in open war. Joab was probably actuated by jealousy of the military talents, the vast influence and the widespread popularity of the rival general whom he murdered in cold blood, just outside the city of refuge. Evidently he was a fierce, cruel, unscrupulous man, who hurt David more than he helped him, 2 Samuel 3:39. But Joab also was destined to suffer similar punishment in after-years, 1 Kings 2:28-34.\n\nThis world is governed according to a plan. We need not try to climb into the judgment-seat. God is there already. His rewards and punishments befall with greater certainty than we always believe. Whether their schemes are hidden amid the intricacies of state, or open to all eyes, let us be sure that evil men reap as they have sown, and suffer evils similar to those which they endeavor to inflict upon others. We all get our deserts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "David’s Lament over Abner -- 2 Samuel 3:31-39\n\nIt was a noble spectacle when David followed the bier of Abner and wept at his grave. He forgot that this man had been his persistent foe, and remembered only his great personal qualities. The chaplet of elegiacs that he wove for Abner’s grave, was only second to that which he prepared for Saul’s. It is not strange that all the people took notice of it and that it pleased them. We should be particularly careful to disavow all complicity in the evil doings of those with whom we happen to be associated, and to stand clear of the wreckage that floats around us. The honor of God’s cause must be dearer to us than life.\n\nThe cultivation of a noble and generous spirit, like that which David manifested toward Saul and Abner, is an aim to which we should set ourselves with patient care. It is the outgrowth of years of self-discipline, of prayer, of fellowship with God. Life is too short to allow it to be consumed by evil and vindictive thoughts. Hand over to God all thoughts of retaliation! Certainly you must withstand the wrong-doer, when the weak and defenseless are in jeopardy; but for yourself, love and conquer!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 4
+ }
+}

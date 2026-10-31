@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Shadow Turned Back on Life’s Dial -- 2 Kings 20:1-11\n\nWhat a contrast between Hezekiah and the Apostle Paul! To the great Christian hero, death seemed infinitely desirable. He was ready to be offered; it would be gain to depart and be with Christ. But Hezekiah, who had walked before God in truth and with a perfect heart, turned his face to the wall and wept sore as the shadow of death fell upon him. Could anything prove more conclusively how much we owe to the Lord Jesus, who abolished death for those who trust Him?\n\nWho does not know what it is to turn the face to the wall in unutterable anguish? There are moments when we are face to face with a blank wall, and only God can open a door in it. But He did for Hezekiah and He will for you. Only have faith and reckon on God’s faithfulness. Has the shadow gone down on your dial? Has the day of your earnest zeal for God begun to wane?\n\nHave the bright promises of the morning become overcast? Then turn to God with true repentance! Let Him see thy tears of heart-sorrow, and He will restore the years that the cankerworm has eaten. It shall be with thee as in the past. The shadow shall return on the dial and the days of thy youth shall be renewed. There is a sense in which our sun never goes down, but leads our days forward, when the Lord becomes our Everlasting Light."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "A Mistake and Its Penalty -- 2 Kings 20:12-21\n\nGod does not always prolong life in answer to prayer, and we should always leave such things submissively to Him, because He may see reasons why it would be far better for us to be removed from this world of temptation and sorrow. If Hezekiah had been taken away by early death, he would never have incurred the terrible sentence of 2 Kings 20:16, etc.\n\nLet us watch against the sin of ostentation. It was a foolish act on the part of the king, because he aroused in these ambassadors desire and greed, which they communicated to their sovereign. There is too much of this spirit in us all. What a solemn inquiry that is, “What have they seen in thy house?” If that inquiry were put to us, we should too often have to confess that our visitors have not seen our piety, our family worship, the decorous behavior of our children, our love and devotion; but that they have seen our dresses and our ornaments, our best linen and our plate. Alas for us, if these are our treasures, and we have nothing behind them of the priceless jewels and wealth of Christian character! At the best we are only caretakers and stewards; we have nothing that we have not received! 1 Corinthians 4:7.\n\nLet us remember that at any time the Master of the House may arrive! Matthew 24:44."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 21
+ }
+}

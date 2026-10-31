@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Quicksands! Keep Off!\n\nProverbs 5:1-14\n\nIt is a matter for great thankfulness that the Bible, which is God’s book rather than man’s, deals so strongly and wisely with one great evil, which has manifested itself in every age and in every state of society. It speaks boldly and plainly; and all who will meditate on its teaching with a prayerful heart, will be saved from many a painful snare. If we fall it will only be due to our having refused to heed the voice that speaks to us from paragraphs like these.\n\nThe one great caution that we must all observe is in the control of our thoughts. The soul must never lie open to the tide of suggestive thoughts that break along its beach. As of old the watchman kept the gate of the medieval city so soon as darkness fell, so must the purity of God keep watch and ward at eye-gate, ear-gate, and touch-gate, lest some emissary of evil gain entrance and betray the citadel. Let Christ be the custodian of thy soul, whether thou be man or woman, old or young, and let Him impart to thee His own divine and human purity."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 6
+ }
+}

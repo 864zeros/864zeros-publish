@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Removing Germs of Evil -- 1 Corinthians 5:1-13\n\nThe sin referred to in this chapter has been condoned by the Corinthian church, and this proved that the prevalent standard of morals was low. A man had married his father’s second wife-his father having probably died. Such an alliance could not be tolerated. A condemnation of the sin must be pronounced by the whole body of believers, acting in concert with the Holy Spirit resident among them. “It seemed good to the Holy Ghost and to us,” Acts 15:28.\n\nPaul compares the Corinthian church to the Children of Israel, who, after sprinkling the blood, kept the feast of joy within closed doors-a careful search having been made for any atom of leaven that had hitherto escaped scrutiny. So we should put away from our lives, homes, and churches everything that would offend the gracious Paraclete. Since Christ has been slain for us, we must daily feed on Him with festal joy. Our loins must be girded as becomes those about to depart at a moment’s notice. We must be ever on the alert to detect the summons for an exodus out of this dark Egyptian world into the world that is to come."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 6
+ }
+}

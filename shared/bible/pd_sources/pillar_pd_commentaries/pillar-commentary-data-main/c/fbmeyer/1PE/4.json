@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1PE",
+  "commentaryId": "fbmeyer",
+  "name": "1 Peter",
+  "commonName": "1 Peter",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 4,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The New Life in Christ -- 1 Peter 4:1-11\n\nThe Apostle urges the disciples to make a clean break with sin. As our Lord’s grave lay between Him and His earlier life, so there should be a clean break between our life as believers and the earth-bound life, which was dominated by lawless passions. Sometimes God employs the acid of persecution or suffering to eat away the bonds that bind us to our past. Let us accept these with a willing mind. The one condition of reigning with the enthroned Christ is to submit to His cross. Of course, we must die to animal instinct, to the blandishments of the world, and to the temptations of the evil one; but it is quite as important to die to our self-life, whether it be clothed in white or black!\n\nWe are summoned to a life of prayer. But in order to promote fervency in prayer we must be sober-minded and self-controlled, 1 Peter 4:7; loving, 1 Peter 4:8; and faithful to our stewardship of all God’s entrusted gifts, 1 Peter 4:10. Let us cultivate the invariable habit of looking up from our service, of whatever kind, to claim the ability to do it for the glory of God, 1 Peter 4:11."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Suffering as a Christian -- 1 Peter 4:12-19\n\nWe are called upon to share our Savior’s sufferings-not those of His substitution, but His daily self-denial, the hatred of men, the anguish of His soul over the obstinacy and opposition of the world. The soldier who is nearest his leader, charging through the mêlée of the fight, is likely to get the same treatment as is meted out to his prince. It is not strange! It would be strange if it were not so, and if the traits in us that characterize our Lord did not win the same hatred as they won for Him.\n\nThe salvation of the righteous is a task of enormous difficulty. It requires the dead-lift of Omnipotence. Nothing less will suffice than the infinite grace of the Father, the blood of the Son, and the patience of the Holy Spirit. What will be the fate of those who refuse these! Will they appear at the marriage-supper of the Lamb; and if not-where! What a beautiful closing verse! The committal of the soul, not only to the Savior, but to the Creator. After all, He who made can best understand, adjust and satisfy the nature which He Himself has given!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 4
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1PE",
+  "chapter": 5
+ }
+}

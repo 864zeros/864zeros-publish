@@ -1,0 +1,5 @@
+file 'live_step1_hook.wav'
+file 'live_step2_payoff.wav'
+file 'live_step3_configure.wav'
+file 'live_step4_write.wav'
+file 'live_step5_outro.wav'

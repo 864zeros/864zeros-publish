@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Kind Words and Glad Hearts -- Proverbs 15:1-17\n\nA soft answer; the tongue of the wise; a wholesome tongue; the lips of the wise; the prayer of the upright-these keywords touch one of the greatest departments of human influence. If we can rule our speech, or at least hand over our tongue and lips to the keeping of God’s Spirit, what a world of trouble we should save ourselves and others! And God would keep watch over us and for us. See Proverbs 15:3, r.v.\n\nNotice, also, the inducements to a right and holy life! Treasure in the house; answered prayer; the love of God; a cheerful heart; a contented mind-such are some of the by-products and experiences of those whose life is “hid with Christ in God.” When we put first things in the first place, all else is added.\n\nWhat a comfort it is that God searcheth our hearts and knoweth them altogether! Yes, and even when He chastens and corrects us, it is well. There is no bliss comparable to that of the forgiven sinner, who is called into “the secret place of the Most High.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Words in Season -- Proverbs 15:18-33\n\nLearn to be slow to anger. This paragraph describes the even temper which is blessed to live with and blessed to die with. Temper is said to be nine-tenths of Christianity. What best proves a Christian is an even temper. It is told of a Japanese gentleman, who was led by a tract to renounce the use of intoxicants and to accept Jesus Christ, that the immediate effect on his temper was so great that his wife, who had often suffered from his uncontrollable fits of anger, said, “If this is the result of Christianity, I want to become a Christian.” When the missionaries afterward visited the place, they found her and ten other persons awaiting baptism.\n\nAs these proverbs suggest, the quickest method of overcoming and eradicating the wrong is, in the power of God, to cultivate the right. By this we shall tread the way of the wise that goeth upward toward the heavenly life of the angels, and we shall be saved from a hell of misery. See Proverbs 15:24, r.v. Philippians 3:20; Colossians 3:1."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 20
+ }
+}

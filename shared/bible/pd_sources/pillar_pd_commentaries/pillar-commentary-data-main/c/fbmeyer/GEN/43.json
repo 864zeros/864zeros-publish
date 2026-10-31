@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 43,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Brothers Return with Benjamin -- Genesis 43:1-15\n\nJoseph, in giving corn to save his own brethren and the Egyptians from starvation, is a type of our Lord, who gives the bread of life to Jew and Gentile-to all that come to Him in their hopeless need. And in this return of the full money in the sacks we are reminded that salvation is without money and without price. Whatever we bring to enrich Christ He returns to us. His gifts are all of His unmerited grace and favor. Very often we move forward with dread into the unknown; but that dread is the child of ignorance. If only we realized that love is waiting for us there, which does not ask for balm and honey, for spices and myrrh, but just for ourselves, how much happier life would become! Lift up your hearts; a feast awaits you!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Joseph Feasts His Brothers -- Genesis 43:16-34\n\nOur Savior, of whom Joseph was such a striking emblem, knows all about us. Though we may fear Him with a great fear, He is providing for us with a thoughtful tenderness, which adapts itself to our every need. There is water for traveled feet; the benediction of peace for troubled hearts; a feast for hungry souls; tears of love for Benjamin; and a consideration of our very sitting at His table, which reveals His perfect knowledge of us. He waits to manifest himself as He does not to the world. The only thing that can separate is unconfessed sin. But just so soon as this is put away, the flood gates are opened and heart commingles with heart. Do not His mercies lead us to repentance?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 43
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 42
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 44
+ }
+}

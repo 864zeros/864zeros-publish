@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "In Bad Company -- Judges 14:15-20; Judges 15:1-8\n\nWhat strong confirmation is afforded, by Samson’s experience, of the misery of a mixed marriage! This Philistine wife had no real love for him, and was more readily influenced by her own people than by her husband. How could she enter into his desire to emancipate Israel? To carry out his life-purpose of freeing Israel, He must break with her. Notice how this poor wife was visited with the very chastisement from which she hoped, by treachery, to save herself. Compare Judges 14:17 and Judges 15:6.\n\nSamson’s riddle is constantly being verified. We all have to encounter lions. Happy are we if we rend them in the power of the Holy Spirit! And have we not often discovered that the very sorrow, trial, or temptation which we dreaded most and which threatened to destroy us, has yielded the strength and sweetness, the meat and honey, which have enriched us for all after-time? Samson shared these with his mother and father. Let us never keep to ourselves those glorious lessons and results which we may have won in conflicts and sorrows that only the eye of God has witnessed. Let others share their benefit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Mighty against the Foe -- Judges 15:9-20\n\nTo how low a depth had the men of Judah descended, that they should hand over their champion to their hereditary foes? The northern tribes that arose at the call of Gideon rebuked such cowardly treachery. There are things worse than defeat or death. To forfeit honor, to shirk duty, to fail in the supreme call of friendship and loyalty-these are the crimes that belittle the soul and court disgrace. What shall it profit, though we gain the whole world, if we lose our souls?\n\nHow inspiring is the thought that on us also the Spirit of the Lord may come mightily! There is no limit to his gracious and irresistible operations, save that imposed by the narrowness of our faith. Notice how the Apostle piles up his words in Ephesians 1:19. Whatever the cords of evil habits, woven through long years, and however entangling your circumstances, God’s indwelling power can set you free. Yes, and that is not all: At the place where you have won your victories, there shall arise that fountain of water which is fed from the throne of God; and the soul, exhausted by its effort, shall drink and be revived. Lord, cause us so to drink!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 16
+ }
+}

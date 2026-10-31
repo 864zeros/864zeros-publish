@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "DAN",
+  "commentaryId": "fbmeyer",
+  "name": "Daniel",
+  "commonName": "Daniel",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Resurrection and Judgment -- Daniel 12:1-13\n\nMichael was the guardian spirit of the Jewish people. When the time of trouble has reached its climax, whether in national or individual life, help is near.\n\nThe hope of resurrection, of the life beyond the darkness of their times, animated the hearts of the Chosen People. In the same way the Apostle Paul refers to it, 1 Corinthians 15:58. The national resurrection of Israel is without doubt included but the resurrection at the last, when that of the just shall precede that of the unjust by the millennium, is clearly the topic of these wonderful words. Daniel’s prophecies were to be sealed, because their entire fulfillment was not to take place for many days. Three and a half probably stands for three and a half prophetic years, which, on the year-day system, gives 1260 days or years, and is therefore equivalent to the forty-two months of Rev 11:2; Revelation 13:5. This is the time of the world-power, half the perfect number seven.\n\nThe supremacy of the Gentile kingdoms Isaiah 2,500 years, of which the latter half has nearly expired, and the Chosen People will not much longer be scattered. It is an interesting fact that, calculated on the lunar measure, these concluding dates have-according to the calculations of the late Dr. Grattan Guinness-just expired. Let us go our way, watch and pray, and at last stand in our lot."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 1
+ }
+}

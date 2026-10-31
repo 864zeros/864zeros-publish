@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Thou Art the Man -- 2 Samuel 12:1-14\n\nA year followed on his sin, but David gave no sign. He describes his condition during that awful time in Psalms 32:3-4. Conscience scourged him incessantly, but he did not return to God until Nathan had been sent to fetch him. The Good Shepherd went after that which was lost until he found it. “He restoreth my soul!” But soul-agony is not enough, keen though it be; there must be confession.\n\nNathan’s parable was the mirror in which the true enormity of the king’s sin was held up to his face. He was judged, and he judged himself. By the manifestation of the truth, Nathan commended himself to the king’s conscience, as in the sight of God. And finally came the home-thrust-Thou art the man. The words of confession were immediate and deeply sincere. There was no thought of the human wrongs he had done. All were included in the great sin against God. “Against thee, thee only, have I sinned.” And the confession was met, as it always is, by an instant assurance of pardon-“The Lord… hath put away thy sin.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Accepting the Lord’s Judgment -- 2 Samuel 12:15-31\n\nWhen Nathan had gone, David beat out his brief confession into Psalms 51:1-19. He knew that he was clean, because purged with hyssop, Exodus 12:22; that he was whiter than snow, because the hand of the Redeemer had touched him, and the joy of God’s salvation had been restored. And now he bowed himself before the train of evil consequences that must ensue. Sin may be forgiven, but the Father must needs chasten his child.\n\nThe little babe died. It cuts us to the quick when innocent children suffer for our wrong-doing. Two years after, David’s sin was repeated by one of his sons, while another sought to dispossess his father of the throne. In Amnon’s offense David beheld the features of his own passion, and in Absalom’s revenge, his own blood-guiltiness. Psalms 41:1-13; Psalms 55:1-23 are supposed to record his sufferings during those dreary years, when it seemed as if the sunshine had passed forever from his life. The wonder is that he treated Rabbah so harshly; but it may be, as some think, that its fate was decided during the months which preceded his confession, when the misery of his soul made him petulant and exacting.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 13
+ }
+}

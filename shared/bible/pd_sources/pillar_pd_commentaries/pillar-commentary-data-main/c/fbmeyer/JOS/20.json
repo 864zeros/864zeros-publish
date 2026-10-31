@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Cities of Refuge -- Joshua 20:1-9\n\nThese arrangements carried out Numbers 35:9-34. Remember the distinction between deliberate murder and unintentional homicide. Only those who had committed the latter were eligible for refuge.\n\nThe fugitive told his story at the gate and was admitted provisionally, Joshua 20:4. His case was afterward investigated by the citizens or their delegates; and if his story were found correct, he might stay till the death of the high priest. This functionary was a type of our Lord; and thus the death of each high priest pre-signified that death by which captive souls are freed and the remembrance of sin made to cease.\n\nThe cities were placed so as to be within easy access from all parts of the country. See Proverbs 18:10; Hebrews 6:18. It is an urgent question for us all, Are we within the city, the walls and bulwarks of which are salvation?"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 21
+ }
+}

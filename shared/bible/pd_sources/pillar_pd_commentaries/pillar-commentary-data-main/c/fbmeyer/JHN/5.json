@@ -1,0 +1,83 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Weakness Made Strength -- John 5:1-9\n\nAn interval of some months lies between the previous chapter and this, in which many of the incidents of our Lord’s Galilean life took place. John does not touch on them, because they had been described in the Synoptic Gospels, and because he wished to concentrate all his force on the great conflict which our Lord waged in Jerusalem, the stronghold of Jewish prejudice. He also chose the incidents which led to our Lord’s discourses, and served as the text of his words.\n\nThe pool of Bethesda had medicinal properties. It was an intermittent spring. There must have been something in this man who lay at its brink which specially attracted Jesus. He saw that he had faith to be healed, and therefore made a direct challenge to the will of the sufferer. As soon as the appeal was made, he opened his heart to Christ’s power. Through his expectant faith new energy poured into his being.\n\nAre you a withered soul? Healing and wholeness are in Christ for you. Receive from Him the power that waits to flow through your wasted muscles. Believe that it is passing through you, and act accordingly. Spring to your feet, roll up your bed, and carry that which has so long carried you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Sabbath Work That Pleases the Father -- John 5:10-18\n\nIn the foregoing incident our Lord not only healed the sufferer after thirty-eight years of deferred hope, but did so on the Sabbath, and bade him carry his bed home. This clashed with Pharisaic prescriptions; but the man was of course right to infer that He who would work so great a miracle was greater than either the Pharisee or mere ritual. The religious leaders of that time, like those of all time, could not tolerate the setting up of an authority superior to their own, by one who was outside their ranks; and they accused Jesus of Sabbath-breaking. His judges, however, were little prepared for His line of defense, which revealed the depths of our Lord’s inner consciousness. First, He spoke of God as His own Father, making Himself God’s equal. See Philippians 2:6.\n\nSecond, He said that God was working through His life and had energized Him to perform that miracle of healing. It was not His own deed but the Father’s in Him and through Him. If, then, they condemned it, they were in direct collision with the Infinite One, from whom the Sabbath law had originally come."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "The Father Working through the Son -- John 5:19-29\n\nThe relationship of our Lord to the Father was such that He felt Himself competent to fulfill all the functions of the Divine Being. Is it God’s prerogative to raise the dead? It is also Jesus Christ’s. The Son quickeneth whom He will, John 5:21. Is it the divine right to be the judge of man? It is also the Redeemer’s right.\n\nSee John 5:22. Is it the peculiar attitude of God to be the fountain of life, so that life, inherent, underived, and perennial, is ever arising in His nature, sustaining here an angel and there a humming-bird? This is also an attribute of our blessed Lord. So hath He given to the Son to have life in Himself, John 5:26. The entire sum of the attributes of Deity are resident in the nature of the Son of man. But though all divine attributes were his, and might have been called into operation, He forebore to use them, that He might learn the life of dependence and faith, the life which was to become ours towards Himself.\n\nHe did nothing apart from the Father, John 5:19, etc. No vine ever clung more closely to its trellis, and no child to its mother, than He to the Father. See Galatians 2:20; Hebrews 12:2."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "Jesus’ Works His Sufficient Witness -- John 5:30-38\n\nThe one desire and purpose of our Lord was to do God’s will. We cannot penetrate the mystery of His ineffable being, but clearly, so far as His human nature was concerned, he had a will which could be denied and subordinated to the Father’s. See John 5:30; John 6:38; Luke 22:42. It meant shame, a breaking heart, a soul exceeding sorrowful, the cry of the forsaken, but he never swerved. He clung to it as to a hand rail down the steep dark staircase that led to Calvary. Let us live according to God’s will.\n\nIt feeds the spirit, John 4:34. It clears the judgment, John 5:30. It gives rest and tranquility to the heart, Matthew 11:29. It is the key of certain and assured knowledge, John 7:17. It introduces us into a great circle of others, who in the past and present, in heaven and on earth, are living with the same purpose. Our Lord cites as allies John the Baptist, John 5:6; the Scriptures, John 5:39; and Moses, John 5:45.\n\nChoose this life policy! There is no other way! Remember that God’s will is goodwill, and that His love is endless and changeless."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 39,
+    "content": [
+     {
+      "text": "Willful Rejection of Truth Condemned -- John 5:39-47\n\nOur Lord was accused by the Jews of Sabbath breaking. There were many grounds on which He might have claimed exoneration, but He forbore to use them. He dwelt on these things very lightly, lest He should direct men’s attention to Himself, His one aim being to bring glory to His Father. In utter self-oblivion; in distinct refusal to act on His own authority-that is, to come in His own name; with the one desire to reveal the inner source of His life, Jesus said, I am come in my Father’s name, John 5:43. Let us learn not to be too careful of our own reputation, standing, or honor; but to live at first-hand, taking our orders and the power to fulfill them direct from Christ. Too often we consult this man’s opinion and that person’s whim, and our course becomes tortuous and uncertain.\n\nWhat new interest we should take in the Pentateuch, if we really believed! John 5:46."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 6
+ }
+}

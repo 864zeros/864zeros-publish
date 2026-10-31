@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "AMO",
+  "commentaryId": "fbmeyer",
+  "name": "Amos",
+  "commonName": "Amos",
+  "numberOfChapters": 9
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lord’s Word Must Come True -- Amos 3:1-15\n\nThe closer our relationship with God, the more searching His scrutiny and chastening. The sins of God’s children which may seem of slight consequence are rigorously dealt with by their Heavenly Father, who loves them too well to allow their life to be permanently injured. It is because God loves us that He is so quick in detecting the least symptoms of disease. But we must agree with Him as to the sinfulness of sin, the need of cleansing, the hopelessness of our old nature, and the world’s urgent need both of our sympathy and sacrifice. So only shall we walk with God as Enoch did. The soul that is one with Him is on the alert, as is the traveler who hears the lion’s roar in the forest. Watch; ye know not the hour!\n\nThe nobles of Egypt and Philistia are summoned to view the sins of Samaria and to confirm the justice of her penalty. From all sides the invader would descend on the recreant land. Only a fragment should escape, like the small piece of a lamb rescued from the jaws of the savage beast of prey. The couch of luxury, the bed of sloth, the golden calf of Beth-el-all marked the degeneracy of the Chosen People. May the sorrows through which the world is passing at this hour be the means of cleansing human society from these same evils that our Christian civilization may escape the penalties that overtook Israel!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "AMO",
+  "chapter": 4
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Granting Appeal to Caesar -- Acts 25:1-12\n\nHow inveterately must these Jews have hated Paul, when after two years they still thirsted for his blood! It would never have done for the trial to be transferred to Jerusalem, as the Jews had requested. If Paul had been brought thither, many plots might have been set on foot for the purpose of ending his life, especially if Festus proved as amenable to a bribe as had his predecessor. Festus was quite prepared to humor the Jews by granting such a transference, and there was no way of averting it other than Paul’s availing himself of his right as a Roman citizen to be tried by the emperor himself.\n\nThe appeal was a great surprise. Festus himself was probably annoyed. It would not be agreeable to him to have his jurisdiction superseded on this the first occasion of holding a public inquiry. But there was no question that the appeal was admissible, and Festus had therefore no alternative. How strangely God was fulfilling His own word, So must thou bear witness also at Rome! Paul had always desired to visit the imperial city, to bear thither the message of the Cross; but he never expected to go under the safeguard of Roman soldiers and at Roman expense. “Deep in unfathomable mines of never-failing skill” God fulfills His purposes."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Seeking Charges against His Prisoner -- Acts 25:13-27\n\nMark the difference with which these two men regarded our Lord. To the one, He was the supreme object of his affection and his life; to the other, He was “one Jesus.” Notice also that Paul had made clear his belief that Jesus was alive. Evidently the risen Christ had been the burden of Paul’s preaching. Even Festus had come to understand that, although he would not accept it as true.\n\nThe Apostle’s audience on the morrow was the most dignified and influential that he had addressed up to this point. As the Lord told Ananias that Saul had been chosen to bear His name before Gentiles and kings and the Children of Israel, so it came to pass. See Acts 9:15. There is no doubt that Paul was lifted far above the thought or fear of man by the consciousness that the Lord was standing by to strengthen him, so that through him the gospel might be fully known. Let us view every circumstance in our experience as the lamp-stand on which to place the lamp of testimony. It is a good thing to ask, “How far will this promote my Lord’s business?”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 26
+ }
+}

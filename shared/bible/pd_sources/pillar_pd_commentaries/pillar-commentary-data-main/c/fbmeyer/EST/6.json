@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EST",
+  "commentaryId": "fbmeyer",
+  "name": "Esther",
+  "commonName": "Esther",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Gratitude for a Forgotten Service -- Esther 6:1-14\n\nThere was a divine providence in this royal sleeplessness. On the very next night Haman would be hanging on the gallows, and it would be too late for him to render this honor to the hated Jew. Therefore, on this night the king must be reminded of a forgotten incident, must ask if the chivalrous informant had been rewarded, and must, through Haman, decree his splendid reward. When we are suffering indignity at the hand of our enemies, who seem to pass out of our lives without making reparation, let us turn to this story, and remember that as honor came to Mordecai through Haman, so honor and reparation shall accrue through the very circumstances and people that seem most threatening. The wrath of man is made to praise God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 7
+ }
+}

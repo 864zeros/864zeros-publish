@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Cure for Leprosy -- 2 Kings 5:1-14\n\nFrom Assyrian monuments we learn that at this period Syria regained her independence from under the yoke of Assyria, and probably it was during this struggle that Naaman gained his great victories. Note the suggestiveness of the phrase, “The Lord had given,” which teaches that the hand of God was guiding heathen as well as Hebrew history. The realm of God’s providence is as long as time, and as broad as the earth.\n\nThe destruction of this poor child’s home and her captivity must, at the time, have seemed to be an unexplainable disaster from which there could be no relief; and yet it enabled her to bring about a great deliverance, which has shone on the page of Scripture, giving inspiration to tens of thousands. She rose above her sorrows, and by faith wrought victory out of defeat. By preferring his own way to God’s, Naaman came dangerously near returning home unhealed. We must adopt God’s method of salvation, however humbling to our pride. “I thought,” will wreck us; “To thee, O Lamb of God, I come,” will save us. Note the combination of warrior’s strength with the flesh of a little child-strength married to purity and simplicity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Penalty of Greed -- 2 Kings 5:15-27\n\nNaaman was so grateful that he came twenty miles out of his way to render thanks to the man of God, bringing a great sum as a gift. Notice his whole-souled desire to worship Jehovah, as shown in his fear lest his official connection with idolatry might be held to compromise him; and in his ready beneficence toward Gehazi, who, he supposed, had come in Elisha’s name. All these are symptoms of a noble soul on whom the Holy Spirit had been at work. We are here reminded of Cornelius, Naaman’s counterpart in the New Testament, Acts 10:1. What a comfort it is to believe that God has been influencing men like this in all the centuries, fashioning them, though they knew him not, till the hour arrived when He spoke to them through prophet or apostle.\n\nGehazi is the sad counterpart of Judas. Like the traitor, he revealed the hardening effect that association with pure goodness may have on the human conscience. If it does not produce life unto life, it issues in death unto death. The same sun that bleaches linen, tans the hand that exposes it to the sunlight."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 6
+ }
+}

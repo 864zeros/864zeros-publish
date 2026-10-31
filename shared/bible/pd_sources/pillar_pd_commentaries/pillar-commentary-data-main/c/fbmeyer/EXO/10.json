@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Pharaoh Still Refuses to Submit -- Exodus 10:1-11\n\nPharaoh was capable of being a noble and glorious soul, through which God might have shown forth all His power and glory, Exodus 9:16. But he refused, and the profanation of the best made him the worst. There is a crisis in every soul-history up to which God’s methods appear likely to turn the proud to Himself; but if that is passed, those methods seem only to harden. Just as in winter the thaw of the noon makes harder ice during the night; so, if the love of God fails to soften, it hardens. In this sense God seemed to harden Pharaoh’s heart. The real conflict lay with his stubborn will, which would not yield, Exodus 10:3; although his servants advised him to let the people go, Exodus 10:7. The only result was that the king recalled the Hebrew leaders and made another effort at compromise-“Go now ye that are men.” The children are always the key to the situation."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The Plagues of Locusts and of Darkness -- Exodus 10:12-29\n\nThe locust is the most terrible plague of Eastern lands. The heat intense; the air languid; the sound as of a strong breeze; the sun darkened by a cloud of living things, which cover the earth several inches thick and devour every green thing, Exodus 10:15. Notice the extorted confession, at last, of sin, Exodus 10:16. Many hearts and lives are devastated by these locust-cares, which eat up all the blades of promise and darken heaven. At the first trace of genuine repentance, however, they are borne away.\n\nThe Hebrew word for darkness is the same that is used in Genesis 1:2. The sun was one of the chief deities of Egypt, hence the horror that paralyzed her population, Exodus 10:23. But there was light in Goshen. See Psalms 112:4 and John 8:12. Pharaoh proposed one last compromise. See Exodus 10:24. Moses made a grand answer. The whole universe shall share in our redemption, Romans 8:20-21. Jesus will be content with nothing less than all the purchased possession."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 11
+ }
+}

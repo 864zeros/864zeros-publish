@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus’ View of Marriage -- Matthew 19:1-12\n\nDivorce was common among the Jews of that decadent age, being justified by Deuteronomy 24:1. Concerning this it should be remembered that this legislation, though in advance of the standards of its age, was a distinct concession to the state of morality which had then been reached. You can legislate only slightly ahead of the general maxims and practices of the people, else you discourage them and bring your laws into disuse.\n\nThe Lord takes us back to the original constitution of the family, where the one man was for the one woman. The only act that justifies divorce is the act which violates the marriage vow. Some are debarred from marriage by circumstances, but for such there is provided special grace, if they will seek it. Some refuse marriage in order to be more free for their life-work. Christ does not set these above others. He does not put special honor on celibacy: but in Matthew 19:13-14 places special emphasis on the beauty of family life."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "How to Enter the Kingdom -- Matthew 19:13-22\n\nYouth, with all its fervor and impetuosity, is very beautiful in itself and very dear to Christ. Here youth was combined with station, wealth, and noble character. It is not necessary that all should sell their goods, and distribute the proceeds. It is a harder task to retain wealth and administer it for God. But it was necessary that the Master should prove to this young man that he was not fulfilling the Commandments quite so perfectly as he had supposed.\n\nHow few would wed Poverty today if they had to choose! Yet great riches must lie hidden beneath her rustic dress. Christ chose her as His companion during His human life, and St. Francis of Assisi said that he took her for his bride. In Matthew the beatitude is phrased: “Blessed are the poor in spirit,” but in Luke it stands: “Blessed be ye poor.” See James 2:5."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Riches in the Kingdom -- Matthew 19:23-30\n\nMoney is not an unmixed good. It brings in its train many temptations. It is easier to bear poverty than wealth-easier to be a saint when life is hard than when prosperity lavishes her gifts.\n\nWhen the Pope was showing St. Francis of Assisi the treasures of the Vatican, he remarked: “We can hardly say with the Apostle, ‘ Silver and gold have we none.’” Francis replied aptly and incisively: “Yes, holy father, and I suppose we can hardly say either, ‘ Rise up and walk.’” Often it is in the poverty of earthly circumstances that the soul becomes possessed of an authority which wealth cannot buy.\n\nWhat compensations there will be hereafter in the times of the restitution of all things! See Acts 3:21. Then the unsatisfied yearnings for husband, wife, or child; the love which craved for love; the lonely, the homeless, the pilgrim, will neither hunger nor thirst, because the Lamb will lead him to the fountains of waters of life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 20
+ }
+}

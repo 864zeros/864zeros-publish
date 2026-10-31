@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2TH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Thessalonians",
+  "commonName": "2 Thessalonians",
+  "numberOfChapters": 3
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Held Firm and Guarded from Evil -- 2 Thessalonians 2:13-17; 2 Thessalonians 3:1-5\n\nThis closing section is full of comfort and inspiration. Believers in Christ are the beloved of God; their salvation dates from His eternal love and choice, and His purpose for us is being wrought out in our characters by the Holy Spirit, who ministers to us through the truth. Our comfort is eternal and our hope is unfailing.\n\nPaul was now preaching at Corinth, and he asks that the gospel may run, 2 Thessalonians 3:1, r.v. Oh, for a divine impatience that we may be content with nothing short of this! When unreasonable and wicked men try you, turn to the Lord, who is faithful to His promises and to His saints. The stronger the gales of opposition and hatred, the deeper should we become established and rooted in the truth. The word direct in 2 Thessalonians 2:5 may be rendered, make a thoroughfare through; that is, we desire that our hearts should be a highway down which the love of God and the patience of our Lord may pass to a world of sin and fret. Let us ever connect the patience and kingdom of our Lord, as in Revelation 1:9."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 6,
+    "content": [
+     {
+      "text": "Separate; Industrious; Persevering -- 2 Thessalonians 3:6-18\n\nFrom his high expectations of the Advent, the Apostle turns to the prosaic commonplaces of daily toil. There was need for this, because the expectation of the speedy return of Christ was disarranging the ordinary course of life and duty. People were neglecting the common round of daily tasks, and idlers were imposing on Christian generosity. Against these the Apostle sets his own example of sitting far into the night at his tent-making. See 1 Thessalonians 2:9. The best attitude for those that look for their Lord is not in pressing their faces against the oriel window, to behold the chariot of their returning Master, but in plying their toil with deft hands and consecrated hearts.\n\nNote that parting salutation, 2 Thessalonians 3:16, and let us believe that the God of peace is causing peace for us at all times and in all ways. Even storms are forwarding our boat to its haven, and we shall be borne in with the flood tide of His mercy. Every wind is a home wind to the child of God, setting in from the quarter of His love. Every messenger, however garbed, brings God’s salutation and benediction."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TH",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 1
+ }
+}

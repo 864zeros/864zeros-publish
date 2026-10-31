@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Following a Plain Course -- Acts 11:1-18\n\nIt is very interesting here to find Peter on the defensive. We have always thought of him as masterful and strong, the born leader of men, whose authority was absolutely indisputable. But here we see him taken seriously to task by the mother Church, and compelled to show the grounds of his unprecedented action. Here also appears the first clear indication of the rift which was, in due course, to develop in the Church, between the converted Jews, who insisted that Gentiles must become Jews before becoming Christians, and those of more liberal views, who began to understand that in Christ Jesus, neither circumcision nor uncircumcision availed anything, but a new creature, Galatians 6:15, and faith working by love, Galatians 5:6. This division was the cause of Paul’s embittered and life-long persecution.\n\nBut the first decision of those in the church in Jerusalem was a perfectly just one, Acts 11:18. The facts compelled a favorable verdict upon Peter’s action. They tacitly confessed that the seal of God’s approval had been unmistakably affixed to his action, and that he had no alternative. When a man lives in union with the Spirit of God, crooked things become straight and rough places plain, Isaiah 40:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 19,
+    "content": [
+     {
+      "text": "Knitting Together the Church -- Acts 11:19-30\n\nThe development of God’s plan is still further disclosed in the events recorded in this section, which describe the same phenomenon of Gentile conversion, but in different circumstances. In this case, it was not an Apostle that was God’s chosen instrument, but a few unknown and unrecognized disciples, who were fleeing north from persecution, and had reached the gay, volatile city of Antioch. The hand of the Lord was with them, as it certainly had been with Peter, and large numbers of converts were gathered into a church. In this instance, also, the mother church felt bound to make inquiry, so they sent forth Barnabas, Acts 11:22.\n\nBarnabas was a good man, and his unaffected piety enabled him to recognize at once that this movement was of God. All the signs of true conversion were present. He saw undoubted evidence of the grace of God, and pleaded with the new converts for tenacity and constancy. The secret of perseverance is in the phrase to cleave unto the Lord, Acts 11:23. In addition to the other beautiful traits of his character, we must add the spirit of tender brotherhood that carried Barnabas to Tarsus to find Saul."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 12
+ }
+}

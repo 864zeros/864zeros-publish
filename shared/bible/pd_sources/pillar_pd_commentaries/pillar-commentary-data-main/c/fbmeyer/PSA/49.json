@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 49,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Folly of Trusting in Riches -- Psalms 49:1-20\n\nHere is a proclamation worthy of the hearing of all the world. The psalmist is listening to voices unheard by ordinary ears. Be sure to listen to God’s voice, and then unfold His dark sayings in music. However dark they may seem in their mystery and awe, they may be uttered in song. See Revelation 15:3-4.\n\nThe burden of the psalm is the impotence of wealth. The millionaire cannot prolong the life of his sick child. And even if, like Queen Elizabeth, he cries on his dying bed: “A million of money for a moment of time!” the sand passes unheeding through the hour-glass. He must leave stocks and shares, jewels and gold, at the summons of Death, described in Psalms 49:14 as the shepherd who calls his flock to fold it in Sheol, R.V. How different the lot of the righteous! As eternity dawns, they are redeemed from the power of the grave and pass to the bosom of God.\n\nWhat are the riches and glory of this world compared with the sense of God’s presence in the humble and contrite heart! To have that is to have the essence of all! “Whom have I in heaven but thee? And there is none upon earth that I desire besides thee,” Psalms 73:25."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 49
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 48
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 50
+ }
+}

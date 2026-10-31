@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOS",
+  "commentaryId": "fbmeyer",
+  "name": "Joshua",
+  "commonName": "Joshua",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Lesson of Israel’s History -- Joshua 24:1-15\n\nThe previous chapter contains Joshua’s own last words of warning to Israel; here he is God’s mouthpiece: “Thus saith the Lord God of Israel.”\n\nThere is, first, the recapitulation of past mercy. From time to time we should definitely recall, for our children’s sake, the divine interpositions in our national and domestic life.\n\nIt is interesting in the opening words to learn that Abraham was called out of an idolatrous family. This was the pit whence he had been digged, Isaiah 51:1. He was a Gentile before he became a Jew; and was familiar with all the seductions of a lower religious type before he definitely stood for the only true God. It took long to eradicate this evil strain from Israel. During their sojourn in Egypt they had yielded to the fascinations of idolatry, Joshua 24:14. Joshua at least had made his choice! What a blessed thing for a family, when the parents make the avowal of Jos 24:15. Why not from henceforth?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Joshua’s Last Service to His People -- Joshua 24:16-33\n\nJoshua did well to discourage their proud vauntings, and to show that the people could not in their own might realize God’s ideal, Psalms 105:4. The book of Judges is a bitter commentary on these lofty words.\n\nWhat the stone of witness was to Israel, the ordinances of the Lord’s Supper and Baptism are to the Church and to the world. The walls of our private chambers have listened to our prayers and tears. God help us to be true to them!\n\nJoshua and the elders, while they lived, were a steadying influence to Israel. Such was the influence of the Apostles on the early Church. Let us learn the value of character. Compare Joshua 24:32 with Genesis 50:25 and Exodus 13:19. Take heart! The fulfillment of God’s promise may tarry, but His word is sure as the morning light, Hosea 6:1-4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOS",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 1
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GAL",
+  "commentaryId": "fbmeyer",
+  "name": "Galatians",
+  "commonName": "Galatians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Righteousness Based on Faith -- Galatians 3:1-10\n\nThe strong tendency of the Galatian Christians to depend upon ceremonies or upon legal obedience, in addition to their faith in Christ, elicits in this chapter a magnificent demonstration of the simplicity and sufficiency of faith alone.\n\nFaith had underlain the commencement of their Christian life, Galatians 3:1-5. They had found peace with God through faith. Through faith they had received the fullness of the Holy Spirit. As they had begun, so let them finish!\n\nFaith had been the means, too, of Abraham’s acceptance with God, Galatians 3:6-10. From the first the gospel of faith had been proclaimed to him by the divine Spirit. Long before he had become a Jew by the initial rite of Judaism, he had been a humble believer in God’s promise, on the basis of which he was reckoned righteous. Simple faith was the only condition that he had fulfilled, and the promise that all flesh should be blessed through him had been given when he was still a believing Gentile. Surely what had sufficed for the father of the faithful was good enough for his children! Let each reader see to it that he does not merely believe about Christ, but believes in Him, so as to be no longer under the curse, but within the blessing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Inheritors of the Promise -- Galatians 3:11-19\n\nWe are not under ceremonial law, as contained in the precepts of Leviticus. Our Savior has perfectly fulfilled them on the behalf of the Jewish people, whom He represented from His birth until His death. The law of ordinances is then abrogated on their behalf; and we Gentiles have never been placed under its thrall. As to the curse that is uttered against every one, whether Jew or Gentile, that offends against the moral code declared in the Ten Commandments at Sinai, our Savior has redeemed us from that by becoming accursed for us. There is nothing for us to do but to trust in His finished work, and to enter upon the same heritage of blessed service as was unfolded to Abraham in Genesis 12:1-13.\n\nThe Mosaic dispensation was a parenthesis in God’s dealings with man. It was intended to produce conviction of sin. When God’s ideal is held up before us, we become conscious of our deformities and our sins, and are driven to Christ. Let us see to it that we are truly united to Him who is the predicted seed of Abraham; for as we stand in Him, we become heirs to all the wealth of promise which is contained in the ancient covenant, made to the father of all who believe."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 20,
+    "content": [
+     {
+      "text": "The Law Leads to Christ -- Galatians 3:20-29\n\nThe Mosaic law was not designed to be the final code of the religious life, but to prepare the soil of the human heart to receive Jesus Christ in all the fullness of His salvation. It was the tutor of the Hebrew people, to enable them to become the religious teachers of mankind. It could not, therefore, take the place of the great covenant of grace, which had been initiated with Abraham before he had received the rite of circumcision, and when he thus stood for all who believe, whether Jew or Gentile. The mistake of those against whom Paul contended was that they treated as permanent a system which was temporary and parenthetic in its significance.\n\nWith many individuals now, as with the Hebrew race, there is often a period in which the conscience is confronted with the holy demands of God’s law, which men cannot keep; but when they discover the full grace of God in Christ, they no longer suffer at the hand of the schoolmaster, but become as children in the Father’s home. They put on Christ and stand accepted in the Beloved, and understand that they are in unity with all who believe. Theirs are all the promises that were made to Abraham, and as his spiritual children they claim their fulfillment."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 4
+ }
+}

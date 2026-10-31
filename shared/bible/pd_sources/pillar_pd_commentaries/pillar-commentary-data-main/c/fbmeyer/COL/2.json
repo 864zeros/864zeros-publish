@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "COL",
+  "commentaryId": "fbmeyer",
+  "name": "Colossians",
+  "commonName": "Colossians",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Established in Their Faith -- Colossians 2:1-12\n\nIf you know Christ, you can lay your hand on the treasures of wisdom and knowledge. They are matters of daily experience. The Apostle’s aim in this chapter is to put his converts on their guard against those who might divert them from their simple faith in Jesus, and their sufficiency in Him. The keynotes are Take heed and Let no one.\n\nThe first act of the Christian life is to receive Christ, and every moment afterward we must continue receiving Him. The act must become an attitude. Breathe in the love and power of Jesus. Take deep breaths. Then we shall be rooted in Him in secret, and built up in Him in our outward walk and behavior. If we have Christ, we have all God’s fullness, and this is easily accessible.\n\nLike Jacob’s ladder, He links us with God. What need have we for celestial beings, like those invented by the Gnostics, or for the rite of circumcision, as insisted on by the Jews? We have everything in Jesus. He has fulfilled the Law in all respects on our behalf. Let us put the waters of entire surrender and consecration between our past, our sins, and the world, and rise into His life, the life of resurrection glory and power."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Avoiding Errors -- Colossians 2:13-23\n\nThe reiteration of the prepositions in and with emphasizes our close identification with our Savior. Such we are in the purpose of God, and so we should be in daily experience. In union with Him we have once and forever put away the sins of the flesh, have lain in His grave, have passed to the heavenside of death, and are living under the blue sky of acceptance with God. Our Master’s victory is potentially ours. He won it, but we may share its fruits. Yet faith must apprehend and affirm these blessings. The land of Canaan is ours by right, but every inch has to be claimed by faith. “Faith is an affirmation and act that bids eternal truth be fact.”\n\nWe must not allow our religious life to become a piece of outward ritual, Colossians 2:16-17; nor permit the supposed mediation of angels to obscure the supreme majesty of our Lord, Colossians 2:18-19. We who have died with Christ must not be always regulating ourselves by the don’ ts of the Law. Let us enter Christ’s more intimate fellowship and live on the positive side. Ours should be the freedom of a full life, and the ampler vision of the mountains. Nothing else really avails against the indulgence of the flesh."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "COL",
+  "chapter": 3
+ }
+}

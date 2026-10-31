@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Great Blessings through Christ -- Romans 5:1-11\n\nWe stand in grace; we look for glory. Our standing is sure, although apart from our feelings or deserts. It is ours forever, through union with the living Christ. It is our admission to the home of God’s elect. We have passed the threshold and have received, in the antechamber, the new white robe. But being in the house we find several stories or tiers of ascent.\n\nThey are marked by the phrases, not only so and much more.Starting from faith, the staircase mounts from peace to hope, Romans 5:2; from hope to love, Romans 5:5; from reconciliation to salvation and life and joy in God, Romans 5:9-11, so that whatever He does, as well as whatever He is, awakens in our hearts responsive admiration and glad consent. Stand on these successive terraces in the mountain climb to take your breath and behold the far-spread landscape. Let us not be content with the ladder foot when all these rounds of light invite us. Especially ponder Romans 5:10, where the Apostle distinguishes between reconciliation and salvation. What music there is in that wonderful phrase, saved by His life! By His life for us in heaven and in us by His Spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Death through Adam, Life through Christ -- Romans 5:12-21\n\nThis is the profoundest and most fundamental section of the whole Epistle. It contains an insight into the deep things of God, 1 Corinthians 2:10. We must read it slowly and thoughtfully many times in order to catch its drift. In these comments we can only skim in the most superficial manner across the surface.\n\nWe are here taught the unity of the race, not only in Adam, but in Christ. Adam’s sin has affected the standing of every man; but the grace and the obedience of the “One Man,” Jesus Christ, have secured for all men the offer of the free gift. The guilt that lay upon the race by the sin of Adam has been removed from the race by the obedience of the Son of man to the Cross. None, therefore, are condemned, on account of that first transgression, or doomed for that primal fall. In a sense, all are made righteous; that is, all stand before God on the basis of their individual, rather than their racial, responsibility. We are not condemned with Adam, but may be condemned, if we refuse to avail ourselves of the grace of Jesus Christ.\n\nAll that sin forfeited is put within our reach. Nay, we may reach higher heights than Adam, if we will only receive the abundance of the grace of Christ."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 6
+ }
+}

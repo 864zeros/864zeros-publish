@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 20,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Boasting before the Battle -- 1 Kings 20:1-15\n\nBen-hadad’s insolent demand indicated how low Israel had sunk. The worship of Jezebel’s gods had wrought moral degeneracy. Let us never forget this lesson. When national religion fades and our churches are deserted; when the Bible loses place in education, and family prayer fades out of the home, dry-rot and decay eat away the strength of the national heart.\n\nAhab’s answer was better than might have been expected from such a man, but it would have amounted to little beyond a stalwart boast if there had not been other influences at work on the behalf of the chosen race. It may be that at this crisis, ceaseless prayer was being offered in the schools of the prophets. Elijah, certainly, was not silent, but on mountain heights or by the Cherith brook, was no doubt pouring out his mighty soul. The advent of this prophet, 1 Kings 20:13, unasked, was a harbinger of good. Notice how God’s loving-kindness follows us into a far country. See Ezekiel 36:32. He does not forget, but woos us back. His tools of help, however, are not what we should expect, but ever the weakest and least likely, that no flesh should glory, 1 Corinthians 1:27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The God both of Hills and Valleys -- 1 Kings 20:16-30\n\nWhat is God to us? Is He only the God of the hills? We expect religion to serve us when we come to the great summits of experience. There are times of rapture and of vision when we seem naturally to stand with God on the holy mountains. We have our Moriah, our Pisgah, our Tabor, our Hermon. But is that all?\n\nNo! God is with us in the valleys. When we descend into the valley of weeping, Psalms 84:6, r.v., the valley of the shadow of death, the valley of obscurity and loneliness, the valley of conflict, we can say with the psalmist, “Thou art with me,” Psalms 23:4. Most of us, perhaps, spend the larger part of life in the valleys, walking among commonplace duties. Let us see to it that in these shadowed days we walk in close companionship with the Divine Friend; that, when the path ascends and the mountain-breeze is on our faces and the view widens, we may stand with God on our high places as with hinds’ feet. See Habakkuk 3:19."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Losing the Man God Put into His Hand -- 1 Kings 20:31-43\n\nAhab’s easy good-nature was criminal, and indicated the evil that was enervating and cankering his heart. Whatever may have been his private feelings and sympathy, it is plain that these had no right to control his action as king when national interests were at stake. The judge may be subject to tender compassion toward those on whom his office requires him to pass sentence, but he should be governed by consideration of the good of all. This unwise clemency on the part of Ahab resulted, in after-days, in Israel’s suffering at the hand of Syria.\n\n“Busy here and there!” It is true of us all. We are so occupied that we have hardly time to think. We do not realize the opportunities which are placed in our hands, and which, if not made immediate use of, depart never to return. The bald head of departing opportunity, said the Greeks, has not even one lock of hair by which we can catch it and drag it back. Let us be diligent in the King’s business, remembering that to Him we must render an account."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 20
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 19
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 21
+ }
+}

@@ -6,7 +6,7 @@
   "type": "google-add-ons",
   "name": "SnapLabel — Mail Merge Avery Labels & Barcodes in Sheets & Docs",
   "summary": "Merge Google Sheets into millimeter-calibrated Avery labels, envelopes, and barcodes. 100% local-first in Apps Script — zero external data transfer.",
-  "metaDescription": "SnapLabel merges Google Sheets into Avery address labels, shipping badges, and Code-128 barcodes directly in Docs and Sheets. One-time lifetime license with zero subscription.",
+  "metaDescription": "SnapLabel merges Google Sheets into Avery address labels, shipping badges, and Code-128 barcodes directly in Docs and Sheets. one-time lifetime license with zero subscription.",
   "icon": "snaplabel.png",
   "storeUrl": "",
   "video": {
@@ -15,7 +15,7 @@
     "tag": "⚡ 55s Product Demo",
     "title": "Watch SnapLabel in Action",
     "desc": "Merge Google Sheets contacts and warehouse inventory into calibrated Avery labels, envelope templates, and Code-128 barcodes directly in Google Docs & Sheets. 100% local Apps Script execution with zero alignment drift.",
-    "sub": "<b>No subscriptions</b> · $29.00 one-time lifetime license · Pay once, keep forever",
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
     "youtubeUrl": "https://www.youtube.com/watch?v=7ANNgOPBqYk"
   },
   "social_shorts": [
@@ -59,7 +59,7 @@
       "Built-in Code-128 barcode and QR code generator",
       "Dynamic token replacement from active Google Sheet",
       "100% in-document local processing via non-sensitive scopes",
-      "One-time lifetime license — zero recurring subscriptions"
+      "one-time lifetime license — zero recurring subscriptions"
     ]
   }
 }

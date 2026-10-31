@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "REV",
+  "commentaryId": "fbmeyer",
+  "name": "Revelation",
+  "commonName": "Revelation",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Book with Seven Seals -- Revelation 5:1-8\n\nThis “book” is a roll of papyrus or parchment, written on each side to prevent unauthorized additions. Probably it contains the history of the successive steps to be taken to win the empire of the world for Christ. In other words, it tells of the successive stages of the coming of the kingdom of God. As the seals are opened, certain phenomena occur which in part reveal the mysteries hidden in the book, but the whole is in the hand of the Lamb of God. He alone knows the contents; He alone presides over their development. We must not weep because the future is unknown. “Jesus we know, and He is on the throne.” We must trust our own future to Christ without fear or tears of foreboding. The Lamb who shed His blood to redeem may be trusted to order and perfect that which concerneth us.\n\nWhat contrasts presented themselves! The Apostle looked for a lion, and behold, a lamb; for one who had overcome, and instead, one who had the appearance of having been slain; for one who had the majesty of a king, and instead, the emblem of humility. But in the lamb were the seven horns of perfect power, seven eyes of perfect wisdom, and seven spirits traversing the world, denoting omnipresence. What homage can be offered worthy of this combination of Redeemer and Creator?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "The One Worthy to Open It -- Revelation 5:9-14\n\nJesus is worthy to unroll the mystic scroll of history, because He loved and loves our race as no other has ever done; and He is equally worthy to open each new phase of our lives. When He came into the world He said, “In the volume of the book it is written of me.” We need not fear those pierced hands. If we are His purchased property, He will provide for us. If we are priests and kings in His ideal, we may trust Him so to arrange our life-plan as to secure the best exercise of those sacred functions.\n\nNotice how the out-circling song of the redeemed reaches out in further and yet further response. It begins with the little group around the throne; then it spreads to the angels in their myriads; and thence it is borne forward and outward in concentric rings until the utmost shores of space are struck by the billows of song and it reverberates back to the living creatures and the elders. Heaven is full of the sacrificial side of our Savior’s death. The heavenly beings describe themselves as His purchased chattels, and stand closer to Christ than the angels; but these bright ministers of God’s will have learned their deepest lessons of God from His redemptive dealings with men."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "REV",
+  "chapter": 6
+ }
+}

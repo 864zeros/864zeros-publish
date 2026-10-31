@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Saul Is Led to Find Samuel -- 1 Samuel 9:1-14\n\nAs a king was demanded by the people, one was selected to suit their taste-“a choice young man, and a goodly!” But the king after God’s own heart was selected for other qualities, 1 Samuel 16:7. Saul’s character lacked important elements. His ignorance about Samuel was surprising; even his servant knew better. This did not promise well for a successful reign, Daniel 11:32 b.\n\nBut how should Saul and Samuel be brought together? A succession of trifling and ordinary events prove to be the links in the divinely constructed chain. The lost the prolonged search, the fear of the effect of anxiety upon Kish, the timely suggestion of the servant and his possession of a few coins which would serve as an introduction, the greeting of the young girls on their way to the well-what accidents they seem! Nay, but they are providences! All things work together to execute God’s purpose. Nothing is too trivial to be part of the divine plan. Let us follow the indications of God’s will-they lead to the waiting seat, the reserved portion, and the ultimate throne."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Prophet Meets the Coming King -- 1 Samuel 9:15-27\n\nThere are some favored souls to whom God reveals His secrets, Psalms 25:14; John 15:15. Covet, above all things, that habitual nearness to God in which God may speak as a man to His friend. Eye hath not seen, nor ear heard, nor the heart of man conceived, what God has prepared for those who love Him; but He reveals them by His Spirit. Even when Samuel encountered Saul in the street, Samuel’s guidance by God continued, 1 Samuel 9:17. His fellowship with the Eternal was like a deep-flowing current; his meeting with Saul a leaf dropped on its surface.\n\nThe prophet did not meet the young man as a rival. The life which is lived in God’s presence is so filled with His light and His love that it is not disturbed by the fickle fancies of the crowd. Samuel was quite ready to be abased and to see another exalted, if God willed it, Philippians 4:12. It is good, when we are in partnership with God, to allow Him, at the critical moment, to send the man or woman whom He has selected. “Tomorrow… I will send thee a man.” Such may come on quite another errand, but God will give us divine guidance and discernment, so that we may be ready to receive and welcome Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 10
+ }
+}

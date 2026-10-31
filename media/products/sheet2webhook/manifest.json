@@ -6,7 +6,7 @@
   "type": "google-add-ons",
   "name": "Sheet2Webhook — Real-Time & Scheduled Webhook Dispatcher for Google Sheets",
   "summary": "Fire formatted HTTP POST webhooks to Slack, Discord, Zapier, Make, and REST endpoints instantly when spreadsheet rows change. 100% private in-account Apps Script execution.",
-  "metaDescription": "Sheet2Webhook fires real-time and scheduled webhooks from Google Sheets to Slack, Discord, Zapier, and custom REST APIs. One-time lifetime license.",
+  "metaDescription": "Sheet2Webhook fires real-time and scheduled webhooks from Google Sheets to Slack, Discord, Zapier, and custom REST APIs. one-time lifetime license.",
   "icon": "sheet2webhook.png",
   "storeUrl": "",
   "video": {
@@ -15,7 +15,7 @@
     "tag": "⏱️ 44s Product Demo",
     "title": "Watch Sheet2Webhook in Action",
     "desc": "Trigger instant HTTP POST webhooks to Slack channels, Discord servers, and external REST APIs whenever Google Sheet rows update or on manual batch dispatch.",
-    "sub": "<b>No subscriptions</b> · $14.99 one-time lifetime license · Pay once, keep forever"
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
   },
   "social_shorts": [
     {
@@ -61,7 +61,7 @@
       "Audit writeback column to log dispatch timestamps and prevent duplicate alerts",
       "LockService mutex concurrency protection against race conditions",
       "Non-restricted OAuth scopes — zero CASA Tier 2 audit fees",
-      "One-time lifetime license — zero recurring monthly task fees"
+      "one-time lifetime license — zero recurring monthly task fees"
     ]
   }
 }

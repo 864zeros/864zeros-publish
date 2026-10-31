@@ -1,0 +1,4 @@
+file 'price_scene1_hook.wav'
+file 'price_scene2_payoff.wav'
+file 'price_scene3_walkthrough.wav'
+file 'price_scene4_cta.wav'

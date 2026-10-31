@@ -15,7 +15,7 @@
     "tag": "⏱️ 40s Product Demo",
     "title": "Watch RowArchiver in Action",
     "desc": "Clean bloated, sluggish Google Sheets by automatically shifting completed or dated rows to archive tabs bottom-up. Zero formula lag, zero external network hops.",
-    "sub": "<b>No subscriptions</b> · $12.99 one-time lifetime license · Pay once, keep forever",
+    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
     "youtubeUrl": "https://www.youtube.com/watch?v=hoQd9nNntDA"
   },
   "social_shorts": [
@@ -48,7 +48,7 @@
     {
       "img": "rowarchiver-3.png",
       "alt": "RowArchiver — sovereign ownership vs monthly subscription rent",
-      "cap": "One-time lifetime license. Optimize and archive Google Sheets forever without monthly SaaS rent."
+      "cap": "one-time lifetime license. Optimize and archive Google Sheets forever without monthly SaaS rent."
     }
   ],
   "jsonld": {
@@ -59,7 +59,7 @@
       "Automatic archive tab creation with copied header column schemas",
       "Atomic LockService mutex protection preventing row index corruption",
       "100% in-account execution via non-sensitive spreadsheets.currentonly scope",
-      "One-time lifetime license — zero recurring subscriptions"
+      "one-time lifetime license — zero recurring subscriptions"
     ]
   }
 }

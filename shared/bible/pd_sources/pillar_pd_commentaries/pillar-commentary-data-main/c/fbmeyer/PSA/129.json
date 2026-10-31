@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 129,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "They afflicted me\n\nAnother of the nameless pilgrim-songs. The singer looks back on the many and severe oppressions from which Israel had suffered, but from which the Lord had delivered his people (Psalms 129:1-4); and therefore faith concludes that, however proudly the enemy may bear himself, God will certainly visit him with utter ruin (Psalms 129:5-8).\n\nPsalms 129:1.\n\nMany a time have they afflicted me\n\nThe youth of Israel was spent in Egypt (Hosea 2:15; Hosea 11:1; Jeremiah 2:6). As we look back to our youth, once so full of promise, how many are the afflictions through which some of us have passed! We little expected them. We thought that we must escape, but we have had our full measure.\n\nPsalms 129:2.\n\nMany a time; yet they have not prevailed\n\nBut how sweet to remember that every affliction has had its deliverance! There has always been a “yet” (Isaiah 44:1; Isaiah 49:15; Jeremiah 3:1). We will not therefore dwell on the afflictions, but on the revelation which each has given of the strong and tender care of God. Each has been a dark lantern–in which, when opened, we discovered that his light was burning.\n\nPsalms 129:3.\n\nThe ploughers ploughed upon my back\n\nAs the plough tears up the earth, so does the scourge tear up the back. How true was this of Him in whom the ideal Israel was fitly personified–our blessed Lord! (Isaiah 1:6; Matthew 27:26).\n\nPsalms 129:4.\n\nThe Lord is righteous\n\nTwelve times throughout the Bible this truth is declared in the same words, besides being continually slated in other forms. It is comforting to know that our God is “righteous in all his ways” (Psalms 11:7; Psalms 145:17; see also John 17:25). Some think that the Psalmist refers to the plough cords. The enemies would continue their ploughing, but God suddenly cuts the cords, looses the cattle and the plough stands still.\n\nPsalms 129:5.\n\nLet them be confounded!\n\nThe imperatives here may be read as predictions: “They shall be.”\n\nPsalms 129:6.\n\nAs the grass upon the housetops\n\nThe metaphor of “grass” is borrowed from Isaiah 37:27. There is but little soil on the fiat roofs of oriental houses. Grass, which may have taken root there, having no depth of earth, is soon scorched. All the greatness of the world’s empires is as grass (Isaiah 40:6-7).\n\nPsalms 129:8.\n\nThe blessing of the Lord be upon you!\n\nWe have here the customary salutation with which passers-by greeted the reapers. But such a benediction would never be spoken over the withered grass of the house-tops. So the wicked shall pass away with no silvery note of love or blessing sounding over their decease."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 129
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 128
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 130
+ }
+}

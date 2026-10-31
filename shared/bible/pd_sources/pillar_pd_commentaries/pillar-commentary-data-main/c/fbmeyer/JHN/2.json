@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jesus Blesses Social Joys -- John 2:1-11\n\nThe keyword here is signs, John 2:11, r.v. translated in the Authorized Version as miracles. They are windows into the eternal purpose. The Lord loved to join in simple human joys. “He came eating and drinking.” He honored marriage by His first miracle. The wine had to fail, as the earthly and human always must, in order to make room for the eternal and divine. Like Mary, we are impetuous, and would hasten the divine actions: but God is ever deliberate and waits for the exact hour before He interposes. It is hardly likely that our Lord made one hundred and thirty gallons of wine; but that as the servants drew and bore to the table, the wondrous change was wrought. Our Lord did in a moment what He is ever doing, transforming dews and rain into the nutritive and gladdening juices of nature.\n\nHere was indeed a sign that the Master desired to sweeten and enhance human happiness, and that His influence could transform what was ordinary and common into the joyous and sacramental. It was His glory to show that religion is consistent with ordinary life, and to teach that God increases our joys from less to more, and still more. “The best is yet to be.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Right and Wrong Uses of God’s House -- John 2:12-22\n\nThis market was established in the Temple courts, and many evils were associated with it. The animals were sold at exorbitant prices, which made the dealers only the more covetous. The money-changers made considerable profit in supplying Jewish coins-which alone could be offered in the Temple service-in exchange for Roman and Greek money. Our Lord’s presence was august, His soul being aflame with the passion of zeal for His Father’s honor. The consciences of those who offended were smitten by the contrast between that holy zeal and their own eagerness to barter.\n\nOur Lord’s reference to His body as the true temple is very impressive and interesting. The Apostle adverts to it in 1 Corinthians 6:19. As Jesus cleansed the Temple so He can cleanse our hearts. When He comes to dwell within us, He finds our hearts desecrated by unholy things, which He quickly casts out. He sits as a refiner of silver: His fan is in His hand, and He thoroughly purges His floor. Our Lord’s reference to the distraction of His body, by the act of the Jewish leaders, and to His resurrection, proves that from the first He had His sacrifice well before His eyes. In the next chapter this becomes the more apparent."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "New Life from above the Need of All -- John 2:23-25; John 3:1-8\n\nA solemn question is suggested by John 2:24. Can Jesus trust Himself to us? We must show ourselves worthy of His trust. In John 3:1-36; John 4:1-54 we have two remarkable instances of the Lord’s intimate knowledge of the human heart.\n\nApparently Nicodemus had shrunk from identifying himself with John’s baptism. He was one of the richest men in Jerusalem, and our Lord addressed him as the teacher, John 2:10, r.v. He was willing to talk about systems of truth and schemes of philosophy; but the Master knew that more, much more, was necessary; there must be the emergence of His soul into the experience of an enlarged and fuller life. The phrase, “the new birth,” the Jews always used for Gentiles, and it greatly startled Nicodemus to learn that there was needed for himself the same change as was required by Gentiles before entering the Jewish commonwealth. In speaking of water, our Lord probably refers to the baptism of John, in which men confessed their sins and expressed their desire to leave the past behind and to enter a fuller experience of the life of God. The new life begotten by the Spirit of God is as mysterious as the wind. That Spirit, bearing the germ of a new life, rejoices to enter each open casement and to fill each vacuum, wherever one will."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 3
+ }
+}

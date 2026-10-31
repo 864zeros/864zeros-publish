@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Loyal Friend and a Jealous Enemy -- 1 Samuel 17:55-58; 1 Samuel 18:1-9\n\nThese verses make very good reading. They present the one ray of light in a story which, from this point on, becomes more and more somber. David’s bearing in the hour of victory was so modest and unaffected that Jonathan’s heart leaped out to greet him as a kindred soul; while his advances awoke in David a love almost womanly in its tenderness. When we see Jonathan arraying his newfound friend in his own raiment, we are reminded of our Lord’s great exchange with us. He was made sin, that we might become the righteousness of God in him, 2 Corinthians 5:21.\n\nDavid’s harp was now, for the most part, exchanged for the sword, and he became a popular hero. It was the refrain of the women’s ode of victory that opened Saul’s soul to the envenomed dart of jealousy. The milk of human kindness suddenly turned sour. “He eyed David from that day,” not with affectionate admiration, but always with desire to place a malicious construction on every act and word and look. With terrible accuracy James shows the certain progress and development of such an attitude, James 1:14-15."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "Protected from Dastardly Assaults -- 1 Samuel 18:10-21\n\nThe Lord was evidently with David. Mark how the sacred chronicle keeps this fact in view, 1 Samuel 18:12; 1 Samuel 18:14; 1 Samuel 18:28. And David behaved himself wisely, 1 Samuel 18:5; 1 Samuel 18:14-15; 1 Samuel 18:30. How judicious it would have been for Saul to bind David to himself! Instead of this he cherished his mad passion until it broke out in irresistible fury. Oh, beware of jealousy! It opens the soul’s door to the devil. The best way of meeting it, apart from prayer, is to compel yourself to take an interest in your rival, and to put yourself loyally in his place. Overcome your mean and wicked soul, in the power of the Lord Jesus. “Put ye on the Lord Jesus Christ, and make not provision for the flesh,” Romans 13:14.\n\nThe evil spirit that possessed Saul is said to have come from God; that is, God permitted it to come. It came according to the ordered rule of the universe. “God,” says one, “must be something to us; what He shall be depends on ourselves and on what we are to Him.” See Psalms 18:25-26. The king, having failed to murder David, encouraged him in dangerous undertakings. But if David had fallen in battle, his death would still have been justly laid at Saul’s door."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Prospered in spite of Plots -- 1 Samuel 18:22-30\n\nThe affection of Michal for the young warrior suggested a way of luring David into personal conflict with the Philistines. Saul’s secret hope was that he might fall a victim to their prowess. David at first took no notice of the royal proposals, because the king had already failed to keep his word; but when the courtiers explained the terms, David accepted the challenge. Saul was playing his game with great adroitness. On the one hand, his attendants genuinely believed that he delighted in David and desired the alliance; while on the other, see his true motive in 1 Samuel 18:25.\n\nOnce more Saul was foiled, for, within the appointed time, David secured double the king’s requirement, and Michal became his wife. If jealous people would only ponder this story, they would discover the uselessness of setting themselves athwart God’s manifest purpose in another’s life. See Psalms 7:11-13; Psalms 7:16, r.v. Don’t sulk, don’t detract, don’t sow suspicions. Take your father’s side, you elder brother! Go into the banqueting-hall, salute your younger brother, and enter into the general joy. If you choose the generous course, and affirm it, you will find the joy welling in your heart. Stand your ground in Christ against your unworthy, selfish, lower self!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 19
+ }
+}

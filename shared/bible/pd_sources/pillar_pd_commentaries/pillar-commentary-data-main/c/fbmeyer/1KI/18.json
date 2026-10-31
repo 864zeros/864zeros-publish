@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1KI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Kings",
+  "commonName": "1 Kings",
+  "numberOfChapters": 22
+ },
+ "chapter": {
+  "number": 18,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Behold, Elijah! -- 1 Kings 18:1-15\n\n“The word of the Lord came” to Elijah on four successive occasions- 1 Kings 17:2; 1 Kings 17:8; 1 Kings 18:1; 1 Kings 19:9. God has many things to say to us, if we will only listen. His word may find us in very different places, and direct us to varied duties; but to live by it is to execute the perfect plan of life.\n\nObadiah was a good man, but weak. He did his best to shield the prophets and to keep the true light from becoming extinguished- 1 Kings 18:13. But court favor had corrupted him. He stood before Ahab, while Elijah stood before God. Our Lord said that soft raiment and the king’s court go together, Luke 7:25; and in the enervating atmosphere of a palace, it is granted to very few to retain the spirit and power of Elijah or of the Baptist. Who would not rather be Elijah than Obadiah! Elijah dared confront Ahab as the troubler of Israel, while Obadiah daily feared for his own life. Elijah rooted up idolatry, while Obadiah endeavored only to check its excesses. Obadiah sought grass for the royal steeds, but Elijah’s prayer brought the rain. Let us dare to stand for God, though we stand alone!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The God That Answereth not -- 1 Kings 18:16-29\n\n“The God that answereth by fire, let Him be God.” We are thrilled as we read these words. Our altars stand unkindled, our sacrifices are unconsumed, our churches do not witness the descending of the holy flame, and our sermons are damp tinder. It ought not so to be. The Baptist said that our Lord would baptize with the Holy Spirit as by fire, Matthew 3:11, and Jesus Himself taught that he came to kindle fire on the earth, Luke 12:49. The seven lamps burn evermore before the throne, Revelation 4:5. It was as fire that the Holy Spirit fell on the sitting group in the upper room-sitting because they had reached an end of praying, and were now only waiting for the fulfillment of the promise, Acts 2:2-3.\n\nNothing is needed more absolutely than the answer by fire. There are many who, like the prophets of Baal, endeavor to kindle it. But when prevented from putting their own false fire into the stack of wood, they are paralyzed. The frantic entreaties, the self-inflicted wounds, the monotonous chant, are insufficient. They are carnal and arouse only the worst emotions. Spiritual conditions have to be fulfilled, as Elijah showed; then God bears witness “by signs and wonders” and by gifts of the Holy Spirit, according to His own will."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 30,
+    "content": [
+     {
+      "text": "The God That Answereth by Fire -- 1 Kings 18:30-40\n\nToo many halt, or limp, between two opinions. The altar of consecration to Christ has been thrown down, 1 Kings 18:30. The worship of Baal, which stands for creature-energy, has secretly stolen away our allegiance from Him, who is very jealous of any strange affinities; and as the necessary result, our heart is drought-smitten and our sphere of service is like a parched land. The idolatrous priests had everything in their favor, for at noon the sun-god was on his throne; but there was no voice. It is an awful thing when a man listens for his god to speak, and there is no reply!\n\nElijah built again the ruined altar which for long years had stood on Carmel’s height, 1 Kings 19:10-11. Let us build again the altars of personal consecration, of family piety, and of national religion. Elijah prayed; as the Apostle expressed it, James 5:17, he put all the passion of his mighty nature into prayer. As a result, because they had been shown to be deceivers, he destroyed the prophets of Baal with a ruthless hand. These are the conditions of revival and refreshing. Let any church give itself to consecration, fervent prayer, and the excision of wrong, and there need be no anxiety as to the result-there will be an abundance of rain."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "Exaltation and Depression -- 1 Kings 18:41-46; 1 Kings 19:1-8\n\nWhen the priests had been executed, the quick ear of the prophet detected the hurrying rain-clouds. Note the contrast between Ahab and the prophet. The one ascended from the Kishon gorge to eat and drink in his pavilion until the darkened heavens made him drive-post-haste to Jezreel; the other went up to pray! which do we care for most-to eat and drink or to pray? God help us! The answer that our hearts utter is far from satisfactory. But what praying was this! So humble, so intense, so expectant. Six times the servant came down from the spur, saying, “There is nothing,” and a seventh time he was sent back to watch the Mediterranean sky-line-this time, not in vain!\n\nBut why that sudden change to despair? Was it the overstrain of that day on Carmel, which induced a terrible reaction? Was it that swift run from Carmel to Jezreel, in front of Ahab’s fiery steeds? Was it that threat of Jezebel? She, at least, was neither awed nor checkmated by the massacre of her favorite priests. Did he lose sight of God in that dark hour? Elijah was but mortal! His feet had almost gone; his steps had well-nigh slipped, Psalms 73:2."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 18
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 17
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1KI",
+  "chapter": 19
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Timothy",
+  "commonName": "1 Timothy",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Godliness Is True Gain -- 1 Timothy 6:1-10\n\nThe Apostle gives rules for the treatment of the slaves who rendered service in the households of that time. If the slave was in the household of a heathen master, he must honor and glorify Christ by being respectful and obedient; but if the master was a Christian, and therefore a brother in the Lord, he was still required to yield courteous and willing service. Service rendered for the love of God must not be inferior to that rendered from fear of man.\n\nThere were many false teachers in the early Church, the chief aim of whom was to make money. They were proud and distempered, jealous and suspicious, juggling with words and given to splitting hairs. Godliness truly is great gain. It makes us content with what we have, and it opens to us stores of blessedness which the wealth of a Croesus could not buy. It is good to have just what is necessary. More than that breeds anxiety.\n\nLet us leave the provision for our needs with God. He is pledged to give food and covering, the latter including shelter. Not money, but the love of it opens the sluices and floodgates of the soul, through which wash the destroying waters of passion that drown men in destruction and perdition. Remember that you can carry nothing out of this world except your character."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "“Fight the Good Fight of the Faith” -- 1 Timothy 6:11-21\n\nThe poor need not envy the rich. Wealth makes no difference in the audit of eternity. A man cannot eat more than a certain amount of food, and wear more than a certain amount of clothing. If we have enough why envy others? The true wealth of life is in self-renunciation and beneficence. How different from the money-grabber is the man of God who flees such things, and follows after righteousness, who fights the good fight against the world, the flesh, and the devil, and who never flinches from witnessing the good witness.\n\nIf we suffer here with Jesus, we shall share in the glory of His manifestation. Notice the wealth of the Apostle’s ascription to Jesus! Here is life in its spring, light at its source, power and authority in their original fountain. Let us claim these blessings and enthrone them in our lives.\n\nThe charge to the rich is eminently sound. We must set our hope not on the attainment of fleeting things, but in God who loves to give and see His children happy. We hold all that we have, that we may be God’s channels of communication to others. What we hoard we lose, what we give away we store. The life which is life indeed can be acquired only through death and self-giving."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2TI",
+  "chapter": 1
+ }
+}

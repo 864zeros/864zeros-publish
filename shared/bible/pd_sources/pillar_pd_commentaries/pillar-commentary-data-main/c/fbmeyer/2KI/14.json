@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Penalty of Pride -- 2 Kings 14:1-14\n\nThere were good traits in Amaziah’s character, such as humanity to the children of his father’s murderers, and his willingness to forfeit the aid of the army of Israel, because of the prophet’s remonstrance. See 2 Chronicles 25:1-28. But he fell a victim to Edom’s idols, though he conquered Edom that worshiped them; and from that moment God’s Spirit and guidance seemed to desert him. He was puffed up with pride and vainglory, challenged the king of Israel to battle, and brought disaster on his people and himself.\n\nBut what a profound lesson is presented by his life! Do we never become elated with success, so that our heart is lifted up? Do we not fling ourselves in an hour of self-confidence from the Temple terrace, and find that no hand of might and love is stretched out to intercept our fall and make us alight uninjured on the ground? Let those who are successful and prosperous remember the Giver of every good and perfect gift and walk humbly with God. When we are evidently summoned to a supreme conflict with our foes, no weapon formed against us prospers: but if we are foolhardy, we are left to the results of our folly."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "Outward Prosperity without Inward Renewal -- 2 Kings 14:15-29\n\nAzariah is elsewhere called Uzziah. See 2 Chronicles 26:1-23; Isaiah 6:1, etc. The two names mean respectively, “whom Jehovah assists” and “the strength of Jehovah.” After the death of his father, he finished the conquest of Edom by conquering Elath and restoring it to Judah; and this was the beginning of a long and in some respects remarkable reign, though with a sad ending, as we shall see.\n\nThe reign of Jeroboam II was the longest and outwardly the most prosperous of any of the kings of Israel; for he regained possession of the land in the north and east which had been lost, 2 Kings 14:25, and made the Syrians tributary, 2 Kings 14:28. During his long reign, Hosea and Amos were sent to Israel, reproving their idolatry, warning them of the folly of relying on foreign help, and foretelling their overthrow by Assyria, if they persisted in their sins. At the same time they did not cease to open the doors of God’s forgiveness and mercy, if Israel would repent. God could not forget the time when Israel was a child, and He loved him and brought him out of Egypt, Hosea 11:1. The memory of our early years, with their holy promise, is lovingly cherished by our Father."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 15
+ }
+}

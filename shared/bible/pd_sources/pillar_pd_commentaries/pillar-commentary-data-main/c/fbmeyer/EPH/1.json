@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EPH",
+  "commentaryId": "fbmeyer",
+  "name": "Ephesians",
+  "commonName": "Ephesians",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Our Riches in Christ -- Ephesians 1:1-14\n\nThis has been called the “Epistle of In-ness,” because it is so full of the preposition in. Saints are flesh and blood like ourselves, and we may be saints. The word means “set apart.” We are in Christ and He is in us, and any goodness we have is due to our giving room and scope to Him to realize His own ideals. To be in the heavenlies, Ephesians 1:3, means to live a spiritual life and to draw our reinforcements from the unseen and eternal world, which is focused in our Lord. We are in Him so far as justification is concerned-that is our standing; and He is in us for sanctification-that is the source of a holy and useful life. The condition of a blessed life is the conscious maintenance of this oneness.\n\nThe source of all we are, and have, and hope to be, so far as salvation is concerned, is the will of God for us; but the stream flows to us through our Lord, and the end to which all things are moving is the summing-up of all in Christ. As He was the Alpha, so He will be the Omega. The sealing of the Holy Spirit is of incalculable advantage, because it means that we are stamped with the likeness of Christ and so kept inviolate among all the vicissitudes of life. See Esther 8:8; John 6:27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "What the Heart May Receive -- Ephesians 1:15-23\n\nIt is well to go over the successive links of this golden chain when we are in our secret chamber, appropriating them one by one and asking whether we have received a spirit of wisdom and revelation to know Christ, and whether the eyes of our heart have been enlightened to know the hope, the riches, the glory, and the greatness of His power. In so far as we yield ourselves to the strength of God’s might, He will raise us from the grave of selfishness and cause us to sit with Christ in the place of spiritual life and power.\n\nNotice the emphasis with which the Apostle affirms the supremacy of Christ’s nature, Ephesians 1:21-22. This is a psalm of ascension. We can almost follow His tracks, as all the evil powers which rule the darkness of this world drop far beneath Him. The ascending Lord is high over all, and if we claim our right as members of His glorified body, we also shall stand above all our spiritual adversaries; and it is easier to descend on an enemy from above him than to seek to assail him from beneath. Notice that Christ needs the Church as much as the head needs the body, because it is through the Church that He fulfills Himself. Ask Him to fill all of you with all of Him."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GAL",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EPH",
+  "chapter": 2
+ }
+}

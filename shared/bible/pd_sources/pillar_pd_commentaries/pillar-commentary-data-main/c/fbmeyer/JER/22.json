@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JER",
+  "commentaryId": "fbmeyer",
+  "name": "Jeremiah",
+  "commonName": "Jeremiah",
+  "numberOfChapters": 52
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Folly of Idolatry -- Jeremiah 10:1-10; Jeremiah 19:1-15; Jeremiah 20:1-18; Jeremiah 21:1-14; Jeremiah 22:1-30; Jeremiah 23:1-40; Jeremiah 24:1-10; Jeremiah 25:1-38\n\nJeremiah 10:1-10 We are here introduced into an idol-factory. Contrasted with the manufactured idols is the majesty of our God. There is none like Him. His name is great in might; He is the King of the nations, the true and living God, and the everlasting King! Christian, fear not or be dismayed when enemies plot against you. It is a vain device that they frame. To hide in God is a sure defence from all that man can do for our hurt. O thou true and living Savior, in thy wounds harried and faithful souls become strong and brave again.\n\nJeremiah 10:19-25 The prophet now bids the people prepare for their captivity. Their city would be as when a shepherd removed his slight and insubstantial tent, leaving no trace. But Jeremiah’s soul is lacerated and torn with the message he must needs announce. Are we called to be shepherds? Let us see to it that we seek the Lord; so only shall our flocks not be scattered, Jeremiah 10:21. Are we in perplexity as to our path in life? It is not for us to direct ourselves, but to look up for God’s sure guidance, which will be given to the soul that waits for it, Jeremiah 10:23. Are we being corrected? Let us be patient; it is only when we endure without complaining that our trial works out the highest good, and God will not give us more than we can bear, Jeremiah 10:24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JER",
+  "chapter": 23
+ }
+}

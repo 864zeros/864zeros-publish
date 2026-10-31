@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 65,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Abundant Favor from Our Gracious God -- Psalms 65:1-13\n\nThis joyous hymn was probably composed for use in the sanctuary at one of the great annual festivals. It deals expressly with God’s bounty in the fertility of the earth.\n\nThe Temple courts, Psalms 65:1-4 God hears our prayer, purges away our transgressions, chooses us, and causes us to approach. Let us ask Him to cause us to approach and to make us dwell in the consciousness of His presence. If iniquities prevail and transgressions shame us, there is provision for these also. God shall purge them away. For such condescending love all flesh shall ultimately come to His footstool.\n\nTerrible things, Psalms 65:5-7 Thunder tones and lightning flashes, inaccessible mountains and roaring seas-such are the darker aspects of nature. But beneath all, like a sweet refrain, we hear Him praised as the God of salvation. Make Him your confidence, by land and sea.\n\nThe beauty and order of the world, Psalms 65:8-13 Brimming rivers, soft spring showers, golden harvests, the hum of the bees in mountain pastures, the call of the ewes to their lambs-all bespeak God’s goodness. Let us ask Him to visit our hearts with the throb of springtime."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 65
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 64
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 66
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Entering Jehovah’s Holy Place -- Psalms 24:1-10\n\nPsalms 22:1-31 tells of the cross; Psalms 23:1-6 of the crook; Psalms 24:1-10 of the crown. This great choral hymn was evidently composed to celebrate the removal of the Ark from the house of Obed-edom to Mount Zion, 2 Samuel 6:1-23. It was conducted with music and song to its resting-place, and this psalm was the marching song of the priests, 1 Chronicles 15:2-27.\n\nPsalms 24:1-2 were sung by the whole festal crowd; Psalms 24:3 by a soloist; Psalms 24:4-5 by the choir; and Psalms 24:6 by the entire congregation. What a sublime challenge on the part of the approaching host is contained in Psalms 24:7, to be answered by a company from within the gates in Psalms 24:8! To this again the vast shout of the multitude gives reply in Psalms 24:9.\n\nThis magnificent ode reached its perfect accomplishment when the mighty Victor over hell and the grave arose on high and sat down at the Father’s right hand. Oh, let the gates of your heart open wide to admit Him!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 25
+ }
+}

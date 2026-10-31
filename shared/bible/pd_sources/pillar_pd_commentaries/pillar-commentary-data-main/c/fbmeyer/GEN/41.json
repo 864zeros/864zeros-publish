@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 41,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Pharaoh Dreams of Cattle and of Ears of Grain -- Genesis 41:1-13\n\nThis chapter tells of ascension and exaltation,… and affords an inimitable type of the issue of our Lord’s humiliation and death. Like Joseph, He went and preached to spirits in prison, and then God highly exalted Him, and gave him a Name above every name. Rejected by his brethren, refused by those to whom he was sent, falsely accused and condemned, classed with the wicked, thrust into prison, rescuing one of his poor associates, called to a throne, it would be possible in almost every particular to substitute the name of Jesus for that of Joseph. What a corroboration of those great words of Asaph, “Neither from the east, nor from the west, nor yet from the south cometh lifting up; but God is the judge,” Psalms 75:6-7. When sorrow falls, how quickly the world remembers the child of God, and turns to him! Those that despise and forget will seek you out some day."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Pharaoh’s Dreams Interpreted -- Genesis 41:14-36\n\nNotwithstanding the great urgency of the royal summons, and the speed with which the great events of his life crowded on one another, Joseph was kept in perfect peace. He found time to shave, and to change his raiment. Let us be at rest in God. He that believeth does not make needless haste. One of the loveliest traits in Joseph’s character was his humility. He did not take on airs, nor assume superiority, nor pose as a superior and injured person.\n\nHe said simply, “It is not in me; God will give.” These words might have been uttered by our Lord; they are so perfectly in harmony with the tenor of his life. Surely we should appropriate them. At the best we are but God’s almoners, passing on to others the good things of which He has made us the stewards. Joseph was set on using all he had, not for himself, but for others; therefore he had more and more to give."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Joseph, Exalted, Prepares for Famine -- Genesis 41:37-57\n\nThe Spirit of God was evidently in Joseph, but so far from rendering him a mere visionary, it made him eminently practical. Have your visions of God, but descend from your housetop to answer the men who knock at your door! See Acts 10:1-48. In this story we see reflected the glories of our Lord, who was raised to the throne, to become a Prince and a Savior, the Giver of the Bread of Life to the perishing souls of men. But He sells without money and without price! Joseph’s marriage to an Egyptian bride reminds us of our Lord’s union with the Gentile Church, on the significance of which Paul so strenuously insists.\n\nIf you live for God, He will see to your interests. Such joy will be yours that you will forget your sorrows (Manasseh) and become fruitful in the land of affliction (Ephraim)."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 41
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 40
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 42
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 40,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Directions for Erecting the Tabernacle -- Exodus 40:1-16\n\nOn the new year’s day of the second year of the exodus Moses was bidden to rear up the Tabernacle, and with his own hand to place each article in its specified position. With what joy must those commands have fallen on His ears! We are reminded of the words of Robert Moffat, when he was completing the translation of the entire Bible into the language of the Botswana: “When I had finished the last verse I could hardly believe that I was in the world. My emotions found vent by my falling on my knees and thanking God for His grace and goodness in giving me strength to accomplish my task.” Under similar circumstances Dr. Paton says that he pitched his bat into the air and danced round and round his printing-press. Let us build our life, piece by piece, in the same spirit-not with wood, hay and stubble, but with gold, silver and precious stones-so that at the close we may be able to say, “I have glorified Thee on the earth: I have finished the work which Thou gavest me to do.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The Tabernacle Set up and Dedicated -- Exodus 40:17-38\n\nAt the time of the offering of the evening sacrifice all was finished. Moses had placed the table on the right and the candlestick on the left of the holy place; had set the incense-altar near the veil; had washed in the laver, and had anointed it and all its vessels. The Ark had been hidden behind the veil, and Aaron invested in his robes. Then the congregation, deeply moved, retired to their tents and night settled on the mountains. Moses also retired from the scene, full of thankfulness. See Psalms 90:16-17.\n\nThey had hardly left the structure when the cloud that had guided their march settled down upon it, and the glory of the Lord-“the Shechinah” -shone within the Tabernacle itself. Moses immediately hastened back, and found the Presence of God so manifestly in possession that he dared not enter. Behold! the tabernacle of God was with men. So in after years the Divine Word dwelled in the mortal body of Jesus. See John 1:14, 2 Corinthians 5:1, Revelation 21:3. This is the worthy close of this great book of the Exodus.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 40
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 39
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 1
+ }
+}

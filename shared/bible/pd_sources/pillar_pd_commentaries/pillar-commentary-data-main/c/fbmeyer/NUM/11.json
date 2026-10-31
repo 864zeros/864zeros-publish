@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Murmuring Flesh-lovers -- Numbers 11:1-15\n\nWe cannot wonder at the people’s murmuring. They were unaccustomed to the fatigues of the desert, and had not realized the length of the journey. Let us beware of querulous complaints. See 1 Corinthians 10:10. Let us also guard against familiarity with those who have never known God’s regenerating grace. “The mixed multitude” was largely composed of Egyptians, whose evil example spread to the chosen people, Exodus 12:38. When our religious life is low, we tire of angels’ food, and our hearts turn back to the world we have left.\n\nMoses’ outcry is hardly to be wondered at. He was thoroughly overstrained by the immense demands of his life. But he ought not to have spoken as though the entire weight of the pilgrimage rested on him. His Almighty Friend was bearing and carrying them during “all the days of old.” See Isaiah 63:9. We must never look at our responsibilities apart from Him who makes all grace abound, 2 Corinthians 9:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "God’s Spirit upon the Seventy -- Numbers 11:16-25\n\nGod’s considerateness for His overwrought servant was very tender. He knows our frame and remembers that we are dust. He does not chide, nor keep His anger forever. The remedy for the situation was provided in the appointment and enduement of the seventy elders, who became the germ of the Sanhedrin.\n\nMoses’ depression led to unbelief. It seemed impossible to suppose that God could provide a table in the wilderness of such magnitude that in it the whole host could participate. Unbelief says, Can God? Faith answers, God can! See Psalms 78:19. Child of God! God’s hand is not waxed short, that it cannot reach to you. Even if we believe not, He remains faithful, 2 Timothy 2:13. This equipment of the elders, Numbers 11:25, reminds us that we, too, need to receive the Holy Spirit, first for our sanctification in character, and then for our service and office. This is the special characteristic of Pentecost, Acts 2:1-4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "“The Graves of Lust” -- Numbers 11:26-35\n\nIt is delightful to note the proof of the nobility of Moses’ nature in the answer he gave to the tidings concerning Eldad and Medad. They might not be of the designated group of elders, and might not have gone out to the Tabernacle, as in Numbers 11:16. They remind us of the unordained and simple disciples of Act 11:19, etc. But there was no envy in Moses’ nature. He would have been only thankful if all had reached a degree of grace even beyond his own attainment.\n\nThe quails came. They flew in prodigious flocks, which darkened the air. Exhausted by their long flight, they hovered within three feet of the ground, and so were easily captured. But the passionate haste in eating brought its own terrible nemesis to the Israelites. The story became engraved in the very name given to their halting place, Psalms 106:15. My soul, beware lest thou also be precipitated by thy passionate desires into that gravel Galatians 5:17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 12
+ }
+}

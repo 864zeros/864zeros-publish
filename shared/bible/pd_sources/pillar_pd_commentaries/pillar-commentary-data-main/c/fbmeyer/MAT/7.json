@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 7,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Judging Self; Asking God; Serving Others -- Matthew 7:1-12\n\nThere is abundant need for a right and sound judgment, illumined by the Spirit of truth; but there is a world of difference between it and the censorious and critical opinions which we are apt to form and utter about others. Human nature is fond of climbing up into the judgment seat and proclaiming its decisions, without hearing both sides or calling witnesses. Beware of basing your judgment on idle stories and gossip. In any case, do not utter it, if it be adverse, unless you have first prayed about it and sought to turn the sinner from the error of his ways. Let God search you, before you search another. See Psalms 139:23-24; 1 Corinthians 4:1-5; Hebrews 4:12.\n\nWe ask for a gift; we seek for what we have lost; we knock for entrance. Only a door stands between us and Christ! He will not give us stones or serpents, even if we clamor for them; but He will never fail to give good things-and above all His Holy Spirit-only we must ask for them.\n\nThe Roman Emperor Severus was so charmed with the Golden Rule that he had it inscribed on the walls of his palace. Let us inscribe it on our hearts and act on it in the power of the Holy Spirit, who sheds God’s love abroad in the hearts of those who believe."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Seeking Life; Testing Leaders -- Matthew 7:13-23\n\nThe world is full of shams. Counterfeit coins circulate; paste jewels are worn. Let us take heed against a counterfeit religion. It betrays itself thus:\n\n(1) It does not involve the denial of self. Our Lord compares this to entrance by a strait gate and walking on a narrow path. It is the way of the Cross. We must say “No” to the “I” life which is seated in our soul and which must be ruthlessly denied. We must say of it as Peter did of Jesus, “I do not know the man.” The way of self-indulgence begins on a primrose path and ends in a wilderness. The path of self-denial is steep and difficult at the start, but leads to a paradise of joy.\n\n(2) It does not produce good fruit. The worth of the gospel has been attested all down the ages by the characters which it has produced and which have been the world’s salt and light. No other teaching has produced such results. Here is the supreme test. There are many new systems of theology, many nostrums are being loudly advertised, but the one test of them all is in the fruit they bear."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 24,
+    "content": [
+     {
+      "text": "Building on Secure Foundations -- Matthew 7:24-29\n\nIn the Syrian summer, when the soil is baked hard by the intense heat, any spot will serve equally well as the site of a house. No one can say whether his neighbor has built well or ill-only the builder knows. But in the winter the rain falls in torrents and the valleys are filled with foaming floods, which sap all foundations that have not gripped the living rock.\n\nTo believe about Christ is not enough; we must believe in Him. We must come to Him as a Living Stone and become living stones, 1 Peter 2:4-8. We must not only listen to Him; we must obey Him. There must be living, unbroken unity and fellowship between Him and us. Then we may proceed to erect the structure of godly and holy living which shall grow into a holy temple in the Lord, 1 Corinthians 3:10-15. May we receive, with meekness, the engrafting of the Word, which is able to save the soul!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 7
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 6
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 8
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JDG",
+  "commentaryId": "fbmeyer",
+  "name": "Judges",
+  "commonName": "Judges",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Promise of a Nazarite Champion -- Judges 13:1-14\n\nThe secret of Samson’s strength was a puzzle to his contemporaries. Even Delilah could not account for it, Judges 16:5-6. Clearly, then, it did not depend on his great height, nor his brawny chest and arms, nor his muscular development. It was due, as Hebrews 11:32 explains, to his faith, which opened his nature to the Spirit of God. See Judges 14:6; Judges 14:19; Judges 15:14. But faith is always in direct proportion to consecration. The soul cannot give itself in two directions nor serve two masters; and if it draws its energy from the eternal God, there must be strict discipline exercised on the gateways of sense.\n\nThis was the intention of the Nazarite vow, which was generally taken for a limited period, but in this case for life. Its three particulars are enumerated in Numbers 6:4-9. Modern physiology has laid heavy emphasis on the necessity for a mother’s careful regimen. How blessed it would be if not mothers only, but fathers and indeed all who influence young life, would, for the sake of Christ and the children, abstain from alcohol! Is this price too much for love to give? See Mark 9:42."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "The Promise Fulfilled -- Judges 13:15-25\n\nManoah’s wife comforted her husband with admirable tact. How often her words come back to us, at the different stages of life! The fact that God continues to bless and use, to answer prayer and give revelations of Himself, may be quoted as a reason for believing that He has not cast us off. Would He have showed us such things as these and then kill us? His love in time past forbids us to think so.\n\nSamson means sunny. A happy, laughing lad, with his profuse crown of unshorn hair-is it any wonder that the soldiers of the garrison, situated on the Dan-frontier, welcomed him? And the Spirit of God began to play on his young soul, as a minstrel plays on his harp. Such is the literal rendering of “began to move.” Oh, happy are they whose natures lie open to God’s touch, so that the least movement produces a quick and glad answer! As the Aeolian harp will respond to the kiss of the zephyr or the moan of the rising storm, so be it with our hearts and lives. Thus our unconscious influence may become as songs without words."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JDG",
+  "chapter": 14
+ }
+}

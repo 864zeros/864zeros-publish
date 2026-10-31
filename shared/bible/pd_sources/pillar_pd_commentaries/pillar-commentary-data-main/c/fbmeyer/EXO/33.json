@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Angel Leader and the Human Intercessor -- Exodus 33:1-11\n\nMoses knew that His people were forgiven, but it hurt him to hear that an angel was henceforth to lead them. See Exodus 32:34. The burden of two and a half millions of people was too heavy for him to carry, even with angel-help. He must somehow secure the withdrawal of that sentence, “I will not go up in the middle of thee.” He spoke of it to the people, who awoke to realize what their sin had forfeited, and put off their jewels. But their leader gave himself to prayer. Since Sinai was too far to climb, he seems to have pitched his own tent outside the camp as a temporary meeting-place with God; and when he entered it the people said: “Look! he is going to pray for us;” and he spake with God face to face, as we may, of what was in his heart. See John 16:26-27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "God’s Presence Promised and His Glory Shown -- Exodus 33:12-23\n\nWhen Moses found himself alone with God he made two outstanding requests:\n\n(1) For God’s presence. “If thou dost not go with me, I cannot go; angels are not enough. They are fair, and sweet, and strong, but I want thee. Wilt thou leave me-a lonely man-to thread these desert wastes with this people? Thou hast put the burden on me, and thou canst not leave me to carry it alone!” It is good when a man gets to close grips with God, and it was to him according to his faith. See Exodus 33:14.\n\n(2) For a vision of God’s glory. Again the answer came as he asked-“I will put thee in a cleft of the rock.” The sides of the mountains are rent and scarred; but who can tell the anguish of Him who was “marred” for us? Yet, in the cleft wound of His side there is room for us to hide. “Rock of Ages, cleft for me!” On Calvary, a niche was hollowed out in which a world of sinners may find shelter."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 34
+ }
+}

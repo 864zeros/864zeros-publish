@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LEV",
+  "commentaryId": "fbmeyer",
+  "name": "Leviticus",
+  "commonName": "Leviticus",
+  "numberOfChapters": 27
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Light and Bread and the Holy Name -- Leviticus 24:1-23\n\nThe words “Before the Lord” are twice repeated in the opening paragraph. The pure lamplight, emblematic of the influence of a religious life; and the showbread, set on the golden table, emblematic of lives of obedience and devotion, which are well-pleasing to God, are both said to be “before the Lord.” We are reminded of the command to Abram, “Walk before me and be thou perfect;” and of the words of the dying Jacob, “The God before whom my fathers, Abraham and Isaac, did walk.” This implies the continual consciousness of the presence of God. We all possess what may be termed a sub-consciousness, which lies beneath our ordinary sense. Let that be God filled!\n\nWhat a pitiable condition that half-breed was in! May we be Israelites indeed, in whom is no guile! How they reverenced the very name of God. See 3 John 1:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LEV",
+  "chapter": 25
+ }
+}

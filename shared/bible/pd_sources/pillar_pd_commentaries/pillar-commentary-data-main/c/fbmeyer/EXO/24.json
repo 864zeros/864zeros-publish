@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 24,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Covenant Made and Sealed by Blood -- Exodus 24:1-11\n\nMoses remained in communion with God while receiving the laws of the preceding chapters. When they were concluded he descended to ratify with all solemnity the Covenant between Jehovah and Israel. If the altar represented God’s side of the transaction, the twelve pillars stood for Israel. The young men filled the priestly office according to Exodus 13:2, and until the Levites were appointed. It must have been a solemn spectacle as the sprinkled blood sealed the covenant. But let us turn from that first covenant, sealed with the blood of beasts, to the New Covenant, by which all the Church of the Redeemed are bound to God, and which was sealed by the shedding of the precious blood of Christ. “This is my blood of the Covenant,” said Jesus, when handing round the wine.\n\nSee Hebrews 9:18-20, and Exodus 13:20. The Lord’s Supper is a perpetual reminder of our obligations."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Moses Shown God’s Plan for the Tabernacle -- Exodus 24:12-18; Exodus 25:1-9\n\nThere were four concentric circles, so to speak, represented as gathered around the burning center of the Divine Presence. In the outer circle, the people, Exodus 24:2; Exodus 24:17; next, the seventy elders, Exodus 24:9; Exodus 24:14; then, Joshua, Exodus 24:13; Exodus 32:17, and lastly, Moses, Exodus 24:18. These represent respectively, the unenlightened; those whose religious life is hindered by their excessive devotion to the flesh; the few whose fellowship is liable to be interrupted by the war-clarion; and those who have been made nigh unto God in Jesus Christ our Lord, and have been baptized into the Holy Spirit. To which group have we attained? We are invited to draw nigh, let us act on the invitation. See Hebrews 10:19-20.\n\nThere is always room at the top, and there we may stand, beholding, as in a glass, the glory of the Lord. Notice that God said, Come up unto Me. He longs to have our love and faith; His delights are with the sons of men; at great cost He has opened the door of access, Romans 5:1-2. We need God, but God wants us, and therefore the construction of the Tabernacle is next arranged, that He may dwell with man upon the earth."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 24
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 23
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 25
+ }
+}

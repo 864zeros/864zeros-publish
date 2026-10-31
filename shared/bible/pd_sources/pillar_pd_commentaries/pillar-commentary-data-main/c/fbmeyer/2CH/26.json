@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 26,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Made Him to Prosper -- 2 Chronicles 26:1-15\n\nThe reign of Uzziah was, to all appearance, extremely prosperous; but his personal character deteriorated, as though it could not bear an unbroken succession of prosperity. Proofs of his genius for empire are furnished by his successful wars, 2 Chronicles 26:6-7, his widespread fame, 2 Chronicles 26:8, his buildings and husbandry, 2 Chronicles 26:9-10, and his armies and engines of war, 2 Chronicles 26:11; 2 Chronicles 26:15. In all these “he was marvelously helped.” How many can bear the same glad witness concerning God’s dealings with them! The best preventive of pride is to recognize all blessing as coming from the marvelous help of God.\n\nWhen we review our earlier life and think of the position to which God has raised us, can we do other than cry, “Marvelous! Marvelous!” We cannot understand why God has so signally favored us, but we are persuaded that only by His grace we are as we are. Let us not forget that we are made strong in order to help the weak. Whatever we have must be viewed as a precious talent for helping forward the everlasting kingdom of the Lord Jesus. The secret of prosperity is given in Psalms 1:3."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "The Penalty of Pride -- 2 Chronicles 26:16-23\n\nThe offices of priest and king were rigorously kept apart throughout the history of Israel. Melchizedek’s dual office is typical of the priestly reign of Christ, and had no counterpart in the Mosaic and Levitical ritual. Zechariah’s prediction indicated an absolutely new era, Zechariah 6:12-13. The rash act of Uzziah was resisted by the priests, and the issue was decided by the terrible brand of leprosy which appeared suddenly upon his forehead. As the result of his attempt to flout the solemn sanctions of divine origin and authority, he lost even the religious privileges which he had enjoyed before.\n\nHowever great God’s goodness, and whatever be the position of usefulness to which we may attain, there are prescribed limits beyond which we may not go. We must not cast ourselves in willful abandonment from the pinnacle of the Temple. God’s dearest children must not presume on their familiarity, and take liberties with His rules and ways."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 26
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 25
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 27
+ }
+}

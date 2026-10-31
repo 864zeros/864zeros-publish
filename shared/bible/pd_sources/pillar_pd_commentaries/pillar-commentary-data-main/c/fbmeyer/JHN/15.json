@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JHN",
+  "commentaryId": "fbmeyer",
+  "name": "John",
+  "commonName": "John",
+  "numberOfChapters": 21
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Condition of Fruitfulness -- John 15:1-9\n\nThe vine is not able to do its work in the world without its branches; they stretch far from the root, to bear its strength and sweetness to those who stand outside the wall, Genesis 49:22. We need the Lord Jesus, but He also needs us. Without us He cannot bless men as He would. What a sublime thought is here-that Jesus needs something which I can yield Him! Service to God and man is possible only through abiding union in Him. Let us yield ourselves to be pruned by the Word, that we may not need the pruning of awful sorrows. It is said that three out of five of the vine-berries are cut off that the remainder may attain their full size. How many of our own promptings have to be excised in order that our best fruit may be yielded!\n\nWe cannot be severed from Christ, our covenant head, when once we are truly united to Him for salvation; but we may cease to abide in Him for the supply of grace and power in ministry. Abide in me, says the vine to the branch. Do not allow the aperture to become choked, and I will cause the sap to pulsate through thee. Abide in me, says the Lord, and I will be in thee strength in thy weakness, love in thy lovelessness, grace and beauty in thy uncomeliness. “From me is thy fruit found,” Hosea 14:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "“I Have Called You Friends” -- John 15:10-16\n\nWe must estimate the Father’s love to Jesus before we can measure His love to us. We are told to love one another with the same love, but enabling power is needed, or we can never fulfill His command. Our love is not like His, unless it is prepared to sacrifice itself even unto death. Not servants, but friends! The first stage is that of the bondservant, who does what he is told, not because he understands, but because he has no option. Friendship involves obedience on our part; and on His part the making known of the deep things of God.\n\nEven the Son learned obedience by the things which He suffered. It is by implicit obedience alone that we can pass into the closer intimacy of friendship and ultimately of sonship. There is no limit to what the Father will do for those whom His Son calls “friends.”"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Suffering for Jesus’ Sake -- John 15:17-27\n\nWe have been appointed for the one purpose of bearing imperishable fruit, but our holy service to the world will never be appreciated. The world has its own god and religion. It hates without cause. The more Christlike we are, the closer we shall be identified with His sufferings. There is no limit to the hatred and persecution which the world will vent on those who have ceased to belong to it because of their identification with the Crucified. But through the pitiless storm, we must be glad; there must be no slackening of our love, which will as certainly conquer hate as tomorrow’s sun the darkness, John 15:26-27.\n\nIn each Christian century there has been this double witness of the Spirit in the Church. The voice of the Church has testified to the living Christ, not arguing but attesting; and to each word of testimony the Holy Spirit has borne assenting witness. Christian apologetics are of less importance than the witness of obscure but Spirit-led lives."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JHN",
+  "chapter": 16
+ }
+}

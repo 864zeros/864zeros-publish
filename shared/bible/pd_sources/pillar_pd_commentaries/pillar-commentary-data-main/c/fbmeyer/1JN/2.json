@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1JN",
+  "commentaryId": "fbmeyer",
+  "name": "1 John",
+  "commonName": "1 John",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Keeping His Commandment of Love -- 1 John 2:1-11\n\nIt is clearly possible to be kept from known and presumptuous sin. We shall be tempted, for that is an inevitable experience of life in this world; but we may be perfectly kept by the indwelling Spirit. Yet if we should be overtaken by some sudden gust of temptation, let us not despair; our Advocate ever makes intercession for us. The evidence that we have a saving knowledge of our Savior is obtained, not by the memory of a rapturous experience, but because we are conscious of doing, for His sake, things which we should otherwise evade. Let us continue to do such things, because by the path of patient obedience we shall enter into the Paradise of perfect, love. The outer walk is the best evidence to ourselves and others that there is an abiding union between us and Jesus.\n\nLight involves love; and love, light. Love and you are in light. Indulge hatred or ill-will and you begin to grope in darkness."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Transient Desires, Abiding Life -- 1 John 2:12-17\n\nThere are gradations in Christian experience-the child, the father, the young man. The note of the child is the glad sense of forgiveness; of the father, a deep knowledge of God; of the young man, victory over the power of evil. With all these is growth. The child, through forgiveness, also comes to know the Father; the fathers can only go on to know God more profoundly; and as the young men become stronger they are more aware of the indwelling spirit of power.\n\nDistinguish between the world of nature and the world of appearance, which is an illusion, the vain dream of human imaginings and boastings. It is the sphere of sense as contrasted with the sphere of spirit. It is the sum of all that the flesh lusts after, the eyes feast on, and the soul takes pride in. The Preacher gathers the world into one phrase, “under the sun,” Ecclesiastes 1:3. The world is passing as a moving-picture film, and the power to enjoy it is vanishing also. Only that which is rooted in God abides."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Loyalty to Truth -- 1 John 2:18-29\n\nThe Holy One is surely the risen Savior, who has passed into the heavens, whence He bestows the Holy Spirit as a sacred chrism on meek and trustful souls. We can say with the psalmist, “Thou anointest my head with oil.” Let us seek fresh anointing. “I shall be anointed with fresh oil,” Psalms 92:10. Whenever we attempt to do God’s work, we should be able to say, “The Spirit of the Lord is upon me, and He hath anointed me.” The anointed soul understands things hidden from the wise and prudent, 1 John 2:27.\n\nWe must hold the Word of Christ by perpetual reiteration and meditation; only so shall we be able to abide in Him. This abiding life involves not merely that we shall work for God, but that God will work through us. The abiding branch bears much fruit, because the energy of the vine is set free to work its will through its yielded channels. A life of abiding communion with Christ will never be ashamed in this or in any other world."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 3
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 62,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Our only Rock and Refuge -- Psalms 62:1-12\n\nThis is the “Only” Psalm. It consists of three stanzas, each of which begins with that word and ends with Selah. It was probably composed during Absalom’s rebellion.\n\nWaiting, Psalms 62:1-4 They who wait for God, and God alone, cannot wait in vain. Though ringed around by men who hide their malice under specious words, the soul is not greatly moved. Their ring-fence of hate totters to its fall, but the inner wall of God’s care is steadfast.\n\nSilence, Psalms 62:5-8 Wait here, and in Psalms 62:1, may be rendered “is silent,” “be silent.” There are times when God seems so near that we cannot speak aloud, but are just silent before Him and breathe out our thoughts and desires.\n\nNot disappointed, Psalms 62:9-12 Men and money are lighter than air, but God endures. His performances, unlike man’s, weigh heavier than His promises. They who trust Him will be satisfied with an abundance of power and mercy, which are open to the poorest, but which gold can never buy."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 62
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 61
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 63
+ }
+}

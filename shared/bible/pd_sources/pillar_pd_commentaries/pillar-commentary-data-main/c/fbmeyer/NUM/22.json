@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Balaam Sent for, to Curse Israel -- Numbers 22:1-20\n\nThese chapters present a surprising contrast between the covetous prophet and his sublime prophecies. It is clearly possible to be the mouthpiece of truth and yet have neither part nor lot in it.\n\nBalak, as had been predicted, was sore afraid. Compare Numbers 22:3 with Exodus 15:15. The elders of Midian were his friends and allies. It was very important for them to stand together. The journey across the desert to Mesopotamia, where Balaam lived, was long and tedious, but he was a famous magician, who could marshal unseen forces into the battle by his incantations. He knew the only true God, but loved the wages of unrighteousness and erred for reward. See 2 Peter 2:14-16; Jude 1:11.\n\nHe made up his mind to win Balak’s promised gifts, and sought to persuade God to become his accomplice, first, by letting him go, and, secondly, by letting him say what Balak wished said. But God demands our loyalty and unison with Him, and will not swerve from the path of truth and righteousness by a hair’s-breadth to help our desires and ambitions."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "Balaam Warned What to Speak -- Numbers 22:21-40\n\nIf only Balaam had abided by his first answer to Balak’s request, he would have been saved from the disgrace and suffering which ensued. But he seemed to think that it was possible to alter God’s mind; hence his request to the second company of messengers that they give him time to ascertain God’s will. Already that will had been clearly made known to him; what object had he in pressing for a further response?\n\nWhen, finally, he was told that he might go, he rose up in the morning, saddled his ass, and started post-haste. He was trying to serve two masters-to speak as God bade him, but to please Balak and pocket his gold.\n\nHow many agencies God uses to arrest our evil courses! Peter specially refers to this incident, 2 Peter 2:16. Many cries are raised to stop the boat that is caught in the rapids above Niagara! Thus the way of transgressors is made hard by the love of God!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 41,
+    "content": [
+     {
+      "text": "A Blessing instead of a Curse -- Numbers 22:41; Numbers 23:1-12\n\nNotice the position of these chapters, preceding the awful story of Baal-peor. Presently the Israelites will be perpetrating such terrible sins that it might seem impossible for God to continue to acknowledge them; yet here God stands for them and restrains the spirit of evil. He will take their chastisement, when needed, into his own hands.\n\nWith all his might Balaam strove to earn the royal gifts. Ah, thought he, that I could really feel that I was the organ of the divine malediction! But he could not feel in his heart that God’s spirit was urging him in the direction that Balak wished. The stream of destiny was not running that way. On the contrary, he could forge no weapon against Israel that could prosper, and when he tried to raise his tongue in judgment against the people of God he was condemned. It was as if God said, “Touch not mine anointed.” Psalms 105:15; Isaiah 54:17; Romans 8:31."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 23
+ }
+}

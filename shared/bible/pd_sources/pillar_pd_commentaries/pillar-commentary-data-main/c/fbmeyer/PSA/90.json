@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 90,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Message of the Passing Years -- Psalms 90:1-17\n\nThe majestic music of this great psalm separates it from all the rest. It is like the deep bass stop of a mighty organ. Moses’ authorship is stamped upon it. It is worthy of the man who had seen God face to face.\n\nPsalms 90:1-6. The transitoriness of human life is contrasted with the stability of God. He is the asylum and home of all the generations of mankind, Deuteronomy 33:27. The earth and its mountains the universe and its worlds, were born of Him; but He Himself had no origin, no beginning. Time is but a sigh, a breath, the swift rush of the mountain-torrent, a tale told by the camp-fire at night, the grass of a morning’s growth.\n\nPsalms 90:7-12. A wail is borne in these verses from the forty years of wanderings. The ceaseless succession of graves was the bitter harvest of Israel’s rebellions. Oh, that we might apply our hearts to wisdom that we may not fail of God’s rest!\n\nPsalms 90:13-17. In the closing words Moses utters a sublime prayer which includes us all. Let us seek to do some good work before we go, and may our children be a nobler generation than ourselves! But all beauty of character and permanence of work must emanate from God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 90
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 89
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 91
+ }
+}

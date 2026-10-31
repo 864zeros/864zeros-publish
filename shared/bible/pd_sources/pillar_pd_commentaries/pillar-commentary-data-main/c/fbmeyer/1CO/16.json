@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1CO",
+  "commentaryId": "fbmeyer",
+  "name": "1 Corinthians",
+  "commonName": "1 Corinthians",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Systematic Beneficence -- 1 Corinthians 16:1-12\n\nIt is remarkable that the Apostle can turn from one of his sublimest flights of sacred eloquence to deal with so ordinary a matter as the collection. But, after all, there is no incongruity. The thoughts to which he has given expression should surely lead to some tangible response of Christian duty and activity, or they would injure rather than help. Nothing is more injurious to the Christian conscience than trumpet-sounding which leads to no response in action. If the foregoing chapter does not stimulate Christian generosity, nothing will.\n\nNote the time-the first day of the week, indicating the reverence with which the early Christians regarded that day. The method-the definite appropriation for God’s work of a certain proportion of income, as it accrues. The proportion-as the giver may be prospered. Paul disliked vehement collection appeals, and advised that we should give according to a system, and not merely by impulse.\n\nRemember it is God who opens great and effectual doors before His servants. It is of no use to force them. Let us wait for the Lord Jesus, who has the key of David, to open them, for then none can shut. Our duty is to be prepared to enter when the moment comes and the door swings wide."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Exhortations and Salutations -- 1 Corinthians 16:13-24\n\nThe Apostle was careful to cultivate friendship, one of the priceless gifts of God; and he was very generous not only in his references to his friends, but also in his dealings with them. Because Timothy was deficient in virile strength, Paul was always contriving to make his way easier; and though Apollos had drawn away some of his converts, the Apostle was desirous for him to visit Corinth again. Nor could he forget the household which had yielded him the first fruits. His solitude had been greatly cheered by the advent of the Corinthian deputation. Human love is a revelation of the divine; an earthen pitcher which God fills with heavenly treasure; a chalice holding the wine of life.\n\nNotice the flaming forth of Paul’s passionate love for Christ. He felt that any who failed to love Him must be accursed in disposition and soul; and would be accursed at his coming, like the barren tree standing in the midst of an orchard of fruit trees, crowned with blossom or heavy with fruit. Maran atha!-our Lord cometh. He will put right the wrongs of time, and crown His faithful servants with honor and glory. Hallelujah!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1CO",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CO",
+  "chapter": 1
+ }
+}

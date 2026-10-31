@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Wisdom Guards from Evil -- Proverbs 2:1-22\n\nSeveral words are reiterated in this chapter, which will unlock its treasures. Understanding, Proverbs 2:2-3; Proverbs 2:5; Proverbs 2:9; Proverbs 2:11. If wisdom is a moral quality, leading to intuitive knowledge, understanding may be taken to include something of a prophetic strain. Understanding gathers up and makes use of the results of observation and experience, whether of oneself or of others.\n\nNotice also the word walk, Proverbs 2:7; Proverbs 2:13; way, Proverbs 2:8; Proverbs 2:12-13; Proverbs 2:15; Proverbs 2:20; paths, Proverbs 2:8; Proverbs 2:13; Proverbs 2:15; Proverbs 2:18-20. See how eager the Divine Teacher is (l) to deliver the unwary from the way of the evil man, Proverbs 2:12, and from the way of the evil woman, Proverbs 2:16; and (2) to direct the feet of the young into the ways of the good and into the paths of the righteous, Proverbs 2:20. The path of safety and permanence is that in which we are perpetually conscious of the presence of the Master, Christ. He is the unseen companion of the soul in its difficult and perilous pilgrimage; and we may, in that companionship, appropriate the buckler of Pro 2:7, the integrity of Pro 2:8, and the stability of Pro 2:21."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 3
+ }
+}

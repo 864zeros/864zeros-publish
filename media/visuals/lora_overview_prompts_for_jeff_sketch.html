@@ -120,8 +120,119 @@
     </div>
   </header>
 
+  <!-- ======================= MODE A: FHG CANONICAL BIBLICAL SKETCH STANDARD ======================= -->
+  <h2>Mode A (LOCKED) — FHG (<code>For His Grace</code>) Canonical Biblical Sketch Standard <span class="preset-badge badge-low" style="margin:0;">STUDIO-001 &amp; MEDIA-001 LOCK</span></h2>
+
+  <div class="callout" style="background:#fdfaf3; border-left-color:#8b6642;">
+    <h4 style="color:#6e4f30;">Canonical 2-Step FHG Sketch Pipeline (<code>fig-001-jeff-style.jpg</code> + <code>G2 + S2</code> [All Else] / <code>G2 + S3</code> [Humans] + Bottom-Right Canonical Signature)</h4>
+    <p style="font-size:14.5px; color:#3d331a; line-height:1.65; margin-bottom:10px;">
+      All <b>For His Grace (FHG)</b> Bible catalog illustrations, devotional plates, and scripture visual aids are strictly grounded in <code>forhisgrace-web/images/fig-001-jeff-style.jpg</code>: <b>quiet, organic freehand fountain-pen contour drawings of natural biblical landscapes and grounded physical objects on warm cream parchment (<code>#F5EFE2</code>)</b>. Cubist/geometric blocks, portrait coifs, cross-hatching clutter, and grey washes are <b>strictly forbidden</b> in Mode A.
+    </p>
+    <div class="prompt-box" style="margin-bottom:10px;">
+      <b>STEP 1 — Single FHG Master Generation Prompt:</b><br/>
+      jeff_sketch style, [ONE-SENTENCE ORGANIC BIBLICAL SUBJECT], authentic freehand black fountain-pen contour drawing on warm cream parchment paper (#F5EFE2). Framed inside a thin hand-drawn black ink square border near the outer margin with subtle overshooting (+) corner intersections. Expressive calligraphic line-weight modulation with bold thicker outer silhouette contours and delicate fine interior contour lines. All interior forms and sky remain 100% open unshaded warm parchment. Negative: shading, cross-hatching, stippling, grey washes, color fills, geometric or cubist blocks, ruler-straight CAD lines, text, watermarks, signatures.
+    </div>
+    <div class="prompt-box">
+      <b>STEP 2 — Mandatory Post-Process Lock (<code>_build/tools/apply_fhg_human_filter.py</code>):</b><br/>
+      1. <b>Nature &amp; Objects (<code>fhg_sketch_spec</code> · ~90% of verses) → <code>G2 + S2</code>:</b> <b>Geometry G2</b> per-stroke straightening (<code>epsilon=2.5px, overshoot=0.15px</code>) + <b>Humanizer S2</b> (<code>stage2_master</code>: <code>baseFrequency=0.045</code>, <code>numOctaves=3</code>, <code>scale=1.8</code>, <code>blur=(0.0, 0.0)</code>, <code>haze_opacity=0.0</code>).<br/>
+      2. <b>People Seen from Back (<code>fhg_sketch_people_spec</code> · ~10% of verses) → <code>G2 + S3</code>:</b> <b>Geometry G2</b> per-stroke straightening (<code>epsilon=2.5px, overshoot=0.15px</code>) + <b>Humanizer S3</b> (<code>stage3_apprentice</code>: <code>baseFrequency=0.035</code>, <code>numOctaves=3</code>, <code>scale=3.8</code> [clamped to <code>1.6px</code> nib tooth in Fused Mode], <code>blur=(1.5, 1.0)</code>, <code>haze_opacity=0.35</code>, strictly seen from behind with zero facial features).<br/>
+      3. <b>Exclusive Canonical Signature Stamp:</b> <code>media/visuals/jeff_canonical_signature.png</code> (extracted from <code>ebook_meditation_04_surrender_burden.jpg</code>) is the <b>ONLY</b> signature used across the studio. Always stamped on the <b>bottom-right side</b> at <code>width = 0.18w</code>, <code>x_right = 0.942w</code>, <code>y_bottom = 0.971h</code> with a parchment-clearing breathing halo (<code>MaxFilter(7) + GaussianBlur(4.0)</code>).
+    </div>
+  </div>
+
+  <div class="gallery-grid-4">
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_01_romans_10_13_s2_locked.jpg" alt="Romans 10:13 FHG S2 Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Verse #1 · Romans 10:13 · S2 Locked</span>
+        <h5>Solitary Hilltop Stone Cairn</h5>
+        <p><code>jeff_sketch style, a solitary stone cairn marking a quiet hilltop trail under an open parchment sky.</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_04_acts_12_5_s2_locked.jpg" alt="Acts 12:5 FHG S2 Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Verse #4 · Acts 12:5 · S2 Locked</span>
+        <h5>Herodian Clay Oil Lamp on Stone Sill</h5>
+        <p><code>jeff_sketch style, a small clay oil lamp burning quietly on a rough-hewn stone windowsill.</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_06_2samuel_22_31_s2_locked.jpg" alt="2 Samuel 22:31 FHG S2 Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Verse #6 · 2 Samuel 22:31 · S2 Locked</span>
+        <h5>Sheltering Mountain Crag Over Path</h5>
+        <p><code>jeff_sketch style, a massive overhanging crag of weathered rock sheltering a quiet mountain path.</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_08_acts_7_59_s2_locked.jpg" alt="Acts 7:59 FHG S2 Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Verse #8 · Acts 7:59 · S2 Locked</span>
+        <h5>Fieldstones Beneath Quiet Olive Tree</h5>
+        <p><code>jeff_sketch style, a scattered pile of rough fieldstones at the base of a quiet olive tree.</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_11_daniel_12_3_s2_locked.jpg" alt="Daniel 12:3 FHG S2 Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Verse #11 · Daniel 12:3 · S2 Locked</span>
+        <h5>Quiet Rocky Ridge &amp; Vast Horizon</h5>
+        <p><code>jeff_sketch style, a quiet rocky ridge in simple fountain-pen contour beneath a vast, clear horizon.</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_16_psalm_129_2_s2_locked.jpg" alt="Psalm 129:2 FHG S2 Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Verse #16 · Psalm 129:2 · S2 Locked</span>
+        <h5>Wind-Bent Olive Tree Gripping Limestone</h5>
+        <p><code>jeff_sketch style, a wind-bent olive tree with thick roots gripping a rocky hillside.</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_22_revelation_20_6_s2_locked.jpg" alt="Revelation 20:6 FHG S2 Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Verse #22 · Revelation 20:6 · S2 Locked</span>
+        <h5>Open Rock-Hewn Garden Tomb</h5>
+        <p><code>jeff_sketch style, an open rock-hewn garden tomb with a rolled-away stone beside blooming olive branches.</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_25_mark_2_17_s2_locked.jpg" alt="Mark 2:17 FHG S2 Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Verse #25 · Mark 2:17 · S2 Locked</span>
+        <h5>Mended Clay Pitcher &amp; Olive-Oil Flask</h5>
+        <p><code>jeff_sketch style, a mended clay pitcher resting beside a small olive-oil flask on a wooden table.</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_07_psalm_123_2_people_back_s4_locked.jpg" alt="Psalm 123:2 FHG S4 People Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-high">Verse #7 · Psalm 123:2 · S4 People Locked</span>
+        <h5>Robed Shepherd from Back (`fhg_sketch_people_spec`)</h5>
+        <p><code>a robed shepherd seen from the back standing quietly in the mid-ground beside a low dry-stone fieldstone wall with a wooden staff in hand looking out toward the rolling Judean hills</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_09_acts_9_4_people_back_s4_locked.jpg" alt="Acts 9:4 FHG S4 People Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-high">Verse #9 · Acts 9:4 · S4 People Locked</span>
+        <h5>Cloaked Traveler on Desert Road (`fhg_sketch_people_spec`)</h5>
+        <p><code>a solitary cloaked traveler seen from behind walking along a stony desert road between rough boulders toward distant hills</code></p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/fhg_verse_14_exodus_23_20_people_back_s4_locked.jpg" alt="Exodus 23:20 FHG S4 People Locked Sketch" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-high">Verse #14 · Exodus 23:20 · S4 People Locked</span>
+        <h5>Two Companions in the Valley (`fhg_sketch_people_spec`)</h5>
+        <p><code>two robed travelers seen from the back walking together along a narrow footpath bordered by stacked fieldstones winding peacefully into a quiet valley</code></p>
+      </div>
+    </div>
+  </div>
+
   <!-- ======================= LINE ARCHITECTURE & MASTER BLUEPRINT ======================= -->
-  <h2>Signature Master Blueprint: Geometric Coif &amp; Stark Minimal Line Art</h2>
+  <h2>Mode B (Non-FHG) — Figurative / Contemporary Portrait Preset: Geometric Coif &amp; Stark Minimal Line Art</h2>
 
   <div class="callout" style="background:#fdfaf3; border-left-color:#b8860b;">
     <h4 style="color:#7a5800;">The Exact Signature Style Definition:</h4>
@@ -213,6 +324,106 @@
         <div class="prompt-box">
           <b>Generation Prompt:</b> jeff_sketch style, minimalist black ink line-art portrait, contemplative young figure, pure white background, massive sculptural coif of interlocking stepped geometric faceted blocks, disciplined directional parallel diagonal hatching, downcast dark eyes, high contrast, clean white paper
         </div>
+      </div>
+    </div>
+  </div>
+
+  <h4 style="margin-top:26px; margin-bottom:12px; color:#5a3e1b;">Complete Geometric Coif, Gestalt Facial Restraint &amp; Hybrid Scribble Benchmarks</h4>
+  <div class="gallery-grid-4">
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_victorian_hybrid_clean.jpg" alt="Victorian Geometric Coif + Circular Scribble Hybrid" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-spot">★ Hybrid Master (`test_victorian_hybrid_clean.jpg`)</span>
+        <h5>Geometric Coif + Angular Jaw + Circular Scribble</h5>
+        <p>Synthesizes stepped geometric hair facets + parallel diagonal hatching + chiseled angular jawline + continuous circular fountain-pen scribble loops across the collar and shoulders.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_victorian_hybrid_annotated.jpg" alt="Victorian Hybrid Annotated" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-orig">Annotated Breakdown</span>
+        <h5>Hybrid Architecture Callouts</h5>
+        <p>Annotated reference showing the 3 distinct mark-making zones (`test_victorian_hybrid_annotated.jpg`).</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_victorian_woman_geometric_jaw.jpg" alt="Victorian Woman Geometric Jaw" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-med">Angular Jaw Calibration</span>
+        <h5>Victorian Coif &amp; Chiseled Geometric Jawline</h5>
+        <p>Straight-edge angular jaw/chin segments harmonizing with the cubist hair facets (`test_victorian_woman_geometric_jaw.jpg`).</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_victorian_woman_geometric.jpg" alt="Victorian Woman Geometric" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Period Updo Study</span>
+        <h5>Victorian Geometric Updo (`test_victorian_woman_geometric.jpg`)</h5>
+        <p>Towering faceted updo and structured standing collar with directional parallel hatching.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_gestalt_minimal_face.jpg" alt="Gestalt Minimal Face" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-color">Gestalt Facial Closure</span>
+        <h5>Gestalt Subtractive Facial Restraint (`test_gestalt_minimal_face.jpg`)</h5>
+        <p>Zero eyelid creases, zero nasolabial folds—single suggestive strokes on stark white negative space.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_dynamic_pose_gestalt.jpg" alt="Dynamic Pose Gestalt" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-color">Dynamic Gesture</span>
+        <h5>Dynamic Pose + Popped Collar (`test_dynamic_pose_gestalt.jpg`)</h5>
+        <p>3D faceted coif and Gestalt facial closure maintained across a dynamic diagonal posture.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_geometric_coif_three_quarter.jpg" alt="Three-Quarter Coif Turn" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-med">3D Perspective Turn</span>
+        <h5>Three-Quarter Volumetric Coif (`test_geometric_coif_three_quarter.jpg`)</h5>
+        <p>Proves stepped polygonal hair facets maintain 3D volume when rotated in perspective.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_woman_geometric_full_upper_lip.jpg" alt="Feminine Portrait Full Upper Lip" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-spot">Feminine Lip Calibration</span>
+        <h5>Cascading Geometric Ribbons &amp; Cupid's Bow (`test_woman_geometric_full_upper_lip.jpg`)</h5>
+        <p>Flowing zig-zagging geometric hair ribbons past the shoulders with delicate fuller upper lip.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_woman_wavy_hair_geometric.jpg" alt="Wavy Geometric Hair" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Wavy Ribbon Study</span>
+        <h5>Long Wavy Geometric Hair (`test_woman_wavy_hair_geometric.jpg`)</h5>
+        <p>Translating long flowing waves into faceted geometric ribbon planes.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_waterfall_mountain_geometric.jpg" alt="Geometric Waterfall & Mountain" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-orig">Geological Landscape</span>
+        <h5>Polygonal Cliffs &amp; Waterfall (`test_waterfall_mountain_geometric.jpg`)</h5>
+        <p>Stepped polygonal rock facets, parallel diagonal shadow hatching, and Gestalt negative-space mist.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_beach_house_geometric.jpg" alt="Geometric Beach House" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-med">Coastal Architecture</span>
+        <h5>Beach House &amp; Stepped Cumulus Clouds (`test_beach_house_geometric.jpg`)</h5>
+        <p>Weathered coastal house on stilts, polygonal sand dunes, and stepped geometric clouds.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box"><img src="rendered_art/test_scribble_portrait_refined.jpg" alt="Refined Scribble Portrait" /></div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-high">Refined Scribble Portrait</span>
+        <h5>Continuous Circular Scribble Portrait (`test_scribble_portrait_refined.jpg`)</h5>
+        <p>Clean Gestalt facial restraint paired with expressive continuous circular fountain-pen scribble loops.</p>
       </div>
     </div>
   </div>
@@ -663,6 +874,118 @@
     </div>
   </div>
 
+  <!-- PART 6: SCRIBBLE ART & "BUILD TO TAKE AWAY" 3-PASS SUBTRACTIVE ARCHITECTURE -->
+  <h3>6. Scribble Art &amp; "Build to Take Away" 3-Pass Subtractive Architecture</h3>
+  <p>Diffusion models work additively—they cannot conceptualize sparse, searching lines without first building the underlying 3D mass. Our <b>3-Phase Scribble-to-Erasure Pipeline</b> and <b>5–7 Year Impressionistic Loop Calibration</b> reproduce authentic kinetic searching lines (also browsable in the full 140-plate gallery at <a href="../../overview.html#drawings" target="_blank"><code>overview.html#drawings</code></a>):</p>
+
+  <div class="callout" style="background:#fdfaf3; border-left-color:#b35f3b; margin-bottom:20px;">
+    <h4 style="color:#8a3b1b;">The 3-Pass "Build to Take Away" Scribble Formula:</h4>
+    <p style="font-size:14.5px; color:#3d2807; line-height:1.7;">
+      <b>Pass 1 (Kinetic Scribble Search):</b> Loose, continuous circular and figure-8 searching scribble loops mapping out the volume and shadow planes without lifting the pen.<br>
+      <b>Pass 2 (Darken Found Contours):</b> Press harder with the black fountain pen strictly along the true structural contours discovered inside the scribble web.<br>
+      <b>Pass 3 (Subtractive Erasure · 75–80% Scaffolding Removed):</b> Erase 75–80% of the construction scribble scaffolding back to clean paper while leaving selective kinetic loop remnants in the shadow pockets.
+    </p>
+  </div>
+
+  <div class="preset-grid">
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/scribble_pass1_kinetic_search.jpg" alt="Scribble Pass 1: Kinetic Search" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-low">Scribble Pass 1 · Kinetic Search</span>
+        <div class="preset-title">1. Kinetic Loop Foundation</div>
+        <div class="preset-desc">Continuous, rapid searching pen loops and gestural scumbling establishing 3D mass and shadow planes.</div>
+      </div>
+    </div>
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/scribble_pass2_darken_found_lines.jpg" alt="Scribble Pass 2: Darken Found Lines" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-med">Scribble Pass 2 · Found Contours</span>
+        <div class="preset-title">2. Darken Found Structural Lines</div>
+        <div class="preset-desc">Heavy fountain-pen ink deposit locking down the discovered silhouette and primary anatomical planes over the scribble web.</div>
+      </div>
+    </div>
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/scribble_pass3_subtractive_erasure.jpg" alt="Scribble Pass 3: Subtractive Erasure" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-orig">Scribble Pass 3 · Subtractive Master</span>
+        <div class="preset-title">3. Subtractive Erasure (75% Stripped)</div>
+        <div class="preset-desc">75–80% of interior construction scribbles erased back to stark white paper, leaving breathable searching-line remnants.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="preset-grid" style="margin-top:18px;">
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/scribble_lesson04_pass1_kinetic_search.jpg" alt="Lesson 04 Scribble Pass 1" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-low">Landscape Pass 1 · Kinetic Search</span>
+        <div class="preset-title">1. Bridge &amp; Waters Kinetic Scribble</div>
+        <div class="preset-desc">Full-coverage kinetic figure-8 scribble search across stone bridge arches and rushing water.</div>
+      </div>
+    </div>
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/scribble_lesson04_pass2_darken_found.jpg" alt="Lesson 04 Scribble Pass 2" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-med">Landscape Pass 2 · Found Lines</span>
+        <div class="preset-title">2. Arch &amp; Bank Structural Lock</div>
+        <div class="preset-desc">Darkened primary stone arch contours and shoreline geometry emerging from the kinetic scribble web.</div>
+      </div>
+    </div>
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/scribble_lesson04_pass3_subtractive_erasure.jpg" alt="Lesson 04 Scribble Pass 3" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-orig">Landscape Pass 3 · Subtractive Erasure</span>
+        <div class="preset-title">3. Breathable Subtractive Landscape</div>
+        <div class="preset-desc">Construction scribbles stripped from sky and primary stones, preserving kinetic water and shadow loops.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="preset-grid" style="margin-top:18px;">
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/impressionistic_scribble_5to7yr.jpg" alt="5-7 Year Impressionistic Scribble" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-color">5–7 Yr Impressionistic Hand</span>
+        <div class="preset-title">Airy Circular Loops &amp; Negative Space</div>
+        <div class="preset-desc">Calibrated 5–7 year illustrator hand: airy circular loops, suggestive planes, and generous open negative space.</div>
+      </div>
+    </div>
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/test_young_artist_dense_loop_scribble.jpg" alt="Dense Loop Kinetic Scribble" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-high">High-Velocity Loop-de-Loop</span>
+        <div class="preset-title">Dense Kinetic Scumble Search</div>
+        <div class="preset-desc">Continuous high-velocity circular scumble loops mapping facial shadow planes without lifting the pen.</div>
+      </div>
+    </div>
+    <div class="preset-card">
+      <div class="preset-img-wrap" style="height:220px;">
+        <img src="rendered_art/pure_abstract_scribble_plate.jpg" alt="Pure Abstract Scribble Plate" />
+      </div>
+      <div class="preset-body">
+        <span class="preset-badge badge-spot">Pure Kinetic Study</span>
+        <div class="preset-title">Pure Abstract Scribble Plate</div>
+        <div class="preset-desc">Unfiltered kinetic ballpoint/fountain-pen loop energy and line-weight rhythm study.</div>
+      </div>
+    </div>
+  </div>
+
   <!-- ======================= 1. DENSITY CALIBRATION PRESETS ======================= -->
   <h2>1. Density Calibration Presets</h2>
   <p>Our core test case is <b>Genesis 1:3</b> (<i>"Speak order and light into chaotic situations"</i>). Depending on the publishing medium (mobile UI headers, print book chapters, or dramatic video reels), we calibrate line density and cross-hatching across three primary presets:</p>
@@ -927,8 +1250,8 @@
           <td><code>jeff_sketch style, an old weathered wooden chair beside a rain-streaked window, minimalist open-space sketch, delicate 2H contour linework, sparse hatching, ample white paper background, soft morning reflection, traditional graphite sketch.</code></td>
         </tr>
         <tr>
-          <td><b>For Bible Lessons (Balanced Line &amp; Wash)</b></td>
-          <td><code>jeff_sketch style with soft watercolor wash, an ancient shepherd staff resting against a rocky mountain stone under a radiant sunbeam, clean graphite linework, delicate golden amber and sage watercolor bleeds, uncluttered composition, line and wash on paper.</code></td>
+          <td><b>For FHG Bible Verses &amp; Scripture (Mode A Locked)</b></td>
+          <td><code>jeff_sketch style, [ONE-SENTENCE ORGANIC BIBLICAL SUBJECT], authentic freehand black fountain-pen contour drawing on warm cream parchment paper (#F5EFE2). Framed inside a thin hand-drawn black ink square border near the outer margin with subtle overshooting (+) corner intersections. Expressive calligraphic line-weight modulation with bold thicker outer silhouette contours and delicate fine interior contour lines. All interior forms and sky remain 100% open unshaded warm parchment. Negative: shading, cross-hatching, stippling, grey washes, color fills, geometric or cubist blocks, ruler-straight CAD lines, text, watermarks, signatures.</code><br/><small style="color:var(--accent-dark); font-weight:700;">+ Post-Process: Humanizer S2 (<code>scale=1.8</code>) + <code>jeff_canonical_signature.png</code> at bottom-right (<code>x_right=0.942w, y_bottom=0.971h</code>)</small></td>
         </tr>
         <tr>
           <td><b>For Dramatic Themes / Reels (Spot Color Chiaroscuro)</b></td>
@@ -938,20 +1261,74 @@
     </table>
   </div>
 
-  <!-- ======================= 7. ASSET PIPELINE MAPPING ======================= -->
-  <h2>7. Production Pipeline &amp; File Routing</h2>
+  <!-- ======================= 7. DOWNSTREAM BLOTCHY & COLOR PRINTMAKING LADDER (B1 + C1-C4) ======================= -->
+  <h2>7. Downstream Blotchy Ink-Wash (`B1`) &amp; Color Printmaking Ladder (`C1`–`C4`) <span>Sloane Sterling (`STUDIO-001`) · Orion Kai (`MEDIA-001`)</span></h2>
+  <p>Across all <b>864zeros Studio &amp; Media Division</b> products (FHG Bible Study/Trivia/Journals, Poetry &amp; Creative Books, Editorial Covers, and Video Stills), the <b>Blotchy Sumi-e Ink-Wash (`B1`)</b> and <b>4 Color Printmaking Filters (`C1`–`C4`)</b> operate <i>downstream</i> after <code>jeff_sketch</code> generation via <code>_build/tools/apply_fhg_human_filter.py</code> (or via hybrid AI Img2Img + Python):</p>
+
+  <div class="callout">
+    <h4>Universal 6-Stage Downstream Filter Pipeline (`apply_fhg_human_filter.py`)</h4>
+    <p><b>Stage 0 (Base):</b> <code>jeff_sketch</code> contour or ink-and-wash draft &rarr; <b>Stage 1 (`B1`):</b> Blotchy Sumi-e 3-tier charcoal daubs + 5.8% margin clear &rarr; <b>Stage 2 (`G1`–`G5`):</b> RDP stroke-straightening &rarr; <b>Stage 3 (`S1`–`S5`):</b> Nib tooth &amp; charcoal diffusion &rarr; <b>Stage 4 (`C1`–`C4`):</b> Pure-Python Risograph halftone / Ukiyo-e skyline bokashi printmaking &rarr; <b>Stage 5:</b> Canonical bottom-right signature (<code>jeff_canonical_signature.png</code>).</p>
+  </div>
+
+  <div class="gallery-grid-4">
+    <div class="gallery-card">
+      <div class="gallery-img-box">
+        <img src="rendered_art/fhg_jos_09_joshua_14_10_b1_g2_s3_c2.jpg" alt="C2 3-Color Earth Risograph" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-spot">★ Favorite #1 · Stage C2</span>
+        <h5>C2: 3-Color Earth Risograph (`fhg_riso_earth_3color_spec`)</h5>
+        <p>Warm Golden Ochre (18&deg; halftone) trail bed + Sage Olive (52&deg;) brush/foliage + Terracotta Rust (78&deg;) accents + Raw Umber primary linework. Flag: <code>G2+S2+B1+C2</code> or <code>C2</code>.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box">
+        <img src="rendered_art/fhg_jos_09_joshua_14_10_b1_g2_s3_c3.jpg" alt="C3 Ukiyo-e x Earth Risograph Hybrid" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-color">★ Favorite #2 · Stage C3</span>
+        <h5>C3: Ukiyo-e &times; Earth Risograph Hybrid (`fhg_ukiyoe_earth_riso_hybrid_spec`)</h5>
+        <p>Framed Terracotta-Amber Ukiyo-e skyline bokashi gradient behind the top silhouette ridge + 3-color Earth Risograph halftone below. Flag: <code>G2+S2+B1+C3</code> or <code>C3</code>.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box">
+        <img src="rendered_art/fhg_jos_09_joshua_14_10_b1_g2_s3_c1.jpg" alt="C1 Dual-Tone Terracotta & Pine Risograph" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-low">Stage C1 · Minimalist 2-Ink</span>
+        <h5>C1: Dual-Tone Terracotta &amp; Pine Risograph (`fhg_riso_terracotta_pine_spec`)</h5>
+        <p>Minimalist 2-ink screenprint with Terracotta Clay (35&deg;) + Sage-Slate (75&deg;) halftones and Deep Forest Pine primary ink. Flag: <code>G2+S2+B1+C1</code> or <code>C1</code>.</p>
+      </div>
+    </div>
+    <div class="gallery-card">
+      <div class="gallery-img-box">
+        <img src="rendered_art/fhg_jos_09_joshua_14_10_b1_g2_s3_c4.jpg" alt="C4 Classic Prussian Blue Ukiyo-e Woodblock" />
+      </div>
+      <div class="gallery-info">
+        <span class="preset-badge badge-med">Stage C4 · Flat Woodblock</span>
+        <h5>C4: Classic Prussian Blue Ukiyo-e (`fhg_ukiyoe_prussian_woodblock_spec`)</h5>
+        <p>Top-down Prussian Blue woodcut sky fade with flat mineral woodblock tints in Terracotta Ochre, Sage Green, Rust, and Indigo. Flag: <code>G2+S2+B1+C4</code> or <code>C4</code>.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======================= 8. ASSET PIPELINE MAPPING ======================= -->
+  <h2>8. Production Pipeline &amp; File Routing</h2>
   <p>All assets flow through the official <code>864zeros-publish</code> Media House structure:</p>
 
   <ul>
     <li><b>Training Pool:</b> <code>media/visuals/training_pools/sketches/</code> (136 captioned image pairs)</li>
     <li><b>Trained LoRA Model:</b> <code>media/visuals/lora_weights/864z_jeff_sketch_v1.safetensors</code></li>
+    <li><b>Downstream Filter Engine (`B1`, `G1`–`G5`, `S1`–`S5`, `C1`–`C4`):</b> <code>_build/tools/apply_fhg_human_filter.py</code></li>
+    <li><b>Visual Spec &amp; Filter Registry:</b> <code>shared/bible/FHG_VISUAL_SPEC_REGISTRY.json</code></li>
     <li><b>Reference Photography:</b> <code>media/photography/references/</code> (Source photos for Img2Img conversion)</li>
     <li><b>Production Artwork:</b> <code>media/visuals/rendered_art/</code> (All generated PNG/JPG assets)</li>
     <li><b>Poem/Lesson Linkage:</b> Every JSON record in <code>shared/creative/</code> or <code>shared/bible/</code> can link directly to its corresponding image path.</li>
   </ul>
 
   <footer>
-    864zeros Media House · Published Asset &amp; Style Architecture · Updated 2026-09-01
+    864zeros Media House · Published Asset &amp; Style Architecture · Updated 2026-10-29
   </footer>
 </div>
 

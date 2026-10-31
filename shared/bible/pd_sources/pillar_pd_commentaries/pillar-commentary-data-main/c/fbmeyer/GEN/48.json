@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 48,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Joseph Visits His Dying Father -- Genesis 47:27-31; Genesis 48:1-7\n\nHow inexorable is the must of death! For many years Jacob had exceeded the ordinary span of human life, and now, like the last apple on the tree, he must be gathered. For seventeen years he had been familiar with Egypt’s splendid temples, obelisks and pyramids; he had been surrounded with all the comforts that filial love could devise; but nothing could make him forget that distant cave in the land of Canaan. In his judgment Egypt’s most splendid pyramid was not to be compared with that humble sepulcher where the mortal remains of Abraham and Sarah, of Isaac and Rebekah, and of the faithful Leah awaited his. On Joseph’s second visit he was weaker, and with an effort nerved himself for the interview. The angel-ladder and Rachel’s death stood prominently out before the dying eyes. When he returned from this pathetic reverie he turned to the two boys who stood awestruck beside him and adopted them, for their beloved father’s sake."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Jacob Blesses Joseph’s Sons -- Genesis 48:8-22\n\nBy his act in blessing them, Jacob reversed the verdict of birth, and gave the younger the birthright. Probably there were qualities in Ephraim which naturally put him in the foremost place. The Bible is full of hope for younger sons. He spoke of the Angel, Jehovah, so often referred to in the Old Testament, and who can be no other than the Son of God. He also is our Shepherd, Guardian and Friend. He will feed and tend us all our life long.\n\nHe will redeem us from all evil and bring us to a blessed end in peace. Be of good cheer! He cared for you in your helpless infancy and will do no less in your helpless old age. If any lads hear this portion read let them notice that old Jacob prayed God to bless the lads. Evidently then, no little lad is too small for God to notice and bless! Though the fathers die, God lives and will bring us again to “the land of the leal.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 48
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 47
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 49
+ }
+}

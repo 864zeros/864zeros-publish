@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jonathan’s Exploit for the Lord -- 1 Samuel 14:1-15\n\nJonathan was a true knight of God. He was the Hebrew Galahad, a soldier without fear and without reproach. His life was pure, his word was true, he was faithful to the high claims of human love, and followed the Christ, though as yet he knew Him not.\n\nHe had entered into the spirit of the divine Covenant, and could not believe that God had forgotten and forsaken. Was not the old promise true that “one [should] chase a thousand, and two put ten thousand to flight” ? Deuteronomy 32:30. Happy are they who can rise above depression and misfortune into the clear heaven of fellowship with God, allying their weakness with His might, their ignorance with His wisdom! “It may be that the Lord will work for us,” said Jonathan; “for there is no restraint to the Lord to save by many or by few.” Then he offered himself as the humble instrument of God’s will. The people recognized this. They said: “He hath wrought with God this day.” And the soul that reckons on God cannot be ashamed. “The Lord saved Israel that day.” In such works God and man co-operate. See John 3:21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Victory Shadowed by Saul’s Errors -- 1 Samuel 14:16-35\n\nSaul’s unwise prohibition had a terrible sequel: first, in the exhaustion of his troops; and, second, in the rushing of the hungry upon the spoil without the proper separation of blood. Then, as the day closed in, the divine oracle was dumb. Evidently some sin had interposed its dark shadow between the king and the Eternal Light. See 1 Samuel 14:37. Saul knew this, but he refused to look for the sin in his own heart, even when he and Jonathan stood alone. See 1 Samuel 14:42.\n\nThe cause of the discomfiture and silence was not in Jonathan. Saul was alone to blame. In that the good sense of the people decided rigidly. Not only had the king marred and missed the greatest opportunity of his life, but he was already enwrapping his soul in that jealousy, moroseness of temper and impetuosity of judgment which ruined his after-career. In Paul’s expressive phrase, he became a castaway, and was flung from the mighty hand which longed to make Him a vessel unto honor, meet for every noble work. See 1 Corinthians 9:27; 2 Timothy 2:21."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 36,
+    "content": [
+     {
+      "text": "The Man Who Wrought with God Rescued -- 1 Samuel 14:36-52\n\nIn this case the voice of the people was the voice of God. If a man dares to stand alone with God, he cannot be put to shame. If he says of the Lord, “He is my refuge and my fortress; my God, in whom I trust.” Ten thousand voices answer: “He shall cover thee with His feathers, and under His wings shall thou trust…. Thou shalt not be afraid.” “No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn,” One with God is always on the stronger side.\n\nHow safe are they who do God’s commandments, hearkening to the voice of His wind! When our Lord was arrested, He stood boldly before His captors and, interposing between them and His timid disciples, said, “If ye seek me, let these go their way.” This is His invariable method. As the mother-bird interposes for her helpless young; as the ring-fence of fire intercepts the night attack of the wild beast: as the broad river and its streams bar the progress of the foe; as the arm of masonry protects the ships from the storm, so the Lord is round about His people forever!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 15
+ }
+}

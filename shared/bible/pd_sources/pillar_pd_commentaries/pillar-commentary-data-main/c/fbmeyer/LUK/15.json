@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Seeking and Finding the Lost -- Luke 15:1-10\n\nThey that have left the fold in which they were nurtured in early life, and have gone over bleak mountains and through tangled brakes, find themselves in this exquisite picture. But the Lord is on their track. He cannot abide happily with the rest, while one sheep is liable to be torn by beasts of prey or caught away by eagles. He goes after it till He finds it. Don’t you think, mother, that the Lord loves that child of yours, now far away, as much as you do? Cannot you trust Him to seek until He finds? Then He will ask you to rejoice with Him. Jesus not only receiveth sinners, but seeketh them. Those who have always lived an outwardly correct life and who do not think themselves in need of repentance are the ninety and nine.\n\nSome have the King’s stamp on them, but have rolled away into the dark corner amid dust and shavings. Oh, that we were all more willing to go down on our knees to sweep the floor to find the lost! The nine links of a necklace are useless if the tenth is missing. Christ cannot be satisfied until the lost coin is found."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Son Who “Came to Himself” and to His Father -- Luke 15:11-24\n\nThe pearl of parables! Too often we desire God’s gifts apart from Himself. The far country is not far in actual distance, but in the alienation of the heart. You may be living in a pious home and yet be in the far country. Sin is waste. The far country is always swept by famine, because our soul was made for God and cannot live on husks. Neither things nor people can really appease our awful hunger if we are away from God.\n\nSin is temporary madness. The first step to God is to come to ourselves. The prodigal’s real nature stood face to face with the ruin and havoc of his sin. Never, for a moment, had the Father ceased to love and yearn. There was an instant response to the slightest indication of repentance. Love was quicker than words, to understand what the prodigal meant. The confession was therefore cut short. Note the profuse welcome, meeting every need-the robe of righteousness, the ring of reconciliation, the kiss of love, the shoes of a holy walk, the feast of fellowship."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The Son Who Never Came to His Father -- Luke 15:25-32\n\nNotice the difference between the Father’s care for his elder son and the son’s own estimate of his position, and you will see how easily you may miss the holy possibilities of your own life, if you allow yourself to be blinded by jealousy!\n\nEver with me; life was meant to be irradiated and blessed by the constant sense of God’s nearness. We were meant to live in God and God in us. All that I have is thine; such is our wealthy condition, in the purpose of God, that all His divine resources, stored in Jesus, await the appropriation of our faith.\n\nBut if we fail to recognize our brother in the penitent thy son; if we shut ourselves out of the joy, because of some fancied slight, or of pharisaic pride, we miss our own truest blessedness. But God entreats us to come into it.\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 16
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Patriot’s Self-Sacrifice -- Nehemiah 2:1-11\n\nThe seventh month answers to our March or April, so that four months had passed since Nehemiah had set himself to special prayer. Between the king’s second question and Nehemiah’s answer, the simple-hearted cup-bearer found time to pray to the God of heaven. Then, with the assurance that God was with him, he did not scruple to ask great things: that he might be sent to the city of his fathers to build it, and that he might receive all the materials necessary for its construction. But he is careful to record that his requests were granted, not by the clemency of the king, but according to the good hand of God. Do we recognize that good hand enough? We get glimpses here into the inner workings of this man’s heart.\n\nHe felt that God had put His holy purpose there. He did not hesitate to confess this to the Jews and amid the opposition and scorn of their foes; he strengthened himself in his God, sure that He would not have brought him so far to put him to shame. Be sure you are on God’s side, and nothing will be impossible to you."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Braving Ridicule and Treachery -- Nehemiah 2:12-20; Nehemiah 4:1-12\n\nSuspicion, Nehemiah 2:12-20. Sanballat was probably a Moabite, a native of Horonaim; Tobiah had been a slave. There are many descendants of these two men in all our Christian communities today, hindering God’s work. This heroic soul met their scorn and the depression of the people by unwavering faith and calm confidence in the good hand of God, Nehemiah 2:18. How small do our difficulties seem when brought into the sight of the God of heaven!\n\nReproach, Nehemiah 4:1-6. Whenever God’s work revives, there is sure to be evil-speaking and reproach. It is a mistake to reply. Let us hand over our cause to God, and go on with His work. It matters very little what men say, as long as He is pleased. Had Nehemiah had the message of Christ he would not have prayed as in Nehemiah 2:5. Our Lord taught us to intercede for our enemies, Matthew 5:44. But let us emulate Nehemiah’s zeal for the name of God, and let us remember that increased light means increased responsibility, Matthew 11:11.\n\nActive opposition, Nehemiah 2:7-12. In time of hostility, our friends and allies are apt to grow discouraged and to advise the suspension of our work. “We are not able;” but faith looks to God alone and triumphantly holds on its way."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 4
+ }
+}

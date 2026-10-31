@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "fbmeyer",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Testimony of an Unsatisfied Soul -- Ecclesiastes 1:1-18\n\nAll is vanity! This cry finds an echo in human hearts of every age and clime. Clod meant man to be happy. “These things,” said our Lord, “I have spoken to you, that your joy may be full.” “The fruit of the Spirit is joy.” Yet the air is laden with complaint and bitterness. Men are asking constantly, “Is life worth living?” The present age is full of unrest and weariness, of war and strife, of unsatisfied yearnings and desires. The mistake is that men seek to solve the mystery of life and to find their happiness apart from God, who has made us for Himself.\n\nThis book was written and incorporated in the Bible to show that man’s quest for happiness is vain, so long as it is apart from God. Solomon had unbounded opportunities for pursuing his quest. Youth, wealth, wisdom, royalty, human love were his, but when all were mixed in the golden cup of his life, he turned from the draught unsatisfied and sad. Listen to the sigh of the sated voluptuary: Vanity of vanities! Let us turn from these bitter experiences to 1 John 2:15-17."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 31
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 2
+ }
+}

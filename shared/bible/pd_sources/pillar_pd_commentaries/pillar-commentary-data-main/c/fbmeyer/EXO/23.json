@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Laws of Conduct and Worship -- Exodus 23:1-17\n\nWe may apply these various precepts to our own hearts. Many of them breathe the very spirit of Christ. We must watch our speech, so that no man’s character may suffer by our gossip or slander. We must dare to stand for the truth, though we stand absolutely alone. With all kindness and good will we must save our neighbor from damage, even though he has vented on us his spleen. It is never for us to take advantage of him; God will deal with him on our behalf, and in His own time and way.\n\nLet us not fret ourselves to do evil. David’s example in refusing to injure Saul when his bitter enemy was within his reach is an inspiring example for us to follow. We must hold an even balance for just and honorable dealing with all men; and cultivate the Sabbath-keeping of the heart. In every life, also, there should be perpetual memory of Calvary, the Resurrection and Pentecost-the three feasts of the soul!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 18,
+    "content": [
+     {
+      "text": "Promise of Entrance into Canaan -- Exodus 23:18-33\n\nThis Angel must have been the Lord himself, for Stephen said expressly that the Angel was with Moses at the burning bush, where Jehovah revealed Himself, and the very ground was holy. Besides, we are told here that God’s Name-i.e., His nature-was in Him. The Son of God, therefore, must have been the leader of that pilgrim-host, preceding the march, and preparing for their needs.\n\nNotice that God would also send the hornet before His people, Exodus 23:28. The Presence, which is an Angel for God’s children, becomes a hornet to the rebellious and ungodly. To one it is a savor of life, and to the other of death. The sun that bleaches linen white, tans the hands that expose it; the cloud which is light to Israel is thick darkness to Egypt. Grieve not the Holy One, who will overcome your enemies and satisfy your soul with goodness, if you will obey His voice."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 24
+ }
+}

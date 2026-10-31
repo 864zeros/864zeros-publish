@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Sanctify Daily Life -- Hebrews 13:1-13\n\nWe may not like all the brethren, but there is something in each of them that Christ loves. Let us try to discover it, or love them for His sake. We can love people with our mind and think for them, or with our strength and serve them, even though the heart is somewhat reluctant.\n\nStrangers and captives must never be forgotten, either in our prayers or our ministry. The love within the marriage tie must be unsullied, and we must watch against the insidious lust of gold. Why should we always be thinking of money, when God has promised, with two negatives, never to fail us, Hebrews 13:5? Thrice we are asked to remember those who bear office and rule in the church, Hebrews 13:7; Hebrews 13:17; Hebrews 13:24.\n\nWe are called to a holy crusade. It is not for us to linger in circumstances of ease and self-indulgence when our Master suffered without the gate! Let us go forth unto Him, bearing His reproach! Has not the Church tarried in the city long enough, enervated by its fashions and flatteries?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Praise, Prayer, and Peace -- Hebrews 13:14-25\n\nNotice that though the ancient sacrifices have been abolished, there is one which can never grow old-the sacrifice of praise. This incense must ever ascend from the heart-altar. And to this we must add the sacrifices of doing good and distributing our goods.\n\nPerfection in the closing paragraph, Hebrews 13:21, means adjustment, the setting of a dislocated bone. We may be in the body of which Jesus is the Head, and yet be out of touch with Him. We need setting; and this is work which God will delegate to no angel, however exalted. He will do it Himself as tenderly and gently as possible, because He is the God of peace. Do you doubt it? Did He not bring the Shepherd to glory, and is He not able to bring the sheep also? Never rest until you are in living organic union with Jesus, that He may be able to work His will through you to your own great joy and for the hastening of the Kingdom."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JAS",
+  "chapter": 1
+ }
+}

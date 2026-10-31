@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NEH",
+  "commentaryId": "fbmeyer",
+  "name": "Nehemiah",
+  "commonName": "Nehemiah",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Neglect of Religious Duties -- Nehemiah 12:44-47; Nehemiah 13:1-14\n\nIn Nehemiah 12:44-47 we have recorded the care that was manifested for the worthy maintenance of those who ministered in sacred things. As a result there were glad outbursts of minstrelsy and holy joy. Make room in your life for songs and praises, Psalms 33:1. In the opening of Neh 13:1-31 we see how the Word of God cuts like a two-edged sword against evil. Happy are they who attend to its solemn warnings. The law referred to here was Deuteronomy 23:3-5.\n\nTobiah was an Ammonite, and it was a scandalous thing that the high priest was not only allied to him by marriage, but had cast out the stores of the Temple in order to make room for him in the sacred edifice. Tobiah’s influence was so great that the rest shrank from putting the law of separation into operation against him. When Nehemiah returned from a long sojourn in Persia he cast out all of Tobiah’s goods, and restored the chamber to its proper use. If we have given up a chamber in our heart to any Tobiah, we must be prepared to do likewise."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 15,
+    "content": [
+     {
+      "text": "A Disobedient and Gainsaying People -- Nehemiah 13:15-31\n\nLet us remember to keep perpetual Sabbath in the heart, whatever be our outward life. In this life there is a Sabbath rest for the people of God, Hebrews 4:9, but we must labor to enter into it, and must set God’s angel of peace to keep the door against all intruders, Philippians 4:7. Twenty years before, Ezra had dismissed the strange wives, but the evil had risen again. Alas, how sadly do children expose the inconsistencies of their parents, and betray the evil of unequal marriages! We see plenty of this around us; and where there is such a union, the balance is almost certain to turn in favor of the world and against vital godliness, Deuteronomy 7:4; 2 Corinthians 6:14. Nehemiah did not hesitate to add strong acts to strong words.\n\nJosephus says that this expelled priest was Manasseh, and that he went to his father-in-law, Sanballat, who built for him a temple on Mount Gerizim like that at Jerusalem, and that this was the origin of the religious rivalry and hatred between Samaritans and Jews, John 4:20. The faithful servant and the dying thief join in the same petition, Nehemiah 13:31. To be remembered by Jesus Christ is enough reward for any of us!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NEH",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EST",
+  "chapter": 1
+ }
+}

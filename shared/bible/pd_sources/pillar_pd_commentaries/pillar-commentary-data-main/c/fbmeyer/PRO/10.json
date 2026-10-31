@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PRO",
+  "commentaryId": "fbmeyer",
+  "name": "Proverbs",
+  "commonName": "Proverbs",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 10,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Righteous and the Wicked -- Proverbs 10:1-16\n\nWealth has its advantages, which are more than apparent. The rich man’s wealth is his strong city, Proverbs 10:15; but the treasures which have been obtained by wickedness are soon dissipated. They profit nothing, Proverbs 10:2. This book contains the striking thought that ill-earned wealth is never gathered for the benefit of the possessor, but rather for the benefit of the righteous, and must be useless until it gets into hands which will use it benevolently and rightly.\n\nBut there is another kind of wealth, which will never take wings to fly away, which no moth can corrupt nor thief steal, and which will avail not only here but here-after. Note the antithesis of Pro 10:2. If you would increase your wealth, give it away. See Proverbs 10:4.\n\nThe covering work of love, referred to in Proverbs 10:12, is emphasized in 1 Corinthians 13:7, r.v., margin, 1 Peter 4:8, and James 5:20. God covers sin, so that the memory of it is obliterated, Ezekiel 33:16."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The Blessing of the Lord Maketh Rich -- Proverbs 10:17-32\n\nLet us specially avoid talking too much. Silence is golden. See Proverbs 10:19. Yet the tongue of the just is as choice silver and the lips of the righteous feed many, Proverbs 10:20-21. When we speak, let us say something and let the people to whom we speak feel that their heart is lighter and that the heavenly horizons are nearer and clearer. Whatever you do, beware of uttering slander, Proverbs 10:18. You know, by your own experience, what is acceptable; see to it that your mouth brings forth wisdom and grace, Proverbs 10:31-32.\n\nBut this portion of Scripture deals, not only with the speech of the good man, but with his stability. The blessing of God is upon him, enriching him in all manner of ways; and there is no alloy in this gold, no bitterness in God’s love, Proverbs 10:22. The desire of the righteous is granted, because it is begotten of the divine Spirit. He is built on the Everlasting Rock, Proverbs 10:25; Proverbs 10:30. His hope is gladness, Proverbs 10:28. As he walks in God’s way, he gathers strength, Proverbs 10:29. Though he fall he is not utterly cast down; for God succors him with His saving strength, Psalms 37:24."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 10
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 9
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PRO",
+  "chapter": 15
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "NUM",
+  "commentaryId": "fbmeyer",
+  "name": "Numbers",
+  "commonName": "Numbers",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 15,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 27,
+    "content": [
+     {
+      "text": "Exemplary Punishment for Sabbath-breaking -- Numbers 15:27-41\n\nThis chapter resembles a sweet flute-like melody inserted between two fierce strains. It reminds us that in the middle of wrath God remembers mercy. The stranger-whether pilgrim, emigrant or slave-was to be included in burned-offerings and sacrifices; a prevision of the time when all holy souls shall be reckoned in the household of God, Ephesians 2:19.\n\nSins of ignorance may be forgiven, Numbers 15:22-29. They are sins. Debts of shortcoming need pardon equally as do trespasses. But, as Paul teaches us, we may confidently count on forgiveness for evil things done unwittingly. See 1 Timothy 1:12-14; Hebrews 5:2. It is quite otherwise with sins of presumption, Numbers 15:30-36. If persisted in, these induce death. See 1 John 5:16.\n\nWe have something better than the memorial fringe, in the ministry of the Holy Spirit, John 14:26."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 15
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 14
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "NUM",
+  "chapter": 16
+ }
+}

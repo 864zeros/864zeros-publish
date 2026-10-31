@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MRK",
+  "commentaryId": "fbmeyer",
+  "name": "Mark",
+  "commonName": "Mark",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 16,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Power of His Resurrection -- Mark 16:1-20\n\nIn the dim light the women brave the dangers of an Eastern city and hasten to the grave. How often we seek Christ in the grave of old experiences or of dead and empty rites; and how often we cherish fears for which there is no occasion! In the grave where Christ had lain a young man was sitting, arrayed in a glistening robe; so out of death comes life. And one result of the Savior’s resurrection has been that myriads of noble youths, clothed in garments of purity, have gone forth to shine like the dewdrops of the morning sparkling on the bosom of the earth. God’s angels are always young. We who are the children of the Resurrection in the life of eternity will grow always younger, as here our bodies are ever growing older.\n\nThe ministry of Galilee and Jerusalem is at an end, but the spirit of the Master goes forth to new victories in the Acts of the Apostles. Note the mighty power of faith, the signs that follow its manifestation in simplicity and purity; demons cannot resist it, serpents are rendered harmless, and healing streams flow from contact with it. Let us keep our eyes fixed on the risen Christ sitting at the right hand of God, and believe that he is ever working by our side and confirming our words, Hebrews 2:4."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 16
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MRK",
+  "chapter": 15
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 1
+ }
+}

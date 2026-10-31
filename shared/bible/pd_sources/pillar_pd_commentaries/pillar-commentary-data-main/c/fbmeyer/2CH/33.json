@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 33,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Affliction Teaches Humility -- 2 Chronicles 33:1-13\n\nBecause of his youth Manasseh was probably the more easily influenced by the reactionary party, who came back to power on Hezekiah’s death; but afterward, in his early manhood, he pursued still further these evil courses, and made Judah and Jerusalem to err. Warning voices protested in vain, until there was no alternative save the hooks and fetters of the king of Assyria. But in his dungeon in the far country he came to himself and God.\n\nThe words describing his penitence are very strong, suggesting long-continued tortures of conscience, and much agony of remorse. How quickly God heard him, and how incredible was his restoration! Here was a captive for life, as it seemed; yet he is not only set free, but actually restored to his kingdom and established on his throne. There is much hope for us all in this. If we truly repent of our sins, we shall be forgiven, and not only forgiven but restored again to our kingdom. Let us believe that God not only casts away our sins, but restores our soul."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Humbled Father, but Self-willed Son -- 2 Chronicles 33:14-25\n\nManasseh apparently did his best to undo the evil he had wrought in Jerusalem. So far as the idols and other symbols of idolatry were concerned, it was comparatively easy to take them away. But notwithstanding all his endeavors, the people still sacrificed in high places; and his son Amon perpetuated the memory of his father’s sins, making no effort to repeat his repentance and tears. Though Manasseh commanded Judah to serve the Lord, the people continued to worship amid the impure and degrading associations to which he had accustomed them.\n\nIt is easier to scatter thistle-down than gather it up. There are great thistle tracts in Australia, which would never have arisen but for the careless act of a Scotch settler, who imported from his native land one specimen of the national emblem. Take care of your influence. It is easier to set stones rolling than to stop them. It is recorded of a dean of St. Paul’s in London, that he was never seen to smile, because in his early life he had written verses of a sensual character, the circulation of which he was unable to arrest."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 33
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 32
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 34
+ }
+}

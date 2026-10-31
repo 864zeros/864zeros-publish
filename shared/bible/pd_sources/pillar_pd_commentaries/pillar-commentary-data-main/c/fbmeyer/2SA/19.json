@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2SA",
+  "commentaryId": "fbmeyer",
+  "name": "2 Samuel",
+  "commonName": "2 Samuel",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 19,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Mourning Too Late -- 2 Samuel 18:31-33; 2 Samuel 19:1-8\n\nWhat an awful day that was for David, seated between the inner and outer gates, scanning the landscape, and speaking now and again to the sentry posted above him. Did not the Spirit work an even deeper repentance than ever before, recalling the self-indulgence, the failure to watch, the lapse of fellowship? But was it not also an hour when David put his finger on the Covenant and asked God, notwithstanding all, to do as he had said, 2 Samuel 7:15?\n\nAs David waited, his heart interceded for Absalom. How exactly his attitude is that of many who read these words, who are unable to join in the activities of life, and who spend days and nights in uttering one dear name before God! But he loves our Absaloms more than we do! David wished that he might have died for his son, and you have felt the same. But did not Jesus die for the ungodly? We must leave all with Him, the Judge of all the earth, but also its Redeemer and Savior."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Bringing the King Back -- 2 Samuel 19:9-20\n\nJoab’s remonstrance, though expressed in rough and uncourteous phrase, was perfectly just. The royal troops, instead of being welcomed with acclamation, had slunk into the city, as if defeated, immediate steps must be taken to counteract their depression. Private grief must yield to public interests.\n\nThe revulsion of loyalty to David began with the ten tribes; but the concurrence of Judah was essential, and it was secured by the mission of the two priests and by the overtures of Amasa. These turned the scale, and Judah welcomed the king with joy, 2 Samuel 19:14. What a glimpse all this gives of the change that will be wrought when our Lord comes again-and apparently His advent is very nigh! Previous verdicts will be reversed. Shimeis will sue for mercy. Mephibosheths will be justified and Barzillais rewarded. What are we doing as individuals to secure the return of the King? Compare 2 Samuel 19:10 with 2 Peter 3:12. But have we brought the King back to His throne in our own hearts!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 21,
+    "content": [
+     {
+      "text": "A Day to Forget Injuries -- 2 Samuel 19:21-30\n\nAbishai’s reprobation of Shimei’s disloyalty was very natural; but at that supreme moment of triumph, David could afford to be magnanimous, and so he accepted Shimei’s abject apology and pleading. Evidently there was a growing alienation between the king and the sons of Zeruiah.\n\nMephibosheth urged that Ziba had shamefully wronged and misrepresented him, taking away the ass on which he had intended to accompany the king into exile, and imputing his laxity to the hope that he might be restored to his grandfather’s throne. He pointed to his disordered appearance as evidence of his intense grief. Clearly, however, David was not altogether satisfied and, desiring not to make Ziba his enemy, ruled that the estate should be divided between them. But Mephibosheth professed his willingness for his late servant to own it all. He might well feel repaid and satisfied, now that he had seen David’s face once again in peace, Philippians 3:8."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Returning over Jordan -- 2 Samuel 19:31-43\n\nDavid would willingly have taken Barzillai to his palace, but the famous Gileadite respectfully declined the invitation, alleging the infirmities of old age. However, the overtures which he refused for himself he gladly accepted for his son Chimham, who accompanied the king to the city and was treated with every consideration. In himself, the youth had no claims upon David, but he stood in the merits of another-his father. His title to the king’s favor consisted entirely in his being the son of Barzillai. Similarly the believer in Jesus, who is united to Him by a living faith, is “accepted in the beloved.” We are as near and as dear to God as Jesus is, and for His sake may stand in the palace.\n\nThe invitation for David’s return had originated in the ten tribes, but, through some mismanagement, the actual welcome was given by Judah. This led to a renewed manifestation of the rivalry that at length brought about the division of the kingdom."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 19
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 18
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2SA",
+  "chapter": 20
+ }
+}

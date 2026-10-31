@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "LUK",
+  "commentaryId": "fbmeyer",
+  "name": "Luke",
+  "commonName": "Luke",
+  "numberOfChapters": 24
+ },
+ "chapter": {
+  "number": 8,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Various Hearers of the Word of God -- Luke 8:1-15\n\nHitherto our Lord had made Capernaum His center; now He started on a circuit through the province of Galilee, going through its cities and villages in a systematic and leisurely manner. It must have been a great opportunity for the instruction of the Twelve in His doctrine and methods.\n\nThe parable of the sower was suggested by the scenery before the speaker. There is an advance in the stages of reception and growth, indicating the several phases of experience. The success or failure of gospel preaching is determined by the character of the soil. In every crowd there are the hardened, like the trodden path; the impulsive, like the thin layer of earth upon the rock; those with a heart divided by riches or cares, like the thorn encumbered soil; and those who receive with joy and bear fruit with patience. The Lord veiled His meaning in parables. Increased light would only add to the condemnation of disobedient hearers."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Hearing; Doing; Believing -- Luke 8:16-25\n\nInconsistency, unkindly words and acts, disobedience to our known duty will prevent our light from shining. If Christ has illumined your wick, see that you trust Him to find for you your stand, from which you may emit the clearest rays. You are lighted to shine!\n\nThe closest relationship to Jesus is not that of nature but of grace. To listen in your heart to God’s voice, to hear it in His Word and in Providence and then to do as it decrees, will bring you into the closest relationship with your Lord.\n\nBe prepared for storms if you link your lives with Christ. But they cannot hurt you. Men and demons will rage against you; but there is a limit to their power. Jesus rules the waves. “The sea is His and He made it.” If only you can include yourself and Christ in that pronoun we of Luk 8:24 you can never perish although there be as many demons against you as tiles on the house roofs. So Luther found it. See Isaiah 54:17."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 26,
+    "content": [
+     {
+      "text": "“Great Things” for One in Great Need -- Luke 8:26-39\n\nThe victim. In referring to but one demoniac the evangelist would probably concentrate attention on the more prominent of the two mentioned by Matthew. There must have been some collusion between the elements of the storm and the demons in this man. Everything seemed to oppose the Lord’s assertion of His right to be obeyed. If demons could possess a man with such power, what might not Christ do if we yielded ourselves absolutely to Him! There must have been some secret yielding on this man’s part, or his heart had never become a garrison of demons. He mistook Christ’s identity, confusing it with that of the demons. Naked; vile; mighty to destroy! What a terrible combination!\n\nHis masters. The evil one dreads to be unclothed and would prefer to be in a pig than in the abyss-that word means “without bottom.” Once begin to fall, where will it end? The Jews had no right to keep swine, whatever price the Romans were prepared to pay, Leviticus 11:7. Christ left Gadara, but left a preacher there. We are not taken out of the world, but sent to witness to it and against it."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 40,
+    "content": [
+     {
+      "text": "Tender Ministry to Maid and Woman -- Luke 8:40-56\n\nThe story of the poor woman has been characterized as that of “Nobody, Somebody and Everybody.” Nobody, for she was sick and poor and fearful. Somebody, for she was worthy of Christ’s notice. He healed her and even stayed His progress to the house of Jairus to elicit her frank confession and pronounce a further word of peace. Everybody, for her story not only helped Jairus, but has been a blessing to mankind; because we also have been the round of physicians but Jesus only has sufficed for our need.\n\nIt is a distressing thing to see a child die! Small wonder that Jairus was impatient for Christ’s help. The incident of the woman was permitted for his teaching and encouragement. We lose nothing when we await the Lord’s leisure. On the contrary, we profit.\n\nChrist needed the companionship of the Apostles because their faith counted. Do not mind small numbers; they are often the condition of Christ’s mightiest achievements. He will do what man cannot do, and leave man to do his little part. “Give her to eat.”\n\nFor Review Questions, see the e-Sword Book Comments."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 8
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 7
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "LUK",
+  "chapter": 9
+ }
+}

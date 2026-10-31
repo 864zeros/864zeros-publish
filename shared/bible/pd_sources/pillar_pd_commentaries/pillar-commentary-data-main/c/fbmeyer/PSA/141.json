@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 141,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Humility -- Psalms 141:1-10\n\nThis is an evening psalm. Acceptable prayer is as the smoke of incense rising in the still air, Revelation 5:8; Revelation 8:3-4. Each day we should ask to be delivered from lip sins, life sins, and like sins-especially the last, the dainties of appetite and desire, Psalms 141:4.\n\nWe owe a great deal to the care of fellow-believers. It may take more love to smite than to soothe. The breaking of the box of precious ointment over our heads may cause a momentary shock; but we must not refuse it, since the contents are so salutary; and we can return their well-meant kindness by praying for the righteous when their calamities are multiplied, Psalms 141:5. It was a rough time for David, but he kept looking up and committing his soul to God’s faithful care. Under similar circumstances Paul struck an even higher note, Romans 8:36-37. Go on patiently living up to your ideal. God will surely vindicate you!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 141
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 140
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 142
+ }
+}

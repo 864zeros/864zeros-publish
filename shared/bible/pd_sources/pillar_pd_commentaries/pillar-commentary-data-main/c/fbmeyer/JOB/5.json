@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Benefits of Chastisement -- Job 5:1-27\n\nIn this chapter Eliphaz closes his first speech. He had already suggested that Job’s sufferings were the result of some secret sin. It could not be otherwise according to his philosophy. Affliction and trouble did not come by chance. It was as much a law of nature, so Eliphaz thought, for calamity to follow sin as for sparks to fly upward. However deeply evil men had rooted themselves, they were doomed to be destroyed. Was it not obvious that Job had in some way offended? Let him confess and be restored!\n\nThe ideal life which will ensue on a genuine repentance is described in the most thrilling and glowing terms, Job 5:8-17. Each sentence is a priceless jewel, and each has been tested by generations of returning prodigals, for whom each promise has been countersigned by the “Yea” of Christ, 2 Corinthians 1:20. Paul quotes Job 5:13 in 1 Corinthians 3:19."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 6
+ }
+}

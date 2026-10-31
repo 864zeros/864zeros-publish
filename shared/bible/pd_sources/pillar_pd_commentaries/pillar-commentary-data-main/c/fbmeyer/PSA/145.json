@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 145,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Unsearchable Greatness -- Psalms 145:1-9\n\nThis psalm is an acrostic, the verses beginning with the successive letters of the Hebrew alphabet. The couplet for the fourteenth letter, Nun, between Psalms 145:13-14, has no place in the text. Some versions have supplied the omission as follows: “The Lord is faithful in all His words and holy in all His works.” This is virtually a repetition of Psa 145:17.\n\nThe word all is characteristic of this psalm. It was the Te Deum of the Hebrew Church. The Jews said that its threefold repetition was the best preparation for the praises of the world to come. Speaking of this psalm and those following, Dr. Gilfillan says: “They are the Beulah of the Book; the sun shineth night and day. Coming at the close of all the prayerful, penitential, and mournful psalms, they unconsciously typify the joy and rest of glory.” The theme of the psalm is God.\n\nHe is great, Psalms 145:3; gracious, Psalms 145:8; good, Psalms 145:9; upholdeth, Psalms 145:14; is righteous, Psalms 145:17; is nigh, Psalms 145:18; preserved, Psalms 145:20. And the main aspect of His handiwork is the creation and maintenance of a universe of happy beings who subsist on His bountiful care. His tender mercies are over all His works."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 10,
+    "content": [
+     {
+      "text": "God’s Bountiful Provision -- Psalms 145:10-21\n\nThere is more happiness in the world than we are disposed to think. God’s works give praise to Him. Take, for instance, the gladness of one summer day, when from the little green lizards upward there is a perfect murmur of enjoyment in the stilly heat. Shall we not trust God, to whom the care of all things is as easy as the opening of the hand is to us? Psalms 104:28.\n\nPsalms 145:13 is graven in the keystone of a very old building in Damascus, once a Christian church but for many centuries a mosque. The words are still true and are nearer historical fulfillment today than ever, Psalms 145:18. The Lord is always nigh, though we do not perceive or realize His presence, and it is good to affirm it as we pray. To utter these words often during one’s daily life is to practice the presence of God, after the manner of the Christian mystics. But some cannot do as much; they can only desire, Psalms 145:19. But He whose love notices the faintest yearning after Himself will fulfill it. See Psalms 145:19. We shall praise God worthily when we see Him as He is!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 145
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 144
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 146
+ }
+}

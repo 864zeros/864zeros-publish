@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HAG",
+  "commentaryId": "fbmeyer",
+  "name": "Haggai",
+  "commonName": "Haggai",
+  "numberOfChapters": 2
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Selfish and Shortsighted Thrift -- Haggai 1:1-11\n\nZerubbabel is the Sheshbazzar of Ezr 1:8. He was of the royal line, and appointed governor by Cyrus. Josedech was son of Seraiah, high priest when Jerusalem was taken, 2 Kings 25:18-21. The returned exiles had been experiencing a succession of bad seasons. They had sown much, and reaped little; their money ran out of the bag as quickly as they put it in; a drought lay on all the land, and the reason for it was to be found in the neglected Temple. How frequently our disasters and losses in business arise from our failure to remember God’s cause.\n\nWe say that we have not the time, cannot afford the money, and see no necessity for setting apart the Lord’s Day or the daily period for meditation and prayer. Did we see things as they really are, we should find that this is false economy, and wastes more than we save. “There is that which withholdeth more than is meet, but it tendeth to poverty.” The mower does not waste time when he stops to whet his scythe."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "The True Glory of God’s House -- Haggai 1:12-15; Haggai 2:1-9\n\nOne earnest man can arouse an entire community. Let a fire glow in our hearts, and it will spread. Assured of God’s presence and favor, within three weeks the whole land was awake. Note the cooperation of God’s Spirit with the message of His servant, “the Lord stirred up.” Let us ever seek and rely on His cooperation! “We are witnesses, so also is the Holy Spirit!” Three prophecies occupy the following chapter. In the first, Haggai 1:1-9, the Jews are encouraged to persevere. Although there was no comparison between the glory of Solomon’s Temple and the splendor of this, they must not be discouraged.\n\nThough they might deplore the absence of the sacred fire of the Shekinah, of the Ark with its cherubim, of the Urim and Thummim, and of the spirit of prophecy, yet the Messiah’s presence, which would be associated with the second Temple would more than compensate for their deficiency, since He was the antitype of them all. If we lack many of the advantages and attractions in which others excel, let us be more than satisfied to possess Christ. And be it always remembered that Christian worship seeks to realize the presence of Him who said: “I am in the midst.” Without that a cathedral is an empty void; with that, a barn will be heaven. For Haggai 1:6-7 see Hebrews 12:26-28. This little while in God’s arithmetic lasted for 517 years."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAG",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ZEP",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HAG",
+  "chapter": 2
+ }
+}

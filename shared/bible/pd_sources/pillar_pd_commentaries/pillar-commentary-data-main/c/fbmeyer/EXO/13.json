@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EXO",
+  "commentaryId": "fbmeyer",
+  "name": "Exodus",
+  "commonName": "Exodus",
+  "numberOfChapters": 40
+ },
+ "chapter": {
+  "number": 13,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The First-born Set Apart unto Jehovah -- Exodus 13:1-16\n\nTwo Hebrew customs dated from the Exodus-first, the dedication of the first-born to God’s service, and second, the Feast of Unleavened Bread, when the Passover must be killed. See Luke 22:7. The first-born had been especially redeemed and so were especially God’s. On them all was branded the one brief word Mine. What a lesson for us all who have been redeemed by the precious blood of Christ. We are His by right of purchase; we ought to be His by our own choice and indwelt by His Spirit.\n\nWhenever we take up this position with regard to God, we may count on His strong hand. In after years the first-born sons, who performed the priestly rites, were replaced by Levites, Numbers 3:11-13; but still they were ransomed by a slain lamb. Every first-born son lived because a lamb died. In this he stood on the same level as the firstling of an ass. What a parable is here! See Romans 3:22; Romans 10:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "The People are Led out and Pursued -- Exodus 13:17-22; Exodus 14:1-9\n\nThere were two routes to Canaan, the nearest through the land of the Philistines; but to take that would have exposed the Hebrews to the very sights that so dismayed the twelve spies. See Numbers 33:1-56. They might have had to fight every mile of advance. This would have been too great an ordeal for their young faith. So God, like the mother eagle, bore them on His wings. The Angel who conducted the march in the cloud chariot, led them about.\n\nThus God deals with us still, tempering the wind to the shorn lamb. Patience and faith are still severely tested by the circuitous and laborious route, but when in the afterwards we understand God’s reasons, we are satisfied. There are many lessons learned on the wilderness route. How often God leads us into what seem to be impossible positions, that in our absolute extremity there may be room for Him to work. All is love. See Psalms 136:1-26."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 13
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EXO",
+  "chapter": 14
+ }
+}

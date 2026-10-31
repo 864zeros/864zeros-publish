@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 2,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Speaking in Strange Tongues -- Acts 2:1-13\n\nThe priests in the Temple were offering the first loaves of the new harvest, in celebration of the feast of Pentecost, when the Holy Spirit came as the first fruits of our inheritance. Suddenly there was a sound that was heard throughout the city. There was no wind, but the sound of a rushing, mighty wind. Suddenly, as each looked on the rest, he saw their heads crowned with tongues of flame. Each, too, became suddenly aware of a drawing toward the Lord, of a longing to see Him glorified, and of a vast enlargement and enhancement of spiritual joy and power.\n\nWhen presently the vast crowd collected to know the meaning of the sound, each inspired soul gathered a little knot of hearers, to whom he discoursed of Jesus and the Resurrection; and the hearers heard in their own tongue, the wonderful works of God. The Holy Spirit used the telepathy of mind and heart, so that involuntarily the speaker clothed his thoughts in language borrowed from his hearer’s vocabulary. This was the sign of Babel’s undoing."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Outpoured Spirit -- Acts 2:14-24\n\nThe exulting joy of these Spirit-anointed people was accounted for by some through charging them with drunkenness. Peter dismissed the charge as absurd, seeing that the day was yet young. With a readiness that the Spirit had inspired, he declared it to be a partial fulfillment of Joel’s prophecy. This is that, Acts 2:16. Alas, we cannot say as much! This might be that; this shall be that-these are all that we can affirm.\n\nShall we ever be able to say, This is that?In the pre-Christian times the Spirit was given to mountain-top saints, but from Pentecost onward, sons and daughters, old and young, servants and hand-maidens, were to participate in His gracious influences. It is for the democracy of the Church, for the whosoevers who call on the name of the Lord, for the valleys as well as the hills.\n\nNotice that God’s determinate counsel and pre-arrangement did not take away the guilt that lay upon the murderers of the Christ. The hands that slew Him were wicked ones, Acts 2:23. But God vindicated Jesus by the Resurrection, which reversed the judgment of men and proved Him the Son of God with power, Romans 1:4."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "David’s Lord and Ours -- Acts 2:25-36\n\nWhen one considers the vast result of this address, one wonders at its simplicity. It is almost entirely a string of apt quotations. But what may not the Word of God do, when it is wielded by the mighty Spirit! Our Lord might have chanted to Himself Acts 2:26-28, when He descended, step by step, the dark staircase of death. God can never leave us in despair. At our lowest, He is nearest. There are ways up to life from the lowest deeps. David spake deeper than he knew, Acts 2:30. Here is an illustration of 1 Peter 1:11-12.\n\nIn Acts 2:33 we see the fulfillment of Joh 14:16. We can almost hear the Father asking what guerdon or reward He should give the Son for His obedience unto blood, and our Lord replying: “Father, I want nothing for myself, but only that I may receive into my divine-human nature the same fullness of the Holy Spirit that I had with thee before the worlds were made.” And it pleased the Father that the fullness of the Godhead should dwell in Him bodily, Colossians 2:9. Then, because He was united to man by His humanity, He was able to impart to him the fullness of Pentecost."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 37,
+    "content": [
+     {
+      "text": "Pentecostal Days -- Acts 2:37-47\n\nThere were no exceptions in Peter’s great appeal for repentance. Every one of you! he declared. “But I drove the nails into His hands.” Every one of you! he insists. “But I pierced His side.” Every one! says the Apostle again. And from this motley crowd arose the primitive Church. Notice that those who had gone deep into sin are not required to serve a long novitiate between forgiveness and the gift of Pentecost. In Acts 2:38 the two are combined. Notice also Acts 2:39. Not only Jews, but far-off Gentiles-nay, as many as God shall call by His inward speech and grace, are welcome to receive the fullness of the Spirit. Have you received it?\n\nThe italics, unto them, in Acts 2:41 had better be unto Him. The adding was primarily to Jesus Christ, 2 Corinthians 8:5. From the teaching of the Apostles these new believers stepped up into fellowship with them, because, when we are joined to Christ, we become one with all who are his. They still met in the Temple, standing there as one vast host, and seeing a new significance in the ancient rites. Their homes and daily meals were also raised to a new level; and every day there were additions of those who had experienced Christ’s saving power."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 2
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 3
+ }
+}

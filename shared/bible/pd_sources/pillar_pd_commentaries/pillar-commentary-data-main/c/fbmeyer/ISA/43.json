@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 43,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Jehovah’s Witnesses -- Isaiah 43:1-13\n\nThe magnificent conception of Isa 43:1-28 underlies this. We have still the convocation of mankind, summoned to decide whether Jehovah or some idol god shall be recognized as the supreme deity. In the arena are rows of helpless images rich in paint and tinsel, but mute and helpless, Isaiah 43:8-9. Jehovah, to vindicate His claims, calls into the witness box His Chosen People, that they may tell what they have known, tasted, and handled, of the Word of life, Isaiah 43:10.\n\nThis special function is not confined to the Hebrew race. By the express words of our Lord it is shared by the Church. See Acts 1:8. As our Lord bore witness to truth, His subjects are summoned to do the same. See 1 Timothy 6:13-14; Revelation 1:5.\n\nLet us witness to the love that never tires. “Fear not, thou art mine.” Let us witness to a purpose that never falters, Isaiah 43:1 and Isaiah 43:7. Let us witness to a deliverance that never disappoints. We are not saved from fire and water, but are delivered in the midst of them by the never-failing presence of our King. Let us ask for the Spirit of Truth to witness with us, Acts 5:31-32."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "A Way in the Wilderness -- Isaiah 43:14-28\n\nLet uptake care lest we thwart God’s purpose in our lives. We were made to show forth His praise, Isaiah 43:21; but we must beware of causing a revoking of His gracious purpose (See Numbers 14:34, r.v. margin): by prayerlessness, Isaiah 43:22; by the neglect of little things, Isaiah 43:23; by the lack of sweetness and tenderness in our disposition, Isaiah 43:24. “Be not high-minded, but fear; for if God spared not the natural branches, neither will He spare thee,” Romans 11:20-21, r.v.\n\nOn the other hand, directly sin is repented of and put away, it is blotted out, Isaiah 43:25. It is persistence in sin that causes God to turn from us. If we forsake what is evil, as soon as we are conscious of it, “the blood of Jesus Christ cleanseth from all sin.” It is blotted out as a cloud from the sky and no more remembered against us forever. This is done for God’s own sake. The reason for our salvation and deliverance is not in us, but in Him. The cross of shame and sorrow was His own expedient, and the Lamb in the midst of the throne is the emblem of the divine Atonement, which was commenced and finished by the inexplicable grace of God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 43
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 42
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 44
+ }
+}

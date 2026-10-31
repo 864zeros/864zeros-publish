@@ -1,0 +1,74 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Faith’s Triumphs from Abel to Abraham -- Hebrews 11:1-10\n\nFaith is the sixth sense. It makes us as sure of unseen or future things, which we know about only through the divine Word, as we are of things which we can see and touch. When we are aware of the reality of these things, we naturally take them into account when we act. Rothschild laid the foundation of his fortune because he had news that the battle of Waterloo had been won, a day before anyone else in Britain. That fact enabled him to buy up all the depressed money-shares, which rose with marvelous buoyancy as soon as the news was universally disseminated. Faith does this for us!\n\nNoah built the ark because he believed that the flood would befall. Abraham left his country because he realized that Canaan would be his. The pilgrims and martyrs of all the ages have been derided by their companions, who would have acted similarly if only they had looked with faith into the unseen. And God never fails such. He always bears witness with His gifts."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "Seeking the Better Country -- Hebrews 11:11-22\n\nFaith has the twofold power, first, of making the unseen real; and second, of receiving the grace and strength of God into the heart. Sarah, through faith, received strength to bear Isaac. By faith may come physical as well as spiritual strength.\n\nThe pilgrim life is possible only for those who have seen the city of God beckoning them from afar. Then they strike their tents and follow the gleam. By faith they so comport themselves that God is not ashamed to own them. They will discover, even in this life, that they have not trusted Him in vain, and that the half has not been told. On the mere rumor that a new gold field is found, men sell off everything in their mad rush. How many are disappointed! But none of those that trust God shall be left desolate.\n\nAbraham was absolutely sure that Isaac would return with him, even though the lad might die beneath the knife. When leaving the young men at Moriah’s foot, he said: “We will worship and come again.” Had not God’s voice definitely designated Isaac as his heir?"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 23,
+    "content": [
+     {
+      "text": "Making the Far-Seeing Choice -- Hebrews 11:23-31\n\nFaith-we cannot say it too often-is the direct vision of the soul. It doesn’t reason, it doesn’t ask for evidences, it doesn’t seek the corroboration of spies sent forward to explore the land. It is to the spiritual world what the five senses are to things around us. It is even more than this; it is our power of deriving the help of the Unseen to carry out and complete the work of our life.\n\nMoses saw Him who is invisible, and drew on God with a mighty faith that reckoned on Him as being more real than Pharaoh, and secured His divine cooperation. First, he ascertained God’s will at the place where the bush burned with fire; and then set about doing his part, depending upon God to do His. Of course, it brought him into collision with the whole might of Pharaoh and Egypt, but he didn’t even fear it. The destroying Angel had no terrors for the blood-sheltered people. The waters lined up on each side to let them pass. Strongly built walls fell to the ground. Let us be sure that we are on the line of God’s purposes, then trust Him and fear naught."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 32,
+    "content": [
+     {
+      "text": "“The Noble Army of Martyrs” -- Hebrews 11:32-40\n\nStrong faith is consistent with very different views of religious truth. The conception that Abel, Enoch or Noah had of so-called Christian truth was very slight; but the faith with which they grasped the scanty truth revealed to them was mighty, soul-transforming and world-moving.\n\nWalk through this long corridor of statuary. These persons were of every age and temperament; shepherds, statesmen, prime ministers, psalmists, poets, border chieftains, prophets, women martyrs-but they are all trophies of faith. The variety is extraordinary, but the unity is undeniable. The beads are many, but there is one golden thread uniting them all. Their circumstances and trials were widely different, but in all the talisman of victory was faith’s watchword-God is able. There is no kind of need, trial, persecution, experience, for which faith is not the sufficient answer. It is the master key for every lock of difficulty. Fit your case into one of the clauses and what once was, shall be again."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 10
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 12
+ }
+}

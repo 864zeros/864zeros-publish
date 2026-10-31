@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZK",
+  "commentaryId": "fbmeyer",
+  "name": "Ezekiel",
+  "commonName": "Ezekiel",
+  "numberOfChapters": 48
+ },
+ "chapter": {
+  "number": 11,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 5,
+    "content": [
+     {
+      "text": "A New Heart Promised -- Ezekiel 11:5-25\n\nThe Spirit of God led the prophet to the East Gate of the Temple, where the Shekinah had settled, Ezekiel 10:19. There He uttered the divine verdict on the priesthood. They had ridiculed Jeremiah’s letter to the captives, among whom Ezekiel lived, Jeremiah 29:5; and had made merry at his comparison between the city and a caldron, Jeremiah 1:13. It was to these scornful men that Ezekiel uttered the scathing denunciations of Eze 11:7-18. The sudden death of Pelatiah, the ringleader of the scorners, gave terrible emphasis to the prophet’s words. Ezekiel was told to look for his true kinsmen not among the doomed priesthood, but among his fellow-exiles whom they of Jerusalem despised.\n\nSpiritual ties must supersede natural ones, when the two clash. They might be far removed from the outer Temple, but God would be their asylum and sanctuary. What a sweet promise Ezekiel 11:16 provides for those who are compelled to go far from home! They may always meet their dear ones in God. Note the inclusive promise of Eze 11:19 -unity, newness, and sensitiveness to the least touch of the divine nature."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 11
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZK",
+  "chapter": 14
+ }
+}

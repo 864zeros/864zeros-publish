@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 22,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Captain of an Outlawed Band -- 1 Samuel 22:1-10\n\nWhat a striking analogy there is between the gathering of these outlawed men to David, and the attraction of publicans and sinners, in all ages, to Christ! He also is outlawed by “the prince of this world.” To find Christ, we must go outside the camp, where He has set up the standard of His cross. How many of those who were in distress or in debt, or who were “bitter of soul,” 1 Samuel 22:2, r.v. margin, have gathered to Him and have been received! Rejected by all others, they have found an asylum in his heart of love, and out of such refugees He is founding a kingdom that can never be moved, and forming an army that will break forever the power of evil.\n\nNotice David’s care for his parents. Our love to God should make us not less but more attentive to those to whom we are bound by nature’s ties. It is probable that David’s descent from Ruth, the Moabitess, may have suggested Moab as a suitable asylum; but in any case it was a wise precaution to shield the aged pair in the land of a neutral nation. In our experience, the warning of the prophet Gad has its counterpart in the gracious impressions of the Holy Spirit."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 11,
+    "content": [
+     {
+      "text": "The Slaughter of David’s Friends -- 1 Samuel 22:11-23\n\nThe Apostle James says that “the tongue is set on fire of hell.” Surely this was the case when Saul, encamped on the height above Gibeah, scattered his biting words like firebrands. They met with a ready response in Doeg’s evil heart, and the two perpetrated one of the most atrocious tragedies of history.\n\nThis black act-the blackest of Saul’s life-was not to be extenuated, although it executed the malediction, uttered long before in the days of Eli, against the latter’s evil house. That Saul’s footmen refused to execute the king’s sentence should have made Him hesitate. Doeg’s tale was true in its statement, but false in its implications.\n\nThere is nothing to alleviate the lurid horror of this incident, except David’s welcome to Abiathar. Are not such words addressed by our Lord to all who escape to Him? “Abide with me” may be understood in the light of Joh 15:1-27. With Christ there is safeguard. “Your life is hid with Christ in God.” Fear not, trembling soul; Christ stands surety for thee! See Psalms 52:1-9, where David predicts Doeg’s fate, and contrasts it with his own happy lot."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 22
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 21
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 23
+ }
+}

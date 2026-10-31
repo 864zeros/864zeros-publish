@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ACT",
+  "commentaryId": "fbmeyer",
+  "name": "Acts",
+  "commonName": "Acts",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 23,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Dividing His Persecutors -- Acts 23:1-11\n\nThe behavior of the judge was quite unworthy of his office, but Paul’s epithet cannot be defended. The best of men are but men at the best. Paul was thrown off his guard by an insult which touched him to the quick; but nothing could have been finer than the grace and frankness with which he acknowledged his error. The adroit way in which Paul divided the Council probably saved the situation. If the body had been united, Lysias would doubtless have handed Paul over to them to deal with. But the fiery hatred that broke out gave the chief captain grave concern for the safety of this man with citizen-rights.\n\nHow timely and precious was the Savior’s revelation on the following night! As Paul’s heart was sinking amid the solitude of his cell, and he was beginning to think that perhaps the predictions of Agabus and others were about to be fulfilled, he suddenly became aware of the presence of his Lord. Do not trust in your own understanding; let your Master steer your course; and remember that in the darkest hour, as in the brightest, He is beside you. There will be made to you, at “the fourth watch of the night,” revelations which will reassure your weary and despairing soul that you are not alone."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Would-Be Murderers Baffled -- Acts 23:12-24\n\nThe Lord had told His servant that he was needed in Rome, but the conspirators said that he should not leave Jerusalem. There is only one conclusion when such a collision occurs-God’s word must stand to the discomfiture of those who have sworn that they will neither eat nor drink till they have perpetrated their plan to the contrary.\n\nThese high ecclesiastics fell in with an infamous plot. What will not unscrupulous men do under cover of religion! It is a pleasing trait that the Roman officer took Paul’s nephew by the hand and led him aside for a private audience. How proudly would the boy recount the whole story to his mother, when he emerged from those grim walls. At nine o’ clock that night there was a clattering of horses’ hoofs as seventy horsemen and two hundred soldiers went through the stone-paved streets on their way to Caesarea. Already Paul had begun his journey to Rome.\n\nOften afterward, when it seemed as though his life would be forfeited, he must have stayed on the Master’s words, So must thou bear witness also at Rome. What a life-buoy that promise was! And if God had saved him from the mob at Jerusalem and given him the friendship of Lysias, what could God not do for him in the future!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Sent to a Roman Tribunal -- Acts 23:25-35\n\nAntipatris was forty-two miles from Jerusalem. The escort and their prisoner made the forced march in a night. Next day the legionaries marched back to Jerusalem while the mounted soldiers rode forward to Caesarea, which was twenty-six miles farther on. The Apostle therefore entered Caesarea in a guise different from that in which he had left it, Acts 21:16. Philip and the other Christians must have been startled to see how soon their forebodings were fulfilled as the great missionary, from whom they had parted with so many tears, rode through the streets surrounded by soldiers.\n\nWhen Felix read the letter which Lysias had sent explaining the case, he handed Paul over to a soldier to be kept in one of the guard-rooms of the old palace which now formed the stately residence of the governors of Judea. What mingled feelings must have filled that lion heart, as he realized that, while Rome had him in her power, all the artifice of his bitter foes would now be powerless to do him bodily harm. The psalms which he had sung at Philippi would come to mind with added force as he strengthened his soul in God."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 23
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 22
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ACT",
+  "chapter": 24
+ }
+}

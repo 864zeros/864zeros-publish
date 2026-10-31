@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ROM",
+  "commentaryId": "fbmeyer",
+  "name": "Romans",
+  "commonName": "Romans",
+  "numberOfChapters": 16
+ },
+ "chapter": {
+  "number": 9,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Longing for His Kinsmen -- Romans 9:1-13\n\nOur consciences should be continually bathed in the light and warmth of the Holy Spirit, Romans 9:1, that the inward witness may be maintained in its integrity. We must love as Moses and Paul did, Romans 9:3, before we can understand Exodus 32:32 and Galatians 3:10. The Hebrew nation was marvelously privileged by adoption as God’s firstborn, by having the Shekinah glory and by being called to maintain the witness of the Temple and its services, Romans 9:4. But these privileges were granted, not for the nation itself, but for the blessing of mankind. This is the meaning of election. There are elect races, elect nations, elect souls, that they may be able to impart of what they have received, and communicate whatever advantages have been entrusted.\n\nThe sorrowful admission must be made that a very large proportion of the Hebrew race had missed the privileges to which they were entitled, because they had regarded these merely as intended for their own comfort and enrichment, Romans 9:6. This was the outstanding difference between Esau and Jacob. It is plain that the hatred in Romans 9:13 means nothing more than relative repudiation, as it does in Matthew 6:24 and Luke 14:26. No personal animosity can obtain in the nature of the God of love except that He withholds from the recreant soul the full manifestation and outflow of His love."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "The Righteousness of God’s Choices -- Romans 9:14-24\n\nGod desires to do His best for every man. But, as in the case of Esau, who wantonly sold his birthright, and of Pharaoh, who turned all God’s revelations into occasions of aggravated resistance and stronger revolt, the Heavenly Father is sometimes compelled to cast away those who might assist in the execution of His purposes, and use inferior vessels made from common clay. In the earlier part of the conflict with the proud Egyptian monarch, it is said that he hardened his heart, and afterward that God hardened it, Exodus 8:15; Exodus 10:20. To the froward God becomes froward; that is, the means that He takes to soften and save will harden, just as the sun which melts wax hardens clay.\n\nThe same power which was thwarted and resisted by the unbelief and stubbornness of the Chosen People, has taken up us Gentiles, who have had none of their advantages, and what wonderful mercy has He shown to us! Riches of glory on vessels of mercy! Romans 9:23. What an argument for us all not to resist the grace of God, which strives with us so earnestly and continually! God can make saints out of the most unlikely material. Let us see that He has full opportunity."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Stumbling over the Cornerstone -- Romans 9:25-33\n\nThere has been a notable transference of privilege from the Jew to the Gentile believer. This is not due to fickleness on God’s part, but to a fatal defect in the Hebrew people. The vessel that was marred in the potter’s hand suffered not from the clumsiness of the potter, but from some inherent flaw in the clay. The Chosen People stumbled over the law of faith and rejected their Messiah. The Gentiles, on the other hand, have exercised faith in Him, and have thereby attained a justifying righteousness. There is no caprice with God, “neither shadow that is cast by turning,” James 1:17. Any apparent change in His dealings is determined by our attitude toward Him.\n\nJesus is a stone of stumbling to the blind, but all who confide in Him and rest on Him shall not be put to shame. God has laid the foundation of our salvation deep in the waters of death and judgment. In the death of Christ He condemned sin in the flesh, and now we who are built into Him, as a stone is clamped to the foundation, shall rest secure when the last great storms sweep over land and sea."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 9
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 8
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ROM",
+  "chapter": 10
+ }
+}

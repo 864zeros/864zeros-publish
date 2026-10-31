@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Birth of Isaac -- Genesis 21:1-7\n\nGod is faithful. Heaven and earth may pass, but His word cannot fail. We may wait until all human hopes have died, and then, at “God’s set time,” the child is born. Abraham laughed at the first announcement of this event, Genesis 17:17. Later, as Sarah listened to the conversation between her husband and his mysterious guests, she laughed with incredulity, Genesis 18:12-15. But now, in the joy of long-deferred motherhood, she found that “the Lord had prepared laughter for her,” and so named her child Isaac.\n\nSee r.v. margin. Be of good cheer. The Lord has prepared laughter for you also, some few miles ahead on life’s journey. Light is sown for the righteous, and gladness for the upright. O thou afflicted, He shall lay thy stones in fair colors! And when thy joy comes, rejoice in it. “Thou shalt rejoice in every good thing which the Lord thy God giveth thee.” But in those hours think kindly of others, and do not forget that some, like Hagar, may be disappointed by what gives thee joy!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 8,
+    "content": [
+     {
+      "text": "Hagar and Ishmael Cast Out -- Genesis 21:8-21\n\nPoor Hagar! She thought that she had given Abraham his heir, but now she found herself and her boy outcasts on the desert waste. The water was soon spent, she little dreamed that a fountain was so near. Cry to God, He will open fountains in the middle of your deserts. Beneath their sad lot a divine purpose was running. God said, “Let it not be grievous in thy sight.” This is the teaching of Scripture: that our lives are being ordered and our steps prepared.\n\nAll we need to be anxious about is the finding of the path. Let us ask God to open our eyes to see the fountains beside us, and the way before us. And after all, was not the wilderness a better training-ground for the lad than the comparative luxury of Abraham’s tent? “He became an archer.” Isaac would have been the better for a touch of the desert-life. The Holy Spirit, through Paul, gives the inner significance of this incident in Galatians 5:1. See also John 8:36."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 22,
+    "content": [
+     {
+      "text": "Abraham and Abimelech Covenant -- Genesis 21:22-34\n\nAbimelech was impressed with Abraham’s growing prosperity. He felt that it could not be explained on merely natural grounds. “God is with thee in all that thou doest.” He sought, therefore, to secure the well-being of himself and his kingdom by forming an amicable treaty. Abraham immediately indicated that, while willing to meet him, they must first have a clear understanding about a certain injustice which he had suffered. As our Lord taught afterward, he showed Abimelech his fault as between them alone, Matthew 18:15. The matter was easily adjusted by the king’s frank disavowal of his servants’ action. In lieu of written documents the seven lambs would be a perpetual sign and token of Abraham’s claim to the well, henceforth known as “the well of the oath.” The tamarisk was the second of these natural title-deeds. Wherever the religious man dwells he should pray, and leave behind him trees and wells."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 22
+ }
+}

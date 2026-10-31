@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "EZR",
+  "commentaryId": "fbmeyer",
+  "name": "Ezra",
+  "commonName": "Ezra",
+  "numberOfChapters": 10
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Promises Fulfilled -- Ezra 1:1-11\n\nGod will ever be mindful of His covenant. There were also many remembrancers as Daniel and other like-minded exiles who gave Him no rest and were ever asking Him for David’s sake to bring his people from captivity. See Isaiah 62:6-7. The Lord stirred up the spirit of Cyrus, Ezra 1:1-11, and the spirits of the people, Ezra 5:1-17. How clearly the minds of men are subject to His promptings! May we never be disobedient to the heavenly visions that visit us, but always on the alert to work out with fear and trembling whatsoever He may work in.\n\nWhenever we yield to the divine promptings, it is remarkable how everything seems to cooperate with us. The stars in their courses fight for us. All things serve the man who serves Christ. In the present instance, all that were round about strengthened their hands. Cyrus brought forth the vessels of the house of the Lord, which had been in safe-keeping during those years of anarchy and confusion, like the precious manuscripts of Scripture during the Middle Ages. But when they were needed, God brought them out of their hiding-place.\n\nTrust in Him; He makes no mistakes."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 36
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "EZR",
+  "chapter": 2
+ }
+}

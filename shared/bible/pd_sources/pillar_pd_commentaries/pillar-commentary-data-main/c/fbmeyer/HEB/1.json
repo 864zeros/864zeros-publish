@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HEB",
+  "commentaryId": "fbmeyer",
+  "name": "Hebrews",
+  "commonName": "Hebrews",
+  "numberOfChapters": 13
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God’s Final and Supreme Messenger -- Hebrews 1:1-14\n\nChristianity is greater than the Mosaic dispensation because it has been given through the Son, whereas the Law came through angels. See Acts 7:53. The message of the Gospel is connected speech; that of the Law was broken syllables.\n\nThe Son’s intrinsic glory, Hebrews 1:1-4. Jesus is the channel of creation, providence and redemption. He is the far-traveled ray of Deity; but not one among many equals, for of Him alone could it be said that His nature was co-extensive with God’s, as a seal with the die. He is on the throne, not merely because of His original nature, but as the reward of His obedience unto death, Philippians 2:9.\n\nHis superiority to angels, Hebrews 1:5-14. These quotations should be carefully studied as showing the deep inner meaning of the Psalms. Their fulfillment must be sought in Christ, and in them we overhear the voice of God. “We must ever thank God for the ministry of angels. Note that their service to us is a liturgy of adoration to God-such is the force of the Greek words."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PHM",
+  "chapter": 1
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HEB",
+  "chapter": 2
+ }
+}

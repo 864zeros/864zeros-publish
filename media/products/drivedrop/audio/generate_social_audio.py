@@ -38,7 +38,7 @@ SCRIPTS = {
     "price": [
         {
             "id": "price_scene1_hook",
-            "text": "Why pay twenty dollars every single month to commercial portal services just for a simple file upload page?",
+            "text": "Why pay recurring subscription fees every single month to commercial portal services just for a simple file upload page?",
             "lead": 0.25,
             "tail": 0.35
         },

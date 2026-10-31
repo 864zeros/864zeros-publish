@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1SA",
+  "commentaryId": "fbmeyer",
+  "name": "1 Samuel",
+  "commonName": "1 Samuel",
+  "numberOfChapters": 31
+ },
+ "chapter": {
+  "number": 6,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Returned with a Trespass-Offering -- 1 Samuel 6:1-12\n\nThere is reason to suppose that when the Philistines got possession of the Ark, they destroyed Shiloh. See Psalms 78:60; Psalms 78:64; Jeremiah 26:9. They could not imagine how to rid themselves of the sacred emblem, which brought only destruction in its train, until they had consulted the priests. These priests appear to have been well acquainted with the previous history of the Israelites, though centuries had passed since the passage of the Red Sea. How ignorantly men think of God! He is not their enemy, but the enemy of their sin.\n\nWhat a striking illustration is afforded by these lowing kine! Their maternal instincts yearned for their young, detained behind; but they were urged forward by a supernatural impulse. So the missionary may leave wife and child, that he may carry the Gospel to the heathen; so the slum-worker may abandon all that others hold dear, in order to change some wretched district into a city of God. Our weak heart clings, but the love of Christ constrains us, and we go forward, urged by a divine and overmastering motive."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 13,
+    "content": [
+     {
+      "text": "Rashness Punished; Reverence Blessed -- 1 Samuel 6:13-21; 1 Samuel 7:1-4\n\nThe new cart, with its precious burden, must have come upon the men of Beth-shemesh like an apparition. The Ark was welcomed by them, after its seven months of absence, with great joy. But privilege entails responsibility; and their wanton curiosity and irreverence could not be permitted. Reverence for God Himself demanded the most careful behavior toward the Ark of His Presence, and when this was lacking, swift judgment ensued. See Numbers 1:50-51; Numbers 4:5; Numbers 4:16-30.\n\nIt is interesting to notice that when the Israelites were weaned from the Ark, their hearts lamented after the Lord, 1 Samuel 7:2. We cannot be permanently happy without God. Seasons of apathy and irreligion will sooner or later be succeeded by faith and love, as the frost of winter yields to the touch of spring. In this case, the revival was due to the patient labor of Samuel, and he did splendid service in urging the people to deal drastically with the idols of Canaan, which had cut them off from God as clouds hide the sun."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 6
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1SA",
+  "chapter": 7
+ }
+}

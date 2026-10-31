@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ECC",
+  "commentaryId": "fbmeyer",
+  "name": "Ecclesiastes",
+  "commonName": "Ecclesiastes",
+  "numberOfChapters": 12
+ },
+ "chapter": {
+  "number": 12,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“The End of the Matter” -- Ecclesiastes 12:1-14\n\nThis comparison of the human body to a house is extremely beautiful. The inference is obvious that our bodies are not ourselves, but only our tenement. Our sojourn in this world is on a lodger’s tenure. The keepers of the house are, of course, the arms and hands. The grinding is low as in advancing life we lose our teeth. The door is the month, for in age we talk and laugh less, and our lips become compressed. The voice pipes and mutters. The almond tree, with its white blossoms, is, of course, an appropriate symbol of old age. The lamp of life finally falls with a crash on the floor, and the wheel is broken.\n\nWhat, then, is the conclusion of the whole matter? This: that earthly delights are transient; that all this world can offer is an inn for a lodging-it is not our home; that the soul must go forth on its great quest at the hour of death; and that then the one all-important consideration will be, What has been its attitude toward God? Let us love God with the loving fear of grieving Him that casts out the fear which has torment. This is the whole matter; that is the one matter of overshadowing importance."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 12
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ECC",
+  "chapter": 11
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 1
+ }
+}

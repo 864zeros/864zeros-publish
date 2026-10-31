@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JON",
+  "commentaryId": "fbmeyer",
+  "name": "Jonah",
+  "commonName": "Jonah",
+  "numberOfChapters": 4
+ },
+ "chapter": {
+  "number": 3,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Repentant City -- Jonah 3:1-10\n\nPeter was not only forgiven, but restored to his office; so also was Jonah again sent to Nineveh. Thank God for our second chances! There was no hesitancy this time. The prophet arose and went. The story of his deliverance seems to have reached Nineveh and to have prepared its people to receive his word, Luke 11:30. We must deliver God’s messages and preach only as He bids us. He will tell us what to say.\n\nNineveh is said to have been sixty miles in circuit, the distance of a three days’ journey. It was full of violence and cruelty. But the sight of that strange figure, clad in a rude sheep-skin mantle, smote its conscience. The alarm spread from the streets to the palace. Even the great king felt it within his sculptured chambers. It stirred him to action, so that king and court, peers and people, and even the brute creation, became united in one act of common humiliation.\n\nThe repentance was city-wide in its scope, Jonah 3:5; was practical, Jonah 3:8; and directed toward God, Jonah 3:9. What a contrast to Israel! There, prophet after prophet was exposed to refusal and even to cruel usage. Whatever fear there may have been upon man’s side, there was no hesitation upon God’s. He abundantly pardoned! See Isaiah 55:7."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 3
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 2
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JON",
+  "chapter": 4
+ }
+}

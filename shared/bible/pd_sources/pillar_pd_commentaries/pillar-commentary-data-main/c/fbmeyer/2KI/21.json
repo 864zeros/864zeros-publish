@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2KI",
+  "commentaryId": "fbmeyer",
+  "name": "2 Kings",
+  "commonName": "2 Kings",
+  "numberOfChapters": 25
+ },
+ "chapter": {
+  "number": 21,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "An Evil Leader’s Terrible Influence -- 2 Kings 21:1-15\n\nIt seems incredible that the good Hezekiah should have had such a son; but the young prince was evidently under the power of that reactionary party which, during Hezekiah’s reign, had been kept in check only by the strong influence of Isaiah. Hence, on becoming king, Manasseh reintroduced the worst forms of idolatry which had disgraced the nations of Canaan and were rife in neighboring countries. It was the height of presumptuous impiety to place an Asherah, such as Ahab made, 1 Kings 16:32, in the very precincts of the Temple, and to patronize the Chaldean astrologers who poured into the country from Babylon. See Ezekiel 8:1-18.\n\nVigorous protests were raised against these shameful abominations by Hosea, Joel, Nahum, Habakkuk, and Isaiah; but in vain. Nothing could stay the mad fanaticism of the people for licentious rites, and their doom became inevitable. The gentle voice of love was of none avail, and the brazen clangor of Babylonian captivity must speak in tones that could not be silenced. For Manasseh’s end consult 2 Chronicles 33:1-25. Surely none need despair, since he found mercy. But alas! nothing can restore the years that the locust hath eaten."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 16,
+    "content": [
+     {
+      "text": "Like Father, like Son -- 2 Kings 21:16-26\n\nManasseh shed much innocent blood, and among others, tradition has it that Isaiah was sawn asunder at his command, Hebrews 11:37. Amon followed in his father’s steps. Here is the horror of sin! A man may repent and turn to God, but he cannot undo the effect of his evil course on those whom he has seduced. Probably, on his conversion to God, Manasseh used all the power at his command to induce Amon to avoid the sins of his own early life and to follow the example of his later years. But Amon would not listen. “He walked in all the way that his father walked in!”\n\nNo man sins by himself. The evil of his deeds is far-reaching. When once you have scattered thistledown-as you have sown, so will you reap. Christ’s heaviest denunciations were launched against those who put an occasion to fall in the way of one of his little ones. God forgive us, if we are making life’s battle harder for any soul, especially for our own child. “Take the safe path, father!” said a little boy as they were climbing a steep place. “Remember that I am coming.”"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 21
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 20
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2KI",
+  "chapter": 22
+ }
+}

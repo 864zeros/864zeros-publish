@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "ISA",
+  "commentaryId": "fbmeyer",
+  "name": "Isaiah",
+  "commonName": "Isaiah",
+  "numberOfChapters": 66
+ },
+ "chapter": {
+  "number": 28,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Decay of an Intemperate People -- Isaiah 28:1-13\n\nA new series of prophecies begins here and extends to Isaiah 32:20. Samaria is described as a faded crown or garland on the nation’s head because it was disgraced by the national drunkenness. See Amos 4:1. So corrupted was she by strong drink and its attendant evils that the Assyrian invader would plunder her as a man gathers ripe figs. But to Judah, that is, the remnant, the Lord would be a crown or garland, not of pride but of glory. His beauty would not be as a fading flower, but a lasting diadem.\n\nWhat wine is to the sensuous man, that God is to the spiritual. See Ephesians 5:18. You that have to form right judgments, and you that have to turn the battle from the gate, will find all your need in Him. In Isaiah 28:7-8 we have a terrible picture of widespread effects of strong drink; and in Isaiah 28:9-10 the prophet recites the ribald remarks addressed to himself by the roisterers of those evil days. He replies that God would Himself answer them by the stern accents of the Assyrian tongue, which would sound like stammering, Isaiah 28:11; and this would befall them because they would not need the wooing accents of His love, Isaiah 28:12."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "Truth the only Refuge -- Isaiah 28:14-29\n\nIn the beginning of Hezekiah’s reign the Jewish leaders had made an alliance with Assyria, on whom they relied to protect them against any and all foes. But the prophet told them plainly that they would be disappointed, and that when the Assyrian scourge passed through the land toward Egypt, it would involve them also in disaster, Isaiah 28:18. Then he broke out with this sublime description of the only foundation of security that could never fail. The deep meaning of this prediction of the precious corner-stone is unfolded in later Scriptures, Matthew 21:42; Ephesians 2:20; 1 Peter 2:7. Christ was tried by Satan and by man: He is precious: He unites the walls of Jew and Gentile that were at right-angles to each other. All our excuses and professions are too short and too narrow when God enters into judgment.\n\nOutside of Christ there is neither peace nor safety. See that thou buildest Him a holy character of gold, silver, and precious stones, 1 Corinthians 3:10, etc."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 28
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 27
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "ISA",
+  "chapter": 30
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2CH",
+  "commentaryId": "fbmeyer",
+  "name": "2 Chronicles",
+  "commonName": "2 Chronicles",
+  "numberOfChapters": 36
+ },
+ "chapter": {
+  "number": 29,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "A Revival of Righteousness -- 2 Chronicles 29:1-11\n\nIt was a blessing for Judah that Ahaz left as successor a son who inherited none of his father’s traits. Hezekiah ranks as one of the best kings that occupied the throne of David. This chapter is full of illustrative and interesting incident. In the first month of his reign, the young king began his work of reform by assembling to his help the priests and Levites, and bidding them make all possible speed to cleanse the Temple.\n\nThe clarion call of this exhortation rings yet and bids us cleanse the inner shrine of our heart from all filthiness of the flesh and spirit. Let us hasten to open the doors, kindle the lamps, and burn incense in the inner prayer-chamber of the heart. And what is true for the individual applies equally to the national conscience. Religion is the safeguard of our prosperity; and they who secure a healthy religious sentiment contribute as much to the well-being of their fatherland as the statesmen and politicians of world-wide fame."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 12,
+    "content": [
+     {
+      "text": "Removing Uncleanness -- 2 Chronicles 29:12-24\n\nThe names of the assisting Levites are specially mentioned, because their obedient cooperation counted for so much in the national reconstruction. For eight days the priests and they wrought in the great work of cleansing the Temple of the filthiness which had accumulated through neglect. The drift of the sand-storm, the havoc of weeds, the multitudes of living things that come from the air and the earth to brood and breed in neglected buildings, had wrought sad disfigurement and dilapidation in the holy and beautiful house which David and Solomon had built for God.\n\nDeterioration of heart and life, of Church and State, is the sure result of neglect. The garden of the sluggard could hardly be more useless or perilous to the ordered cultivation around, than is the heart of man, when it neglects the culture of its spiritual affinities. We were made for God and cannot be perfectly healthy or happy apart from Him. These sins must be expiated by blood. A deep lesson is contained in 2 Chronicles 29:20-24. See Hebrews 9:22."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "Sacrifice and Song of Solomon 2 Chronicles 29:25-36\n\nAmong the usual sacrifices following the cleansing, the burned-offering occupied a conspicuous place, as expressive of sincere and entire devotion to God. Notice that as the burned-offering began the song began also. Self-sacrifice and the surrender of heart and life to God always lead to joy. First cleansing, then forgiveness and the blotting out of sin, and finally reconsecration to God-such are the inevitable steps that conduct the soul from the depths of depression into the joy of God’s salvation. It is the self-absorbed and self-contained life which is miserable. Notice how contagious the joy of God is.\n\nFrom Hezekiah it spread to his people and led to the uplift of the entire nation. It is interesting to learn that this happy outbreak of religious fervor sprang from a divine preparation, which had for long been working below the surface of the national life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 29
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 28
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2CH",
+  "chapter": 30
+ }
+}

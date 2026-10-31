@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "HOS",
+  "commentaryId": "fbmeyer",
+  "name": "Hosea",
+  "commonName": "Hosea",
+  "numberOfChapters": 14
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "God Gathers the Outcast -- Hosea 1:1-11\n\nThe story of Hosea is a pathetic one. He felt impressed that it was his duty to take as wife one whose earlier life had been unchaste. From this marriage resulted three children, the names of whom are terribly significant. They are as follows:-God will scatter; Not an object of favor; and Once my people, but not so now. Here is the history of many a soul. In spite of all God’s tender love, we may wander from Him into the path of sin.\n\nThe chapter closes with brighter prognostications. In part, these latter verses were fulfilled by the return from Babylon, and they will be fulfilled in literal fulness someday-probably sooner than we have been wont to suppose. It is good to lay the emphasis on In the place… there. How often we are taken back to the very circumstances in which we appear to have failed most conspicuously, in order that there we may receive the crowning blessing of our life, Hosea 1:10. Leave God to vindicate you. He will bring you from the land of the enemy, and extort, this confession from the mouth of your critics and foes, Hosea 1:10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "DAN",
+  "chapter": 12
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "HOS",
+  "chapter": 2
+ }
+}

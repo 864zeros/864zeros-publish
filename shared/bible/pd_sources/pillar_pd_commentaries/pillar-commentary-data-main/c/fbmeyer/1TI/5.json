@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1TI",
+  "commentaryId": "fbmeyer",
+  "name": "1 Timothy",
+  "commonName": "1 Timothy",
+  "numberOfChapters": 6
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Wise Treatment of Young and Old -- 1 Timothy 5:1-8\n\nThat minister of Jesus is happiest who introduces the tone and manner of family life into the church, 1 Timothy 5:1-2. The attitude of son or brother to other men is peculiarly fitting. But he must always keep up the spiritual tone. It is so easy to descend to frivolity and familiarity. Remember that all intercourse with others must be governed by the words-in all purity.\n\nThe special references to widows evidence the early practice of the Church. Provision was made for godly women who had lost husbands by death, and who in return for the weekly gift from church funds, gave themselves to Christian service. The Apostle indicates the age and characteristics of those who might be eligible. It was his clear judgment, however, that, wherever possible, it was becoming for children to make such provision as would place an aged mother or other relative beyond the reach of want or any need of claiming maintenance from church funds. Our nurses and deaconesses are the modern counterparts of the order of widows in the early Church; yet the standard of Christian living here emphasized may well be pondered and prayed over by all Christian women, who should, as far as possible without fee or reward, consider church service only second to the claims of home."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 9,
+    "content": [
+     {
+      "text": "Home-Keeping Industry Enjoined -- 1 Timothy 5:9-16\n\nThe sphere of the younger woman must be in the home. This is the noblest work of all, and wherever it exists, it has the prior claim; yet even during the years of early motherhood there may still be opportunities of offering hospitality to strangers, ministering to the children of God who need refreshment and comfort, and diligently assisting in good work. These offices lovingly and humbly performed, will serve as a gracious opening for further ministries of the same description in the later period of life.\n\nThe Apostle says nothing about remarriage in general, but simply refers to the fact that young women who have become widows are likely to accept the offer of a second marriage, and so abjure that first faith, in which they had pledged themselves to the service of the church. Unless there is great watchfulness, the practice of going from house to house, ostensibly on church business, may degenerate into gossip-mongering. Therefore it was wiser not to put young women on the church service roll. If they did not marry a second time, they might at least work for the maintenance of others, widows like themselves, but less able to help themselves. There must be no idling."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 17,
+    "content": [
+     {
+      "text": "Impartial and Kindly Supervision -- 1 Timothy 5:17-25\n\nA man of years was always to be honored, and if he were called to rule in the church, he was to be treated with double honor; but none should be appointed to that sacred office hastily or with partiality. Purity, gravity, and abstinence from alcohol were prime requisites in a Christian minister then, as they are now. It is clear from 1 Timothy 5:23 that the Apostles and their helpers practiced total abstinence, or there had been no need for that special injunction to Timothy.\n\nIt is clear also from 1 Timothy 5:17-18 that the early Church was encouraged to support its ministers. The Apostle quotes the words of our Lord, to maintain this contention, Matthew 10:10; Luke 10:7. The character of a minister might not be lightly aspersed. If anything had to be said, the informant must lodge his complaint in the presence of witnesses, who could be witnesses against him, if the charge were found to be baseless and frivolous. But public wrongs must be met by public rebuke that any suspicion of favoritism might be disarmed. No man, however, should be called to the sacred and responsible position of presbyter, unless he had been tested and approved. In forming judgments of the fitness of men for office, we must not judge wholly by appearance-good or bad, 1 Timothy 5:24-25."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1TI",
+  "chapter": 6
+ }
+}

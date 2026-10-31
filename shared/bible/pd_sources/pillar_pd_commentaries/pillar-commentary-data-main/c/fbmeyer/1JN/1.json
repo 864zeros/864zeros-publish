@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "1JN",
+  "commentaryId": "fbmeyer",
+  "name": "1 John",
+  "commonName": "1 John",
+  "numberOfChapters": 5
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Fellowship in the Light -- 1 John 1:1-10\n\nAs the aged Apostle began to write he was living over again his first happy experiences with the Savior. He heard the voice, saw the person, touched the very body in which Deity tabernacled. It was too great a bliss to be enjoyed alone, and John tells us that we may enter into the same close partnership with the Father and the Son. But no impurity or insincerity is permissible to those who enter that fellowship. Our one aim should be to maintain such a walk with God that the union with God may be unimpaired. If there are still sins of ignorance, the blood of Jesus will continue to remove them.\n\nSin differs from sins, as the root from the fruit. God does not only forgive, He cleanses. He is faithful to His promises and just to His Son. Notice the ifs of these verses and in 1 John 2:1; they are a compendium of the blessed life."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2PE",
+  "chapter": 3
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 2
+ }
+}

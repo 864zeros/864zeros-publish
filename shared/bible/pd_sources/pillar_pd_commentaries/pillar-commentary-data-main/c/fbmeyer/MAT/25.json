@@ -1,0 +1,65 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "MAT",
+  "commentaryId": "fbmeyer",
+  "name": "Matthew",
+  "commonName": "Matthew",
+  "numberOfChapters": 28
+ },
+ "chapter": {
+  "number": 25,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Be Ready for the Bridegroom -- Matthew 25:1-13\n\nThree remarkable parables occupy this chapter and follow a marked sequence of thought. First, we are called upon to look to ourselves, and be sure that we are prepared to enter the wedding feast; that is, to enter into the holiest and closest union with our Lord. Many are called into that union of thought, and prayer and service, but, alas, how few there are who approve themselves as chosen for that inner intimacy! We must see to it that our hearts are pure with virginal purity, and that the light is ever burning in our hearts, through the continual inpouring of the oil of the Holy Spirit.\n\nHow marvelous the power which, from the noisy night procession of an oriental wedding, could bring this exquisite parable! The short, warm Eastern night, the ten girls, the cry, the peace of the prepared, the anguish of the unready, the inside and outside of the door! O blessed Comforter, may we not fail thee, as thou wilt not fail those who in their weakness seek thy help!"
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 14,
+    "content": [
+     {
+      "text": "By Faithfulness Win Reward -- Matthew 25:14-30\n\nWe are not only guests, but servants, who must give an account of their stewardship. Each bond slave has been entrusted with at least one talent. The number of talents varies with our ability to manage them. The Master is not unreasonable, and never overtasks. It is by use that the power to use grows. By carefully employing our opportunities, our sphere of service may be greatly widened, so that, at the end of life, we shall be able to do twice as much as at the outset.\n\nChrist is always coming to reckon. Every communion season, every birthday, is a standing at the judgment seat of Christ, preliminary to the great white throne, 2 Corinthians 5:10. Let those who are entrusted with one talent only be specially on the watch, for they are most exposed to the temptation of saying, “We can do so little, we will do nothing.” What you can do best, and which most accords with your circumstances, is probably your talent. If you cannot do much yourself, work with your church and under the direction of your pastor, Matthew 25:27."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 31,
+    "content": [
+     {
+      "text": "Serve Christ by Serving Others -- Matthew 25:31-46\n\nWe are called to watch the procedure of God’s moral government. This is primarily a forecast of the judgment of the nations, Matthew 25:32. It would seem as though, in the first instance, their doom will be largely affected by their treatment of the Hebrew people, the brethren of Jesus after the flesh, Matthew 25:40. Probably this parable is being enacted before our eyes-Spain in the Cuban war and Russia today.\n\nBut the parable has a wider range. Our Lord evidently identifies Himself, not so much with great causes as with all who are weary and heavy laden, who are sorrowful or sinful, who have drifted into the hospitals and prisons of the world. None are too desolate and sorrowful to attract His loving notice, and He hails as “blessed” all who sympathize with and help them. In the closing verse, it should be noticed that in the r.v. the word eternal stands in each clause; and it should be remembered that it stands for a quality of existence which is altogether independent of time."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 25
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 24
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "MAT",
+  "chapter": 26
+ }
+}

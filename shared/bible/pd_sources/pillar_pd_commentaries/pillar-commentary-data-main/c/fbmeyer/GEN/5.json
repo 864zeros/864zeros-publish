@@ -1,0 +1,56 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "GEN",
+  "commentaryId": "fbmeyer",
+  "name": "Genesis",
+  "commonName": "Genesis",
+  "numberOfChapters": 50
+ },
+ "chapter": {
+  "number": 5,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Posterity of Adam -- Genesis 5:1-24\n\nIn contrast to Cain’s line in the previous chapter, we have Seth’s in this. Note the curious similarity in the names, as though the Cainites professed all that the Sethites held, but lacked the reality and power. There have always been these two families in the world, tares and wheat, goats and sheep. This is an old-world cemetery; we walk among old monuments with time-worn inscriptions. Though the Sethites were God-fearers, they were tinged with Adam’s sin. He was made in God’s image, but they in His. “That which is born of the flesh is flesh.” We need what is described in Colossians 3:10 and Ephesians 4:23.\n\nThe birth of Methuselah seems to have had a profound influence on his father. After that he walked with God. Faith will enable us to do the same, because it makes the unseen visible and God real. Go God’s way: keep God’s pace: talk to Him aloud and constantly, as the great Companion."
+     }
+    ]
+   },
+   {
+    "type": "verse",
+    "number": 25,
+    "content": [
+     {
+      "text": "The Wickedness of Men -- Genesis 5:25-32; Genesis 6:1-8\n\nWhen a son was born to Lamech, he named him Noah, which means “Rest.” He thought that the boy would grow up to share and alleviate the strain of daily toil. But his hope was premature: rest was not yet: the Deluge would soon sweep over the works of men. The world must await the true Rest-giver, who said, “Come unto Me.” It was an age of abounding wickedness, but the language describing it is obscure. Some think that “the sons of God” were fallen angels; others that the seed of Seth became joined in marriage with the daughters of Cain. But God’s Spirit strove with man, and though a limit was put to His pleadings, yet He sought men with yearning remonstrance, till His Holy Spirit received the final negative and turned away disappointed and grieved. There was considerable delay.\n\nFor 120 years the Spirit of God waited. See 1 Peter 3:20. He will not wait for ever, Luke 13:9."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 5
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 4
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "GEN",
+  "chapter": 6
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "PSA",
+  "commentaryId": "fbmeyer",
+  "name": "Psalms",
+  "commonName": "Psalms",
+  "numberOfChapters": 150
+ },
+ "chapter": {
+  "number": 14,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "The Bounty of God and the Folly of Men -- Psalms 13:1-6; Psalms 14:1-7\n\nThe first of these psalms evidently dates from the Sauline persecutions, 1 Samuel 19:1. Four times the persecuted soul cries, How long! The psalm begins in deepest dejection, but clears as it proceeds. Prayer often proves to be the ladder from the deepest dungeon to the more radiant day. We find here depression, Psalms 13:1-2; supplication, Psalms 13:3-4; assurance, Psalms 13:5-6. Do not carry your anxieties in your heart. Remember that Christ is by your side, and leading you through all to the Kingdom. Faith begins praise for victory before the fight has reached its worst.\n\nThe creed, character, and doom of the atheist are set forth in the next psalm, and the psalm is so important as to demand repetition. See Psalms 53:1-6. The root of atheism is in the heart, Romans 1:21. Its effect on character, speech, and action is disastrous, and it ends in great fear, Psalms 14:5. The best answer to atheism is the light and liberty of the children of God, Psalms 14:7; Hebrews 9:28; 2 Thessalonians 1:6-10."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 14
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 13
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "PSA",
+  "chapter": 15
+ }
+}

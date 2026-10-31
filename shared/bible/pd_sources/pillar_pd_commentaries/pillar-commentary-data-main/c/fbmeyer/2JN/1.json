@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "2JN",
+  "commentaryId": "fbmeyer",
+  "name": "2 John",
+  "commonName": "2 John",
+  "numberOfChapters": 1
+ },
+ "chapter": {
+  "number": 1,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "Walking in Truth -- 2 John 1:1-13\n\nThis exquisite letter, a model of old-world correspondence, was probably written when the Apostle was the guest of the nephews of the lady addressed. The Epistle revolves around the two words, love and truth, which were the poles of his life. When Christ is in us, not only are we true in judgment and speech, but we recognize truth wherever it is to be found. No horizon bounds the vision of the true and truth-loving soul. Be true and loving, and you will have a rich heritage of grace, mercy, and peace. Love is best shown by obedience. 2 John 1:8 shows a pastor’s anxiety. Don’t go on without Christ or you will lose God, 2 John 1:9. Remember that love can be stern, 2 John 1:10.\n\nThe letter reveals the strength, purity, and love of the primitive Church. Let us put into our letters thoughts which will make them worth receiving and keeping."
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "2JN",
+  "chapter": 1
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "1JN",
+  "chapter": 5
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "3JN",
+  "chapter": 1
+ }
+}

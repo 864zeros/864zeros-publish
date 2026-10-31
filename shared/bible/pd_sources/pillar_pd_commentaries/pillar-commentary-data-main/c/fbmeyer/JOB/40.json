@@ -1,0 +1,47 @@
+{
+ "commentary": {
+  "id": "fbmeyer",
+  "name": "F. B. Meyer's Through the Bible Day by Day",
+  "englishName": "F. B. Meyer's Through the Bible Day by Day",
+  "language": "eng",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "website": "https://en.wikipedia.org/wiki/F._B._Meyer"
+ },
+ "book": {
+  "id": "JOB",
+  "commentaryId": "fbmeyer",
+  "name": "Job",
+  "commonName": "Job",
+  "numberOfChapters": 42
+ },
+ "chapter": {
+  "number": 40,
+  "introduction": null,
+  "content": [
+   {
+    "type": "verse",
+    "number": 1,
+    "content": [
+     {
+      "text": "“Hast Thou an Arm like God?” -- Job 40:1-24\n\nGod seemed to await Job’s reply to His questions. Job had protested that he would fill his mouth with arguments, but none was forthcoming. That vision of God had robbed him of self-reliance. He could only humbly acknowledge that he had uttered words enough. He must be led to the further confession, which will come presently, that he had sinned. Compare Job 42:6.\n\nIt was as though the Omniscient Eye still saw in Job some trust in himself; God therefore summoned him to array himself in his utmost glory and majesty and to argue his case further. But how impotent man is at the best!\n\nThe truth is driven home by a magnificent description of the hippopotamus, to whom the strongest and biggest of man’s creations are child’s play. If you cannot prevail against His creatures, how can you stand against the Creator? But if that Creator is your Father, how safe you are!"
+     }
+    ]
+   }
+  ]
+ },
+ "thisChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 40
+ },
+ "previousChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 39
+ },
+ "nextChapterReference": {
+  "commentaryId": "fbmeyer",
+  "book": "JOB",
+  "chapter": 41
+ }
+}
