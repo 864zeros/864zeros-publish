@@ -1,0 +1,125 @@
+{
+  "slug": "datanap",
+  "productName": "DataNap — Local Tab Vault & Memory-Saving Deep Sleep Manager",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "datanap-short.mp4",
+    "vtt": "datanap-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 30.65,
+    "fullText": "Tired of parking research tabs and freeing up browser memory getting locked behind monthly subscriptions and external cloud portals? With DataNap, One-Click Deep Sleep Reclaims ~95% RAM runs right where you already work. Crash-Resistant Local Session Vault and Instant OneTab Import & Markdown Export—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 7.39,
+        "duration": 7.39,
+        "text": "Tired of parking research tabs and freeing up browser memory getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 7.39,
+        "end": 13.91,
+        "duration": 6.52,
+        "text": "With DataNap, One-Click Deep Sleep Reclaims ~95% RAM runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 13.91,
+        "end": 21.89,
+        "duration": 7.98,
+        "text": "Crash-Resistant Local Session Vault and Instant OneTab Import & Markdown Export—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 21.89,
+        "end": 30.65,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "datanap-master.mp4",
+    "vtt": "datanap-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 51.5,
+    "fullText": "Need a better way to handle parking research tabs and freeing up browser memory, without handing your data to another monthly cloud landlord? Watch DataNap in action: Put heavy background tabs to sleep natively without closing them or losing their place in your tab bar—and wake them instantly when you click back. Sweep a whole window of open tabs into a dated, searchable local list that survives browser updates, restarts, and system crashes. Plus, migrate years of saved OneTab links in one paste, and export any vaulted session to clean Markdown or JSON for Obsidian and local backups. Unlike free tab suspenders caught injecting tracking scripts, DataNap uses native browser APIs with zero outbound network permissions. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 7.55,
+        "duration": 7.55,
+        "text": "Need a better way to handle parking research tabs and freeing up browser memory, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 7.55,
+        "end": 17.05,
+        "duration": 9.5,
+        "text": "Watch DataNap in action: Put heavy background tabs to sleep natively without closing them or losing their place in your tab bar—and wake them instantly when you click back."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 17.05,
+        "end": 34.3,
+        "duration": 17.25,
+        "text": "Sweep a whole window of open tabs into a dated, searchable local list that survives browser updates, restarts, and system crashes. Plus, migrate years of saved OneTab links in one paste, and export any vaulted session to clean Markdown or JSON for Obsidian and local backups."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 34.3,
+        "end": 42.69,
+        "duration": 8.39,
+        "text": "Unlike free tab suspenders caught injecting tracking scripts, DataNap uses native browser APIs with zero outbound network permissions."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 42.69,
+        "end": 51.5,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle parking research tabs and freeing up browser memory, without handing your data to another monthly cloud landlord? Watch DataNap in action: Put heavy background tabs to sleep natively without closing them or losing their place in your tab bar—and wake them instantly when you click back. Sweep a whole window of open tabs into a dated, searchable local list that survives browser updates, restarts, and system crashes. Plus, migrate years of saved OneTab links in one paste, and export any vaulted session to clean Markdown or JSON for Obsidian and local backups. Unlike free tab suspenders caught injecting tracking scripts, DataNap uses native browser APIs with zero outbound network permissions. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 7.55,
+      "duration": 7.55,
+      "text": "Need a better way to handle parking research tabs and freeing up browser memory, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 7.55,
+      "end": 17.05,
+      "duration": 9.5,
+      "text": "Watch DataNap in action: Put heavy background tabs to sleep natively without closing them or losing their place in your tab bar—and wake them instantly when you click back."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 17.05,
+      "end": 34.3,
+      "duration": 17.25,
+      "text": "Sweep a whole window of open tabs into a dated, searchable local list that survives browser updates, restarts, and system crashes. Plus, migrate years of saved OneTab links in one paste, and export any vaulted session to clean Markdown or JSON for Obsidian and local backups."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 34.3,
+      "end": 42.69,
+      "duration": 8.39,
+      "text": "Unlike free tab suspenders caught injecting tracking scripts, DataNap uses native browser APIs with zero outbound network permissions."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 42.69,
+      "end": 51.5,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

@@ -1,65 +1,40 @@
 {
   "slug": "rowarchiver",
-  "category": "google-workspace-addons",
+  "name": "RowArchiver — Automated Conditional Row Archiving & Google Sheets Speed Optimizer",
+  "shortName": "RowArchiver",
+  "category": "google-add-ons",
   "pillar": "864F",
-  "ingested_at": "2026-09-09T00:54:03.359Z",
-  "type": "google-add-ons",
-  "name": "RowArchiver — Conditional Row Archiving & Sheet Optimizer",
-  "summary": "Automatically move completed, dated, or inactive rows to archive tabs. Speed up lagging Google Sheets, prevent bloat, and eliminate recurring sync tool subscriptions.",
-  "metaDescription": "RowArchiver cleans and archives Google Sheets rows based on custom rules. 100% local-first, zero third-party routing, and one-time licensing.",
-  "icon": "rowarchiver.png",
-  "storeUrl": "",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Automatically moves completed, closed, or older rows from your active Google Sheet tab into a structured Archive tab—so your team's daily tracker stays fast while preserving 100% of your records.",
+  "metaDescription": "Automatically move completed, old, or inactive rows to an Archive tab to keep your live Google Sheets fast. No external middleware and zero monthly subscriptions.",
+  "icon": "rowarchiver-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/rowarchiver",
+  "demoUrl": "https://864zeros.com/demo/rowarchiver/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/rowarchiver-qa-docket.html",
+  "tags_we_hope_work": [
+    "automatically move completed rows google sheets",
+    "archive old rows in google sheets automatically",
+    "speed up slow lagging google sheets",
+    "move row to another tab based on cell value",
+    "conditional row archiver google workspace",
+    "delete or archive done rows google sheets",
+    "zapier & make alternative for sheet archiving",
+    "scheduled spreadsheet cleanup add-on",
+    "in-account google sheets optimizer",
+    "no subscription sheet row mover"
+  ],
   "video": {
     "src": "rowarchiver-master.mp4",
-    "poster": "rowarchiver-thumbnail.png",
-    "tag": "⏱️ 40s Product Demo",
-    "title": "Watch RowArchiver in Action",
-    "desc": "Clean bloated, sluggish Google Sheets by automatically shifting completed or dated rows to archive tabs bottom-up. Zero formula lag, zero external network hops.",
-    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
-    "youtubeUrl": "https://www.youtube.com/watch?v=hoQd9nNntDA"
-  },
-  "social_shorts": [
-    {
-      "id": "social-hook-pain",
-      "src": "rowarchiver-social-pain.mp4",
-      "poster": "thumbnail-rowarchiver-social-pain.png",
-      "angle": "10000_row_sheet_freezing_and_lag",
-      "duration": 21.2
-    },
-    {
-      "id": "social-hook-price",
-      "src": "rowarchiver-social-price.mp4",
-      "poster": "thumbnail-rowarchiver-social-price.png",
-      "angle": "spreadsheet_pipeline_tools_overcharging",
-      "duration": 23.9
-    }
-  ],
-  "shots": [
-    {
-      "img": "rowarchiver-1.png",
-      "alt": "RowArchiver — conditional row archiving rule builder",
-      "cap": "Define custom archive rules by status, text content, or date thresholds with live row previews."
-    },
-    {
-      "img": "rowarchiver-2.png",
-      "alt": "RowArchiver — automated archive tab creation and timestamps",
-      "cap": "Automated transfer moves matching records to dedicated archive tabs with optional timestamps."
-    },
-    {
-      "img": "rowarchiver-3.png",
-      "alt": "RowArchiver — sovereign ownership vs monthly subscription rent",
-      "cap": "one-time lifetime license. Optimize and archive Google Sheets forever without monthly SaaS rent."
-    }
-  ],
-  "jsonld": {
-    "description": "Conditional row archiving and sheet performance optimizer for Google Sheets: local-first Apps Script execution, atomic LockService transfers, and zero SaaS rent.",
-    "featureList": [
-      "Rule-based row archiving (equals, contains, older than X days, empty)",
-      "Live pre-scan preview showing exact matching row counts and sample data",
-      "Automatic archive tab creation with copied header column schemas",
-      "Atomic LockService mutex protection preventing row index corruption",
-      "100% in-account execution via non-sensitive spreadsheets.currentonly scope",
-      "one-time lifetime license — zero recurring subscriptions"
-    ]
+    "shortSrc": "rowarchiver-short.mp4",
+    "poster": "rowarchiver-fhg-poster-16x9.svg",
+    "shortPoster": "rowarchiver-fhg-poster-9x16.svg",
+    "vtt": "rowarchiver-demo.vtt",
+    "shortVtt": "rowarchiver-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

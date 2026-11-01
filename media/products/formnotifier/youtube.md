@@ -1,77 +1,93 @@
-# FormNotifier Pro — YouTube Upload Metadata
-**DAM Product Folder:** `media/products/formnotifier/`  
-**Web Product Page:** https://864zeros.com/products/formnotifier  
-**Pricing Model:** one-time lifetime (No recurring subscriptions)  
+# FormNotifier — Conditional Email Alerts & Clean Autoresponders for Google Forms — YouTube Publishing & D-UTA Search-Intent Docket
+
+- **Product Slug:** `formnotifier`
+- **Pillar:** `864F`
+- **Compliance:** `RULE-017` (Zero-Price), `RULE-018` (FHG Warm Parchment `#FDFCF8`), `RULE-019` (D-UTA Search Intent), `RULE-020` (Dual WebVTT CC), `RULE-035` (100/100 A+ Standard)
+- **Central Tag Registry (`D-UTA-TAG-ML`):** conditional email notifications google forms, send confirmation email to form respondent, email notifications for google forms alternative, route google form responses by answer, no watermark google forms autoresponder, custom html email template google forms, alert different emails based on form choice, private google forms email trigger, form receipt generator google workspace, one-time unlock form notification add-on
 
 ---
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/formnotifier/video/formnotifier-short.mp4`
-* **Suggested Thumbnail:** `media/products/formnotifier/video/thumbnail.png` (or `formnotifier-thumbnail.png`)
-* **YouTube Title:**
-```
-Conditional Stakeholder Alerts & Receipts — FormNotifier Pro #Shorts
-```
-* **YouTube Description:**
-```
-Send instant formatted email alerts and conditional respondent confirmations on Google Forms submission. 100% private in Apps Script — zero watermarks, zero subscription fees.
 
-👉 Try FormNotifier Pro: https://864zeros.com/products/formnotifier
+## 1. Deliverable A — Quick Overview YouTube Short (`9:16` Vertical · `formnotifier-short.mp4`)
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
+- **Video File:** `media/products/formnotifier/video/formnotifier-short.mp4` (`1080×1920`, `32.57s`, `en-US-AvaNeural` voiceover + Rhodes bed)
+- **Captions File (`WebVTT`):** `media/products/formnotifier/video/formnotifier-short.vtt`
+- **Poster / Thumbnail:** `media/products/formnotifier/video/formnotifier-fhg-poster-9x16.svg`
 
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
+### YouTube Short Title
+```text
+Route Form Alerts to the Right Person—Without Promotional Watermarks — FormNotifier #Shorts
 ```
-* **Tags:** `formnotifier, formnotifier pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+
+### YouTube Short Description (Zero-Price · RULE-017 Compliant)
+```text
+Sends custom HTML email notifications and instant respondent confirmation receipts the moment a Google Form is submitted—routed dynamically based on how the user answered.
+
+While similar tools hide their features behind monthly subscriptions and lock up your data, FormNotifier does the opposite. Software that lives where you do—no accounts, no tracking, and zero cloud rent.
+
+👉 Product Overview & Dual Video Walkthrough: https://864zeros.com/products/formnotifier
+🧪 Try the Zero-Install Interactive Demo: https://864zeros.com/demo/formnotifier/index.html
+📄 Inspect the Verified Security & QA Docket: https://864zeros.com/products/formnotifier-qa-docket.html
+🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
+
+⏱️ Chapters:
+00:00 00:00–00:03.8
+00:08 00:03.8–00:09.5
+00:14 00:09.5–00:16.5
+00:23 00:16.5–00:22.0
+
+#Shorts #864zeros #LocalFirst #NoSubscription #PrivacyFirst #SovereignSoftware #GoogleWorkspace #GoogleSheets #GoogleForms
+```
+
+### Verbatim Transcript (Quick Overview Short)
+```text
+[00:00 - 00:08] (00:00–00:03.8): Tired of routing conditional email notifications and receipts from Google Forms getting locked behind monthly subscriptions and external cloud portals?
+[00:08 - 00:14] (00:03.8–00:09.5): With FormNotifier, Answer-Based Conditional Email Routing runs right where you already work.
+[00:14 - 00:23] (00:09.5–00:16.5): 100% Watermark-Free Respondent Autoresponders and Dynamic {{Answer}} Tokens in Subject & Body—100% under your own custody.
+[00:23 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
+```
 
 ---
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/formnotifier/video/formnotifier-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/formnotifier/video/thumbnail-formnotifier-social-pain.png`
-* **YouTube Title:**
+
+## 2. Deliverable B — Full Product Demo (`16:9` Widescreen · `formnotifier-master.mp4`)
+
+- **Video File:** `media/products/formnotifier/video/formnotifier-master.mp4` (`1920×1080`, `51.5s`, `en-US-AvaNeural` voiceover + Rhodes bed)
+- **Captions File (`WebVTT`):** `media/products/formnotifier/video/formnotifier-demo.vtt`
+- **Poster / Thumbnail:** `media/products/formnotifier/video/formnotifier-fhg-poster-16x9.svg`
+
+### YouTube Full Demo Title
+```text
+FormNotifier — Conditional Email Alerts & Clean Autoresponders for Google Forms: Route Form Alerts to the Right Person—Without Promotional Watermarks (Full Walkthrough)
 ```
-Missed High-Value Leads & Generic Confirmation Pages — FormNotifier Pro #Shorts
+
+### YouTube Full Demo Description (Zero-Price · RULE-017 Compliant)
+```text
+Sends custom HTML email notifications and instant respondent confirmation receipts the moment a Google Form is submitted—routed dynamically based on how the user answered.
+
+Similar products treat routing conditional email notifications and receipts from Google Forms like an excuse to become your new landlord—forcing your team into external dashboards, metered usage, and charging you every month. Native Google Forms only sends a blank "someone responded" ping, while legacy add-ons inject promotional watermarks into your client emails and charge monthly rent. FormNotifier sends clean, branded emails straight from your own Gmail quota with a one-time unlock.
+
+👉 Product Page: https://864zeros.com/products/formnotifier
+🧪 Interactive HTML Sandbox: https://864zeros.com/demo/formnotifier/index.html
+📄 Security & QA Verification Docket: https://864zeros.com/products/formnotifier-qa-docket.html
+🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
+
+⏱️ Chapters:
+00:00 00:00–00:04.5
+00:08 00:04.5–00:11.0
+00:18 00:11.0–00:22.0
+00:34 00:22.0–00:31.0
+00:42 00:31.0–00:38.0
+
+🏷️ Search Tags (D-UTA-TAG-ML):
+conditional email notifications google forms, send confirmation email to form respondent, email notifications for google forms alternative, route google form responses by answer, no watermark google forms autoresponder, custom html email template google forms, alert different emails based on form choice, private google forms email trigger, form receipt generator google workspace, one-time unlock form notification add-on
+
+#864zeros #LocalFirst #NoSubscription #PrivacyFirst #SovereignSoftware #GoogleWorkspace #GoogleSheets #GoogleForms
 ```
-* **YouTube Description:**
+
+### Verbatim Transcript (Full Product Demo)
+```text
+[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord?
+[00:08 - 00:18] (00:04.5–00:11.0): Watch FormNotifier in action: Route billing inquiries to Finance, urgent support tickets to Engineering, and regional leads to the matching sales rep automatically.
+[00:18 - 00:34] (00:11.0–00:22.0): Send instant confirmation receipts to the person who filled out your form with their submitted answers—and zero "Sent via Free Add-on" ad footers. Plus, personalize email subject lines, reply-to addresses, and HTML message bodies with any form field or submission timestamp.
+[00:34 - 00:42] (00:22.0–00:31.0): Tracks your remaining daily send capacity in real time and records a delivery timestamp for every notification right inside your response sheet.
+[00:42 - 00:51] (00:31.0–00:38.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
 ```
-An enterprise lead submitted your contact form, and nobody received an alert until Monday morning.
-
-Meet FormNotifier Pro — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get FormNotifier Pro: https://864zeros.com/products/formnotifier
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 one-time lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `formnotifier, formnotifier pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/formnotifier/video/formnotifier-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/formnotifier/video/thumbnail-formnotifier-social-price.png`
-* **YouTube Title:**
-```
-Paying Monthly SaaS for Basic Notification Emails — FormNotifier Pro #Shorts
-```
-* **YouTube Description:**
-```
-Why pay recurring annual subscriptions just to receive notification emails from your own Google Forms?
-
-FormNotifier Pro gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
-
-👉 Get FormNotifier Pro: https://864zeros.com/products/formnotifier
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `formnotifier, formnotifier pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----

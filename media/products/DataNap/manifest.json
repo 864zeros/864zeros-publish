@@ -1,39 +1,40 @@
 {
   "slug": "datanap",
-  "category": "browser-extensions",
+  "name": "DataNap — Local Tab Vault & Memory-Saving Deep Sleep Manager",
+  "shortName": "DataNap",
+  "category": "extension",
   "pillar": "OIA",
-  "ingested_at": "2026-09-07T02:39:25.390Z",
-  "type": "extension",
-  "name": "DataNap — vault your tabs & deep-sleep the rest",
-  "summary": "Vault open tabs to a local list you can reopen, and deep-sleep idle tabs to free RAM. 100% local. A OneTab-style tab manager.",
-  "metaDescription": "Vault open tabs to a local list you can reopen, and deep-sleep idle tabs to free RAM. 100% local. A OneTab-style tab manager.",
-  "icon": "datanap.png",
-  "storeUrl": "",
-  "shots": [
-    {
-      "img": "datanap-1.png",
-      "alt": "DataNap — vault a window of tabs as a saved session (placeholder, real capture needed)",
-      "cap": "Close the pile without losing your place — vault a window in one click."
-    },
-    {
-      "img": "datanap-2.png",
-      "alt": "DataNap — deep-sleep idle tabs to free RAM (placeholder, real capture needed)",
-      "cap": "Deep-sleep idle tabs to reclaim ~95% of their RAM. They stay in your tab bar."
-    },
-    {
-      "img": "datanap-3.png",
-      "alt": "DataNap — options: Deep Sleep settings, OneTab import, local backup (placeholder, real capture needed)",
-      "cap": "Local by design — import from OneTab, back up your vault, no account needed."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Lets you park cluttering tabs into a searchable local vault or put background tabs into instant Deep Sleep so your laptop runs cool and fast while keeping every link one click away.",
+  "metaDescription": "Park open tabs into a crash-proof local vault and put idle tabs into deep sleep to reclaim up to 95% of browser RAM. No accounts, no tracking, zero cloud rent.",
+  "icon": "datanap-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/datanap",
+  "demoUrl": "https://864zeros.com/demo/datanap/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/datanap-qa-docket.html",
+  "tags_we_hope_work": [
+    "onetab alternative local privacy",
+    "the great suspender safe alternative",
+    "browser tab memory saver extension",
+    "deep sleep idle chrome tabs",
+    "local tab vault & session manager",
+    "export saved tabs to markdown",
+    "reduce chrome & edge ram usage",
+    "crash proof tab stasher extension",
+    "no cloud tab suspender",
+    "privacy-first tab manager"
   ],
-  "jsonld": {
-    "description": "Vault open tabs to a local, reopenable list and deep-sleep idle tabs to free RAM. Local-first, IndexedDB-backed, OneTab-style tab manager.",
-    "featureList": [
-      "Vault a tab or a whole window as a session",
-      "Restore all or one, at the right scroll position",
-      "Deep Sleep — manual and auto tab discard",
-      "Import from OneTab",
-      "Local JSON backup"
-    ]
+  "video": {
+    "src": "datanap-master.mp4",
+    "shortSrc": "datanap-short.mp4",
+    "poster": "datanap-fhg-poster-16x9.svg",
+    "shortPoster": "datanap-fhg-poster-9x16.svg",
+    "vtt": "datanap-demo.vtt",
+    "shortVtt": "datanap-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

@@ -1,0 +1,125 @@
+{
+  "slug": "tab-stasher",
+  "productName": "Tab Stasher — Named Window Parking, Per-Tab Notes & Markdown Export",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "tab-stasher-short.mp4",
+    "vtt": "tab-stasher-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 30.34,
+    "fullText": "Tired of stashing research tab windows with context notes for later getting locked behind monthly subscriptions and external cloud portals? With Tab Stasher, Per-Window & Per-Tab Context Annotations runs right where you already work. Explicit User-Commanded Window Stashing and One-Click Clean Markdown Research Export—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 7.63,
+        "duration": 7.63,
+        "text": "Tired of stashing research tab windows with context notes for later getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 7.63,
+        "end": 13.69,
+        "duration": 6.06,
+        "text": "With Tab Stasher, Per-Window & Per-Tab Context Annotations runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 13.69,
+        "end": 21.58,
+        "duration": 7.89,
+        "text": "Explicit User-Commanded Window Stashing and One-Click Clean Markdown Research Export—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 21.58,
+        "end": 30.34,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "tab-stasher-master.mp4",
+    "vtt": "tab-stasher-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 55.05,
+    "fullText": "Need a better way to handle stashing research tab windows with context notes for later, without handing your data to another monthly cloud landlord? Watch Tab Stasher in action: Name the whole stashed window (\"Q4 Tax Prep\" or \"Auth Bug Investigation\") and jot a specific note under any individual tab so context never evaporates. Not an aggressive background tab killer that breaks active forms. Park a window intentionally when you switch projects and restore it when you return. Plus, turn any stashed window—complete with tab titles, URLs, and your personal annotations—into a formatted Markdown checklist for Obsidian or GitHub PRs. Use tristate checkboxes to reopen or export all tabs or just a selected subset—with zero cloud accounts and zero telemetry. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 7.87,
+        "duration": 7.87,
+        "text": "Need a better way to handle stashing research tab windows with context notes for later, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 7.87,
+        "end": 19.83,
+        "duration": 11.97,
+        "text": "Watch Tab Stasher in action: Name the whole stashed window (\"Q4 Tax Prep\" or \"Auth Bug Investigation\") and jot a specific note under any individual tab so context never evaporates."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 19.83,
+        "end": 37.95,
+        "duration": 18.11,
+        "text": "Not an aggressive background tab killer that breaks active forms. Park a window intentionally when you switch projects and restore it when you return. Plus, turn any stashed window—complete with tab titles, URLs, and your personal annotations—into a formatted Markdown checklist for Obsidian or GitHub PRs."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 37.95,
+        "end": 46.24,
+        "duration": 8.3,
+        "text": "Use tristate checkboxes to reopen or export all tabs or just a selected subset—with zero cloud accounts and zero telemetry."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 46.24,
+        "end": 55.05,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle stashing research tab windows with context notes for later, without handing your data to another monthly cloud landlord? Watch Tab Stasher in action: Name the whole stashed window (\"Q4 Tax Prep\" or \"Auth Bug Investigation\") and jot a specific note under any individual tab so context never evaporates. Not an aggressive background tab killer that breaks active forms. Park a window intentionally when you switch projects and restore it when you return. Plus, turn any stashed window—complete with tab titles, URLs, and your personal annotations—into a formatted Markdown checklist for Obsidian or GitHub PRs. Use tristate checkboxes to reopen or export all tabs or just a selected subset—with zero cloud accounts and zero telemetry. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 7.87,
+      "duration": 7.87,
+      "text": "Need a better way to handle stashing research tab windows with context notes for later, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 7.87,
+      "end": 19.83,
+      "duration": 11.97,
+      "text": "Watch Tab Stasher in action: Name the whole stashed window (\"Q4 Tax Prep\" or \"Auth Bug Investigation\") and jot a specific note under any individual tab so context never evaporates."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 19.83,
+      "end": 37.95,
+      "duration": 18.11,
+      "text": "Not an aggressive background tab killer that breaks active forms. Park a window intentionally when you switch projects and restore it when you return. Plus, turn any stashed window—complete with tab titles, URLs, and your personal annotations—into a formatted Markdown checklist for Obsidian or GitHub PRs."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 37.95,
+      "end": 46.24,
+      "duration": 8.3,
+      "text": "Use tristate checkboxes to reopen or export all tabs or just a selected subset—with zero cloud accounts and zero telemetry."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 46.24,
+      "end": 55.05,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

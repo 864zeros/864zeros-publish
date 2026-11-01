@@ -1,61 +1,42 @@
-{
-  "total_duration": 60.37,
-  "scenes": [
-    {
-      "id": "scene1_hook",
-      "text": "Be honest: is your YouTube Music Liked Songs a chaotic graveyard of thousands of tracks you never actually listen to?",
-      "duration": 6.568005,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene1_hook.wav",
-      "start": 0.0,
-      "end": 6.57
-    },
-    {
-      "id": "scene2_intro",
-      "text": "Meet AutoOrganize. It automatically sorts your Liked Songs into clean, smart genre playlists, right inside your browser side panel.",
-      "duration": 8.296009,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene2_intro.wav",
-      "start": 6.57,
-      "end": 14.86
-    },
-    {
-      "id": "scene3_scan",
-      "text": "It scans your library privately on your device. Zero passwords, no cookies lifted, and nothing is uploaded to the cloud.",
-      "duration": 7.552018,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene3_scan.wav",
-      "start": 14.86,
-      "end": 22.42
-    },
-    {
-      "id": "scene4_split",
-      "text": "Then, it auto-splits your music into real genre playlists using MusicBrainz. Unknowns stay uncategorized instead of guessed wrong.",
-      "duration": 7.96,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene4_split.wav",
-      "start": 22.42,
-      "end": 30.38
-    },
-    {
-      "id": "scene5_create",
-      "text": "Preview every track before anything happens. With one click, AutoOrganize creates the playlists right in your YouTube Music, and Google syncs them everywhere.",
-      "duration": 9.592018,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene5_create.wav",
-      "start": 30.38,
-      "end": 39.97
-    },
-    {
-      "id": "scene6_pricing",
-      "text": "Best of all, no monthly subscriptions! Other playlist tools lock you into recurring monthly rent. AutoOrganize gives you a free preview and your first playlist free, with a one-time lifetime unlock forever.",
-      "duration": 12.424014,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene6_pricing.wav",
-      "start": 39.97,
-      "end": 52.39
-    },
-    {
-      "id": "scene7_cta",
-      "text": "Get it now on the Chrome Web Store and Microsoft Edge Add-ons, or reclaim your Liked Songs today at eight sixty-four zeros dot com.",
-      "duration": 7.974014,
-      "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\autoorganize-ytm\\audio_v2\\scene7_cta.wav",
-      "start": 52.39,
-      "end": 60.37
-    }
-  ]
-}
+[
+  {
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 7.87,
+    "duration": 7.87,
+    "text": "Need a better way to handle organizing your liked music library into genre playlists, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 7.87,
+    "end": 20.75,
+    "duration": 12.88,
+    "text": "Watch AutoOrganize in action: Matches your tracks against curated music metadata so rock, hip-hop, jazz, ambient, and electronic tracks land in accurate genre playlists—never guessed at random."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 20.75,
+    "end": 37.11,
+    "duration": 16.36,
+    "text": "Inspect every proposed genre group and track list in a clean checklist before writing a single playlist to your YouTube Music account. Plus, never hand over your Google password or broad account tokens to a third-party playlist website. Everything executes locally inside your side panel."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 37.11,
+    "end": 45.62,
+    "duration": 8.51,
+    "text": "Export your entire categorized music library to a readable local file anytime so you always keep an offline copy of your favorite songs."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 45.62,
+    "end": 54.43,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+  }
+]

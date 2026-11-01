@@ -1,37 +1,42 @@
 [
   {
-    "id": "scene1_hook",
-    "start": 0.0,
-    "end": 5.72,
-    "duration": 5.72,
-    "text": "How many expense requests get permanently lost in endless email forwarding chains every month?"
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 7.43,
+    "duration": 7.43,
+    "text": "Need a Google Forms approval workflow, but tired of requests stalling because managers refuse to create another portal login?"
   },
   {
-    "id": "scene2_intro",
-    "start": 5.72,
-    "end": 13.76,
-    "duration": 8.04,
-    "text": "Meet ApprovalWorkflow Local. 100% sovereign, local-first execution right inside your Google Workspace account."
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 7.43,
+    "end": 15.87,
+    "duration": 8.44,
+    "text": "Watch ApprovalWorkflow in action: one click on Approve inside standard email immediately updates your Google Sheet status row in real time."
   },
   {
-    "id": "scene3_feature",
-    "start": 13.76,
-    "end": 24.29,
-    "duration": 10.54,
-    "text": "Multi-step form approval router with tokenized email action buttons and dynamic Sheet logging. 100% local-first in Apps Script \u2014 zero external data relays."
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 15.87,
+    "end": 25.8,
+    "duration": 9.93,
+    "text": "Route purchase orders, leave requests, and vendor invoices through multi-step conditional rules—with automatic requester confirmation receipts and zero row collisions."
   },
   {
-    "id": "scene4_pricing",
-    "start": 24.29,
-    "end": 34.15,
-    "duration": 9.86,
-    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. ApprovalWorkflow Local is a single one-time unlock forever."
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 25.8,
+    "end": 31.89,
+    "duration": 6.09,
+    "text": "Your forms, inbox, and tracking spreadsheet work together privately inside your own environment."
   },
   {
-    "id": "scene5_cta",
-    "start": 34.15,
-    "end": 42.05,
-    "duration": 7.9,
-    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 31.89,
+    "end": 40.7,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
 ]

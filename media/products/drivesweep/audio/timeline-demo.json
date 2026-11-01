@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.08,
+    "duration": 8.08,
+    "text": "Need a better way to handle finding and cleaning duplicate files across Google Drive, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.08,
+    "end": 18.44,
+    "duration": 10.36,
+    "text": "Watch DriveSweep in action: Detects duplicate PDFs, videos, archives, and \"Copy of\" files across nested subfolders with zero external server indexing."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 18.44,
+    "end": 34.78,
+    "duration": 16.34,
+    "text": "Automatically preserve either the original master file or the most recently modified revision while sweeping redundant copies. Plus, never permanently destroys files behind your back. Swept duplicates move to your native Google Drive Trash and record a clickable restore link in Sheets."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 34.78,
+    "end": 42.86,
+    "duration": 8.08,
+    "text": "Every scan generates a clean Google Sheet report showing file paths, byte sizes, duplicate groups, and exact megabytes reclaimed."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 42.86,
+    "end": 51.67,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

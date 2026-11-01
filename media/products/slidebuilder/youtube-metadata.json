@@ -1,0 +1,54 @@
+{
+  "slug": "slidebuilder",
+  "productName": "SlideBuilder — Pixel-Perfect Google Sheets to Google Slides Deck Generator",
+  "pillar": "864F",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "merge google sheets into google slides",
+    "automate qbr presentations from google sheets",
+    "bulk generate slides from spreadsheet rows",
+    "autocrat & slide merge alternative no subscription",
+    "populate google slides template with sheet data",
+    "batch certificate generator google slides",
+    "deterministic sheet to slide automation",
+    "preserve master slide branding merge tool",
+    "private in-account presentation generator",
+    "one-time unlock google slides merge add-on"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Turn Spreadsheet Rows Into 50 Client Slides in Seconds—With Zero Layout Drift — SlideBuilder #Shorts",
+      "videoFile": "media/products/slidebuilder/video/slidebuilder-short.mp4",
+      "vttFile": "media/products/slidebuilder/video/slidebuilder-short.vtt",
+      "posterFile": "media/products/slidebuilder/video/slidebuilder-fhg-poster-9x16.svg",
+      "audioFile": "media/products/slidebuilder/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 35.07,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of merging spreadsheet metrics into multi-slide client presentations getting locked behind monthly subscriptions and external cloud portals? With SlideBuilder, Exact Master-Slide Geometry & Font Preservation runs right where you already work. Zero AI Hallucinations (100% True Spreadsheet Data) and Batch-Generate 50+ QBR, Certificate or Roster Slides—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "SlideBuilder — Pixel-Perfect Google Sheets to Google Slides Deck Generator: Turn Spreadsheet Rows Into 50 Client Slides in Seconds—With Zero Layout Drift (Full Walkthrough)",
+      "videoFile": "media/products/slidebuilder/video/slidebuilder-master.mp4",
+      "vttFile": "media/products/slidebuilder/video/slidebuilder-demo.vtt",
+      "posterFile": "media/products/slidebuilder/video/slidebuilder-fhg-poster-16x9.svg",
+      "audioFile": "media/products/slidebuilder/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 53.71,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle merging spreadsheet metrics into multi-slide client presentations, without handing your data to another monthly cloud landlord? Watch SlideBuilder in action: Clones your designed template slide verbatim so corporate colors, typography, logos, and table alignments remain 100% intact across all generated slides. Every metric, client name, and financial figure comes deterministically from your Google Sheet columns—never invented by a generative model. Plus, produce an entire quarterly business review deck, student award presentation, or product catalog from a spreadsheet in under 15 seconds. Your confidential board metrics and revenue spreadsheets merge directly between your Google Sheet and Google Slides inside your own account. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

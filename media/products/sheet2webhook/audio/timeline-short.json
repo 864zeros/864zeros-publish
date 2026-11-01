@@ -1,0 +1,34 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:03.8",
+    "start": 0.0,
+    "end": 8.59,
+    "duration": 8.59,
+    "text": "Tired of firing webhook notifications and API payloads from spreadsheet rows getting locked behind monthly subscriptions and external cloud portals?"
+  },
+  {
+    "index": 2,
+    "label": "00:03.8\u201300:09.5",
+    "start": 8.59,
+    "end": 15.13,
+    "duration": 6.54,
+    "text": "With Sheet2Webhook, Zero Per-Task Quotas & Zero Polling Delays runs right where you already work."
+  },
+  {
+    "index": 3,
+    "label": "00:09.5\u201300:16.5",
+    "start": 15.13,
+    "end": 23.69,
+    "duration": 8.56,
+    "text": "Audit Timestamp Column Prevents Duplicate Fires and Sealed Custom Headers & Bearer Token Support\u2014100% under your own custody."
+  },
+  {
+    "index": 4,
+    "label": "00:16.5\u201300:22.0",
+    "start": 23.69,
+    "end": 32.45,
+    "duration": 8.76,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

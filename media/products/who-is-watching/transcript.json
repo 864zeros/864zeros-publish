@@ -1,0 +1,125 @@
+{
+  "slug": "who-is-watching",
+  "productName": "Who Is Watching — Real-Time Tracker, Ad-Tech Vendor & Identity ID Inspector",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "who-is-watching-short.mp4",
+    "vtt": "who-is-watching-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 32.81,
+    "fullText": "Tired of auditing third-party trackers and identity vendors on websites getting locked behind monthly subscriptions and external cloud portals? With Who Is Watching, Named Vendor & Category Attribution runs right where you already work. Exposes Concrete Tracking Cookies & Pixel IDs and One-Click Forensic HTML & Markdown Audit Report—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 8.23,
+        "duration": 8.23,
+        "text": "Tired of auditing third-party trackers and identity vendors on websites getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 8.23,
+        "end": 14.05,
+        "duration": 5.82,
+        "text": "With Who Is Watching, Named Vendor & Category Attribution runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 14.05,
+        "end": 24.05,
+        "duration": 10,
+        "text": "Exposes Concrete Tracking Cookies & Pixel IDs and One-Click Forensic HTML & Markdown Audit Report—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 24.05,
+        "end": 32.81,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "who-is-watching-master.mp4",
+    "vtt": "who-is-watching-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 51.96,
+    "fullText": "Need a better way to handle auditing third-party trackers and identity vendors on websites, without handing your data to another monthly cloud landlord? Watch Who Is Watching in action: Translates obscure tracking domains into plain-English company names across Ad-Tech, Session Recording, Fingerprinting, and Analytics categories. See the actual persistent identifier keys and pixel IDs set in your browser during the session—not just a vague counter. Plus, export a timestamped compliance and security report of every tracker detected on a page for GDPR, FERPA, or vendor procurement audits. Unlike commercial tracker extensions owned by ad conglomerates, Who Is Watching runs 100% on your device with zero outbound network calls. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 7.94,
+        "duration": 7.94,
+        "text": "Need a better way to handle auditing third-party trackers and identity vendors on websites, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 7.94,
+        "end": 18.66,
+        "duration": 10.72,
+        "text": "Watch Who Is Watching in action: Translates obscure tracking domains into plain-English company names across Ad-Tech, Session Recording, Fingerprinting, and Analytics categories."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 18.66,
+        "end": 34.8,
+        "duration": 16.14,
+        "text": "See the actual persistent identifier keys and pixel IDs set in your browser during the session—not just a vague counter. Plus, export a timestamped compliance and security report of every tracker detected on a page for GDPR, FERPA, or vendor procurement audits."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 34.8,
+        "end": 43.15,
+        "duration": 8.34,
+        "text": "Unlike commercial tracker extensions owned by ad conglomerates, Who Is Watching runs 100% on your device with zero outbound network calls."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 43.15,
+        "end": 51.96,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle auditing third-party trackers and identity vendors on websites, without handing your data to another monthly cloud landlord? Watch Who Is Watching in action: Translates obscure tracking domains into plain-English company names across Ad-Tech, Session Recording, Fingerprinting, and Analytics categories. See the actual persistent identifier keys and pixel IDs set in your browser during the session—not just a vague counter. Plus, export a timestamped compliance and security report of every tracker detected on a page for GDPR, FERPA, or vendor procurement audits. Unlike commercial tracker extensions owned by ad conglomerates, Who Is Watching runs 100% on your device with zero outbound network calls. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 7.94,
+      "duration": 7.94,
+      "text": "Need a better way to handle auditing third-party trackers and identity vendors on websites, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 7.94,
+      "end": 18.66,
+      "duration": 10.72,
+      "text": "Watch Who Is Watching in action: Translates obscure tracking domains into plain-English company names across Ad-Tech, Session Recording, Fingerprinting, and Analytics categories."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 18.66,
+      "end": 34.8,
+      "duration": 16.14,
+      "text": "See the actual persistent identifier keys and pixel IDs set in your browser during the session—not just a vague counter. Plus, export a timestamped compliance and security report of every tracker detected on a page for GDPR, FERPA, or vendor procurement audits."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 34.8,
+      "end": 43.15,
+      "duration": 8.34,
+      "text": "Unlike commercial tracker extensions owned by ad conglomerates, Who Is Watching runs 100% on your device with zero outbound network calls."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 43.15,
+      "end": 51.96,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

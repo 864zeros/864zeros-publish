@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.25,
+    "duration": 8.25,
+    "text": "Need a better way to handle signing agreements and routing sealed PDFs in Google Docs, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.25,
+    "end": 19.11,
+    "duration": 10.86,
+    "text": "Watch SignRoute in action: Draw a smooth, high-DPI signature with your mouse, trackpad, or stylus right inside the Google Docs sidebar and save it for one-click reuse."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 19.11,
+    "end": 35.38,
+    "duration": 16.26,
+    "text": "Automatically place your signature graphic and cryptographic timestamp block at designated {{Signature}} tags or right where your cursor sits. Plus, compiles the signed Google Doc into a flattened, tamper-evident PDF and saves it directly into your chosen Google Drive contract folder."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 35.38,
+    "end": 43.34,
+    "duration": 7.96,
+    "text": "Your NDAs, vendor approvals, and equipment handoffs never sit on a third-party e-signature vendor's server\u2014and you never pay per document."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 43.34,
+    "end": 52.15,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

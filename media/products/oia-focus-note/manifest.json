@@ -1,39 +1,40 @@
 {
   "slug": "oia-focus-note",
-  "category": "browser-extensions",
+  "name": "Focus Note — Calm Single-Surface Scratchpad That Clears After 24 Hours",
+  "shortName": "Focus Note",
+  "category": "extension",
   "pillar": "OIA",
-  "ingested_at": "2026-09-07T02:39:25.447Z",
-  "type": "extension",
-  "name": "Focus Note — a single note that clears itself",
-  "summary": "One calm note for ADHD minds. Dump what you need to remember — it auto-clears after 24 hours. Copy or download to keep it. 100% local.",
-  "metaDescription": "One calm note for ADHD minds. Dump what you need to remember — it auto-clears after 24 hours. Copy or download to keep it. 100% local.",
-  "icon": "focus-note.png",
-  "storeUrl": "",
-  "shots": [
-    {
-      "img": "focus-note-1.png",
-      "alt": "Focus Note — one calm note for one task",
-      "cap": "One calm note for one task — dump the thought and save it."
-    },
-    {
-      "img": "focus-note-2.png",
-      "alt": "Focus Note — notes auto-clear after 24 hours; copy or download to keep them",
-      "cap": "Notes auto-clear after 24 hours. Copy or download to keep anything."
-    },
-    {
-      "img": "focus-note-3.png",
-      "alt": "Focus Note — free, local, and yours with no account or tracking",
-      "cap": "Free, local, and yours — no account, no cloud, no tracking."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Gives you one distraction-free scratchpad docked in your browser side panel that holds what you need to remember today and gently clears itself after 24 hours unless you choose to copy or download it.",
+  "metaDescription": "One calm note in your browser side panel for ADHD working memory. Jot what matters right now—it auto-clears after 24 hours unless you export it. 100% local.",
+  "icon": "oia-focus-note-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/oia-focus-note",
+  "demoUrl": "https://864zeros.com/demo/oia-focus-note/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/oia-focus-note-qa-docket.html",
+  "tags_we_hope_work": [
+    "ephemeral browser scratchpad extension",
+    "adhd working memory side panel note",
+    "auto clearing daily scratchpad chrome",
+    "minimalist side panel notepad no account",
+    "temporary note extension 100% local",
+    "zero clutter browser quick note",
+    "distraction free side panel text pad",
+    "private local browser clipboard notepad",
+    "anti-overwhelm note tool for adhd",
+    "no cloud browser scratchpad"
   ],
-  "jsonld": {
-    "description": "A single-note ADHD scratchpad whose notes auto-clear after 24 hours by design. Copy or download to keep them. Local-first, no server, no tracking.",
-    "featureList": [
-      "Single-note quick capture",
-      "Auto-clear after 24 hours (ephemeral by design)",
-      "Copy all notes to clipboard",
-      "Download notes as a .txt file",
-      "100% local, no network calls"
-    ]
+  "video": {
+    "src": "oia-focus-note-master.mp4",
+    "shortSrc": "oia-focus-note-short.mp4",
+    "poster": "oia-focus-note-fhg-poster-16x9.svg",
+    "shortPoster": "oia-focus-note-fhg-poster-9x16.svg",
+    "vtt": "oia-focus-note-demo.vtt",
+    "shortVtt": "oia-focus-note-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

@@ -1,0 +1,125 @@
+{
+  "slug": "link-later",
+  "productName": "LinkLater — Local Read-Later Vault & One-Click Obsidian Bridge",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "link-later-short.mp4",
+    "vtt": "link-later-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 29.83,
+    "fullText": "Tired of saving articles with context notes for reading later getting locked behind monthly subscriptions and external cloud portals? With LinkLater, Save Links With Immediate Notes & Tags runs right where you already work. One-Click Send to Obsidian Vault Bridge and Instant Offline Search & Unread Filtering—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 7.51,
+        "duration": 7.51,
+        "text": "Tired of saving articles with context notes for reading later getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 7.51,
+        "end": 13.07,
+        "duration": 5.56,
+        "text": "With LinkLater, Save Links With Immediate Notes & Tags runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 13.07,
+        "end": 21.07,
+        "duration": 8.01,
+        "text": "One-Click Send to Obsidian Vault Bridge and Instant Offline Search & Unread Filtering—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 21.07,
+        "end": 29.83,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "link-later-master.mp4",
+    "vtt": "link-later-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 52.72,
+    "fullText": "Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord? Watch LinkLater in action: Capture why you saved an article while the thought is fresh—attach quotes, tags, and priority flags right in the side panel without leaving your tab. Push single saved articles or a compiled weekly reading digest directly into your local Obsidian vault with clean frontmatter and links. Plus, filter your reading queue by tag, domain, or read/unread status in 0ms—even when you are on a plane with no internet connection. Your reading list belongs to you. Export single items or your entire archive to standard Markdown or JSON anytime with zero lock-in. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 7.53,
+        "duration": 7.53,
+        "text": "Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 7.53,
+        "end": 17.84,
+        "duration": 10.31,
+        "text": "Watch LinkLater in action: Capture why you saved an article while the thought is fresh—attach quotes, tags, and priority flags right in the side panel without leaving your tab."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 17.84,
+        "end": 35.62,
+        "duration": 17.78,
+        "text": "Push single saved articles or a compiled weekly reading digest directly into your local Obsidian vault with clean frontmatter and links. Plus, filter your reading queue by tag, domain, or read/unread status in 0ms—even when you are on a plane with no internet connection."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 35.62,
+        "end": 43.91,
+        "duration": 8.3,
+        "text": "Your reading list belongs to you. Export single items or your entire archive to standard Markdown or JSON anytime with zero lock-in."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 43.91,
+        "end": 52.72,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord? Watch LinkLater in action: Capture why you saved an article while the thought is fresh—attach quotes, tags, and priority flags right in the side panel without leaving your tab. Push single saved articles or a compiled weekly reading digest directly into your local Obsidian vault with clean frontmatter and links. Plus, filter your reading queue by tag, domain, or read/unread status in 0ms—even when you are on a plane with no internet connection. Your reading list belongs to you. Export single items or your entire archive to standard Markdown or JSON anytime with zero lock-in. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 7.53,
+      "duration": 7.53,
+      "text": "Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 7.53,
+      "end": 17.84,
+      "duration": 10.31,
+      "text": "Watch LinkLater in action: Capture why you saved an article while the thought is fresh—attach quotes, tags, and priority flags right in the side panel without leaving your tab."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 17.84,
+      "end": 35.62,
+      "duration": 17.78,
+      "text": "Push single saved articles or a compiled weekly reading digest directly into your local Obsidian vault with clean frontmatter and links. Plus, filter your reading queue by tag, domain, or read/unread status in 0ms—even when you are on a plane with no internet connection."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 35.62,
+      "end": 43.91,
+      "duration": 8.3,
+      "text": "Your reading list belongs to you. Export single items or your entire archive to standard Markdown or JSON anytime with zero lock-in."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 43.91,
+      "end": 52.72,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

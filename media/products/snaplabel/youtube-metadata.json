@@ -1,0 +1,54 @@
+{
+  "slug": "snaplabel",
+  "productName": "SnapLabel — Sub-Millimeter Avery Label, Envelope & Barcode Merge for Docs & Sheets",
+  "pillar": "864F",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "print avery 5160 labels from google sheets",
+    "labelmaker & foxy labels alternative no subscription",
+    "mail merge labels in google docs & sheets",
+    "avery 8160 address label generator google workspace",
+    "barcode & qr sticker printer google sheets",
+    "fix vertical drift google docs labels",
+    "envelope mail merge #10 google docs",
+    "private customer mailing list label merge",
+    "warehouse sku barcode label add-on",
+    "one-time unlock google sheets label maker"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Print-Ready Avery Labels & Barcodes From Google Sheets—With Zero Vertical Drift — SnapLabel #Shorts",
+      "videoFile": "media/products/snaplabel/video/snaplabel-short.mp4",
+      "vttFile": "media/products/snaplabel/video/snaplabel-short.vtt",
+      "posterFile": "media/products/snaplabel/video/snaplabel-fhg-poster-9x16.svg",
+      "audioFile": "media/products/snaplabel/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 35.04,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of merging spreadsheet rows into printable Avery mailing and barcode labels getting locked behind monthly subscriptions and external cloud portals? With SnapLabel, Sub-Millimeter Calibrated Avery Templates (Zero Drift) runs right where you already work. Built-In Scannable Code-128 Barcodes & QR Codes and Outputs Editable Google Doc + Print-Ready PDF—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "SnapLabel — Sub-Millimeter Avery Label, Envelope & Barcode Merge for Docs & Sheets: Print-Ready Avery Labels & Barcodes From Google Sheets—With Zero Vertical Drift (Full Walkthrough)",
+      "videoFile": "media/products/snaplabel/video/snaplabel-master.mp4",
+      "vttFile": "media/products/snaplabel/video/snaplabel-demo.vtt",
+      "posterFile": "media/products/snaplabel/video/snaplabel-fhg-poster-16x9.svg",
+      "audioFile": "media/products/snaplabel/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 56.06,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle merging spreadsheet rows into printable Avery mailing and barcode labels, without handing your data to another monthly cloud landlord? Watch SnapLabel in action: Engineered with locked cell heights and margins for Avery 5160, 8160, 5163, 5167, and #10/DL envelopes so row 10 aligns as cleanly as row 1. Include crisp, scannable inventory barcodes or QR codes inside every merged label cell at zero extra tier cost. Plus, generates both a customizable Google Doc and a locked, print-calibrated PDF directly inside your Google Drive folder. Your customer mailing addresses, wedding guest lists, and warehouse SKUs never leave your Google account to render on an external server. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

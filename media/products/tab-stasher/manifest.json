@@ -1,38 +1,40 @@
 {
   "slug": "tab-stasher",
-  "category": "browser-extensions",
+  "name": "Tab Stasher — Named Window Parking, Per-Tab Notes & Markdown Export",
+  "shortName": "Tab Stasher",
+  "category": "extension",
   "pillar": "CMC",
-  "ingested_at": "2026-09-07T02:39:25.349Z",
-  "type": "extension",
-  "name": "Tab Stasher — park, annotate & export your tabs",
-  "summary": "Park a window of tabs as one labeled set — annotate each, then reopen or export to Markdown. 100% local. Not a tab suspender.",
-  "metaDescription": "Park a window of tabs as one labeled set — annotate each, then reopen or export to Markdown. 100% local. Not a tab suspender.",
-  "icon": "tab-stasher.png",
-  "storeUrl": "",
-  "shots": [
-    {
-      "img": "tab-stasher-1.png",
-      "alt": "Tab Stasher — park a window of tabs in one click",
-      "cap": "Close the pile without losing the thread — park a window of tabs in one click."
-    },
-    {
-      "img": "tab-stasher-2.png",
-      "alt": "Tab Stasher — every tab carries its title, description, link, and your notes",
-      "cap": "Every tab carries its context — title, description, link, and your notes."
-    },
-    {
-      "img": "tab-stasher-3.png",
-      "alt": "Tab Stasher — local and exportable to Markdown",
-      "cap": "Local, and yours. Export any window to Markdown."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Parks an entire window of open tabs into a named local session where you can attach a note to every tab—then reopen the whole window in one click or export the session as clean Markdown documentation.",
+  "metaDescription": "Stash an entire browser window as a named research session, attach notes to each tab, and reopen or export to clean Markdown 100% locally. Zero cloud rent.",
+  "icon": "tab-stasher-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/tab-stasher",
+  "demoUrl": "https://864zeros.com/demo/tab-stasher/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/tab-stasher-qa-docket.html",
+  "tags_we_hope_work": [
+    "save browser window with notes per tab",
+    "export open chrome tabs to markdown with notes",
+    "session buddy & tab stash local alternative",
+    "park research tabs for obsidian",
+    "annotate saved browser tabs extension",
+    "window session manager chrome & edge",
+    "selective checkbox tab restore tool",
+    "not a tab suspender intentional tab parker",
+    "private offline tab session archive",
+    "no subscription tab stasher extension"
   ],
-  "jsonld": {
-    "description": "Park a window of tabs as one labeled set — annotate each, then reopen or export to Markdown. Local-first, not a tab suspender.",
-    "featureList": [
-      "Stash a window of tabs",
-      "Per-tab and per-window notes",
-      "Restore all or one",
-      "Markdown export"
-    ]
+  "video": {
+    "src": "tab-stasher-master.mp4",
+    "shortSrc": "tab-stasher-short.mp4",
+    "poster": "tab-stasher-fhg-poster-16x9.svg",
+    "shortPoster": "tab-stasher-fhg-poster-9x16.svg",
+    "vtt": "tab-stasher-demo.vtt",
+    "shortVtt": "tab-stasher-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

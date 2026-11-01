@@ -1,0 +1,125 @@
+{
+  "slug": "formnotifier",
+  "productName": "FormNotifier — Conditional Email Alerts & Clean Autoresponders for Google Forms",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "formnotifier-short.mp4",
+    "vtt": "formnotifier-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 32.57,
+    "fullText": "Tired of routing conditional email notifications and receipts from Google Forms getting locked behind monthly subscriptions and external cloud portals? With FormNotifier, Answer-Based Conditional Email Routing runs right where you already work. 100% Watermark-Free Respondent Autoresponders and Dynamic {{Answer}} Tokens in Subject & Body—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 8.59,
+        "duration": 8.59,
+        "text": "Tired of routing conditional email notifications and receipts from Google Forms getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 8.59,
+        "end": 14.27,
+        "duration": 5.68,
+        "text": "With FormNotifier, Answer-Based Conditional Email Routing runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 14.27,
+        "end": 23.81,
+        "duration": 9.54,
+        "text": "100% Watermark-Free Respondent Autoresponders and Dynamic {{Answer}} Tokens in Subject & Body—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 23.81,
+        "end": 32.57,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "formnotifier-master.mp4",
+    "vtt": "formnotifier-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 51.5,
+    "fullText": "Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord? Watch FormNotifier in action: Route billing inquiries to Finance, urgent support tickets to Engineering, and regional leads to the matching sales rep automatically. Send instant confirmation receipts to the person who filled out your form with their submitted answers—and zero \"Sent via Free Add-on\" ad footers. Plus, personalize email subject lines, reply-to addresses, and HTML message bodies with any form field or submission timestamp. Tracks your remaining daily send capacity in real time and records a delivery timestamp for every notification right inside your response sheet. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 8.47,
+        "duration": 8.47,
+        "text": "Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 8.47,
+        "end": 18.32,
+        "duration": 9.86,
+        "text": "Watch FormNotifier in action: Route billing inquiries to Finance, urgent support tickets to Engineering, and regional leads to the matching sales rep automatically."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 18.32,
+        "end": 34.66,
+        "duration": 16.34,
+        "text": "Send instant confirmation receipts to the person who filled out your form with their submitted answers—and zero \"Sent via Free Add-on\" ad footers. Plus, personalize email subject lines, reply-to addresses, and HTML message bodies with any form field or submission timestamp."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 34.66,
+        "end": 42.69,
+        "duration": 8.03,
+        "text": "Tracks your remaining daily send capacity in real time and records a delivery timestamp for every notification right inside your response sheet."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 42.69,
+        "end": 51.5,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord? Watch FormNotifier in action: Route billing inquiries to Finance, urgent support tickets to Engineering, and regional leads to the matching sales rep automatically. Send instant confirmation receipts to the person who filled out your form with their submitted answers—and zero \"Sent via Free Add-on\" ad footers. Plus, personalize email subject lines, reply-to addresses, and HTML message bodies with any form field or submission timestamp. Tracks your remaining daily send capacity in real time and records a delivery timestamp for every notification right inside your response sheet. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 8.47,
+      "duration": 8.47,
+      "text": "Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 8.47,
+      "end": 18.32,
+      "duration": 9.86,
+      "text": "Watch FormNotifier in action: Route billing inquiries to Finance, urgent support tickets to Engineering, and regional leads to the matching sales rep automatically."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 18.32,
+      "end": 34.66,
+      "duration": 16.34,
+      "text": "Send instant confirmation receipts to the person who filled out your form with their submitted answers—and zero \"Sent via Free Add-on\" ad footers. Plus, personalize email subject lines, reply-to addresses, and HTML message bodies with any form field or submission timestamp."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 34.66,
+      "end": 42.69,
+      "duration": 8.03,
+      "text": "Tracks your remaining daily send capacity in real time and records a delivery timestamp for every notification right inside your response sheet."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 42.69,
+      "end": 51.5,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

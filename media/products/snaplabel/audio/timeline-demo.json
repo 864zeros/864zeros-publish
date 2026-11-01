@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.56,
+    "duration": 8.56,
+    "text": "Need a better way to handle merging spreadsheet rows into printable Avery mailing and barcode labels, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.56,
+    "end": 24.35,
+    "duration": 15.78,
+    "text": "Watch SnapLabel in action: Engineered with locked cell heights and margins for Avery 5160, 8160, 5163, 5167, and #10/DL envelopes so row 10 aligns as cleanly as row 1."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 24.35,
+    "end": 39.39,
+    "duration": 15.04,
+    "text": "Include crisp, scannable inventory barcodes or QR codes inside every merged label cell at zero extra tier cost. Plus, generates both a customizable Google Doc and a locked, print-calibrated PDF directly inside your Google Drive folder."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 39.39,
+    "end": 47.25,
+    "duration": 7.86,
+    "text": "Your customer mailing addresses, wedding guest lists, and warehouse SKUs never leave your Google account to render on an external server."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 47.25,
+    "end": 56.06,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

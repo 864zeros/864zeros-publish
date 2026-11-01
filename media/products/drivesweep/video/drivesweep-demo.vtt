@@ -1,0 +1,22 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.080
+Need a better way to handle finding and cleaning duplicate files across Google Drive, without handing your data to another monthly cloud landlord?
+
+2
+00:00:08.080 --> 00:00:18.440
+Watch DriveSweep in action: Detects duplicate PDFs, videos, archives, and "Copy of" files across nested subfolders with zero external server indexing.
+
+3
+00:00:18.440 --> 00:00:34.780
+Automatically preserve either the original master file or the most recently modified revision while sweeping redundant copies. Plus, never permanently destroys files behind your back. Swept duplicates move to your native Google Drive Trash and record a clickable restore link in Sheets.
+
+4
+00:00:34.780 --> 00:00:42.860
+Every scan generates a clean Google Sheet report showing file paths, byte sizes, duplicate groups, and exact megabytes reclaimed.
+
+5
+00:00:42.860 --> 00:00:51.670
+Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
+

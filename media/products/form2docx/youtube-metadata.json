@@ -1,0 +1,54 @@
+{
+  "slug": "form2docx",
+  "productName": "Form2Docx — Automatic Google Forms to Docs & PDF Document Merge",
+  "pillar": "864F",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "google forms to google docs merge",
+    "generate pdf from google form submission",
+    "form publisher alternative no subscription",
+    "document studio & autocrat alternative",
+    "automate contracts from google forms",
+    "google forms intake to pdf generator",
+    "no watermark form to doc add-on",
+    "custom pdf naming google forms",
+    "in-account document merge google workspace",
+    "one-time license form to pdf tool"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Turn Form Submissions Into Finished Docs & PDFs Automatically — Form2Docx #Shorts",
+      "videoFile": "media/products/form2docx/video/form2docx-short.mp4",
+      "vttFile": "media/products/form2docx/video/form2docx-short.vtt",
+      "posterFile": "media/products/form2docx/video/form2docx-fhg-poster-9x16.svg",
+      "audioFile": "media/products/form2docx/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 31.25,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of merging form responses into custom documents and PDFs getting locked behind monthly subscriptions and external cloud portals? With Form2Docx, Instant {{Token}} Template Replacement runs right where you already work. Simultaneous Google Doc & PDF Compilation and Dynamic Custom File Naming per Submission—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "Form2Docx — Automatic Google Forms to Docs & PDF Document Merge: Turn Form Submissions Into Finished Docs & PDFs Automatically (Full Walkthrough)",
+      "videoFile": "media/products/form2docx/video/form2docx-master.mp4",
+      "vttFile": "media/products/form2docx/video/form2docx-demo.vtt",
+      "posterFile": "media/products/form2docx/video/form2docx-fhg-poster-16x9.svg",
+      "audioFile": "media/products/form2docx/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 55.77,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle merging form responses into custom documents and PDFs, without handing your data to another monthly cloud landlord? Watch Form2Docx in action: Place simple {{Question Title}} tags anywhere in your Google Doc header, body, or tables and watch Form2Docx populate them automatically on submit. Output an editable Google Doc, a locked print-ready PDF, or both directly into your designated Google Drive destination folder. Plus, name generated files automatically using form answers—such as \"2026-Contract-{{Client Name}}.pdf\"—and log the direct Drive link back into your Sheet. Your legal, medical, and client intake answers never leave your Google account—and your generated PDFs never carry third-party promotional stamps. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.180
+Need a better way to handle archiving completed spreadsheet rows to keep live trackers fast, without handing your data to another monthly cloud landlord?
+
+2
+00:00:08.180 --> 00:00:18.150
+Watch RowArchiver in action: Moves completed rows from the bottom up with built-in concurrency locking so active row indexes and adjacent formulas never shift or corrupt.
+
+3
+00:00:18.150 --> 00:00:34.200
+Preview the exact count of rows matching your rule (such as Status = "Completed" or Date older than 30 days) before moving a single cell. Plus, set an automatic overnight or hourly schedule so completed tasks evacuate to your Archive tab while your team sleeps.
+
+4
+00:00:34.200 --> 00:00:42.690
+Automatically creates your destination Archive tab with matching column headers and formatting—100% inside your own Google Sheet.
+
+5
+00:00:42.690 --> 00:00:51.500
+Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
+

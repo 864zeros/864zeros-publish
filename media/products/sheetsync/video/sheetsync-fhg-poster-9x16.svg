@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920" role="img" aria-label="SheetSync Quick Overview Short Poster">
+  <defs>
+    <linearGradient id="bg916" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDFCF8"/>
+      <stop offset="100%" stop-color="#F4EBDD"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg916)"/>
+  <rect x="44" y="44" width="992" height="1832" rx="44" fill="none" stroke="#D8C7B0" stroke-width="4"/>
+
+  <!-- Top Header Badge -->
+  <rect x="110" y="120" width="440" height="64" rx="32" fill="#8B6642"/>
+  <text x="330" y="162" text-anchor="middle" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="28" font-weight="800" fill="#FFFFFF">⚡ QUICK OVERVIEW · 9:16</text>
+
+  <rect x="580" y="120" width="390" height="64" rx="32" fill="#F6EFE4" stroke="#D8C7B0" stroke-width="3"/>
+  <text x="775" y="162" text-anchor="middle" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="26" font-weight="800" fill="#705032">864zeros · 864F</text>
+
+  <!-- Title Card -->
+  <rect x="96" y="250" width="888" height="360" rx="32" fill="#FFFFFF" stroke="#E6DAC8" stroke-width="4"/>
+  <text x="146" y="345" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="30" font-weight="800" fill="#8B6642" letter-spacing="1.5">SOVEREIGN WORKSPACE SOFTWARE</text>
+  <text x="146" y="445" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="68" font-weight="900" fill="#2D2D2D">SheetSync</text>
+  <text x="146" y="525" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="32" font-weight="700" fill="#5C5C5C">Replace Fragile IMPORTRANGE Chains With Fast, Ed</text>
+
+  <!-- Feature Stack -->
+  <rect x="96" y="670" width="888" height="210" rx="28" fill="#FDFCF8" stroke="#D8C7B0" stroke-width="3"/>
+  <text x="146" y="755" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="36" font-weight="800" fill="#2D2D2D">🔑 Primary-Key Upsert, Append &amp; Full Mirro</text>
+  <text x="146" y="818" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="26" font-weight="600" fill="#5C5C5C">No external dashboard accounts or login walls.</text>
+
+  <rect x="96" y="920" width="888" height="210" rx="28" fill="#FDFCF8" stroke="#D8C7B0" stroke-width="3"/>
+  <text x="146" y="1005" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="36" font-weight="800" fill="#2D2D2D">⚡ Static Value Sync Eliminates &quot;Loading...</text>
+  <text x="146" y="1068" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="26" font-weight="600" fill="#5C5C5C">100% private execution inside your own environment.</text>
+
+  <rect x="96" y="1170" width="888" height="210" rx="28" fill="#FDFCF8" stroke="#D8C7B0" stroke-width="3"/>
+  <text x="146" y="1255" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="36" font-weight="800" fill="#2D2D2D">⏰ Automated Hourly, 6-Hourly &amp; Daily Rollu</text>
+  <text x="146" y="1318" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="26" font-weight="600" fill="#5C5C5C">One-time unlock — zero recurring monthly subscriptions.</text>
+
+  <!-- Play Button Medallion -->
+  <circle cx="540" cy="1540" r="88" fill="#8B6642" stroke="#FFFFFF" stroke-width="8"/>
+  <polygon points="518,1498 518,1582 588,1540" fill="#FFFFFF"/>
+
+  <!-- Signature Footer -->
+  <text x="540" y="1725" text-anchor="middle" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="30" font-weight="800" fill="#2D2D2D">Software that lives where you do.</text>
+  <text x="540" y="1775" text-anchor="middle" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="26" font-weight="700" fill="#8B6642">No accounts · No tracking · Zero cloud rent — 864zeros.com</text>
+</svg>

@@ -1,65 +1,40 @@
 {
   "slug": "mailsyncshield",
-  "category": "google-workspace-addons",
+  "name": "MailSync Shield — Privacy-First Google Sheets Mail Merge Without Inbox Snooping",
+  "shortName": "MailSync Shield",
+  "category": "google-add-ons",
   "pillar": "864F",
-  "ingested_at": "2026-09-09T00:54:03.359Z",
-  "type": "google-add-ons",
-  "name": "MailSync Shield — Direct-from-Sheets Sovereign Mail Merge",
-  "summary": "Personalized email merge engine operating directly from Google Sheets via native Gmail quotas. Zero external mail-relay servers, zero inbox snooping, and zero recurring subscriptions.",
-  "metaDescription": "MailSync Shield merges Google Sheets contacts into personalized emails natively. 100% in-account execution, zero external mail relays, and one-time licensing.",
-  "icon": "mailsyncshield.png",
-  "storeUrl": "",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Sends personalized HTML emails directly from your Google Sheet rows through your own Gmail account—using strictly send-only permissions so the add-on can never read your private inbox.",
+  "metaDescription": "Send personalized mail merges directly from Google Sheets using send-only permissions—zero inbox reading, zero watermarks, and zero monthly subscriptions.",
+  "icon": "mailsyncshield-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/mailsyncshield",
+  "demoUrl": "https://864zeros.com/demo/mailsyncshield/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/mailsyncshield-qa-docket.html",
+  "tags_we_hope_work": [
+    "google sheets mail merge no inbox read permission",
+    "yet another mail merge yamm alternative",
+    "mailmeteor & gmass privacy alternative",
+    "send personalized emails from google sheets",
+    "least privilege gmail mail merge add-on",
+    "no watermark mail merge google workspace",
+    "one-time license google sheets mail merge",
+    "private donor & client outreach sheets",
+    "quota aware gmail merge dispatcher",
+    "secure in-account email merge tool"
+  ],
   "video": {
     "src": "mailsyncshield-master.mp4",
-    "poster": "mailsyncshield-thumbnail.png",
-    "tag": "⏱️ 42s Product Demo",
-    "title": "Watch MailSync Shield in Action",
-    "desc": "Personalized mail merge directly from Google Sheets using native Gmail quotas. Zero external mail-relay servers, zero contact scraping, zero recurring subscription fees.",
-    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
-    "youtubeUrl": "https://www.youtube.com/watch?v=kr-gu11mOWI"
-  },
-  "social_shorts": [
-    {
-      "id": "social-hook-pain",
-      "src": "mailsyncshield-social-pain.mp4",
-      "poster": "thumbnail-mailsyncshield-social-pain.png",
-      "angle": "third_party_servers_reading_client_emails",
-      "duration": 23.3
-    },
-    {
-      "id": "social-hook-price",
-      "src": "mailsyncshield-social-price.mp4",
-      "poster": "thumbnail-mailsyncshield-social-price.png",
-      "angle": "stop_paying_40_per_year_for_mail_merge",
-      "duration": 21.4
-    }
-  ],
-  "shots": [
-    {
-      "img": "mailsyncshield-1.png",
-      "alt": "MailSync Shield — personalized template builder and token tags",
-      "cap": "Design personalized email templates with dynamic {{Column}} tags and live contact previews."
-    },
-    {
-      "img": "mailsyncshield-2.png",
-      "alt": "MailSync Shield — in-sheet status tracking and quota monitor",
-      "cap": "Batch dispatches track delivery timestamps directly in your sheet to prevent duplicate sends."
-    },
-    {
-      "img": "mailsyncshield-3.png",
-      "alt": "MailSync Shield — sovereign ownership vs monthly subscription rent",
-      "cap": "one-time lifetime license. Send mail merges from Google Sheets forever without recurring SaaS fees."
-    }
-  ],
-  "jsonld": {
-    "description": "Direct-from-Sheets mail merge engine for Google Workspace: native Gmail quota execution, zero external relay servers, and zero SaaS rent.",
-    "featureList": [
-      "Dynamic token placeholder substitution ({{First Name}}, {{Company}}, custom fields)",
-      "Single-click test email dispatches to verify layout before sending",
-      "In-sheet dispatch timestamp logging preventing duplicate sends",
-      "Native Google daily quota awareness (100–1,500 sends/day)",
-      "100% in-account execution — zero third-party mail relay servers",
-      "one-time lifetime license — zero recurring subscriptions"
-    ]
+    "shortSrc": "mailsyncshield-short.mp4",
+    "poster": "mailsyncshield-fhg-poster-16x9.svg",
+    "shortPoster": "mailsyncshield-fhg-poster-9x16.svg",
+    "vtt": "mailsyncshield-demo.vtt",
+    "shortVtt": "mailsyncshield-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

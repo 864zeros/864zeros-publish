@@ -1,54 +1,42 @@
-{
-  "total_duration": 60.600068,
-  "scenes": [
-    {
-      "id": "scene1_hook",
-      "start": 0.0,
-      "end": 7.2,
-      "duration": 7.2,
-      "text": "Why does every habit tracker shame you the second you slip up? Break a streak, and they wipe your entire progress to zero. Not here."
-    },
-    {
-      "id": "scene2_intro",
-      "start": 7.2,
-      "end": 11.832018000000001,
-      "duration": 4.632018,
-      "text": "Meet ClearStreak: the private habit and vice companion built on Data Over Shame."
-    },
-    {
-      "id": "scene3_journeys",
-      "start": 11.832018000000001,
-      "end": 23.472018000000002,
-      "duration": 11.64,
-      "text": "Track multiple habits at once \u2014 whether you're quitting vaping, cutting back alcohol, stopping doomscrolling, or overcoming late-night spending. Each with its own start date, streaks, and money saved."
-    },
-    {
-      "id": "scene4_halt",
-      "start": 23.472018000000002,
-      "end": 35.040023000000005,
-      "duration": 11.568005,
-      "text": "An off day resets today's count, but never wipes your history. Your personal bests and total clear days stay permanent. Check in honestly with HALT: Hungry, Angry, Lonely, or Tired."
-    },
-    {
-      "id": "scene5_grounding",
-      "start": 35.040023000000005,
-      "end": 45.072041000000006,
-      "duration": 10.032018,
-      "text": "In hard moments, use eyes-free haptic breathing circles to let an urge crest and pass, or tap the calm Rescue hub for trusted contacts and confidential lifelines."
-    },
-    {
-      "id": "scene6_privacy",
-      "start": 45.072041000000006,
-      "end": 53.328050000000005,
-      "duration": 8.256009,
-      "text": "No cloud. No accounts. No servers to breach. Sealed with biometric encryption right on your phone. Screenshots are blocked."
-    },
-    {
-      "id": "scene7_cta",
-      "start": 53.328050000000005,
-      "end": 60.60006800000001,
-      "duration": 7.272018,
-      "text": "No recurring subscriptions. Just a one-time unlock for lifetime peace of mind. Download ClearStreak on Google Play."
-    }
-  ]
-}
+[
+  {
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.68,
+    "duration": 8.68,
+    "text": "Need a better way to handle tracking personal habits, sobriety streaks, and recovery milestones, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.68,
+    "end": 18.99,
+    "duration": 10.31,
+    "text": "Watch ClearStreak in action: Having a slip or off day resets only your current run while permanently keeping your Lifetime Days, Personal Bests, and earned Milestone Coins intact."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 18.99,
+    "end": 37.54,
+    "duration": 18.54,
+    "text": "Access eyes-free 4x4 haptic breathing, the Tactile Pocket Anchor, HALT trigger check-ins, and crisis lifelines anytime—never locked behind a paywall. Plus, your journals, urges, and check-ins are encrypted at rest on your phone with biometric unlock, screenshot blocking, and zero network permissions."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 37.54,
+    "end": 45.79,
+    "duration": 8.25,
+    "text": "Switching phones? Export an encrypted backup file directly to your own storage and restore it offline without ever creating a cloud account."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 45.79,
+    "end": 54.6,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+  }
+]

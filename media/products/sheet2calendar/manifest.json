@@ -1,66 +1,40 @@
 {
   "slug": "sheet2calendar",
-  "category": "google-workspace-addons",
+  "name": "Sheet2Calendar — Idempotent Spreadsheet-to-Google Calendar Sync Engine",
+  "shortName": "Sheet2Calendar",
+  "category": "google-add-ons",
   "pillar": "864F",
-  "ingested_at": "2026-09-09T02:15:00.000Z",
-  "type": "google-add-ons",
-  "name": "Sheet2Calendar Sync — Two-Way Spreadsheet to Google Calendar Sync Engine",
-  "summary": "Turn Google Sheets rows into synchronized Google Calendar events with dynamic two-way updates and scheduled background triggers. Zero third-party servers, zero recurring subscriptions.",
-  "metaDescription": "Sheet2Calendar Sync turns Google Sheets spreadsheet rows into Google Calendar events with two-way updates and background sync. one-time lifetime license.",
-  "icon": "sheet2calendar.png",
-  "storeUrl": "",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Turns rows in your Google Sheet into timed or all-day Google Calendar events, writes each unique Event ID back to your sheet, and updates existing calendar entries automatically whenever your spreadsheet changes.",
+  "metaDescription": "Turn Google Sheets rows into Google Calendar events with automatic Event ID writeback so updates never create duplicate events. Zero cloud rent.",
+  "icon": "sheet2calendar-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/sheet2calendar",
+  "demoUrl": "https://864zeros.com/demo/sheet2calendar/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/sheet2calendar-qa-docket.html",
+  "tags_we_hope_work": [
+    "sync google sheets to google calendar without duplicates",
+    "create calendar events from google sheets automatically",
+    "two-way update google sheets to calendar",
+    "sheet2cal & calendar sync alternative",
+    "batch import spreadsheet schedule to google calendar",
+    "project deadline tracker sheets to calendar",
+    "update existing google calendar events from sheet",
+    "private in-account calendar sync add-on",
+    "content & shift calendar generator sheets",
+    "no subscription sheets to calendar tool"
+  ],
   "video": {
     "src": "sheet2calendar-master.mp4",
-    "poster": "sheet2calendar-thumbnail.png",
-    "tag": "⏱️ 42s Product Demo",
-    "title": "Watch Sheet2Calendar Sync in Action",
-    "desc": "Map spreadsheet columns directly to Google Calendar event properties. Automatically generate calendar events, write back unique event IDs, and keep scheduled meetings in sync when sheet rows are edited.",
-    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
-  },
-  "social_shorts": [
-    {
-      "id": "social-hook-pain",
-      "src": "sheet2calendar-social-pain.mp4",
-      "poster": "thumbnail-sheet2calendar-social-pain.png",
-      "angle": "manual_calendar_entry_fatigue_and_duplicate_events",
-      "duration": 20.3
-    },
-    {
-      "id": "social-hook-price",
-      "src": "sheet2calendar-social-price.mp4",
-      "poster": "thumbnail-sheet2calendar-social-price.png",
-      "angle": "paying_299_annual_subscriptions_for_team_calendar_sync",
-      "duration": 25.6
-    }
-  ],
-  "shots": [
-    {
-      "img": "sheet2calendar-1.png",
-      "alt": "Sheet2Calendar Sync — intuitive column mapping and calendar selector",
-      "cap": "Map spreadsheet columns to event titles, dates, descriptions, and locations with intuitive dropdowns."
-    },
-    {
-      "img": "sheet2calendar-2.png",
-      "alt": "Sheet2Calendar Sync — two-way event synchronization and ID tracking",
-      "cap": "Synchronize rows to Google Calendar events; unique Event IDs write back to prevent duplicate entries."
-    },
-    {
-      "img": "sheet2calendar-3.png",
-      "alt": "Sheet2Calendar Sync — background automation triggers and lifetime license",
-      "cap": "Schedule background sync triggers (hourly or daily) with a one-time perpetual license and zero SaaS rent."
-    }
-  ],
-  "jsonld": {
-    "description": "Two-way spreadsheet to Google Calendar synchronization engine executing 100% locally in Apps Script without third-party servers.",
-    "featureList": [
-      "Custom column mapping (Title, Start Time, End Time, Description, Location)",
-      "Automatic Google Calendar Event ID writeback preventing duplicates",
-      "Dynamic two-way update detection for modified spreadsheet rows",
-      "Background time-driven trigger automation (hourly and daily schedules)",
-      "LockService mutex concurrency protection against race conditions",
-      "Support for all-day events, timed appointments, and multi-day workshops",
-      "100% private in-account execution via non-restricted scopes",
-      "one-time lifetime license — zero recurring SaaS subscriptions"
-    ]
+    "shortSrc": "sheet2calendar-short.mp4",
+    "poster": "sheet2calendar-fhg-poster-16x9.svg",
+    "shortPoster": "sheet2calendar-fhg-poster-9x16.svg",
+    "vtt": "sheet2calendar-demo.vtt",
+    "shortVtt": "sheet2calendar-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

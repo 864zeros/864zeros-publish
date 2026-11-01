@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.23,
+    "duration": 8.23,
+    "text": "Need a better way to handle syncing spreadsheet project dates and schedules to Google Calendar, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.23,
+    "end": 19.71,
+    "duration": 11.49,
+    "text": "Watch Sheet2Calendar in action: Stores the created Google Calendar Event ID directly in your sheet row so re-syncing updates changed titles, times, and locations instead of duplicating events."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 19.71,
+    "end": 36.24,
+    "duration": 16.53,
+    "text": "Map any spreadsheet columns to event title, start/end timestamps, description, location, and guest lists in seconds. Plus, publish a 100-row workshop schedule, content calendar, or shift roster in one click\u2014or let scheduled background triggers keep it synced."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 36.24,
+    "end": 43.89,
+    "duration": 7.65,
+    "text": "Your executive schedules, launch dates, and team rosters sync directly between your Sheet and Calendar inside Google Workspace."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 43.89,
+    "end": 52.7,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.99,
+    "duration": 8.99,
+    "text": "Need a better way to handle organizing, tagging, and approving creative assets in Google Drive, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.99,
+    "end": 20.77,
+    "duration": 11.78,
+    "text": "Watch zeroCloudDAM in action: Stamps all 13 taxonomy, brand, and approval attributes directly onto your Google Drive files and mirrors them to your DAM_CATALOG Google Sheet."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 20.77,
+    "end": 40.51,
+    "duration": 19.74,
+    "text": "Filter thousands of videos, SVGs, photos, and art plates by Brand Pillar, Asset Type, Campaign, or Approval Status in milliseconds without re-uploading a byte. Plus, route assets from Draft to Approved with cryptographic reviewer timestamps and export portable HTML/JSON Brand Kits for external partners."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 40.51,
+    "end": 50.61,
+    "duration": 10.1,
+    "text": "Auto-classify dimensions, durations, and visual keywords using native Drive metadata and your own free Google AI Studio key—zero metered AI credit markups."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 50.61,
+    "end": 59.42,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+  }
+]

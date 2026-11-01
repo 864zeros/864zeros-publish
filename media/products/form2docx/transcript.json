@@ -1,0 +1,125 @@
+{
+  "slug": "form2docx",
+  "productName": "Form2Docx — Automatic Google Forms to Docs & PDF Document Merge",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "form2docx-short.mp4",
+    "vtt": "form2docx-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 31.25,
+    "fullText": "Tired of merging form responses into custom documents and PDFs getting locked behind monthly subscriptions and external cloud portals? With Form2Docx, Instant {{Token}} Template Replacement runs right where you already work. Simultaneous Google Doc & PDF Compilation and Dynamic Custom File Naming per Submission—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 8.35,
+        "duration": 8.35,
+        "text": "Tired of merging form responses into custom documents and PDFs getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 8.35,
+        "end": 13.91,
+        "duration": 5.56,
+        "text": "With Form2Docx, Instant {{Token}} Template Replacement runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 13.91,
+        "end": 22.49,
+        "duration": 8.58,
+        "text": "Simultaneous Google Doc & PDF Compilation and Dynamic Custom File Naming per Submission—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 22.49,
+        "end": 31.25,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "form2docx-master.mp4",
+    "vtt": "form2docx-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 55.77,
+    "fullText": "Need a better way to handle merging form responses into custom documents and PDFs, without handing your data to another monthly cloud landlord? Watch Form2Docx in action: Place simple {{Question Title}} tags anywhere in your Google Doc header, body, or tables and watch Form2Docx populate them automatically on submit. Output an editable Google Doc, a locked print-ready PDF, or both directly into your designated Google Drive destination folder. Plus, name generated files automatically using form answers—such as \"2026-Contract-{{Client Name}}.pdf\"—and log the direct Drive link back into your Sheet. Your legal, medical, and client intake answers never leave your Google account—and your generated PDFs never carry third-party promotional stamps. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 8.13,
+        "duration": 8.13,
+        "text": "Need a better way to handle merging form responses into custom documents and PDFs, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 8.13,
+        "end": 19.33,
+        "duration": 11.2,
+        "text": "Watch Form2Docx in action: Place simple {{Question Title}} tags anywhere in your Google Doc header, body, or tables and watch Form2Docx populate them automatically on submit."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 19.33,
+        "end": 37.92,
+        "duration": 18.59,
+        "text": "Output an editable Google Doc, a locked print-ready PDF, or both directly into your designated Google Drive destination folder. Plus, name generated files automatically using form answers—such as \"2026-Contract-{{Client Name}}.pdf\"—and log the direct Drive link back into your Sheet."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 37.92,
+        "end": 46.96,
+        "duration": 9.04,
+        "text": "Your legal, medical, and client intake answers never leave your Google account—and your generated PDFs never carry third-party promotional stamps."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 46.96,
+        "end": 55.77,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle merging form responses into custom documents and PDFs, without handing your data to another monthly cloud landlord? Watch Form2Docx in action: Place simple {{Question Title}} tags anywhere in your Google Doc header, body, or tables and watch Form2Docx populate them automatically on submit. Output an editable Google Doc, a locked print-ready PDF, or both directly into your designated Google Drive destination folder. Plus, name generated files automatically using form answers—such as \"2026-Contract-{{Client Name}}.pdf\"—and log the direct Drive link back into your Sheet. Your legal, medical, and client intake answers never leave your Google account—and your generated PDFs never carry third-party promotional stamps. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 8.13,
+      "duration": 8.13,
+      "text": "Need a better way to handle merging form responses into custom documents and PDFs, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 8.13,
+      "end": 19.33,
+      "duration": 11.2,
+      "text": "Watch Form2Docx in action: Place simple {{Question Title}} tags anywhere in your Google Doc header, body, or tables and watch Form2Docx populate them automatically on submit."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 19.33,
+      "end": 37.92,
+      "duration": 18.59,
+      "text": "Output an editable Google Doc, a locked print-ready PDF, or both directly into your designated Google Drive destination folder. Plus, name generated files automatically using form answers—such as \"2026-Contract-{{Client Name}}.pdf\"—and log the direct Drive link back into your Sheet."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 37.92,
+      "end": 46.96,
+      "duration": 9.04,
+      "text": "Your legal, medical, and client intake answers never leave your Google account—and your generated PDFs never carry third-party promotional stamps."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 46.96,
+      "end": 55.77,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

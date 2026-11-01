@@ -1,139 +1,93 @@
-# ClearStreak — YouTube Upload Metadata
-**DAM Product Folder:** `media/products/clearstreak/`  
-**Web Product Page:** https://864zeros.com/products/clearstreak  
-**Google Play Store:** https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak  
-**Pricing Model:** 7-Day Free Trial $\to$ one-time lifetime Unlock (No recurring subscriptions)  
+# ClearStreak — Private On-Device Habit, Streak & Recovery Companion — YouTube Publishing & D-UTA Search-Intent Docket
+
+- **Product Slug:** `clearstreak`
+- **Pillar:** `FHG`
+- **Compliance:** `RULE-017` (Zero-Price), `RULE-018` (FHG Warm Parchment `#FDFCF8`), `RULE-019` (D-UTA Search Intent), `RULE-020` (Dual WebVTT CC), `RULE-035` (100/100 A+ Standard)
+- **Central Tag Registry (`D-UTA-TAG-ML`):** private offline sobriety tracker app, i am sober alternative no cloud, encrypted habit & streak tracker android, data over shame habit companion, no account recovery milestone counter, adhd friendly streak tracker no reset shame, halt check-in & urge grounding app, zero telemetry mental health habit app, quit drinking & smoking private counter, one-time unlock habit tracker app
 
 ---
 
-### 1. Tier 2 Master Explainer (60s Feature Tour)
-* **Video File:** `media/products/clearstreak/video/clearstreak-master.mp4`
-* **Suggested Thumbnail:** `media/products/clearstreak/video/clearstreak-thumbnail.png`
-* **YouTube Title:**
-```
-Private Habit & Vice Companion (Data Over Shame): ClearStreak #Shorts
-```
-* **YouTube Description:**
-```
-A private habit and vice companion that lives entirely on your phone — encrypted, offline, no accounts, no cloud. Data over shame.
+## 1. Deliverable A — Quick Overview YouTube Short (`9:16` Vertical · `clearstreak-short.mp4`)
 
-👉 Try ClearStreak on Google Play: https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak
-🌐 Product Page & Privacy Doctrine: https://864zeros.com/products/clearstreak
+- **Video File:** `media/products/clearstreak/video/clearstreak-short.mp4` (`1080×1920`, `34.23s`, `en-US-AvaNeural` voiceover + Rhodes bed)
+- **Captions File (`WebVTT`):** `media/products/clearstreak/video/clearstreak-short.vtt`
+- **Poster / Thumbnail:** `media/products/clearstreak/video/clearstreak-fhg-poster-9x16.svg`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-🔒 Hardware-Backed Security: SQLCipher AES-256 encryption, biometric fingerprint lock, and FLAG_SECURE anti-screenshot protection.
-📊 Data Over Shame: A setback never wipes your history. Lifetime clean days, past stretches, and milestone badges remain permanently preserved.
-🫁 Pocket Anchor Grounding: Eyes-free haptic box-breathing to surf cravings in your pocket without looking at a screen.
-🆘 100% Free Crisis Hub: Instant one-tap access to your personal ally and national lifelines (988, SAMHSA). Free forever.
-💰 Fair Ownership: 7-day full free trial, then a single one-time lifetime unlock. No recurring monthly subscriptions.
-
-#Shorts #HabitTracker #Sobriety #MentalHealth #SelfImprovement #LocalFirst #AntiSaaS #864zeros
+### YouTube Short Title
+```text
+Data Over Shame: Private Habit & Recovery Tracking You Truly Own — ClearStreak #Shorts
 ```
-* **Tags:** `clearstreak, habit tracker, sobriety counter, quit vaping, stop drinking, urge surfing, mental health, local first, 864zeros, no subscription, android app, mobile app, privacy app, recovery, sober journey, halt triggers`
+
+### YouTube Short Description (Zero-Price · RULE-017 Compliant)
+```text
+Tracks any personal journey—counting days DOING a positive daily discipline or days LEAVING BEHIND a habit you are quitting—with 100% offline encrypted storage on your phone and zero cloud accounts.
+
+While similar tools hide their features behind monthly subscriptions and lock up your data, ClearStreak does the opposite. Software that lives where you do—no accounts, no tracking, and zero cloud rent.
+
+👉 Product Overview & Dual Video Walkthrough: https://864zeros.com/products/clearstreak
+🧪 Try the Zero-Install Interactive Demo: https://864zeros.com/demo/clearstreak/index.html
+📄 Inspect the Verified Security & QA Docket: https://864zeros.com/products/clearstreak-qa-docket.html
+🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
+
+⏱️ Chapters:
+00:00 00:00–00:03.8
+00:08 00:03.8–00:09.5
+00:15 00:09.5–00:16.5
+00:25 00:16.5–00:22.0
+
+#Shorts #864zeros #LocalFirst #NoSubscription #PrivacyFirst #SovereignSoftware #HabitTracker #OfflineFirst #Encrypted
+```
+
+### Verbatim Transcript (Quick Overview Short)
+```text
+[00:00 - 00:08] (00:00–00:03.8): Tired of tracking personal habits, sobriety streaks, and recovery milestones getting locked behind monthly subscriptions and external cloud portals?
+[00:08 - 00:15] (00:03.8–00:09.5): With ClearStreak, Data Over Shame (Lifetime Progress Preserved) runs right where you already work.
+[00:15 - 00:25] (00:09.5–00:16.5): Always-Free Rescue Hub & Haptic Grounding and 256-Bit Encrypted On-Device Storage & Biometric Lock—100% under your own custody.
+[00:25 - 00:34] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
+```
 
 ---
 
-### 2. Tier 1 Social Short A: "The Streak Zero Shame Trap" (Pain Hook)
-* **Video File:** `media/products/clearstreak/video/clearstreak-social-shame.mp4`
-* **Suggested Thumbnail:** `media/products/clearstreak/icons/thumbnail-clearstreak-social-shame.png`
-* **YouTube Title:**
+## 2. Deliverable B — Full Product Demo (`16:9` Widescreen · `clearstreak-master.mp4`)
+
+- **Video File:** `media/products/clearstreak/video/clearstreak-master.mp4` (`1920×1080`, `54.6s`, `en-US-AvaNeural` voiceover + Rhodes bed)
+- **Captions File (`WebVTT`):** `media/products/clearstreak/video/clearstreak-demo.vtt`
+- **Poster / Thumbnail:** `media/products/clearstreak/video/clearstreak-fhg-poster-16x9.svg`
+
+### YouTube Full Demo Title
+```text
+ClearStreak — Private On-Device Habit, Streak & Recovery Companion: Data Over Shame: Private Habit & Recovery Tracking You Truly Own (Full Walkthrough)
 ```
-Why Habit Trackers Make You Feel Like Trash: ClearStreak #Shorts
+
+### YouTube Full Demo Description (Zero-Price · RULE-017 Compliant)
+```text
+Tracks any personal journey—counting days DOING a positive daily discipline or days LEAVING BEHIND a habit you are quitting—with 100% offline encrypted storage on your phone and zero cloud accounts.
+
+Similar products treat tracking personal habits, sobriety streaks, and recovery milestones like an excuse to become your new landlord—forcing your team into external dashboards, metered usage, and charging you every month. ClearStreak replaces punitive streak resets and ad-tech data harvesting with compassionate, encrypted on-device tracking. An off day never erases your lifetime days or milestone coins, and the crisis Rescue Hub stays 100% free and un-gated forever.
+
+👉 Product Page: https://864zeros.com/products/clearstreak
+🧪 Interactive HTML Sandbox: https://864zeros.com/demo/clearstreak/index.html
+📄 Security & QA Verification Docket: https://864zeros.com/products/clearstreak-qa-docket.html
+🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
+
+⏱️ Chapters:
+00:00 00:00–00:04.5
+00:08 00:04.5–00:11.0
+00:18 00:11.0–00:22.0
+00:37 00:22.0–00:31.0
+00:45 00:31.0–00:38.0
+
+🏷️ Search Tags (D-UTA-TAG-ML):
+private offline sobriety tracker app, i am sober alternative no cloud, encrypted habit & streak tracker android, data over shame habit companion, no account recovery milestone counter, adhd friendly streak tracker no reset shame, halt check-in & urge grounding app, zero telemetry mental health habit app, quit drinking & smoking private counter, one-time unlock habit tracker app
+
+#864zeros #LocalFirst #NoSubscription #PrivacyFirst #SovereignSoftware #HabitTracker #OfflineFirst #Encrypted
 ```
-* **YouTube Description:**
+
+### Verbatim Transcript (Full Product Demo)
+```text
+[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle tracking personal habits, sobriety streaks, and recovery milestones, without handing your data to another monthly cloud landlord?
+[00:08 - 00:18] (00:04.5–00:11.0): Watch ClearStreak in action: Having a slip or off day resets only your current run while permanently keeping your Lifetime Days, Personal Bests, and earned Milestone Coins intact.
+[00:18 - 00:37] (00:11.0–00:22.0): Access eyes-free 4x4 haptic breathing, the Tactile Pocket Anchor, HALT trigger check-ins, and crisis lifelines anytime—never locked behind a paywall. Plus, your journals, urges, and check-ins are encrypted at rest on your phone with biometric unlock, screenshot blocking, and zero network permissions.
+[00:37 - 00:45] (00:22.0–00:31.0): Switching phones? Export an encrypted backup file directly to your own storage and restore it offline without ever creating a cloud account.
+[00:45 - 00:54] (00:31.0–00:38.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
 ```
-Why does every habit tracker make you feel like trash when you slip up? Miss one day, and they wipe your entire streak to zero.
-
-That's called the Abstinence Violation Effect — and it triggers bingeing and relapse guilt. 
-
-Meet ClearStreak: built on DATA OVER SHAME. If you slip, today's counter resets, but your lifetime clean days, past stretches, and money saved are never erased. You never lose what you built.
-
-👉 Get ClearStreak on Google Play: https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak
-
-🛡️ Zero tracking, zero cloud dependency — 100% offline AES-256 encryption.
-💰 7-day free trial, then a one-time lifetime unlock (No monthly subscription fees).
-
-🌐 Explore the 864zeros fleet: https://864zeros.com
-
-#Shorts #HabitTracker #RelapsePrevention #UrgeSurfing #SoberLife #MentalHealth #DataOverShame #864zeros
-```
-* **Tags:** `clearstreak, habit tracker, streak reset, sober counter, quit smoking, quit vaping, sobriety app, urge surfing, data over shame, anti saas, 864zeros`
-
----
-
-### 3. Tier 1 Social Short B: "Who Has Access to Your Vices?" (Privacy Hook)
-* **Video File:** `media/products/clearstreak/video/clearstreak-social-privacy.mp4`
-* **Suggested Thumbnail:** `media/products/clearstreak/icons/thumbnail-clearstreak-social-privacy.png`
-* **YouTube Title:**
-```
-Who Else Has Access to Habits You Want to Break?: ClearStreak #Shorts
-```
-* **YouTube Description:**
-```
-Who has access to the habits you're secretly trying to break? Most wellness and addiction apps upload your cravings, relapse logs, and intimate timestamps to cloud servers.
-
-ClearStreak has zero servers. No cloud accounts. Everything is encrypted on your device with SQLCipher and unlocked only by your fingerprint. If it's not on your phone, it doesn't exist.
-
-👉 Get ClearStreak on Google Play: https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak
-
-🔒 Biometric hardware lock & FLAG_SECURE screenshot protection.
-💰 one-time lifetime unlock after a 7-day free trial (No recurring monthly subscriptions).
-
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #PrivacyApp #AntiSaaS #NoSubscription #HabitTracker #LocalFirst #AndroidSecurity #864zeros
-```
-* **Tags:** `clearstreak, privacy app, local first, encrypted habit tracker, sqlcipher, biometric security, android app, no cloud, anti saas, 864zeros`
-
----
-
-### 4. Tier 1 Social Short C: "The one-time lifetime Habit Tracker Scam" (Price Hook — Staged as Private)
-* **Video File:** `media/products/clearstreak/social/clearstreak-social-price.mp4` (or stage script)
-* **Suggested Thumbnail:** `media/products/clearstreak/icons/clearstreak-thumbnail.png`
-* **YouTube Title:**
-```
-The one-time lifetime Habit Tracker Scam: ClearStreak #Shorts
-```
-* **YouTube Description:**
-```
-one-time lifetime ... one-time lifetime ... one-time lifetime just to count days and track vices?!
-
-Renting your self-improvement is broken. Stop paying subscription rent to venture capital firms just to build discipline.
-
-ClearStreak gives you complete local-first habit tracking:
-- 7-day full free trial.
-- one-time lifetime unlock. No recurring fees.
-- 100% free forever Crisis Lifeline Hub (988, SAMHSA, trusted ally).
-
-👉 Download ClearStreak on Google Play: https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak
-🌐 Learn more: https://864zeros.com/products/clearstreak
-
-#Shorts #AntiSaaS #NoSubscription #IndieDev #HabitTracker #SovereignSoftware #864zeros
-```
-* **Tags:** `clearstreak, anti saas, no subscription, lifetime license, habit tracker, sober counter, frugal tech, android apps, 864zeros`
-
----
-
-### 5. Tier 1 Social Short D: "Any Journey: Streak Doing OR Days Not Doing" (Lifestyle Hook)
-* **Video File:** `media/products/clearstreak/video/clearstreak-social-any-journey.mp4`
-* **Suggested Thumbnail:** `media/products/clearstreak/icons/thumbnail-clearstreak-social-any-journey.png`
-* **YouTube Title:**
-```
-Count Days DOING or Days NOT Doing (100% Offline): ClearStreak #Shorts
-```
-* **YouTube Description:**
-```
-Whether you're counting a streak of days DOING what builds you up (morning runs, deep work, fasting, prayer) — or days NOT DOING what holds you back (doomscrolling, sugar, vaping, alcohol) — your journey belongs on your phone, not in the cloud.
-
-Meet ClearStreak: built for ANY personal journey under DATA OVER SHAME. An off day resets today's active count, but your lifetime days, personal bests, and milestone coins stay permanent.
-
-👉 Get ClearStreak on Google Play: https://play.google.com/store/apps/details?id=com.eight64zeros.clearstreak
-🌐 Product Page: https://864zeros.com/products/clearstreak
-
-🛡️ 100% Offline SQLCipher AES-256 encryption & fingerprint lock.
-🫁 Eyes-free Tactile Pocket Anchor & 4x4 Haptic Box Breather.
-💰 7-day free trial, then a one-time lifetime unlock (No subscriptions).
-
-#Shorts #HabitTracker #StreakTracker #Discipline #SelfImprovement #DataOverShame #LocalFirst #864zeros
-```
-* **Tags:** `clearstreak, habit tracker, streak tracker, daily discipline, days doing, days not doing, data over shame, local first, 864zeros, no subscription, android app`

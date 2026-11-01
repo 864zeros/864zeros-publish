@@ -1,71 +1,56 @@
-# 864zeros — YouTube Shorts Queue for Tomorrow
-**Date:** 2026-09-10  
-**Authority:** LLC-DIV-4-GTM / Central DAM  
-**Total Fleet Deliverables:** 60  
-**Uploaded & Verified Today:** 5 deliverables (AutoOrganize YTM full suite, ClearStreak Master, ChoiceGuard Master)  
-**Remaining Queue for Tomorrow:** 55 deliverables  
+# 864zeros — YouTube & Marketplace Publishing Queue Status (All 34 Products)
+**Updated:** 2026-11-01T20:30:00Z  
+**Authority:** Prya Vance (`GTM-001`) · `LLC-DIV-4-GTM` & `zeroCloudDAM`  
+**Fleet Coverage:** **34 / 34 Products** (**68 Deliverables**: `34` × `9:16` Quick Overview Shorts + `34` × `16:9` Full Product Demos)  
+**Webpage & Video Grader (`RULE-035`):** **34 / 34 Scored `100 / 100 (A+)`**  
+**GTM Gate 6.1 (`verify-gtm-video.cjs --all`):** **34 / 34 PASSED (`8/8` Gates)**
 
 ---
 
-## 1. Today's Completed & Live Uploads (5 of 60)
+## 1. Executive Release Posture (Founder Hold Directive Active)
 
-| Product | Deliverable | Live YouTube URL | Status |
-|---|---|---|:---:|
-| **AutoOrganize YTM** | Tier 2 Master Explainer | https://www.youtube.com/watch?v=KJICVsAv5qw | ✅ Live (Unlisted) |
-| **AutoOrganize YTM** | Tier 1 Short A (Pain Hook) | https://www.youtube.com/watch?v=zrNi9jxOJ5M | ✅ Live (Unlisted) |
-| **AutoOrganize YTM** | Tier 1 Short B (Price Hook) | https://www.youtube.com/watch?v=ENy0nQGEyt0 | ✅ Live (Unlisted) |
-| **ClearStreak** | Tier 2 Master Explainer | https://www.youtube.com/watch?v=i9jxmB3m8q8 | ✅ Live (Unlisted) |
-| **ChoiceGuard** | Tier 2 Master Explainer | https://www.youtube.com/watch?v=kIzSQR-g4nY | ✅ Live (Unlisted) |
-
-*All 5 live URLs have been written back to the Central DAM (`manifest.json`) and pushed to `origin/main` (`cadcc4a`).*
+Per Founder & CEO directive on `2026-11-01`:
+- **Website (`864zeros.com/products/`):** **LIVE** — All 34 product pages, dual video switchers (`9:16` Short default + `16:9` Full Demo toggle), FHG Warm Parchment `.mp4` renders with `en-US-AvaNeural` voiceovers, native HTML5 `<track>` `[CC]` captions, and `D-UTA-TAG-ML` search tags are deployed and live.
+- **`zeroCloudDAM` Vault (`864zeros-publish/media/products/<slug>/`):** **100% STAGED** — Every product folder holds `manifest.json`, `transcript.json`, `youtube.md`, `youtube-metadata.json`, dual FHG `.mp4` videos, `.vtt` captions, SVG posters, and `.wav` voiceover/soundtrack stems.
+- **External Marketplaces (Google Workspace Marketplace, Chrome Web Store, Edge Add-ons, Mobile/ClearStreak) & YouTube Drip:** **STAGED ON HOLD** — All `\store\` artifacts (`product.json`, `listing.md`, `web-copy.html`, `assets/*`) and YouTube packages are 100% compliant and ready for instant release when the Founder lifts the publishing hold.
 
 ---
 
-## 2. Priority Batch Queue for Tomorrow (Next API Cycle) `[STALE — see SESSION_2026-10-30-tubeschedule-fhg-addon-and-gpub-architecture.md]`
+## 2. Complete 34-Product Staged Publishing Queue
 
-> **[2026-10-30 COMPLIANCE GATE — HARD HOLD ON LEGACY SEPT 9 `.MP4` FILES]:**
-> Per Prya Vance (`CMO`) forensic audit on `2026-10-30`, the 55 legacy `.mp4` files listed in Sections 2 and 3 below were rendered on `2026-09-09` prior to the `RULE-003` / `RULE-017` Zero-Price Mandate and the `RULE-018` FHG Design System standard. They contain spoken/visual Sept 8 dollar strings (`$7.99`, `$9.99`, `$12.99`) and unrendered Oct 28 regex typos in `stage/generate_audio.py`. **Do NOT upload the legacy Sept 9 `.mp4` files until they complete the clean-room `RULE-017` + FHG re-render sweep.** Use Section 5 below for the active compliant YouTube drip queue.
-
-As soon as Google's daily API quota resets at midnight Pacific Time (or upon quota increase), the next batch will execute:
-
-### Batch A: Mobile & High-Margin Add-Ons (Next 6 Deliverables)
-1. **ClearStreak** — Tier 1 Short A (Shame Hook: `clearstreak-social-shame.mp4`)
-2. **ClearStreak** — Tier 1 Short B (Privacy Hook: `clearstreak-social-privacy.mp4`)
-3. **ChoiceGuard** — Tier 1 Short A (Pain Hook: `choiceguard-social-pain.mp4`)
-4. **ChoiceGuard** — Tier 1 Short B (Price Hook: `choiceguard-social-price.mp4`)
-5. **DocWatermarker Pro** — Tier 2 Master Explainer (`docwatermarker-short.mp4`)
-6. **SnapLabel** — Tier 2 Master Explainer (`snaplabel-short.mp4`)
-
----
-
-## 3. Remaining Fleet Add-Ons (Scheduled Waves)
-* **Wave 1 (Document & Form Automation):** `docwatermarker` (shorts), `snaplabel` (shorts), `formtimer` (3), `rowarchiver` (3), `form2docx` (3)
-* **Wave 2 (Security, Sheets & Cloud Ops):** `mailsyncshield` (3), `sheetsync` (3), `drivevault` (3), `approvalworkflow` (3), `formnotifier` (3)
-* **Wave 3 (Drive, Webhooks & Signatures):** `drivesweep` (3), `sheet2calendar` (3), `drivedrop` (3), `formqr` (3), `sheet2webhook` (3), `signroute` (3), `slidebuilder` (3)
-
----
-
-## 4. Quota Acceleration Path
-To upload all 55 remaining deliverables in one command without waiting for daily 6-video windows:
-1. Go to Google Cloud Console → **APIs & Services** → **YouTube Data API v3** → **Quotas**.
-2. Request a quota bump from 10,000 to 100,000 units.
-3. Or drag-and-drop batches directly in YouTube Studio using [`YOUTUBE_UPLOAD_DOCKET.md`](file:///C:/dev/864zeros-publish/YOUTUBE_UPLOAD_DOCKET.md).
-
----
-
-## 5. Active Compliant YouTube Drip Queue (`RULE-017` Zero-Price + FHG / Live-UI Verified — 2026-10-30)
-
-The following **12 deliverables** have been re-rendered or recorded between `2026-10-26` and `2026-10-30` with zero dollar figures (`RULE-003` / `RULE-017`) and are cleared for immediate 6-video/day dripping via `TubeSchedule` or `864zeros-publisher-mcp`:
-
-1. `media/products/tubeschedule/video/tubeschedule-live-ui-demo.mp4` (`1920x1080` FHG Live-UI Walkthrough)
-2. `media/products/choiceguard/video/choiceguard-live-ui-demo.mp4` (`1920x1080` Live-UI Walkthrough)
-3. `media/products/choiceguard/video/choiceguard-short-v2.mp4`
-4. `media/products/choiceguard/video/choiceguard-social-pain-v2.mp4`
-5. `media/products/choiceguard/video/choiceguard-social-price-v2.mp4`
-6. `media/products/autoorganize-ytm/video/autoorganize-ytm-short-v2.mp4`
-7. `media/products/autoorganize-ytm/video/autoorganize-ytm-social-pain-v2.mp4`
-8. `media/products/autoorganize-ytm/video/autoorganize-ytm-social-price-v2.mp4`
-9. `media/products/vaultpilot/video/vaultpilot-short-v2.mp4`
-10. `media/products/vaultpilot/video/vaultpilot-social-pain-v2.mp4`
-11. `media/products/vaultpilot/video/vaultpilot-social-price-v2.mp4`
-12. `media/products/link-later/video/link-later-short-v2.mp4`
+| # | Slug | Product Name | Category | Pillar | 9:16 Short (`.mp4` + `.vtt`) | 16:9 Demo (`.mp4` + `.vtt`) | `D-UTA-TAG-ML` Tags | `RULE-035` Grade | Queue Status |
+| :---: | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | `864z-chronicle` | **Chronicle** | `extension` | `OIA` | `29.69s` ✅ | `53.37s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 2 | `approvalworkflow` | **ApprovalWorkflow** | `google-add-ons` | `864F` | `27.36s` ✅ | `40.7s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 3 | `autoorganize-ytm` | **AutoOrganize** | `extension` | `OIA` | `31.08s` ✅ | `54.43s` ✅ | 10 tags ✅ | **100/100 (A+)** | `PUBLISHED_AND_UPDATED` |
+| 4 | `choiceguard` | **ChoiceGuard** | `google-add-ons` | `864F` | `30.58s` ✅ | `54.43s` ✅ | 10 tags ✅ | **100/100 (A+)** | `PUBLISHED_AND_UPDATED` |
+| 5 | `clearstreak` | **ClearStreak** | `mobile` | `FHG` | `34.23s` ✅ | `54.6s` ✅ | 10 tags ✅ | **100/100 (A+)** | `PUBLISHED_AND_UPDATED` |
+| 6 | `datanap` | **DataNap** | `extension` | `OIA` | `30.65s` ✅ | `51.5s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 7 | `docwatermarker` | **DocWatermarker** | `google-add-ons` | `864F` | `31.71s` ✅ | `54.38s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 8 | `drivedrop` | **DriveDrop** | `google-add-ons` | `864F` | `32.14s` ✅ | `54.67s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 9 | `drivesweep` | **DriveSweep** | `google-add-ons` | `864F` | `31.59s` ✅ | `51.67s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 10 | `drivevault` | **DriveVault** | `google-add-ons` | `864F` | `34.23s` ✅ | `51.86s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 11 | `form2docx` | **Form2Docx** | `google-add-ons` | `864F` | `31.25s` ✅ | `55.77s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 12 | `formnotifier` | **FormNotifier** | `google-add-ons` | `864F` | `32.57s` ✅ | `51.5s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 13 | `formqr` | **FormQR** | `google-add-ons` | `864F` | `33.6s` ✅ | `56.73s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 14 | `formtimer` | **FormTimer** | `google-add-ons` | `864F` | `32.38s` ✅ | `54.91s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 15 | `link-later` | **LinkLater** | `extension` | `CMC` | `29.83s` ✅ | `52.72s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 16 | `mailsyncshield` | **MailSync Shield** | `google-add-ons` | `864F` | `31.37s` ✅ | `52.08s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 17 | `oia-focus-note` | **Focus Note** | `extension` | `OIA` | `32.35s` ✅ | `51.84s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 18 | `oia-focus-wall` | **Focus Wall** | `extension` | `OIA` | `30.7s` ✅ | `49.65s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 19 | `omniclip` | **OmniClip** | `desktop` | `CMM` | `32.21s` ✅ | `51.6s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 20 | `rowarchiver` | **RowArchiver** | `google-add-ons` | `864F` | `31.08s` ✅ | `51.5s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 21 | `sheet2calendar` | **Sheet2Calendar** | `google-add-ons` | `864F` | `31.68s` ✅ | `52.7s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 22 | `sheet2webhook` | **Sheet2Webhook** | `google-add-ons` | `864F` | `32.45s` ✅ | `52.39s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 23 | `sheetsync` | **SheetSync** | `google-add-ons` | `864F` | `32.35s` ✅ | `51s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 24 | `signal2noise` | **Signal2Noise** | `extension` | `OIA` | `32.76s` ✅ | `54.26s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 25 | `signroute` | **SignRoute** | `google-add-ons` | `864F` | `32.19s` ✅ | `52.15s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 26 | `slidebuilder` | **SlideBuilder** | `google-add-ons` | `864F` | `35.07s` ✅ | `53.71s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 27 | `snaplabel` | **SnapLabel** | `google-add-ons` | `864F` | `35.04s` ✅ | `56.06s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 28 | `tab-stasher` | **Tab Stasher** | `extension` | `CMC` | `30.34s` ✅ | `55.05s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 29 | `time2focus` | **Time2Focus** | `extension` | `OIA` | `34.8s` ✅ | `54.36s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 30 | `tubeschedule` | **TubeSchedule** | `google-add-ons` | `FHG` | `33.7s` ✅ | `52.94s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 31 | `tuneout2focusin` | **TuneOut2FocusIn** | `extension` | `OIA` | `34.32s` ✅ | `52.46s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 32 | `vaultpilot` | **VaultPilot** | `extension` | `864F` | `30.55s` ✅ | `52.44s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 33 | `who-is-watching` | **Who Is Watching** | `extension` | `OIA` | `32.81s` ✅ | `51.96s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |
+| 34 | `zeroclouddam` | **zeroCloudDAM** | `google-add-ons` | `FHG` | `33.63s` ✅ | `59.42s` ✅ | 10 tags ✅ | **100/100 (A+)** | `STAGED_HOLD_READY` |

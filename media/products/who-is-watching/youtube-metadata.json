@@ -1,0 +1,54 @@
+{
+  "slug": "who-is-watching",
+  "productName": "Who Is Watching — Real-Time Tracker, Ad-Tech Vendor & Identity ID Inspector",
+  "pillar": "OIA",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "see who is tracking me on a website",
+    "inspect ad-tech vendors & tracking cookies",
+    "ghostery & privacy badger local alternative",
+    "website privacy & gdpr tracker audit tool",
+    "expose identity resolution pixels in chrome",
+    "export website tracker forensic report",
+    "real-time third-party script inspector",
+    "zero telemetry privacy audit extension",
+    "check website tracking ids & pixels locally",
+    "no account website surveillance detector"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "See the Exact Companies and Tracking IDs Watching You on Any Webpage — Who Is Watching #Shorts",
+      "videoFile": "media/products/who-is-watching/video/who-is-watching-short.mp4",
+      "vttFile": "media/products/who-is-watching/video/who-is-watching-short.vtt",
+      "posterFile": "media/products/who-is-watching/video/who-is-watching-fhg-poster-9x16.svg",
+      "audioFile": "media/products/who-is-watching/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 32.81,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of auditing third-party trackers and identity vendors on websites getting locked behind monthly subscriptions and external cloud portals? With Who Is Watching, Named Vendor & Category Attribution runs right where you already work. Exposes Concrete Tracking Cookies & Pixel IDs and One-Click Forensic HTML & Markdown Audit Report—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "Who Is Watching — Real-Time Tracker, Ad-Tech Vendor & Identity ID Inspector: See the Exact Companies and Tracking IDs Watching You on Any Webpage (Full Walkthrough)",
+      "videoFile": "media/products/who-is-watching/video/who-is-watching-master.mp4",
+      "vttFile": "media/products/who-is-watching/video/who-is-watching-demo.vtt",
+      "posterFile": "media/products/who-is-watching/video/who-is-watching-fhg-poster-16x9.svg",
+      "audioFile": "media/products/who-is-watching/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 51.96,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle auditing third-party trackers and identity vendors on websites, without handing your data to another monthly cloud landlord? Watch Who Is Watching in action: Translates obscure tracking domains into plain-English company names across Ad-Tech, Session Recording, Fingerprinting, and Analytics categories. See the actual persistent identifier keys and pixel IDs set in your browser during the session—not just a vague counter. Plus, export a timestamped compliance and security report of every tracker detected on a page for GDPR, FERPA, or vendor procurement audits. Unlike commercial tracker extensions owned by ad conglomerates, Who Is Watching runs 100% on your device with zero outbound network calls. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

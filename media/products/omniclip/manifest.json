@@ -1,41 +1,40 @@
 {
   "slug": "omniclip",
-  "category": "desktop-apps",
+  "name": "OmniClip — 100% Local AI Video Repurposing & Viral 9:16 Shorts Studio",
+  "shortName": "OmniClip",
+  "category": "desktop",
   "pillar": "CMM",
-  "ingested_at": "2026-09-07T02:39:25.483Z",
-  "type": "desktop",
-  "name": "OmniClip — local AI video repurposing & viral shorts engine",
-  "summary": "Turn long-form video into viral 9:16 vertical shorts with face tracking and kinetic captions. 100% local video processing — your footage never leaves your machine.",
-  "metaDescription": "OmniClip is a privacy-first desktop app that repurposes long-form videos into vertical 9:16 shorts: word-level transcription, AI hook detection, smart face tracking, and animated kinetic subtitles.",
-  "icon": "omniclip.png",
-  "storeUrl": "",
-  "codeRepo": "jeff0926/supo-c1-p",
-  "shots": [
-    {
-      "img": "omniclip-1.png",
-      "alt": "OmniClip — drag-and-drop video repurposing dashboard",
-      "cap": "Ingest any long-form video. OmniClip extracts audio and pinpoints high-virality hooks."
-    },
-    {
-      "img": "omniclip-2.png",
-      "alt": "OmniClip — word-based clip trimmer and master player",
-      "cap": "Trim and re-cut clips simply by clicking words in the transcript. No timeline scrub required."
-    },
-    {
-      "img": "omniclip-3.png",
-      "alt": "OmniClip — automatic 9:16 reframing and kinetic caption styles",
-      "cap": "Auto-follow face tracking and single-pass FFmpeg kinetic captions ready for Reels, TikTok, and Shorts."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Transcribes your long-form footage, identifies high-retention hook moments, tracks the active speaker in 9:16 vertical framing, and burns in kinetic captions—running 100% on your own computer's CPU and GPU.",
+  "metaDescription": "Turn long-form videos and podcasts into 9:16 vertical Shorts with speaker face-tracking and kinetic captions 100% locally on your PC or Mac. Zero cloud upload fees.",
+  "icon": "omniclip-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/omniclip",
+  "demoUrl": "https://864zeros.com/demo/omniclip/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/omniclip-qa-docket.html",
+  "tags_we_hope_work": [
+    "local ai video clipper no cloud upload",
+    "opusclip & munch offline alternative",
+    "convert long video to 9:16 shorts locally",
+    "automatic face tracking vertical video crop",
+    "local whisper kinetic captions generator",
+    "unlimited ai shorts maker one-time purchase",
+    "podcast to youtube shorts desktop app",
+    "nda safe offline video repurposing tool",
+    "word level transcript video trimmer",
+    "zero subscription viral clip studio"
   ],
-  "jsonld": {
-    "description": "Local-first AI video repurposing platform: word-level transcription, semantic hook curation, MediaPipe face-tracking reframe, and FFmpeg kinetic captions.",
-    "featureList": [
-      "Word-level audio transcription",
-      "AI viral hook detection & scoring",
-      "Face-tracking 9:16 auto-reframe",
-      "Kinetic animated subtitle burn-in",
-      "Batch variant style templates",
-      "100% local video processing"
-    ]
+  "video": {
+    "src": "omniclip-master.mp4",
+    "shortSrc": "omniclip-short.mp4",
+    "poster": "omniclip-fhg-poster-16x9.svg",
+    "shortPoster": "omniclip-fhg-poster-9x16.svg",
+    "vtt": "omniclip-demo.vtt",
+    "shortVtt": "omniclip-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

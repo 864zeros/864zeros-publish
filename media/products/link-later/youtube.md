@@ -1,155 +1,93 @@
-# LinkLater — YouTube Upload & Search-Intent Metadata Docket
-**DAM Product Folder:** `media/products/link-later/`  
-**Web Product Page:** https://864zeros.com/products/link-later.html  
-**Interactive Live-UI Sandbox:** https://864zeros.com/demo/link-later/index.html  
-**Competitor Comparison & Migration Guide (`/vs/`):** https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html  
-**Series & Playlist Binding:** `Local-First Productivity (Obsidian, VaultPilot, LinkLater, Signal2Noise)`  
-**Monetization Framing (`RULE-017` Zero-Price Compliant):** Free reading queue & Markdown export forever · one-time lifetime Obsidian Bridge unlock (Zero recurring monthly subscriptions)
+# LinkLater — Local Read-Later Vault & One-Click Obsidian Bridge — YouTube Publishing & D-UTA Search-Intent Docket
+
+- **Product Slug:** `link-later`
+- **Pillar:** `CMC`
+- **Compliance:** `RULE-017` (Zero-Price), `RULE-018` (FHG Warm Parchment `#FDFCF8`), `RULE-019` (D-UTA Search Intent), `RULE-020` (Dual WebVTT CC), `RULE-035` (100/100 A+ Standard)
+- **Central Tag Registry (`D-UTA-TAG-ML`):** pocket & instapaper local alternative, read it later chrome extension no account, send saved links to obsidian vault, bookmark manager with notes and tags, export reading list to markdown, raindrop io offline privacy alternative, side panel read later browser tool, local article saver for researchers, no subscription read later extension, private bookmark & quote clipper
 
 ---
 
-## Retention & Search Architecture Mandate (`RULE-017` · `RULE-018` · `RULE-019`)
-1. **0–2s Everyday Pain Hook ➔ 2–5s Immediate Visual UI Payoff:** Every video opens with an everyday user frustration (`0–2s`) and immediately shows the live LinkLater side-panel UI resolving it (`2–5s` — saving the active page with notes/tags and clicking `Send to Obsidian`) **before** introducing technical architecture or pricing advantage.
-2. **Natural `'How to...'` Search-Intent Titles:** Titles use the exact natural-language search queries everyday users type into YouTube Search rather than internal engineering jargon.
-3. **Ecosystem Series Playlists & `/vs/` Cross-Links:** Every description cross-links the *Local-First Productivity* playlist, the `/vs/omnivore-obsidian-web-clipper-alternative.html` comparison guide, the `/demo/link-later/index.html` zero-install sandbox, and companion tools (`VaultPilot`, `Signal2Noise`, `Tab Stasher`).
-4. **100% `RULE-017` Zero-Price Compliance:** Zero spoken or visual dollar figures anywhere in videos, voiceovers, thumbnails, titles, or descriptions.
+## 1. Deliverable A — Quick Overview YouTube Short (`9:16` Vertical · `link-later-short.mp4`)
+
+- **Video File:** `media/products/link-later/video/link-later-short.mp4` (`1080×1920`, `29.83s`, `en-US-AvaNeural` voiceover + Rhodes bed)
+- **Captions File (`WebVTT`):** `media/products/link-later/video/link-later-short.vtt`
+- **Poster / Thumbnail:** `media/products/link-later/video/link-later-fhg-poster-9x16.svg`
+
+### YouTube Short Title
+```text
+A Private Read-Later List That Never Shuts Down or Locks Up Your Notes — LinkLater #Shorts
+```
+
+### YouTube Short Description (Zero-Price · RULE-017 Compliant)
+```text
+Saves any webpage—along with your highlighted quote, personal note, and custom tags—into an instant-search local read-later vault in your browser side panel, with one-click export to Markdown or Obsidian.
+
+While similar tools hide their features behind monthly subscriptions and lock up your data, LinkLater does the opposite. Software that lives where you do—no accounts, no tracking, and zero cloud rent.
+
+👉 Product Overview & Dual Video Walkthrough: https://864zeros.com/products/link-later
+🧪 Try the Zero-Install Interactive Demo: https://864zeros.com/demo/link-later/index.html
+📄 Inspect the Verified Security & QA Docket: https://864zeros.com/products/link-later-qa-docket.html
+🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
+
+⏱️ Chapters:
+00:00 00:00–00:03.8
+00:07 00:03.8–00:09.5
+00:13 00:09.5–00:16.5
+00:21 00:16.5–00:22.0
+
+#Shorts #864zeros #LocalFirst #NoSubscription #PrivacyFirst #SovereignSoftware #ChromeExtension #EdgeAddons #BrowserTools
+```
+
+### Verbatim Transcript (Quick Overview Short)
+```text
+[00:00 - 00:07] (00:00–00:03.8): Tired of saving articles with context notes for reading later getting locked behind monthly subscriptions and external cloud portals?
+[00:07 - 00:13] (00:03.8–00:09.5): With LinkLater, Save Links With Immediate Notes & Tags runs right where you already work.
+[00:13 - 00:21] (00:09.5–00:16.5): One-Click Send to Obsidian Vault Bridge and Instant Offline Search & Unread Filtering—100% under your own custody.
+[00:21 - 00:29] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
+```
 
 ---
 
-### 1. Tier 0: 1080p Live-UI Walkthrough Video (`16:9` Standard Watch URL)
-* **Video File:** `media/products/link-later/video/link-later-live-ui-demo.mp4`
-* **Suggested Thumbnail:** `media/products/link-later/video/link-later-thumbnail.png`
-* **Playlist Assignment:** `Local-First Productivity (Obsidian, VaultPilot, LinkLater, Signal2Noise)`
-* **YouTube Title (Natural Search-Intent):**
+## 2. Deliverable B — Full Product Demo (`16:9` Widescreen · `link-later-master.mp4`)
+
+- **Video File:** `media/products/link-later/video/link-later-master.mp4` (`1920×1080`, `52.72s`, `en-US-AvaNeural` voiceover + Rhodes bed)
+- **Captions File (`WebVTT`):** `media/products/link-later/video/link-later-demo.vtt`
+- **Poster / Thumbnail:** `media/products/link-later/video/link-later-fhg-poster-16x9.svg`
+
+### YouTube Full Demo Title
+```text
+LinkLater — Local Read-Later Vault & One-Click Obsidian Bridge: A Private Read-Later List That Never Shuts Down or Locks Up Your Notes (Full Walkthrough)
 ```
-How to Save Web Pages to a Local Read-Later List & Send Notes to Obsidian (Pocket & Omnivore Alternative)
+
+### YouTube Full Demo Description (Zero-Price · RULE-017 Compliant)
+```text
+Saves any webpage—along with your highlighted quote, personal note, and custom tags—into an instant-search local read-later vault in your browser side panel, with one-click export to Markdown or Obsidian.
+
+Similar products treat saving articles with context notes for reading later like an excuse to become your new landlord—forcing your team into external dashboards, metered usage, and charging you every month. Cloud read-later apps shut down, inject sponsored feed clutter, or paywall full-text search. LinkLater keeps your reading list 100% on your own device with instant filtering, free Markdown export, and a one-click Obsidian Vault Bridge.
+
+👉 Product Page: https://864zeros.com/products/link-later
+🧪 Interactive HTML Sandbox: https://864zeros.com/demo/link-later/index.html
+📄 Security & QA Verification Docket: https://864zeros.com/products/link-later-qa-docket.html
+🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
+
+⏱️ Chapters:
+00:00 00:00–00:04.5
+00:07 00:04.5–00:11.0
+00:17 00:11.0–00:22.0
+00:35 00:22.0–00:31.0
+00:43 00:31.0–00:38.0
+
+🏷️ Search Tags (D-UTA-TAG-ML):
+pocket & instapaper local alternative, read it later chrome extension no account, send saved links to obsidian vault, bookmark manager with notes and tags, export reading list to markdown, raindrop io offline privacy alternative, side panel read later browser tool, local article saver for researchers, no subscription read later extension, private bookmark & quote clipper
+
+#864zeros #LocalFirst #NoSubscription #PrivacyFirst #SovereignSoftware #ChromeExtension #EdgeAddons #BrowserTools
 ```
-* **YouTube Description:**
+
+### Verbatim Transcript (Full Product Demo)
+```text
+[00:00 - 00:07] (00:00–00:04.5): Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord?
+[00:07 - 00:17] (00:04.5–00:11.0): Watch LinkLater in action: Capture why you saved an article while the thought is fresh—attach quotes, tags, and priority flags right in the side panel without leaving your tab.
+[00:17 - 00:35] (00:11.0–00:22.0): Push single saved articles or a compiled weekly reading digest directly into your local Obsidian vault with clean frontmatter and links. Plus, filter your reading queue by tag, domain, or read/unread status in 0ms—even when you are on a plane with no internet connection.
+[00:35 - 00:43] (00:22.0–00:31.0): Your reading list belongs to you. Export single items or your entire archive to standard Markdown or JSON anytime with zero lock-in.
+[00:43 - 00:52] (00:31.0–00:38.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
 ```
-Learn how to save web articles and links to a private, local read-later queue in your browser side panel—complete with personal notes, tags, free Markdown export, and one-click Send to Obsidian handoff.
-
-⏱️ Video Chapters (Problem ➔ Instant UI Payoff ➔ Workflow):
-0:00 The Problem: 40 open tabs and cloud read-later apps shutting down
-0:02 Instant UI Payoff: Save any page with notes & click Send to Obsidian
-0:07 How to add context notes, filter by #tags, and track Unread vs. Read
-0:14 1-Click Send to Obsidian (single note or full reading digest) & free .md export
-0:19 100% Local-First: Free reading queue & Markdown export forever (no monthly rent)
-
-👉 Try the Zero-Install Interactive Demo in your browser: https://864zeros.com/demo/link-later/index.html
-📦 Get LinkLater (Chrome & Microsoft Edge): https://864zeros.com/products/link-later.html
-⚖️ Compare vs. Cloud Read-Later & Clipper Apps: https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html
-
-🔗 Watch the Local-First Productivity Series Playlist:
-• Companion Tool — VaultPilot (Full-Page & Table Clipper for Obsidian): https://864zeros.com/products/vaultpilot.html
-• Companion Tool — Tab Stasher (Park Whole Browser Windows Locally): https://864zeros.com/products/tab-stasher.html
-• Companion Tool — Signal2Noise (Daily Focus Priority Filter): https://864zeros.com/products/signal2noise.html
-
-🛡️ 100% Local-First: Runs directly in your browser. Zero accounts, zero telemetry, and no recurring monthly rent.
-
-#Obsidian #ObsidianMD #ReadLater #PocketAlternative #OmnivoreAlternative #Markdown #PKM #LocalFirst #864zeros
-```
-* **Pinned Comment Template:**
-```
-Want to test LinkLater before installing? Click through the live UI right in your browser (zero install, zero sign-in): https://864zeros.com/demo/link-later/index.html — or see how it pairs with VaultPilot here: https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html
-```
-* **Tags:** `how to save links to obsidian, local read later extension, pocket alternative no account, omnivore alternative obsidian, save web page with notes chrome, export reading list to markdown, linklater, 864zeros`
-
----
-
-### 2. Tier 2: Product Master Explainer (`9:16` Vertical `#Shorts`)
-* **Video File:** `media/products/link-later/video/link-later-short.mp4`
-* **Suggested Thumbnail:** `media/products/link-later/video/link-later-thumbnail.png`
-* **Playlist Assignment:** `Local-First Productivity (Obsidian, VaultPilot, LinkLater, Signal2Noise)`
-* **YouTube Title (Natural Search-Intent):**
-```
-How to Save Web Links With Notes & Send Straight to Obsidian — LinkLater #Shorts
-```
-* **YouTube Description:**
-```
-Keeping 40 browser tabs open just so you don't lose one good link? Watch how LinkLater saves any page to a private side-panel reading queue with your notes and tags—then sends it straight into your Obsidian vault in one click.
-
-👉 Try the Interactive Browser Demo (No Install Needed): https://864zeros.com/demo/link-later/index.html
-📦 Get LinkLater for Chrome & Edge: https://864zeros.com/products/link-later.html
-⚖️ Migration & Comparison Guide: https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html
-
-📂 Part of the "Local-First Productivity" Series:
-• Pair with VaultPilot for full-page table & code clipping: https://864zeros.com/products/vaultpilot.html
-• Pair with Signal2Noise for calm daily focus: https://864zeros.com/products/signal2noise.html
-
-🛡️ 100% Local-First · Free reading queue & Markdown export forever · one-time lifetime Obsidian Bridge unlock (no monthly rent).
-
-#Shorts #Obsidian #ObsidianMD #ReadLater #Markdown #PKM #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `how to send links to obsidian, read later chrome extension, pocket alternative local, obsidian reading queue, linklater, 864zeros, shorts`
-
----
-
-### 3. Tier 1: Social Micro-Short A — Pain Hook (`0–2s Problem ➔ 2–5s UI Payoff`)
-* **Video File:** `media/products/link-later/social/link-later-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/link-later/social/thumbnail-link-later-social-pain.png`
-* **Playlist Assignment:** `Local-First Productivity (Obsidian, VaultPilot, LinkLater, Signal2Noise)`
-* **YouTube Title (Natural Search-Intent):**
-```
-How to Stop Hoarding 50 Open Browser Tabs as a Reading List #Shorts
-```
-* **YouTube Description:**
-```
-Still keeping 50 browser tabs open because you're afraid of losing a great article? Watch how to save any page with a quick context note in your browser side panel, close the tab safely, and send your notes straight to Obsidian.
-
-⏱️ Flow:
-0:00 Problem: 40+ open browser tabs draining memory & focus
-0:02 Instant UI Payoff: 1-click local save + Send to Obsidian
-0:07 Attach notes, #tags, and filter Unread vs. Read locally
-0:14 Free Markdown export & one-time lifetime Obsidian Bridge
-
-👉 Test the Live UI in Your Browser: https://864zeros.com/demo/link-later/index.html
-📦 Install LinkLater (Chrome & Edge): https://864zeros.com/products/link-later.html
-⚖️ Why Local-First Beats Cloud Clippers: https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html
-
-#Shorts #Obsidian #BrowserTabs #ProductivityHacks #Markdown #PKM #LocalFirst #864zeros
-```
-* **Tags:** `too many browser tabs fix, local read later list, save tabs with notes, obsidian reading list, linklater, 864zeros, shorts`
-
----
-
-### 4. Tier 1: Social Micro-Short B — Anti-Subscription Hook (`0–2s Problem ➔ 2–5s UI Payoff`)
-* **Video File:** `media/products/link-later/social/link-later-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/link-later/social/thumbnail-link-later-social-price.png`
-* **Playlist Assignment:** `Local-First Productivity (Obsidian, VaultPilot, LinkLater, Signal2Noise)`
-* **YouTube Title (Natural Search-Intent):**
-```
-How to Replace Cloud Read-It-Later Subscriptions With a Local Obsidian Queue #Shorts
-```
-* **YouTube Description:**
-```
-Tired of cloud read-later apps shutting down or charging monthly rent just to search your own bookmarks? Watch how LinkLater keeps your reading queue 100% on your device and sends formatted notes straight into Obsidian.
-
-👉 Try the Interactive Sandbox Free: https://864zeros.com/demo/link-later/index.html
-📦 Get LinkLater for Chrome & Edge: https://864zeros.com/products/link-later.html
-⚖️ Compare Cloud Read-Later Apps vs. Local Vault Tools: https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html
-
-#Shorts #Obsidian #NoSubscription #PocketAlternative #OmnivoreAlternative #PKM #Markdown #LocalFirst #864zeros
-```
-* **Tags:** `pocket alternative no subscription, omnivore alternative local, instapaper alternative obsidian, linklater, 864zeros, shorts`
-
----
-
-### 5. Tier 1: Social Micro-Short C — Speed / Direct Mechanic Cut (`0–2s Problem ➔ 2–5s UI Payoff`)
-* **Video File:** `media/products/link-later/social/link-later-social-speed.mp4`
-* **Suggested Thumbnail:** `media/products/link-later/social/thumbnail-link-later-social-speed.png`
-* **Playlist Assignment:** `Local-First Productivity (Obsidian, VaultPilot, LinkLater, Signal2Noise)`
-* **YouTube Title (Natural Search-Intent):**
-```
-How to Send Saved Web Links & Notes Straight to Obsidian in 1 Click #Shorts
-```
-* **YouTube Description:**
-```
-Want your saved links and reading notes inside Obsidian without messy copy-pasting? Save any page to LinkLater, jot why it mattered, and click Send to Obsidian—complete with YAML frontmatter and tags in one second.
-
-👉 Try the Live Browser Sandbox: https://864zeros.com/demo/link-later/index.html
-📦 Get LinkLater (Chrome & Edge): https://864zeros.com/products/link-later.html
-⚖️ Full Comparison Guide: https://864zeros.com/vs/omnivore-obsidian-web-clipper-alternative.html
-
-#Shorts #Obsidian #ObsidianMD #ProductivityHacks #Markdown #PKM #864zeros
-```
-* **Tags:** `1 click send to obsidian, obsidian uri web saver, save link with note to obsidian, linklater, 864zeros, shorts`

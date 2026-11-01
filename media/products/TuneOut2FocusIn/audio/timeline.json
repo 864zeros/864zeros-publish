@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.44,
+    "duration": 8.44,
+    "text": "Need a better way to handle masking background distractions with continuous focus soundscapes, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.44,
+    "end": 18.49,
+    "duration": 10.05,
+    "text": "Watch TuneOut2FocusIn in action: Generates acoustic soundscapes locally on your device so a sudden ad, buffering spinner, or airplane mode never interrupts your flow state."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 18.49,
+    "end": 35.31,
+    "duration": 16.82,
+    "text": "Keeps playing smoothly even when you close the side panel or switch between browser windows—with instant one-click mute and volume control. Plus, switch effortlessly between deep low-frequency brown noise for ADHD focus, balanced gray noise, crisp white noise, and warm rain."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 35.31,
+    "end": 43.65,
+    "duration": 8.34,
+    "text": "Uses 0 megabytes of internet bandwidth and makes zero network requests—just pure, instant acoustic focus whenever you need it."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 43.65,
+    "end": 52.46,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+  }
+]

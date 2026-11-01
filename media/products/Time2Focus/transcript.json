@@ -1,0 +1,125 @@
+{
+  "slug": "time2focus",
+  "productName": "Time2Focus — Calm Side-Panel Focus Timer With Persistent Task Anchor",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "time2focus-short.mp4",
+    "vtt": "time2focus-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 34.8,
+    "fullText": "Tired of staying anchored to a single focus task while working in the browser getting locked behind monthly subscriptions and external cloud portals? With Time2Focus, Persistent Focus-Topic Anchor Above the Clock runs right where you already work. Gentle Synthesized Chime & Visual Pulse (Zero Klaxons) and Instant Preset Chips (5, 10, 25, 50 Minutes)—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 8.27,
+        "duration": 8.27,
+        "text": "Tired of staying anchored to a single focus task while working in the browser getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 8.27,
+        "end": 14.36,
+        "duration": 6.09,
+        "text": "With Time2Focus, Persistent Focus-Topic Anchor Above the Clock runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 14.36,
+        "end": 26.04,
+        "duration": 11.68,
+        "text": "Gentle Synthesized Chime & Visual Pulse (Zero Klaxons) and Instant Preset Chips (5, 10, 25, 50 Minutes)—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 26.04,
+        "end": 34.8,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "time2focus-master.mp4",
+    "vtt": "time2focus-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 54.36,
+    "fullText": "Need a better way to handle staying anchored to a single focus task while working in the browser, without handing your data to another monthly cloud landlord? Watch Time2Focus in action: Type your current mission (\"Finish Section 2 Draft\") and keep it anchored beside your browser tabs so a quick lookup never turns into a 40-minute detour. Replaces startling alarm buzzers that shatter hyperfocus with a calm, local Web Audio chime and soft visual completion pulse. Plus, launch a sprint in one click using duration preset chips or custom minutes—backed by native browser alarms that stay accurate even when panels close. Review your completed focus sessions locally and export your history to JSON anytime—with zero logins, zero streaks guilt, and zero tracking. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 8.49,
+        "duration": 8.49,
+        "text": "Need a better way to handle staying anchored to a single focus task while working in the browser, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 8.49,
+        "end": 19.11,
+        "duration": 10.62,
+        "text": "Watch Time2Focus in action: Type your current mission (\"Finish Section 2 Draft\") and keep it anchored beside your browser tabs so a quick lookup never turns into a 40-minute detour."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 19.11,
+        "end": 36,
+        "duration": 16.89,
+        "text": "Replaces startling alarm buzzers that shatter hyperfocus with a calm, local Web Audio chime and soft visual completion pulse. Plus, launch a sprint in one click using duration preset chips or custom minutes—backed by native browser alarms that stay accurate even when panels close."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 36,
+        "end": 45.55,
+        "duration": 9.54,
+        "text": "Review your completed focus sessions locally and export your history to JSON anytime—with zero logins, zero streaks guilt, and zero tracking."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 45.55,
+        "end": 54.36,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle staying anchored to a single focus task while working in the browser, without handing your data to another monthly cloud landlord? Watch Time2Focus in action: Type your current mission (\"Finish Section 2 Draft\") and keep it anchored beside your browser tabs so a quick lookup never turns into a 40-minute detour. Replaces startling alarm buzzers that shatter hyperfocus with a calm, local Web Audio chime and soft visual completion pulse. Plus, launch a sprint in one click using duration preset chips or custom minutes—backed by native browser alarms that stay accurate even when panels close. Review your completed focus sessions locally and export your history to JSON anytime—with zero logins, zero streaks guilt, and zero tracking. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 8.49,
+      "duration": 8.49,
+      "text": "Need a better way to handle staying anchored to a single focus task while working in the browser, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 8.49,
+      "end": 19.11,
+      "duration": 10.62,
+      "text": "Watch Time2Focus in action: Type your current mission (\"Finish Section 2 Draft\") and keep it anchored beside your browser tabs so a quick lookup never turns into a 40-minute detour."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 19.11,
+      "end": 36,
+      "duration": 16.89,
+      "text": "Replaces startling alarm buzzers that shatter hyperfocus with a calm, local Web Audio chime and soft visual completion pulse. Plus, launch a sprint in one click using duration preset chips or custom minutes—backed by native browser alarms that stay accurate even when panels close."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 36,
+      "end": 45.55,
+      "duration": 9.54,
+      "text": "Review your completed focus sessions locally and export your history to JSON anytime—with zero logins, zero streaks guilt, and zero tracking."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 45.55,
+      "end": 54.36,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

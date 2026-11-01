@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.85,
+    "duration": 8.85,
+    "text": "Need a better way to handle filtering daily priorities without drowning in a bloated task backlog, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.85,
+    "end": 19.86,
+    "duration": 11.01,
+    "text": "Watch Signal2Noise in action: Prevents task-list inflation by limiting today's list to 10 candidates and forcing you to choose the 2–4 high-leverage signals that actually move the needle."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 19.86,
+    "end": 36.1,
+    "duration": 16.24,
+    "text": "Collapse your side panel down to a quiet, always-visible priority pill so you never lose sight of your #1 task while switching tabs. Plus, copy your completed and active signals as clean plain text or Markdown in one click to paste straight into Slack, notes, or daily standups."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 36.1,
+    "end": 45.45,
+    "duration": 9.35,
+    "text": "No login walls, no gamified streak shaming, and zero usage telemetry. Your daily priorities stay 100% private inside your browser."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 45.45,
+    "end": 54.26,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+  }
+]

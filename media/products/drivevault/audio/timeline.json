@@ -1,37 +1,42 @@
 [
   {
-    "id": "scene1_hook",
-    "start": 0.0,
-    "end": 4.97,
-    "duration": 4.97,
-    "text": "What happens to your business tomorrow if your Google account gets unexpectedly suspended?"
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.61,
+    "duration": 8.61,
+    "text": "Need a better way to handle backing up critical Google Drive folders to encrypted offline storage, without handing your data to another monthly cloud landlord?"
   },
   {
-    "id": "scene2_intro",
-    "start": 4.97,
-    "end": 12.24,
-    "duration": 7.27,
-    "text": "Meet DriveVault. 100% sovereign, local-first execution right inside your Google Workspace account."
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.61,
+    "end": 18.39,
+    "duration": 9.78,
+    "text": "Watch DriveVault in action: Your archive is encrypted with a key derived from your private passphrase before download—zero backup vendors ever hold your keys or files."
   },
   {
-    "id": "scene3_feature",
-    "start": 12.24,
-    "end": 22.95,
-    "duration": 10.7,
-    "text": "Browse Google Drive and package folders into client-side AES-256 encrypted snapshots for instant local backup. Zero third-party cloud servers in the loop."
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 18.39,
+    "end": 34.97,
+    "duration": 16.58,
+    "text": "Automatically converts cloud-native Docs, Sheets, and Slides into portable DOCX, XLSX, and PDF files inside your offline snapshot. Plus, download self-contained vault bundles straight to your local hardware so your business survives any cloud outage or account lockout."
   },
   {
-    "id": "scene4_pricing",
-    "start": 22.95,
-    "end": 31.75,
-    "duration": 8.8,
-    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. DriveVault is a single one-time unlock forever."
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 34.97,
+    "end": 43.05,
+    "duration": 8.08,
+    "text": "Stop paying a second cloud company every month to store backups of files you already own. Unlock DriveVault once and back up on your schedule."
   },
   {
-    "id": "scene5_cta",
-    "start": 31.75,
-    "end": 39.65,
-    "duration": 7.9,
-    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 43.05,
+    "end": 51.86,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
 ]

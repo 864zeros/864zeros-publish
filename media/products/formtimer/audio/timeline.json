@@ -1,37 +1,42 @@
 [
   {
-    "id": "scene1_hook",
-    "start": 0.0,
-    "end": 6.12,
-    "duration": 6.12,
-    "text": "You set a 60-minute test, but three students managed to submit their Google Form at midnight."
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.71,
+    "duration": 8.71,
+    "text": "Need a better way to handle running timed quizzes and automatic submission cutoffs in Google Forms, without handing your data to another monthly cloud landlord?"
   },
   {
-    "id": "scene2_intro",
-    "start": 6.12,
-    "end": 13.59,
-    "duration": 7.46,
-    "text": "Meet FormTimer Pro. 100% sovereign, local-first execution right inside your Google Workspace account."
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.71,
+    "end": 21.01,
+    "duration": 12.3,
+    "text": "Watch FormTimer in action: Choose 15, 30, 45, 60, or 90-minute exam windows—or schedule an exact date and time—to close form submissions automatically on the dot."
   },
   {
-    "id": "scene3_feature",
-    "start": 13.59,
-    "end": 25.2,
-    "duration": 11.62,
-    "text": "Turn Google Forms into timed exams and quizzes with automated submission cutoff. 100% native Apps Script execution, zero external redirects, and zero recurring subscriptions."
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 21.01,
+    "end": 38.14,
+    "duration": 17.13,
+    "text": "Zero external wrapper websites or iframe redirects. Students open the normal Google Form inside Google Classroom with zero authentication errors. Plus, display a clear, tailored message the moment time expires and inspect exact submission timestamps inside your connected response sheet."
   },
   {
-    "id": "scene4_pricing",
-    "start": 25.2,
-    "end": 34.34,
-    "duration": 9.14,
-    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. FormTimer Pro is a single one-time unlock forever."
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 38.14,
+    "end": 46.1,
+    "duration": 7.96,
+    "text": "Student names, emails, and test scores never touch an external proctoring cloud—and you never hit a mid-finals monthly test quota."
   },
   {
-    "id": "scene5_cta",
-    "start": 34.34,
-    "end": 42.24,
-    "duration": 7.9,
-    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 46.1,
+    "end": 54.91,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
 ]

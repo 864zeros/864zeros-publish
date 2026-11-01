@@ -1,0 +1,125 @@
+{
+  "slug": "tubeschedule",
+  "productName": "TubeSchedule — Sovereign YouTube Video & Shorts Scheduler for Drive, Sheets & Calendar",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "tubeschedule-short.mp4",
+    "vtt": "tubeschedule-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 33.7,
+    "fullText": "Tired of scheduling YouTube videos and Shorts from Google Drive and Sheets getting locked behind monthly subscriptions and external cloud portals? With TubeSchedule, Automatic 6-Video/Day Quota-Drip Governor runs right where you already work. Native 9:16 Shorts & 16:9 Long-Form Detection and Two-Way Google Calendar Release Visualization—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 8.27,
+        "duration": 8.27,
+        "text": "Tired of scheduling YouTube videos and Shorts from Google Drive and Sheets getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 8.27,
+        "end": 14.91,
+        "duration": 6.64,
+        "text": "With TubeSchedule, Automatic 6-Video/Day Quota-Drip Governor runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 14.91,
+        "end": 24.94,
+        "duration": 10.02,
+        "text": "Native 9:16 Shorts & 16:9 Long-Form Detection and Two-Way Google Calendar Release Visualization—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 24.94,
+        "end": 33.7,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "tubeschedule-master.mp4",
+    "vtt": "tubeschedule-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 52.94,
+    "fullText": "Need a better way to handle scheduling YouTube videos and Shorts from Google Drive and Sheets, without handing your data to another monthly cloud landlord? Watch TubeSchedule in action: Respects YouTube Data API v3 daily upload limits automatically—publishing up to 6 scheduled videos per day and rolling the remaining queue to tomorrow without errors. Automatically configures titles, descriptions, tags, privacy states, `publishAt` timestamps, and custom thumbnails directly from your Sheet columns. Plus, see every queued Video and Short on your Google Calendar and drag calendar blocks to reschedule your YouTube release pipeline. Your unreleased MP4 masters stream directly from your Google Drive to your YouTube channel—zero third-party social-scheduler seat fees. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 8.11,
+        "duration": 8.11,
+        "text": "Need a better way to handle scheduling YouTube videos and Shorts from Google Drive and Sheets, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 8.11,
+        "end": 20,
+        "duration": 11.9,
+        "text": "Watch TubeSchedule in action: Respects YouTube Data API v3 daily upload limits automatically—publishing up to 6 scheduled videos per day and rolling the remaining queue to tomorrow without errors."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 20,
+        "end": 36.34,
+        "duration": 16.34,
+        "text": "Automatically configures titles, descriptions, tags, privacy states, `publishAt` timestamps, and custom thumbnails directly from your Sheet columns. Plus, see every queued Video and Short on your Google Calendar and drag calendar blocks to reschedule your YouTube release pipeline."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 36.34,
+        "end": 44.13,
+        "duration": 7.79,
+        "text": "Your unreleased MP4 masters stream directly from your Google Drive to your YouTube channel—zero third-party social-scheduler seat fees."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 44.13,
+        "end": 52.94,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle scheduling YouTube videos and Shorts from Google Drive and Sheets, without handing your data to another monthly cloud landlord? Watch TubeSchedule in action: Respects YouTube Data API v3 daily upload limits automatically—publishing up to 6 scheduled videos per day and rolling the remaining queue to tomorrow without errors. Automatically configures titles, descriptions, tags, privacy states, `publishAt` timestamps, and custom thumbnails directly from your Sheet columns. Plus, see every queued Video and Short on your Google Calendar and drag calendar blocks to reschedule your YouTube release pipeline. Your unreleased MP4 masters stream directly from your Google Drive to your YouTube channel—zero third-party social-scheduler seat fees. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 8.11,
+      "duration": 8.11,
+      "text": "Need a better way to handle scheduling YouTube videos and Shorts from Google Drive and Sheets, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 8.11,
+      "end": 20,
+      "duration": 11.9,
+      "text": "Watch TubeSchedule in action: Respects YouTube Data API v3 daily upload limits automatically—publishing up to 6 scheduled videos per day and rolling the remaining queue to tomorrow without errors."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 20,
+      "end": 36.34,
+      "duration": 16.34,
+      "text": "Automatically configures titles, descriptions, tags, privacy states, `publishAt` timestamps, and custom thumbnails directly from your Sheet columns. Plus, see every queued Video and Short on your Google Calendar and drag calendar blocks to reschedule your YouTube release pipeline."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 36.34,
+      "end": 44.13,
+      "duration": 7.79,
+      "text": "Your unreleased MP4 masters stream directly from your Google Drive to your YouTube channel—zero third-party social-scheduler seat fees."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 44.13,
+      "end": 52.94,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

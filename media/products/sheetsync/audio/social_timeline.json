@@ -1,62 +1,34 @@
-{
-  "pain": {
-    "total_duration": 24.370022999999996,
-    "scenes": [
-      {
-        "id": "pain_scene1_hook",
-        "text": "Nothing kills client trust faster than an executive dashboard covered in red #REF errors.",
-        "duration": 5.968005,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\pain_scene1_hook.wav",
-        "start": 0.0,
-        "end": 5.968005
-      },
-      {
-        "id": "pain_scene2_solution",
-        "text": "SheetSync Local synchronizes and consolidates master spreadsheets reliably across tabs and workbooks with zero formula breakage. Automatic background updates without calculation limits.",
-        "duration": 11.752018,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\pain_scene2_solution.wav",
-        "start": 5.968005,
-        "end": 17.720022999999998
-      },
-      {
-        "id": "pain_scene3_cta",
-        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
-        "duration": 6.65,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\pain_scene3_cta.wav",
-        "start": 17.720022999999998,
-        "end": 24.370022999999996
-      }
-    ],
-    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\soundtrack_pain.wav"
+[
+  {
+    "index": 1,
+    "label": "00:00–00:03.8",
+    "start": 0,
+    "end": 8.32,
+    "duration": 8.32,
+    "text": "Tired of syncing and consolidating data across multiple spreadsheets getting locked behind monthly subscriptions and external cloud portals?"
   },
-  "price": {
-    "total_duration": 24.106032,
-    "scenes": [
-      {
-        "id": "price_scene1_hook",
-        "text": "Why pay recurring subscription fees every single month for enterprise database sync middleware just to merge numbers across sheets?",
-        "duration": 6.592018,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\price_scene1_hook.wav",
-        "start": 0.0,
-        "end": 6.592018
-      },
-      {
-        "id": "price_scene2_solution",
-        "text": "SheetSync Local runs 100% locally inside Google Workspace with unlimited multi-sheet syncing and zero recurring subscriptions.",
-        "duration": 8.92,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\price_scene2_solution.wav",
-        "start": 6.592018,
-        "end": 15.512018000000001
-      },
-      {
-        "id": "price_scene3_cta",
-        "text": "a single one-time unlock forever. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
-        "duration": 8.594014,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\price_scene3_cta.wav",
-        "start": 15.512018000000001,
-        "end": 24.106032
-      }
-    ],
-    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\sheetsync\\social_shorts\\audio\\soundtrack_price.wav"
+  {
+    "index": 2,
+    "label": "00:03.8–00:09.5",
+    "start": 8.32,
+    "end": 14.53,
+    "duration": 6.21,
+    "text": "With SheetSync, Primary-Key Upsert, Append & Full Mirror Modes runs right where you already work."
+  },
+  {
+    "index": 3,
+    "label": "00:09.5–00:16.5",
+    "start": 14.53,
+    "end": 23.59,
+    "duration": 9.06,
+    "text": "Static Value Sync Eliminates \"Loading...\" Hangs and Automated Hourly, 6-Hourly & Daily Rollups—100% under your own custody."
+  },
+  {
+    "index": 4,
+    "label": "00:16.5–00:22.0",
+    "start": 23.59,
+    "end": 32.35,
+    "duration": 8.76,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
-}
+]

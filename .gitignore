@@ -41,3 +41,7 @@ Thumbs.db
 media/visuals/lora_weights/*.safetensors
 media/visuals/training_pools/*.zip
 *.safetensors
+
+# --- Uncompressed PCM WAV Stems & Raw Veo B-Roll (Stored on Local Disk + Google Drive DAM) ---
+media/products/**/audio/*.wav
+media/video/b_roll_loops/fhg_veo/broll_library/*.mp4

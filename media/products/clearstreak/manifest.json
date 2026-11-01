@@ -1,68 +1,40 @@
 {
   "slug": "clearstreak",
-  "category": "mobile-apps",
+  "name": "ClearStreak — Private On-Device Habit, Streak & Recovery Companion",
+  "shortName": "ClearStreak",
+  "category": "mobile",
   "pillar": "FHG",
-  "ingested_at": "2026-09-07T02:39:25.511Z",
-  "type": "mobile",
-  "name": "ClearStreak — The Private Habit & Vice Companion",
-  "summary": "A private habit and vice companion that lives entirely on your phone — encrypted, offline, no accounts, no cloud. Data over shame.",
-  "metaDescription": "ClearStreak is a privacy-first habit and vice tracker: multi-journey streak tracking, eyes-free grounding tools, a one-tap Rescue hub, and reflections — encrypted on-device with zero cloud and no judgment.",
-  "icon": "clearstreak.png",
-  "storeUrl": "",
-  "codeRepo": "864zeros/clearstreak",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Tracks any personal journey—counting days DOING a positive daily discipline or days LEAVING BEHIND a habit you are quitting—with 100% offline encrypted storage on your phone and zero cloud accounts.",
+  "metaDescription": "Track daily habits or recovery streaks 100% offline on your phone with encrypted local storage, zero shaming resets, and a free crisis grounding Rescue Hub.",
+  "icon": "clearstreak-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/clearstreak",
+  "demoUrl": "https://864zeros.com/demo/clearstreak/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/clearstreak-qa-docket.html",
+  "tags_we_hope_work": [
+    "private offline sobriety tracker app",
+    "i am sober alternative no cloud",
+    "encrypted habit & streak tracker android",
+    "data over shame habit companion",
+    "no account recovery milestone counter",
+    "adhd friendly streak tracker no reset shame",
+    "halt check-in & urge grounding app",
+    "zero telemetry mental health habit app",
+    "quit drinking & smoking private counter",
+    "one-time unlock habit tracker app"
+  ],
   "video": {
     "src": "clearstreak-master.mp4",
-    "poster": "clearstreak-thumbnail.png",
-    "tag": "🛡️ 60s Product Demo",
-    "title": "Data Over Shame — ClearStreak in Action",
-    "desc": "Track multiple habits and vices privately on your phone. An off day resets today's count, but never wipes your milestone history or personal bests. Encrypted on-device, zero cloud, zero tracking.",
-    "sub": "<b>No subscriptions</b> · 7-day free trial · One-time unlock forever",
-    "youtubeUrl": "https://www.youtube.com/watch?v=i9jxmB3m8q8"
-  },
-  "social_shorts": [
-    {
-      "id": "social-shame",
-      "src": "clearstreak-social-shame.mp4",
-      "poster": "thumbnail-clearstreak-social-shame.png",
-      "angle": "data_over_shame",
-      "duration": 21.91,
-      "youtubeUrl": "https://www.youtube.com/watch?v=LgcLffM6pjo"
-    },
-    {
-      "id": "social-privacy",
-      "src": "clearstreak-social-privacy.mp4",
-      "poster": "thumbnail-clearstreak-social-privacy.png",
-      "angle": "private_by_architecture",
-      "duration": 19.3,
-      "youtubeUrl": "https://www.youtube.com/watch?v=FuMApQx9WaU"
-    }
-  ],
-  "shots": [
-    {
-      "img": "clearstreak-1.png",
-      "alt": "ClearStreak — journeys-first home with streaks and milestones",
-      "cap": "Track multiple habits at once — streaks, milestones, and money saved, all on your phone."
-    },
-    {
-      "img": "clearstreak-2.png",
-      "alt": "ClearStreak — one-tap crisis Rescue hub with lifelines and grounding tools",
-      "cap": "A hard moment? The Rescue hub puts your trusted support person and confidential lifelines one tap away."
-    },
-    {
-      "img": "clearstreak-3.png",
-      "alt": "ClearStreak — encrypted on-device, unlocked only by fingerprint, fully offline",
-      "cap": "Encrypted on-device and unlocked only by your fingerprint. Nothing ever leaves the phone."
-    }
-  ],
-  "jsonld": {
-    "description": "A privacy-first Android habit and vice tracker: multi-journey streak tracking, a one-tap crisis Rescue hub, eyes-free grounding tools, and reflections — encrypted on-device, no accounts, no cloud.",
-    "featureList": [
-      "Multi-journey streak tracking",
-      "Data over shame — milestone history preserved",
-      "One-tap crisis Rescue hub",
-      "Eyes-free grounding tools",
-      "Encrypted on-device private journal",
-      "100% offline — no accounts, no cloud, no tracking"
-    ]
+    "shortSrc": "clearstreak-short.mp4",
+    "poster": "clearstreak-fhg-poster-16x9.svg",
+    "shortPoster": "clearstreak-fhg-poster-9x16.svg",
+    "vtt": "clearstreak-demo.vtt",
+    "shortVtt": "clearstreak-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

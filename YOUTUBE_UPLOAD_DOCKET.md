@@ -1,1557 +1,653 @@
-# 864zeros — YouTube Shorts Upload Docket (All 60 Deliverables)
-**Generated:** 2026-09-10T03:03:08.012Z  
-**Authority:** LLC-DIV-4-GTM & Central DAM (864zeros-publish)  
-**Standard:** 864z-SPEC-2026-012-VIDQ (9:16 vertical, ≤60s, #Shorts eligible)
+# 864zeros — Master YouTube Upload Docket (All 34 Products · 68 FHG Deliverables)
+**Generated:** 2026-11-01T20:30:00Z  
+**Authority:** Prya Vance (`GTM-001`) · `LLC-DIV-4-GTM` & `zeroCloudDAM` (`864zeros-publish`)  
+**Standards Enforced:** `RULE-001` (`en-US-AvaNeural` Voiceover), `RULE-017` (Zero-Price), `RULE-018` (FHG Warm Parchment `#FDFCF8`), `RULE-019` (`D-UTA-TAG-ML` Search Intent), `RULE-020` (Dual `WebVTT` Closed Captions), `RULE-035` (`100/100 A+` Webpage & Video Grade)
+
+> **[FOUNDER RELEASE GATE]:** All **68 deliverables** (`34` × `9:16` Quick Overview Shorts + `34` × `16:9` Full Product Demos) are 100% rendered, voiced, captioned (`.vtt`), tagged via the Central Tag Registry (`D-UTA-TAG-ML`), and live on `https://864zeros.com/products/`. External YouTube & Marketplace publishing is staged and held pending Founder go-live authorization.
 
 ---
 
-## Instructions for YouTube Studio Upload
-1. Open [YouTube Studio](https://studio.youtube.com/) for the **@864zeros** channel.
-2. Click **Create** → **Upload videos**.
-3. Select the target `.mp4` from the DAM path indicated below.
-4. Copy-paste the **Title** and **Description** directly into YouTube Studio.
-5. Upload the matching **Thumbnail PNG**.
-6. Audience: Select **"No, it's not made for kids"**.
-7. Visibility: Set to **Unlisted** (for initial QA) or **Public** (for immediate release).
+## Chronicle — Private Local AI Chat History & Prompt Vault (`864z-chronicle` · `OIA`)
+- **Product URL:** https://864zeros.com/products/864z-chronicle
+- **DAM Vault:** `media/products/864z-chronicle/`
+- **D-UTA-TAG-ML Search Tags:** `save chatgpt claude gemini history locally, ai chat history search extension, export claude and chatgpt to markdown, private ai prompt vault browser extension, search across chatgpt claude gemini, obsidian ai chat exporter, local ai conversation archive, chatgpt history backup tool, no cloud ai prompt manager, privacy-first ai chat saver`
+
+### 1. Quick Overview Short (`9:16` Vertical · `29.69s`)
+- **Video File:** `media/products/864z-chronicle/video/864z-chronicle-short.mp4`
+- **Captions (`WebVTT`):** `media/products/864z-chronicle/video/864z-chronicle-short.vtt`
+- **Poster:** `media/products/864z-chronicle/video/864z-chronicle-fhg-poster-9x16.svg`
+- **Title:** `Never Lose a Breakthrough AI Conversation Again — Chronicle #Shorts`
+
+### 2. Full Product Demo (`16:9` Widescreen · `53.37s`)
+- **Video File:** `media/products/864z-chronicle/video/864z-chronicle-master.mp4`
+- **Captions (`WebVTT`):** `media/products/864z-chronicle/video/864z-chronicle-demo.vtt`
+- **Poster:** `media/products/864z-chronicle/video/864z-chronicle-fhg-poster-16x9.svg`
+- **Title:** `Chronicle — Private Local AI Chat History & Prompt Vault: Never Lose a Breakthrough AI Conversation Again (Full Walkthrough)`
 
 ---
 
-## AutoOrganize YTM (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/autoorganize-ytm/video/autoorganize-ytm-short.mp4`
-* **Suggested Thumbnail:** `media/products/autoorganize-ytm/video/thumbnail.png` (or `autoorganize-ytm-thumbnail.png`)
-* **YouTube Title:**
-```
-Auto-Sort Liked Songs into Genre Playlists: AutoOrganize YTM #Shorts
-```
-* **YouTube Description:**
-```
-Auto-sort your YouTube Music Liked Songs into real genre playlists, created in your own account. Local-first, no subscription.
+## ApprovalWorkflow — Multi-Step Form & Email Approval Workflow (`approvalworkflow` · `864F`)
+- **Product URL:** https://864zeros.com/products/approvalworkflow
+- **DAM Vault:** `media/products/approvalworkflow/`
+- **D-UTA-TAG-ML Search Tags:** `google forms approval workflow, approveit alternative, boloforms approvals alternative, form approvals add-on, purchase order approval google sheets, one-click email approval, pto & leave request approval form, expense approval workflow, multi-step approval routing, no subscription google workspace add-on`
 
-👉 Try AutoOrganize YTM: https://864zeros.com/products/autoorganize-ytm
+### 1. Quick Overview Short (`9:16` Vertical · `27.36s`)
+- **Video File:** `media/products/approvalworkflow/video/approvalworkflow-short.mp4`
+- **Captions (`WebVTT`):** `media/products/approvalworkflow/video/approvalworkflow-short.vtt`
+- **Poster:** `media/products/approvalworkflow/video/approvalworkflow-fhg-poster-9x16.svg`
+- **Title:** `Multi-Step Approvals Without the Cloud Landlord — ApprovalWorkflow #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $2.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `autoorganize-ytm, autoorganize ytm, productivity, local first, 864zeros, no subscription, chrome extension, edge add-on, browser extension, productivity hacks`
+### 2. Full Product Demo (`16:9` Widescreen · `40.7s`)
+- **Video File:** `media/products/approvalworkflow/video/approvalworkflow-master.mp4`
+- **Captions (`WebVTT`):** `media/products/approvalworkflow/video/approvalworkflow-demo.vtt`
+- **Poster:** `media/products/approvalworkflow/video/approvalworkflow-fhg-poster-16x9.svg`
+- **Title:** `ApprovalWorkflow — Multi-Step Form & Email Approval Workflow: Multi-Step Approvals Without the Cloud Landlord (Full Walkthrough)`
 
 ---
 
-## AutoOrganize YTM (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/autoorganize-ytm/video/autoorganize-ytm-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/autoorganize-ytm/video/thumbnail-autoorganize-ytm-social-pain.png`
-* **YouTube Title:**
-```
-Is Your YouTube Music Liked Songs a Graveyard?: AutoOrganize — AutoOrganize YTM #Shorts
-```
-* **YouTube Description:**
-```
-Be honest: is your YouTube Music Liked Songs a chaotic graveyard of tracks you never actually listen to?
+## AutoOrganize — Smart Genre Playlists for YouTube Music (`autoorganize-ytm` · `OIA`)
+- **Product URL:** https://864zeros.com/products/autoorganize-ytm
+- **DAM Vault:** `media/products/autoorganize-ytm/`
+- **D-UTA-TAG-ML Search Tags:** `sort youtube music liked songs by genre, youtube music playlist organizer extension, auto genre playlists youtube music, organize liked songs youtube music, soundiiz & tunemymusic alternative, youtube music library sorter, split liked songs into genres, local youtube music playlist builder, export youtube music liked songs list, no subscription playlist manager`
 
-Meet AutoOrganize YTM — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `31.08s`)
+- **Video File:** `media/products/autoorganize-ytm/video/autoorganize-ytm-short.mp4`
+- **Captions (`WebVTT`):** `media/products/autoorganize-ytm/video/autoorganize-ytm-short.vtt`
+- **Poster:** `media/products/autoorganize-ytm/video/autoorganize-ytm-fhg-poster-9x16.svg`
+- **Title:** `Turn Your Unsorted Liked Songs Into Real Genre Playlists — AutoOrganize #Shorts`
 
-👉 Get AutoOrganize YTM: https://864zeros.com/products/autoorganize-ytm
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $2.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `autoorganize-ytm, autoorganize ytm, productivity, local first, 864zeros, no subscription, chrome extension, edge add-on, browser extension, productivity hacks`
+### 2. Full Product Demo (`16:9` Widescreen · `54.43s`)
+- **Video File:** `media/products/autoorganize-ytm/video/autoorganize-ytm-master.mp4`
+- **Captions (`WebVTT`):** `media/products/autoorganize-ytm/video/autoorganize-ytm-demo.vtt`
+- **Poster:** `media/products/autoorganize-ytm/video/autoorganize-ytm-fhg-poster-16x9.svg`
+- **Title:** `AutoOrganize — Smart Genre Playlists for YouTube Music: Turn Your Unsorted Liked Songs Into Real Genre Playlists (Full Walkthrough)`
 
 ---
 
-## AutoOrganize YTM (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/autoorganize-ytm/video/autoorganize-ytm-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/autoorganize-ytm/video/thumbnail-autoorganize-ytm-social-price.png`
-* **YouTube Title:**
-```
-Stop Paying $10/Month Just to Sort Music Playlists: AutoOrganize — AutoOrganiz... #Shorts
-```
-* **YouTube Description:**
-```
-Why are music organizers charging ten dollars every month just to sort your playlists?
+## ChoiceGuard — Dynamic Google Forms Choice Eliminator & Capacity Limiter (`choiceguard` · `864F`)
+- **Product URL:** https://864zeros.com/products/choiceguard
+- **DAM Vault:** `media/products/choiceguard/`
+- **D-UTA-TAG-ML Search Tags:** `google forms choice eliminator, choice eliminator 2 & 3 alternative, limit sign up slots google forms, remove full options google forms, formranger & form limiter alternative, parent teacher conference sign up form, workshop seat capacity limiter google forms, prevent double booking google forms, school ferpa friendly form choice limiter, no subscription google forms add-on`
 
-AutoOrganize YTM gives you complete control with a single $2.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `30.58s`)
+- **Video File:** `media/products/choiceguard/video/choiceguard-short.mp4`
+- **Captions (`WebVTT`):** `media/products/choiceguard/video/choiceguard-short.vtt`
+- **Poster:** `media/products/choiceguard/video/choiceguard-fhg-poster-9x16.svg`
+- **Title:** `Eliminate Full Form Choices Automatically—Without Double-Bookings — ChoiceGuard #Shorts`
 
-👉 Get AutoOrganize YTM: https://864zeros.com/products/autoorganize-ytm
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `autoorganize-ytm, autoorganize ytm, productivity, local first, 864zeros, no subscription, chrome extension, edge add-on, browser extension, productivity hacks`
+### 2. Full Product Demo (`16:9` Widescreen · `54.43s`)
+- **Video File:** `media/products/choiceguard/video/choiceguard-master.mp4`
+- **Captions (`WebVTT`):** `media/products/choiceguard/video/choiceguard-demo.vtt`
+- **Poster:** `media/products/choiceguard/video/choiceguard-fhg-poster-16x9.svg`
+- **Title:** `ChoiceGuard — Dynamic Google Forms Choice Eliminator & Capacity Limiter: Eliminate Full Form Choices Automatically—Without Double-Bookings (Full Walkthrough)`
 
 ---
 
-## ClearStreak (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/clearstreak/video/clearstreak-master.mp4`
-* **Suggested Thumbnail:** `media/products/clearstreak/video/thumbnail.png` (or `clearstreak-thumbnail.png`)
-* **YouTube Title:**
-```
-Private Habit & Vice Companion (Data Over Shame): ClearStreak #Shorts
-```
-* **YouTube Description:**
-```
-A private habit and vice companion that lives entirely on your phone — encrypted, offline, no accounts, no cloud. Data over shame.
+## ClearStreak — Private On-Device Habit, Streak & Recovery Companion (`clearstreak` · `FHG`)
+- **Product URL:** https://864zeros.com/products/clearstreak
+- **DAM Vault:** `media/products/clearstreak/`
+- **D-UTA-TAG-ML Search Tags:** `private offline sobriety tracker app, i am sober alternative no cloud, encrypted habit & streak tracker android, data over shame habit companion, no account recovery milestone counter, adhd friendly streak tracker no reset shame, halt check-in & urge grounding app, zero telemetry mental health habit app, quit drinking & smoking private counter, one-time unlock habit tracker app`
 
-👉 Try ClearStreak: https://864zeros.com/products/clearstreak
+### 1. Quick Overview Short (`9:16` Vertical · `34.23s`)
+- **Video File:** `media/products/clearstreak/video/clearstreak-short.mp4`
+- **Captions (`WebVTT`):** `media/products/clearstreak/video/clearstreak-short.vtt`
+- **Poster:** `media/products/clearstreak/video/clearstreak-fhg-poster-9x16.svg`
+- **Title:** `Data Over Shame: Private Habit & Recovery Tracking You Truly Own — ClearStreak #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $4.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `clearstreak, productivity, local first, 864zeros, no subscription, android app, mobile app, privacy app, habit tracker`
+### 2. Full Product Demo (`16:9` Widescreen · `54.6s`)
+- **Video File:** `media/products/clearstreak/video/clearstreak-master.mp4`
+- **Captions (`WebVTT`):** `media/products/clearstreak/video/clearstreak-demo.vtt`
+- **Poster:** `media/products/clearstreak/video/clearstreak-fhg-poster-16x9.svg`
+- **Title:** `ClearStreak — Private On-Device Habit, Streak & Recovery Companion: Data Over Shame: Private Habit & Recovery Tracking You Truly Own (Full Walkthrough)`
 
 ---
 
-## ClearStreak (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/clearstreak/video/clearstreak-social-shame.mp4`
-* **Suggested Thumbnail:** `media/products/clearstreak/video/thumbnail-clearstreak-social-pain.png`
-* **YouTube Title:**
-```
-Why Habit Trackers Make You Feel Like Trash: ClearStreak #Shorts
-```
-* **YouTube Description:**
-```
-Why does every habit tracker make you feel like trash when you slip up? Miss one day, and they wipe your entire streak to zero.
+## DataNap — Local Tab Vault & Memory-Saving Deep Sleep Manager (`datanap` · `OIA`)
+- **Product URL:** https://864zeros.com/products/datanap
+- **DAM Vault:** `media/products/datanap/`
+- **D-UTA-TAG-ML Search Tags:** `onetab alternative local privacy, the great suspender safe alternative, browser tab memory saver extension, deep sleep idle chrome tabs, local tab vault & session manager, export saved tabs to markdown, reduce chrome & edge ram usage, crash proof tab stasher extension, no cloud tab suspender, privacy-first tab manager`
 
-Meet ClearStreak — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `30.65s`)
+- **Video File:** `media/products/datanap/video/datanap-short.mp4`
+- **Captions (`WebVTT`):** `media/products/datanap/video/datanap-short.vtt`
+- **Poster:** `media/products/datanap/video/datanap-fhg-poster-9x16.svg`
+- **Title:** `Reclaim Your Browser RAM Without Losing a Single Research Tab — DataNap #Shorts`
 
-👉 Get ClearStreak: https://864zeros.com/products/clearstreak
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $4.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `clearstreak, productivity, local first, 864zeros, no subscription, android app, mobile app, privacy app, habit tracker`
+### 2. Full Product Demo (`16:9` Widescreen · `51.5s`)
+- **Video File:** `media/products/datanap/video/datanap-master.mp4`
+- **Captions (`WebVTT`):** `media/products/datanap/video/datanap-demo.vtt`
+- **Poster:** `media/products/datanap/video/datanap-fhg-poster-16x9.svg`
+- **Title:** `DataNap — Local Tab Vault & Memory-Saving Deep Sleep Manager: Reclaim Your Browser RAM Without Losing a Single Research Tab (Full Walkthrough)`
 
 ---
 
-## ClearStreak (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/clearstreak/video/clearstreak-social-privacy.mp4`
-* **Suggested Thumbnail:** `media/products/clearstreak/video/thumbnail-clearstreak-social-price.png`
-* **YouTube Title:**
-```
-Who Else Has Access to Habits You Want to Break?: ClearStreak #Shorts
-```
-* **YouTube Description:**
-```
-Who has access to the habits you're secretly trying to break? Most wellness apps upload your struggles to cloud servers.
+## DocWatermarker — Instant Watermarks, Draft Stamps & Timestamps for Google Docs (`docwatermarker` · `864F`)
+- **Product URL:** https://864zeros.com/products/docwatermarker
+- **DAM Vault:** `media/products/docwatermarker/`
+- **D-UTA-TAG-ML Search Tags:** `add watermark in google docs, batch remove draft watermark google docs, confidential header stamp google docs, automatic date & time stamp google docs, legal draft watermark add-on, multi-section header footer stamper, private document watermarking tool, custom watermark presets google workspace, pdf draft stamp generator google docs, no subscription google docs add-on`
 
-ClearStreak gives you complete control with a single $4.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `31.71s`)
+- **Video File:** `media/products/docwatermarker/video/docwatermarker-short.mp4`
+- **Captions (`WebVTT`):** `media/products/docwatermarker/video/docwatermarker-short.vtt`
+- **Poster:** `media/products/docwatermarker/video/docwatermarker-fhg-poster-9x16.svg`
+- **Title:** `Stamp or Clear Document Watermarks in One Click—Without Breaking Layouts — DocWatermarker #Shorts`
 
-👉 Get ClearStreak: https://864zeros.com/products/clearstreak
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `clearstreak, productivity, local first, 864zeros, no subscription, android app, mobile app, privacy app, habit tracker`
+### 2. Full Product Demo (`16:9` Widescreen · `54.38s`)
+- **Video File:** `media/products/docwatermarker/video/docwatermarker-master.mp4`
+- **Captions (`WebVTT`):** `media/products/docwatermarker/video/docwatermarker-demo.vtt`
+- **Poster:** `media/products/docwatermarker/video/docwatermarker-fhg-poster-16x9.svg`
+- **Title:** `DocWatermarker — Instant Watermarks, Draft Stamps & Timestamps for Google Docs: Stamp or Clear Document Watermarks in One Click—Without Breaking Layouts (Full Walkthrough)`
 
 ---
 
-## SnapLabel (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/snaplabel/video/snaplabel-short.mp4`
-* **Suggested Thumbnail:** `media/products/snaplabel/video/thumbnail.png` (or `snaplabel-thumbnail.png`)
-* **YouTube Title:**
-```
-Zero-Drift Avery & Barcode Merge — SnapLabel #Shorts
-```
-* **YouTube Description:**
-```
-Merge Google Sheets into millimeter-calibrated Avery labels, envelopes, and barcodes. 100% local-first in Apps Script — zero external data transfer.
+## DriveDrop — Client File Request & Direct-to-Drive Upload Portal (`drivedrop` · `864F`)
+- **Product URL:** https://864zeros.com/products/drivedrop
+- **DAM Vault:** `media/products/drivedrop/`
+- **D-UTA-TAG-ML Search Tags:** `google drive file request link no sign in, google forms file upload without sign in, collect files from clients to google drive, filedrop & pigeonfiles alternative, client document upload portal google drive, receive files in google drive from anyone, secure vendor file dropzone google workspace, auto rename uploaded files google drive, pin protected google drive upload page, no subscription client file portal`
 
-👉 Try SnapLabel: https://864zeros.com/products/snaplabel
+### 1. Quick Overview Short (`9:16` Vertical · `32.14s`)
+- **Video File:** `media/products/drivedrop/video/drivedrop-short.mp4`
+- **Captions (`WebVTT`):** `media/products/drivedrop/video/drivedrop-short.vtt`
+- **Poster:** `media/products/drivedrop/video/drivedrop-fhg-poster-9x16.svg`
+- **Title:** `Collect Client Files Directly Into Your Google Drive—With Zero Google Sign-In Wall — DriveDrop #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $29.00 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `snaplabel, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `54.67s`)
+- **Video File:** `media/products/drivedrop/video/drivedrop-master.mp4`
+- **Captions (`WebVTT`):** `media/products/drivedrop/video/drivedrop-demo.vtt`
+- **Poster:** `media/products/drivedrop/video/drivedrop-fhg-poster-16x9.svg`
+- **Title:** `DriveDrop — Client File Request & Direct-to-Drive Upload Portal: Collect Client Files Directly Into Your Google Drive—With Zero Google Sign-In Wall (Full Walkthrough)`
 
 ---
 
-## SnapLabel (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/snaplabel/video/snaplabel-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/snaplabel/video/thumbnail-snaplabel-social-pain.png`
-* **YouTube Title:**
-```
-Wasted Label Sheets & Alignment Drifts — SnapLabel #Shorts
-```
-* **YouTube Description:**
-```
-Ever printed 30 address labels only to watch every single one drift completely off the stickers?
+## DriveSweep — Private Google Drive Duplicate Finder & Storage Cleaner (`drivesweep` · `864F`)
+- **Product URL:** https://864zeros.com/products/drivesweep
+- **DAM Vault:** `media/products/drivesweep/`
+- **D-UTA-TAG-ML Search Tags:** `google drive duplicate file finder, remove duplicate files in google drive, clean up google drive storage space, find copy of files google drive, private google drive cleaner add-on, delete empty & orphan files google drive, cloud duplicate finder alternative no upload, audit google drive large files in sheets, safe duplicate remover google workspace, one-time license drive storage cleaner`
 
-Meet SnapLabel — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `31.59s`)
+- **Video File:** `media/products/drivesweep/video/drivesweep-short.mp4`
+- **Captions (`WebVTT`):** `media/products/drivesweep/video/drivesweep-short.vtt`
+- **Poster:** `media/products/drivesweep/video/drivesweep-fhg-poster-9x16.svg`
+- **Title:** `Reclaim Gigabytes of Google Drive Space—Without Handing Keys to a Cloud Cleaner — DriveSweep #Shorts`
 
-👉 Get SnapLabel: https://864zeros.com/products/snaplabel
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $29.00 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `snaplabel, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `51.67s`)
+- **Video File:** `media/products/drivesweep/video/drivesweep-master.mp4`
+- **Captions (`WebVTT`):** `media/products/drivesweep/video/drivesweep-demo.vtt`
+- **Poster:** `media/products/drivesweep/video/drivesweep-fhg-poster-16x9.svg`
+- **Title:** `DriveSweep — Private Google Drive Duplicate Finder & Storage Cleaner: Reclaim Gigabytes of Google Drive Space—Without Handing Keys to a Cloud Cleaner (Full Walkthrough)`
 
 ---
 
-## SnapLabel (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/snaplabel/video/snaplabel-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/snaplabel/video/thumbnail-snaplabel-social-price.png`
-* **YouTube Title:**
-```
-Stop Paying $50/Year Subscriptions to Print Labels — SnapLabel #Shorts
-```
-* **YouTube Description:**
-```
-Why are cloud services charging $50 a year just to align text boxes into Avery grids?
+## DriveVault — Encrypted Local Snapshot & Offline Backup for Google Drive (`drivevault` · `864F`)
+- **Product URL:** https://864zeros.com/products/drivevault
+- **DAM Vault:** `media/products/drivevault/`
+- **D-UTA-TAG-ML Search Tags:** `encrypted offline backup google drive, export google drive folder to encrypted zip, spanning & afi backup local alternative, protect against google account lockout, zero knowledge google workspace backup, convert google docs sheets to local backup, aes-256 local archive google drive, sovereign disaster recovery google drive, download encrypted drive snapshot, no subscription google drive backup tool`
 
-SnapLabel gives you complete control with a single $29.00 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `34.23s`)
+- **Video File:** `media/products/drivevault/video/drivevault-short.mp4`
+- **Captions (`WebVTT`):** `media/products/drivevault/video/drivevault-short.vtt`
+- **Poster:** `media/products/drivevault/video/drivevault-fhg-poster-9x16.svg`
+- **Title:** `Hold an Encrypted Offline Copy of Your Most Important Google Drive Folders — DriveVault #Shorts`
 
-👉 Get SnapLabel: https://864zeros.com/products/snaplabel
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `snaplabel, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `51.86s`)
+- **Video File:** `media/products/drivevault/video/drivevault-master.mp4`
+- **Captions (`WebVTT`):** `media/products/drivevault/video/drivevault-demo.vtt`
+- **Poster:** `media/products/drivevault/video/drivevault-fhg-poster-16x9.svg`
+- **Title:** `DriveVault — Encrypted Local Snapshot & Offline Backup for Google Drive: Hold an Encrypted Offline Copy of Your Most Important Google Drive Folders (Full Walkthrough)`
 
 ---
 
-## ChoiceGuard (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/choiceguard/video/choiceguard-short.mp4`
-* **Suggested Thumbnail:** `media/products/choiceguard/video/thumbnail.png` (or `choiceguard-thumbnail.png`)
-* **YouTube Title:**
-```
-Concurrency-Safe Option Elimination — ChoiceGuard #Shorts
-```
-* **YouTube Description:**
-```
-Dynamically eliminate options in Google Forms as capacity fills. Concurrency-safe, local-first inventory and sign-up limits with zero monthly subscriptions.
+## Form2Docx — Automatic Google Forms to Docs & PDF Document Merge (`form2docx` · `864F`)
+- **Product URL:** https://864zeros.com/products/form2docx
+- **DAM Vault:** `media/products/form2docx/`
+- **D-UTA-TAG-ML Search Tags:** `google forms to google docs merge, generate pdf from google form submission, form publisher alternative no subscription, document studio & autocrat alternative, automate contracts from google forms, google forms intake to pdf generator, no watermark form to doc add-on, custom pdf naming google forms, in-account document merge google workspace, one-time license form to pdf tool`
 
-👉 Try ChoiceGuard: https://864zeros.com/products/choiceguard
+### 1. Quick Overview Short (`9:16` Vertical · `31.25s`)
+- **Video File:** `media/products/form2docx/video/form2docx-short.mp4`
+- **Captions (`WebVTT`):** `media/products/form2docx/video/form2docx-short.vtt`
+- **Poster:** `media/products/form2docx/video/form2docx-fhg-poster-9x16.svg`
+- **Title:** `Turn Form Submissions Into Finished Docs & PDFs Automatically — Form2Docx #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $7.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `choiceguard, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `55.77s`)
+- **Video File:** `media/products/form2docx/video/form2docx-master.mp4`
+- **Captions (`WebVTT`):** `media/products/form2docx/video/form2docx-demo.vtt`
+- **Poster:** `media/products/form2docx/video/form2docx-fhg-poster-16x9.svg`
+- **Title:** `Form2Docx — Automatic Google Forms to Docs & PDF Document Merge: Turn Form Submissions Into Finished Docs & PDFs Automatically (Full Walkthrough)`
 
 ---
 
-## ChoiceGuard (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/choiceguard/video/choiceguard-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/choiceguard/video/thumbnail-choiceguard-social-pain.png`
-* **YouTube Title:**
-```
-Double Bookings & Over-Capacity Collisions — ChoiceGuard #Shorts
-```
-* **YouTube Description:**
-```
-Two parents clicked the exact same volunteer slot at 8:01 AM. Who gets the seat?
+## FormNotifier — Conditional Email Alerts & Clean Autoresponders for Google Forms (`formnotifier` · `864F`)
+- **Product URL:** https://864zeros.com/products/formnotifier
+- **DAM Vault:** `media/products/formnotifier/`
+- **D-UTA-TAG-ML Search Tags:** `conditional email notifications google forms, send confirmation email to form respondent, email notifications for google forms alternative, route google form responses by answer, no watermark google forms autoresponder, custom html email template google forms, alert different emails based on form choice, private google forms email trigger, form receipt generator google workspace, one-time unlock form notification add-on`
 
-Meet ChoiceGuard — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `32.57s`)
+- **Video File:** `media/products/formnotifier/video/formnotifier-short.mp4`
+- **Captions (`WebVTT`):** `media/products/formnotifier/video/formnotifier-short.vtt`
+- **Poster:** `media/products/formnotifier/video/formnotifier-fhg-poster-9x16.svg`
+- **Title:** `Route Form Alerts to the Right Person—Without Promotional Watermarks — FormNotifier #Shorts`
 
-👉 Get ChoiceGuard: https://864zeros.com/products/choiceguard
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $7.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `choiceguard, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `51.5s`)
+- **Video File:** `media/products/formnotifier/video/formnotifier-master.mp4`
+- **Captions (`WebVTT`):** `media/products/formnotifier/video/formnotifier-demo.vtt`
+- **Poster:** `media/products/formnotifier/video/formnotifier-fhg-poster-16x9.svg`
+- **Title:** `FormNotifier — Conditional Email Alerts & Clean Autoresponders for Google Forms: Route Form Alerts to the Right Person—Without Promotional Watermarks (Full Walkthrough)`
 
 ---
 
-## ChoiceGuard (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/choiceguard/video/choiceguard-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/choiceguard/video/thumbnail-choiceguard-social-price.png`
-* **YouTube Title:**
-```
-No Monthly Rent for Form Limiters — ChoiceGuard #Shorts
-```
-* **YouTube Description:**
-```
-Stop paying monthly subscription fees just to count how many times an option was chosen.
+## FormQR & Barcode — Permanent Static QR & Code-128 Generator for Sheets & Drive (`formqr` · `864F`)
+- **Product URL:** https://864zeros.com/products/formqr
+- **DAM Vault:** `media/products/formqr/`
+- **D-UTA-TAG-ML Search Tags:** `permanent qr code generator google sheets, non-expiring static qr code add-on, bulk barcode generator google sheets, code-128 inventory barcode google drive, create qr codes in google sheets without redirect, event badge qr generator google workspace, Insert qr code image in google sheets cell, no subscription qr & barcode maker, print ready vector qr code google drive, anti-hostage static qr code tool`
 
-ChoiceGuard gives you complete control with a single $7.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `33.6s`)
+- **Video File:** `media/products/formqr/video/formqr-short.mp4`
+- **Captions (`WebVTT`):** `media/products/formqr/video/formqr-short.vtt`
+- **Poster:** `media/products/formqr/video/formqr-fhg-poster-9x16.svg`
+- **Title:** `Permanent QR Codes & Barcodes That Never Expire or Hold Your Links Hostage — FormQR #Shorts`
 
-👉 Get ChoiceGuard: https://864zeros.com/products/choiceguard
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `choiceguard, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `56.73s`)
+- **Video File:** `media/products/formqr/video/formqr-master.mp4`
+- **Captions (`WebVTT`):** `media/products/formqr/video/formqr-demo.vtt`
+- **Poster:** `media/products/formqr/video/formqr-fhg-poster-16x9.svg`
+- **Title:** `FormQR & Barcode — Permanent Static QR & Code-128 Generator for Sheets & Drive: Permanent QR Codes & Barcodes That Never Expire or Hold Your Links Hostage (Full Walkthrough)`
 
 ---
 
-## DocWatermarker Pro (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/docwatermarker/video/docwatermarker-short.mp4`
-* **Suggested Thumbnail:** `media/products/docwatermarker/video/thumbnail.png` (or `docwatermarker-thumbnail.png`)
-* **YouTube Title:**
-```
-Header & Footer Confidentiality Stamps — DocWatermarker Pro #Shorts
-```
-* **YouTube Description:**
-```
-Inject confidentiality stamps, draft notices, and dynamic timestamps into Google Docs headers and footers entirely client-side. Zero external server routing.
+## FormTimer — Native Exam Cutoff & Session Timer for Google Forms (`formtimer` · `864F`)
+- **Product URL:** https://864zeros.com/products/formtimer
+- **DAM Vault:** `media/products/formtimer/`
+- **D-UTA-TAG-ML Search Tags:** `google forms timer add-on, quilgo & form presenter alternative, timed quiz in google forms no redirect, auto close google form at specific time, google classroom compatible form timer, set time limit on google forms quiz, ferpa safe exam timer google workspace, unlimited student tests google forms timer, countdown & cutoff trigger google forms, no subscription teacher form timer`
 
-👉 Try DocWatermarker Pro: https://864zeros.com/products/docwatermarker
+### 1. Quick Overview Short (`9:16` Vertical · `32.38s`)
+- **Video File:** `media/products/formtimer/video/formtimer-short.mp4`
+- **Captions (`WebVTT`):** `media/products/formtimer/video/formtimer-short.vtt`
+- **Poster:** `media/products/formtimer/video/formtimer-fhg-poster-9x16.svg`
+- **Title:** `Timed Google Forms Quizzes—Without Forcing Students Onto External Portals — FormTimer #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $9.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `docwatermarker, docwatermarker pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `54.91s`)
+- **Video File:** `media/products/formtimer/video/formtimer-master.mp4`
+- **Captions (`WebVTT`):** `media/products/formtimer/video/formtimer-demo.vtt`
+- **Poster:** `media/products/formtimer/video/formtimer-fhg-poster-16x9.svg`
+- **Title:** `FormTimer — Native Exam Cutoff & Session Timer for Google Forms: Timed Google Forms Quizzes—Without Forcing Students Onto External Portals (Full Walkthrough)`
 
 ---
 
-## DocWatermarker Pro (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/docwatermarker/video/docwatermarker-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/docwatermarker/video/thumbnail-docwatermarker-social-pain.png`
-* **YouTube Title:**
-```
-Formatting Damage Across 40-Page Contracts — DocWatermarker Pro #Shorts
-```
-* **YouTube Description:**
-```
-Ever spent 20 minutes manually removing 'DRAFT' watermarks from 40 pages and ruined every table?
+## LinkLater — Local Read-Later Vault & One-Click Obsidian Bridge (`link-later` · `CMC`)
+- **Product URL:** https://864zeros.com/products/link-later
+- **DAM Vault:** `media/products/link-later/`
+- **D-UTA-TAG-ML Search Tags:** `pocket & instapaper local alternative, read it later chrome extension no account, send saved links to obsidian vault, bookmark manager with notes and tags, export reading list to markdown, raindrop io offline privacy alternative, side panel read later browser tool, local article saver for researchers, no subscription read later extension, private bookmark & quote clipper`
 
-Meet DocWatermarker Pro — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `29.83s`)
+- **Video File:** `media/products/link-later/video/link-later-short.mp4`
+- **Captions (`WebVTT`):** `media/products/link-later/video/link-later-short.vtt`
+- **Poster:** `media/products/link-later/video/link-later-fhg-poster-9x16.svg`
+- **Title:** `A Private Read-Later List That Never Shuts Down or Locks Up Your Notes — LinkLater #Shorts`
 
-👉 Get DocWatermarker Pro: https://864zeros.com/products/docwatermarker
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $9.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `docwatermarker, docwatermarker pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `52.72s`)
+- **Video File:** `media/products/link-later/video/link-later-master.mp4`
+- **Captions (`WebVTT`):** `media/products/link-later/video/link-later-demo.vtt`
+- **Poster:** `media/products/link-later/video/link-later-fhg-poster-16x9.svg`
+- **Title:** `LinkLater — Local Read-Later Vault & One-Click Obsidian Bridge: A Private Read-Later List That Never Shuts Down or Locks Up Your Notes (Full Walkthrough)`
 
 ---
 
-## DocWatermarker Pro (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/docwatermarker/video/docwatermarker-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/docwatermarker/video/thumbnail-docwatermarker-social-price.png`
-* **YouTube Title:**
-```
-Monthly SaaS Rent for Simple Status Stamps — DocWatermarker Pro #Shorts
-```
-* **YouTube Description:**
-```
-Why pay a recurring monthly SaaS subscription just to stamp 'CONFIDENTIAL' on your own Docs?
+## MailSync Shield — Privacy-First Google Sheets Mail Merge Without Inbox Snooping (`mailsyncshield` · `864F`)
+- **Product URL:** https://864zeros.com/products/mailsyncshield
+- **DAM Vault:** `media/products/mailsyncshield/`
+- **D-UTA-TAG-ML Search Tags:** `google sheets mail merge no inbox read permission, yet another mail merge yamm alternative, mailmeteor & gmass privacy alternative, send personalized emails from google sheets, least privilege gmail mail merge add-on, no watermark mail merge google workspace, one-time license google sheets mail merge, private donor & client outreach sheets, quota aware gmail merge dispatcher, secure in-account email merge tool`
 
-DocWatermarker Pro gives you complete control with a single $9.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `31.37s`)
+- **Video File:** `media/products/mailsyncshield/video/mailsyncshield-short.mp4`
+- **Captions (`WebVTT`):** `media/products/mailsyncshield/video/mailsyncshield-short.vtt`
+- **Poster:** `media/products/mailsyncshield/video/mailsyncshield-fhg-poster-9x16.svg`
+- **Title:** `Personalized Google Sheets Mail Merge—Without Letting a Vendor Read Your Inbox — MailSync Shield #Shorts`
 
-👉 Get DocWatermarker Pro: https://864zeros.com/products/docwatermarker
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `docwatermarker, docwatermarker pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `52.08s`)
+- **Video File:** `media/products/mailsyncshield/video/mailsyncshield-master.mp4`
+- **Captions (`WebVTT`):** `media/products/mailsyncshield/video/mailsyncshield-demo.vtt`
+- **Poster:** `media/products/mailsyncshield/video/mailsyncshield-fhg-poster-16x9.svg`
+- **Title:** `MailSync Shield — Privacy-First Google Sheets Mail Merge Without Inbox Snooping: Personalized Google Sheets Mail Merge—Without Letting a Vendor Read Your Inbox (Full Walkthrough)`
 
 ---
 
-## FormTimer Pro (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/formtimer/video/formtimer-short.mp4`
-* **Suggested Thumbnail:** `media/products/formtimer/video/thumbnail.png` (or `formtimer-thumbnail.png`)
-* **YouTube Title:**
-```
-Native Exam Countdown & Hard Cutoff — FormTimer Pro #Shorts
-```
-* **YouTube Description:**
-```
-Turn Google Forms into timed exams and quizzes with automated submission cutoff. 100% native Apps Script execution, zero external redirects, and zero recurring subscriptions.
+## Focus Note — Calm Single-Surface Scratchpad That Clears After 24 Hours (`oia-focus-note` · `OIA`)
+- **Product URL:** https://864zeros.com/products/oia-focus-note
+- **DAM Vault:** `media/products/oia-focus-note/`
+- **D-UTA-TAG-ML Search Tags:** `ephemeral browser scratchpad extension, adhd working memory side panel note, auto clearing daily scratchpad chrome, minimalist side panel notepad no account, temporary note extension 100% local, zero clutter browser quick note, distraction free side panel text pad, private local browser clipboard notepad, anti-overwhelm note tool for adhd, no cloud browser scratchpad`
 
-👉 Try FormTimer Pro: https://864zeros.com/products/formtimer
+### 1. Quick Overview Short (`9:16` Vertical · `32.35s`)
+- **Video File:** `media/products/oia-focus-note/video/oia-focus-note-short.mp4`
+- **Captions (`WebVTT`):** `media/products/oia-focus-note/video/oia-focus-note-short.vtt`
+- **Poster:** `media/products/oia-focus-note/video/oia-focus-note-fhg-poster-9x16.svg`
+- **Title:** `One Calm Scratchpad for Right Now—Zero Note-Graveyard Guilt — Focus Note #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $9.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `formtimer, formtimer pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `51.84s`)
+- **Video File:** `media/products/oia-focus-note/video/oia-focus-note-master.mp4`
+- **Captions (`WebVTT`):** `media/products/oia-focus-note/video/oia-focus-note-demo.vtt`
+- **Poster:** `media/products/oia-focus-note/video/oia-focus-note-fhg-poster-16x9.svg`
+- **Title:** `Focus Note — Calm Single-Surface Scratchpad That Clears After 24 Hours: One Calm Scratchpad for Right Now—Zero Note-Graveyard Guilt (Full Walkthrough)`
 
 ---
 
-## FormTimer Pro (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/formtimer/video/formtimer-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/formtimer/video/thumbnail-formtimer-social-pain.png`
-* **YouTube Title:**
-```
-Students Submitting Tests 2 Hours Late — FormTimer Pro #Shorts
-```
-* **YouTube Description:**
-```
-You set a 60-minute test, but three students managed to submit their Google Form at midnight.
+## Focus Wall — Bounded 10-Sticky-Note Visual Board in Your Browser Side Panel (`oia-focus-wall` · `OIA`)
+- **Product URL:** https://864zeros.com/products/oia-focus-wall
+- **DAM Vault:** `media/products/oia-focus-wall/`
+- **D-UTA-TAG-ML Search Tags:** `browser side panel sticky notes extension, adhd visual working memory board, persistent sticky notes across chrome tabs, minimalist 10 note kanban scratchpad, local sticky notes no cloud account, color coded side panel reminder cards, anti-sprawl sticky note board chrome edge, private offline browser sticky notes, export sticky notes to text file, no subscription visual note extension`
 
-Meet FormTimer Pro — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `30.7s`)
+- **Video File:** `media/products/oia-focus-wall/video/oia-focus-wall-short.mp4`
+- **Captions (`WebVTT`):** `media/products/oia-focus-wall/video/oia-focus-wall-short.vtt`
+- **Poster:** `media/products/oia-focus-wall/video/oia-focus-wall-fhg-poster-9x16.svg`
+- **Title:** `Visual Sticky Notes That Stay in Sight—Without Infinite-Canvas Overwhelm — Focus Wall #Shorts`
 
-👉 Get FormTimer Pro: https://864zeros.com/products/formtimer
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $9.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `formtimer, formtimer pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `49.65s`)
+- **Video File:** `media/products/oia-focus-wall/video/oia-focus-wall-master.mp4`
+- **Captions (`WebVTT`):** `media/products/oia-focus-wall/video/oia-focus-wall-demo.vtt`
+- **Poster:** `media/products/oia-focus-wall/video/oia-focus-wall-fhg-poster-16x9.svg`
+- **Title:** `Focus Wall — Bounded 10-Sticky-Note Visual Board in Your Browser Side Panel: Visual Sticky Notes That Stay in Sight—Without Infinite-Canvas Overwhelm (Full Walkthrough)`
 
 ---
 
-## FormTimer Pro (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/formtimer/video/formtimer-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/formtimer/video/thumbnail-formtimer-social-price.png`
-* **YouTube Title:**
-```
-Per-Teacher Recurring Subscription Upsells — FormTimer Pro #Shorts
-```
-* **YouTube Description:**
-```
-Classroom timer add-ons charging $8/month per teacher? Keep your money and your students on time.
+## OmniClip — 100% Local AI Video Repurposing & Viral 9:16 Shorts Studio (`omniclip` · `CMM`)
+- **Product URL:** https://864zeros.com/products/omniclip
+- **DAM Vault:** `media/products/omniclip/`
+- **D-UTA-TAG-ML Search Tags:** `local ai video clipper no cloud upload, opusclip & munch offline alternative, convert long video to 9:16 shorts locally, automatic face tracking vertical video crop, local whisper kinetic captions generator, unlimited ai shorts maker one-time purchase, podcast to youtube shorts desktop app, nda safe offline video repurposing tool, word level transcript video trimmer, zero subscription viral clip studio`
 
-FormTimer Pro gives you complete control with a single $9.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `32.21s`)
+- **Video File:** `media/products/omniclip/video/omniclip-short.mp4`
+- **Captions (`WebVTT`):** `media/products/omniclip/video/omniclip-short.vtt`
+- **Poster:** `media/products/omniclip/video/omniclip-fhg-poster-9x16.svg`
+- **Title:** `Turn Long Videos Into Viral 9:16 Shorts—With Zero Cloud Upload Waits or Per-Minute Rent — OmniClip #Shorts`
 
-👉 Get FormTimer Pro: https://864zeros.com/products/formtimer
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `formtimer, formtimer pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `51.6s`)
+- **Video File:** `media/products/omniclip/video/omniclip-master.mp4`
+- **Captions (`WebVTT`):** `media/products/omniclip/video/omniclip-demo.vtt`
+- **Poster:** `media/products/omniclip/video/omniclip-fhg-poster-16x9.svg`
+- **Title:** `OmniClip — 100% Local AI Video Repurposing & Viral 9:16 Shorts Studio: Turn Long Videos Into Viral 9:16 Shorts—With Zero Cloud Upload Waits or Per-Minute Rent (Full Walkthrough)`
 
 ---
 
-## RowArchiver (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/rowarchiver/video/rowarchiver-short.mp4`
-* **Suggested Thumbnail:** `media/products/rowarchiver/video/thumbnail.png` (or `rowarchiver-thumbnail.png`)
-* **YouTube Title:**
-```
-Bottom-Up Performance Optimization — RowArchiver #Shorts
-```
-* **YouTube Description:**
-```
-Automatically move completed, dated, or inactive rows to archive tabs. Speed up lagging Google Sheets, prevent bloat, and eliminate recurring sync tool subscriptions.
+## RowArchiver — Automated Conditional Row Archiving & Google Sheets Speed Optimizer (`rowarchiver` · `864F`)
+- **Product URL:** https://864zeros.com/products/rowarchiver
+- **DAM Vault:** `media/products/rowarchiver/`
+- **D-UTA-TAG-ML Search Tags:** `automatically move completed rows google sheets, archive old rows in google sheets automatically, speed up slow lagging google sheets, move row to another tab based on cell value, conditional row archiver google workspace, delete or archive done rows google sheets, zapier & make alternative for sheet archiving, scheduled spreadsheet cleanup add-on, in-account google sheets optimizer, no subscription sheet row mover`
 
-👉 Try RowArchiver: https://864zeros.com/products/rowarchiver
+### 1. Quick Overview Short (`9:16` Vertical · `31.08s`)
+- **Video File:** `media/products/rowarchiver/video/rowarchiver-short.mp4`
+- **Captions (`WebVTT`):** `media/products/rowarchiver/video/rowarchiver-short.vtt`
+- **Poster:** `media/products/rowarchiver/video/rowarchiver-fhg-poster-9x16.svg`
+- **Title:** `Keep Your Live Google Sheets Sub-Second Fast—Without Deleting Historical Data — RowArchiver #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `rowarchiver, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `51.5s`)
+- **Video File:** `media/products/rowarchiver/video/rowarchiver-master.mp4`
+- **Captions (`WebVTT`):** `media/products/rowarchiver/video/rowarchiver-demo.vtt`
+- **Poster:** `media/products/rowarchiver/video/rowarchiver-fhg-poster-16x9.svg`
+- **Title:** `RowArchiver — Automated Conditional Row Archiving & Google Sheets Speed Optimizer: Keep Your Live Google Sheets Sub-Second Fast—Without Deleting Historical Data (Full Walkthrough)`
 
 ---
 
-## RowArchiver (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/rowarchiver/video/rowarchiver-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/rowarchiver/video/thumbnail-rowarchiver-social-pain.png`
-* **YouTube Title:**
-```
-10,000-Row Sheets Freezing Your Browser — RowArchiver #Shorts
-```
-* **YouTube Description:**
-```
-Every time you open your team tracker, your browser completely locks up for 30 seconds.
+## Sheet2Calendar — Idempotent Spreadsheet-to-Google Calendar Sync Engine (`sheet2calendar` · `864F`)
+- **Product URL:** https://864zeros.com/products/sheet2calendar
+- **DAM Vault:** `media/products/sheet2calendar/`
+- **D-UTA-TAG-ML Search Tags:** `sync google sheets to google calendar without duplicates, create calendar events from google sheets automatically, two-way update google sheets to calendar, sheet2cal & calendar sync alternative, batch import spreadsheet schedule to google calendar, project deadline tracker sheets to calendar, update existing google calendar events from sheet, private in-account calendar sync add-on, content & shift calendar generator sheets, no subscription sheets to calendar tool`
 
-Meet RowArchiver — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `31.68s`)
+- **Video File:** `media/products/sheet2calendar/video/sheet2calendar-short.mp4`
+- **Captions (`WebVTT`):** `media/products/sheet2calendar/video/sheet2calendar-short.vtt`
+- **Poster:** `media/products/sheet2calendar/video/sheet2calendar-fhg-poster-9x16.svg`
+- **Title:** `Sync Spreadsheet Schedules to Google Calendar—With Zero Duplicate Events — Sheet2Calendar #Shorts`
 
-👉 Get RowArchiver: https://864zeros.com/products/rowarchiver
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $12.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `rowarchiver, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `52.7s`)
+- **Video File:** `media/products/sheet2calendar/video/sheet2calendar-master.mp4`
+- **Captions (`WebVTT`):** `media/products/sheet2calendar/video/sheet2calendar-demo.vtt`
+- **Poster:** `media/products/sheet2calendar/video/sheet2calendar-fhg-poster-16x9.svg`
+- **Title:** `Sheet2Calendar — Idempotent Spreadsheet-to-Google Calendar Sync Engine: Sync Spreadsheet Schedules to Google Calendar—With Zero Duplicate Events (Full Walkthrough)`
 
 ---
 
-## RowArchiver (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/rowarchiver/video/rowarchiver-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/rowarchiver/video/thumbnail-rowarchiver-social-price.png`
-* **YouTube Title:**
-```
-Enterprise Data Pipeline Subscription Paywalls — RowArchiver #Shorts
-```
-* **YouTube Description:**
-```
-You don't need a $100/month enterprise database sync just to archive closed rows from Google Sheets.
+## Sheet2Webhook — Instant & Scheduled JSON Webhook Dispatcher for Google Sheets (`sheet2webhook` · `864F`)
+- **Product URL:** https://864zeros.com/products/sheet2webhook
+- **DAM Vault:** `media/products/sheet2webhook/`
+- **D-UTA-TAG-ML Search Tags:** `send webhook from google sheets on edit, google sheets to slack & discord webhook, zapier & make alternative for google sheets webhooks, http post json from google sheets row, trigger rest api when google sheet changes, unlimited webhooks google sheets add-on, custom bearer token webhook google sheets, conditional row webhook dispatcher, no per-task fee spreadsheet automation, one-time license google sheets webhook tool`
 
-RowArchiver gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `32.45s`)
+- **Video File:** `media/products/sheet2webhook/video/sheet2webhook-short.mp4`
+- **Captions (`WebVTT`):** `media/products/sheet2webhook/video/sheet2webhook-short.vtt`
+- **Poster:** `media/products/sheet2webhook/video/sheet2webhook-fhg-poster-9x16.svg`
+- **Title:** `Fire Real-Time Webhooks From Google Sheets—Without Paying Per-Task Middleware Rent — Sheet2Webhook #Shorts`
 
-👉 Get RowArchiver: https://864zeros.com/products/rowarchiver
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `rowarchiver, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `52.39s`)
+- **Video File:** `media/products/sheet2webhook/video/sheet2webhook-master.mp4`
+- **Captions (`WebVTT`):** `media/products/sheet2webhook/video/sheet2webhook-demo.vtt`
+- **Poster:** `media/products/sheet2webhook/video/sheet2webhook-fhg-poster-16x9.svg`
+- **Title:** `Sheet2Webhook — Instant & Scheduled JSON Webhook Dispatcher for Google Sheets: Fire Real-Time Webhooks From Google Sheets—Without Paying Per-Task Middleware Rent (Full Walkthrough)`
 
 ---
 
-## MailSync Shield (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/mailsyncshield/video/mailsyncshield-short.mp4`
-* **Suggested Thumbnail:** `media/products/mailsyncshield/video/thumbnail.png` (or `mailsyncshield-thumbnail.png`)
-* **YouTube Title:**
-```
-Sovereign Direct Merge via Native Gmail — MailSync Shield #Shorts
-```
-* **YouTube Description:**
-```
-Personalized email merge engine operating directly from Google Sheets via native Gmail quotas. Zero external mail-relay servers, zero inbox snooping, and zero recurring subscriptions.
+## SheetSync — Fragile-IMPORTRANGE Replacement & Cross-Workbook Rollup Engine (`sheetsync` · `864F`)
+- **Product URL:** https://864zeros.com/products/sheetsync
+- **DAM Vault:** `media/products/sheetsync/`
+- **D-UTA-TAG-ML Search Tags:** `importrange alternative no ref error, sync two google sheets automatically, coupler io & sheetgo alternative no subscription, upsert rows between google sheets by id, consolidate multiple google sheets into one master, fix importrange loading slow google sheets, two-way editable sync google sheets, scheduled cross-workbook rollup add-on, private in-account spreadsheet connector, one-time unlock google sheets sync tool`
 
-👉 Try MailSync Shield: https://864zeros.com/products/mailsyncshield
+### 1. Quick Overview Short (`9:16` Vertical · `32.35s`)
+- **Video File:** `media/products/sheetsync/video/sheetsync-short.mp4`
+- **Captions (`WebVTT`):** `media/products/sheetsync/video/sheetsync-short.vtt`
+- **Poster:** `media/products/sheetsync/video/sheetsync-fhg-poster-9x16.svg`
+- **Title:** `Replace Fragile IMPORTRANGE Chains With Fast, Editable Cross-Sheet Sync — SheetSync #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `mailsyncshield, mailsync shield, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `51s`)
+- **Video File:** `media/products/sheetsync/video/sheetsync-master.mp4`
+- **Captions (`WebVTT`):** `media/products/sheetsync/video/sheetsync-demo.vtt`
+- **Poster:** `media/products/sheetsync/video/sheetsync-fhg-poster-16x9.svg`
+- **Title:** `SheetSync — Fragile-IMPORTRANGE Replacement & Cross-Workbook Rollup Engine: Replace Fragile IMPORTRANGE Chains With Fast, Editable Cross-Sheet Sync (Full Walkthrough)`
 
 ---
 
-## MailSync Shield (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/mailsyncshield/video/mailsyncshield-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/mailsyncshield/video/thumbnail-mailsyncshield-social-pain.png`
-* **YouTube Title:**
-```
-Third-Party Relays Reading Your Client Lists — MailSync Shield #Shorts
-```
-* **YouTube Description:**
-```
-Did you know most mail merge add-ons route your confidential client list through unknown external servers?
+## Signal2Noise — Daily 80/20 Priority Filter & Side-Panel Focus Pill (`signal2noise` · `OIA`)
+- **Product URL:** https://864zeros.com/products/signal2noise
+- **DAM Vault:** `media/products/signal2noise/`
+- **D-UTA-TAG-ML Search Tags:** `steve jobs signal to noise daily task app, minimalist top 3 priority browser extension, adhd anti-overwhelm daily todo side panel, 80/20 focus priority filter chrome extension, calm daily standup task list no account, replace bloated todo apps with daily signal, local browser priority pill extension, export daily tasks to markdown or slack, zero telemetry focus task manager, no subscription daily priority tool`
 
-Meet MailSync Shield — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `32.76s`)
+- **Video File:** `media/products/signal2noise/video/signal2noise-short.mp4`
+- **Captions (`WebVTT`):** `media/products/signal2noise/video/signal2noise-short.vtt`
+- **Poster:** `media/products/signal2noise/video/signal2noise-fhg-poster-9x16.svg`
+- **Title:** `Separate Today’s True Signal From the 100-Task Backlog Noise — Signal2Noise #Shorts`
 
-👉 Get MailSync Shield: https://864zeros.com/products/mailsyncshield
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $12.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `mailsyncshield, mailsync shield, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `54.26s`)
+- **Video File:** `media/products/signal2noise/video/signal2noise-master.mp4`
+- **Captions (`WebVTT`):** `media/products/signal2noise/video/signal2noise-demo.vtt`
+- **Poster:** `media/products/signal2noise/video/signal2noise-fhg-poster-16x9.svg`
+- **Title:** `Signal2Noise — Daily 80/20 Priority Filter & Side-Panel Focus Pill: Separate Today’s True Signal From the 100-Task Backlog Noise (Full Walkthrough)`
 
 ---
 
-## MailSync Shield (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/mailsyncshield/video/mailsyncshield-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/mailsyncshield/video/thumbnail-mailsyncshield-social-price.png`
-* **YouTube Title:**
-```
-Paying $40/Year Recurring for Basic Mail Merge — MailSync Shield #Shorts
-```
-* **YouTube Description:**
-```
-Why pay a recurring $40 yearly subscription for something your Google account already does for free?
+## SignRoute — Unlimited Digital Signatures & Sealed PDF Routing in Google Docs (`signroute` · `864F`)
+- **Product URL:** https://864zeros.com/products/signroute
+- **DAM Vault:** `media/products/signroute/`
+- **D-UTA-TAG-ML Search Tags:** `insert digital signature in google docs, docusign & hellosign alternative for google docs, sign google doc and save as pdf to drive, unlimited e-signature add-on no envelope fee, draw signature in google docs sidebar, stamp signature & timestamp google workspace, private in-account contract signing tool, nda & approval signature stamp google docs, no subscription electronic signature add-on, one-time license google docs e-sign`
 
-MailSync Shield gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `32.19s`)
+- **Video File:** `media/products/signroute/video/signroute-short.mp4`
+- **Captions (`WebVTT`):** `media/products/signroute/video/signroute-short.vtt`
+- **Poster:** `media/products/signroute/video/signroute-fhg-poster-9x16.svg`
+- **Title:** `Sign Google Docs & Archive Sealed PDFs—Without Per-Envelope SaaS Rent — SignRoute #Shorts`
 
-👉 Get MailSync Shield: https://864zeros.com/products/mailsyncshield
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `mailsyncshield, mailsync shield, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `52.15s`)
+- **Video File:** `media/products/signroute/video/signroute-master.mp4`
+- **Captions (`WebVTT`):** `media/products/signroute/video/signroute-demo.vtt`
+- **Poster:** `media/products/signroute/video/signroute-fhg-poster-16x9.svg`
+- **Title:** `SignRoute — Unlimited Digital Signatures & Sealed PDF Routing in Google Docs: Sign Google Docs & Archive Sealed PDFs—Without Per-Envelope SaaS Rent (Full Walkthrough)`
 
 ---
 
-## Form2Docx Local (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/form2docx/video/form2docx-short.mp4`
-* **Suggested Thumbnail:** `media/products/form2docx/video/thumbnail.png` (or `form2docx-thumbnail.png`)
-* **YouTube Title:**
-```
-Automated Form-to-Doc Document Assembly — Form2Docx Local #Shorts
-```
-* **YouTube Description:**
-```
-Merge Google Forms submissions into customized Google Docs and downloadable PDFs stored in your Drive. Zero third-party conversion servers, zero submission caps, and zero recurring subscriptions.
+## SlideBuilder — Pixel-Perfect Google Sheets to Google Slides Deck Generator (`slidebuilder` · `864F`)
+- **Product URL:** https://864zeros.com/products/slidebuilder
+- **DAM Vault:** `media/products/slidebuilder/`
+- **D-UTA-TAG-ML Search Tags:** `merge google sheets into google slides, automate qbr presentations from google sheets, bulk generate slides from spreadsheet rows, autocrat & slide merge alternative no subscription, populate google slides template with sheet data, batch certificate generator google slides, deterministic sheet to slide automation, preserve master slide branding merge tool, private in-account presentation generator, one-time unlock google slides merge add-on`
 
-👉 Try Form2Docx Local: https://864zeros.com/products/form2docx
+### 1. Quick Overview Short (`9:16` Vertical · `35.07s`)
+- **Video File:** `media/products/slidebuilder/video/slidebuilder-short.mp4`
+- **Captions (`WebVTT`):** `media/products/slidebuilder/video/slidebuilder-short.vtt`
+- **Poster:** `media/products/slidebuilder/video/slidebuilder-fhg-poster-9x16.svg`
+- **Title:** `Turn Spreadsheet Rows Into 50 Client Slides in Seconds—With Zero Layout Drift — SlideBuilder #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `form2docx, form2docx local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `53.71s`)
+- **Video File:** `media/products/slidebuilder/video/slidebuilder-master.mp4`
+- **Captions (`WebVTT`):** `media/products/slidebuilder/video/slidebuilder-demo.vtt`
+- **Poster:** `media/products/slidebuilder/video/slidebuilder-fhg-poster-16x9.svg`
+- **Title:** `SlideBuilder — Pixel-Perfect Google Sheets to Google Slides Deck Generator: Turn Spreadsheet Rows Into 50 Client Slides in Seconds—With Zero Layout Drift (Full Walkthrough)`
 
 ---
 
-## Form2Docx Local (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/form2docx/video/form2docx-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/form2docx/video/thumbnail-form2docx-social-pain.png`
-* **YouTube Title:**
-```
-Manually Copy-Pasting Form Data into Invoices — Form2Docx Local #Shorts
-```
-* **YouTube Description:**
-```
-Still manually re-typing form responses into contract templates every single afternoon?
+## SnapLabel — Sub-Millimeter Avery Label, Envelope & Barcode Merge for Docs & Sheets (`snaplabel` · `864F`)
+- **Product URL:** https://864zeros.com/products/snaplabel
+- **DAM Vault:** `media/products/snaplabel/`
+- **D-UTA-TAG-ML Search Tags:** `print avery 5160 labels from google sheets, labelmaker & foxy labels alternative no subscription, mail merge labels in google docs & sheets, avery 8160 address label generator google workspace, barcode & qr sticker printer google sheets, fix vertical drift google docs labels, envelope mail merge #10 google docs, private customer mailing list label merge, warehouse sku barcode label add-on, one-time unlock google sheets label maker`
 
-Meet Form2Docx Local — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `35.04s`)
+- **Video File:** `media/products/snaplabel/video/snaplabel-short.mp4`
+- **Captions (`WebVTT`):** `media/products/snaplabel/video/snaplabel-short.vtt`
+- **Poster:** `media/products/snaplabel/video/snaplabel-fhg-poster-9x16.svg`
+- **Title:** `Print-Ready Avery Labels & Barcodes From Google Sheets—With Zero Vertical Drift — SnapLabel #Shorts`
 
-👉 Get Form2Docx Local: https://864zeros.com/products/form2docx
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `form2docx, form2docx local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `56.06s`)
+- **Video File:** `media/products/snaplabel/video/snaplabel-master.mp4`
+- **Captions (`WebVTT`):** `media/products/snaplabel/video/snaplabel-demo.vtt`
+- **Poster:** `media/products/snaplabel/video/snaplabel-fhg-poster-16x9.svg`
+- **Title:** `SnapLabel — Sub-Millimeter Avery Label, Envelope & Barcode Merge for Docs & Sheets: Print-Ready Avery Labels & Barcodes From Google Sheets—With Zero Vertical Drift (Full Walkthrough)`
 
 ---
 
-## Form2Docx Local (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/form2docx/video/form2docx-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/form2docx/video/thumbnail-form2docx-social-price.png`
-* **YouTube Title:**
-```
-Document Generation SaaS Charging Monthly Per Seat — Form2Docx Local #Shorts
-```
-* **YouTube Description:**
-```
-Document generation tools charging $20/month per seat? Generate infinite documents inside your Drive forever.
+## Tab Stasher — Named Window Parking, Per-Tab Notes & Markdown Export (`tab-stasher` · `CMC`)
+- **Product URL:** https://864zeros.com/products/tab-stasher
+- **DAM Vault:** `media/products/tab-stasher/`
+- **D-UTA-TAG-ML Search Tags:** `save browser window with notes per tab, export open chrome tabs to markdown with notes, session buddy & tab stash local alternative, park research tabs for obsidian, annotate saved browser tabs extension, window session manager chrome & edge, selective checkbox tab restore tool, not a tab suspender intentional tab parker, private offline tab session archive, no subscription tab stasher extension`
 
-Form2Docx Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `30.34s`)
+- **Video File:** `media/products/tab-stasher/video/tab-stasher-short.mp4`
+- **Captions (`WebVTT`):** `media/products/tab-stasher/video/tab-stasher-short.vtt`
+- **Poster:** `media/products/tab-stasher/video/tab-stasher-fhg-poster-9x16.svg`
+- **Title:** `Park a Whole Research Window—And Actually Remember Why You Saved Each Tab — Tab Stasher #Shorts`
 
-👉 Get Form2Docx Local: https://864zeros.com/products/form2docx
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `form2docx, form2docx local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `55.05s`)
+- **Video File:** `media/products/tab-stasher/video/tab-stasher-master.mp4`
+- **Captions (`WebVTT`):** `media/products/tab-stasher/video/tab-stasher-demo.vtt`
+- **Poster:** `media/products/tab-stasher/video/tab-stasher-fhg-poster-16x9.svg`
+- **Title:** `Tab Stasher — Named Window Parking, Per-Tab Notes & Markdown Export: Park a Whole Research Window—And Actually Remember Why You Saved Each Tab (Full Walkthrough)`
 
 ---
 
-## SlideBuilder Local (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/slidebuilder/video/slidebuilder-short.mp4`
-* **Suggested Thumbnail:** `media/products/slidebuilder/video/thumbnail.png` (or `slidebuilder-thumbnail.png`)
-* **YouTube Title:**
-```
-Deterministic Sheet-to-Slide Template Injection — SlideBuilder Local #Shorts
-```
-* **YouTube Description:**
-```
-Inject spreadsheet data directly into master Google Slides presentations without breaking layout geometry or corporate branding. Zero AI hallucinations and zero recurring subscriptions.
+## Time2Focus — Calm Side-Panel Focus Timer With Persistent Task Anchor (`time2focus` · `OIA`)
+- **Product URL:** https://864zeros.com/products/time2focus
+- **DAM Vault:** `media/products/time2focus/`
+- **D-UTA-TAG-ML Search Tags:** `browser side panel focus timer with task name, adhd friendly pomodoro timer chrome extension, gentle chime focus timer no harsh alarm, keep task intention visible across browser tabs, minimalist local pomodoro extension no account, forest & marinara timer privacy alternative, hyperfocus friendly countdown timer, offline browser sprint timer chrome edge, zero telemetry focus session tracker, no subscription focus timer extension`
 
-👉 Try SlideBuilder Local: https://864zeros.com/products/slidebuilder
+### 1. Quick Overview Short (`9:16` Vertical · `34.8s`)
+- **Video File:** `media/products/time2focus/video/time2focus-short.mp4`
+- **Captions (`WebVTT`):** `media/products/time2focus/video/time2focus-short.vtt`
+- **Poster:** `media/products/time2focus/video/time2focus-fhg-poster-9x16.svg`
+- **Title:** `Keep Your Named Focus Intention Visible Across Every Tab You Open — Time2Focus #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `slidebuilder, slidebuilder local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `54.36s`)
+- **Video File:** `media/products/time2focus/video/time2focus-master.mp4`
+- **Captions (`WebVTT`):** `media/products/time2focus/video/time2focus-demo.vtt`
+- **Poster:** `media/products/time2focus/video/time2focus-fhg-poster-16x9.svg`
+- **Title:** `Time2Focus — Calm Side-Panel Focus Timer With Persistent Task Anchor: Keep Your Named Focus Intention Visible Across Every Tab You Open (Full Walkthrough)`
 
 ---
 
-## SlideBuilder Local (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/slidebuilder/video/slidebuilder-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/slidebuilder/video/thumbnail-slidebuilder-social-pain.png`
-* **YouTube Title:**
-```
-Copy-Pasting Numbers into 50 Presentation Slides — SlideBuilder Local #Shorts
-```
-* **YouTube Description:**
-```
-Ever spent your entire Sunday evening copy-pasting numbers into 50 presentation slides?
+## TubeSchedule — Sovereign YouTube Video & Shorts Scheduler for Drive, Sheets & Calendar (`tubeschedule` · `FHG`)
+- **Product URL:** https://864zeros.com/products/tubeschedule
+- **DAM Vault:** `media/products/tubeschedule/`
+- **D-UTA-TAG-ML Search Tags:** `schedule youtube shorts from google drive, bulk upload youtube videos from google sheets, youtube api quota drip scheduler add-on, google calendar youtube publishing pipeline, hootsuite & buffer alternative for youtube drive, automate youtube metadata & thumbnails from sheets, batch schedule 9:16 youtube shorts, in-account google drive to youtube uploader, sovereign youtube channel release manager, no subscription youtube scheduler add-on`
 
-Meet SlideBuilder Local — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `33.7s`)
+- **Video File:** `media/products/tubeschedule/video/tubeschedule-short.mp4`
+- **Captions (`WebVTT`):** `media/products/tubeschedule/video/tubeschedule-short.vtt`
+- **Poster:** `media/products/tubeschedule/video/tubeschedule-fhg-poster-9x16.svg`
+- **Title:** `Schedule YouTube Videos & Shorts Straight From Google Drive—Without Hitting Quota Walls — TubeSchedule #Shorts`
 
-👉 Get SlideBuilder Local: https://864zeros.com/products/slidebuilder
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `slidebuilder, slidebuilder local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `52.94s`)
+- **Video File:** `media/products/tubeschedule/video/tubeschedule-master.mp4`
+- **Captions (`WebVTT`):** `media/products/tubeschedule/video/tubeschedule-demo.vtt`
+- **Poster:** `media/products/tubeschedule/video/tubeschedule-fhg-poster-16x9.svg`
+- **Title:** `TubeSchedule — Sovereign YouTube Video & Shorts Scheduler for Drive, Sheets & Calendar: Schedule YouTube Videos & Shorts Straight From Google Drive—Without Hitting Quota Walls (Full Walkthrough)`
 
 ---
 
-## SlideBuilder Local (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/slidebuilder/video/slidebuilder-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/slidebuilder/video/thumbnail-slidebuilder-social-price.png`
-* **YouTube Title:**
-```
-AI Slide Generators Charging Monthly & Ruining Brands — SlideBuilder Local #Shorts
-```
-* **YouTube Description:**
-```
-AI presentation tools charging monthly subscriptions and wrecking your corporate typography?
+## TuneOut2FocusIn — Instant Offline Brown, Gray & White Noise + Rain in Your Browser (`tuneout2focusin` · `OIA`)
+- **Product URL:** https://864zeros.com/products/tuneout2focusin
+- **DAM Vault:** `media/products/tuneout2focusin/`
+- **D-UTA-TAG-ML Search Tags:** `offline brown noise chrome extension no ads, adhd brown noise focus generator browser, white gray brown noise & rain extension, mynoise & brain fm free local alternative, block office chatter background noise tool, continuous ambient focus sound no buffering, local web audio noise synthesizer chrome edge, zero bandwidth offline focus soundscape, one-click distraction masking extension, no subscription focus audio browser tool`
 
-SlideBuilder Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
+### 1. Quick Overview Short (`9:16` Vertical · `34.32s`)
+- **Video File:** `media/products/tuneout2focusin/video/tuneout2focusin-short.mp4`
+- **Captions (`WebVTT`):** `media/products/tuneout2focusin/video/tuneout2focusin-short.vtt`
+- **Poster:** `media/products/tuneout2focusin/video/tuneout2focusin-fhg-poster-9x16.svg`
+- **Title:** `Mask Distracting Office Chatter in One Click—With Zero Mid-Roll Ads or Buffering — TuneOut2FocusIn #Shorts`
 
-👉 Get SlideBuilder Local: https://864zeros.com/products/slidebuilder
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `slidebuilder, slidebuilder local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `52.46s`)
+- **Video File:** `media/products/tuneout2focusin/video/tuneout2focusin-master.mp4`
+- **Captions (`WebVTT`):** `media/products/tuneout2focusin/video/tuneout2focusin-demo.vtt`
+- **Poster:** `media/products/tuneout2focusin/video/tuneout2focusin-fhg-poster-16x9.svg`
+- **Title:** `TuneOut2FocusIn — Instant Offline Brown, Gray & White Noise + Rain in Your Browser: Mask Distracting Office Chatter in One Click—With Zero Mid-Roll Ads or Buffering (Full Walkthrough)`
 
 ---
 
-## SheetSync Local (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/sheetsync/video/sheetsync-short.mp4`
-* **Suggested Thumbnail:** `media/products/sheetsync/video/thumbnail.png` (or `sheetsync-thumbnail.png`)
-* **YouTube Title:**
-```
-Multi-Workbook Consolidation & Range Sync — SheetSync Local #Shorts
-```
-* **YouTube Description:**
-```
-Synchronize, roll up, and consolidate master spreadsheets across tabs and workbooks using native Google Sheets triggers. Zero SaaS middleware, zero third-party relays, and zero recurring monthly fees.
+## VaultPilot — Direct-to-Disk Markdown & Marquee Web Clipper for Obsidian & Logseq (`vaultpilot` · `864F`)
+- **Product URL:** https://864zeros.com/products/vaultpilot
+- **DAM Vault:** `media/products/vaultpilot/`
+- **D-UTA-TAG-ML Search Tags:** `obsidian web clipper clean markdown local, clip webpage selection to obsidian vault, readwise reader & omnivore local alternative, logseq & capacities markdown web clipper, visual marquee region clipper to markdown, yaml frontmatter article extractor extension, direct to disk markdown saver chrome edge, private pkm research clipper no cloud, convert technical docs to clean markdown, no subscription obsidian clipper extension`
 
-👉 Try SheetSync Local: https://864zeros.com/products/sheetsync
+### 1. Quick Overview Short (`9:16` Vertical · `30.55s`)
+- **Video File:** `media/products/vaultpilot/video/vaultpilot-short.mp4`
+- **Captions (`WebVTT`):** `media/products/vaultpilot/video/vaultpilot-short.vtt`
+- **Poster:** `media/products/vaultpilot/video/vaultpilot-fhg-poster-9x16.svg`
+- **Title:** `Clip Any Webpage or Region Straight to Clean Local Markdown—With Zero Cloud Relay — VaultPilot #Shorts`
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $19.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `sheetsync, sheetsync local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `52.44s`)
+- **Video File:** `media/products/vaultpilot/video/vaultpilot-master.mp4`
+- **Captions (`WebVTT`):** `media/products/vaultpilot/video/vaultpilot-demo.vtt`
+- **Poster:** `media/products/vaultpilot/video/vaultpilot-fhg-poster-16x9.svg`
+- **Title:** `VaultPilot — Direct-to-Disk Markdown & Marquee Web Clipper for Obsidian & Logseq: Clip Any Webpage or Region Straight to Clean Local Markdown—With Zero Cloud Relay (Full Walkthrough)`
 
 ---
 
-## SheetSync Local (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/sheetsync/video/sheetsync-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/sheetsync/video/thumbnail-sheetsync-social-pain.png`
-* **YouTube Title:**
-```
-Broken IMPORTRANGE Formulas & #REF Errors — SheetSync Local #Shorts
-```
-* **YouTube Description:**
-```
-Nothing kills client trust faster than an executive dashboard covered in red #REF errors.
+## Who Is Watching — Real-Time Tracker, Ad-Tech Vendor & Identity ID Inspector (`who-is-watching` · `OIA`)
+- **Product URL:** https://864zeros.com/products/who-is-watching
+- **DAM Vault:** `media/products/who-is-watching/`
+- **D-UTA-TAG-ML Search Tags:** `see who is tracking me on a website, inspect ad-tech vendors & tracking cookies, ghostery & privacy badger local alternative, website privacy & gdpr tracker audit tool, expose identity resolution pixels in chrome, export website tracker forensic report, real-time third-party script inspector, zero telemetry privacy audit extension, check website tracking ids & pixels locally, no account website surveillance detector`
 
-Meet SheetSync Local — the fast, local-first solution that solves this without messy cloud tools or broken exports.
+### 1. Quick Overview Short (`9:16` Vertical · `32.81s`)
+- **Video File:** `media/products/who-is-watching/video/who-is-watching-short.mp4`
+- **Captions (`WebVTT`):** `media/products/who-is-watching/video/who-is-watching-short.vtt`
+- **Poster:** `media/products/who-is-watching/video/who-is-watching-fhg-poster-9x16.svg`
+- **Title:** `See the Exact Companies and Tracking IDs Watching You on Any Webpage — Who Is Watching #Shorts`
 
-👉 Get SheetSync Local: https://864zeros.com/products/sheetsync
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $19.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `sheetsync, sheetsync local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+### 2. Full Product Demo (`16:9` Widescreen · `51.96s`)
+- **Video File:** `media/products/who-is-watching/video/who-is-watching-master.mp4`
+- **Captions (`WebVTT`):** `media/products/who-is-watching/video/who-is-watching-demo.vtt`
+- **Poster:** `media/products/who-is-watching/video/who-is-watching-fhg-poster-16x9.svg`
+- **Title:** `Who Is Watching — Real-Time Tracker, Ad-Tech Vendor & Identity ID Inspector: See the Exact Companies and Tracking IDs Watching You on Any Webpage (Full Walkthrough)`
 
 ---
 
-## SheetSync Local (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/sheetsync/video/sheetsync-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/sheetsync/video/thumbnail-sheetsync-social-price.png`
-* **YouTube Title:**
-```
-$35/Month Recurring Subscriptions for Sheet Sync — SheetSync Local #Shorts
-```
-* **YouTube Description:**
-```
-Stop paying $35 every single month for third-party spreadsheet connector services.
+## zeroCloudDAM — Sovereign Google Drive Digital Asset Manager With Portable Metadata (`zeroclouddam` · `FHG`)
+- **Product URL:** https://864zeros.com/products/zeroclouddam
+- **DAM Vault:** `media/products/zeroclouddam/`
+- **D-UTA-TAG-ML Search Tags:** `google drive digital asset management add-on, pics io & dash dam alternative no subscription, bynder & brandfolder google drive alternative, tag and filter images videos in google drive, portable file metadata google drive dam, zero migration digital asset manager workspace, creative approval workflow google drive, visual masonry gallery for google drive folders, avoid dam metadata hostage lock-in, one-time license google drive dam tool`
+
+### 1. Quick Overview Short (`9:16` Vertical · `33.63s`)
+- **Video File:** `media/products/zeroclouddam/video/zeroclouddam-short.mp4`
+- **Captions (`WebVTT`):** `media/products/zeroclouddam/video/zeroclouddam-short.vtt`
+- **Poster:** `media/products/zeroclouddam/video/zeroclouddam-fhg-poster-9x16.svg`
+- **Title:** `Enterprise Digital Asset Management Inside Google Drive—Without the Metadata Hostage Trap — zeroCloudDAM #Shorts`
+
+### 2. Full Product Demo (`16:9` Widescreen · `59.42s`)
+- **Video File:** `media/products/zeroclouddam/video/zeroclouddam-master.mp4`
+- **Captions (`WebVTT`):** `media/products/zeroclouddam/video/zeroclouddam-demo.vtt`
+- **Poster:** `media/products/zeroclouddam/video/zeroclouddam-fhg-poster-16x9.svg`
+- **Title:** `zeroCloudDAM — Sovereign Google Drive Digital Asset Manager With Portable Metadata: Enterprise Digital Asset Management Inside Google Drive—Without the Metadata Hostage Trap (Full Walkthrough)`
 
-SheetSync Local gives you complete control with a single $19.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get SheetSync Local: https://864zeros.com/products/sheetsync
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `sheetsync, sheetsync local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveVault (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/drivevault/video/drivevault-short.mp4`
-* **Suggested Thumbnail:** `media/products/drivevault/video/thumbnail.png` (or `drivevault-thumbnail.png`)
-* **YouTube Title:**
-```
-Sovereign Client-Side Encrypted Drive Backup — DriveVault #Shorts
-```
-* **YouTube Description:**
-```
-Browse Google Drive and package folders into client-side AES-256 encrypted snapshots for instant local backup. Zero third-party cloud servers in the loop.
-
-👉 Try DriveVault: https://864zeros.com/products/drivevault
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $29.00 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `drivevault, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveVault (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/drivevault/video/drivevault-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/drivevault/video/thumbnail-drivevault-social-pain.png`
-* **YouTube Title:**
-```
-Google Account Suspension & Zero Local Backup — DriveVault #Shorts
-```
-* **YouTube Description:**
-```
-What happens to your business tomorrow if your Google account gets unexpectedly suspended?
-
-Meet DriveVault — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get DriveVault: https://864zeros.com/products/drivevault
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $29.00 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `drivevault, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveVault (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/drivevault/video/drivevault-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/drivevault/video/thumbnail-drivevault-social-price.png`
-* **YouTube Title:**
-```
-Cloud Backup Providers Charging Perpetual Storage Rent — DriveVault #Shorts
-```
-* **YouTube Description:**
-```
-Why pay recurring monthly storage rent to a cloud backup company for files you already own?
-
-DriveVault gives you complete control with a single $29.00 lifetime (no recurring monthly subscriptions).
-
-👉 Get DriveVault: https://864zeros.com/products/drivevault
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `drivevault, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## ApprovalWorkflow Local (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/approvalworkflow/video/approvalworkflow-short.mp4`
-* **Suggested Thumbnail:** `media/products/approvalworkflow/video/thumbnail.png` (or `approvalworkflow-thumbnail.png`)
-* **YouTube Title:**
-```
-Multi-Step Tokenized Approval Router — ApprovalWorkflow Local #Shorts
-```
-* **YouTube Description:**
-```
-Multi-step form approval router with tokenized email action buttons and dynamic Sheet logging. 100% local-first in Apps Script — zero external data relays.
-
-👉 Try ApprovalWorkflow Local: https://864zeros.com/products/approvalworkflow
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `approvalworkflow, approvalworkflow local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## ApprovalWorkflow Local (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/approvalworkflow/video/approvalworkflow-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/approvalworkflow/video/thumbnail-approvalworkflow-social-pain.png`
-* **YouTube Title:**
-```
-Lost Approvals & Email Forwarding Chains — ApprovalWorkflow Local #Shorts
-```
-* **YouTube Description:**
-```
-How many expense requests get permanently lost in endless email forwarding chains every month?
-
-Meet ApprovalWorkflow Local — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get ApprovalWorkflow Local: https://864zeros.com/products/approvalworkflow
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `approvalworkflow, approvalworkflow local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## ApprovalWorkflow Local (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/approvalworkflow/video/approvalworkflow-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/approvalworkflow/video/thumbnail-approvalworkflow-social-price.png`
-* **YouTube Title:**
-```
-Paying $36/Quarter for Form Approval Buttons — ApprovalWorkflow Local #Shorts
-```
-* **YouTube Description:**
-```
-Why pay recurring quarterly subscriptions just for approval buttons in form emails?
-
-ApprovalWorkflow Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get ApprovalWorkflow Local: https://864zeros.com/products/approvalworkflow
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `approvalworkflow, approvalworkflow local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## FormNotifier Pro (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/formnotifier/video/formnotifier-short.mp4`
-* **Suggested Thumbnail:** `media/products/formnotifier/video/thumbnail.png` (or `formnotifier-thumbnail.png`)
-* **YouTube Title:**
-```
-Conditional Stakeholder Alerts & Receipts — FormNotifier Pro #Shorts
-```
-* **YouTube Description:**
-```
-Send instant formatted email alerts and conditional respondent confirmations on Google Forms submission. 100% private in Apps Script — zero watermarks, zero subscription fees.
-
-👉 Try FormNotifier Pro: https://864zeros.com/products/formnotifier
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $9.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `formnotifier, formnotifier pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## FormNotifier Pro (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/formnotifier/video/formnotifier-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/formnotifier/video/thumbnail-formnotifier-social-pain.png`
-* **YouTube Title:**
-```
-Missed High-Value Leads & Generic Confirmation Pages — FormNotifier Pro #Shorts
-```
-* **YouTube Description:**
-```
-An enterprise lead submitted your contact form, and nobody received an alert until Monday morning.
-
-Meet FormNotifier Pro — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get FormNotifier Pro: https://864zeros.com/products/formnotifier
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $9.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `formnotifier, formnotifier pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## FormNotifier Pro (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/formnotifier/video/formnotifier-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/formnotifier/video/thumbnail-formnotifier-social-price.png`
-* **YouTube Title:**
-```
-Paying Monthly SaaS for Basic Notification Emails — FormNotifier Pro #Shorts
-```
-* **YouTube Description:**
-```
-Why pay recurring annual subscriptions just to receive notification emails from your own Google Forms?
-
-FormNotifier Pro gives you complete control with a single $9.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get FormNotifier Pro: https://864zeros.com/products/formnotifier
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `formnotifier, formnotifier pro, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveSweep Local (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/drivesweep/video/drivesweep-short.mp4`
-* **Suggested Thumbnail:** `media/products/drivesweep/video/thumbnail.png` (or `drivesweep-thumbnail.png`)
-* **YouTube Title:**
-```
-Targeted Duplicate & Orphan Cleanup — DriveSweep Local #Shorts
-```
-* **YouTube Description:**
-```
-Local-first Google Drive storage cleaner that finds and removes duplicate files, zero-byte empty documents, and stale orphans. Zero third-party servers, zero recurring subscriptions.
-
-👉 Try DriveSweep Local: https://864zeros.com/products/drivesweep
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `drivesweep, drivesweep local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveSweep Local (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/drivesweep/video/drivesweep-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/drivesweep/video/thumbnail-drivesweep-social-pain.png`
-* **YouTube Title:**
-```
-Storage Full Warnings & Cloud Cleaner Privacy Fears — DriveSweep Local #Shorts
-```
-* **YouTube Description:**
-```
-Google Drive is 99% full, but you're terrified of letting random cloud cleaning apps touch your files.
-
-Meet DriveSweep Local — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get DriveSweep Local: https://864zeros.com/products/drivesweep
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `drivesweep, drivesweep local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveSweep Local (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/drivesweep/video/drivesweep-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/drivesweep/video/thumbnail-drivesweep-social-price.png`
-* **YouTube Title:**
-```
-Paying $30–$60/Year for Drive Cleaner Subscriptions — DriveSweep Local #Shorts
-```
-* **YouTube Description:**
-```
-Stop paying annual subscriptions to clean files stored inside your own Google Drive.
-
-DriveSweep Local gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get DriveSweep Local: https://864zeros.com/products/drivesweep
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `drivesweep, drivesweep local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## Sheet2Calendar Sync (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/sheet2calendar/video/sheet2calendar-short.mp4`
-* **Suggested Thumbnail:** `media/products/sheet2calendar/video/thumbnail.png` (or `sheet2calendar-thumbnail.png`)
-* **YouTube Title:**
-```
-Two-Way Spreadsheet to Calendar Sync — Sheet2Calendar Sync #Shorts
-```
-* **YouTube Description:**
-```
-Turn Google Sheets rows into synchronized Google Calendar events with dynamic two-way updates and scheduled background triggers. Zero third-party servers, zero recurring subscriptions.
-
-👉 Try Sheet2Calendar Sync: https://864zeros.com/products/sheet2calendar
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `sheet2calendar, sheet2calendar sync, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## Sheet2Calendar Sync (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/sheet2calendar/video/sheet2calendar-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/sheet2calendar/video/thumbnail-sheet2calendar-social-pain.png`
-* **YouTube Title:**
-```
-Manual Calendar Entry Fatigue & Double Bookings — Sheet2Calendar Sync #Shorts
-```
-* **YouTube Description:**
-```
-Typing 60 project milestones from a spreadsheet into Google Calendar one by one?
-
-Meet Sheet2Calendar Sync — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get Sheet2Calendar Sync: https://864zeros.com/products/sheet2calendar
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $12.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `sheet2calendar, sheet2calendar sync, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## Sheet2Calendar Sync (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/sheet2calendar/video/sheet2calendar-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/sheet2calendar/video/thumbnail-sheet2calendar-social-price.png`
-* **YouTube Title:**
-```
-Paying $299/Year Domain Subscriptions for Calendar Sync — Sheet2Calendar Sync #Shorts
-```
-* **YouTube Description:**
-```
-Domain subscriptions charging $299 a year just to sync team spreadsheets to Google Calendar?
-
-Sheet2Calendar Sync gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get Sheet2Calendar Sync: https://864zeros.com/products/sheet2calendar
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `sheet2calendar, sheet2calendar sync, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveDrop Portal (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/drivedrop/video/drivedrop-short.mp4`
-* **Suggested Thumbnail:** `media/products/drivedrop/video/thumbnail.png` (or `drivedrop-thumbnail.png`)
-* **YouTube Title:**
-```
-External Client Upload Dropzone Direct to Drive — DriveDrop Portal #Shorts
-```
-* **YouTube Description:**
-```
-Collect files from external clients and contractors directly into your private Google Drive folder without requiring Google sign-in. Zero third-party servers, zero recurring subscriptions.
-
-👉 Try DriveDrop Portal: https://864zeros.com/products/drivedrop
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $12.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `drivedrop, drivedrop portal, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveDrop Portal (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/drivedrop/video/drivedrop-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/drivedrop/video/thumbnail-drivedrop-social-pain.png`
-* **YouTube Title:**
-```
-Client Google Sign-In Walls & Lost Email Attachments — DriveDrop Portal #Shorts
-```
-* **YouTube Description:**
-```
-Clients complaining they can't upload tax documents because they don't have a Google account?
-
-Meet DriveDrop Portal — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get DriveDrop Portal: https://864zeros.com/products/drivedrop
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $12.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `drivedrop, drivedrop portal, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## DriveDrop Portal (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/drivedrop/video/drivedrop-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/drivedrop/video/thumbnail-drivedrop-social-price.png`
-* **YouTube Title:**
-```
-Paying $20/Month for File Request Portals — DriveDrop Portal #Shorts
-```
-* **YouTube Description:**
-```
-Client portal services charging $20 every single month just for a file upload form? Never again.
-
-DriveDrop Portal gives you complete control with a single $12.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get DriveDrop Portal: https://864zeros.com/products/drivedrop
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `drivedrop, drivedrop portal, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## FormQR & Barcode (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/formqr/video/formqr-short.mp4`
-* **Suggested Thumbnail:** `media/products/formqr/video/thumbnail.png` (or `formqr-thumbnail.png`)
-* **YouTube Title:**
-```
-Permanent Static QR & Barcode Generator — FormQR & Barcode #Shorts
-```
-* **YouTube Description:**
-```
-Generate permanent, non-expiring QR codes and Code-128 barcodes from spreadsheet data and save high-resolution graphics directly to Google Drive. Zero tracking redirects, zero subscription fees.
-
-👉 Try FormQR & Barcode: https://864zeros.com/products/formqr
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $7.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `formqr, formqr & barcode, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## FormQR & Barcode (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/formqr/video/formqr-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/formqr/video/thumbnail-formqr-social-pain.png`
-* **YouTube Title:**
-```
-Expiring QR Redirect Links & Intrusive Ad Pages — FormQR & Barcode #Shorts
-```
-* **YouTube Description:**
-```
-Printed 500 brochures with free QR codes only to discover the links expire in 14 days?
-
-Meet FormQR & Barcode — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get FormQR & Barcode: https://864zeros.com/products/formqr
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $7.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `formqr, formqr & barcode, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## FormQR & Barcode (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/formqr/video/formqr-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/formqr/video/thumbnail-formqr-social-price.png`
-* **YouTube Title:**
-```
-Paying Monthly SaaS for Static Code Generation — FormQR & Barcode #Shorts
-```
-* **YouTube Description:**
-```
-QR generator SaaS tools charging $12/month for static codes? Create permanent codes forever.
-
-FormQR & Barcode gives you complete control with a single $7.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get FormQR & Barcode: https://864zeros.com/products/formqr
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `formqr, formqr & barcode, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## Sheet2Webhook (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/sheet2webhook/video/sheet2webhook-short.mp4`
-* **Suggested Thumbnail:** `media/products/sheet2webhook/video/thumbnail.png` (or `sheet2webhook-thumbnail.png`)
-* **YouTube Title:**
-```
-Real-Time HTTP POST Webhooks from Sheets — Sheet2Webhook #Shorts
-```
-* **YouTube Description:**
-```
-Fire formatted HTTP POST webhooks to Slack, Discord, Zapier, Make, and REST endpoints instantly when spreadsheet rows change. 100% private in-account Apps Script execution.
-
-👉 Try Sheet2Webhook: https://864zeros.com/products/sheet2webhook
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $14.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `sheet2webhook, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## Sheet2Webhook (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/sheet2webhook/video/sheet2webhook-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/sheet2webhook/video/thumbnail-sheet2webhook-social-pain.png`
-* **YouTube Title:**
-```
-Middleware Task Limits & 15-Minute Sync Delays — Sheet2Webhook #Shorts
-```
-* **YouTube Description:**
-```
-Your automation middleware reached its monthly task limit, and new orders stopped syncing entirely.
-
-Meet Sheet2Webhook — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get Sheet2Webhook: https://864zeros.com/products/sheet2webhook
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $14.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `sheet2webhook, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## Sheet2Webhook (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/sheet2webhook/video/sheet2webhook-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/sheet2webhook/video/thumbnail-sheet2webhook-social-price.png`
-* **YouTube Title:**
-```
-Paying $20–$50/Month for Simple Row Webhooks — Sheet2Webhook #Shorts
-```
-* **YouTube Description:**
-```
-Stop paying $20 to $50 every month just to fire an HTTP POST request when a row is edited.
-
-Sheet2Webhook gives you complete control with a single $14.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get Sheet2Webhook: https://864zeros.com/products/sheet2webhook
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `sheet2webhook, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## SignRoute Local (Master Explainer)
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/signroute/video/signroute-short.mp4`
-* **Suggested Thumbnail:** `media/products/signroute/video/thumbnail.png` (or `signroute-thumbnail.png`)
-* **YouTube Title:**
-```
-Sovereign Document Signing & PDF Sealing — SignRoute Local #Shorts
-```
-* **YouTube Description:**
-```
-Capture digital signatures via HTML5 canvas, embed verified signature stamps into Google Docs, and export signed PDFs directly to Google Drive. Zero per-envelope fees or monthly subscriptions.
-
-👉 Try SignRoute Local: https://864zeros.com/products/signroute
-
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: $19.99 lifetime (No recurring monthly subscriptions).
-
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
-```
-* **Tags:** `signroute, signroute local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## SignRoute Local (Pain Hook Short)
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/signroute/video/signroute-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/signroute/video/thumbnail-signroute-social-pain.png`
-* **YouTube Title:**
-```
-DocuSign Per-Envelope Fees & Monthly Minimums — SignRoute Local #Shorts
-```
-* **YouTube Description:**
-```
-Tired of paying $40 every month just to collect simple internal signatures on standard agreements?
-
-Meet SignRoute Local — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get SignRoute Local: https://864zeros.com/products/signroute
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 $19.99 lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `signroute, signroute local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-
-## SignRoute Local (Price Hook Short)
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/signroute/video/signroute-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/signroute/video/thumbnail-signroute-social-price.png`
-* **YouTube Title:**
-```
-Stop Paying $40/Month Per User for Internal Signatures — SignRoute Local #Shorts
-```
-* **YouTube Description:**
-```
-Enterprise e-sign platforms charge per envelope and per user. Keep your signatures sovereign.
-
-SignRoute Local gives you complete control with a single $19.99 lifetime (no recurring monthly subscriptions).
-
-👉 Get SignRoute Local: https://864zeros.com/products/signroute
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `signroute, signroute local, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----

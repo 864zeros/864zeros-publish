@@ -1,40 +1,40 @@
 {
   "slug": "time2focus",
-  "category": "browser-extensions",
+  "name": "Time2Focus — Calm Side-Panel Focus Timer With Persistent Task Anchor",
+  "shortName": "Time2Focus",
+  "category": "extension",
   "pillar": "OIA",
-  "ingested_at": "2026-09-07T02:39:25.412Z",
-  "type": "extension",
-  "name": "Time2Focus",
-  "summary": "A dead-simple focus timer that lives in your browser side panel. Name your focus, pick a time, stay on track. 100% local.",
-  "metaDescription": "A dead-simple focus timer that lives in your browser side panel. Name your focus, pick a time, stay on track. 100% local.",
-  "icon": "time2focus.png",
-  "storeUrl": "",
-  "shots": [
-    {
-      "img": "time2focus-1.png",
-      "alt": "Time2Focus — name your focus and pick a preset timer in the side panel",
-      "cap": "Name your focus, pick a time — your intention stays visible while you work."
-    },
-    {
-      "img": "time2focus-2.png",
-      "alt": "Time2Focus — gentle completion alert with sound, color pulse, and optional notification",
-      "cap": "A gentle alert when time's up: soft sound, a slow color pulse, optional notification."
-    },
-    {
-      "img": "time2focus-3.png",
-      "alt": "Time2Focus — free and local, with an optional one-time lifetime  Data Backup",
-      "cap": "Free, local, and yours. Optional one-time lifetime  Data Backup — export stays on your device."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Pairs a clean countdown timer in your browser side panel with a persistent Focus-Topic Anchor so you always see what you promised yourself you would work on right now.",
+  "metaDescription": "A calm focus timer docked in your browser side panel that keeps your named task intention visible across every tab. Gentle audio cues, 100% local, zero cloud.",
+  "icon": "time2focus-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/time2focus",
+  "demoUrl": "https://864zeros.com/demo/time2focus/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/time2focus-qa-docket.html",
+  "tags_we_hope_work": [
+    "browser side panel focus timer with task name",
+    "adhd friendly pomodoro timer chrome extension",
+    "gentle chime focus timer no harsh alarm",
+    "keep task intention visible across browser tabs",
+    "minimalist local pomodoro extension no account",
+    "forest & marinara timer privacy alternative",
+    "hyperfocus friendly countdown timer",
+    "offline browser sprint timer chrome edge",
+    "zero telemetry focus session tracker",
+    "no subscription focus timer extension"
   ],
-  "jsonld": {
-    "description": "A dead-simple ADHD-friendly focus timer that lives in the browser side panel. Name your focus, start a preset countdown, get a gentle local alert. Local-first, no tracking.",
-    "featureList": [
-      "Preset timers (5, 10, 25, 50 min)",
-      "Persistent focus-topic anchor",
-      "Reliable background countdown",
-      "Gentle sound, color-pulse, and optional notification alerts",
-      "Selectable alert sound and flash color",
-      "Optional one-time lifetime  local Data Backup export/import"
-    ]
+  "video": {
+    "src": "time2focus-master.mp4",
+    "shortSrc": "time2focus-short.mp4",
+    "poster": "time2focus-fhg-poster-16x9.svg",
+    "shortPoster": "time2focus-fhg-poster-9x16.svg",
+    "vtt": "time2focus-demo.vtt",
+    "shortVtt": "time2focus-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

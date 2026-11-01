@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 7.87,
+    "duration": 7.87,
+    "text": "Need a better way to handle organizing your liked music library into genre playlists, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 7.87,
+    "end": 20.75,
+    "duration": 12.88,
+    "text": "Watch AutoOrganize in action: Matches your tracks against curated music metadata so rock, hip-hop, jazz, ambient, and electronic tracks land in accurate genre playlists\u2014never guessed at random."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 20.75,
+    "end": 37.11,
+    "duration": 16.36,
+    "text": "Inspect every proposed genre group and track list in a clean checklist before writing a single playlist to your YouTube Music account. Plus, never hand over your Google password or broad account tokens to a third-party playlist website. Everything executes locally inside your side panel."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 37.11,
+    "end": 45.62,
+    "duration": 8.51,
+    "text": "Export your entire categorized music library to a readable local file anytime so you always keep an offline copy of your favorite songs."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 45.62,
+    "end": 54.43,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

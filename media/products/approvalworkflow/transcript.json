@@ -1,0 +1,125 @@
+{
+  "slug": "approvalworkflow",
+  "productName": "ApprovalWorkflow — Multi-Step Form & Email Approval Workflow",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "approvalworkflow-short.mp4",
+    "vtt": "approvalworkflow-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 27.36,
+    "fullText": "Tired of Google Forms approval workflows stalling in external login portals? With ApprovalWorkflow, managers click Approve right inside their email and your tracking spreadsheet updates instantly. Multi-step routing, automatic audit timestamps, and requester receipts—all inside the workspace you already use. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 4.67,
+        "duration": 4.67,
+        "text": "Tired of Google Forms approval workflows stalling in external login portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 4.67,
+        "end": 11.51,
+        "duration": 6.83,
+        "text": "With ApprovalWorkflow, managers click Approve right inside their email and your tracking spreadsheet updates instantly."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 11.51,
+        "end": 18.6,
+        "duration": 7.1,
+        "text": "Multi-step routing, automatic audit timestamps, and requester receipts—all inside the workspace you already use."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 18.6,
+        "end": 27.36,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "approvalworkflow-master.mp4",
+    "vtt": "approvalworkflow-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 40.7,
+    "fullText": "Need a Google Forms approval workflow, but tired of requests stalling because managers refuse to create another portal login? Watch ApprovalWorkflow in action: one click on Approve inside standard email immediately updates your Google Sheet status row in real time. Route purchase orders, leave requests, and vendor invoices through multi-step conditional rules—with automatic requester confirmation receipts and zero row collisions. Your forms, inbox, and tracking spreadsheet work together privately inside your own environment. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 7.43,
+        "duration": 7.43,
+        "text": "Need a Google Forms approval workflow, but tired of requests stalling because managers refuse to create another portal login?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 7.43,
+        "end": 15.87,
+        "duration": 8.44,
+        "text": "Watch ApprovalWorkflow in action: one click on Approve inside standard email immediately updates your Google Sheet status row in real time."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 15.87,
+        "end": 25.8,
+        "duration": 9.93,
+        "text": "Route purchase orders, leave requests, and vendor invoices through multi-step conditional rules—with automatic requester confirmation receipts and zero row collisions."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 25.8,
+        "end": 31.89,
+        "duration": 6.09,
+        "text": "Your forms, inbox, and tracking spreadsheet work together privately inside your own environment."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 31.89,
+        "end": 40.7,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a Google Forms approval workflow, but tired of requests stalling because managers refuse to create another portal login? Watch ApprovalWorkflow in action: one click on Approve inside standard email immediately updates your Google Sheet status row in real time. Route purchase orders, leave requests, and vendor invoices through multi-step conditional rules—with automatic requester confirmation receipts and zero row collisions. Your forms, inbox, and tracking spreadsheet work together privately inside your own environment. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 7.43,
+      "duration": 7.43,
+      "text": "Need a Google Forms approval workflow, but tired of requests stalling because managers refuse to create another portal login?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 7.43,
+      "end": 15.87,
+      "duration": 8.44,
+      "text": "Watch ApprovalWorkflow in action: one click on Approve inside standard email immediately updates your Google Sheet status row in real time."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 15.87,
+      "end": 25.8,
+      "duration": 9.93,
+      "text": "Route purchase orders, leave requests, and vendor invoices through multi-step conditional rules—with automatic requester confirmation receipts and zero row collisions."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 25.8,
+      "end": 31.89,
+      "duration": 6.09,
+      "text": "Your forms, inbox, and tracking spreadsheet work together privately inside your own environment."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 31.89,
+      "end": 40.7,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

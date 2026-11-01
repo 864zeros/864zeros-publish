@@ -1,0 +1,772 @@
+{
+  "schema_version": "1.0.0",
+  "catalog_id": "fhg-biblical-shorts-broll-master-catalog",
+  "google_sheet_id": "1tuit2aqK8NJI8yItK6QN9W50PmIQWKwOTFR2vrTAPdg",
+  "global_context_and_rules": "Geo-location: 1st Century Levant/Judea/Galilee. Time Period: Ancient near east (1st Century AD). Indigenous People: Middle Eastern / Levantine descent. Ethnicity & Skin Coloration: Olive skin, sun-baked, historically accurate dark hair and eyes. Attire: Homespun wool, rough linen, natural dyes (earth tones), coarse hemp, leather sandals. Elements must be authentic to the period (no modern manufacturing).",
+  "total_prompts": 33,
+  "total_vaulted_prompt_concepts": 7,
+  "total_vaulted_mp4_files": 8,
+  "items": [
+    {
+      "broll_id": "FHG-BR-001",
+      "title": "Crushed Grapes",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Dark red grape juice dripping from freshly crushed grapes into a rustic clay bowl. High contrast, moody natural lighting, shallow depth of field.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "sacrifice, covenant blood, communion, new wine, wrath and mercy, pruning, abundance, Passover",
+      "visual_search_terms": "crushed red grapes, dark crimson juice dripping, rustic clay bowl, winepress, slow motion liquid drop, harvest fruit",
+      "scripture_anchors": "Isaiah 63:2-3; Matthew 26:27-28; John 15:1-5; Joel 3:13; Luke 5:37-38",
+      "soul_halt_tags": "Grief & Healing, Grace & Forgiveness, Sacred Worth",
+      "short_hook_archetypes": "1st-Century Judean Context, Passover & Communion Symbolism",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-002",
+      "title": "Falling Silver Coins",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Heavy, ancient silver coins falling and bouncing on a rough, dark stone floor. High contrast, cold directional lighting.",
+      "status": "MASTERED_1080P_ALL_CHANNELS",
+      "thematic_tags": "betrayal, greed, thirty pieces of silver, temple tax, wealth vs kingdom, stewardship, Judas, redemption price",
+      "visual_search_terms": "ancient silver coins falling, Tyrian shekel, Roman denarius, dark stone temple floor, cold moonlight, metallic bounce, money",
+      "scripture_anchors": "Matthew 26:14-15; Matthew 27:3-6; Zechariah 11:12-13; Mark 12:15-17; 1 Timothy 6:10",
+      "soul_halt_tags": "Letting Go, Guidance & Trust, Temptation & Integrity",
+      "short_hook_archetypes": "1st-Century Judean Context, Translation & Currency Realities",
+      "dam_assets": [
+        {
+          "dam_filename": "FHG-BR-002_falling-silver-coins_16x9.mp4",
+          "dam_relative_path": "media/video/b_roll_loops/fhg_veo/broll_library/FHG-BR-002_falling-silver-coins_16x9.mp4",
+          "source_filename": "gemini_generated_video_29b4824a.mp4",
+          "duplicate_source_filename": null,
+          "aspect_ratio": "16:9 (1280x720)",
+          "size_bytes": 4573263,
+          "sha256": "ed0082cd913c4f4534999ccac0cf45de32f7c6eed330657c6cc634545e5b8d95",
+          "usable_window_sec": "0:00.8 - 0:09.5 (Full 10s clean; 0:00.8-0:04.3 captures single coin edge-drop + cascade)"
+        }
+      ],
+      "dam_master_16x9_1080p": "FHG-BR-002_falling-silver-coins_16x9_1080p.mp4",
+      "dam_vertical_9x16_1080p": "FHG-BR-002_falling-silver-coins_9x16_1080p.mp4",
+      "dam_square_1x1_1080p": "FHG-BR-002_falling-silver-coins_1x1_1080p.mp4",
+      "channel_masters_1080p": {
+        "master_16x9_1080p": "FHG-BR-002_falling-silver-coins_16x9_1080p.mp4",
+        "vertical_9x16_1080p": "FHG-BR-002_falling-silver-coins_9x16_1080p.mp4",
+        "square_1x1_1080p": "FHG-BR-002_falling-silver-coins_1x1_1080p.mp4",
+        "probe_16x9": {
+          "width": 1920,
+          "height": 1080,
+          "duration_s": 10.0,
+          "size_bytes": 7647022,
+          "sha256": "f1f3d263630c44da880313c42c568fafa003f1f8272f4049a7e8232126c841e8"
+        },
+        "probe_9x16": {
+          "width": 1080,
+          "height": 1920,
+          "duration_s": 10.0,
+          "size_bytes": 8489769,
+          "sha256": "147a1cad5c7b897a210e03c7f4babd881e30a5883c6facd5784a931c964d0c48"
+        },
+        "probe_1x1": {
+          "width": 1080,
+          "height": 1080,
+          "duration_s": 10.0,
+          "size_bytes": 5524697,
+          "sha256": "53e170ff3567e9b55da596b361a0c900c7e6fb3da2c99826d21136b2396b7fda"
+        }
+      }
+    },
+    {
+      "broll_id": "FHG-BR-003",
+      "title": "Breaking Bread",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Two dirt-stained, calloused hands with Middle Eastern olive skin tone slowly tearing apart a piece of coarse, unleavened bread. Warm natural lighting.",
+      "status": "MASTERED_1080P_9x16_1x1 (NEED_16x9_MASTER)",
+      "thematic_tags": "communion, fellowship, provision, Last Supper, Road to Emmaus, hospitality, daily bread, Christ's body",
+      "visual_search_terms": "calloused olive-skinned hands tearing bread, unleavened flatbread loaf, falling crumbs, bearded Jesus blurred background, warm table light",
+      "scripture_anchors": "Luke 22:19; Luke 24:30-31; Matthew 6:11; John 6:35; Acts 2:42-46; 1 Corinthians 11:23-24",
+      "soul_halt_tags": "Loneliness & Presence, Gratitude & Provision, Fellowship",
+      "short_hook_archetypes": "1st-Century Hospitality, Misunderstood Verses (Daily Bread)",
+      "dam_assets": [
+        {
+          "dam_filename": "FHG-BR-003_breaking-bread_9x16.mp4",
+          "dam_relative_path": "media/video/b_roll_loops/fhg_veo/broll_library/FHG-BR-003_breaking-bread_9x16.mp4",
+          "source_filename": "gemini_generated_video_5252e4a0.mp4",
+          "duplicate_source_filename": "gemini_generated_video_ae08798a.mp4",
+          "aspect_ratio": "9:16 (720x1280)",
+          "size_bytes": 3997315,
+          "sha256": "4a3a09222994a285215d45049786725c47cec1b490c2239c409b021683178223",
+          "usable_window_sec": "0:00.0 - 0:10.0 (10/10 clean; 0:02.0-0:05.5 crumbs falling, 0:06.0-0:09.5 loaf parting)"
+        }
+      ],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "FHG-BR-003_breaking-bread_9x16_1080p.mp4",
+      "dam_square_1x1_1080p": "FHG-BR-003_breaking-bread_1x1_1080p.mp4",
+      "channel_masters_1080p": {
+        "master_16x9_1080p": "",
+        "vertical_9x16_1080p": "FHG-BR-003_breaking-bread_9x16_1080p.mp4",
+        "square_1x1_1080p": "FHG-BR-003_breaking-bread_1x1_1080p.mp4",
+        "probe_9x16": {
+          "width": 1080,
+          "height": 1920,
+          "duration_s": 10.0,
+          "size_bytes": 7172016,
+          "sha256": "13de6884662e622e09e95a1a2c301ef3b5ba635ee56e872413456c625a2c3012"
+        },
+        "probe_1x1": {
+          "width": 1080,
+          "height": 1080,
+          "duration_s": 10.0,
+          "size_bytes": 5182354,
+          "sha256": "189cf31536cbd837ae9808c497edd1e2b3ab7c5d3a237d5ecdf699faf7e63a33"
+        }
+      }
+    },
+    {
+      "broll_id": "FHG-BR-004",
+      "title": "Wind Blowing Chaff",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Wind violently blowing chaff from harvested wheat, separating the golden grains from the dust. Warm natural sunlight.",
+      "status": "MASTERED_1080P_ALL_CHANNELS",
+      "thematic_tags": "judgment and discernment, winnowing floor, righteousness vs wicked, harvest, refinement, testing, Psalm 1",
+      "visual_search_terms": "harvested golden wheat kernels, wind blowing chaff and husks, stone threshing floor, warm sunlight, grain separation",
+      "scripture_anchors": "Psalm 1:4; Matthew 3:12; Luke 3:17; Ruth 3:2; Job 21:18; Hosea 13:3",
+      "soul_halt_tags": "Guidance & Trust, Letting Go, Spiritual Discernment",
+      "short_hook_archetypes": "1st-Century Agricultural Context, Translation Discrepancies",
+      "dam_assets": [
+        {
+          "dam_filename": "FHG-BR-004_wind-blowing-chaff_16x9.mp4",
+          "dam_relative_path": "media/video/b_roll_loops/fhg_veo/broll_library/FHG-BR-004_wind-blowing-chaff_16x9.mp4",
+          "source_filename": "gemini_generated_video_8a9b5edc.mp4",
+          "duplicate_source_filename": null,
+          "aspect_ratio": "16:9 (1280x720)",
+          "size_bytes": 5879967,
+          "sha256": "759d5738171d31feca8d4f423c6d343cb12da72bdda62ec1532cf85a77d07529",
+          "usable_window_sec": "0:00.0 - 0:08.5 (Main threshing shot) + 0:08.8 - 0:10.0 (Tight grain close-up)"
+        }
+      ],
+      "dam_master_16x9_1080p": "FHG-BR-004_wind-blowing-chaff_16x9_1080p.mp4",
+      "dam_vertical_9x16_1080p": "FHG-BR-004_wind-blowing-chaff_9x16_1080p.mp4",
+      "dam_square_1x1_1080p": "FHG-BR-004_wind-blowing-chaff_1x1_1080p.mp4",
+      "channel_masters_1080p": {
+        "master_16x9_1080p": "FHG-BR-004_wind-blowing-chaff_16x9_1080p.mp4",
+        "vertical_9x16_1080p": "FHG-BR-004_wind-blowing-chaff_9x16_1080p.mp4",
+        "square_1x1_1080p": "FHG-BR-004_wind-blowing-chaff_1x1_1080p.mp4",
+        "probe_16x9": {
+          "width": 1920,
+          "height": 1080,
+          "duration_s": 8.5,
+          "size_bytes": 9082769,
+          "sha256": "d781eda82ba7c4a89ace5a87005c653fba794537d9584bfff323679287c61df2"
+        },
+        "probe_9x16": {
+          "width": 1080,
+          "height": 1920,
+          "duration_s": 8.5,
+          "size_bytes": 8006726,
+          "sha256": "947b69e584ca1edbab6b06a7add6e8bdebfa193460831b2dfff206516850a2ba"
+        },
+        "probe_1x1": {
+          "width": 1080,
+          "height": 1080,
+          "duration_s": 8.5,
+          "size_bytes": 5686421,
+          "sha256": "0272e5faa690183c13e374ed63b6e1172e989596604015c7c5e8cfb9d23829ed"
+        }
+      }
+    },
+    {
+      "broll_id": "FHG-BR-005",
+      "title": "Potter's Clay",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Wet, muddy hands with Middle Eastern olive skin shaping spinning clay on an ancient wooden potter's wheel.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "sovereignty, sanctification, shaping character, humility, broken vessels, creator, Isaiah 64, Jeremiah 18",
+      "visual_search_terms": "wet muddy hands shaping clay, spinning wooden potter's wheel, earthenware vessel, olive skin artisan, tactile mud",
+      "scripture_anchors": "Jeremiah 18:1-6; Isaiah 64:8; Romans 9:20-21; 2 Corinthians 4:7; Job 10:9",
+      "soul_halt_tags": "Patience & Waiting, Sacred Worth, Surrender",
+      "short_hook_archetypes": "Stoicism vs Christianity, Old Testament Prophetic Object Lessons",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-006",
+      "title": "Glowing Embers",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Deep red glowing wood embers pulsing with heat in pitch darkness, occasionally popping and releasing tiny orange sparks.",
+      "status": "MASTERED_1080P_9x16_1x1 (NEED_16x9_MASTER)",
+      "thematic_tags": "rekindling faith, spiritual dryness, Peter's charcoal fire, restoration, Holy Spirit fire, quiet vigil, Elijah",
+      "visual_search_terms": "glowing red wood charcoal embers, white ash bark, popping orange sparks, night campfire in pitch darkness, rising flame",
+      "scripture_anchors": "2 Timothy 1:6; John 18:18; John 21:9; Isaiah 6:6; Psalm 39:3; Proverbs 26:21",
+      "soul_halt_tags": "Rest & Fatigue, Hope & Courage, Spiritual Dryness",
+      "short_hook_archetypes": "The Silence of God, 1st-Century Judean Context (John 21 Charcoal Fire)",
+      "dam_assets": [
+        {
+          "dam_filename": "FHG-BR-006_glowing-embers_9x16.mp4",
+          "dam_relative_path": "media/video/b_roll_loops/fhg_veo/broll_library/FHG-BR-006_glowing-embers_9x16.mp4",
+          "source_filename": "gemini_generated_video_5d2dc0f9.mp4",
+          "duplicate_source_filename": null,
+          "aspect_ratio": "9:16 (720x1280)",
+          "size_bytes": 4072367,
+          "sha256": "8c9e92e22cad6d2af972bc7d6787e0affa9d72adc824e7b13e32f441b3cc9625",
+          "usable_window_sec": "0:00.0 - 0:10.0 (10/10 clean; spark bursts at 0:02.0 and 0:06.0)"
+        }
+      ],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "FHG-BR-006_glowing-embers_9x16_1080p.mp4",
+      "dam_square_1x1_1080p": "FHG-BR-006_glowing-embers_1x1_1080p.mp4",
+      "channel_masters_1080p": {
+        "master_16x9_1080p": "",
+        "vertical_9x16_1080p": "FHG-BR-006_glowing-embers_9x16_1080p.mp4",
+        "square_1x1_1080p": "FHG-BR-006_glowing-embers_1x1_1080p.mp4",
+        "probe_9x16": {
+          "width": 1080,
+          "height": 1920,
+          "duration_s": 10.0,
+          "size_bytes": 6872790,
+          "sha256": "0d8589cfb1742088acfe46f5664a01f825b716a93ceb128a1dcfa8ee9635f7c0"
+        },
+        "probe_1x1": {
+          "width": 1080,
+          "height": 1080,
+          "duration_s": 10.0,
+          "size_bytes": 4895872,
+          "sha256": "2bc227f7359f87720db9384bc022d437f4cd22f7eaf0a9431bd6fe83ce7dc191"
+        }
+      }
+    },
+    {
+      "broll_id": "FHG-BR-007",
+      "title": "Teardrop in Dust",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A single, clear teardrop falling and splashing into dry, cracked earth, kicking up a microscopic dust cloud.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "grief, lament, compassion, Jesus wept, brokenhearted, prayer in sorrow, Psalms of lament, bottle of tears",
+      "visual_search_terms": "single clear teardrop falling, dry cracked desert earth, microscopic dust splash, macro water droplet impact, sorrow",
+      "scripture_anchors": "Psalm 56:8; John 11:35; Psalm 34:18; Psalm 126:5; Revelation 21:4; Ecclesiastes 3:4",
+      "soul_halt_tags": "Healing & Comfort, Loneliness & Presence, Grief",
+      "short_hook_archetypes": "Biblical Cognitive Behavioral Therapy, The Silence of God",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-008",
+      "title": "Water Washing Feet",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Clear water splashing over dirty, calloused feet in leather sandals from a rough clay pitcher.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "servant leadership, humility, cleansing, Upper Room, hospitality, forgiveness, Maundy Thursday",
+      "visual_search_terms": "clear water pouring from clay pitcher, dusty calloused feet in leather sandals, washing feet, splashing water",
+      "scripture_anchors": "John 13:4-15; Luke 7:38-44; Genesis 18:4; 1 Timothy 5:10; Ephesians 5:26",
+      "soul_halt_tags": "Kindness & Love, Grace & Forgiveness, Humility",
+      "short_hook_archetypes": "1st-Century Judean Context, Pagan vs Biblical Leadership",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-009",
+      "title": "Twisting Thorns",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A branch of long, sharp thorns being slowly twisted and bent by calloused hands. Moody lighting.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "curse of the fall, suffering, trials, thorn in the flesh, anxiety choking the word, Passion of Christ",
+      "visual_search_terms": "long sharp thorns branch, calloused hands twisting briar, moody chiaroscuro lighting, prickly desert bramble",
+      "scripture_anchors": "Genesis 3:18; Matthew 13:7, 22; 2 Corinthians 12:7-9; Mark 15:17",
+      "soul_halt_tags": "Peace & Calm, Hope & Courage, Suffering & Endurance",
+      "short_hook_archetypes": "Stoicism vs Christianity, Parable of the Sower",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-010",
+      "title": "Pouring Salt",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Coarse, unrefined sea salt pouring slowly out of a weathered leather pouch.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "salt of the earth, covenant of salt, preservation, seasoned speech, purity, faithfulness, Dead Sea mineral",
+      "visual_search_terms": "coarse unrefined sea salt crystals pouring, weathered brown leather pouch, white mineral grains falling",
+      "scripture_anchors": "Matthew 5:13; Mark 9:50; Colossians 4:6; Leviticus 2:13; Numbers 18:19",
+      "soul_halt_tags": "Sacred Worth, Guidance & Trust, Daily Witness",
+      "short_hook_archetypes": "Translation & Cultural Discrepancies (Why Salt Mattered in the Ancient World)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-011",
+      "title": "Rolled Tomb Stone",
+      "prompt": "Cinematic macro shot, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A massive, rough-hewn circular stone slowly rolling, allowing a blinding shaft of morning sunlight to pierce pitch-black darkness.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "resurrection, Easter, empty tomb, victory over death, light in darkness, hope, new creation",
+      "visual_search_terms": "massive rough-hewn circular stone rolling away, blinding morning sunbeam piercing pitch-black cave tomb, dust motes",
+      "scripture_anchors": "Matthew 28:2; Mark 16:4; Luke 24:2; John 20:1; John 1:5; Romans 8:11",
+      "soul_halt_tags": "Hope & Courage, Joy & Gratitude, Resurrection Life",
+      "short_hook_archetypes": "Historical Geography (1st-Century Rolling-Stone Tombs)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-012",
+      "title": "Mustard Seed",
+      "prompt": "Extreme macro, 4k cinematic, 16:9 aspect ratio, dead center framing. A single, tiny mustard seed pinched between two dirt-stained, working fingers with olive skin. Shallow depth of field.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "small beginnings, mountain-moving faith, Kingdom of God growth, unseen faithfulness, patience",
+      "visual_search_terms": "tiny mustard seed pinched between dirt-stained fingers, olive skin working hand, extreme macro shallow depth of field",
+      "scripture_anchors": "Matthew 13:31-32; Matthew 17:20; Luke 17:6; Mark 4:30-32; Zechariah 4:10",
+      "soul_halt_tags": "Hope & Courage, Patience & Waiting, Small Steps",
+      "short_hook_archetypes": "Misunderstood Verses (What 'Faith the Size of a Mustard Seed' Actually Means)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-013",
+      "title": "Wool on Briar",
+      "prompt": "Extreme macro, 4k cinematic, 16:9 aspect ratio, dead center framing. A tuft of white sheep's wool snagged on a sharp, dark briar branch blowing gently in the wind.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "lost sheep, Good Shepherd, rescue, wandering, gentleness, Isaiah 53, Psalm 23",
+      "visual_search_terms": "tuft of white sheep wool snagged on dark sharp briar thorn branch, blowing gently in wind, wilderness pasture",
+      "scripture_anchors": "Luke 15:4-6; Isaiah 53:6; Psalm 119:176; Matthew 18:12-14; John 10:11",
+      "soul_halt_tags": "Grace & Forgiveness, Loneliness & Presence, Being Found",
+      "short_hook_archetypes": "1st-Century Shepherd Context, The Heart of God",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-014",
+      "title": "Incense Smoke",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Thick, fluid incense smoke rising slowly from an ancient bronze censer in pitch darkness.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "prayer rising, intercession, temple worship, Day of Atonement, sacred stillness, evening sacrifice, holiness",
+      "visual_search_terms": "thick fluid incense smoke rising, ancient bronze censer, pitch black sanctuary background, swirling aromatic vapor",
+      "scripture_anchors": "Psalm 141:2; Revelation 5:8; Revelation 8:3-4; Luke 1:9-10; Exodus 30:7-8",
+      "soul_halt_tags": "Peace & Calm, Rest & Fatigue, Stillness & Prayer",
+      "short_hook_archetypes": "The Second Temple, Prayer & Neurobiology of Stillness",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-015",
+      "title": "Iron Nail on Timber",
+      "prompt": "Extreme close-up, 4k cinematic, 16:9 aspect ratio, dead center framing. A heavy, rusted, square-forged iron nail resting on rough-hewn, splintered timber.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "crucifixion, atonement, canceled debt, Golgotha, cost of grace, suffering servant, cross",
+      "visual_search_terms": "heavy rusted square-forged Roman iron nail, rough-hewn splintered wooden cross beam timber, dark moody texture",
+      "scripture_anchors": "Colossians 2:14; John 20:25; Isaiah 53:5; Galatians 2:20; 1 Peter 2:24",
+      "soul_halt_tags": "Grace & Forgiveness, Sacred Worth, Freedom from Shame",
+      "short_hook_archetypes": "Historical Geography (Golgotha & Roman Crucifixion)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-016",
+      "title": "Olive Press Crushing",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A heavy circular millstone crushing fresh olives, thick golden-green oil seeping out onto the stone base.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "Gethsemane, crushing pressure producing oil, suffering into anointing, endurance, night of prayer",
+      "visual_search_terms": "heavy circular limestone millstone crushing olives, golden-green olive oil seeping out, ancient stone press",
+      "scripture_anchors": "Matthew 26:36-39; Luke 22:44; 2 Corinthians 4:8-9; Psalm 23:5; James 1:2-4",
+      "soul_halt_tags": "Peace & Calm, Rest & Fatigue, Crushing Anxiety",
+      "short_hook_archetypes": "Translation & Etymology (Why 'Gethsemane' Literally Means 'Oil Press')",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-017",
+      "title": "Tearing the Veil",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Thick, ornate woven fabric violently ripping straight down the middle, threads snapping.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "direct access to God, Holy of Holies, end of separation, finished work of Christ, boldness in prayer",
+      "visual_search_terms": "thick ornate woven temple curtain fabric violently ripping down the middle, snapping threads, dramatic tension",
+      "scripture_anchors": "Matthew 27:51; Mark 15:38; Hebrews 10:19-20; Hebrews 4:16; Exodus 26:31-33",
+      "soul_halt_tags": "Grace & Forgiveness, Sacred Worth, Intimacy with God",
+      "short_hook_archetypes": "The Second Temple (The 60-Foot Curtain of the Holy of Holies)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-018",
+      "title": "Locust on Leaf",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A desert locust resting on a green leaf, mandibles chewing the edge, harsh sunlight.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "plague, wasted years restored, wilderness diet of John the Baptist, judgment and repentance, Joel 2",
+      "visual_search_terms": "desert locust chewing green leaf edge, insect mandibles macro, harsh wilderness sunlight, agricultural famine",
+      "scripture_anchors": "Joel 2:25; Exodus 10:12-15; Matthew 3:4; 2 Chronicles 7:13-14; Proverbs 30:27",
+      "soul_halt_tags": "Hope & Courage, Healing & Comfort, Restoring Lost Time",
+      "short_hook_archetypes": "Misunderstood Verses ('I Will Restore the Years the Locust Has Eaten')",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-019",
+      "title": "Fishing Net Underwater",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Underwater view looking up, a coarse hemp net plunging into the water, trapping silver fish in shafts of light.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "calling of the disciples, Kingdom dragnet, miraculous catch, evangelism, abundance in obedience",
+      "visual_search_terms": "underwater looking up at surface light shafts, coarse hemp fishing net plunging, silver fish trapped in mesh",
+      "scripture_anchors": "Matthew 13:47-48; Luke 5:4-7; John 21:6-11; Matthew 4:19; Ezekiel 47:9-10",
+      "soul_halt_tags": "Guidance & Trust, Hope & Courage, Purpose",
+      "short_hook_archetypes": "1st-Century Galilean Context, Parables of the Kingdom",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-020",
+      "title": "Scroll Unrolling",
+      "prompt": "Extreme close-up, 4k cinematic, 16:9 aspect ratio, dead center framing. An aged, dusty parchment scroll slowly unrolling across a scarred wooden table.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "Word of God, prophecy fulfilled, Torah, Isaiah scroll in Nazareth, wisdom, eternal truth, study",
+      "visual_search_terms": "aged dusty Hebrew parchment scroll unrolling, scarred wooden table, ancient manuscript ink texture",
+      "scripture_anchors": "Luke 4:17-21; Isaiah 40:8; Psalm 119:105; 2 Timothy 3:16; Jeremiah 36:2; Revelation 5:1",
+      "soul_halt_tags": "Guidance & Trust, Wisdom, Scripture Study",
+      "short_hook_archetypes": "Translation Discrepancies, How Scripture Was Read in the 1st Century",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-021",
+      "title": "Sand Through Fingers",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Coarse desert sand slipping through a calloused, olive-skinned hand.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "brevity of life, numbering our days, letting go of control, Abraham's descendants, time slipping away, Ecclesiastes",
+      "visual_search_terms": "coarse golden desert sand slipping through calloused olive-skinned fingers, grains falling in sunlight, time",
+      "scripture_anchors": "Psalm 90:12; James 4:14; Ecclesiastes 3:1-2; Genesis 22:17; Psalm 103:14-16; Psalm 139:17-18",
+      "soul_halt_tags": "Letting Go, Peace & Calm, Surrendering Control",
+      "short_hook_archetypes": "Stoicism vs Christianity (Time, Mortality & Eternal Perspective)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-022",
+      "title": "Sparrow Landing",
+      "prompt": "Cinematic macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A small brown sparrow landing lightly on dry, dusty ground, kicking up a tiny puff of dirt.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "providence, God's care for the small, freedom from anxiety, worth to the Father, Sermon on the Mount",
+      "visual_search_terms": "small brown sparrow bird landing on dusty ground, tiny puff of dirt, soft feathers in warm sunlight",
+      "scripture_anchors": "Matthew 10:29-31; Luke 12:6-7; Psalm 84:3; Matthew 6:26",
+      "soul_halt_tags": "Peace & Calm, Sacred Worth, Loneliness & Presence",
+      "short_hook_archetypes": "Biblical Cognitive Behavioral Therapy (Jesus on Anxiety)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-023",
+      "title": "Crown of Thorns",
+      "prompt": "Extreme close-up, 4k cinematic, 16:9 aspect ratio, dead center framing. A woven crown of long, brutal thorns resting on cold, dark stone with a single drop of crimson blood.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "suffering king, Good Friday, mockery turned to glory, substitutionary love, Isaiah 53, humility of Christ",
+      "visual_search_terms": "woven crown of long brutal thorns resting on cold dark stone, single drop of crimson blood, Passion relic",
+      "scripture_anchors": "Matthew 27:29; John 19:2-5; Isaiah 53:3-5; Philippians 2:8; Hebrews 2:9",
+      "soul_halt_tags": "Grace & Forgiveness, Sacred Worth, Suffering & Love",
+      "short_hook_archetypes": "Pagan vs Biblical Nuance (Roman Imperial Crowns vs The Crown of Thorns)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-024",
+      "title": "Washing Hands in Basin",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Water pouring over hands into a tarnished brass basin, rinsing away dust.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "innocence, confession, cleansing from guilt, Pilate's basin, pure heart, sanctuary laver, forgiveness",
+      "visual_search_terms": "water pouring over olive-skinned hands into tarnished brass basin, rinsing away dust, ripples in metal bowl",
+      "scripture_anchors": "Psalm 24:3-4; Psalm 26:6; Matthew 27:24; James 4:8; Isaiah 1:16; 1 John 1:9",
+      "soul_halt_tags": "Grace & Forgiveness, Letting Go, Cleansing Guilt",
+      "short_hook_archetypes": "1st-Century Ritual Purity vs Heart Purity",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-025",
+      "title": "Alabaster Jar Breaking",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A white alabaster jar shattering on a stone floor, thick fragrant nard spilling out.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "extravagant worship, poured-out devotion, Bethany anointing, brokenness yielding fragrance, holding nothing back",
+      "visual_search_terms": "white alabaster stone jar shattering on stone floor, thick fragrant nard oil spilling out, slow motion shards",
+      "scripture_anchors": "Mark 14:3-9; Luke 7:37-38; John 12:3; 2 Corinthians 2:15; Psalm 51:17",
+      "soul_halt_tags": "Joy & Gratitude, Sacred Worth, Wholehearted Devotion",
+      "short_hook_archetypes": "1st-Century Judean Context (Why Breaking the Alabaster Flask Meant Total Surrender)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-026",
+      "title": "Dove Taking Flight",
+      "prompt": "Cinematic macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A white dove pushing off an olive branch, wings fully spread, backlit by golden hour sun.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "Holy Spirit descending, peace after the flood, baptism of Jesus, new beginning, freedom, gentle presence",
+      "visual_search_terms": "white dove pushing off olive branch, wings spread in slow motion, golden hour sun backlight, feathers",
+      "scripture_anchors": "Genesis 8:11; Matthew 3:16; John 1:32; Psalm 55:6; Song of Solomon 2:14; Galatians 5:22",
+      "soul_halt_tags": "Peace & Calm, Hope & Courage, Spirit Presence",
+      "short_hook_archetypes": "Translation & Symbolism (The Spirit Hovering Like a Dove from Genesis 1 to the Jordan)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-027",
+      "title": "Burning Bush",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A dry desert bush engulfed in bright, smokeless flames, leaves remaining green and unconsumed.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "holy ground, calling of Moses, I AM WHO I AM, unconsumed presence of God, awe and reverence, Horeb",
+      "visual_search_terms": "dry desert thorn bush engulfed in bright smokeless flames, green leaves unconsumed, Sinai wilderness fire",
+      "scripture_anchors": "Exodus 3:2-14; Deuteronomy 33:16; Mark 12:26; Acts 7:30-33; Hebrews 12:29",
+      "soul_halt_tags": "Guidance & Trust, Sacred Worth, Calling & Purpose",
+      "short_hook_archetypes": "Translation Discrepancies ('I AM WHO I AM' in Hebrew)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-028",
+      "title": "Striking the Rock",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. The tip of a heavy wooden staff striking a dry rock, crystal clear water bursting outward.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "living water in the wilderness, provision in dry places, Christ our Rock, Meribah, thirst satisfied",
+      "visual_search_terms": "heavy wooden shepherd staff striking dry desert boulder, crystal clear water bursting outward in slow motion",
+      "scripture_anchors": "Exodus 17:6; Numbers 20:11; 1 Corinthians 10:4; Psalm 78:15-16; John 4:14; John 7:37-38",
+      "soul_halt_tags": "Rest & Fatigue, Healing & Comfort, Spiritual Thirst",
+      "short_hook_archetypes": "The Silence of God & Wilderness Provision",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-029",
+      "title": "Chains Falling",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Heavy, rusted iron shackles unlocking and dropping heavily onto a damp dungeon floor.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "deliverance, freedom from bondage, Paul and Silas in prison, addiction recovery, redemption, Jubilee",
+      "visual_search_terms": "heavy rusted iron shackles unlocking, chains dropping onto damp stone dungeon floor, liberation",
+      "scripture_anchors": "Acts 12:7; Acts 16:26; Psalm 107:14; Isaiah 61:1; Galatians 5:1; Romans 8:1-2",
+      "soul_halt_tags": "Hope & Courage, Letting Go, Freedom from Bondage",
+      "short_hook_archetypes": "Biblical Cognitive Behavioral Therapy (Breaking Mental & Spiritual Strongholds)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-030",
+      "title": "Sower Casting Seeds",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. An olive-skinned hand rhythmically throwing seeds from a leather pouch onto rocky soil.",
+      "status": "QUEUED_FOR_GENERATION",
+      "thematic_tags": "Parable of the Sower, receptive heart, sowing in tears and reaping in joy, generosity, preaching the Word",
+      "visual_search_terms": "olive-skinned hand rhythmically throwing grain seeds from leather pouch, rocky soil furrow, golden sunlight",
+      "scripture_anchors": "Matthew 13:3-9; Mark 4:3-8; Psalm 126:5-6; 2 Corinthians 9:6; Galatians 6:7-9; Ecclesiastes 11:6",
+      "soul_halt_tags": "Patience & Waiting, Guidance & Trust, Faithfulness",
+      "short_hook_archetypes": "1st-Century Agricultural Context (Why Ancient Sowers Scattered Seed Before Plowing)",
+      "dam_assets": [],
+      "dam_master_16x9_1080p": "",
+      "dam_vertical_9x16_1080p": "",
+      "dam_square_1x1_1080p": ""
+    },
+    {
+      "broll_id": "FHG-BR-031",
+      "title": "Pouring Anointing Oil",
+      "prompt": "Extreme macro, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Thick golden olive oil pouring slowly onto a rough-hewn limestone altar slab in a shaft of warm volumetric sunlight with floating dust motes.",
+      "status": "MASTERED_1080P_ALL_CHANNELS",
+      "thematic_tags": "anointing, Holy Spirit, consecration, healing, Psalm 23 cup overflows, setting apart, peace, sanctuary",
+      "visual_search_terms": "golden olive oil pouring onto rough-hewn limestone altar slab, volumetric sunlight shaft, floating dust motes, viscous ripples",
+      "scripture_anchors": "Psalm 23:5; 1 Samuel 16:13; James 5:14; 1 John 2:20, 27; Exodus 29:7; Isaiah 61:1-3",
+      "soul_halt_tags": "Peace & Calm, Healing & Comfort, Sacred Worth",
+      "short_hook_archetypes": "1st-Century Shepherd & Temple Context (Why Shepherds Poured Oil on Sheep's Heads)",
+      "dam_assets": [
+        {
+          "dam_filename": "FHG-BR-031_pouring-anointing-oil_9x16.mp4",
+          "dam_relative_path": "media/video/b_roll_loops/fhg_veo/broll_library/FHG-BR-031_pouring-anointing-oil_9x16.mp4",
+          "source_filename": "gemini_generated_video_28213441.mp4",
+          "duplicate_source_filename": null,
+          "aspect_ratio": "9:16 (720x1280)",
+          "size_bytes": 3423184,
+          "sha256": "e92378e509f8aaa5fa5dc00b86ef8d005bb3978a6c1d34289717994fdda8dff1",
+          "usable_window_sec": "0:00.0 - 0:10.0 (10/10 clean; 0:00.8-0:04.3 first golden drop impact & ripple)"
+        },
+        {
+          "dam_filename": "FHG-BR-031_pouring-anointing-oil_16x9.mp4",
+          "dam_relative_path": "media/video/b_roll_loops/fhg_veo/broll_library/FHG-BR-031_pouring-anointing-oil_16x9.mp4",
+          "source_filename": "gemini_generated_video_fbcc0a19.mp4",
+          "duplicate_source_filename": null,
+          "aspect_ratio": "16:9 (1280x720)",
+          "size_bytes": 3544928,
+          "sha256": "b58fe42716ce535216909b91d097f01e6f6d74075ced48c906fe64f6c0dee274",
+          "usable_window_sec": "0:00.0 - 0:10.0 (9.5/10 clean; dead-center stream for 16:9 or 9:16 crop)"
+        }
+      ],
+      "dam_master_16x9_1080p": "FHG-BR-031_pouring-anointing-oil_16x9_1080p.mp4",
+      "dam_vertical_9x16_1080p": "FHG-BR-031_pouring-anointing-oil_9x16_1080p.mp4",
+      "dam_square_1x1_1080p": "FHG-BR-031_pouring-anointing-oil_1x1_1080p.mp4",
+      "channel_masters_1080p": {
+        "master_16x9_1080p": "FHG-BR-031_pouring-anointing-oil_16x9_1080p.mp4",
+        "vertical_9x16_1080p": "FHG-BR-031_pouring-anointing-oil_9x16_1080p.mp4",
+        "square_1x1_1080p": "FHG-BR-031_pouring-anointing-oil_1x1_1080p.mp4",
+        "probe_16x9": {
+          "width": 1920,
+          "height": 1080,
+          "duration_s": 10.0,
+          "size_bytes": 5853608,
+          "sha256": "e84bbe80449c703521de5fef83dd6d23c8e5e63179924f0f52e3c04ad4eafdd2"
+        },
+        "probe_9x16": {
+          "width": 1080,
+          "height": 1920,
+          "duration_s": 10.0,
+          "size_bytes": 6252198,
+          "sha256": "4e7733c3b6b667cfe317e11ba7f0cccc19e228e81e4fca4e1f73d5ffd1404ef9"
+        },
+        "probe_1x1": {
+          "width": 1080,
+          "height": 1080,
+          "duration_s": 10.0,
+          "size_bytes": 3918887,
+          "sha256": "f8275b4e4cbc0f743904133933dadadb8bb7197f82ad84dd630860c2796ef90f"
+        }
+      },
+      "dam_vertical_9x16_native_1080p": "FHG-BR-031_pouring-anointing-oil_9x16_native_1080p.mp4"
+    },
+    {
+      "broll_id": "FHG-BR-032",
+      "title": "Sandals in Cracked Wilderness",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. Low ground-level tracking shot of dusty First-Century leather-sandaled feet walking across parched, sun-baked cracked desert clay, kicking up clouds of fine golden dust.",
+      "status": "MASTERED_1080P_ALL_CHANNELS",
+      "thematic_tags": "walking with God, wilderness season, perseverance, dusty discipleship road, holy ground, Enoch, Micah 6:8",
+      "visual_search_terms": "leather-sandaled feet walking across parched cracked desert clay, billowing golden dust clouds, low-angle ground tracking",
+      "scripture_anchors": "Micah 6:8; Genesis 5:24; Deuteronomy 8:2-4; Exodus 3:5; Matthew 4:1; Psalm 119:105; Luke 10:11",
+      "soul_halt_tags": "Patience & Waiting, Rest & Fatigue, Guidance & Trust",
+      "short_hook_archetypes": "1st-Century Rabbinic Context ('Covered in the Dust of Your Rabbi')",
+      "dam_assets": [
+        {
+          "dam_filename": "FHG-BR-032_sandals-in-cracked-wilderness_16x9.mp4",
+          "dam_relative_path": "media/video/b_roll_loops/fhg_veo/broll_library/FHG-BR-032_sandals-in-cracked-wilderness_16x9.mp4",
+          "source_filename": "gemini_generated_video_cb0b0d60.mp4",
+          "duplicate_source_filename": null,
+          "aspect_ratio": "16:9 (1280x720)",
+          "size_bytes": 5206089,
+          "sha256": "3bedf07ff10e179a6e7baa6d63a920e3322ee58e42e691223c312f9e5a6f4a0f",
+          "usable_window_sec": "0:00.0 - 0:10.0 (9.5/10 clean, 5 toes verified; 0:01.0-0:04.5 two footsteps + dust plumes)"
+        }
+      ],
+      "dam_master_16x9_1080p": "FHG-BR-032_sandals-in-cracked-wilderness_16x9_1080p.mp4",
+      "dam_vertical_9x16_1080p": "FHG-BR-032_sandals-in-cracked-wilderness_9x16_1080p.mp4",
+      "dam_square_1x1_1080p": "FHG-BR-032_sandals-in-cracked-wilderness_1x1_1080p.mp4",
+      "channel_masters_1080p": {
+        "master_16x9_1080p": "FHG-BR-032_sandals-in-cracked-wilderness_16x9_1080p.mp4",
+        "vertical_9x16_1080p": "FHG-BR-032_sandals-in-cracked-wilderness_9x16_1080p.mp4",
+        "square_1x1_1080p": "FHG-BR-032_sandals-in-cracked-wilderness_1x1_1080p.mp4",
+        "probe_16x9": {
+          "width": 1920,
+          "height": 1080,
+          "duration_s": 10.0,
+          "size_bytes": 9127077,
+          "sha256": "821ef72ecb1bb7e1b915ee98c0d36414faba817e42bd36c681cfb6acbe06fb0b"
+        },
+        "probe_9x16": {
+          "width": 1080,
+          "height": 1920,
+          "duration_s": 10.0,
+          "size_bytes": 8828259,
+          "sha256": "af6a83125f06cd0c4a35fe90280d712557eb0808842b95b28ae3a1cc2f756226"
+        },
+        "probe_1x1": {
+          "width": 1080,
+          "height": 1080,
+          "duration_s": 10.0,
+          "size_bytes": 5814021,
+          "sha256": "d8e9f67e102979fd4fa12ae05f3ca44c6bc9c4768a550fb72d4fd0533f9eac0d"
+        }
+      }
+    },
+    {
+      "broll_id": "FHG-BR-033",
+      "title": "Hauling Fishing Net Rope",
+      "prompt": "Extreme close-up, 4k cinematic, slow motion, 16:9 aspect ratio, dead center framing. A weathered, olive-skinned fisherman's hand gripping and hauling a thick wet hemp net rope over dark choppy sea waves as water drips from the knuckles.",
+      "status": "MASTERED_1080P_ALL_CHANNELS",
+      "thematic_tags": "perseverance after exhaustion, casting the net again, Sea of Galilee storm, labor, discipleship, holding fast",
+      "visual_search_terms": "weathered fisherman hand gripping wet twisted hemp rope, water dripping from knuckles, choppy dark sea waves, silver fish in net",
+      "scripture_anchors": "Luke 5:4-6; John 21:6-11; Matthew 4:18-20; Mark 4:35-41; Galatians 6:9; Hebrews 10:23",
+      "soul_halt_tags": "Rest & Fatigue, Hope & Courage, Perseverance",
+      "short_hook_archetypes": "1st-Century Galilean Context (Night Fishing on the Sea of Galilee)",
+      "dam_assets": [
+        {
+          "dam_filename": "FHG-BR-033_hauling-fishing-net-rope_16x9.mp4",
+          "dam_relative_path": "media/video/b_roll_loops/fhg_veo/broll_library/FHG-BR-033_hauling-fishing-net-rope_16x9.mp4",
+          "source_filename": "gemini_generated_video_3896ebd6.mp4",
+          "duplicate_source_filename": null,
+          "aspect_ratio": "16:9 (1280x720)",
+          "size_bytes": 6079832,
+          "sha256": "2524fa749f6fa6f48d23aa661e55d954b91c2abe1b2894e936dbefabeae21c00",
+          "usable_window_sec": "0:00.0 - 0:03.3 (Single hand hauling rope) + 0:03.5 - 0:05.5 (Fish in net) + 0:08.8 - 0:10.0 (Boat gunwale). TRIM OUT 0:06.0-0:08.5"
+        }
+      ],
+      "dam_master_16x9_1080p": "FHG-BR-033_hauling-fishing-net-rope_16x9_1080p.mp4",
+      "dam_vertical_9x16_1080p": "FHG-BR-033_hauling-fishing-net-rope_9x16_1080p.mp4",
+      "dam_square_1x1_1080p": "FHG-BR-033_hauling-fishing-net-rope_1x1_1080p.mp4",
+      "channel_masters_1080p": {
+        "master_16x9_1080p": "FHG-BR-033_hauling-fishing-net-rope_16x9_1080p.mp4",
+        "vertical_9x16_1080p": "FHG-BR-033_hauling-fishing-net-rope_9x16_1080p.mp4",
+        "square_1x1_1080p": "FHG-BR-033_hauling-fishing-net-rope_1x1_1080p.mp4",
+        "probe_16x9": {
+          "width": 1920,
+          "height": 1080,
+          "duration_s": 5.5,
+          "size_bytes": 6495794,
+          "sha256": "111a6869b62bf06bc45ebb3c5b01ce03876777f3c747c7b00993987046eadc66"
+        },
+        "probe_9x16": {
+          "width": 1080,
+          "height": 1920,
+          "duration_s": 5.5,
+          "size_bytes": 6036405,
+          "sha256": "38da7d502f9ba559bb43bfeeee5957906e91d83b0482865d470d826a65e263ae"
+        },
+        "probe_1x1": {
+          "width": 1080,
+          "height": 1080,
+          "duration_s": 5.5,
+          "size_bytes": 4262723,
+          "sha256": "8cd15b0cdbd92a41621b1a220efa4088fbdc01277773c846f217837777c67c6f"
+        }
+      }
+    }
+  ],
+  "updated_at": "2026-11-01T15:14:26.141253",
+  "production_standard": {
+    "master_aspect_ratio": "16:9",
+    "master_resolution": "1920x1080 (1080p minimum)",
+    "channel_outputs": {
+      "youtube_web_tv_16x9": "1920x1080",
+      "shorts_reels_tiktok_9x16": "1080x1920",
+      "social_feed_square_1x1": "1080x1080"
+    }
+  }
+}

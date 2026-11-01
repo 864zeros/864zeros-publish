@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.47,
+    "duration": 8.47,
+    "text": "Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.47,
+    "end": 18.32,
+    "duration": 9.86,
+    "text": "Watch FormNotifier in action: Route billing inquiries to Finance, urgent support tickets to Engineering, and regional leads to the matching sales rep automatically."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 18.32,
+    "end": 34.66,
+    "duration": 16.34,
+    "text": "Send instant confirmation receipts to the person who filled out your form with their submitted answers\u2014and zero \"Sent via Free Add-on\" ad footers. Plus, personalize email subject lines, reply-to addresses, and HTML message bodies with any form field or submission timestamp."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 34.66,
+    "end": 42.69,
+    "duration": 8.03,
+    "text": "Tracks your remaining daily send capacity in real time and records a delivery timestamp for every notification right inside your response sheet."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 42.69,
+    "end": 51.5,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

@@ -1,38 +1,40 @@
 {
   "slug": "tubeschedule",
-  "category": "google-workspace-addons",
-  "pillar": "864F",
-  "ingested_at": "2026-10-28T21:20:00.000Z",
-  "type": "google-add-ons",
-  "name": "TubeSchedule — Video & Shorts Scheduler",
-  "summary": "Schedule YouTube Videos & Shorts directly from Google Calendar, Drive, and Sheets with an automated 6-video/day YouTube API quota-drip governor.",
-  "metaDescription": "Schedule YouTube Videos & Shorts from Google Drive, Calendar, and Sheets without re-uploading to third-party servers. one-time lifetime license.",
-  "icon": "tubeschedule.png",
-  "storeUrl": "",
+  "name": "TubeSchedule — Sovereign YouTube Video & Shorts Scheduler for Drive, Sheets & Calendar",
+  "shortName": "TubeSchedule",
+  "category": "google-add-ons",
+  "pillar": "FHG",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Schedules and uploads YouTube Long-Form Videos and 9:16 Shorts directly from your Google Drive folders, Google Sheets catalog, and Google Calendar—governed by an automatic 6-video-per-day Quota-Drip queue.",
+  "metaDescription": "Batch-schedule YouTube Videos and 9:16 Shorts directly from Google Drive, Sheets, and Calendar with an automatic 6-video/day Quota-Drip Governor. Zero cloud rent.",
+  "icon": "tubeschedule-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/tubeschedule",
+  "demoUrl": "https://864zeros.com/demo/tubeschedule/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/tubeschedule-qa-docket.html",
+  "tags_we_hope_work": [
+    "schedule youtube shorts from google drive",
+    "bulk upload youtube videos from google sheets",
+    "youtube api quota drip scheduler add-on",
+    "google calendar youtube publishing pipeline",
+    "hootsuite & buffer alternative for youtube drive",
+    "automate youtube metadata & thumbnails from sheets",
+    "batch schedule 9:16 youtube shorts",
+    "in-account google drive to youtube uploader",
+    "sovereign youtube channel release manager",
+    "no subscription youtube scheduler add-on"
+  ],
   "video": {
-    "src": "tubeschedule-live-ui-demo.mp4",
-    "poster": "tubeschedule-thumbnail.png",
-    "tag": "⚡ 42s Live UI Demo",
-    "title": "Watch TubeSchedule in Action",
-    "desc": "Audit Drive video folders for YouTube API quota burn, stage 6-video/day drip schedules, and drag-and-drop release times directly on Google Calendar.",
-    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever",
-    "youtubeUrl": ""
-  },
-  "shots": [
-    {
-      "img": "tubeschedule-1.png",
-      "alt": "TubeSchedule — Drive Folder Quota Burn Auditor",
-      "cap": "Scan any Google Drive folder of .mp4 or .mov videos and calculate exact YouTube Data API v3 quota units."
-    },
-    {
-      "img": "tubeschedule-2.png",
-      "alt": "TubeSchedule — 6-Video/Day Quota-Drip Governor",
-      "cap": "Queue dozens of Shorts at once and automatically drip-upload 6 videos per day across Midnight PT quota resets."
-    },
-    {
-      "img": "tubeschedule-3.png",
-      "alt": "TubeSchedule — Two-Way Google Calendar Control",
-      "cap": "Drag scheduled video events on Google Calendar to automatically update YouTube publishAt timestamps."
-    }
-  ]
+    "src": "tubeschedule-master.mp4",
+    "shortSrc": "tubeschedule-short.mp4",
+    "poster": "tubeschedule-fhg-poster-16x9.svg",
+    "shortPoster": "tubeschedule-fhg-poster-9x16.svg",
+    "vtt": "tubeschedule-demo.vtt",
+    "shortVtt": "tubeschedule-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
+  }
 }

@@ -1,37 +1,42 @@
 [
   {
-    "id": "scene1_hook",
-    "start": 0.0,
-    "end": 5.38,
-    "duration": 5.38,
-    "text": "Every time you open your team tracker, your browser completely locks up for 30 seconds."
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.18,
+    "duration": 8.18,
+    "text": "Need a better way to handle archiving completed spreadsheet rows to keep live trackers fast, without handing your data to another monthly cloud landlord?"
   },
   {
-    "id": "scene2_intro",
-    "start": 5.38,
-    "end": 12.75,
-    "duration": 7.37,
-    "text": "Meet RowArchiver. 100% sovereign, local-first execution right inside your Google Workspace account."
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.18,
+    "end": 18.15,
+    "duration": 9.98,
+    "text": "Watch RowArchiver in action: Moves completed rows from the bottom up with built-in concurrency locking so active row indexes and adjacent formulas never shift or corrupt."
   },
   {
-    "id": "scene3_feature",
-    "start": 12.75,
-    "end": 23.52,
-    "duration": 10.78,
-    "text": "Automatically move completed, dated, or inactive rows to archive tabs. Speed up lagging Google Sheets, prevent bloat, and eliminate recurring sync tool subscriptions."
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 18.15,
+    "end": 34.2,
+    "duration": 16.05,
+    "text": "Preview the exact count of rows matching your rule (such as Status = \"Completed\" or Date older than 30 days) before moving a single cell. Plus, set an automatic overnight or hourly schedule so completed tasks evacuate to your Archive tab while your team sleeps."
   },
   {
-    "id": "scene4_pricing",
-    "start": 23.52,
-    "end": 32.4,
-    "duration": 8.87,
-    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. RowArchiver is a single one-time unlock forever."
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 34.2,
+    "end": 42.69,
+    "duration": 8.49,
+    "text": "Automatically creates your destination Archive tab with matching column headers and formatting—100% inside your own Google Sheet."
   },
   {
-    "id": "scene5_cta",
-    "start": 32.4,
-    "end": 40.29,
-    "duration": 7.9,
-    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 42.69,
+    "end": 51.5,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
 ]

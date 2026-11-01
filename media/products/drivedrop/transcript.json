@@ -1,0 +1,125 @@
+{
+  "slug": "drivedrop",
+  "productName": "DriveDrop — Client File Request & Direct-to-Drive Upload Portal",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "drivedrop-short.mp4",
+    "vtt": "drivedrop-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 32.14,
+    "fullText": "Tired of collecting client files and documents into Google Drive without login walls getting locked behind monthly subscriptions and external cloud portals? With DriveDrop, Zero Google Account Required for Uploaders runs right where you already work. Automatic Submitter File Naming & Organization and Optional PIN Protection & File-Type Whitelists—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 8.73,
+        "duration": 8.73,
+        "text": "Tired of collecting client files and documents into Google Drive without login walls getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 8.73,
+        "end": 14.41,
+        "duration": 5.68,
+        "text": "With DriveDrop, Zero Google Account Required for Uploaders runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 14.41,
+        "end": 23.38,
+        "duration": 8.97,
+        "text": "Automatic Submitter File Naming & Organization and Optional PIN Protection & File-Type Whitelists—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 23.38,
+        "end": 32.14,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "drivedrop-master.mp4",
+    "vtt": "drivedrop-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 54.67,
+    "fullText": "Need a better way to handle collecting client files and documents into Google Drive without login walls, without handing your data to another monthly cloud landlord? Watch DriveDrop in action: External clients open your link, enter their name, and drop files straight from their phone or laptop—no Google sign-in friction or bounced email attachments. Every uploaded file is automatically prefixed with the submitter name, email, and timestamp so five vendors uploading invoice.pdf never overwrite each other. Plus, gate your dropzone with an access PIN, restrict allowed file extensions (such as PDF, DOCX, or ZIP), and enforce maximum file size rules. Your clients' sensitive files travel directly into your own Google Drive folder—never stored on third-party file-request servers. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 8.61,
+        "duration": 8.61,
+        "text": "Need a better way to handle collecting client files and documents into Google Drive without login walls, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 8.61,
+        "end": 19.83,
+        "duration": 11.22,
+        "text": "Watch DriveDrop in action: External clients open your link, enter their name, and drop files straight from their phone or laptop—no Google sign-in friction or bounced email attachments."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 19.83,
+        "end": 38.57,
+        "duration": 18.74,
+        "text": "Every uploaded file is automatically prefixed with the submitter name, email, and timestamp so five vendors uploading invoice.pdf never overwrite each other. Plus, gate your dropzone with an access PIN, restrict allowed file extensions (such as PDF, DOCX, or ZIP), and enforce maximum file size rules."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 38.57,
+        "end": 45.86,
+        "duration": 7.29,
+        "text": "Your clients' sensitive files travel directly into your own Google Drive folder—never stored on third-party file-request servers."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 45.86,
+        "end": 54.67,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle collecting client files and documents into Google Drive without login walls, without handing your data to another monthly cloud landlord? Watch DriveDrop in action: External clients open your link, enter their name, and drop files straight from their phone or laptop—no Google sign-in friction or bounced email attachments. Every uploaded file is automatically prefixed with the submitter name, email, and timestamp so five vendors uploading invoice.pdf never overwrite each other. Plus, gate your dropzone with an access PIN, restrict allowed file extensions (such as PDF, DOCX, or ZIP), and enforce maximum file size rules. Your clients' sensitive files travel directly into your own Google Drive folder—never stored on third-party file-request servers. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 8.61,
+      "duration": 8.61,
+      "text": "Need a better way to handle collecting client files and documents into Google Drive without login walls, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 8.61,
+      "end": 19.83,
+      "duration": 11.22,
+      "text": "Watch DriveDrop in action: External clients open your link, enter their name, and drop files straight from their phone or laptop—no Google sign-in friction or bounced email attachments."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 19.83,
+      "end": 38.57,
+      "duration": 18.74,
+      "text": "Every uploaded file is automatically prefixed with the submitter name, email, and timestamp so five vendors uploading invoice.pdf never overwrite each other. Plus, gate your dropzone with an access PIN, restrict allowed file extensions (such as PDF, DOCX, or ZIP), and enforce maximum file size rules."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 38.57,
+      "end": 45.86,
+      "duration": 7.29,
+      "text": "Your clients' sensitive files travel directly into your own Google Drive folder—never stored on third-party file-request servers."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 45.86,
+      "end": 54.67,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

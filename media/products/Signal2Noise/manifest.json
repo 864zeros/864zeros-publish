@@ -1,40 +1,40 @@
 {
   "slug": "signal2noise",
-  "category": "browser-extensions",
+  "name": "Signal2Noise — Daily 80/20 Priority Filter & Side-Panel Focus Pill",
+  "shortName": "Signal2Noise",
+  "category": "extension",
   "pillar": "OIA",
-  "ingested_at": "2026-09-07T02:39:25.397Z",
-  "type": "extension",
-  "name": "Signal2Noise — capture today's signal, quiet the noise",
-  "summary": "Capture up to 10 daily signals, mark 2–4 as priority, and see them in one pill. Copy or download anytime. 100% local.",
-  "metaDescription": "Capture up to 10 daily signals, mark 2–4 as priority, and see them in one pill. Copy or download anytime. 100% local.",
-  "icon": "signal2noise.png",
-  "storeUrl": "",
-  "shots": [
-    {
-      "img": "signal2noise-1.png",
-      "alt": "Signal2Noise — capture today's signal in the side panel",
-      "cap": "What is today's signal? Capture it in the side panel."
-    },
-    {
-      "img": "signal2noise-2.png",
-      "alt": "Signal2Noise — mark 2 to 4 priorities that rise to the top as a pill",
-      "cap": "Mark 2–4 priorities — they rise to the top as one pill."
-    },
-    {
-      "img": "signal2noise-3.png",
-      "alt": "Signal2Noise — free, local, with copy, download, and backup",
-      "cap": "Free and local. Copy, download, or back up your signals."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Applies the 80/20 Signal-to-Noise discipline right inside your browser side panel: capture up to 10 items for today, lock 2 to 4 as your non-negotiable Signal, and keep them anchored in view while you work.",
+  "metaDescription": "Capture up to 10 daily tasks, lock your 2–4 true priorities into a calm side-panel pill, and ignore the noise. 100% local in your browser with zero cloud rent.",
+  "icon": "signal2noise-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/signal2noise",
+  "demoUrl": "https://864zeros.com/demo/signal2noise/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/signal2noise-qa-docket.html",
+  "tags_we_hope_work": [
+    "steve jobs signal to noise daily task app",
+    "minimalist top 3 priority browser extension",
+    "adhd anti-overwhelm daily todo side panel",
+    "80/20 focus priority filter chrome extension",
+    "calm daily standup task list no account",
+    "replace bloated todo apps with daily signal",
+    "local browser priority pill extension",
+    "export daily tasks to markdown or slack",
+    "zero telemetry focus task manager",
+    "no subscription daily priority tool"
   ],
-  "jsonld": {
-    "description": "Capture up to 10 daily signal notes, mark 2–4 as priorities in a pill, and copy or download them. Local-first, built for ADHD focus.",
-    "featureList": [
-      "Capture up to 10 daily signals",
-      "Mark 2–4 priorities into a pill",
-      "Signal-to-noise ratio preference",
-      "Copy all to clipboard",
-      "Download signals to .txt",
-      "Optional one-time lifetime data backup unlock"
-    ]
+  "video": {
+    "src": "signal2noise-master.mp4",
+    "shortSrc": "signal2noise-short.mp4",
+    "poster": "signal2noise-fhg-poster-16x9.svg",
+    "shortPoster": "signal2noise-fhg-poster-9x16.svg",
+    "vtt": "signal2noise-demo.vtt",
+    "shortVtt": "signal2noise-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

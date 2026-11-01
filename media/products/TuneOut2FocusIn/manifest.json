@@ -1,40 +1,40 @@
 {
   "slug": "tuneout2focusin",
-  "category": "browser-extensions",
+  "name": "TuneOut2FocusIn — Instant Offline Brown, Gray & White Noise + Rain in Your Browser",
+  "shortName": "TuneOut2FocusIn",
+  "category": "extension",
   "pillar": "OIA",
-  "ingested_at": "2026-09-07T02:39:25.423Z",
-  "type": "extension",
-  "name": "TuneOut2FocusIn",
-  "summary": "One-click background noise to mask distractions and focus. White, gray, brown noise + rain. 100% local, no accounts, no tracking.",
-  "metaDescription": "One-click background noise to mask distractions and focus. White, gray, brown noise + rain. 100% local, no accounts, no tracking.",
-  "icon": "tuneout2focusin.png",
-  "storeUrl": "",
-  "shots": [
-    {
-      "img": "tuneout2focusin-1.png",
-      "alt": "TuneOut2FocusIn — one-click background noise in the Chrome side panel",
-      "cap": "One click. Predictable sound. Distractions masked."
-    },
-    {
-      "img": "tuneout2focusin-2.png",
-      "alt": "TuneOut2FocusIn — white, gray, brown noise and rain with a volume slider",
-      "cap": "Four sounds: white, gray, brown noise, and rain — with a volume slider."
-    },
-    {
-      "img": "tuneout2focusin-3.png",
-      "alt": "TuneOut2FocusIn — free and local, with an optional one-time lifetime Data Backup unlock",
-      "cap": "Free and local. Optional one-time lifetime unlock adds Data Backup."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Generates continuous, studio-smooth brown noise, gray noise, white noise, and rain acoustics right inside your browser—working 100% offline with zero streaming ads or audio drops.",
+  "metaDescription": "One-click offline brown noise, gray noise, white noise, and rain generated locally in your browser. Zero YouTube mid-roll ads, zero buffering, and zero cloud rent.",
+  "icon": "tuneout2focusin-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/tuneout2focusin",
+  "demoUrl": "https://864zeros.com/demo/tuneout2focusin/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/tuneout2focusin-qa-docket.html",
+  "tags_we_hope_work": [
+    "offline brown noise chrome extension no ads",
+    "adhd brown noise focus generator browser",
+    "white gray brown noise & rain extension",
+    "mynoise & brain fm free local alternative",
+    "block office chatter background noise tool",
+    "continuous ambient focus sound no buffering",
+    "local web audio noise synthesizer chrome edge",
+    "zero bandwidth offline focus soundscape",
+    "one-click distraction masking extension",
+    "no subscription focus audio browser tool"
   ],
-  "jsonld": {
-    "description": "One-click background-noise player for the Chrome side panel — white, gray, brown noise, and rain to mask distractions and help you focus. Local-first, no tracking.",
-    "featureList": [
-      "White, gray, brown noise and rain",
-      "One-click start/stop toggle",
-      "Volume slider",
-      "Keeps playing across tabs and when the panel is closed",
-      "Local-first, no accounts, no tracking",
-      "Optional one-time lifetime Data Backup (export/import settings)"
-    ]
+  "video": {
+    "src": "tuneout2focusin-master.mp4",
+    "shortSrc": "tuneout2focusin-short.mp4",
+    "poster": "tuneout2focusin-fhg-poster-16x9.svg",
+    "shortPoster": "tuneout2focusin-fhg-poster-9x16.svg",
+    "vtt": "tuneout2focusin-demo.vtt",
+    "shortVtt": "tuneout2focusin-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

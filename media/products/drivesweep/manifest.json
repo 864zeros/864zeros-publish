@@ -1,66 +1,40 @@
 {
   "slug": "drivesweep",
-  "category": "google-workspace-addons",
+  "name": "DriveSweep — Private Google Drive Duplicate Finder & Storage Cleaner",
+  "shortName": "DriveSweep",
+  "category": "google-add-ons",
   "pillar": "864F",
-  "ingested_at": "2026-09-09T02:00:00.000Z",
-  "type": "google-add-ons",
-  "name": "DriveSweep Local — Sovereign Drive Duplicate Finder & Storage Cleaner",
-  "summary": "Local-first Google Drive storage cleaner that finds and removes duplicate files, zero-byte empty documents, and stale orphans. Zero third-party servers, zero recurring subscriptions.",
-  "metaDescription": "DriveSweep Local scans Google Drive folders to detect duplicate files, zero-byte orphans, and reclaim storage natively. one-time lifetime license with zero subscriptions.",
-  "icon": "drivesweep.png",
-  "storeUrl": "",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Scans your Google Drive folders for exact duplicates, Copy-of clones, and zero-byte orphan files, logs a full audit sheet, and moves redundant copies safely to Drive Trash so you can reclaim storage immediately.",
+  "metaDescription": "Scan your Google Drive for duplicate files, zero-byte orphans, and storage hogs 100% inside your own account. No external cloud access and zero monthly rent.",
+  "icon": "drivesweep-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/drivesweep",
+  "demoUrl": "https://864zeros.com/demo/drivesweep/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/drivesweep-qa-docket.html",
+  "tags_we_hope_work": [
+    "google drive duplicate file finder",
+    "remove duplicate files in google drive",
+    "clean up google drive storage space",
+    "find copy of files google drive",
+    "private google drive cleaner add-on",
+    "delete empty & orphan files google drive",
+    "cloud duplicate finder alternative no upload",
+    "audit google drive large files in sheets",
+    "safe duplicate remover google workspace",
+    "one-time license drive storage cleaner"
+  ],
   "video": {
     "src": "drivesweep-master.mp4",
-    "poster": "drivesweep-thumbnail.png",
-    "tag": "⏱️ 44s Product Demo",
-    "title": "Watch DriveSweep Local in Action",
-    "desc": "Reclaim gigabytes of wasted Google Drive storage without handing full account keys to external cloud services. Scan target folders, inspect duplicate clusters, and trash redundant files with one click.",
-    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
-  },
-  "social_shorts": [
-    {
-      "id": "social-hook-pain",
-      "src": "drivesweep-social-pain.mp4",
-      "poster": "thumbnail-drivesweep-social-pain.png",
-      "angle": "google_storage_full_warnings_and_privacy_fears",
-      "duration": 24.4
-    },
-    {
-      "id": "social-hook-price",
-      "src": "drivesweep-social-price.mp4",
-      "poster": "thumbnail-drivesweep-social-price.png",
-      "angle": "paying_annual_subscriptions_for_drive_cleanup_scanners",
-      "duration": 26.1
-    }
-  ],
-  "shots": [
-    {
-      "img": "drivesweep-1.png",
-      "alt": "DriveSweep Local — folder duplicate scanning and storage audit metrics",
-      "cap": "Scan any Google Drive folder to discover duplicate files, zero-byte documents, and recoverable storage."
-    },
-    {
-      "img": "drivesweep-2.png",
-      "alt": "DriveSweep Local — duplicate clustering and safe batch trash execution",
-      "cap": "Inspect duplicate clusters with smart keep preferences and move redundant copies safely to Drive Trash."
-    },
-    {
-      "img": "drivesweep-3.png",
-      "alt": "DriveSweep Local — detailed Google Sheets audit ledger and lifetime ownership",
-      "cap": "Export comprehensive item-by-item audit ledgers directly to Google Sheets with zero recurring SaaS fees."
-    }
-  ],
-  "jsonld": {
-    "description": "Sovereign Google Drive duplicate finder and storage cleaner executing 100% locally in Apps Script without third-party servers.",
-    "featureList": [
-      "Targeted folder and subfolder recursive scanning",
-      "Duplicate file detection by exact name and byte-size signatures",
-      "Zero-byte empty file and stale document identification",
-      "Configurable keep rules (Keep Newest vs Keep Oldest)",
-      "Safe Drive Trash integration with 30-day restore guarantee",
-      "Automated Google Sheets audit ledger export",
-      "100% private in-account execution via non-restricted scopes",
-      "one-time lifetime license — zero recurring SaaS subscriptions"
-    ]
+    "shortSrc": "drivesweep-short.mp4",
+    "poster": "drivesweep-fhg-poster-16x9.svg",
+    "shortPoster": "drivesweep-fhg-poster-9x16.svg",
+    "vtt": "drivesweep-demo.vtt",
+    "shortVtt": "drivesweep-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

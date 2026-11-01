@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 7.51,
+    "duration": 7.51,
+    "text": "Need a better way to handle sending personalized mail merges from Google Sheets, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 7.51,
+    "end": 17.55,
+    "duration": 10.05,
+    "text": "Watch MailSync Shield in action: Dispatches your personalized campaigns without requesting access to read your existing Gmail messages, threads, or private attachments."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 17.55,
+    "end": 34.63,
+    "duration": 17.08,
+    "text": "Stamps each row in your Sheet the instant an email sends\u2014so if you pause or resume a large list, already-contacted recipients are never emailed twice. Plus, preview exact token replacements with a one-click test email to your own address before dispatching to your client, donor, or attendee list."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 34.63,
+    "end": 43.27,
+    "duration": 8.63,
+    "text": "Every email goes straight from your authenticated Google account to your recipient\u2014no third-party SMTP relays and no promotional watermarks."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 43.27,
+    "end": 52.08,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

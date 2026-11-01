@@ -1,77 +1,93 @@
-# FormQR & Barcode — YouTube Upload Metadata
-**DAM Product Folder:** `media/products/formqr/`  
-**Web Product Page:** https://864zeros.com/products/formqr  
-**Pricing Model:** one-time lifetime (No recurring subscriptions)  
+# FormQR & Barcode — Permanent Static QR & Code-128 Generator for Sheets & Drive — YouTube Publishing & D-UTA Search-Intent Docket
+
+- **Product Slug:** `formqr`
+- **Pillar:** `864F`
+- **Compliance:** `RULE-017` (Zero-Price), `RULE-018` (FHG Warm Parchment `#FDFCF8`), `RULE-019` (D-UTA Search Intent), `RULE-020` (Dual WebVTT CC), `RULE-035` (100/100 A+ Standard)
+- **Central Tag Registry (`D-UTA-TAG-ML`):** permanent qr code generator google sheets, non-expiring static qr code add-on, bulk barcode generator google sheets, code-128 inventory barcode google drive, create qr codes in google sheets without redirect, event badge qr generator google workspace, Insert qr code image in google sheets cell, no subscription qr & barcode maker, print ready vector qr code google drive, anti-hostage static qr code tool
 
 ---
-### 1. Tier 2 Master Explainer
-* **Video File:** `media/products/formqr/video/formqr-short.mp4`
-* **Suggested Thumbnail:** `media/products/formqr/video/thumbnail.png` (or `formqr-thumbnail.png`)
-* **YouTube Title:**
-```
-Permanent Static QR & Barcode Generator — FormQR & Barcode #Shorts
-```
-* **YouTube Description:**
-```
-Generate permanent, non-expiring QR codes and Code-128 barcodes from spreadsheet data and save high-resolution graphics directly to Google Drive. Zero tracking redirects, zero subscription fees.
 
-👉 Try FormQR & Barcode: https://864zeros.com/products/formqr
+## 1. Deliverable A — Quick Overview YouTube Short (`9:16` Vertical · `formqr-short.mp4`)
 
-🛡️ 100% Local-First & Sovereign: Runs on your device — no cloud lock-in, no tracking, zero telemetry.
-💰 Fair Ownership: one-time lifetime (No recurring monthly subscriptions).
+- **Video File:** `media/products/formqr/video/formqr-short.mp4` (`1080×1920`, `33.6s`, `en-US-AvaNeural` voiceover + Rhodes bed)
+- **Captions File (`WebVTT`):** `media/products/formqr/video/formqr-short.vtt`
+- **Poster / Thumbnail:** `media/products/formqr/video/formqr-fhg-poster-9x16.svg`
 
-🌐 Explore all 864zeros local-first browser tools: https://864zeros.com
-
-#Shorts #Productivity #GoogleWorkspace #Software #LocalFirst #AntiSaaS #864zeros
+### YouTube Short Title
+```text
+Permanent QR Codes & Barcodes That Never Expire or Hold Your Links Hostage — FormQR #Shorts
 ```
-* **Tags:** `formqr, formqr & barcode, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
+
+### YouTube Short Description (Zero-Price · RULE-017 Compliant)
+```text
+Generates permanent, high-resolution QR codes and Code-128 barcodes from any column in Google Sheets, embeds live previews in your cells, and saves print-ready PNG/SVG files directly to your Google Drive.
+
+While similar tools hide their features behind monthly subscriptions and lock up your data, FormQR does the opposite. Software that lives where you do—no accounts, no tracking, and zero cloud rent.
+
+👉 Product Overview & Dual Video Walkthrough: https://864zeros.com/products/formqr
+🧪 Try the Zero-Install Interactive Demo: https://864zeros.com/demo/formqr/index.html
+📄 Inspect the Verified Security & QA Docket: https://864zeros.com/products/formqr-qa-docket.html
+🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
+
+⏱️ Chapters:
+00:00 00:00–00:03.8
+00:08 00:03.8–00:09.5
+00:15 00:09.5–00:16.5
+00:24 00:16.5–00:22.0
+
+#Shorts #864zeros #LocalFirst #NoSubscription #PrivacyFirst #SovereignSoftware #GoogleWorkspace #GoogleSheets #GoogleForms
+```
+
+### Verbatim Transcript (Quick Overview Short)
+```text
+[00:00 - 00:08] (00:00–00:03.8): Tired of generating permanent QR codes and inventory barcodes from spreadsheets getting locked behind monthly subscriptions and external cloud portals?
+[00:08 - 00:15] (00:03.8–00:09.5): With FormQR, 100% Static Direct Encoding (Never Expires) runs right where you already work.
+[00:15 - 00:24] (00:09.5–00:16.5): Batch Column Processing in Google Sheets and High-Resolution Print-Ready PNG & SVG Output—100% under your own custody.
+[00:24 - 00:33] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
+```
 
 ---
-### 2. Tier 1 Social Short A (Pain Hook)
-* **Video File:** `media/products/formqr/video/formqr-social-pain.mp4`
-* **Suggested Thumbnail:** `media/products/formqr/video/thumbnail-formqr-social-pain.png`
-* **YouTube Title:**
+
+## 2. Deliverable B — Full Product Demo (`16:9` Widescreen · `formqr-master.mp4`)
+
+- **Video File:** `media/products/formqr/video/formqr-master.mp4` (`1920×1080`, `56.73s`, `en-US-AvaNeural` voiceover + Rhodes bed)
+- **Captions File (`WebVTT`):** `media/products/formqr/video/formqr-demo.vtt`
+- **Poster / Thumbnail:** `media/products/formqr/video/formqr-fhg-poster-16x9.svg`
+
+### YouTube Full Demo Title
+```text
+FormQR & Barcode — Permanent Static QR & Code-128 Generator for Sheets & Drive: Permanent QR Codes & Barcodes That Never Expire or Hold Your Links Hostage (Full Walkthrough)
 ```
-Expiring QR Redirect Links & Intrusive Ad Pages — FormQR & Barcode #Shorts
+
+### YouTube Full Demo Description (Zero-Price · RULE-017 Compliant)
+```text
+Generates permanent, high-resolution QR codes and Code-128 barcodes from any column in Google Sheets, embeds live previews in your cells, and saves print-ready PNG/SVG files directly to your Google Drive.
+
+Similar products treat generating permanent QR codes and inventory barcodes from spreadsheets like an excuse to become your new landlord—forcing your team into external dashboards, metered usage, and charging you every month. Many "free" QR websites secretly encode a tracking redirect URL that expires after 14 days and breaks your printed brochures until you pay monthly rent. FormQR encodes your exact URL or SKU directly into the graphic so every printed code works forever.
+
+👉 Product Page: https://864zeros.com/products/formqr
+🧪 Interactive HTML Sandbox: https://864zeros.com/demo/formqr/index.html
+📄 Security & QA Verification Docket: https://864zeros.com/products/formqr-qa-docket.html
+🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
+
+⏱️ Chapters:
+00:00 00:00–00:04.5
+00:08 00:04.5–00:11.0
+00:21 00:11.0–00:22.0
+00:39 00:22.0–00:31.0
+00:47 00:31.0–00:38.0
+
+🏷️ Search Tags (D-UTA-TAG-ML):
+permanent qr code generator google sheets, non-expiring static qr code add-on, bulk barcode generator google sheets, code-128 inventory barcode google drive, create qr codes in google sheets without redirect, event badge qr generator google workspace, Insert qr code image in google sheets cell, no subscription qr & barcode maker, print ready vector qr code google drive, anti-hostage static qr code tool
+
+#864zeros #LocalFirst #NoSubscription #PrivacyFirst #SovereignSoftware #GoogleWorkspace #GoogleSheets #GoogleForms
 ```
-* **YouTube Description:**
+
+### Verbatim Transcript (Full Product Demo)
+```text
+[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle generating permanent QR codes and inventory barcodes from spreadsheets, without handing your data to another monthly cloud landlord?
+[00:08 - 00:21] (00:04.5–00:11.0): Watch FormQR in action: Your URL, form link, or inventory SKU is encoded directly into the QR or Code-128 pattern—zero third-party redirect servers that can go down or paywall scans.
+[00:21 - 00:39] (00:11.0–00:22.0): Turn 500 rows of URLs, event badge IDs, or warehouse SKUs into Drive image files and live in-cell spreadsheet previews in one batch run. Plus, export crisp vector and high-DPI raster graphics directly into your chosen Google Drive folder for badge printing, packaging, and signage.
+[00:39 - 00:47] (00:22.0–00:31.0): When a customer or attendee scans your QR code, they go straight to your destination—no interstitial ads and no IP address harvesting.
+[00:47 - 00:56] (00:31.0–00:38.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
 ```
-Printed 500 brochures with free QR codes only to discover the links expire in 14 days?
-
-Meet FormQR & Barcode — the fast, local-first solution that solves this without messy cloud tools or broken exports.
-
-👉 Get FormQR & Barcode: https://864zeros.com/products/formqr
-
-🛡️ Zero tracking, zero cloud dependency — your data stays on your device.
-💰 one-time lifetime (No monthly subscription fees).
-
-🌐 Explore the full fleet: https://864zeros.com
-
-#Shorts #ProductivityHacks #TechTips #Workflow #GoogleWorkspace #864zeros
-```
-* **Tags:** `formqr, formqr & barcode, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----
-### 3. Tier 1 Social Short B (Price Hook)
-* **Video File:** `media/products/formqr/video/formqr-social-price.mp4`
-* **Suggested Thumbnail:** `media/products/formqr/video/thumbnail-formqr-social-price.png`
-* **YouTube Title:**
-```
-Paying Monthly SaaS for Static Code Generation — FormQR & Barcode #Shorts
-```
-* **YouTube Description:**
-```
-QR generator SaaS tools charging one-time lifetime nth for static codes? Create permanent codes forever.
-
-FormQR & Barcode gives you complete control with a single one-time lifetime (no recurring monthly subscriptions).
-
-👉 Get FormQR & Barcode: https://864zeros.com/products/formqr
-
-🛡️ Privacy-first by design — your data stays yours.
-🌐 Explore all tools: https://864zeros.com
-
-#Shorts #AntiSaaS #NoSubscription #Productivity #LocalFirst #864zeros
-```
-* **Tags:** `formqr, formqr & barcode, productivity, local first, 864zeros, no subscription, google workspace, google sheets, google forms, google docs, productivity hacks, office tips`
-
----

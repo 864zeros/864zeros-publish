@@ -1,37 +1,42 @@
 [
   {
-    "id": "scene1_hook",
-    "start": 0.0,
-    "end": 6.65,
-    "duration": 6.65,
-    "text": "An enterprise lead submitted your contact form, and nobody received an alert until Monday morning."
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.47,
+    "duration": 8.47,
+    "text": "Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord?"
   },
   {
-    "id": "scene2_intro",
-    "start": 6.65,
-    "end": 14.4,
-    "duration": 7.75,
-    "text": "Meet FormNotifier Pro. 100% sovereign, local-first execution right inside your Google Workspace account."
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.47,
+    "end": 18.32,
+    "duration": 9.86,
+    "text": "Watch FormNotifier in action: Route billing inquiries to Finance, urgent support tickets to Engineering, and regional leads to the matching sales rep automatically."
   },
   {
-    "id": "scene3_feature",
-    "start": 14.4,
-    "end": 24.65,
-    "duration": 10.25,
-    "text": "Conditional HTML email notifications and autoresponders for Google Forms. Zero watermarks, zero third-party relays, sovereign lifetime license."
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 18.32,
+    "end": 34.66,
+    "duration": 16.34,
+    "text": "Send instant confirmation receipts to the person who filled out your form with their submitted answers—and zero \"Sent via Free Add-on\" ad footers. Plus, personalize email subject lines, reply-to addresses, and HTML message bodies with any form field or submission timestamp."
   },
   {
-    "id": "scene4_pricing",
-    "start": 24.65,
-    "end": 34.05,
-    "duration": 9.4,
-    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. FormNotifier Pro is a single one-time unlock forever."
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 34.66,
+    "end": 42.69,
+    "duration": 8.03,
+    "text": "Tracks your remaining daily send capacity in real time and records a delivery timestamp for every notification right inside your response sheet."
   },
   {
-    "id": "scene5_cta",
-    "start": 34.05,
-    "end": 41.95,
-    "duration": 7.9,
-    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 42.69,
+    "end": 51.5,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
 ]

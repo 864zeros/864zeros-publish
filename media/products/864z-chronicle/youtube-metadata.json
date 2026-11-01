@@ -1,0 +1,54 @@
+{
+  "slug": "864z-chronicle",
+  "productName": "Chronicle — Private Local AI Chat History & Prompt Vault",
+  "pillar": "OIA",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "save chatgpt claude gemini history locally",
+    "ai chat history search extension",
+    "export claude and chatgpt to markdown",
+    "private ai prompt vault browser extension",
+    "search across chatgpt claude gemini",
+    "obsidian ai chat exporter",
+    "local ai conversation archive",
+    "chatgpt history backup tool",
+    "no cloud ai prompt manager",
+    "privacy-first ai chat saver"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Never Lose a Breakthrough AI Conversation Again — Chronicle #Shorts",
+      "videoFile": "media/products/864z-chronicle/video/864z-chronicle-short.mp4",
+      "vttFile": "media/products/864z-chronicle/video/864z-chronicle-short.vtt",
+      "posterFile": "media/products/864z-chronicle/video/864z-chronicle-fhg-poster-9x16.svg",
+      "audioFile": "media/products/864z-chronicle/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 29.69,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of saving and searching your AI conversations and prompts getting locked behind monthly subscriptions and external cloud portals? With Chronicle, Instant Cross-AI Full-Text Search runs right where you already work. Automatic Silent Capture as You Chat and One-Click Clean Markdown & JSON Export—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "Chronicle — Private Local AI Chat History & Prompt Vault: Never Lose a Breakthrough AI Conversation Again (Full Walkthrough)",
+      "videoFile": "media/products/864z-chronicle/video/864z-chronicle-master.mp4",
+      "vttFile": "media/products/864z-chronicle/video/864z-chronicle-demo.vtt",
+      "posterFile": "media/products/864z-chronicle/video/864z-chronicle-fhg-poster-16x9.svg",
+      "audioFile": "media/products/864z-chronicle/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 53.37,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle saving and searching your AI conversations and prompts, without handing your data to another monthly cloud landlord? Watch Chronicle in action: Search every prompt, code snippet, and answer across ChatGPT, Claude, and Gemini simultaneously from one browser side panel in milliseconds. No manual copy-pasting or clip buttons required. Chronicle saves your active threads automatically in the background while you focus on your work. Plus, export any conversation—complete with preserved code blocks and headings—directly to Obsidian, Notion, or your local hard drive. Your proprietary code, research, and company prompts never touch an external sync server. Everything stays sealed inside your local browser profile. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

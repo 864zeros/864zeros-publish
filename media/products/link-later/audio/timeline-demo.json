@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 7.53,
+    "duration": 7.53,
+    "text": "Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 7.53,
+    "end": 17.84,
+    "duration": 10.31,
+    "text": "Watch LinkLater in action: Capture why you saved an article while the thought is fresh\u2014attach quotes, tags, and priority flags right in the side panel without leaving your tab."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 17.84,
+    "end": 35.62,
+    "duration": 17.78,
+    "text": "Push single saved articles or a compiled weekly reading digest directly into your local Obsidian vault with clean frontmatter and links. Plus, filter your reading queue by tag, domain, or read/unread status in 0ms\u2014even when you are on a plane with no internet connection."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 35.62,
+    "end": 43.91,
+    "duration": 8.3,
+    "text": "Your reading list belongs to you. Export single items or your entire archive to standard Markdown or JSON anytime with zero lock-in."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 43.91,
+    "end": 52.72,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

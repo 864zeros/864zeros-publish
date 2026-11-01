@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.97,
+    "duration": 8.97,
+    "text": "Need a better way to handle stamping and removing draft watermarks across multi-page documents, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.97,
+    "end": 19.21,
+    "duration": 10.24,
+    "text": "Watch DocWatermarker in action: Apply or remove watermarks across 50-page, multi-section documents in a single click\u2014no manual header-by-header editing required."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 19.21,
+    "end": 35.76,
+    "duration": 16.55,
+    "text": "Automatically stamp the exact version date, local timezone timestamp, or reviewer name so printed and exported PDFs never go stale. Plus, preserves your existing body margins, table pagination, and section breaks so removing a DRAFT notice never wrecks your final layout."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 35.76,
+    "end": 45.57,
+    "duration": 9.81,
+    "text": "Never upload confidential M&A drafts, legal agreements, or HR policies to external PDF watermarking websites. Everything runs inside your Google Doc."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 45.57,
+    "end": 54.38,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

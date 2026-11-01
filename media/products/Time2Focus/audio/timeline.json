@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.49,
+    "duration": 8.49,
+    "text": "Need a better way to handle staying anchored to a single focus task while working in the browser, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.49,
+    "end": 19.11,
+    "duration": 10.62,
+    "text": "Watch Time2Focus in action: Type your current mission (\"Finish Section 2 Draft\") and keep it anchored beside your browser tabs so a quick lookup never turns into a 40-minute detour."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 19.11,
+    "end": 36,
+    "duration": 16.89,
+    "text": "Replaces startling alarm buzzers that shatter hyperfocus with a calm, local Web Audio chime and soft visual completion pulse. Plus, launch a sprint in one click using duration preset chips or custom minutes—backed by native browser alarms that stay accurate even when panels close."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 36,
+    "end": 45.55,
+    "duration": 9.54,
+    "text": "Review your completed focus sessions locally and export your history to JSON anytime—with zero logins, zero streaks guilt, and zero tracking."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 45.55,
+    "end": 54.36,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+  }
+]

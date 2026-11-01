@@ -1,66 +1,40 @@
 {
   "slug": "formqr",
-  "category": "google-workspace-addons",
+  "name": "FormQR & Barcode — Permanent Static QR & Code-128 Generator for Sheets & Drive",
+  "shortName": "FormQR",
+  "category": "google-add-ons",
   "pillar": "864F",
-  "ingested_at": "2026-09-09T02:45:00.000Z",
-  "type": "google-add-ons",
-  "name": "FormQR & Barcode — Permanent Static QR & Barcode Generator for Sheets & Drive",
-  "summary": "Generate permanent, non-expiring QR codes and Code-128 barcodes from spreadsheet data and save high-resolution graphics directly to Google Drive. Zero tracking redirects, zero subscription fees.",
-  "metaDescription": "FormQR & Barcode generates permanent, scannable QR codes and Code-128 barcodes in Google Sheets and saves them directly to Google Drive. one-time lifetime license.",
-  "icon": "formqr.png",
-  "storeUrl": "",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Generates permanent, high-resolution QR codes and Code-128 barcodes from any column in Google Sheets, embeds live previews in your cells, and saves print-ready PNG/SVG files directly to your Google Drive.",
+  "metaDescription": "Batch-generate permanent, non-expiring QR codes and Code-128 barcodes inside Google Sheets and Drive. Zero redirect traps, no tracking, and zero cloud rent.",
+  "icon": "formqr-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/formqr",
+  "demoUrl": "https://864zeros.com/demo/formqr/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/formqr-qa-docket.html",
+  "tags_we_hope_work": [
+    "permanent qr code generator google sheets",
+    "non-expiring static qr code add-on",
+    "bulk barcode generator google sheets",
+    "code-128 inventory barcode google drive",
+    "create qr codes in google sheets without redirect",
+    "event badge qr generator google workspace",
+    "Insert qr code image in google sheets cell",
+    "no subscription qr & barcode maker",
+    "print ready vector qr code google drive",
+    "anti-hostage static qr code tool"
+  ],
   "video": {
     "src": "formqr-master.mp4",
-    "poster": "formqr-thumbnail.png",
-    "tag": "⏱️ 46s Product Demo",
-    "title": "Watch FormQR & Barcode in Action",
-    "desc": "Batch generate permanent static QR codes and Code-128 barcodes directly from spreadsheet rows. Save image files into your own Google Drive folder or embed formulas directly into cells.",
-    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
-  },
-  "social_shorts": [
-    {
-      "id": "social-hook-pain",
-      "src": "formqr-social-pain.mp4",
-      "poster": "thumbnail-formqr-social-pain.png",
-      "angle": "expiring_qr_codes_and_ad_tracking_redirects",
-      "duration": 23.7
-    },
-    {
-      "id": "social-hook-price",
-      "src": "formqr-social-price.mp4",
-      "poster": "thumbnail-formqr-social-price.png",
-      "angle": "paying_monthly_saas_fees_for_static_qr_generation",
-      "duration": 24.8
-    }
-  ],
-  "shots": [
-    {
-      "img": "formqr-1.png",
-      "alt": "FormQR & Barcode — spreadsheet column selection and format controls",
-      "cap": "Select any spreadsheet column and generate high-resolution QR codes or Code-128 barcodes in bulk."
-    },
-    {
-      "img": "formqr-2.png",
-      "alt": "FormQR & Barcode — Google Drive vault storage and in-cell previews",
-      "cap": "Save permanent image assets directly into Google Drive with automatic thumbnail previews in your sheet."
-    },
-    {
-      "img": "formqr-3.png",
-      "alt": "FormQR & Barcode — non-expiring static codes and lifetime license",
-      "cap": "Static codes that never expire, break, or inject third-party ads. One-time license with zero subscriptions."
-    }
-  ],
-  "jsonld": {
-    "description": "Permanent QR code and Code-128 barcode generation utility executing 100% locally in Google Sheets and Drive without expiring redirect servers.",
-    "featureList": [
-      "Bulk QR code and Code-128 barcode generation from spreadsheet columns",
-      "Permanent, static destination encoding that never expires or breaks",
-      "Direct saving of high-resolution images to designated Google Drive folders",
-      "In-cell spreadsheet thumbnail previews via native =IMAGE() formulas",
-      "Multiple resolution presets (150px, 300px, 600px)",
-      "LockService mutex concurrency protection against race conditions",
-      "100% private in-account execution via non-restricted scopes",
-      "one-time lifetime license — zero recurring SaaS subscriptions"
-    ]
+    "shortSrc": "formqr-short.mp4",
+    "poster": "formqr-fhg-poster-16x9.svg",
+    "shortPoster": "formqr-fhg-poster-9x16.svg",
+    "vtt": "formqr-demo.vtt",
+    "shortVtt": "formqr-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

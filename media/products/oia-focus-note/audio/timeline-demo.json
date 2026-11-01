@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.25,
+    "duration": 8.25,
+    "text": "Need a better way to handle jotting quick working-memory notes without building a cluttered backlog, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.25,
+    "end": 18.99,
+    "duration": 10.74,
+    "text": "Watch Focus Note in action: Notes automatically clear 24 hours after your last edit\u2014eliminating stale clutter and giving your brain a fresh, guilt-free surface every day."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 18.99,
+    "end": 35.64,
+    "duration": 16.65,
+    "text": "No login walls, no folder trees, and no formatting toolbars. Open the side panel, paste a phone number or thought, and stay in your flow. Plus, wrote something worth keeping permanently? Copy it to your clipboard or download a clean plain-text file to your computer in a single click."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 35.64,
+    "end": 43.03,
+    "duration": 7.38,
+    "text": "Whatever you type\u2014confirmation codes, rough drafts, or private thoughts\u2014never leaves your device or touches a cloud server."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 43.03,
+    "end": 51.84,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

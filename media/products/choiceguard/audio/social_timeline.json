@@ -1,62 +1,34 @@
-{
-  "pain": {
-    "total_duration": 21.058028,
-    "scenes": [
-      {
-        "id": "pain_scene1_hook",
-        "text": "Two parents clicked the exact same volunteer slot at 8:01 AM. Who gets the seat?",
-        "duration": 5.704014,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\pain_scene1_hook.wav",
-        "start": 0.0,
-        "end": 5.704014
-      },
-      {
-        "id": "pain_scene2_solution",
-        "text": "ChoiceGuard locks Google Forms with atomic LockService mutex protection. Exhausted choices disappear in real time with zero race conditions.",
-        "duration": 8.704014,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\pain_scene2_solution.wav",
-        "start": 5.704014,
-        "end": 14.408028000000002
-      },
-      {
-        "id": "pain_scene3_cta",
-        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
-        "duration": 6.65,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\pain_scene3_cta.wav",
-        "start": 14.408028000000002,
-        "end": 21.058028
-      }
-    ],
-    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\soundtrack_pain.wav"
+[
+  {
+    "index": 1,
+    "label": "00:00–00:03.8",
+    "start": 0,
+    "end": 8.44,
+    "duration": 8.44,
+    "text": "Tired of limiting sign-up slots and workshop capacity in Google Forms getting locked behind monthly subscriptions and external cloud portals?"
   },
-  "price": {
-    "total_duration": 23.890023,
-    "scenes": [
-      {
-        "id": "price_scene1_hook",
-        "text": "Stop paying monthly subscription fees just to count how many times an option was chosen in Google Forms.",
-        "duration": 5.896009,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\price_scene1_hook.wav",
-        "start": 0.0,
-        "end": 5.896009
-      },
-      {
-        "id": "price_scene2_solution",
-        "text": "ChoiceGuard runs 100% locally inside Google Apps Script. Limit seats, workshop signups, and inventory forever with zero cloud rent.",
-        "duration": 9.688005,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\price_scene2_solution.wav",
-        "start": 5.896009,
-        "end": 15.584014
-      },
-      {
-        "id": "price_scene3_cta",
-        "text": "Just a single one-time unlock. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
-        "duration": 8.306009,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\price_scene3_cta.wav",
-        "start": 15.584014,
-        "end": 23.890023
-      }
-    ],
-    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\choiceguard\\social_shorts\\audio\\soundtrack_price.wav"
+  {
+    "index": 2,
+    "label": "00:03.8–00:09.5",
+    "start": 8.44,
+    "end": 13.88,
+    "duration": 5.44,
+    "text": "With ChoiceGuard, Zero Double-Booking Concurrency Protection runs right where you already work."
+  },
+  {
+    "index": 3,
+    "label": "00:09.5–00:16.5",
+    "start": 13.88,
+    "end": 21.82,
+    "duration": 7.94,
+    "text": "Per-Option Seat Caps & Automatic Form Closing and One-Click Original Choice Restoration—100% under your own custody."
+  },
+  {
+    "index": 4,
+    "label": "00:16.5–00:22.0",
+    "start": 21.82,
+    "end": 30.58,
+    "duration": 8.76,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
-}
+]

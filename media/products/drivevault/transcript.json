@@ -1,0 +1,125 @@
+{
+  "slug": "drivevault",
+  "productName": "DriveVault — Encrypted Local Snapshot & Offline Backup for Google Drive",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "drivevault-short.mp4",
+    "vtt": "drivevault-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 34.23,
+    "fullText": "Tired of backing up critical Google Drive folders to encrypted offline storage getting locked behind monthly subscriptions and external cloud portals? With DriveVault, Zero-Knowledge Client-Side AES-256 Encryption runs right where you already work. Automatic Google Docs & Sheets Format Conversion and Save Directly to Local Disk or Cold Storage SSD—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 8.59,
+        "duration": 8.59,
+        "text": "Tired of backing up critical Google Drive folders to encrypted offline storage getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 8.59,
+        "end": 15.59,
+        "duration": 7,
+        "text": "With DriveVault, Zero-Knowledge Client-Side AES-256 Encryption runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 15.59,
+        "end": 25.47,
+        "duration": 9.88,
+        "text": "Automatic Google Docs & Sheets Format Conversion and Save Directly to Local Disk or Cold Storage SSD—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 25.47,
+        "end": 34.23,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "drivevault-master.mp4",
+    "vtt": "drivevault-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 51.86,
+    "fullText": "Need a better way to handle backing up critical Google Drive folders to encrypted offline storage, without handing your data to another monthly cloud landlord? Watch DriveVault in action: Your archive is encrypted with a key derived from your private passphrase before download—zero backup vendors ever hold your keys or files. Automatically converts cloud-native Docs, Sheets, and Slides into portable DOCX, XLSX, and PDF files inside your offline snapshot. Plus, download self-contained vault bundles straight to your local hardware so your business survives any cloud outage or account lockout. Stop paying a second cloud company every month to store backups of files you already own. Unlock DriveVault once and back up on your schedule. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 8.61,
+        "duration": 8.61,
+        "text": "Need a better way to handle backing up critical Google Drive folders to encrypted offline storage, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 8.61,
+        "end": 18.39,
+        "duration": 9.78,
+        "text": "Watch DriveVault in action: Your archive is encrypted with a key derived from your private passphrase before download—zero backup vendors ever hold your keys or files."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 18.39,
+        "end": 34.97,
+        "duration": 16.58,
+        "text": "Automatically converts cloud-native Docs, Sheets, and Slides into portable DOCX, XLSX, and PDF files inside your offline snapshot. Plus, download self-contained vault bundles straight to your local hardware so your business survives any cloud outage or account lockout."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 34.97,
+        "end": 43.05,
+        "duration": 8.08,
+        "text": "Stop paying a second cloud company every month to store backups of files you already own. Unlock DriveVault once and back up on your schedule."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 43.05,
+        "end": 51.86,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle backing up critical Google Drive folders to encrypted offline storage, without handing your data to another monthly cloud landlord? Watch DriveVault in action: Your archive is encrypted with a key derived from your private passphrase before download—zero backup vendors ever hold your keys or files. Automatically converts cloud-native Docs, Sheets, and Slides into portable DOCX, XLSX, and PDF files inside your offline snapshot. Plus, download self-contained vault bundles straight to your local hardware so your business survives any cloud outage or account lockout. Stop paying a second cloud company every month to store backups of files you already own. Unlock DriveVault once and back up on your schedule. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 8.61,
+      "duration": 8.61,
+      "text": "Need a better way to handle backing up critical Google Drive folders to encrypted offline storage, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 8.61,
+      "end": 18.39,
+      "duration": 9.78,
+      "text": "Watch DriveVault in action: Your archive is encrypted with a key derived from your private passphrase before download—zero backup vendors ever hold your keys or files."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 18.39,
+      "end": 34.97,
+      "duration": 16.58,
+      "text": "Automatically converts cloud-native Docs, Sheets, and Slides into portable DOCX, XLSX, and PDF files inside your offline snapshot. Plus, download self-contained vault bundles straight to your local hardware so your business survives any cloud outage or account lockout."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 34.97,
+      "end": 43.05,
+      "duration": 8.08,
+      "text": "Stop paying a second cloud company every month to store backups of files you already own. Unlock DriveVault once and back up on your schedule."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 43.05,
+      "end": 51.86,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

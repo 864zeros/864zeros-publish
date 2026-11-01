@@ -1,0 +1,54 @@
+{
+  "slug": "drivevault",
+  "productName": "DriveVault — Encrypted Local Snapshot & Offline Backup for Google Drive",
+  "pillar": "864F",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "encrypted offline backup google drive",
+    "export google drive folder to encrypted zip",
+    "spanning & afi backup local alternative",
+    "protect against google account lockout",
+    "zero knowledge google workspace backup",
+    "convert google docs sheets to local backup",
+    "aes-256 local archive google drive",
+    "sovereign disaster recovery google drive",
+    "download encrypted drive snapshot",
+    "no subscription google drive backup tool"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Hold an Encrypted Offline Copy of Your Most Important Google Drive Folders — DriveVault #Shorts",
+      "videoFile": "media/products/drivevault/video/drivevault-short.mp4",
+      "vttFile": "media/products/drivevault/video/drivevault-short.vtt",
+      "posterFile": "media/products/drivevault/video/drivevault-fhg-poster-9x16.svg",
+      "audioFile": "media/products/drivevault/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 34.23,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of backing up critical Google Drive folders to encrypted offline storage getting locked behind monthly subscriptions and external cloud portals? With DriveVault, Zero-Knowledge Client-Side AES-256 Encryption runs right where you already work. Automatic Google Docs & Sheets Format Conversion and Save Directly to Local Disk or Cold Storage SSD—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "DriveVault — Encrypted Local Snapshot & Offline Backup for Google Drive: Hold an Encrypted Offline Copy of Your Most Important Google Drive Folders (Full Walkthrough)",
+      "videoFile": "media/products/drivevault/video/drivevault-master.mp4",
+      "vttFile": "media/products/drivevault/video/drivevault-demo.vtt",
+      "posterFile": "media/products/drivevault/video/drivevault-fhg-poster-16x9.svg",
+      "audioFile": "media/products/drivevault/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 51.86,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle backing up critical Google Drive folders to encrypted offline storage, without handing your data to another monthly cloud landlord? Watch DriveVault in action: Your archive is encrypted with a key derived from your private passphrase before download—zero backup vendors ever hold your keys or files. Automatically converts cloud-native Docs, Sheets, and Slides into portable DOCX, XLSX, and PDF files inside your offline snapshot. Plus, download self-contained vault bundles straight to your local hardware so your business survives any cloud outage or account lockout. Stop paying a second cloud company every month to store backups of files you already own. Unlock DriveVault once and back up on your schedule. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

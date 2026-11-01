@@ -1,62 +1,34 @@
-{
-  "pain": {
-    "total_duration": 23.290022999999998,
-    "scenes": [
-      {
-        "id": "pain_scene1_hook",
-        "text": "Ever spent 20 minutes manually removing 'DRAFT' watermarks from 40 pages and ruined every table?",
-        "duration": 6.496009,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\docwatermarker\\social_shorts\\audio\\pain_scene1_hook.wav",
-        "start": 0.0,
-        "end": 6.496009
-      },
-      {
-        "id": "pain_scene2_solution",
-        "text": "DocWatermarker Pro stamps and purges confidentiality notices across entire documents in seconds with header and footer precision. Zero broken layouts.",
-        "duration": 10.144014,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\docwatermarker\\social_shorts\\audio\\pain_scene2_solution.wav",
-        "start": 6.496009,
-        "end": 16.640023
-      },
-      {
-        "id": "pain_scene3_cta",
-        "text": "Available on the Google Workspace Marketplace for add-ons, or visit eight sixty-four zeros dot com.",
-        "duration": 6.65,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\docwatermarker\\social_shorts\\audio\\pain_scene3_cta.wav",
-        "start": 16.640023,
-        "end": 23.290022999999998
-      }
-    ],
-    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\docwatermarker\\social_shorts\\audio\\soundtrack_pain.wav"
+[
+  {
+    "index": 1,
+    "label": "00:00–00:03.8",
+    "start": 0,
+    "end": 8.66,
+    "duration": 8.66,
+    "text": "Tired of stamping and removing draft watermarks across multi-page documents getting locked behind monthly subscriptions and external cloud portals?"
   },
-  "price": {
-    "total_duration": 23.938028,
-    "scenes": [
-      {
-        "id": "price_scene1_hook",
-        "text": "Why pay monthly subscription fees just to add confidentiality headers and footers?",
-        "duration": 5.128005,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\docwatermarker\\social_shorts\\audio\\price_scene1_hook.wav",
-        "start": 0.0,
-        "end": 5.128005
-      },
-      {
-        "id": "price_scene2_solution",
-        "text": "DocWatermarker Pro runs 100% locally inside Google Docs Apps Script. Watermark contracts, NDAs, and legal drafts forever with zero cloud rent.",
-        "duration": 10.672018,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\docwatermarker\\social_shorts\\audio\\price_scene2_solution.wav",
-        "start": 5.128005,
-        "end": 15.800023
-      },
-      {
-        "id": "price_scene3_cta",
-        "text": "Just a single one-time unlock. Available on the Google Workspace Marketplace for add-ons at eight sixty-four zeros dot com.",
-        "duration": 8.138005,
-        "wav_path": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\docwatermarker\\social_shorts\\audio\\price_scene3_cta.wav",
-        "start": 15.800023,
-        "end": 23.938028
-      }
-    ],
-    "soundtrack": "C:\\dev\\864zeros-llc\\LLC-DIV-4-GTM\\videos\\docwatermarker\\social_shorts\\audio\\soundtrack_price.wav"
+  {
+    "index": 2,
+    "label": "00:03.8–00:09.5",
+    "start": 8.66,
+    "end": 14.65,
+    "duration": 5.99,
+    "text": "With DocWatermarker, One-Click Multi-Section Stamp & Purge runs right where you already work."
+  },
+  {
+    "index": 3,
+    "label": "00:09.5–00:16.5",
+    "start": 14.65,
+    "end": 22.95,
+    "duration": 8.3,
+    "text": "Dynamic Date, Time & Author Tokens and Non-Destructive Layout & Table Preservation—100% under your own custody."
+  },
+  {
+    "index": 4,
+    "label": "00:16.5–00:22.0",
+    "start": 22.95,
+    "end": 31.71,
+    "duration": 8.76,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
-}
+]

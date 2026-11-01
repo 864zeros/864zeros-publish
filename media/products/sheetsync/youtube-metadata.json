@@ -1,0 +1,54 @@
+{
+  "slug": "sheetsync",
+  "productName": "SheetSync — Fragile-IMPORTRANGE Replacement & Cross-Workbook Rollup Engine",
+  "pillar": "864F",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "importrange alternative no ref error",
+    "sync two google sheets automatically",
+    "coupler io & sheetgo alternative no subscription",
+    "upsert rows between google sheets by id",
+    "consolidate multiple google sheets into one master",
+    "fix importrange loading slow google sheets",
+    "two-way editable sync google sheets",
+    "scheduled cross-workbook rollup add-on",
+    "private in-account spreadsheet connector",
+    "one-time unlock google sheets sync tool"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Replace Fragile IMPORTRANGE Chains With Fast, Editable Cross-Sheet Sync — SheetSync #Shorts",
+      "videoFile": "media/products/sheetsync/video/sheetsync-short.mp4",
+      "vttFile": "media/products/sheetsync/video/sheetsync-short.vtt",
+      "posterFile": "media/products/sheetsync/video/sheetsync-fhg-poster-9x16.svg",
+      "audioFile": "media/products/sheetsync/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 32.35,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of syncing and consolidating data across multiple spreadsheets getting locked behind monthly subscriptions and external cloud portals? With SheetSync, Primary-Key Upsert, Append & Full Mirror Modes runs right where you already work. Static Value Sync Eliminates \"Loading...\" Hangs and Automated Hourly, 6-Hourly & Daily Rollups—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "SheetSync — Fragile-IMPORTRANGE Replacement & Cross-Workbook Rollup Engine: Replace Fragile IMPORTRANGE Chains With Fast, Editable Cross-Sheet Sync (Full Walkthrough)",
+      "videoFile": "media/products/sheetsync/video/sheetsync-master.mp4",
+      "vttFile": "media/products/sheetsync/video/sheetsync-demo.vtt",
+      "posterFile": "media/products/sheetsync/video/sheetsync-fhg-poster-16x9.svg",
+      "audioFile": "media/products/sheetsync/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 51,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle syncing and consolidating data across multiple spreadsheets, without handing your data to another monthly cloud landlord? Watch SheetSync in action: Update existing rows by matching an ID column, append new records, or mirror a source range cleanly without creating duplicate rows. Writes real cell values instead of volatile cross-workbook formulas—so your master executive dashboard opens instantaneously and stays editable. Plus, schedule background sync triggers that consolidate regional or department sheets into your master workbook automatically. Your financial models, inventory tables, and CRM rows move directly between your own Google Sheets—never routed through third-party cloud connectors. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

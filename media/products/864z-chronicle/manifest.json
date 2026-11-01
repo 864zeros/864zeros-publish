@@ -1,39 +1,40 @@
 {
   "slug": "864z-chronicle",
-  "category": "browser-extensions",
+  "name": "Chronicle — Private Local AI Chat History & Prompt Vault",
+  "shortName": "Chronicle",
+  "category": "extension",
   "pillar": "OIA",
-  "ingested_at": "2026-09-07T02:39:25.374Z",
-  "type": "extension",
-  "name": "Chronicle",
-  "summary": "Silently records your Gemini, Claude & ChatGPT chats to a local database. Search, star, and export to Markdown or JSON. 100% local.",
-  "metaDescription": "Silently records your Gemini, Claude & ChatGPT chats to a local database. Search, star, and export to Markdown or JSON. 100% local.",
-  "icon": "chronicle.png",
-  "storeUrl": "",
-  "shots": [
-    {
-      "img": "chronicle-1.png",
-      "alt": "Chronicle — every AI chat captured automatically to a local database",
-      "cap": "Every AI chat, captured for you — no copy-paste, no save button."
-    },
-    {
-      "img": "chronicle-2.png",
-      "alt": "Chronicle — search, star, and filter by Gemini, Claude, or ChatGPT",
-      "cap": "Search, star, and filter by Gemini, Claude, or ChatGPT."
-    },
-    {
-      "img": "chronicle-3.png",
-      "alt": "Chronicle — export a conversation to Markdown or your whole vault to JSON",
-      "cap": "Take any conversation with you — Markdown per chat, or your whole vault as JSON."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Automatically records your conversations across ChatGPT, Claude, and Gemini into a fast, searchable side-panel vault on your own computer—ready to star, filter, and export to clean Markdown or JSON in one click.",
+  "metaDescription": "Automatically save, search, and export your ChatGPT, Claude, and Gemini conversations to Markdown locally. No accounts, no tracking, and zero cloud rent.",
+  "icon": "864z-chronicle-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/864z-chronicle",
+  "demoUrl": "https://864zeros.com/demo/864z-chronicle/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/864z-chronicle-qa-docket.html",
+  "tags_we_hope_work": [
+    "save chatgpt claude gemini history locally",
+    "ai chat history search extension",
+    "export claude and chatgpt to markdown",
+    "private ai prompt vault browser extension",
+    "search across chatgpt claude gemini",
+    "obsidian ai chat exporter",
+    "local ai conversation archive",
+    "chatgpt history backup tool",
+    "no cloud ai prompt manager",
+    "privacy-first ai chat saver"
   ],
-  "jsonld": {
-    "description": "Silently records your Gemini, Claude, and ChatGPT conversations to a local on-device database. Search, star, filter, and export to Markdown or JSON. Local-first, never transmitted.",
-    "featureList": [
-      "Silent capture from Gemini, Claude, and ChatGPT",
-      "Search, star, and filter by source",
-      "Per-conversation and single-message Markdown export",
-      "Full-vault JSON export",
-      "100% local, never transmitted"
-    ]
+  "video": {
+    "src": "864z-chronicle-master.mp4",
+    "shortSrc": "864z-chronicle-short.mp4",
+    "poster": "864z-chronicle-fhg-poster-16x9.svg",
+    "shortPoster": "864z-chronicle-fhg-poster-9x16.svg",
+    "vtt": "864z-chronicle-demo.vtt",
+    "shortVtt": "864z-chronicle-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

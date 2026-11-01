@@ -1,64 +1,40 @@
 {
   "slug": "sheetsync",
-  "category": "google-workspace-addons",
+  "name": "SheetSync — Fragile-IMPORTRANGE Replacement & Cross-Workbook Rollup Engine",
+  "shortName": "SheetSync",
+  "category": "google-add-ons",
   "pillar": "864F",
-  "ingested_at": "2026-09-09T00:54:03.359Z",
-  "type": "google-add-ons",
-  "name": "SheetSync Local — Sovereign Cross-Sheet Range Mapper",
-  "summary": "Synchronize, roll up, and consolidate master spreadsheets across tabs and workbooks using native Google Sheets triggers. Zero SaaS middleware, zero third-party relays, and zero recurring monthly fees.",
-  "metaDescription": "SheetSync Local synchronizes and consolidates Google Sheets cross-workbook pipelines 100% locally. In-account Apps Script triggers, zero third-party servers, and one-time licensing.",
-  "icon": "sheetsync.png",
-  "storeUrl": "",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Synchronizes and consolidates rows across multiple Google Sheets tabs and separate workbooks by writing clean, static values via Append, Primary-Key Upsert, or Full Mirror modes.",
+  "metaDescription": "Consolidate and sync data across Google Sheets tabs and workbooks using static value upserts—eliminating IMPORTRANGE #REF! errors and monthly connector fees.",
+  "icon": "sheetsync-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/sheetsync",
+  "demoUrl": "https://864zeros.com/demo/sheetsync/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/sheetsync-qa-docket.html",
+  "tags_we_hope_work": [
+    "importrange alternative no ref error",
+    "sync two google sheets automatically",
+    "coupler io & sheetgo alternative no subscription",
+    "upsert rows between google sheets by id",
+    "consolidate multiple google sheets into one master",
+    "fix importrange loading slow google sheets",
+    "two-way editable sync google sheets",
+    "scheduled cross-workbook rollup add-on",
+    "private in-account spreadsheet connector",
+    "one-time unlock google sheets sync tool"
+  ],
   "video": {
     "src": "sheetsync-master.mp4",
-    "poster": "sheetsync-thumbnail.png",
-    "tag": "⏱️ 44s Product Demo",
-    "title": "Watch SheetSync Local in Action",
-    "desc": "Consolidate, map, and synchronize Google Sheets cross-workbook ranges locally. Three conflict resolution modes, automatic background sync triggers, and zero external database middlemen.",
-    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
-  },
-  "social_shorts": [
-    {
-      "id": "social-hook-pain",
-      "src": "sheetsync-social-pain.mp4",
-      "poster": "thumbnail-sheetsync-social-pain.png",
-      "angle": "broken_importrange_ref_errors",
-      "duration": 24.4
-    },
-    {
-      "id": "social-hook-price",
-      "src": "sheetsync-social-price.mp4",
-      "poster": "thumbnail-sheetsync-social-price.png",
-      "angle": "paying_35_per_month_for_sheet_connectors",
-      "duration": 24.1
-    }
-  ],
-  "shots": [
-    {
-      "img": "sheetsync-1.png",
-      "alt": "SheetSync Local — cross-sheet pipeline builder and tab mapper",
-      "cap": "Configure automated data pipelines between regional sheets and master consolidation tabs in seconds."
-    },
-    {
-      "img": "sheetsync-2.png",
-      "alt": "SheetSync Local — upsert by key and conflict resolution engine",
-      "cap": "Smart conflict resolution: append new records, upsert by primary key, or mirror full datasets atomically."
-    },
-    {
-      "img": "sheetsync-3.png",
-      "alt": "SheetSync Local — background time-driven automation and sovereign ownership",
-      "cap": "Schedule background sync on native Google triggers. Pay once, own forever with zero SaaS subscriptions."
-    }
-  ],
-  "jsonld": {
-    "description": "Cross-sheet range mapper and multi-workbook consolidation engine for Google Sheets: tab rollups, external sheet sync, native background triggers, and zero SaaS rent.",
-    "featureList": [
-      "Intra-workbook rollups consolidating multiple department tabs into a master view",
-      "Cross-workbook pipelines syncing external Google Sheets by URL or ID",
-      "Three sync strategies: Append New, Upsert by Primary Key, and Full Mirror",
-      "Native Google Apps Script time-driven automation (hourly, 6-hourly, daily)",
-      "LockService concurrency mutex eliminating write race conditions",
-      "100% sovereign in-account execution with zero external servers"
-    ]
+    "shortSrc": "sheetsync-short.mp4",
+    "poster": "sheetsync-fhg-poster-16x9.svg",
+    "shortPoster": "sheetsync-fhg-poster-9x16.svg",
+    "vtt": "sheetsync-demo.vtt",
+    "shortVtt": "sheetsync-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

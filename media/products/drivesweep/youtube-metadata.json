@@ -1,0 +1,54 @@
+{
+  "slug": "drivesweep",
+  "productName": "DriveSweep — Private Google Drive Duplicate Finder & Storage Cleaner",
+  "pillar": "864F",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "google drive duplicate file finder",
+    "remove duplicate files in google drive",
+    "clean up google drive storage space",
+    "find copy of files google drive",
+    "private google drive cleaner add-on",
+    "delete empty & orphan files google drive",
+    "cloud duplicate finder alternative no upload",
+    "audit google drive large files in sheets",
+    "safe duplicate remover google workspace",
+    "one-time license drive storage cleaner"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Reclaim Gigabytes of Google Drive Space—Without Handing Keys to a Cloud Cleaner — DriveSweep #Shorts",
+      "videoFile": "media/products/drivesweep/video/drivesweep-short.mp4",
+      "vttFile": "media/products/drivesweep/video/drivesweep-short.vtt",
+      "posterFile": "media/products/drivesweep/video/drivesweep-fhg-poster-9x16.svg",
+      "audioFile": "media/products/drivesweep/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 31.59,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of finding and cleaning duplicate files across Google Drive getting locked behind monthly subscriptions and external cloud portals? With DriveSweep, Exact Byte-Size & Filename Signature Matching runs right where you already work. Keep-Newest or Keep-Oldest Protection Rules and Safe Move-to-Trash (30-Day Restore Safety Net)—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "DriveSweep — Private Google Drive Duplicate Finder & Storage Cleaner: Reclaim Gigabytes of Google Drive Space—Without Handing Keys to a Cloud Cleaner (Full Walkthrough)",
+      "videoFile": "media/products/drivesweep/video/drivesweep-master.mp4",
+      "vttFile": "media/products/drivesweep/video/drivesweep-demo.vtt",
+      "posterFile": "media/products/drivesweep/video/drivesweep-fhg-poster-16x9.svg",
+      "audioFile": "media/products/drivesweep/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 51.67,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle finding and cleaning duplicate files across Google Drive, without handing your data to another monthly cloud landlord? Watch DriveSweep in action: Detects duplicate PDFs, videos, archives, and \"Copy of\" files across nested subfolders with zero external server indexing. Automatically preserve either the original master file or the most recently modified revision while sweeping redundant copies. Plus, never permanently destroys files behind your back. Swept duplicates move to your native Google Drive Trash and record a clickable restore link in Sheets. Every scan generates a clean Google Sheet report showing file paths, byte sizes, duplicate groups, and exact megabytes reclaimed. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 7.55,
+    "duration": 7.55,
+    "text": "Need a better way to handle parking research tabs and freeing up browser memory, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 7.55,
+    "end": 17.05,
+    "duration": 9.5,
+    "text": "Watch DataNap in action: Put heavy background tabs to sleep natively without closing them or losing their place in your tab bar\u2014and wake them instantly when you click back."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 17.05,
+    "end": 34.3,
+    "duration": 17.25,
+    "text": "Sweep a whole window of open tabs into a dated, searchable local list that survives browser updates, restarts, and system crashes. Plus, migrate years of saved OneTab links in one paste, and export any vaulted session to clean Markdown or JSON for Obsidian and local backups."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 34.3,
+    "end": 42.69,
+    "duration": 8.39,
+    "text": "Unlike free tab suspenders caught injecting tracking scripts, DataNap uses native browser APIs with zero outbound network permissions."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 42.69,
+    "end": 51.5,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

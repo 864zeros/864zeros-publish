@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 7.79,
+    "duration": 7.79,
+    "text": "Need a better way to handle saving and searching your AI conversations and prompts, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 7.79,
+    "end": 18.85,
+    "duration": 11.06,
+    "text": "Watch Chronicle in action: Search every prompt, code snippet, and answer across ChatGPT, Claude, and Gemini simultaneously from one browser side panel in milliseconds."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 18.85,
+    "end": 35.43,
+    "duration": 16.58,
+    "text": "No manual copy-pasting or clip buttons required. Chronicle saves your active threads automatically in the background while you focus on your work. Plus, export any conversation—complete with preserved code blocks and headings—directly to Obsidian, Notion, or your local hard drive."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 35.43,
+    "end": 44.56,
+    "duration": 9.14,
+    "text": "Your proprietary code, research, and company prompts never touch an external sync server. Everything stays sealed inside your local browser profile."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 44.56,
+    "end": 53.37,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+  }
+]

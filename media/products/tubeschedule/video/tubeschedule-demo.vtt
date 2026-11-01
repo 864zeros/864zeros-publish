@@ -1,0 +1,22 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.110
+Need a better way to handle scheduling YouTube videos and Shorts from Google Drive and Sheets, without handing your data to another monthly cloud landlord?
+
+2
+00:00:08.110 --> 00:00:20.000
+Watch TubeSchedule in action: Respects YouTube Data API v3 daily upload limits automatically—publishing up to 6 scheduled videos per day and rolling the remaining queue to tomorrow without errors.
+
+3
+00:00:20.000 --> 00:00:36.340
+Automatically configures titles, descriptions, tags, privacy states, `publishAt` timestamps, and custom thumbnails directly from your Sheet columns. Plus, see every queued Video and Short on your Google Calendar and drag calendar blocks to reschedule your YouTube release pipeline.
+
+4
+00:00:36.340 --> 00:00:44.130
+Your unreleased MP4 masters stream directly from your Google Drive to your YouTube channel—zero third-party social-scheduler seat fees.
+
+5
+00:00:44.130 --> 00:00:52.940
+Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
+

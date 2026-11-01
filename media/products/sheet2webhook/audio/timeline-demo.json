@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.9,
+    "duration": 8.9,
+    "text": "Need a better way to handle firing webhook notifications and API payloads from spreadsheet rows, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.9,
+    "end": 19.93,
+    "duration": 11.03,
+    "text": "Watch Sheet2Webhook in action: Dispatch 10 or 10,000 row updates straight from your Google Sheet to Slack, Discord, or your backend API without paying per-task middleware markups."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 19.93,
+    "end": 35.62,
+    "duration": 15.69,
+    "text": "Automatically stamps each dispatched row with the HTTP response code and timestamp so unrelated cell edits never spam your channel twice. Plus, configure custom Authorization headers and JSON payload mappings that stay privately inside your own Google Sheet properties."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 35.62,
+    "end": 43.58,
+    "duration": 7.96,
+    "text": "Fire webhooks only when specific conditions are met\u2014such as when Status flips to \"Approved\" or Inventory drops below a threshold."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 43.58,
+    "end": 52.39,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

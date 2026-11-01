@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 7.94,
+    "duration": 7.94,
+    "text": "Need a better way to handle auditing third-party trackers and identity vendors on websites, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 7.94,
+    "end": 18.66,
+    "duration": 10.72,
+    "text": "Watch Who Is Watching in action: Translates obscure tracking domains into plain-English company names across Ad-Tech, Session Recording, Fingerprinting, and Analytics categories."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 18.66,
+    "end": 34.8,
+    "duration": 16.14,
+    "text": "See the actual persistent identifier keys and pixel IDs set in your browser during the session—not just a vague counter. Plus, export a timestamped compliance and security report of every tracker detected on a page for GDPR, FERPA, or vendor procurement audits."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 34.8,
+    "end": 43.15,
+    "duration": 8.34,
+    "text": "Unlike commercial tracker extensions owned by ad conglomerates, Who Is Watching runs 100% on your device with zero outbound network calls."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 43.15,
+    "end": 51.96,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+  }
+]

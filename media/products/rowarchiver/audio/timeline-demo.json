@@ -1,0 +1,42 @@
+[
+  {
+    "index": 1,
+    "label": "00:00\u201300:04.5",
+    "start": 0.0,
+    "end": 8.18,
+    "duration": 8.18,
+    "text": "Need a better way to handle archiving completed spreadsheet rows to keep live trackers fast, without handing your data to another monthly cloud landlord?"
+  },
+  {
+    "index": 2,
+    "label": "00:04.5\u201300:11.0",
+    "start": 8.18,
+    "end": 18.15,
+    "duration": 9.98,
+    "text": "Watch RowArchiver in action: Moves completed rows from the bottom up with built-in concurrency locking so active row indexes and adjacent formulas never shift or corrupt."
+  },
+  {
+    "index": 3,
+    "label": "00:11.0\u201300:22.0",
+    "start": 18.15,
+    "end": 34.2,
+    "duration": 16.05,
+    "text": "Preview the exact count of rows matching your rule (such as Status = \"Completed\" or Date older than 30 days) before moving a single cell. Plus, set an automatic overnight or hourly schedule so completed tasks evacuate to your Archive tab while your team sleeps."
+  },
+  {
+    "index": 4,
+    "label": "00:22.0\u201300:31.0",
+    "start": 34.2,
+    "end": 42.69,
+    "duration": 8.49,
+    "text": "Automatically creates your destination Archive tab with matching column headers and formatting\u2014100% inside your own Google Sheet."
+  },
+  {
+    "index": 5,
+    "label": "00:31.0\u201300:38.0",
+    "start": 42.69,
+    "end": 51.5,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent\u2014at 864zeros.com."
+  }
+]

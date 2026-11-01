@@ -1,37 +1,42 @@
 [
   {
-    "id": "scene1_hook",
-    "start": 0.0,
-    "end": 5.52,
-    "duration": 5.52,
-    "text": "Still manually re-typing form responses into contract templates every single afternoon?"
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.13,
+    "duration": 8.13,
+    "text": "Need a better way to handle merging form responses into custom documents and PDFs, without handing your data to another monthly cloud landlord?"
   },
   {
-    "id": "scene2_intro",
-    "start": 5.52,
-    "end": 13.49,
-    "duration": 7.97,
-    "text": "Meet Form2Docx Local. 100% sovereign, local-first execution right inside your Google Workspace account."
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.13,
+    "end": 19.33,
+    "duration": 11.2,
+    "text": "Watch Form2Docx in action: Place simple {{Question Title}} tags anywhere in your Google Doc header, body, or tables and watch Form2Docx populate them automatically on submit."
   },
   {
-    "id": "scene3_feature",
-    "start": 13.49,
-    "end": 25.59,
-    "duration": 12.1,
-    "text": "Merge Google Forms submissions into customized Google Docs and downloadable PDFs stored in your Drive. Zero third-party conversion servers, zero submission caps, and zero recurring subscriptions."
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 19.33,
+    "end": 37.92,
+    "duration": 18.59,
+    "text": "Output an editable Google Doc, a locked print-ready PDF, or both directly into your designated Google Drive destination folder. Plus, name generated files automatically using form answers—such as \"2026-Contract-{{Client Name}}.pdf\"—and log the direct Drive link back into your Sheet."
   },
   {
-    "id": "scene4_pricing",
-    "start": 25.59,
-    "end": 35.32,
-    "duration": 9.74,
-    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. Form2Docx Local is a single one-time unlock forever."
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 37.92,
+    "end": 46.96,
+    "duration": 9.04,
+    "text": "Your legal, medical, and client intake answers never leave your Google account—and your generated PDFs never carry third-party promotional stamps."
   },
   {
-    "id": "scene5_cta",
-    "start": 35.32,
-    "end": 43.22,
-    "duration": 7.9,
-    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 46.96,
+    "end": 55.77,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
 ]

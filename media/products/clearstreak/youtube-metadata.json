@@ -1,0 +1,54 @@
+{
+  "slug": "clearstreak",
+  "productName": "ClearStreak — Private On-Device Habit, Streak & Recovery Companion",
+  "pillar": "FHG",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "private offline sobriety tracker app",
+    "i am sober alternative no cloud",
+    "encrypted habit & streak tracker android",
+    "data over shame habit companion",
+    "no account recovery milestone counter",
+    "adhd friendly streak tracker no reset shame",
+    "halt check-in & urge grounding app",
+    "zero telemetry mental health habit app",
+    "quit drinking & smoking private counter",
+    "one-time unlock habit tracker app"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Data Over Shame: Private Habit & Recovery Tracking You Truly Own — ClearStreak #Shorts",
+      "videoFile": "media/products/clearstreak/video/clearstreak-short.mp4",
+      "vttFile": "media/products/clearstreak/video/clearstreak-short.vtt",
+      "posterFile": "media/products/clearstreak/video/clearstreak-fhg-poster-9x16.svg",
+      "audioFile": "media/products/clearstreak/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 34.23,
+      "youtubeUrl": "https://www.youtube.com/watch?v=MlhLF-nHkpg",
+      "status": "PUBLISHED_UNLISTED",
+      "transcript": "Tired of tracking personal habits, sobriety streaks, and recovery milestones getting locked behind monthly subscriptions and external cloud portals? With ClearStreak, Data Over Shame (Lifetime Progress Preserved) runs right where you already work. Always-Free Rescue Hub & Haptic Grounding and 256-Bit Encrypted On-Device Storage & Biometric Lock—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "ClearStreak — Private On-Device Habit, Streak & Recovery Companion: Data Over Shame: Private Habit & Recovery Tracking You Truly Own (Full Walkthrough)",
+      "videoFile": "media/products/clearstreak/video/clearstreak-master.mp4",
+      "vttFile": "media/products/clearstreak/video/clearstreak-demo.vtt",
+      "posterFile": "media/products/clearstreak/video/clearstreak-fhg-poster-16x9.svg",
+      "audioFile": "media/products/clearstreak/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 54.6,
+      "youtubeUrl": "https://www.youtube.com/watch?v=i9jxmB3m8q8",
+      "status": "PUBLISHED_UNLISTED",
+      "transcript": "Need a better way to handle tracking personal habits, sobriety streaks, and recovery milestones, without handing your data to another monthly cloud landlord? Watch ClearStreak in action: Having a slip or off day resets only your current run while permanently keeping your Lifetime Days, Personal Bests, and earned Milestone Coins intact. Access eyes-free 4x4 haptic breathing, the Tactile Pocket Anchor, HALT trigger check-ins, and crisis lifelines anytime—never locked behind a paywall. Plus, your journals, urges, and check-ins are encrypted at rest on your phone with biometric unlock, screenshot blocking, and zero network permissions. Switching phones? Export an encrypted backup file directly to your own storage and restore it offline without ever creating a cloud account. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

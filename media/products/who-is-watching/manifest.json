@@ -1,38 +1,40 @@
 {
   "slug": "who-is-watching",
-  "category": "browser-extensions",
+  "name": "Who Is Watching — Real-Time Tracker, Ad-Tech Vendor & Identity ID Inspector",
+  "shortName": "Who Is Watching",
+  "category": "extension",
   "pillar": "OIA",
-  "ingested_at": "2026-09-07T02:39:25.435Z",
-  "type": "extension",
-  "name": "Who Is Watching",
-  "summary": "See who is tracking you on any page — analytics, ad-tech, and identity vendors, with the IDs they set. 100% local. No account.",
-  "metaDescription": "See who is tracking you on any page — analytics, ad-tech, and identity vendors, with the IDs they set. 100% local. No account.",
-  "icon": "who-is-watching.png",
-  "storeUrl": "",
-  "shots": [
-    {
-      "img": "who-is-watching-1.png",
-      "alt": "Who Is Watching — live map of the trackers firing on the current page",
-      "cap": "See who's tracking you on this page — in plain language."
-    },
-    {
-      "img": "who-is-watching-2.png",
-      "alt": "Who Is Watching — the identifiers vendors set on you, from requests and cookies",
-      "cap": "The IDs vendors set on you, pulled from requests and cookies."
-    },
-    {
-      "img": "who-is-watching-3.png",
-      "alt": "Who Is Watching — local HTML and Markdown report export",
-      "cap": "Local by design. Export an HTML or Markdown report — nothing leaves your device."
-    }
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Inspects the current webpage in real time to reveal every analytics network, ad-tech exchange, and identity-resolution vendor watching your session—plus the exact tracking cookies and IDs they set.",
+  "metaDescription": "Expose the exact analytics, ad-tech, and identity-resolution vendors active on any webpage—along with the tracking IDs they set—100% locally in your browser.",
+  "icon": "who-is-watching-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/who-is-watching",
+  "demoUrl": "https://864zeros.com/demo/who-is-watching/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/who-is-watching-qa-docket.html",
+  "tags_we_hope_work": [
+    "see who is tracking me on a website",
+    "inspect ad-tech vendors & tracking cookies",
+    "ghostery & privacy badger local alternative",
+    "website privacy & gdpr tracker audit tool",
+    "expose identity resolution pixels in chrome",
+    "export website tracker forensic report",
+    "real-time third-party script inspector",
+    "zero telemetry privacy audit extension",
+    "check website tracking ids & pixels locally",
+    "no account website surveillance detector"
   ],
-  "jsonld": {
-    "description": "See who is tracking you on any page — analytics, ad-tech, and identity vendors, plus the IDs they set. Local-first; no account, no server.",
-    "featureList": [
-      "Live vendor detection on the current page",
-      "Surfaces tracking IDs from requests and cookies",
-      "Activity timeline and identity graph",
-      "HTML and Markdown report export"
-    ]
+  "video": {
+    "src": "who-is-watching-master.mp4",
+    "shortSrc": "who-is-watching-short.mp4",
+    "poster": "who-is-watching-fhg-poster-16x9.svg",
+    "shortPoster": "who-is-watching-fhg-poster-9x16.svg",
+    "vtt": "who-is-watching-demo.vtt",
+    "shortVtt": "who-is-watching-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

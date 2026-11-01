@@ -1,37 +1,42 @@
 [
   {
-    "id": "scene1_hook",
-    "start": 0.0,
-    "end": 6.24,
-    "duration": 6.24,
-    "text": "Your automation middleware reached its monthly task limit, and new orders stopped syncing entirely."
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 8.9,
+    "duration": 8.9,
+    "text": "Need a better way to handle firing webhook notifications and API payloads from spreadsheet rows, without handing your data to another monthly cloud landlord?"
   },
   {
-    "id": "scene2_intro",
-    "start": 6.24,
-    "end": 13.78,
-    "duration": 7.54,
-    "text": "Meet Sheet2Webhook. 100% sovereign, local-first execution right inside your Google Workspace account."
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 8.9,
+    "end": 19.93,
+    "duration": 11.03,
+    "text": "Watch Sheet2Webhook in action: Dispatch 10 or 10,000 row updates straight from your Google Sheet to Slack, Discord, or your backend API without paying per-task middleware markups."
   },
   {
-    "id": "scene3_feature",
-    "start": 13.78,
-    "end": 26.31,
-    "duration": 12.53,
-    "text": "Fire formatted HTTP POST webhooks to Slack, Discord, Zapier, Make, and REST endpoints instantly when spreadsheet rows change. 100% private in-account Apps Script execution."
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 19.93,
+    "end": 35.62,
+    "duration": 15.69,
+    "text": "Automatically stamps each dispatched row with the HTTP response code and timestamp so unrelated cell edits never spam your channel twice. Plus, configure custom Authorization headers and JSON payload mappings that stay privately inside your own Google Sheet properties."
   },
   {
-    "id": "scene4_pricing",
-    "start": 26.31,
-    "end": 35.52,
-    "duration": 9.21,
-    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. Sheet2Webhook is a single one-time unlock forever."
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 35.62,
+    "end": 43.58,
+    "duration": 7.96,
+    "text": "Fire webhooks only when specific conditions are met—such as when Status flips to \"Approved\" or Inventory drops below a threshold."
   },
   {
-    "id": "scene5_cta",
-    "start": 35.52,
-    "end": 43.41,
-    "duration": 7.9,
-    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 43.58,
+    "end": 52.39,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
 ]

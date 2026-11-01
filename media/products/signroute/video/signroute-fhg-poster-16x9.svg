@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="SignRoute Full Product Demo Poster">
+  <defs>
+    <linearGradient id="bg169" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FDFCF8"/>
+      <stop offset="100%" stop-color="#F3E9DA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg169)"/>
+  <rect x="36" y="36" width="1848" height="1008" rx="36" fill="none" stroke="#D8C7B0" stroke-width="4"/>
+
+  <!-- Top Bar -->
+  <rect x="88" y="84" width="420" height="56" rx="28" fill="#8B6642"/>
+  <text x="298" y="120" text-anchor="middle" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="24" font-weight="800" fill="#FFFFFF">🖥️ FULL PRODUCT DEMO · 16:9</text>
+
+  <rect x="530" y="84" width="380" height="56" rx="28" fill="#ECFDF5" stroke="#86EFAC" stroke-width="2"/>
+  <text x="720" y="120" text-anchor="middle" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="22" font-weight="800" fill="#166534">✓ 100% LOCAL / IN-ACCOUNT</text>
+
+  <!-- Main Heading -->
+  <text x="88" y="235" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="64" font-weight="900" fill="#2D2D2D">SignRoute — Unlimited Digital Signatures &amp; Sealed PDF Ro</text>
+  <text x="88" y="300" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="30" font-weight="700" fill="#705032">Sign Google Docs &amp; Archive Sealed PDFs—Without Per-Envelope SaaS Rent</text>
+
+  <!-- 2x2 Capability Grid -->
+  <rect x="88" y="360" width="840" height="210" rx="24" fill="#FFFFFF" stroke="#E6DAC8" stroke-width="3"/>
+  <text x="128" y="435" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="32" font-weight="800" fill="#2D2D2D">✍️ Responsive HTML5 Signature Canvas in Docs</text>
+  <text x="128" y="495" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="23" font-weight="600" fill="#5C5C5C">Draw a smooth, high-DPI signature with your mouse, trackpad, or styl...</text>
+
+  <rect x="972" y="360" width="860" height="210" rx="24" fill="#FFFFFF" stroke="#E6DAC8" stroke-width="3"/>
+  <text x="1012" y="435" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="32" font-weight="800" fill="#2D2D2D">📍 Stamp at {{Signature}} Tokens or Cursor P</text>
+  <text x="1012" y="495" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="23" font-weight="600" fill="#5C5C5C">Automatically place your signature graphic and cryptographic timesta...</text>
+
+  <rect x="88" y="605" width="840" height="210" rx="24" fill="#FFFFFF" stroke="#E6DAC8" stroke-width="3"/>
+  <text x="128" y="680" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="32" font-weight="800" fill="#2D2D2D">📄 Instant Sealed PDF Archival to Google Dri</text>
+  <text x="128" y="740" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="23" font-weight="600" fill="#5C5C5C">Compiles the signed Google Doc into a flattened, tamper-evident PDF ...</text>
+
+  <rect x="972" y="605" width="860" height="210" rx="24" fill="#FFFFFF" stroke="#E6DAC8" stroke-width="3"/>
+  <text x="1012" y="680" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="32" font-weight="800" fill="#2D2D2D">🚫 Zero Per-Envelope Fees &amp; Zero External Co</text>
+  <text x="1012" y="740" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="23" font-weight="600" fill="#5C5C5C">Your NDAs, vendor approvals, and equipment handoffs never sit on a t...</text>
+
+  <!-- Footer Banner -->
+  <rect x="88" y="868" width="1744" height="112" rx="24" fill="#F6EFE4" stroke="#D8C7B0" stroke-width="3"/>
+  <text x="960" y="936" text-anchor="middle" font-family="'Nunito','Inter',system-ui,sans-serif" font-size="30" font-weight="800" fill="#2D2D2D">Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.</text>
+</svg>

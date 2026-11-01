@@ -1,0 +1,54 @@
+{
+  "slug": "drivedrop",
+  "productName": "DriveDrop — Client File Request & Direct-to-Drive Upload Portal",
+  "pillar": "864F",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "google drive file request link no sign in",
+    "google forms file upload without sign in",
+    "collect files from clients to google drive",
+    "filedrop & pigeonfiles alternative",
+    "client document upload portal google drive",
+    "receive files in google drive from anyone",
+    "secure vendor file dropzone google workspace",
+    "auto rename uploaded files google drive",
+    "pin protected google drive upload page",
+    "no subscription client file portal"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Collect Client Files Directly Into Your Google Drive—With Zero Google Sign-In Wall — DriveDrop #Shorts",
+      "videoFile": "media/products/drivedrop/video/drivedrop-short.mp4",
+      "vttFile": "media/products/drivedrop/video/drivedrop-short.vtt",
+      "posterFile": "media/products/drivedrop/video/drivedrop-fhg-poster-9x16.svg",
+      "audioFile": "media/products/drivedrop/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 32.14,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of collecting client files and documents into Google Drive without login walls getting locked behind monthly subscriptions and external cloud portals? With DriveDrop, Zero Google Account Required for Uploaders runs right where you already work. Automatic Submitter File Naming & Organization and Optional PIN Protection & File-Type Whitelists—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "DriveDrop — Client File Request & Direct-to-Drive Upload Portal: Collect Client Files Directly Into Your Google Drive—With Zero Google Sign-In Wall (Full Walkthrough)",
+      "videoFile": "media/products/drivedrop/video/drivedrop-master.mp4",
+      "vttFile": "media/products/drivedrop/video/drivedrop-demo.vtt",
+      "posterFile": "media/products/drivedrop/video/drivedrop-fhg-poster-16x9.svg",
+      "audioFile": "media/products/drivedrop/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 54.67,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle collecting client files and documents into Google Drive without login walls, without handing your data to another monthly cloud landlord? Watch DriveDrop in action: External clients open your link, enter their name, and drop files straight from their phone or laptop—no Google sign-in friction or bounced email attachments. Every uploaded file is automatically prefixed with the submitter name, email, and timestamp so five vendors uploading invoice.pdf never overwrite each other. Plus, gate your dropzone with an access PIN, restrict allowed file extensions (such as PDF, DOCX, or ZIP), and enforce maximum file size rules. Your clients' sensitive files travel directly into your own Google Drive folder—never stored on third-party file-request servers. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

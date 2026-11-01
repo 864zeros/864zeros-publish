@@ -1,37 +1,42 @@
 [
   {
-    "id": "scene1_hook",
-    "start": 0.0,
-    "end": 5.45,
-    "duration": 5.45,
-    "text": "Did you know most mail merge add-ons route your confidential client list through unknown external servers?"
+    "index": 1,
+    "label": "00:00–00:04.5",
+    "start": 0,
+    "end": 7.51,
+    "duration": 7.51,
+    "text": "Need a better way to handle sending personalized mail merges from Google Sheets, without handing your data to another monthly cloud landlord?"
   },
   {
-    "id": "scene2_intro",
-    "start": 5.45,
-    "end": 13.18,
-    "duration": 7.73,
-    "text": "Meet MailSync Shield. 100% sovereign, local-first execution right inside your Google Workspace account."
+    "index": 2,
+    "label": "00:04.5–00:11.0",
+    "start": 7.51,
+    "end": 17.55,
+    "duration": 10.05,
+    "text": "Watch MailSync Shield in action: Dispatches your personalized campaigns without requesting access to read your existing Gmail messages, threads, or private attachments."
   },
   {
-    "id": "scene3_feature",
-    "start": 13.18,
-    "end": 25.01,
-    "duration": 11.83,
-    "text": "Personalized email merge engine operating directly from Google Sheets via native Gmail quotas. Zero external mail-relay servers, zero inbox snooping, and zero recurring subscriptions."
+    "index": 3,
+    "label": "00:11.0–00:22.0",
+    "start": 17.55,
+    "end": 34.63,
+    "duration": 17.08,
+    "text": "Stamps each row in your Sheet the instant an email sends—so if you pause or resume a large list, already-contacted recipients are never emailed twice. Plus, preview exact token replacements with a one-click test email to your own address before dispatching to your client, donor, or attendee list."
   },
   {
-    "id": "scene4_pricing",
-    "start": 25.01,
-    "end": 34.29,
-    "duration": 9.28,
-    "text": "Best of all, zero recurring subscriptions! Other tools charge monthly rent. MailSync Shield is a single one-time unlock forever."
+    "index": 4,
+    "label": "00:22.0–00:31.0",
+    "start": 34.63,
+    "end": 43.27,
+    "duration": 8.63,
+    "text": "Every email goes straight from your authenticated Google account to your recipient—no third-party SMTP relays and no promotional watermarks."
   },
   {
-    "id": "scene5_cta",
-    "start": 34.29,
-    "end": 42.19,
-    "duration": 7.9,
-    "text": "Get it on the Google Workspace Marketplace for add-ons, or take back sovereign control today at eight sixty-four zeros dot com."
+    "index": 5,
+    "label": "00:31.0–00:38.0",
+    "start": 43.27,
+    "end": 52.08,
+    "duration": 8.81,
+    "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
   }
 ]

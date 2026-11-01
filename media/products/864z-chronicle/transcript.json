@@ -1,0 +1,125 @@
+{
+  "slug": "864z-chronicle",
+  "productName": "Chronicle — Private Local AI Chat History & Prompt Vault",
+  "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "shortVideo": {
+    "file": "864z-chronicle-short.mp4",
+    "vtt": "864z-chronicle-short.vtt",
+    "aspectRatio": "9:16",
+    "durationSec": 29.69,
+    "fullText": "Tired of saving and searching your AI conversations and prompts getting locked behind monthly subscriptions and external cloud portals? With Chronicle, Instant Cross-AI Full-Text Search runs right where you already work. Automatic Silent Capture as You Chat and One-Click Clean Markdown & JSON Export—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:03.8",
+        "start": 0,
+        "end": 7.77,
+        "duration": 7.77,
+        "text": "Tired of saving and searching your AI conversations and prompts getting locked behind monthly subscriptions and external cloud portals?"
+      },
+      {
+        "stepLabel": "00:03.8–00:09.5",
+        "start": 7.77,
+        "end": 12.87,
+        "duration": 5.1,
+        "text": "With Chronicle, Instant Cross-AI Full-Text Search runs right where you already work."
+      },
+      {
+        "stepLabel": "00:09.5–00:16.5",
+        "start": 12.87,
+        "end": 20.93,
+        "duration": 8.06,
+        "text": "Automatic Silent Capture as You Chat and One-Click Clean Markdown & JSON Export—100% under your own custody."
+      },
+      {
+        "stepLabel": "00:16.5–00:22.0",
+        "start": 20.93,
+        "end": 29.69,
+        "duration": 8.76,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "demoVideo": {
+    "file": "864z-chronicle-master.mp4",
+    "vtt": "864z-chronicle-demo.vtt",
+    "aspectRatio": "16:9",
+    "durationSec": 53.37,
+    "fullText": "Need a better way to handle saving and searching your AI conversations and prompts, without handing your data to another monthly cloud landlord? Watch Chronicle in action: Search every prompt, code snippet, and answer across ChatGPT, Claude, and Gemini simultaneously from one browser side panel in milliseconds. No manual copy-pasting or clip buttons required. Chronicle saves your active threads automatically in the background while you focus on your work. Plus, export any conversation—complete with preserved code blocks and headings—directly to Obsidian, Notion, or your local hard drive. Your proprietary code, research, and company prompts never touch an external sync server. Everything stays sealed inside your local browser profile. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+    "scenes": [
+      {
+        "stepLabel": "00:00–00:04.5",
+        "start": 0,
+        "end": 7.79,
+        "duration": 7.79,
+        "text": "Need a better way to handle saving and searching your AI conversations and prompts, without handing your data to another monthly cloud landlord?"
+      },
+      {
+        "stepLabel": "00:04.5–00:11.0",
+        "start": 7.79,
+        "end": 18.85,
+        "duration": 11.06,
+        "text": "Watch Chronicle in action: Search every prompt, code snippet, and answer across ChatGPT, Claude, and Gemini simultaneously from one browser side panel in milliseconds."
+      },
+      {
+        "stepLabel": "00:11.0–00:22.0",
+        "start": 18.85,
+        "end": 35.43,
+        "duration": 16.58,
+        "text": "No manual copy-pasting or clip buttons required. Chronicle saves your active threads automatically in the background while you focus on your work. Plus, export any conversation—complete with preserved code blocks and headings—directly to Obsidian, Notion, or your local hard drive."
+      },
+      {
+        "stepLabel": "00:22.0–00:31.0",
+        "start": 35.43,
+        "end": 44.56,
+        "duration": 9.14,
+        "text": "Your proprietary code, research, and company prompts never touch an external sync server. Everything stays sealed inside your local browser profile."
+      },
+      {
+        "stepLabel": "00:31.0–00:38.0",
+        "start": 44.56,
+        "end": 53.37,
+        "duration": 8.81,
+        "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+      }
+    ]
+  },
+  "fullText": "Need a better way to handle saving and searching your AI conversations and prompts, without handing your data to another monthly cloud landlord? Watch Chronicle in action: Search every prompt, code snippet, and answer across ChatGPT, Claude, and Gemini simultaneously from one browser side panel in milliseconds. No manual copy-pasting or clip buttons required. Chronicle saves your active threads automatically in the background while you focus on your work. Plus, export any conversation—complete with preserved code blocks and headings—directly to Obsidian, Notion, or your local hard drive. Your proprietary code, research, and company prompts never touch an external sync server. Everything stays sealed inside your local browser profile. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.",
+  "scenes": [
+    {
+      "stepLabel": "00:00–00:04.5",
+      "start": 0,
+      "end": 7.79,
+      "duration": 7.79,
+      "text": "Need a better way to handle saving and searching your AI conversations and prompts, without handing your data to another monthly cloud landlord?"
+    },
+    {
+      "stepLabel": "00:04.5–00:11.0",
+      "start": 7.79,
+      "end": 18.85,
+      "duration": 11.06,
+      "text": "Watch Chronicle in action: Search every prompt, code snippet, and answer across ChatGPT, Claude, and Gemini simultaneously from one browser side panel in milliseconds."
+    },
+    {
+      "stepLabel": "00:11.0–00:22.0",
+      "start": 18.85,
+      "end": 35.43,
+      "duration": 16.58,
+      "text": "No manual copy-pasting or clip buttons required. Chronicle saves your active threads automatically in the background while you focus on your work. Plus, export any conversation—complete with preserved code blocks and headings—directly to Obsidian, Notion, or your local hard drive."
+    },
+    {
+      "stepLabel": "00:22.0–00:31.0",
+      "start": 35.43,
+      "end": 44.56,
+      "duration": 9.14,
+      "text": "Your proprietary code, research, and company prompts never touch an external sync server. Everything stays sealed inside your local browser profile."
+    },
+    {
+      "stepLabel": "00:31.0–00:38.0",
+      "start": 44.56,
+      "end": 53.37,
+      "duration": 8.81,
+      "text": "Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  ]
+}

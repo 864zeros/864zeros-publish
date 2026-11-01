@@ -1,0 +1,54 @@
+{
+  "slug": "link-later",
+  "productName": "LinkLater — Local Read-Later Vault & One-Click Obsidian Bridge",
+  "pillar": "CMC",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "pocket & instapaper local alternative",
+    "read it later chrome extension no account",
+    "send saved links to obsidian vault",
+    "bookmark manager with notes and tags",
+    "export reading list to markdown",
+    "raindrop io offline privacy alternative",
+    "side panel read later browser tool",
+    "local article saver for researchers",
+    "no subscription read later extension",
+    "private bookmark & quote clipper"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "A Private Read-Later List That Never Shuts Down or Locks Up Your Notes — LinkLater #Shorts",
+      "videoFile": "media/products/link-later/video/link-later-short.mp4",
+      "vttFile": "media/products/link-later/video/link-later-short.vtt",
+      "posterFile": "media/products/link-later/video/link-later-fhg-poster-9x16.svg",
+      "audioFile": "media/products/link-later/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 29.83,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of saving articles with context notes for reading later getting locked behind monthly subscriptions and external cloud portals? With LinkLater, Save Links With Immediate Notes & Tags runs right where you already work. One-Click Send to Obsidian Vault Bridge and Instant Offline Search & Unread Filtering—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "LinkLater — Local Read-Later Vault & One-Click Obsidian Bridge: A Private Read-Later List That Never Shuts Down or Locks Up Your Notes (Full Walkthrough)",
+      "videoFile": "media/products/link-later/video/link-later-master.mp4",
+      "vttFile": "media/products/link-later/video/link-later-demo.vtt",
+      "posterFile": "media/products/link-later/video/link-later-fhg-poster-16x9.svg",
+      "audioFile": "media/products/link-later/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 52.72,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord? Watch LinkLater in action: Capture why you saved an article while the thought is fresh—attach quotes, tags, and priority flags right in the side panel without leaving your tab. Push single saved articles or a compiled weekly reading digest directly into your local Obsidian vault with clean frontmatter and links. Plus, filter your reading queue by tag, domain, or read/unread status in 0ms—even when you are on a plane with no internet connection. Your reading list belongs to you. Export single items or your entire archive to standard Markdown or JSON anytime with zero lock-in. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}

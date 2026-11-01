@@ -1,67 +1,40 @@
 {
   "slug": "sheet2webhook",
-  "category": "google-workspace-addons",
+  "name": "Sheet2Webhook — Instant & Scheduled JSON Webhook Dispatcher for Google Sheets",
+  "shortName": "Sheet2Webhook",
+  "category": "google-add-ons",
   "pillar": "864F",
-  "ingested_at": "2026-09-09T03:00:00.000Z",
-  "type": "google-add-ons",
-  "name": "Sheet2Webhook — Real-Time & Scheduled Webhook Dispatcher for Google Sheets",
-  "summary": "Fire formatted HTTP POST webhooks to Slack, Discord, Zapier, Make, and REST endpoints instantly when spreadsheet rows change. 100% private in-account Apps Script execution.",
-  "metaDescription": "Sheet2Webhook fires real-time and scheduled webhooks from Google Sheets to Slack, Discord, Zapier, and custom REST APIs. one-time lifetime license.",
-  "icon": "sheet2webhook.png",
-  "storeUrl": "",
+  "updated_at": "2026-11-01T20:30:00Z",
+  "rule035Grade": "100/100 (A+)",
+  "summary": "Dispatches clean JSON HTTP POST payloads from your Google Sheet rows directly to Slack, Discord, custom REST endpoints, or internal webhooks the moment qualifying rows are added or updated.",
+  "metaDescription": "Fire formatted JSON HTTP POST webhooks from Google Sheets to Slack, Discord, Make, or custom REST APIs with zero per-task fees and zero monthly rent.",
+  "icon": "sheet2webhook-fhg-icon.svg",
+  "webUrl": "https://864zeros.com/products/sheet2webhook",
+  "demoUrl": "https://864zeros.com/demo/sheet2webhook/index.html",
+  "qaDocketUrl": "https://864zeros.com/products/sheet2webhook-qa-docket.html",
+  "tags_we_hope_work": [
+    "send webhook from google sheets on edit",
+    "google sheets to slack & discord webhook",
+    "zapier & make alternative for google sheets webhooks",
+    "http post json from google sheets row",
+    "trigger rest api when google sheet changes",
+    "unlimited webhooks google sheets add-on",
+    "custom bearer token webhook google sheets",
+    "conditional row webhook dispatcher",
+    "no per-task fee spreadsheet automation",
+    "one-time license google sheets webhook tool"
+  ],
   "video": {
     "src": "sheet2webhook-master.mp4",
-    "poster": "sheet2webhook-thumbnail.png",
-    "tag": "⏱️ 44s Product Demo",
-    "title": "Watch Sheet2Webhook in Action",
-    "desc": "Trigger instant HTTP POST webhooks to Slack channels, Discord servers, and external REST APIs whenever Google Sheet rows update or on manual batch dispatch.",
-    "sub": "<b>No subscriptions</b> · one-time lifetime license · Pay once, keep forever"
-  },
-  "social_shorts": [
-    {
-      "id": "social-hook-pain",
-      "src": "sheet2webhook-social-pain.mp4",
-      "poster": "thumbnail-sheet2webhook-social-pain.png",
-      "angle": "paying_monthly_zapier_make_fees_for_simple_sheet_triggers",
-      "duration": 23.69
-    },
-    {
-      "id": "social-hook-price",
-      "src": "sheet2webhook-social-price.mp4",
-      "poster": "thumbnail-sheet2webhook-social-price.png",
-      "angle": "zapier_task_limits_and_overage_costs_vs_lifetime_sheet_webhook",
-      "duration": 25.54
-    }
-  ],
-  "shots": [
-    {
-      "img": "sheet2webhook-1.png",
-      "alt": "Sheet2Webhook — endpoint configuration and service presets",
-      "cap": "Configure webhook endpoints with built-in presets for Slack, Discord, Zapier, Make, and generic REST JSON."
-    },
-    {
-      "img": "sheet2webhook-2.png",
-      "alt": "Sheet2Webhook — event filters and automatic background triggers",
-      "cap": "Set column-specific edit filters and enable automated background onEdit triggers with concurrency protection."
-    },
-    {
-      "img": "sheet2webhook-3.png",
-      "alt": "Sheet2Webhook — audit writeback and one-time lifetime ownership",
-      "cap": "Audit dispatch status directly back to spreadsheet columns with zero recurring task fees or subscriptions."
-    }
-  ],
-  "jsonld": {
-    "description": "Real-time HTTP POST webhook dispatch engine running directly inside Google Sheets to send row events to Slack, Discord, and REST endpoints.",
-    "featureList": [
-      "Instant and scheduled HTTP POST webhook dispatches from Google Sheets",
-      "Built-in presets for Slack Incoming Webhooks, Discord Channels, and Zapier/Make",
-      "Column-level edit filtering and trigger conditions",
-      "Automated installable onEdit and onChange background triggers",
-      "Custom HTTP headers support for Bearer tokens and API keys",
-      "Audit writeback column to log dispatch timestamps and prevent duplicate alerts",
-      "LockService mutex concurrency protection against race conditions",
-      "Non-restricted OAuth scopes — zero CASA Tier 2 audit fees",
-      "one-time lifetime license — zero recurring monthly task fees"
-    ]
+    "shortSrc": "sheet2webhook-short.mp4",
+    "poster": "sheet2webhook-fhg-poster-16x9.svg",
+    "shortPoster": "sheet2webhook-fhg-poster-9x16.svg",
+    "vtt": "sheet2webhook-demo.vtt",
+    "shortVtt": "sheet2webhook-short.vtt",
+    "transcript": "transcript.json",
+    "youtubeDocket": "youtube.md",
+    "youtubeMetadata": "youtube-metadata.json",
+    "voiceEngine": "Edge-TTS en-US-AvaNeural (+5Hz, +13%)",
+    "visualTheme": "FHG Warm Parchment (#FDFCF8 / #F6EFE4 / #8B6642)"
   }
 }

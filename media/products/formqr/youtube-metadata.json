@@ -1,0 +1,54 @@
+{
+  "slug": "formqr",
+  "productName": "FormQR & Barcode — Permanent Static QR & Code-128 Generator for Sheets & Drive",
+  "pillar": "864F",
+  "updatedAt": "2026-11-01T20:30:00Z",
+  "compliance": [
+    "RULE-001",
+    "RULE-017",
+    "RULE-018",
+    "RULE-019",
+    "RULE-020",
+    "RULE-035"
+  ],
+  "centralTags": [
+    "permanent qr code generator google sheets",
+    "non-expiring static qr code add-on",
+    "bulk barcode generator google sheets",
+    "code-128 inventory barcode google drive",
+    "create qr codes in google sheets without redirect",
+    "event badge qr generator google workspace",
+    "Insert qr code image in google sheets cell",
+    "no subscription qr & barcode maker",
+    "print ready vector qr code google drive",
+    "anti-hostage static qr code tool"
+  ],
+  "deliverables": {
+    "short_9x16": {
+      "title": "Permanent QR Codes & Barcodes That Never Expire or Hold Your Links Hostage — FormQR #Shorts",
+      "videoFile": "media/products/formqr/video/formqr-short.mp4",
+      "vttFile": "media/products/formqr/video/formqr-short.vtt",
+      "posterFile": "media/products/formqr/video/formqr-fhg-poster-9x16.svg",
+      "audioFile": "media/products/formqr/audio/soundtrack-short.wav",
+      "aspectRatio": "9:16",
+      "resolution": "1080x1920",
+      "durationSec": 33.6,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Tired of generating permanent QR codes and inventory barcodes from spreadsheets getting locked behind monthly subscriptions and external cloud portals? With FormQR, 100% Static Direct Encoding (Never Expires) runs right where you already work. Batch Column Processing in Google Sheets and High-Resolution Print-Ready PNG & SVG Output—100% under your own custody. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    },
+    "demo_16x9": {
+      "title": "FormQR & Barcode — Permanent Static QR & Code-128 Generator for Sheets & Drive: Permanent QR Codes & Barcodes That Never Expire or Hold Your Links Hostage (Full Walkthrough)",
+      "videoFile": "media/products/formqr/video/formqr-master.mp4",
+      "vttFile": "media/products/formqr/video/formqr-demo.vtt",
+      "posterFile": "media/products/formqr/video/formqr-fhg-poster-16x9.svg",
+      "audioFile": "media/products/formqr/audio/soundtrack-demo.wav",
+      "aspectRatio": "16:9",
+      "resolution": "1920x1080",
+      "durationSec": 56.73,
+      "youtubeUrl": null,
+      "status": "STAGED_READY",
+      "transcript": "Need a better way to handle generating permanent QR codes and inventory barcodes from spreadsheets, without handing your data to another monthly cloud landlord? Watch FormQR in action: Your URL, form link, or inventory SKU is encoded directly into the QR or Code-128 pattern—zero third-party redirect servers that can go down or paywall scans. Turn 500 rows of URLs, event badge IDs, or warehouse SKUs into Drive image files and live in-cell spreadsheet previews in one batch run. Plus, export crisp vector and high-DPI raster graphics directly into your chosen Google Drive folder for badge printing, packaging, and signage. When a customer or attendee scans your QR code, they go straight to your destination—no interstitial ads and no IP address harvesting. Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com."
+    }
+  }
+}
