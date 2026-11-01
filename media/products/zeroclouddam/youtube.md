@@ -1,4 +1,4 @@
-# zeroCloudDAM — YouTube & Shorts D-UTA Publishing Docket (`RULE-017` & `RULE-019`)
+# zeroCloudDAM — YouTube & Shorts D-UTA Publishing Docket (`RULE-017`, `RULE-018` & `RULE-019`)
 
 - **Product:** zeroCloudDAM — Sovereign Google Drive™ Digital Asset Manager
 - **Channel:** `@864zeros`
@@ -20,16 +20,16 @@ zeroCloudDAM transforms your existing Google Drive™ folders and Google Sheets�
 🔗 **Interactive 48-Asset Live Sandbox & Store Page:**
 https://864zeros.com/products/zeroclouddam.html
 
-🔗 **Sovereign Publishing Flywheel Companion Tools:**
-• **TubeSchedule (6-Video/Day YouTube & Calendar Quota-Drip Scheduler):** https://864zeros.com/products/tubeschedule.html
+🔗 **Related 864zeros Google Drive Sovereignty Tools:**
 • **DriveSweep (Duplicate & 0-Byte Orphan Cleaner):** https://864zeros.com/products/drivesweep.html
+• **DriveVault (AES-256 Encrypted Drive Snapshots):** https://864zeros.com/products/drivevault.html
 • **DriveDrop (No-Login Client File Portal):** https://864zeros.com/products/drivedrop.html
 
 ⏱️ **Chapters:**
 0:00 — 0ms Multi-Facet Filtering Across Google Drive Folders
 0:15 — Portable Google Drive v3 `appProperties` Asset Passports (`<=124B`)
-0:31 — BYOK Gemini Vision Auto-Tagging & 1-Click HMAC Batch Approval
-0:44 — 1-Click Sovereign Handoff to TubeSchedule & 864z G-Pub
+0:31 — BYOK Gemini Vision Auto-Tagging & Duplicate Media Sweep
+0:44 — 1-Click HMAC Client Approval & Portable Brand Kit Export
 0:55 — Community Vault Free Tier & Single One-Time Perpetual Unlock
 
 ---
@@ -40,4 +40,4 @@ https://864zeros.com/products/zeroclouddam.html
 `Stop Renting a Tag Database for Your Own Google Drive Files — zeroCloudDAM #Shorts`
 
 ### Description
-When you cancel a traditional cloud DAM subscription, years of custom tags and approval notes vanish. zeroCloudDAM stamps portable Asset Passports directly onto your Google Drive™ `appProperties` and feeds TubeSchedule in one click. Zero cloud lock-in, zero recurring subscriptions—test the live sandbox at https://864zeros.com/products/zeroclouddam.html
+When you cancel a traditional cloud DAM subscription, years of custom tags and approval notes vanish. zeroCloudDAM stamps portable Asset Passports directly onto your Google Drive™ `appProperties` and exports portable Brand Kit manifests in one click. Zero cloud lock-in, zero recurring subscriptions—test the live sandbox at https://864zeros.com/products/zeroclouddam.html

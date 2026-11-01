@@ -1,5 +1,5 @@
 {
-  "totalDurationSec": 67.798,
+  "totalDurationSec": 70.318,
   "soundtrackWav": "C:\\dev\\864zeros-publish\\media\\products\\zeroclouddam\\audio\\live_ui_soundtrack.wav",
   "scenes": [
     {
@@ -24,31 +24,31 @@
     },
     {
       "id": "live_step3_gemini",
-      "stepLabel": "Step 3 of 4 \u00b7 BYOK Gemini Vision Auto-Tag & 1-Click HMAC Approval",
-      "caption": "Enrich visual tags locally with your own Gemini API key and batch-approve assets with tamper-proof HMAC-SHA256 links.",
-      "text": "Need instant metadata? Trigger optional Bring Your Own Key Gemini Vision auto-tagging, sweep duplicate media blobs, and batch-approve selected deliverables with concurrency-safe LockService protection.",
+      "stepLabel": "Step 3 of 4 \u00b7 BYOK Gemini Vision Auto-Tag & Duplicate Media Sweep",
+      "caption": "Enrich visual tags locally with your own Gemini API key and sweep duplicate media blobs across your Drive folders.",
+      "text": "Need instant metadata? Trigger optional Bring Your Own Key Gemini Vision auto-tagging and sweep duplicate media blobs\u2014executing one hundred percent inside your own Google account.",
       "start": 32.324,
-      "end": 44.128,
-      "durationSec": 11.804,
-      "durationMs": 11804
+      "end": 43.144,
+      "durationSec": 10.82,
+      "durationMs": 10820
     },
     {
       "id": "live_step4_handoff",
-      "stepLabel": "Step 4 of 4 \u00b7 1-Click Sovereign Handoff to TubeSchedule & 864z G-Pub",
-      "caption": "Queue approved videos straight into TubeSchedule's 6/day YouTube Quota-Drip Governor or push campaigns to 864z G-Pub.",
-      "text": "Once approved, click Queue in TubeSchedule to stage videos into the six-per-day YouTube quota-drip governor, or push directly to eighty-sixty-four G-Pub across ten social channels.",
-      "start": 44.128,
-      "end": 54.996,
-      "durationSec": 10.868,
-      "durationMs": 10868
+      "stepLabel": "Step 4 of 4 \u00b7 1-Click HMAC Client Approval & Portable Brand Kit Export",
+      "caption": "Approve deliverables via HMAC-signed links, export a portable Brand Kit & CSV manifest, and copy verified Drive share links.",
+      "text": "With one click, route selected assets through HMAC-signed approval workflows, export a portable Brand Kit manifest or CSV catalog directly into Google Sheets, and copy verified Drive share links\u2014with zero vendor lock-in.",
+      "start": 43.144,
+      "end": 57.516,
+      "durationSec": 14.372,
+      "durationMs": 14372
     },
     {
       "id": "live_step5_outro",
       "stepLabel": "864zeros \u00b7 Sovereign Drive DAM \u00b7 Pay Once, Keep Forever",
       "caption": "Community Vault Free Tier \u00b7 Single One-Time Pro Unlock \u00b7 864zeros.com/products/zeroclouddam",
       "text": "Get zeroCloudDAM on the Google Workspace Marketplace, or test the interactive forty-eight-asset sandbox at eight sixty-four zeros dot com. Sovereign software\u2014pay once, keep forever.",
-      "start": 54.996,
-      "end": 67.798,
+      "start": 57.516,
+      "end": 70.318,
       "durationSec": 12.802,
       "durationMs": 12802
     }

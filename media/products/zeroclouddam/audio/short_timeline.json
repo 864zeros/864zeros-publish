@@ -1,5 +1,5 @@
 {
-  "totalDurationSec": 30.892,
+  "totalDurationSec": 31.78,
   "soundtrackWav": "C:\\dev\\864zeros-publish\\media\\products\\zeroclouddam\\audio\\short_soundtrack.wav",
   "scenes": [
     {
@@ -14,21 +14,21 @@
     },
     {
       "id": "short_step2_demo",
-      "stepLabel": "Portable Drive appProperties Asset Passports + 0ms Gallery",
-      "caption": "zeroCloudDAM stamps tags directly onto your Google Drive files and feeds TubeSchedule & 864z G-Pub in one click.",
-      "text": "Meet zeroCloudDAM. It transforms your existing Google Drive folders into a zero-millisecond visual gallery, stamps permanent Asset Passports directly onto your Drive files, and queues approved videos straight into TubeSchedule.",
+      "stepLabel": "Portable Drive appProperties Asset Passports + Brand Kit Export",
+      "caption": "zeroCloudDAM stamps tags directly onto your Google Drive files and exports portable Brand Kit manifests in one click.",
+      "text": "Meet zeroCloudDAM. It transforms your existing Google Drive folders into a zero-millisecond visual gallery, stamps permanent Asset Passports directly onto your Drive files, and exports portable Brand Kit manifests in one click.",
       "start": 8.826,
-      "end": 22.258,
-      "durationSec": 13.432,
-      "durationMs": 13432
+      "end": 23.146,
+      "durationSec": 14.32,
+      "durationMs": 14320
     },
     {
       "id": "short_step3_cta",
       "stepLabel": "zeroCloudDAM \u00b7 Single One-Time Perpetual Unlock",
       "caption": "Zero Cloud Custody \u00b7 Zero Recurring Subscriptions \u00b7 864zeros.com",
       "text": "Zero cloud lock-in, zero recurring subscriptions, just a single one-time unlock at eight sixty-four zeros dot com.",
-      "start": 22.258,
-      "end": 30.892,
+      "start": 23.146,
+      "end": 31.78,
       "durationSec": 8.634,
       "durationMs": 8634
     }
