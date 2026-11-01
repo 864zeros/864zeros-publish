@@ -1,0 +1,3 @@
+file 'short_step1_hook.wav'
+file 'short_step2_demo.wav'
+file 'short_step3_cta.wav'

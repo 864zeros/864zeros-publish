@@ -1,0 +1,5 @@
+file 'live_step1_filter.wav'
+file 'live_step2_passport.wav'
+file 'live_step3_gemini.wav'
+file 'live_step4_handoff.wav'
+file 'live_step5_outro.wav'

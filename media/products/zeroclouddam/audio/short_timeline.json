@@ -1,0 +1,36 @@
+{
+  "totalDurationSec": 30.892,
+  "soundtrackWav": "C:\\dev\\864zeros-publish\\media\\products\\zeroclouddam\\audio\\short_soundtrack.wav",
+  "scenes": [
+    {
+      "id": "short_step1_hook",
+      "stepLabel": "Stop Renting a Tag Database for Your Own Google Drive",
+      "caption": "When you cancel a traditional cloud DAM subscription, years of custom tags and approval histories vanish.",
+      "text": "Why pay recurring monthly rent to a cloud DAM just to tag files that already sit inside your Google Drive\u2014only to lose all your metadata the day you cancel?",
+      "start": 0.0,
+      "end": 8.826,
+      "durationSec": 8.826,
+      "durationMs": 8826
+    },
+    {
+      "id": "short_step2_demo",
+      "stepLabel": "Portable Drive appProperties Asset Passports + 0ms Gallery",
+      "caption": "zeroCloudDAM stamps tags directly onto your Google Drive files and feeds TubeSchedule & 864z G-Pub in one click.",
+      "text": "Meet zeroCloudDAM. It transforms your existing Google Drive folders into a zero-millisecond visual gallery, stamps permanent Asset Passports directly onto your Drive files, and queues approved videos straight into TubeSchedule.",
+      "start": 8.826,
+      "end": 22.258,
+      "durationSec": 13.432,
+      "durationMs": 13432
+    },
+    {
+      "id": "short_step3_cta",
+      "stepLabel": "zeroCloudDAM \u00b7 Single One-Time Perpetual Unlock",
+      "caption": "Zero Cloud Custody \u00b7 Zero Recurring Subscriptions \u00b7 864zeros.com",
+      "text": "Zero cloud lock-in, zero recurring subscriptions, just a single one-time unlock at eight sixty-four zeros dot com.",
+      "start": 22.258,
+      "end": 30.892,
+      "durationSec": 8.634,
+      "durationMs": 8634
+    }
+  ]
+}
