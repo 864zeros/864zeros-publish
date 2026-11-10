@@ -159,3 +159,24 @@ To eliminate generic AI facial drift across religious Shorts, the Studio has vau
 * `Medium_shot,_centered_composition._A_6c5c8acc.mp4` — Centered backward dolly as Jesus walks forward between olive trees into a warm medium close-up.
 * `Slow_lateral_tracking_shot_(dolly_1182e743.mp4` — Lateral dolly tracking walk left-to-right that arcs into a golden-hour 3/4 medium close-up.
 * `Slow_lateral_tracking_shot_(dolly_a169b089.mp4` — Steady side-profile lateral dolly tracking Jesus walking across the village square.
+
+---
+
+## Part VI: Locked YouTube Thumbnail & Channel Publishing Standard (Locked Nov 9, 2026)
+
+1. **`9:16` YouTube Shorts (`1080x1920`):**
+   * Let YouTube select the native in-video frame cover directly from the rendered `9:16` Short (our burned-in optical safe-zone captions + high-contrast cinema/sepia frames produce the highest organic Shorts shelf CTR).
+   * Reference Live Short #001: `https://www.youtube.com/shorts/ErMizVyePaY`
+2. **`16:9` Widescreen Videos & Web/Social OpenGraph (`1280x720`):**
+   * **Locked Master Template:** **Option A (`FHG-THUMB-001A_silver-coins_16x9.jpg` archetype)** generated via [`_build/video/fhg_shorts_engine/build_fhg_youtube_thumbnails.py`](file:///C:/dev/864zeros-publish/_build/video/fhg_shorts_engine/build_fhg_youtube_thumbnails.py):
+     * **Canvas:** `1280x720` JPEG (`< 400 KB`) with peak-action frame aligned right (`align_x = 0.72–0.75`) and smooth two-pass left/bottom dark gradient (`width_ratio = 0.76–0.78`, `max_alpha = 240`).
+     * **Outer Frame:** Rounded `3px` Bronze border (`#C49A6C`, radius `16px`) inset `14px`.
+     * **Top-Left Brand Pill:** Dark charcoal pill (`276x54`) with canonical `fig-001-jeff-style.jpg` emblem + `For His Grace` (`Georgia Bold 18pt`) + `FAITH · SCRIPTURE · SOLITUDE`.
+     * **Scripture Pill:** Sanctuary Pine (`#2E6245`) rounded pill with Gold border (`#E6B875`) and `Montserrat Black 19pt` white citation.
+     * **Primary Hook Stack:** 1–2 setup lines in Warm Ivory (`#FAF6EE`, `Montserrat Black 50–54pt`) above 2 dominant payload lines in Sanctuary Amber/Gold (`#FFBF00`, `Montserrat Black 66–82pt`) with soft blurred drop shadow.
+     * **Bottom Quote Callout Box:** Dark bronze-bordered pill (`y = 548..622`) with `Georgia Italic 28–30pt` hook quote.
+3. **YouTube Channel Header Banner (`2560x1440` with `1546x423` All-Device Safe Zone) & Avatar (`800x800`):**
+   * **Locked Channel Header Banner:** **Option B (`FHG-BANNER-B_warm-parchment-sanctuary_2560x1440.jpg`)** — Warm Archival Parchment & Sepia Mustard Seed Tree Sanctuary with circular `fig-001-jeff-style.jpg` medallion (read-only per `RULE-002`) and auto-sized editorial pills generated via [`_build/video/fhg_shorts_engine/build_fhg_channel_banner.py`](file:///C:/dev/864zeros-publish/_build/video/fhg_shorts_engine/build_fhg_channel_banner.py).
+   * **Locked Channel Profile Avatar (`800x800`):** `FHG-AVATAR_fig-tree-emblem_800x800.jpg`.
+
+

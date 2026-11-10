@@ -9,12 +9,13 @@
     "RULE-018",
     "RULE-019",
     "RULE-020",
+    "RULE-021",
     "RULE-035"
   ],
   "centralTags": [
     "encrypted offline backup google drive",
     "export google drive folder to encrypted zip",
-    "spanning & afi backup local alternative",
+    "passphrase encrypted google drive archive",
     "protect against google account lockout",
     "zero knowledge google workspace backup",
     "convert google docs sheets to local backup",

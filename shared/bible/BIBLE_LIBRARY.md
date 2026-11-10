@@ -103,5 +103,19 @@ assets at runtime** avoids it entirely.
 
 (Gospels = one verse per chapter; all other NT books = several key verses per chapter.)
 
+
+## FHG 19-Variation Art Studio (`V1–V19`), Component Warehouse (`bible_study_viewer.html`), & v2.0 1,189-Chapter Overviews
+- **19 Studio Art Variations (`V1–V19` across 149 Plates = `2,831` Sketch Files):**
+  - Every FHG plate in `shared/bible/sketches/` compiles all 19 deterministic CPU variations (`0` API calls), with **`V1 = ✨ Blotchy (B1 · Default)` (`_b1_g2_s2.jpg`)** locked at `#1`:
+    - `V1–V11`: `_b1_g2_s2`, `_loop_scr`, `_xhatch_scr`, `_sub_scr`, `_c2`, `_c3`, `_g2_s2`, `_straight_g4`, `_c1`, `_c4`, `_base`.
+    - `V12–V19` (Non-Blotch Line/Scribble × Palette Editions): `_nb_loop_c3`, `_nb_loop_c4`, `_nb_line_c3`, `_nb_line_c4`, `_nb_base_c3`, `_nb_base_c4`, `_nb_sub_c3`, `_nb_xhatch_g2`.
+- **69 Biblical Animal & Nature Plates (`P4 · Animals` & `P2 · Nature`):**
+  - Includes 23 real Gemini-drawn sliced animal plates (`study_ani_01_sheep_pasture_framed` .. `study_ani_23_fish_reeds`), 15 Fauna & Weather archetypes (`study_arch_01`..`15`), and 31 lesson plates, viewable in `shared/bible/fhg_animals_gallery.html` and governed by `media/visuals/FHG_27_BIBLICAL_ANIMALS_TAXONOMY.md`.
+- **Internal Component Warehouse vs. Public Free Flagship:**
+  - `shared/bible/bible_study_viewer.html` is the internal FHG Master Component & Opportunity Warehouse (`[C-*]`, `[T1–T4]`, `[O1–O3]`, `[L0–L4b]`, `[H0–H4]` HALT Check-In, `[S1–S12 / S-COMB]` Soul Sanctuary with `¹²³` citations, `[F1–F2]`, `[Q0]`, `[M1]`, `[P1–P5]`, `[V1–V19]`) with a sticky `RECIPE:` compiler bar.
+  - `forhisgrace-web/framework/poc_sanctuary_reader.html` is the public free flagship Sanctuary Reader promoted on `forhisgrace.com`, powered by `sanctuary_chapter_overviews_1189.json` and `sanctuary_1189_bundle.js` (v2.0 4-Rule Gemini Editorial Standard).
+- **FHG Video & Living Sanctuary Lab (`shared/bible/fhg_video_lab.html`):**
+  - Showcases `Options 0–6` rendered from Google Flow `.mp4` clips (`videos_showcase/*`).
+
 ---
-*Living index. Full historical session rationale: `IGNORE/SESSION_2026-08-31-content-history.md`. Content factory principles & constraints documented in `README.md` and `index.json`.*
+*Living index. Full historical session rationale: `IGNORE/SESSION_2026-08-31-content-history.md` and `IGNORE/SESSION_2026-11-09-fhg-19-art-editions-warehouse-codes-23-sliced-animals-and-video-lab.md`. Content factory principles & constraints documented in `README.md` and `index.json`.*

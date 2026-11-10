@@ -2,10 +2,11 @@
 r"""
 Generate:
 1. C:\dev\forhisgrace-web\images\fig-001-jeff-style_signature.jpg using jeff_canonical_signature.png
+   on the canonical FHG warm aged parchment paper color (RGB 219, 206, 184 / #DBCEB8, NOT white).
 2. Vertical (9:16, 1080x1920) & Landscape (16:9, 1920x1080) FHG Fig Tree Parchment Outro plates & MP4s in ZeroCloudDAM
-   using the exact Home Page Slogan font (Nunito from C:\dev\forhisgrace-web\fonts\nunito-latin.woff2):
+   on the exact canonical FHG warm aged parchment paper (#DBCEB8) with cold-pressed paper tooth and Nunito typography:
    - Above image: "For His Grace" as Title (Nunito 800)
-   - Image: Signed Fig Tree Logo (fig-001-jeff-style_signature.jpg)
+   - Image: Signed Fig Tree Logo blended seamlessly onto the warm parchment paper
    - Directly under the logo in same font, non-bold (weight 400), small font size:
      “When you were under the fig tree, I saw you.” -John 1:48
    - Underneath in headline text (Nunito 800):
@@ -25,6 +26,7 @@ WEB_ROOT = Path(r"C:\dev\forhisgrace-web")
 WEB_IMAGES = WEB_ROOT / "images"
 NUNITO_WOFF2 = WEB_ROOT / "fonts" / "nunito-latin.woff2"
 CANONICAL_SIG = Path(r"C:\dev\864zeros-publish\media\visuals\jeff_canonical_signature.png")
+REF_PARCHMENT_SKETCH = Path(r"C:\dev\864zeros-publish\shared\bible\sketches\verse_25_mark_2_17_sepia_signed_right.jpg")
 DAM_SHARED_IMAGES = Path(r"C:\dev\864zeros-publish\shared\bible\images")
 DAM_BROLL_LIB = Path(r"C:\dev\864zeros-publish\media\video\b_roll_loops\fhg_veo\broll_library")
 ARTIFACT_DIR = Path(r"C:\Users\Jeff\.gemini\antigravity-cli\brain\d9d60e79-f458-45cb-86b7-4d1ff406a611")
@@ -32,6 +34,10 @@ ARTIFACT_DIR = Path(r"C:\Users\Jeff\.gemini\antigravity-cli\brain\d9d60e79-f458-
 SRC_LOGO = WEB_IMAGES / "fig-001-jeff-style.jpg"
 OUT_LOGO_SIG = WEB_IMAGES / "fig-001-jeff-style_signature.jpg"
 VO_MASTER_WAV = DAM_BROLL_LIB / "FHG-OUTRO-001_fig-tree-parchment_vo_master_14lufs.wav"
+
+# Canonical FHG Warm Aged Parchment Paper RGB (matching verse_25_mark_2_17_sepia_signed_right.jpg: [219, 206, 184])
+FHG_PARCHMENT_RGB = (219.0, 206.0, 184.0)
+FHG_INK_RGB = (24.0, 21.0, 19.0)
 
 
 def load_nunito(size: int, weight: int = 800) -> ImageFont.FreeTypeFont:
@@ -53,16 +59,51 @@ def get_audio_duration(path: Path) -> float:
     return float(out)
 
 
+def make_parchment_paper_array(width: int, height: int, seed: int = 77) -> np.ndarray:
+    """Generate authentic FHG aged sepia parchment paper with subtle organic grain & warm edge vignette."""
+    rng = np.random.default_rng(seed)
+    # Multi-scale organic paper fiber texture
+    coarse = Image.fromarray(rng.normal(0.0, 1.0, (height // 8 + 1, width // 8 + 1)).astype(np.float32)).resize(
+        (width, height), resample=Image.Resampling.BICUBIC
+    )
+    fine = rng.normal(0.0, 1.0, (height, width)).astype(np.float32)
+    grain = np.array(coarse, dtype=np.float32) * 2.2 + fine * 1.4
+
+    # Subtle warm age vignette around outer edges
+    yy, xx = np.mgrid[0:height, 0:width].astype(np.float32)
+    nx = (xx / max(1, width - 1)) * 2.0 - 1.0
+    ny = (yy / max(1, height - 1)) * 2.0 - 1.0
+    dist2 = np.clip((nx * nx + ny * ny) * 0.5, 0.0, 1.0)
+    vignette = dist2 * 10.0
+
+    r = np.clip(FHG_PARCHMENT_RGB[0] + grain - vignette * 0.9, 0, 255)
+    g = np.clip(FHG_PARCHMENT_RGB[1] + grain * 0.92 - vignette * 1.0, 0, 255)
+    b = np.clip(FHG_PARCHMENT_RGB[2] + grain * 0.82 - vignette * 1.15, 0, 255)
+    return np.stack([r, g, b], axis=-1)
+
+
+def extract_ink_alpha_from_logo(logo_img: Image.Image) -> np.ndarray:
+    """Extract strictly the dark ink strokes (0.0 = paper, 1.0 = dark ink) with zero outer box vignette."""
+    arr = np.array(logo_img.convert("RGB"), dtype=np.float32)
+    lum = 0.299 * arr[:, :, 0] + 0.587 * arr[:, :, 1] + 0.114 * arr[:, :, 2]
+    # Threshold strictly below 195 so paper background and corner vignette are 0.0 (100% transparent to parchment)
+    ink_alpha = np.clip((195.0 - lum) / (195.0 - 25.0), 0.0, 1.0)
+    return ink_alpha
+
+
 def create_signed_logo() -> Path:
-    """Stamp jeff_canonical_signature.png cleanly on bottom-right of fig-001-jeff-style.jpg."""
+    """Create fig-001-jeff-style_signature.jpg on canonical FHG warm aged parchment paper with bottom-right signature."""
     base_img = Image.open(SRC_LOGO).convert("RGB")
-    out_arr = np.array(base_img, dtype=np.float32)
-    h, w, _ = out_arr.shape
+    w, h = base_img.size
 
-    paper_patch = out_arr[80:220, 120:420]
-    paper_rgb = paper_patch.mean(axis=(0, 1))
-    ink_rgb = (24.0, 21.0, 19.0)
+    paper_arr = make_parchment_paper_array(w, h, seed=101)
+    ink_alpha = extract_ink_alpha_from_logo(base_img)
 
+    out_arr = np.zeros_like(paper_arr)
+    for c in range(3):
+        out_arr[:, :, c] = paper_arr[:, :, c] * (1.0 - ink_alpha) + FHG_INK_RGB[c] * ink_alpha
+
+    # Stamp canonical signature in bottom-right inside border
     sig = Image.open(CANONICAL_SIG).convert("RGBA")
     sig_alpha = np.array(sig, dtype=np.float32)[:, :, 3] / 255.0
 
@@ -79,10 +120,11 @@ def create_signed_logo() -> Path:
     px = int(w * 0.940) - target_w
     py = int(h * 0.958) - target_h
     roi = out_arr[py : py + target_h, px : px + target_w]
+    roi_paper = paper_arr[py : py + target_h, px : px + target_w]
 
     for c in range(3):
-        cleared = roi[:, :, c] * (1.0 - halo_mask) + paper_rgb[c] * halo_mask
-        roi[:, :, c] = cleared * (1.0 - sig_mask * 0.96) + ink_rgb[c] * (sig_mask * 0.96)
+        cleared = roi[:, :, c] * (1.0 - halo_mask) + roi_paper[:, :, c] * halo_mask
+        roi[:, :, c] = cleared * (1.0 - sig_mask * 0.96) + FHG_INK_RGB[c] * (sig_mask * 0.96)
 
     out_arr[py : py + target_h, px : px + target_w] = roi
     final_rgb = Image.fromarray(np.clip(out_arr, 0, 255).astype(np.uint8), mode="RGB")
@@ -91,24 +133,24 @@ def create_signed_logo() -> Path:
     DAM_SHARED_IMAGES.mkdir(parents=True, exist_ok=True)
     shutil.copy2(OUT_LOGO_SIG, DAM_SHARED_IMAGES / "fig-001-jeff-style_signature.jpg")
     shutil.copy2(OUT_LOGO_SIG, ARTIFACT_DIR / "fig-001-jeff-style_signature.jpg")
-    print(f"Created signed logo: {OUT_LOGO_SIG} ({OUT_LOGO_SIG.stat().st_size} bytes)")
+    print(f"Created signed logo on FHG parchment: {OUT_LOGO_SIG}")
     return OUT_LOGO_SIG
 
 
-def build_parchment_canvas(width: int, height: int, logo_img: Image.Image) -> Image.Image:
-    interior_patch = logo_img.crop((120, 80, 420, 220))
-    bg_color = interior_patch.resize((1, 1), Image.Resampling.BOX).getpixel((0, 0))
-    return Image.new("RGB", (width, height), bg_color)
+def build_parchment_canvas_with_logo(
+    width: int, height: int, signed_logo_path: Path, logo_size: int, logo_x: int, logo_y: int, seed: int
+) -> Image.Image:
+    """Create a 100% seamless FHG warm aged parchment canvas and composite the signed logo ink directly onto it."""
+    paper_arr = make_parchment_paper_array(width, height, seed=seed)
+    logo_img = Image.open(signed_logo_path).convert("RGB").resize((logo_size, logo_size), Image.Resampling.LANCZOS)
+    ink_alpha = extract_ink_alpha_from_logo(logo_img)
 
+    roi = paper_arr[logo_y : logo_y + logo_size, logo_x : logo_x + logo_size]
+    for c in range(3):
+        roi[:, :, c] = roi[:, :, c] * (1.0 - ink_alpha) + FHG_INK_RGB[c] * ink_alpha
+    paper_arr[logo_y : logo_y + logo_size, logo_x : logo_x + logo_size] = roi
 
-def paste_logo_seamlessly(canvas: Image.Image, logo: Image.Image, size: int, x: int, y: int) -> None:
-    logo_resized = logo.resize((size, size), Image.Resampling.LANCZOS)
-    mask = Image.new("L", (size, size), 0)
-    draw_m = ImageDraw.Draw(mask)
-    inset = 10
-    draw_m.rectangle([inset, inset, size - inset, size - inset], fill=255)
-    mask = mask.filter(ImageFilter.GaussianBlur(radius=6))
-    canvas.paste(logo_resized, (x, y), mask)
+    return Image.fromarray(np.clip(paper_arr, 0, 255).astype(np.uint8), mode="RGB")
 
 
 def draw_centered_multiline(
@@ -131,19 +173,22 @@ def draw_centered_multiline(
 
 
 def build_vertical_outro_plate(signed_logo_path: Path) -> Path:
-    """Build 9:16 (1080x1920) Vertical Fig Tree Parchment Outro using Nunito."""
+    """Build 9:16 (1080x1920) Vertical Fig Tree Parchment Outro on canonical FHG parchment."""
     W, H = 1080, 1920
-    logo = Image.open(signed_logo_path).convert("RGB")
-    canvas = build_parchment_canvas(W, H, logo)
+    logo_size = 750
+    logo_x = (W - logo_size) // 2
+    logo_y = 230
+
+    canvas = build_parchment_canvas_with_logo(W, H, signed_logo_path, logo_size, logo_x, logo_y, seed=202)
     draw = ImageDraw.Draw(canvas)
 
-    ink_charcoal = (45, 45, 45)      # --ink (#2D2D2D)
-    ink_caption = (92, 82, 70)       # Warm umber/charcoal for small non-bold verse under logo
-    ink_bronze = (139, 102, 66)      # --pillar-accent (#8B6642)
-    ink_muted = (120, 113, 108)      # --muted (#78716c)
+    ink_charcoal = (32, 27, 23)      # Deep warm charcoal-ink on parchment
+    ink_caption = (78, 66, 54)       # Warm umber for non-bold verse under logo
+    ink_bronze = (112, 76, 42)       # Rich dark bronze on parchment
+    ink_muted = (96, 84, 72)
 
     font_title = load_nunito(size=56, weight=800)
-    font_verse_sub = load_nunito(size=21, weight=400)  # Non-bold small font size directly under logo
+    font_verse_sub = load_nunito(size=21, weight=400)
     font_headline = load_nunito(size=38, weight=800)
     font_h3 = load_nunito(size=30, weight=800)
     font_footer_privacy = load_nunito(size=20, weight=700)
@@ -153,14 +198,7 @@ def build_vertical_outro_plate(signed_logo_path: Path) -> Path:
     title_y = 135
     draw_centered_multiline(draw, ["For His Grace"], title_y, W // 2, font_title, ink_charcoal, line_spacing=8)
 
-    # 2. Signed Fig Tree Logo Image
-    logo_size = 750
-    logo_x = (W - logo_size) // 2
-    logo_y = 230
-    paste_logo_seamlessly(canvas, logo, logo_size, logo_x, logo_y)
-
-    # 3. Directly under the logo in same font, non-bold (weight 400), small font size:
-    #    “When you were under the fig tree, I saw you.” -John 1:48
+    # 2. Directly under the logo in same font, non-bold (weight 400), small font size:
     verse_y = logo_y + logo_size + 12
     next_y = draw_centered_multiline(
         draw,
@@ -172,7 +210,7 @@ def build_vertical_outro_plate(signed_logo_path: Path) -> Path:
         line_spacing=6,
     )
 
-    # 4. Slogan underneath in headline text (Nunito 800, matching home page slogan)
+    # 3. Slogan underneath in headline text (Nunito 800)
     slogan_y = next_y + 42
     slogan_lines = [
         "“Solitude isn’t lonely when it’s",
@@ -182,15 +220,15 @@ def build_vertical_outro_plate(signed_logo_path: Path) -> Path:
         draw, slogan_lines, slogan_y, W // 2, font_headline, ink_charcoal, line_spacing=14
     )
 
-    # 5. Several line breaks -> H3 "Learn more on ForHisGrace.com"
+    # 4. Several line breaks -> H3 "Learn more on ForHisGrace.com"
     h3_y = next_y + 120
     draw_centered_multiline(
         draw, ["Learn more on ForHisGrace.com"], h3_y, W // 2, font_h3, ink_bronze, line_spacing=10
     )
 
-    # 6. Clean Footer in small text at bottom
+    # 5. Clean Footer in small text at bottom
     rule_y = H - 210
-    draw.line([(160, rule_y), (W - 160, rule_y)], fill=(214, 202, 184), width=2)
+    draw.line([(160, rule_y), (W - 160, rule_y)], fill=(182, 168, 146), width=2)
 
     footer_y = rule_y + 28
     footer_y = draw_centered_multiline(
@@ -219,24 +257,27 @@ def build_vertical_outro_plate(signed_logo_path: Path) -> Path:
     canvas.save(out_dam, format="JPEG", quality=96, subsampling=0)
     shutil.copy2(out_dam, out_web)
     shutil.copy2(out_dam, out_art)
-    print(f"Created Vertical 9:16 Outro Plate: {out_dam}")
+    print(f"Created Vertical 9:16 Outro Plate on FHG Parchment: {out_dam}")
     return out_dam
 
 
 def build_landscape_outro_plate(signed_logo_path: Path) -> Path:
-    """Build 16:9 (1920x1080) Landscape Fig Tree Parchment Outro using Nunito."""
+    """Build 16:9 (1920x1080) Landscape Fig Tree Parchment Outro on canonical FHG parchment."""
     W, H = 1920, 1080
-    logo = Image.open(signed_logo_path).convert("RGB")
-    canvas = build_parchment_canvas(W, H, logo)
+    logo_size = 515
+    logo_x = (W - logo_size) // 2
+    logo_y = 92
+
+    canvas = build_parchment_canvas_with_logo(W, H, signed_logo_path, logo_size, logo_x, logo_y, seed=303)
     draw = ImageDraw.Draw(canvas)
 
-    ink_charcoal = (45, 45, 45)
-    ink_caption = (92, 82, 70)
-    ink_bronze = (139, 102, 66)
-    ink_muted = (120, 113, 108)
+    ink_charcoal = (32, 27, 23)
+    ink_caption = (78, 66, 54)
+    ink_bronze = (112, 76, 42)
+    ink_muted = (96, 84, 72)
 
     font_title = load_nunito(size=44, weight=800)
-    font_verse_sub = load_nunito(size=18, weight=400)  # Non-bold small font size directly under logo
+    font_verse_sub = load_nunito(size=18, weight=400)
     font_headline = load_nunito(size=33, weight=800)
     font_h3 = load_nunito(size=26, weight=800)
     font_footer_privacy = load_nunito(size=18, weight=700)
@@ -246,14 +287,7 @@ def build_landscape_outro_plate(signed_logo_path: Path) -> Path:
     title_y = 28
     draw_centered_multiline(draw, ["For His Grace"], title_y, W // 2, font_title, ink_charcoal, line_spacing=6)
 
-    # 2. Signed Fig Tree Logo Image
-    logo_size = 515
-    logo_x = (W - logo_size) // 2
-    logo_y = 92
-    paste_logo_seamlessly(canvas, logo, logo_size, logo_x, logo_y)
-
-    # 3. Directly under the logo in same font, non-bold (weight 400), small font size:
-    #    “When you were under the fig tree, I saw you.” -John 1:48
+    # 2. Directly under the logo in same font, non-bold (weight 400), small font size:
     verse_y = logo_y + logo_size + 8
     next_y = draw_centered_multiline(
         draw,
@@ -265,7 +299,7 @@ def build_landscape_outro_plate(signed_logo_path: Path) -> Path:
         line_spacing=6,
     )
 
-    # 4. Slogan underneath in headline text (Nunito 800)
+    # 3. Slogan underneath in headline text (Nunito 800)
     slogan_y = next_y + 24
     next_y = draw_centered_multiline(
         draw,
@@ -277,7 +311,7 @@ def build_landscape_outro_plate(signed_logo_path: Path) -> Path:
         line_spacing=10,
     )
 
-    # 5. Several line breaks -> H3 "Learn more on ForHisGrace.com"
+    # 4. Several line breaks -> H3 "Learn more on ForHisGrace.com"
     h3_y = next_y + 62
     draw_centered_multiline(
         draw,
@@ -289,9 +323,9 @@ def build_landscape_outro_plate(signed_logo_path: Path) -> Path:
         line_spacing=8,
     )
 
-    # 6. Clean Footer in small text at bottom
+    # 5. Clean Footer in small text at bottom
     rule_y = H - 118
-    draw.line([(320, rule_y), (W - 320, rule_y)], fill=(214, 202, 184), width=2)
+    draw.line([(320, rule_y), (W - 320, rule_y)], fill=(182, 168, 146), width=2)
 
     footer_y = rule_y + 18
     footer_y = draw_centered_multiline(
@@ -320,7 +354,7 @@ def build_landscape_outro_plate(signed_logo_path: Path) -> Path:
     canvas.save(out_dam, format="JPEG", quality=96, subsampling=0)
     shutil.copy2(out_dam, out_web)
     shutil.copy2(out_dam, out_art)
-    print(f"Created Landscape 16:9 Outro Plate: {out_dam}")
+    print(f"Created Landscape 16:9 Outro Plate on FHG Parchment: {out_dam}")
     return out_dam
 
 
