@@ -1,22 +1,22 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:08.900
+00:00:00.000 --> 00:00:09.280
 Need a better way to handle firing webhook notifications and API payloads from spreadsheet rows, without handing your data to another monthly cloud landlord?
 
 2
-00:00:08.900 --> 00:00:19.930
+00:00:09.280 --> 00:00:20.950
 Watch Sheet2Webhook in action: Dispatch 10 or 10,000 row updates straight from your Google Sheet to Slack, Discord, or your backend API without paying per-task middleware markups.
 
 3
-00:00:19.930 --> 00:00:35.620
+00:00:20.950 --> 00:00:38.660
 Automatically stamps each dispatched row with the HTTP response code and timestamp so unrelated cell edits never spam your channel twice. Plus, configure custom Authorization headers and JSON payload mappings that stay privately inside your own Google Sheet properties.
 
 4
-00:00:35.620 --> 00:00:43.580
+00:00:38.660 --> 00:00:47.370
 Fire webhooks only when specific conditions are met—such as when Status flips to "Approved" or Inventory drops below a threshold.
 
 5
-00:00:43.580 --> 00:00:52.390
+00:00:47.370 --> 00:00:57.220
 Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
 

@@ -1,22 +1,22 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:08.420
+00:00:00.000 --> 00:00:08.550
 Need a better way to handle syncing and consolidating data across multiple spreadsheets, without handing your data to another monthly cloud landlord?
 
 2
-00:00:08.420 --> 00:00:18.150
+00:00:08.550 --> 00:00:19.690
 Watch SheetSync in action: Update existing rows by matching an ID column, append new records, or mirror a source range cleanly without creating duplicate rows.
 
 3
-00:00:18.150 --> 00:00:33.220
+00:00:19.690 --> 00:00:36.410
 Writes real cell values instead of volatile cross-workbook formulas—so your master executive dashboard opens instantaneously and stays editable. Plus, schedule background sync triggers that consolidate regional or department sheets into your master workbook automatically.
 
 4
-00:00:33.220 --> 00:00:42.190
+00:00:36.410 --> 00:00:45.740
 Your financial models, inventory tables, and CRM rows move directly between your own Google Sheets—never routed through third-party cloud connectors.
 
 5
-00:00:42.190 --> 00:00:51.000
+00:00:45.740 --> 00:00:55.590
 Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
 

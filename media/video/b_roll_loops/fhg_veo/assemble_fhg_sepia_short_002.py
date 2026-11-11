@@ -140,7 +140,7 @@ def attach_punctuation(raw_text: str, words: list[WordTiming]) -> list[WordTimin
 
 async def build_main_vo(segments: list[dict], work_dir: Path) -> tuple[Path, list[WordTiming], float]:
     voice = "en-US-AndrewMultilingualNeural"
-    base_pitch_hz = -1
+    base_pitch_hz = -2
 
     all_words: list[WordTiming] = []
     concat_inputs: list[Path] = []
@@ -164,8 +164,8 @@ async def build_main_vo(segments: list[dict], work_dir: Path) -> tuple[Path, lis
             current_offset += pause_ms / 1000.0
 
         is_scripture = seg.get("type") == "scripture_quote"
-        seg_pitch = f"{base_pitch_hz - 3:+d}Hz" if is_scripture else f"{base_pitch_hz:+d}Hz"
-        seg_rate = "+11%" if is_scripture else "+15%"
+        seg_pitch = f"{base_pitch_hz - 2:+d}Hz" if is_scripture else f"{base_pitch_hz:+d}Hz"
+        seg_rate = "+0%" if is_scripture else "+2%"
 
         seg_mp3 = work_dir / f"seg_{idx}.mp3"
         seg_wav = work_dir / f"seg_{idx}.wav"
@@ -181,7 +181,7 @@ async def build_main_vo(segments: list[dict], work_dir: Path) -> tuple[Path, lis
         subprocess.run(
             [
                 "ffmpeg", "-y", "-i", str(seg_mp3),
-                "-af", "areverse,silenceremove=start_periods=1:start_duration=0.05:start_threshold=-45dB,areverse,apad=pad_dur=0.06",
+                "-af", "silenceremove=start_periods=1:start_threshold=-50dB,areverse,silenceremove=start_periods=1:start_threshold=-50dB,areverse,afade=t=in:st=0:d=0.015,apad=pad_dur=0.28",
                 "-ar", "48000", "-ac", "2",
                 str(seg_wav),
             ],

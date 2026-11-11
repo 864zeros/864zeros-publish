@@ -122,7 +122,7 @@ async def build_voiceover_and_timestamps(short_spec: dict, work_dir: Path) -> tu
     """Synthesize all segments with 1.15x rate, per-video pitch jitter, and 250ms pre-Scripture pause + pitch drop."""
     short_id = short_spec["short_id"]
     seed_int = int(hashlib.sha256(short_id.encode()).hexdigest()[:6], 16)
-    base_pitch_hz = -2 + (seed_int % 3)  # -2Hz, -1Hz, or 0Hz per-video originality contour
+    base_pitch_hz = -2  # Grounded warm baritone contour
     voice = "en-US-AndrewMultilingualNeural"
 
     segments = short_spec["segments"]
@@ -148,8 +148,8 @@ async def build_voiceover_and_timestamps(short_spec: dict, work_dir: Path) -> tu
             current_offset += pause_ms / 1000.0
 
         is_scripture = seg.get("type") == "scripture_quote"
-        seg_pitch = f"{base_pitch_hz - 3:+d}Hz" if is_scripture else f"{base_pitch_hz:+d}Hz"
-        seg_rate = "+11%" if is_scripture else "+15%"
+        seg_pitch = f"{base_pitch_hz - 2:+d}Hz" if is_scripture else f"{base_pitch_hz:+d}Hz"
+        seg_rate = "+0%" if is_scripture else "+2%"
 
         seg_mp3 = work_dir / f"seg_{idx}.mp3"
         seg_wav = work_dir / f"seg_{idx}.wav"
@@ -165,7 +165,7 @@ async def build_voiceover_and_timestamps(short_spec: dict, work_dir: Path) -> tu
         subprocess.run(
             [
                 "ffmpeg", "-y", "-i", str(seg_mp3),
-                "-af", "areverse,silenceremove=start_periods=1:start_duration=0.05:start_threshold=-45dB,areverse,apad=pad_dur=0.08",
+                "-af", "silenceremove=start_periods=1:start_threshold=-50dB,areverse,silenceremove=start_periods=1:start_threshold=-50dB,areverse,afade=t=in:st=0:d=0.015,apad=pad_dur=0.28",
                 "-ar", "48000", "-ac", "2",
                 str(seg_wav),
             ],

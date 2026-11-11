@@ -111,12 +111,16 @@ async def synth_segment_with_words(
     pitch: str,
     out_mp3: Path,
 ) -> list[WordTiming]:
-    words_cache = out_mp3.with_suffix(".words.json")
-    if out_mp3.exists() and out_mp3.stat().st_size > 500 and words_cache.exists():
+    import hashlib
+    key_sig = hashlib.sha1(f"v2-natural|{voice}|{rate}|{pitch}|{text}".encode("utf-8")).hexdigest()[:12]
+    keyed_mp3 = out_mp3.with_name(f"{out_mp3.stem}_{key_sig}.mp3")
+    words_cache = keyed_mp3.with_suffix(".words.json")
+    if keyed_mp3.exists() and keyed_mp3.stat().st_size > 500 and words_cache.exists():
+        shutil.copy2(keyed_mp3, out_mp3)
         cached = json.loads(words_cache.read_text(encoding="utf-8"))
         return [WordTiming(**w) for w in cached]
 
-    clean_text = text.replace("—", ", ").replace("...", ".")
+    clean_text = text.replace("ForHisGrace.com", "For His Grace dot com").replace("—", ", ").replace("...", ".")
     voices_to_try = [voice, "en-US-AndrewNeural", "en-US-BrianNeural"]
     for attempt in range(8):
         v_use = voices_to_try[min(attempt // 3, len(voices_to_try) - 1)]
@@ -129,7 +133,7 @@ async def synth_segment_with_words(
                 boundary="WordBoundary",
             )
             words: list[WordTiming] = []
-            with out_mp3.open("wb") as audio_f:
+            with keyed_mp3.open("wb") as audio_f:
                 async for chunk in communicate.stream():
                     if chunk["type"] == "audio":
                         audio_f.write(chunk["data"])
@@ -139,12 +143,13 @@ async def synth_segment_with_words(
                         w_text = str(chunk["text"]).strip()
                         if w_text:
                             words.append(WordTiming(word=w_text, start=start_s, end=start_s + max(dur_s, 0.08)))
-            if out_mp3.stat().st_size > 500:
+            if keyed_mp3.stat().st_size > 500:
+                shutil.copy2(keyed_mp3, out_mp3)
                 words_cache.write_text(
                     json.dumps([{"word": w.word, "start": w.start, "end": w.end} for w in words]),
                     encoding="utf-8",
                 )
-                await asyncio.sleep(0.5)
+                await asyncio.sleep(0.45)
                 return words
         except Exception as exc:
             print(f"      [TTS retry {attempt + 1}/8 ({v_use})]: {exc}")
@@ -189,7 +194,7 @@ async def synthesize_clause_synced_beats(beats: list[dict], work_dir: Path) -> t
             groups.append([i])
 
     voice = "en-US-AndrewMultilingualNeural"
-    base_pitch_hz = -1
+    base_pitch_hz = -2
 
     all_words: list[WordTiming] = []
     concat_inputs: list[Path] = []
@@ -218,8 +223,8 @@ async def synthesize_clause_synced_beats(beats: list[dict], work_dir: Path) -> t
 
         combined_text = " ".join(beats[bi]["text"].strip() for bi in beat_indices)
         is_scripture = first_beat.get("type") == "scripture_quote"
-        seg_pitch = f"{base_pitch_hz - 3:+d}Hz" if is_scripture else f"{base_pitch_hz:+d}Hz"
-        seg_rate = "+11%" if is_scripture else "+15%"
+        seg_pitch = f"{base_pitch_hz - 2:+d}Hz" if is_scripture else f"{base_pitch_hz:+d}Hz"
+        seg_rate = "+0%" if is_scripture else "+2%"
 
         seg_mp3 = work_dir / f"grp_{g_idx}.mp3"
         seg_wav = work_dir / f"grp_{g_idx}.wav"
@@ -235,7 +240,7 @@ async def synthesize_clause_synced_beats(beats: list[dict], work_dir: Path) -> t
         subprocess.run(
             [
                 "ffmpeg", "-y", "-i", str(seg_mp3),
-                "-af", "areverse,silenceremove=start_periods=1:start_duration=0.05:start_threshold=-45dB,areverse,apad=pad_dur=0.06",
+                "-af", "silenceremove=start_periods=1:start_threshold=-50dB,areverse,silenceremove=start_periods=1:start_threshold=-50dB,areverse,afade=t=in:st=0:d=0.015,apad=pad_dur=0.28",
                 "-ar", "48000", "-ac", "2",
                 str(seg_wav),
             ],
@@ -325,7 +330,8 @@ def render_clause_synced_visual_timeline(
         dam_id = b["dam_id"]
         media_type = b["media_type"]  # 'still_base' or 'video'
         src_path = resolve_master_asset(dam_id, media_type, aspect)
-        beat_out = work_dir / f"omni_beat_{aspect}_{i:02d}.mp4"
+        dur_ms = int(round(dur * 1000))
+        beat_out = work_dir / f"omni_beat_{aspect}_{i:02d}_{dur_ms}ms.mp4"
         if beat_out.exists() and beat_out.stat().st_size > 10000:
             beat_files.append(beat_out)
             if i > 0:
@@ -406,7 +412,8 @@ def render_clause_synced_visual_timeline(
         capture_output=True,
     )
 
-    full_visual = work_dir / f"omni_full_visual_{aspect}.mp4"
+    total_ms = int(round((body_dur + outro_dur) * 1000))
+    full_visual = work_dir / f"omni_full_visual_{aspect}_{total_ms}ms.mp4"
     if full_visual.exists() and full_visual.stat().st_size > 100000:
         return full_visual, cut_timestamps
     actual_body_dur = get_duration(body_mp4)

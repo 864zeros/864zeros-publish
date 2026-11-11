@@ -113,7 +113,7 @@ def attach_punctuation(raw_text: str, words: list[WordTiming]) -> list[WordTimin
 
 async def build_main_vo(segments: list[dict], work_dir: Path) -> tuple[Path, list[WordTiming], float]:
     voice = "en-US-AndrewMultilingualNeural"
-    base_pitch_hz = -1
+    base_pitch_hz = -2
 
     all_words: list[WordTiming] = []
     concat_inputs: list[Path] = []
@@ -137,8 +137,8 @@ async def build_main_vo(segments: list[dict], work_dir: Path) -> tuple[Path, lis
             current_offset += pause_ms / 1000.0
 
         is_scripture = seg.get("type") == "scripture_quote"
-        seg_pitch = f"{base_pitch_hz - 3:+d}Hz" if is_scripture else f"{base_pitch_hz:+d}Hz"
-        seg_rate = "+11%" if is_scripture else "+15%"
+        seg_pitch = f"{base_pitch_hz - 2:+d}Hz" if is_scripture else f"{base_pitch_hz:+d}Hz"
+        seg_rate = "+0%" if is_scripture else "+2%"
 
         seg_mp3 = work_dir / f"seg_{idx}.mp3"
         seg_wav = work_dir / f"seg_{idx}.wav"
@@ -154,7 +154,7 @@ async def build_main_vo(segments: list[dict], work_dir: Path) -> tuple[Path, lis
         subprocess.run(
             [
                 "ffmpeg", "-y", "-i", str(seg_mp3),
-                "-af", "areverse,silenceremove=start_periods=1:start_duration=0.05:start_threshold=-45dB,areverse,apad=pad_dur=0.06",
+                "-af", "silenceremove=start_periods=1:start_threshold=-50dB,areverse,silenceremove=start_periods=1:start_threshold=-50dB,areverse,afade=t=in:st=0:d=0.015,apad=pad_dur=0.28",
                 "-ar", "48000", "-ac", "2",
                 str(seg_wav),
             ],
@@ -327,19 +327,19 @@ def build_hard_cut_visual_plus_outro(
         capture_output=True,
     )
 
-    # Prepare the Fig Tree Parchment Outro video stream
+    # Prepare the Fig Tree Parchment Outro video stream (supports Animated Bird MP4 or static JPG)
     outro_v = work_dir / f"outro_v_{tag}.mp4"
-    subprocess.run(
-        [
-            "ffmpeg", "-y", "-loop", "1", "-i", str(outro_plate),
-            "-vf", f"scale={width}:{height}:flags=lanczos,fps=60,setsar=1,format=yuv420p",
-            "-t", f"{outro_dur + 0.25:.3f}",
-            "-r", "60", "-c:v", "libx264", "-preset", "veryfast", "-crf", "17", "-an",
-            str(outro_v),
-        ],
-        check=True,
-        capture_output=True,
-    )
+    outro_cmd = ["ffmpeg", "-y"]
+    if str(outro_plate).lower().endswith((".jpg", ".jpeg", ".png")):
+        outro_cmd += ["-loop", "1"]
+    outro_cmd += [
+        "-i", str(outro_plate),
+        "-vf", f"scale={width}:{height}:flags=lanczos,fps=60,setsar=1,format=yuv420p",
+        "-t", f"{outro_dur + 0.25:.3f}",
+        "-r", "60", "-c:v", "libx264", "-preset", "veryfast", "-crf", "17", "-an",
+        str(outro_v),
+    ]
+    subprocess.run(outro_cmd, check=True, capture_output=True)
 
     # Apply the 250ms (0.25s) Warm Dissolve from body_mp4 into outro_v at offset = body_dur
     full_visual = work_dir / f"full_visual_{tag}.mp4"
@@ -477,39 +477,26 @@ async def main() -> None:
     outro_dur = get_audio_duration(outro_vo_wav)
     print(f"      -> Body VO: {body_dur:.2f}s ({len(words)} words) + Outro VO: {outro_dur:.2f}s = {body_dur + outro_dur:.2f}s total")
 
-    # 9:16 Vertical Clip Sequence (using all 7 vaulted 1080p 9:16 B-roll masters!)
-    clips_9x16 = [
-        (DAM_BROLL_LIB / "FHG-BR-002_falling-silver-coins_9x16_1080p.mp4", 0.0),         # Beat 0: Falling Silver Coins (Hook)
-        (DAM_BROLL_LIB / "FHG-BR-002_falling-silver-coins_9x16_1080p.mp4", 3.6),         # Beat 1: Coins bouncing on dark stone
-        (DAM_BROLL_LIB / "FHG-BR-032_sandals-in-cracked-wilderness_9x16_1080p.mp4", 0.0),# Beat 2: Sandals in Cracked Wilderness
-        (DAM_BROLL_LIB / "FHG-BR-004_wind-blowing-chaff_9x16_1080p.mp4", 0.0),           # Beat 3: Wind Blowing Chaff
-        (DAM_BROLL_LIB / "FHG-BR-033_hauling-fishing-net-rope_9x16_1080p.mp4", 0.0),     # Beat 4: Hauling Fishing Net Rope
-        (DAM_BROLL_LIB / "FHG-BR-003_breaking-bread_9x16_1080p.mp4", 0.0),               # Beat 5: Breaking Bread
-        (DAM_BROLL_LIB / "FHG-BR-003_breaking-bread_9x16_1080p.mp4", 3.6),               # Beat 6: Breaking Bread (Jesus in bg)
-        (DAM_BROLL_LIB / "FHG-BR-006_glowing-embers_9x16_1080p.mp4", 0.0),               # Beat 7: Glowing Embers
-        (DAM_BROLL_LIB / "FHG-BR-031_pouring-anointing-oil_9x16_1080p.mp4", 0.0),        # Beat 8: Pouring Anointing Oil
-        (DAM_BROLL_LIB / "FHG-BR-031_pouring-anointing-oil_9x16_native_1080p.mp4", 2.0), # Beat 9: Golden Oil Close-up
+    canonical_sequence = [
+        ("FHG-BR-002_falling-silver-coins", 0.0),
+        ("FHG-BR-002_falling-silver-coins", 3.6),
+        ("FHG-BR-032_sandals-in-cracked-wilderness", 0.0),
+        ("FHG-BR-004_wind-blowing-chaff", 0.0),
+        ("FHG-BR-033_hauling-fishing-net-rope", 0.0),
+        ("FHG-BR-034_jesus-walking-olive-grove-dolly", 0.0),
+        ("FHG-BR-035_jesus-walking-golden-hour-tracking", 0.0),
+        ("FHG-BR-036_jesus-courtyard-360-orbital", 0.0),
+        ("FHG-BR-031_pouring-anointing-oil", 0.0),
+        ("FHG-BR-031_pouring-anointing-oil", 3.5),
     ]
+    clips_9x16 = [(DAM_BROLL_LIB / f"{stem}_9x16_1080p.mp4", start_s) for stem, start_s in canonical_sequence]
+    clips_16x9 = [(DAM_BROLL_LIB / f"{stem}_16x9_1080p.mp4", start_s) for stem, start_s in canonical_sequence]
 
-    # 16:9 Widescreen Clip Sequence (using vaulted 1080p 16:9 B-roll masters + 16:9 Jesus walk)
-    clips_16x9 = [
-        (DAM_BROLL_LIB / "FHG-BR-002_falling-silver-coins_16x9_1080p.mp4", 0.0),
-        (DAM_BROLL_LIB / "FHG-BR-002_falling-silver-coins_16x9_1080p.mp4", 3.6),
-        (DAM_BROLL_LIB / "FHG-BR-032_sandals-in-cracked-wilderness_16x9_1080p.mp4", 0.0),
-        (DAM_BROLL_LIB / "FHG-BR-004_wind-blowing-chaff_16x9_1080p.mp4", 0.0),
-        (DAM_BROLL_LIB / "FHG-BR-033_hauling-fishing-net-rope_16x9_1080p.mp4", 0.0),
-        (JESUS_VEO_DIR / "Medium_shot,_centered_composition._A_6c5c8acc.mp4", 0.0),
-        (JESUS_VEO_DIR / "Slow_lateral_tracking_shot_(dolly_1182e743.mp4", 0.0),
-        (DAM_BROLL_LIB / "FHG-BR-004_wind-blowing-chaff_16x9_1080p.mp4", 4.0),
-        (DAM_BROLL_LIB / "FHG-BR-031_pouring-anointing-oil_16x9_1080p.mp4", 0.0),
-        (DAM_BROLL_LIB / "FHG-BR-031_pouring-anointing-oil_16x9_1080p.mp4", 3.5),
-    ]
-
-    print("[2/4] Building 0.0s Hard-Cut Visual Timelines + 250ms Warm Dissolve into Fig Tree Parchment Outros...")
+    print("[2/4] Building 0.0s Hard-Cut Visual Timelines + 250ms Warm Dissolve into Animated Bird-to-Parchment Outros...")
     vis_9x16, cuts_9x16 = build_hard_cut_visual_plus_outro(
         clips_9x16,
         body_dur,
-        DAM_BROLL_LIB / "FHG-OUTRO-001_fig-tree-parchment_9x16_1080p.jpg",
+        DAM_BROLL_LIB / "FHG-OUTRO-001_fig-tree-parchment_9x16_1080p.mp4",
         outro_dur,
         1080,
         1920,
@@ -519,7 +506,7 @@ async def main() -> None:
     vis_16x9, _ = build_hard_cut_visual_plus_outro(
         clips_16x9,
         body_dur,
-        DAM_BROLL_LIB / "FHG-OUTRO-001_fig-tree-parchment_16x9_1080p.jpg",
+        DAM_BROLL_LIB / "FHG-OUTRO-001_fig-tree-parchment_16x9_1080p.mp4",
         outro_dur,
         1920,
         1080,

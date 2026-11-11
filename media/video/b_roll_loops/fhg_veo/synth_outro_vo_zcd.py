@@ -30,21 +30,30 @@ def get_duration(path: Path) -> float:
 
 
 async def synth_seg(text: str, rate: str, pitch: str, out_mp3: Path) -> None:
-    comm = edge_tts.Communicate(text=text, voice="en-US-AndrewMultilingualNeural", rate=rate, pitch=pitch)
-    await comm.save(str(out_mp3))
+    for attempt in range(6):
+        try:
+            comm = edge_tts.Communicate(text=text, voice="en-US-AndrewMultilingualNeural", rate=rate, pitch=pitch)
+            await comm.save(str(out_mp3))
+            if out_mp3.exists() and out_mp3.stat().st_size > 400:
+                await asyncio.sleep(0.4)
+                return
+        except Exception as exc:
+            if attempt == 5:
+                raise exc
+            await asyncio.sleep(1.2 * (attempt + 1))
 
 
 async def main() -> None:
     WORK_DIR.mkdir(parents=True, exist_ok=True)
 
-    # 3 reverent, intimate beats matching the visual hierarchy of the Outro:
+    # 3 reverent, intimate beats matching the visual hierarchy of the Outro (Natural Pause Standard):
     # 1. Title: "For His Grace."
     # 2. Slogan: "Solitude isn't lonely when it's the gift that He gave."
     # 3. H3 CTA: "Learn more on ForHisGrace.com."
     segs = [
-        ("For His Grace.", "+4%", "-2Hz", 150),
-        ("Solitude isn't lonely, when it's the gift that He gave.", "+2%", "-3Hz", 300),
-        ("Learn more on ForHisGrace.com.", "+6%", "-2Hz", 350),
+        ("For His Grace.", "+2%", "-2Hz", 180),
+        ("Solitude isn't lonely, when it's the gift that He gave.", "+1%", "-3Hz", 340),
+        ("Learn more on For His Grace dot com.", "+2%", "-2Hz", 380),
     ]
 
     concat_files: list[Path] = []
@@ -68,7 +77,7 @@ async def main() -> None:
         subprocess.run(
             [
                 "ffmpeg", "-y", "-i", str(mp3_p),
-                "-af", "areverse,silenceremove=start_periods=1:start_duration=0.04:start_threshold=-45dB,areverse",
+                "-af", "silenceremove=start_periods=1:start_threshold=-50dB,areverse,silenceremove=start_periods=1:start_threshold=-50dB,areverse,afade=t=in:st=0:d=0.015",
                 "-ar", "48000", "-ac", "2",
                 str(wav_p),
             ],
