@@ -28,9 +28,11 @@ sources/raw_writings_inbox/*
 *.tif
 *.HEIC
 
-# --- OS / editor junk ---
+# --- OS / editor / Python bytecode junk ---
 Thumbs.db
 .DS_Store
+__pycache__/
+*.py[cod]
 
 # --- Environment & Secrets ---
 .env

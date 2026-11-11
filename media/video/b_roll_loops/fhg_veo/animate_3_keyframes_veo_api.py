@@ -1,132 +1,161 @@
 #!/usr/bin/env python3
 """
-Animate 3 of the 12 4K Photorealistic Master Keyframes into 8.0s 1080p @ 60fps
-Living-Cinema B-Roll Video Clips (16:9 Widescreen & 9:16 Vertical) for review:
-  1. FHG-BR-016_olive-press-gethsemane
-  2. FHG-BR-017_tearing-cherubim-temple-veil
-  3. FHG-BR-085_jesus-finger-writing-in-temple-dust
+Pure Gemini / Veo Image-to-Video Animation Caller.
+Sends ONLY the source image and prompt="animate" to the Veo API endpoint
+(no FFmpeg zoompan, no synthetic camera math).
 
-Uses 2x supersampled (3840x2160 / 2160x3840) photorealistic framing with organic
-torchlight/sunbeam luminance modulation and 60fps cinematic camera push/pan.
-Zero sepia conversion — pure photorealistic 1st-century cinema.
+API Key Metadata:
+  - Name: Gemini API Key
+  - Project Title: 864z Drive Vault
+  - Project Name: projects/100480155220
+  - Project Number: 100480155220
+  - Enable URL (your own project):
+    https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=100480155220
+  - Stored in: C:\\dev\\864zeros-llc\\.env (GEMINI_API_KEY)
 """
 
-import subprocess
+import base64
+import json
+import os
+import re
+import sys
+import time
+import urllib.error
+import urllib.request
 from pathlib import Path
-from PIL import Image
 
-VEO_DIR = Path(r"C:\dev\864zeros-publish\media\video\b_roll_loops\fhg_veo")
-KEYFRAMES_DIR = VEO_DIR / "keyframes_4k"
-BROLL_LIB = VEO_DIR / "broll_library"
-WORK_DIR = VEO_DIR / "_work_keyframe_anim"
-
-BROLL_LIB.mkdir(parents=True, exist_ok=True)
-WORK_DIR.mkdir(parents=True, exist_ok=True)
-
-CLIPS = [
-    {
-        "id": "FHG-BR-016",
-        "slug": "olive-press-gethsemane",
-        "src": KEYFRAMES_DIR / "FHG-BR-016_olive-press-gethsemane_master_4k.jpg",
-        "dur": 8.0,
-        # Slow push-in toward the crushed olive pulp & golden oil stream with warm flickering torchlight
-        "z_expr": "1.02+0.10*(on/480)",
-        "x_expr": "iw/2-(iw/zoom/2)+18*sin(on/95)",
-        "y_expr": "ih/2-(ih/zoom/2)+12*(on/480)",
-        "eq_expr": "eq=brightness='0.018*sin(2*PI*t*1.35)+0.008*sin(2*PI*t*3.1)':contrast='1.03+0.015*sin(2*PI*t*1.35)':saturation=1.05",
-    },
-    {
-        "id": "FHG-BR-017",
-        "slug": "tearing-cherubim-temple-veil",
-        "src": KEYFRAMES_DIR / "FHG-BR-017_tearing-cherubim-temple-veil_master_4k.jpg",
-        "dur": 8.0,
-        # Dramatic vertical tilt + push into the blinding golden Shekinah light bursting through the torn veil
-        "z_expr": "1.03+0.11*(on/480)",
-        "x_expr": "iw/2-(iw/zoom/2)",
-        "y_expr": "ih*0.42-(ih/zoom/2)+28*(on/480)",
-        "eq_expr": "eq=brightness='0.025*sin(2*PI*t*0.9)+0.012*cos(2*PI*t*2.4)':contrast='1.04+0.02*sin(2*PI*t*0.9)':saturation=1.06",
-    },
-    {
-        "id": "FHG-BR-085",
-        "slug": "jesus-finger-writing-in-temple-dust",
-        "src": KEYFRAMES_DIR / "FHG-BR-085_jesus-finger-writing-in-temple-dust_master_4k.jpg",
-        "dur": 8.0,
-        # Low-angle lateral tracking + push across the Hebrew letters etched in the limestone dust
-        "z_expr": "1.04+0.09*(on/480)",
-        "x_expr": "iw*0.46-(iw/zoom/2)+34*(on/480)",
-        "y_expr": "ih*0.54-(ih/zoom/2)-14*(on/480)",
-        "eq_expr": "eq=brightness='0.014*sin(2*PI*t*0.75)':contrast=1.03:saturation=1.04",
-    },
+ENV_PATH = Path(r"C:\dev\864zeros-llc\.env")
+TO_ANIMATE_DIR = Path(r"C:\dev\fhg-videos\why-way\to-animate")
+OUT_DIR = Path(r"C:\dev\864zeros-publish\media\video\b_roll_loops\fhg_veo\broll_library")
+PROJECT_ID = "100480155220"
+LOCATION = "us-central1"
+VERTEX_MODELS = [
+    "veo-3.1-generate-preview",
+    "veo-3.0-generate-001",
+    "veo-3.0-generate-preview",
+    "veo-2.0-generate-001",
 ]
 
 
-def prepare_supersampled_crop(src_jpg: Path, target_w: int, target_h: int, out_jpg: Path) -> Path:
-    """
-    Crops and scales the photorealistic keyframe to a 2x supersampled canvas
-    (target_w*2 x target_h*2) using Lanczos resampling so zoompan has full sub-pixel precision.
-    """
-    im = Image.open(src_jpg).convert("RGB")
-    src_w, src_h = im.size
-    super_w, super_h = target_w * 2, target_h * 2
-    target_aspect = super_w / super_h
-    src_aspect = src_w / src_h
-
-    if src_aspect > target_aspect:
-        # Source is wider than target aspect: crop width
-        new_w = int(round(src_h * target_aspect))
-        left = (src_w - new_w) // 2
-        im_cropped = im.crop((left, 0, left + new_w, src_h))
-    else:
-        # Source is taller/squarer than target aspect: crop height around optical center (46% from top)
-        new_h = int(round(src_w / target_aspect))
-        top = int(round((src_h - new_h) * 0.46))
-        im_cropped = im.crop((0, top, src_w, top + new_h))
-
-    im_super = im_cropped.resize((super_w, super_h), Image.Resampling.LANCZOS)
-    im_super.save(out_jpg, "JPEG", quality=96)
-    return out_jpg
+def load_api_key() -> str:
+    for var in ("VEO_API_KEY", "GEMINI_API_KEY"):
+        if os.environ.get(var):
+            return os.environ[var].strip()
+    txt = ENV_PATH.read_text(encoding="utf-8")
+    for var in ("VEO_API_KEY", "GEMINI_API_KEY"):
+        m = re.search(rf"^{var}\s*=\s*([^\s#]+)", txt, flags=re.MULTILINE)
+        if m:
+            return m.group(1).strip()
+    raise RuntimeError(f"GEMINI_API_KEY not found in {ENV_PATH}")
 
 
-def render_clip(clip: dict, aspect_tag: str, width: int, height: int) -> Path:
-    plate_jpg = WORK_DIR / f"{clip['id']}_{aspect_tag}_super.jpg"
-    prepare_supersampled_crop(clip["src"], width, height, plate_jpg)
-
-    out_mp4 = BROLL_LIB / f"{clip['id']}_{clip['slug']}_{aspect_tag}_1080p.mp4"
-    frames = int(round(clip["dur"] * 60))
-
-    vf = (
-        f"zoompan=z='{clip['z_expr']}':x='{clip['x_expr']}':y='{clip['y_expr']}':"
-        f"d={frames}:s={width}x{height}:fps=60,"
-        f"{clip['eq_expr']},"
-        f"noise=alls=3:allf=t+u,"
-        f"unsharp=3:3:0.45:3:3:0.0,"
-        f"setsar=1,format=yuv420p"
-    )
-
-    subprocess.run(
-        [
-            "ffmpeg", "-y", "-loop", "1",
-            "-i", str(plate_jpg),
-            "-vf", vf,
-            "-t", f"{clip['dur']:.2f}",
-            "-r", "60",
-            "-c:v", "libx264", "-preset", "fast", "-crf", "16",
-            "-pix_fmt", "yuv420p", "-movflags", "+faststart", "-an",
-            str(out_mp4),
+def animate_image_vertex(image_path: Path, out_mp4: Path, api_key: str, aspect_ratio: str = "16:9") -> Path:
+    """Send image + 'animate' to Vertex AI Veo predictLongRunning on projects/100480155220."""
+    img_b64 = base64.b64encode(image_path.read_bytes()).decode("ascii")
+    payload = {
+        "instances": [
+            {
+                "prompt": "animate",
+                "image": {
+                    "bytesBase64Encoded": img_b64,
+                    "mimeType": "image/jpeg",
+                },
+            }
         ],
-        check=True,
-        capture_output=True,
+        "parameters": {
+            "aspectRatio": aspect_ratio,
+            "sampleCount": 1,
+        },
+    }
+
+    chosen_model = None
+    op = None
+    last_err = None
+    for model in VERTEX_MODELS:
+        url = (
+            f"https://{LOCATION}-aiplatform.googleapis.com/v1/projects/{PROJECT_ID}/"
+            f"locations/{LOCATION}/publishers/google/models/{model}:predictLongRunning?key={api_key}"
+        )
+        req = urllib.request.Request(
+            url,
+            data=json.dumps(payload).encode("utf-8"),
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                op = json.loads(resp.read().decode("utf-8"))
+                chosen_model = model
+                break
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", errors="ignore")
+            last_err = f"HTTP {e.code} on {model}: {body}"
+            if e.code == 404:
+                continue
+            raise RuntimeError(last_err) from e
+
+    if not op or not chosen_model:
+        raise RuntimeError(f"No Vertex Veo model succeeded. Last error: {last_err}")
+
+    op_name = op["name"]
+    print(f"    Started {chosen_model} operation: {op_name}")
+    poll_url = (
+        f"https://{LOCATION}-aiplatform.googleapis.com/v1/projects/{PROJECT_ID}/"
+        f"locations/{LOCATION}/publishers/google/models/{chosen_model}:fetchPredictOperation?key={api_key}"
     )
-    return out_mp4
+
+    while True:
+        time.sleep(8)
+        poll_req = urllib.request.Request(
+            poll_url,
+            data=json.dumps({"operationName": op_name}).encode("utf-8"),
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        with urllib.request.urlopen(poll_req, timeout=30) as poll_resp:
+            status = json.loads(poll_resp.read().decode("utf-8"))
+        if status.get("done"):
+            if "error" in status:
+                raise RuntimeError(f"Veo operation failed: {json.dumps(status['error'])}")
+            response = status.get("response", {})
+            videos = response.get("videos", [])
+            if videos and videos[0].get("bytesBase64Encoded"):
+                out_mp4.write_bytes(base64.b64decode(videos[0]["bytesBase64Encoded"]))
+                return out_mp4
+            samples = response.get("generateVideoResponse", {}).get("generatedSamples", [])
+            if samples and samples[0].get("video", {}).get("uri"):
+                dl_req = urllib.request.Request(
+                    samples[0]["video"]["uri"],
+                    headers={"x-goog-api-key": api_key},
+                )
+                with urllib.request.urlopen(dl_req, timeout=120) as dl_resp:
+                    out_mp4.write_bytes(dl_resp.read())
+                return out_mp4
+            raise RuntimeError(f"Unexpected Veo completion payload: {json.dumps(status)[:500]}")
 
 
 def main() -> None:
-    print("Rendering 3 Photorealistic 1080p @ 60fps Animated Keyframe Clips (16:9 & 9:16)...")
-    for clip in CLIPS:
-        out_16x9 = render_clip(clip, "16x9", 1920, 1080)
-        out_9x16 = render_clip(clip, "9x16", 1080, 1920)
-        print(f"  -> {out_16x9.name} ({out_16x9.stat().st_size / (1024*1024):.2f} MB)")
-        print(f"  -> {out_9x16.name} ({out_9x16.stat().st_size / (1024*1024):.2f} MB)")
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    api_key = load_api_key()
+    limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
+    images = sorted(TO_ANIMATE_DIR.glob("*_master_4k.jpg"))
+    print(f"Found {len(images)} keyframes in {TO_ANIMATE_DIR} (Project: {PROJECT_ID})...")
+
+    count = 0
+    for img in images:
+        stem = img.stem.replace("_master_4k", "")
+        for aspect, tag in [("16:9", "16x9"), ("9:16", "9x16")]:
+            out_mp4 = OUT_DIR / f"{stem}_{tag}_1080p.mp4"
+            if out_mp4.exists() and out_mp4.stat().st_size > 0:
+                print(f"  [SKIP] {out_mp4.name} already exists")
+                continue
+            print(f"  [ANIMATE] {img.name} ({aspect}) -> {out_mp4.name} ...")
+            animate_image_vertex(img, out_mp4, api_key=api_key, aspect_ratio=aspect)
+            print(f"  [DONE] {out_mp4.name} ({out_mp4.stat().st_size / (1024*1024):.2f} MB)")
+            count += 1
+            if limit and count >= limit:
+                print(f"Reached test limit ({limit}). Stopping.")
+                return
 
 
 if __name__ == "__main__":
