@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:04 00:03.8–00:09.5
 00:11 00:09.5–00:16.5
 00:18 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:04] (00:00–00:03.8): Tired of Google Forms approval workflows stalling in external login portals?
+[00:00 - 00:04] (Scene): Tired of Google Forms approval workflows stalling in external login portals?
 [00:04 - 00:11] (00:03.8–00:09.5): With ApprovalWorkflow, managers click Approve right inside their email and your tracking spreadsheet updates instantly.
 [00:11 - 00:18] (00:09.5–00:16.5): Multi-step routing, automatic audit timestamps, and requester receipts—all inside the workspace you already use.
 [00:18 - 00:27] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat multi-step form and purchase approvals like an excuse to 
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:07 00:04.5–00:11.0
 00:15 00:11.0–00:22.0
 00:25 00:22.0–00:31.0
@@ -85,7 +85,7 @@ google forms approval workflow, approveit alternative, boloforms approvals alter
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:07] (00:00–00:04.5): Need a Google Forms approval workflow, but tired of requests stalling because managers refuse to create another portal login?
+[00:00 - 00:07] (Scene): Need a Google Forms approval workflow, but tired of requests stalling because managers refuse to create another portal login?
 [00:07 - 00:15] (00:04.5–00:11.0): Watch ApprovalWorkflow in action: one click on Approve inside standard email immediately updates your Google Sheet status row in real time.
 [00:15 - 00:25] (00:11.0–00:22.0): Route purchase orders, leave requests, and vendor invoices through multi-step conditional rules—with automatic requester confirmation receipts and zero row collisions.
 [00:25 - 00:31] (00:22.0–00:31.0): Your forms, inbox, and tracking spreadsheet work together privately inside your own environment.

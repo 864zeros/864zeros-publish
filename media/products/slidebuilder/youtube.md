@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:26 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of merging spreadsheet metrics into multi-slide client presentations getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of merging spreadsheet metrics into multi-slide client presentations getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With SlideBuilder, Exact Master-Slide Geometry & Font Preservation runs right where you already work.
 [00:14 - 00:26] (00:09.5–00:16.5): Zero AI Hallucinations (100% True Spreadsheet Data) and Batch-Generate 50+ QBR, Certificate or Roster Slides—100% under your own custody.
 [00:26 - 00:35] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat merging spreadsheet metrics into multi-slide client prese
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:20 00:11.0–00:22.0
 00:37 00:22.0–00:31.0
@@ -85,7 +85,7 @@ merge google sheets into google slides, automate qbr presentations from google s
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle merging spreadsheet metrics into multi-slide client presentations, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle merging spreadsheet metrics into multi-slide client presentations, without handing your data to another monthly cloud landlord?
 [00:08 - 00:20] (00:04.5–00:11.0): Watch SlideBuilder in action: Clones your designed template slide verbatim so corporate colors, typography, logos, and table alignments remain 100% intact across all generated slides.
 [00:20 - 00:37] (00:11.0–00:22.0): Every metric, client name, and financial figure comes deterministically from your Google Sheet columns—never invented by a generative model. Plus, produce an entire quarterly business review deck, student award presentation, or product catalog from a spreadsheet in under 15 seconds.
 [00:37 - 00:44] (00:22.0–00:31.0): Your confidential board metrics and revenue spreadsheets merge directly between your Google Sheet and Google Slides inside your own account.

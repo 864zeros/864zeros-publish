@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:24 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of auditing third-party trackers and identity vendors on websites getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of auditing third-party trackers and identity vendors on websites getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With Who Is Watching, Named Vendor & Category Attribution runs right where you already work.
 [00:14 - 00:24] (00:09.5–00:16.5): Exposes Concrete Tracking Cookies & Pixel IDs and One-Click Forensic HTML & Markdown Audit Report—100% under your own custody.
 [00:24 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat auditing third-party trackers and identity vendors on web
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:07 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:34 00:22.0–00:31.0
@@ -85,7 +85,7 @@ see who is tracking me on a website, inspect ad-tech vendors & tracking cookies,
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:07] (00:00–00:04.5): Need a better way to handle auditing third-party trackers and identity vendors on websites, without handing your data to another monthly cloud landlord?
+[00:00 - 00:07] (Scene): Need a better way to handle auditing third-party trackers and identity vendors on websites, without handing your data to another monthly cloud landlord?
 [00:07 - 00:18] (00:04.5–00:11.0): Watch Who Is Watching in action: Translates obscure tracking domains into plain-English company names across Ad-Tech, Session Recording, Fingerprinting, and Analytics categories.
 [00:18 - 00:34] (00:11.0–00:22.0): See the actual persistent identifier keys and pixel IDs set in your browser during the session—not just a vague counter. Plus, export a timestamped compliance and security report of every tracker detected on a page for GDPR, FERPA, or vendor procurement audits.
 [00:34 - 00:43] (00:22.0–00:31.0): Unlike commercial tracker extensions owned by ad conglomerates, Who Is Watching runs 100% on your device with zero outbound network calls.

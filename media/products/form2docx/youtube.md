@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:13 00:09.5–00:16.5
 00:22 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of merging form responses into custom documents and PDFs getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of merging form responses into custom documents and PDFs getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:13] (00:03.8–00:09.5): With Form2Docx, Instant {{Token}} Template Replacement runs right where you already work.
 [00:13 - 00:22] (00:09.5–00:16.5): Simultaneous Google Doc & PDF Compilation and Dynamic Custom File Naming per Submission—100% under your own custody.
 [00:22 - 00:31] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat merging form responses into custom documents and PDFs lik
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:37 00:22.0–00:31.0
@@ -85,7 +85,7 @@ google forms to google docs merge, generate pdf from google form submission, for
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle merging form responses into custom documents and PDFs, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle merging form responses into custom documents and PDFs, without handing your data to another monthly cloud landlord?
 [00:08 - 00:19] (00:04.5–00:11.0): Watch Form2Docx in action: Place simple {{Question Title}} tags anywhere in your Google Doc header, body, or tables and watch Form2Docx populate them automatically on submit.
 [00:19 - 00:37] (00:11.0–00:22.0): Output an editable Google Doc, a locked print-ready PDF, or both directly into your designated Google Drive destination folder. Plus, name generated files automatically using form answers—such as "2026-Contract-{{Client Name}}.pdf"—and log the direct Drive link back into your Sheet.
 [00:37 - 00:46] (00:22.0–00:31.0): Your legal, medical, and client intake answers never leave your Google account—and your generated PDFs never carry third-party promotional stamps.

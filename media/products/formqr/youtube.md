@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:15 00:09.5–00:16.5
 00:24 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of generating permanent QR codes and inventory barcodes from spreadsheets getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of generating permanent QR codes and inventory barcodes from spreadsheets getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:15] (00:03.8–00:09.5): With FormQR, 100% Static Direct Encoding (Never Expires) runs right where you already work.
 [00:15 - 00:24] (00:09.5–00:16.5): Batch Column Processing in Google Sheets and High-Resolution Print-Ready PNG & SVG Output—100% under your own custody.
 [00:24 - 00:33] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat generating permanent QR codes and inventory barcodes from
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:21 00:11.0–00:22.0
 00:39 00:22.0–00:31.0
@@ -85,7 +85,7 @@ permanent qr code generator google sheets, non-expiring static qr code add-on, b
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle generating permanent QR codes and inventory barcodes from spreadsheets, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle generating permanent QR codes and inventory barcodes from spreadsheets, without handing your data to another monthly cloud landlord?
 [00:08 - 00:21] (00:04.5–00:11.0): Watch FormQR in action: Your URL, form link, or inventory SKU is encoded directly into the QR or Code-128 pattern—zero third-party redirect servers that can go down or paywall scans.
 [00:21 - 00:39] (00:11.0–00:22.0): Turn 500 rows of URLs, event badge IDs, or warehouse SKUs into Drive image files and live in-cell spreadsheet previews in one batch run. Plus, export crisp vector and high-DPI raster graphics directly into your chosen Google Drive folder for badge printing, packaging, and signage.
 [00:39 - 00:47] (00:22.0–00:31.0): When a customer or attendee scans your QR code, they go straight to your destination—no interstitial ads and no IP address harvesting.

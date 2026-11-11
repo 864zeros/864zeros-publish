@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:13 00:09.5–00:16.5
 00:22 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of archiving completed spreadsheet rows to keep live trackers fast getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of archiving completed spreadsheet rows to keep live trackers fast getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:13] (00:03.8–00:09.5): With RowArchiver, Bottom-Up Atomic Row Evacuation runs right where you already work.
 [00:13 - 00:22] (00:09.5–00:16.5): Live Pre-Scan Match Preview Before Moving and Scheduled Daily or Hourly Background Cleanup—100% under your own custody.
 [00:22 - 00:31] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat archiving completed spreadsheet rows to keep live tracker
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:34 00:22.0–00:31.0
@@ -85,7 +85,7 @@ automatically move completed rows google sheets, archive old rows in google shee
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle archiving completed spreadsheet rows to keep live trackers fast, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle archiving completed spreadsheet rows to keep live trackers fast, without handing your data to another monthly cloud landlord?
 [00:08 - 00:18] (00:04.5–00:11.0): Watch RowArchiver in action: Moves completed rows from the bottom up with built-in concurrency locking so active row indexes and adjacent formulas never shift or corrupt.
 [00:18 - 00:34] (00:11.0–00:22.0): Preview the exact count of rows matching your rule (such as Status = "Completed" or Date older than 30 days) before moving a single cell. Plus, set an automatic overnight or hourly schedule so completed tasks evacuate to your Archive tab while your team sleeps.
 [00:34 - 00:42] (00:22.0–00:31.0): Automatically creates your destination Archive tab with matching column headers and formatting—100% inside your own Google Sheet.

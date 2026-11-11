@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:23 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of signing agreements and routing sealed PDFs in Google Docs getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of signing agreements and routing sealed PDFs in Google Docs getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With SignRoute, Responsive HTML5 Signature Canvas in Docs runs right where you already work.
 [00:14 - 00:23] (00:09.5–00:16.5): Stamp at {{Signature}} Tokens or Cursor Position and Instant Sealed PDF Archival to Google Drive—100% under your own custody.
 [00:23 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat signing agreements and routing sealed PDFs in Google Docs
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:35 00:22.0–00:31.0
@@ -85,7 +85,7 @@ insert digital signature in google docs, docusign & hellosign alternative for go
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle signing agreements and routing sealed PDFs in Google Docs, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle signing agreements and routing sealed PDFs in Google Docs, without handing your data to another monthly cloud landlord?
 [00:08 - 00:19] (00:04.5–00:11.0): Watch SignRoute in action: Draw a smooth, high-DPI signature with your mouse, trackpad, or stylus right inside the Google Docs sidebar and save it for one-click reuse.
 [00:19 - 00:35] (00:11.0–00:22.0): Automatically place your signature graphic and cryptographic timestamp block at designated {{Signature}} tags or right where your cursor sits. Plus, compiles the signed Google Doc into a flattened, tamper-evident PDF and saves it directly into your chosen Google Drive contract folder.
 [00:35 - 00:43] (00:22.0–00:31.0): Your NDAs, vendor approvals, and equipment handoffs never sit on a third-party e-signature vendor's server—and you never pay per document.

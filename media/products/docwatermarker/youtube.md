@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:22 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of stamping and removing draft watermarks across multi-page documents getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of stamping and removing draft watermarks across multi-page documents getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With DocWatermarker, One-Click Multi-Section Stamp & Purge runs right where you already work.
 [00:14 - 00:22] (00:09.5–00:16.5): Dynamic Date, Time & Author Tokens and Non-Destructive Layout & Table Preservation—100% under your own custody.
 [00:22 - 00:31] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat stamping and removing draft watermarks across multi-page 
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:35 00:22.0–00:31.0
@@ -85,7 +85,7 @@ add watermark in google docs, batch remove draft watermark google docs, confiden
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle stamping and removing draft watermarks across multi-page documents, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle stamping and removing draft watermarks across multi-page documents, without handing your data to another monthly cloud landlord?
 [00:08 - 00:19] (00:04.5–00:11.0): Watch DocWatermarker in action: Apply or remove watermarks across 50-page, multi-section documents in a single click—no manual header-by-header editing required.
 [00:19 - 00:35] (00:11.0–00:22.0): Automatically stamp the exact version date, local timezone timestamp, or reviewer name so printed and exported PDFs never go stale. Plus, preserves your existing body margins, table pagination, and section breaks so removing a DRAFT notice never wrecks your final layout.
 [00:35 - 00:45] (00:22.0–00:31.0): Never upload confidential M&A drafts, legal agreements, or HR policies to external PDF watermarking websites. Everything runs inside your Google Doc.

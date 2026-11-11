@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:23 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of syncing and consolidating data across multiple spreadsheets getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of syncing and consolidating data across multiple spreadsheets getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With SheetSync, Primary-Key Upsert, Append & Full Mirror Modes runs right where you already work.
 [00:14 - 00:23] (00:09.5–00:16.5): Static Value Sync Eliminates "Loading..." Hangs and Automated Hourly, 6-Hourly & Daily Rollups—100% under your own custody.
 [00:23 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat syncing and consolidating data across multiple spreadshee
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:33 00:22.0–00:31.0
@@ -85,7 +85,7 @@ importrange alternative no ref error, sync two google sheets automatically, coup
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle syncing and consolidating data across multiple spreadsheets, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle syncing and consolidating data across multiple spreadsheets, without handing your data to another monthly cloud landlord?
 [00:08 - 00:18] (00:04.5–00:11.0): Watch SheetSync in action: Update existing rows by matching an ID column, append new records, or mirror a source range cleanly without creating duplicate rows.
 [00:18 - 00:33] (00:11.0–00:22.0): Writes real cell values instead of volatile cross-workbook formulas—so your master executive dashboard opens instantaneously and stays editable. Plus, schedule background sync triggers that consolidate regional or department sheets into your master workbook automatically.
 [00:33 - 00:42] (00:22.0–00:31.0): Your financial models, inventory tables, and CRM rows move directly between your own Google Sheets—never routed through third-party cloud connectors.

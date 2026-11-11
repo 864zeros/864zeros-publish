@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:15 00:09.5–00:16.5
 00:25 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of masking background distractions with continuous focus soundscapes getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of masking background distractions with continuous focus soundscapes getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:15] (00:03.8–00:09.5): With TuneOut2FocusIn, Zero Mid-Roll Ads & 100% Offline Synthesis runs right where you already work.
 [00:15 - 00:25] (00:09.5–00:16.5): Continuous Background Playback Across All Tabs and Curated Brown, Gray, White Noise & Rain Profiles—100% under your own custody.
 [00:25 - 00:34] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat masking background distractions with continuous focus sou
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:35 00:22.0–00:31.0
@@ -85,7 +85,7 @@ offline brown noise chrome extension no ads, adhd brown noise focus generator br
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle masking background distractions with continuous focus soundscapes, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle masking background distractions with continuous focus soundscapes, without handing your data to another monthly cloud landlord?
 [00:08 - 00:18] (00:04.5–00:11.0): Watch TuneOut2FocusIn in action: Generates acoustic soundscapes locally on your device so a sudden ad, buffering spinner, or airplane mode never interrupts your flow state.
 [00:18 - 00:35] (00:11.0–00:22.0): Keeps playing smoothly even when you close the side panel or switch between browser windows—with instant one-click mute and volume control. Plus, switch effortlessly between deep low-frequency brown noise for ADHD focus, balanced gray noise, crisp white noise, and warm rain.
 [00:35 - 00:43] (00:22.0–00:31.0): Uses 0 megabytes of internet bandwidth and makes zero network requests—just pure, instant acoustic focus whenever you need it.

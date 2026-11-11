@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:23 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of repurposing long-form videos into captioned vertical shorts getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of repurposing long-form videos into captioned vertical shorts getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With OmniClip, Word-Level Transcript Trimming & Hook Detection runs right where you already work.
 [00:14 - 00:23] (00:09.5–00:16.5): Automatic 9:16 Active-Speaker Face Reframing and Burned-In Kinetic Captions & WebVTT Export—100% under your own custody.
 [00:23 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat repurposing long-form videos into captioned vertical shor
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:33 00:22.0–00:31.0
@@ -85,7 +85,7 @@ local ai video clipper no cloud upload, opusclip & munch offline alternative, co
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle repurposing long-form videos into captioned vertical shorts, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle repurposing long-form videos into captioned vertical shorts, without handing your data to another monthly cloud landlord?
 [00:08 - 00:18] (00:04.5–00:11.0): Watch OmniClip in action: Edit video as easily as editing text—click start and end words in the local transcript to cut tight vertical clips in seconds.
 [00:18 - 00:33] (00:11.0–00:22.0): On-device computer vision keeps the speaking host centered smoothly in a 9:16 vertical frame without manual keyframing in a timeline. Plus, generate high-contrast animated word captions and matching .vtt subtitle files automatically from your local audio track.
 [00:33 - 00:42] (00:22.0–00:31.0): Raw 4K footage, client depositions, and embargoed interviews never leave your hard drive—zero upload queues and zero per-minute cloud credits.

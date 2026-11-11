@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:07 00:03.8–00:09.5
 00:13 00:09.5–00:16.5
 00:21 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:07] (00:00–00:03.8): Tired of saving articles with context notes for reading later getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:07] (Scene): Tired of saving articles with context notes for reading later getting locked behind monthly subscriptions and external cloud portals?
 [00:07 - 00:13] (00:03.8–00:09.5): With LinkLater, Save Links With Immediate Notes & Tags runs right where you already work.
 [00:13 - 00:21] (00:09.5–00:16.5): One-Click Send to Obsidian Vault Bridge and Instant Offline Search & Unread Filtering—100% under your own custody.
 [00:21 - 00:29] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat saving articles with context notes for reading later like
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:07 00:04.5–00:11.0
 00:17 00:11.0–00:22.0
 00:35 00:22.0–00:31.0
@@ -85,7 +85,7 @@ pocket & instapaper local alternative, read it later chrome extension no account
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:07] (00:00–00:04.5): Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord?
+[00:00 - 00:07] (Scene): Need a better way to handle saving articles with context notes for reading later, without handing your data to another monthly cloud landlord?
 [00:07 - 00:17] (00:04.5–00:11.0): Watch LinkLater in action: Capture why you saved an article while the thought is fresh—attach quotes, tags, and priority flags right in the side panel without leaving your tab.
 [00:17 - 00:35] (00:11.0–00:22.0): Push single saved articles or a compiled weekly reading digest directly into your local Obsidian vault with clean frontmatter and links. Plus, filter your reading queue by tag, domain, or read/unread status in 0ms—even when you are on a plane with no internet connection.
 [00:35 - 00:43] (00:22.0–00:31.0): Your reading list belongs to you. Export single items or your entire archive to standard Markdown or JSON anytime with zero lock-in.

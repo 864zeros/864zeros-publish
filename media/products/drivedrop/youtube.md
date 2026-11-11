@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:23 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of collecting client files and documents into Google Drive without login walls getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of collecting client files and documents into Google Drive without login walls getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With DriveDrop, Zero Google Account Required for Uploaders runs right where you already work.
 [00:14 - 00:23] (00:09.5–00:16.5): Automatic Submitter File Naming & Organization and Optional PIN Protection & File-Type Whitelists—100% under your own custody.
 [00:23 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat collecting client files and documents into Google Drive w
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:38 00:22.0–00:31.0
@@ -85,7 +85,7 @@ google drive file request link no sign in, google forms file upload without sign
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle collecting client files and documents into Google Drive without login walls, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle collecting client files and documents into Google Drive without login walls, without handing your data to another monthly cloud landlord?
 [00:08 - 00:19] (00:04.5–00:11.0): Watch DriveDrop in action: External clients open your link, enter their name, and drop files straight from their phone or laptop—no Google sign-in friction or bounced email attachments.
 [00:19 - 00:38] (00:11.0–00:22.0): Every uploaded file is automatically prefixed with the submitter name, email, and timestamp so five vendors uploading invoice.pdf never overwrite each other. Plus, gate your dropzone with an access PIN, restrict allowed file extensions (such as PDF, DOCX, or ZIP), and enforce maximum file size rules.
 [00:38 - 00:45] (00:22.0–00:31.0): Your clients' sensitive files travel directly into your own Google Drive folder—never stored on third-party file-request servers.

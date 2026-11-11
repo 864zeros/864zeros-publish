@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:22 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of syncing spreadsheet project dates and schedules to Google Calendar getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of syncing spreadsheet project dates and schedules to Google Calendar getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With Sheet2Calendar, Event ID Writeback Prevents Duplicates Forever runs right where you already work.
 [00:14 - 00:22] (00:09.5–00:16.5): Supports Timed, All-Day & Multi-Day Events and One-Click Batch Sync or Automated Triggers—100% under your own custody.
 [00:22 - 00:31] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat syncing spreadsheet project dates and schedules to Google
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:36 00:22.0–00:31.0
@@ -85,7 +85,7 @@ sync google sheets to google calendar without duplicates, create calendar events
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle syncing spreadsheet project dates and schedules to Google Calendar, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle syncing spreadsheet project dates and schedules to Google Calendar, without handing your data to another monthly cloud landlord?
 [00:08 - 00:19] (00:04.5–00:11.0): Watch Sheet2Calendar in action: Stores the created Google Calendar Event ID directly in your sheet row so re-syncing updates changed titles, times, and locations instead of duplicating events.
 [00:19 - 00:36] (00:11.0–00:22.0): Map any spreadsheet columns to event title, start/end timestamps, description, location, and guest lists in seconds. Plus, publish a 100-row workshop schedule, content calendar, or shift roster in one click—or let scheduled background triggers keep it synced.
 [00:36 - 00:43] (00:22.0–00:31.0): Your executive schedules, launch dates, and team rosters sync directly between your Sheet and Calendar inside Google Workspace.

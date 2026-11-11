@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:26 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of staying anchored to a single focus task while working in the browser getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of staying anchored to a single focus task while working in the browser getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With Time2Focus, Persistent Focus-Topic Anchor Above the Clock runs right where you already work.
 [00:14 - 00:26] (00:09.5–00:16.5): Gentle Synthesized Chime & Visual Pulse (Zero Klaxons) and Instant Preset Chips (5, 10, 25, 50 Minutes)—100% under your own custody.
 [00:26 - 00:34] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat staying anchored to a single focus task while working in 
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:36 00:22.0–00:31.0
@@ -85,7 +85,7 @@ browser side panel focus timer with task name, adhd friendly pomodoro timer chro
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle staying anchored to a single focus task while working in the browser, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle staying anchored to a single focus task while working in the browser, without handing your data to another monthly cloud landlord?
 [00:08 - 00:19] (00:04.5–00:11.0): Watch Time2Focus in action: Type your current mission ("Finish Section 2 Draft") and keep it anchored beside your browser tabs so a quick lookup never turns into a 40-minute detour.
 [00:19 - 00:36] (00:11.0–00:22.0): Replaces startling alarm buzzers that shatter hyperfocus with a calm, local Web Audio chime and soft visual completion pulse. Plus, launch a sprint in one click using duration preset chips or custom minutes—backed by native browser alarms that stay accurate even when panels close.
 [00:36 - 00:45] (00:22.0–00:31.0): Review your completed focus sessions locally and export your history to JSON anytime—with zero logins, zero streaks guilt, and zero tracking.

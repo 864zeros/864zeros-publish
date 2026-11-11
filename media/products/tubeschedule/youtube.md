@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:24 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of scheduling YouTube videos and Shorts from Google Drive and Sheets getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of scheduling YouTube videos and Shorts from Google Drive and Sheets getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With TubeSchedule, Automatic 6-Video/Day Quota-Drip Governor runs right where you already work.
 [00:14 - 00:24] (00:09.5–00:16.5): Native 9:16 Shorts & 16:9 Long-Form Detection and Two-Way Google Calendar Release Visualization—100% under your own custody.
 [00:24 - 00:33] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat scheduling YouTube videos and Shorts from Google Drive an
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:20 00:11.0–00:22.0
 00:36 00:22.0–00:31.0
@@ -85,7 +85,7 @@ schedule youtube shorts from google drive, bulk upload youtube videos from googl
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle scheduling YouTube videos and Shorts from Google Drive and Sheets, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle scheduling YouTube videos and Shorts from Google Drive and Sheets, without handing your data to another monthly cloud landlord?
 [00:08 - 00:20] (00:04.5–00:11.0): Watch TubeSchedule in action: Respects YouTube Data API v3 daily upload limits automatically—publishing up to 6 scheduled videos per day and rolling the remaining queue to tomorrow without errors.
 [00:20 - 00:36] (00:11.0–00:22.0): Automatically configures titles, descriptions, tags, privacy states, `publishAt` timestamps, and custom thumbnails directly from your Sheet columns. Plus, see every queued Video and Short on your Google Calendar and drag calendar blocks to reschedule your YouTube release pipeline.
 [00:36 - 00:44] (00:22.0–00:31.0): Your unreleased MP4 masters stream directly from your Google Drive to your YouTube channel—zero third-party social-scheduler seat fees.

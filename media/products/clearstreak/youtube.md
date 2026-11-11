@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:15 00:09.5–00:16.5
 00:25 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of tracking personal habits, sobriety streaks, and recovery milestones getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of tracking personal habits, sobriety streaks, and recovery milestones getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:15] (00:03.8–00:09.5): With ClearStreak, Data Over Shame (Lifetime Progress Preserved) runs right where you already work.
 [00:15 - 00:25] (00:09.5–00:16.5): Always-Free Rescue Hub & Haptic Grounding and 256-Bit Encrypted On-Device Storage & Biometric Lock—100% under your own custody.
 [00:25 - 00:34] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat tracking personal habits, sobriety streaks, and recovery 
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:37 00:22.0–00:31.0
@@ -85,7 +85,7 @@ private offline sobriety tracker app, i am sober alternative no cloud, encrypted
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle tracking personal habits, sobriety streaks, and recovery milestones, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle tracking personal habits, sobriety streaks, and recovery milestones, without handing your data to another monthly cloud landlord?
 [00:08 - 00:18] (00:04.5–00:11.0): Watch ClearStreak in action: Having a slip or off day resets only your current run while permanently keeping your Lifetime Days, Personal Bests, and earned Milestone Coins intact.
 [00:18 - 00:37] (00:11.0–00:22.0): Access eyes-free 4x4 haptic breathing, the Tactile Pocket Anchor, HALT trigger check-ins, and crisis lifelines anytime—never locked behind a paywall. Plus, your journals, urges, and check-ins are encrypted at rest on your phone with biometric unlock, screenshot blocking, and zero network permissions.
 [00:37 - 00:45] (00:22.0–00:31.0): Switching phones? Export an encrypted backup file directly to your own storage and restore it offline without ever creating a cloud account.

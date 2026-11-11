@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:16 00:09.5–00:16.5
 00:24 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of organizing, tagging, and approving creative assets in Google Drive getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of organizing, tagging, and approving creative assets in Google Drive getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:16] (00:03.8–00:09.5): With zeroCloudDAM, Portable File-Level Metadata (Zero Hostage Lock-In) runs right where you already work.
 [00:16 - 00:24] (00:09.5–00:16.5): Instant Faceted Masonry Gallery & Lightbox and One-Click Creative Review & Approval Stamping—100% under your own custody.
 [00:24 - 00:33] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat organizing, tagging, and approving creative assets in Goo
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:20 00:11.0–00:22.0
 00:40 00:22.0–00:31.0
@@ -85,7 +85,7 @@ google drive digital asset management add-on, pics io & dash dam alternative no 
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle organizing, tagging, and approving creative assets in Google Drive, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle organizing, tagging, and approving creative assets in Google Drive, without handing your data to another monthly cloud landlord?
 [00:08 - 00:20] (00:04.5–00:11.0): Watch zeroCloudDAM in action: Stamps all 13 taxonomy, brand, and approval attributes directly onto your Google Drive files and mirrors them to your DAM_CATALOG Google Sheet.
 [00:20 - 00:40] (00:11.0–00:22.0): Filter thousands of videos, SVGs, photos, and art plates by Brand Pillar, Asset Type, Campaign, or Approval Status in milliseconds without re-uploading a byte. Plus, route assets from Draft to Approved with cryptographic reviewer timestamps and export portable HTML/JSON Brand Kits for external partners.
 [00:40 - 00:50] (00:22.0–00:31.0): Auto-classify dimensions, durations, and visual keywords using native Drive metadata and your own free Google AI Studio key—zero metered AI credit markups.

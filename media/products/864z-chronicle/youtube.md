@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:07 00:03.8–00:09.5
 00:12 00:09.5–00:16.5
 00:20 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:07] (00:00–00:03.8): Tired of saving and searching your AI conversations and prompts getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:07] (Scene): Tired of saving and searching your AI conversations and prompts getting locked behind monthly subscriptions and external cloud portals?
 [00:07 - 00:12] (00:03.8–00:09.5): With Chronicle, Instant Cross-AI Full-Text Search runs right where you already work.
 [00:12 - 00:20] (00:09.5–00:16.5): Automatic Silent Capture as You Chat and One-Click Clean Markdown & JSON Export—100% under your own custody.
 [00:20 - 00:29] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat saving and searching your AI conversations and prompts li
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:07 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:35 00:22.0–00:31.0
@@ -85,7 +85,7 @@ save chatgpt claude gemini history locally, ai chat history search extension, ex
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:07] (00:00–00:04.5): Need a better way to handle saving and searching your AI conversations and prompts, without handing your data to another monthly cloud landlord?
+[00:00 - 00:07] (Scene): Need a better way to handle saving and searching your AI conversations and prompts, without handing your data to another monthly cloud landlord?
 [00:07 - 00:18] (00:04.5–00:11.0): Watch Chronicle in action: Search every prompt, code snippet, and answer across ChatGPT, Claude, and Gemini simultaneously from one browser side panel in milliseconds.
 [00:18 - 00:35] (00:11.0–00:22.0): No manual copy-pasting or clip buttons required. Chronicle saves your active threads automatically in the background while you focus on your work. Plus, export any conversation—complete with preserved code blocks and headings—directly to Obsidian, Notion, or your local hard drive.
 [00:35 - 00:44] (00:22.0–00:31.0): Your proprietary code, research, and company prompts never touch an external sync server. Everything stays sealed inside your local browser profile.

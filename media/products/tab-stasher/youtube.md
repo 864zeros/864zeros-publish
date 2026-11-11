@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:07 00:03.8–00:09.5
 00:13 00:09.5–00:16.5
 00:21 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:07] (00:00–00:03.8): Tired of stashing research tab windows with context notes for later getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:07] (Scene): Tired of stashing research tab windows with context notes for later getting locked behind monthly subscriptions and external cloud portals?
 [00:07 - 00:13] (00:03.8–00:09.5): With Tab Stasher, Per-Window & Per-Tab Context Annotations runs right where you already work.
 [00:13 - 00:21] (00:09.5–00:16.5): Explicit User-Commanded Window Stashing and One-Click Clean Markdown Research Export—100% under your own custody.
 [00:21 - 00:30] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat stashing research tab windows with context notes for late
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:07 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:37 00:22.0–00:31.0
@@ -85,7 +85,7 @@ save browser window with notes per tab, export open chrome tabs to markdown with
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:07] (00:00–00:04.5): Need a better way to handle stashing research tab windows with context notes for later, without handing your data to another monthly cloud landlord?
+[00:00 - 00:07] (Scene): Need a better way to handle stashing research tab windows with context notes for later, without handing your data to another monthly cloud landlord?
 [00:07 - 00:19] (00:04.5–00:11.0): Watch Tab Stasher in action: Name the whole stashed window ("Q4 Tax Prep" or "Auth Bug Investigation") and jot a specific note under any individual tab so context never evaporates.
 [00:19 - 00:37] (00:11.0–00:22.0): Not an aggressive background tab killer that breaks active forms. Park a window intentionally when you switch projects and restore it when you return. Plus, turn any stashed window—complete with tab titles, URLs, and your personal annotations—into a formatted Markdown checklist for Obsidian or GitHub PRs.
 [00:37 - 00:46] (00:22.0–00:31.0): Use tristate checkboxes to reopen or export all tabs or just a selected subset—with zero cloud accounts and zero telemetry.

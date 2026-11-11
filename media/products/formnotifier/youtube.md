@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:23 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of routing conditional email notifications and receipts from Google Forms getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of routing conditional email notifications and receipts from Google Forms getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:14] (00:03.8–00:09.5): With FormNotifier, Answer-Based Conditional Email Routing runs right where you already work.
 [00:14 - 00:23] (00:09.5–00:16.5): 100% Watermark-Free Respondent Autoresponders and Dynamic {{Answer}} Tokens in Subject & Body—100% under your own custody.
 [00:23 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat routing conditional email notifications and receipts from
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:34 00:22.0–00:31.0
@@ -85,7 +85,7 @@ conditional email notifications google forms, send confirmation email to form re
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle routing conditional email notifications and receipts from Google Forms, without handing your data to another monthly cloud landlord?
 [00:08 - 00:18] (00:04.5–00:11.0): Watch FormNotifier in action: Route billing inquiries to Finance, urgent support tickets to Engineering, and regional leads to the matching sales rep automatically.
 [00:18 - 00:34] (00:11.0–00:22.0): Send instant confirmation receipts to the person who filled out your form with their submitted answers—and zero "Sent via Free Add-on" ad footers. Plus, personalize email subject lines, reply-to addresses, and HTML message bodies with any form field or submission timestamp.
 [00:34 - 00:42] (00:22.0–00:31.0): Tracks your remaining daily send capacity in real time and records a delivery timestamp for every notification right inside your response sheet.

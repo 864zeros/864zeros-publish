@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:07 00:03.8–00:09.5
 00:13 00:09.5–00:16.5
 00:21 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:07] (00:00–00:03.8): Tired of parking research tabs and freeing up browser memory getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:07] (Scene): Tired of parking research tabs and freeing up browser memory getting locked behind monthly subscriptions and external cloud portals?
 [00:07 - 00:13] (00:03.8–00:09.5): With DataNap, One-Click Deep Sleep Reclaims ~95% RAM runs right where you already work.
 [00:13 - 00:21] (00:09.5–00:16.5): Crash-Resistant Local Session Vault and Instant OneTab Import & Markdown Export—100% under your own custody.
 [00:21 - 00:30] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat parking research tabs and freeing up browser memory like 
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:07 00:04.5–00:11.0
 00:17 00:11.0–00:22.0
 00:34 00:22.0–00:31.0
@@ -85,7 +85,7 @@ onetab alternative local privacy, the great suspender safe alternative, browser 
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:07] (00:00–00:04.5): Need a better way to handle parking research tabs and freeing up browser memory, without handing your data to another monthly cloud landlord?
+[00:00 - 00:07] (Scene): Need a better way to handle parking research tabs and freeing up browser memory, without handing your data to another monthly cloud landlord?
 [00:07 - 00:17] (00:04.5–00:11.0): Watch DataNap in action: Put heavy background tabs to sleep natively without closing them or losing their place in your tab bar—and wake them instantly when you click back.
 [00:17 - 00:34] (00:11.0–00:22.0): Sweep a whole window of open tabs into a dated, searchable local list that survives browser updates, restarts, and system crashes. Plus, migrate years of saved OneTab links in one paste, and export any vaulted session to clean Markdown or JSON for Obsidian and local backups.
 [00:34 - 00:42] (00:22.0–00:31.0): Unlike free tab suspenders caught injecting tracking scripts, DataNap uses native browser APIs with zero outbound network permissions.

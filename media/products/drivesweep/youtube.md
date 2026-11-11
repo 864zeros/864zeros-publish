@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:07 00:03.8–00:09.5
 00:14 00:09.5–00:16.5
 00:22 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:07] (00:00–00:03.8): Tired of finding and cleaning duplicate files across Google Drive getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:07] (Scene): Tired of finding and cleaning duplicate files across Google Drive getting locked behind monthly subscriptions and external cloud portals?
 [00:07 - 00:14] (00:03.8–00:09.5): With DriveSweep, Exact Byte-Size & Filename Signature Matching runs right where you already work.
 [00:14 - 00:22] (00:09.5–00:16.5): Keep-Newest or Keep-Oldest Protection Rules and Safe Move-to-Trash (30-Day Restore Safety Net)—100% under your own custody.
 [00:22 - 00:31] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat finding and cleaning duplicate files across Google Drive 
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:18 00:11.0–00:22.0
 00:34 00:22.0–00:31.0
@@ -85,7 +85,7 @@ google drive duplicate file finder, remove duplicate files in google drive, clea
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle finding and cleaning duplicate files across Google Drive, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle finding and cleaning duplicate files across Google Drive, without handing your data to another monthly cloud landlord?
 [00:08 - 00:18] (00:04.5–00:11.0): Watch DriveSweep in action: Detects duplicate PDFs, videos, archives, and "Copy of" files across nested subfolders with zero external server indexing.
 [00:18 - 00:34] (00:11.0–00:22.0): Automatically preserve either the original master file or the most recently modified revision while sweeping redundant copies. Plus, never permanently destroys files behind your back. Swept duplicates move to your native Google Drive Trash and record a clickable restore link in Sheets.
 [00:34 - 00:42] (00:22.0–00:31.0): Every scan generates a clean Google Sheet report showing file paths, byte sizes, duplicate groups, and exact megabytes reclaimed.

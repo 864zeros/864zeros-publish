@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:15 00:09.5–00:16.5
 00:24 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of filtering daily priorities without drowning in a bloated task backlog getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of filtering daily priorities without drowning in a bloated task backlog getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:15] (00:03.8–00:09.5): With Signal2Noise, Hard-Capped 10-Item Capture & 2–4 Priority Lock runs right where you already work.
 [00:15 - 00:24] (00:09.5–00:16.5): Calm One-Line Priority Pill in Peripheral View and Instant Standup Copy & Plain-Text Download—100% under your own custody.
 [00:24 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat filtering daily priorities without drowning in a bloated 
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:36 00:22.0–00:31.0
@@ -85,7 +85,7 @@ steve jobs signal to noise daily task app, minimalist top 3 priority browser ext
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle filtering daily priorities without drowning in a bloated task backlog, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle filtering daily priorities without drowning in a bloated task backlog, without handing your data to another monthly cloud landlord?
 [00:08 - 00:19] (00:04.5–00:11.0): Watch Signal2Noise in action: Prevents task-list inflation by limiting today's list to 10 candidates and forcing you to choose the 2–4 high-leverage signals that actually move the needle.
 [00:19 - 00:36] (00:11.0–00:22.0): Collapse your side panel down to a quiet, always-visible priority pill so you never lose sight of your #1 task while switching tabs. Plus, copy your completed and active signals as clean plain text or Markdown in one click to paste straight into Slack, notes, or daily standups.
 [00:36 - 00:45] (00:22.0–00:31.0): No login walls, no gamified streak shaming, and zero usage telemetry. Your daily priorities stay 100% private inside your browser.

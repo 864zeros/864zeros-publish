@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:07 00:03.8–00:09.5
 00:13 00:09.5–00:16.5
 00:21 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:07] (00:00–00:03.8): Tired of keeping active visual sticky notes visible while browsing getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:07] (Scene): Tired of keeping active visual sticky notes visible while browsing getting locked behind monthly subscriptions and external cloud portals?
 [00:07 - 00:13] (00:03.8–00:09.5): With Focus Wall, Intentional 10-Note Cap Prevents Sprawl runs right where you already work.
 [00:13 - 00:21] (00:09.5–00:16.5): Drag-and-Drop Reordering & Warm Color Coding and Persistent Side-Panel Visibility Across Tabs—100% under your own custody.
 [00:21 - 00:30] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat keeping active visual sticky notes visible while browsing
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:07 00:04.5–00:11.0
 00:17 00:11.0–00:22.0
 00:32 00:22.0–00:31.0
@@ -85,7 +85,7 @@ browser side panel sticky notes extension, adhd visual working memory board, per
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:07] (00:00–00:04.5): Need a better way to handle keeping active visual sticky notes visible while browsing, without handing your data to another monthly cloud landlord?
+[00:00 - 00:07] (Scene): Need a better way to handle keeping active visual sticky notes visible while browsing, without handing your data to another monthly cloud landlord?
 [00:07 - 00:17] (00:04.5–00:11.0): Watch Focus Wall in action: Hard-bounded to 10 active sticky notes so your board stays a sharp working-memory aid instead of a chaotic wall of 200 forgotten cards.
 [00:17 - 00:32] (00:11.0–00:22.0): Group and prioritize your thoughts visually with tactile drag-and-drop cards and calm, high-contrast color palettes. Plus, unlike new-tab sticky note extensions that vanish when you open a site, Focus Wall stays docked right beside your active research or email.
 [00:32 - 00:40] (00:22.0–00:31.0): Copy any sticky note or export your entire board to a clean local text file anytime—with zero accounts and zero subscriptions.

@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:13 00:09.5–00:16.5
 00:21 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of clipping web research and articles into your local Markdown vault getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of clipping web research and articles into your local Markdown vault getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:13] (00:03.8–00:09.5): With VaultPilot, Precision Article-to-Markdown Extraction runs right where you already work.
 [00:13 - 00:21] (00:09.5–00:16.5): Interactive Viewport Marquee & Selection Capture and Direct-to-Vault Local Filesystem Writing—100% under your own custody.
 [00:21 - 00:30] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat clipping web research and articles into your local Markdo
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:20 00:11.0–00:22.0
 00:37 00:22.0–00:31.0
@@ -85,7 +85,7 @@ obsidian web clipper clean markdown local, clip webpage selection to obsidian va
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle clipping web research and articles into your local Markdown vault, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle clipping web research and articles into your local Markdown vault, without handing your data to another monthly cloud landlord?
 [00:08 - 00:20] (00:04.5–00:11.0): Watch VaultPilot in action: Strips navbars, popups, and tracking scripts automatically—producing deterministic Markdown with clean headings, code blocks, tables, and YAML frontmatter.
 [00:20 - 00:37] (00:11.0–00:22.0): Drag a marquee box around any architecture diagram, chart, or specific paragraph on a page to capture only the exact signal you need. Plus, saves `.md` files straight into your local Obsidian, Logseq, or Markdown folder on disk without bouncing through a third-party cloud bridge.
 [00:37 - 00:43] (00:22.0–00:31.0): Your internal wiki pages, competitive research, and personal knowledge base clips never leave your browser.

@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:15 00:09.5–00:16.5
 00:23 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of firing webhook notifications and API payloads from spreadsheet rows getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of firing webhook notifications and API payloads from spreadsheet rows getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:15] (00:03.8–00:09.5): With Sheet2Webhook, Zero Per-Task Quotas & Zero Polling Delays runs right where you already work.
 [00:15 - 00:23] (00:09.5–00:16.5): Audit Timestamp Column Prevents Duplicate Fires and Sealed Custom Headers & Bearer Token Support—100% under your own custody.
 [00:23 - 00:32] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat firing webhook notifications and API payloads from spread
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:19 00:11.0–00:22.0
 00:35 00:22.0–00:31.0
@@ -85,7 +85,7 @@ send webhook from google sheets on edit, google sheets to slack & discord webhoo
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle firing webhook notifications and API payloads from spreadsheet rows, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle firing webhook notifications and API payloads from spreadsheet rows, without handing your data to another monthly cloud landlord?
 [00:08 - 00:19] (00:04.5–00:11.0): Watch Sheet2Webhook in action: Dispatch 10 or 10,000 row updates straight from your Google Sheet to Slack, Discord, or your backend API without paying per-task middleware markups.
 [00:19 - 00:35] (00:11.0–00:22.0): Automatically stamps each dispatched row with the HTTP response code and timestamp so unrelated cell edits never spam your channel twice. Plus, configure custom Authorization headers and JSON payload mappings that stay privately inside your own Google Sheet properties.
 [00:35 - 00:43] (00:22.0–00:31.0): Fire webhooks only when specific conditions are met—such as when Status flips to "Approved" or Inventory drops below a threshold.

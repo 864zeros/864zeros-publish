@@ -30,7 +30,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 🌐 Explore the Full 864zeros Fleet: https://864zeros.com/products/
 
 ⏱️ Chapters:
-00:00 00:00–00:03.8
+00:00 The Daily Bottleneck
 00:08 00:03.8–00:09.5
 00:15 00:09.5–00:16.5
 00:26 00:16.5–00:22.0
@@ -40,7 +40,7 @@ While similar tools hide their features behind monthly subscriptions and lock up
 
 ### Verbatim Transcript (Quick Overview Short)
 ```text
-[00:00 - 00:08] (00:00–00:03.8): Tired of merging spreadsheet rows into printable Avery mailing and barcode labels getting locked behind monthly subscriptions and external cloud portals?
+[00:00 - 00:08] (Scene): Tired of merging spreadsheet rows into printable Avery mailing and barcode labels getting locked behind monthly subscriptions and external cloud portals?
 [00:08 - 00:15] (00:03.8–00:09.5): With SnapLabel, Sub-Millimeter Calibrated Avery Templates (Zero Drift) runs right where you already work.
 [00:15 - 00:26] (00:09.5–00:16.5): Built-In Scannable Code-128 Barcodes & QR Codes and Outputs Editable Google Doc + Print-Ready PDF—100% under your own custody.
 [00:26 - 00:35] (00:16.5–00:22.0): Software that lives where you do. No accounts, no tracking, and zero cloud rent—at 864zeros.com.
@@ -71,7 +71,7 @@ Similar products treat merging spreadsheet rows into printable Avery mailing and
 🌐 Compare Local-First Alternatives: https://864zeros.com/vs/
 
 ⏱️ Chapters:
-00:00 00:00–00:04.5
+00:00 The Daily Bottleneck
 00:08 00:04.5–00:11.0
 00:24 00:11.0–00:22.0
 00:39 00:22.0–00:31.0
@@ -85,7 +85,7 @@ print avery 5160 labels from google sheets, labelmaker & foxy labels alternative
 
 ### Verbatim Transcript (Full Product Demo)
 ```text
-[00:00 - 00:08] (00:00–00:04.5): Need a better way to handle merging spreadsheet rows into printable Avery mailing and barcode labels, without handing your data to another monthly cloud landlord?
+[00:00 - 00:08] (Scene): Need a better way to handle merging spreadsheet rows into printable Avery mailing and barcode labels, without handing your data to another monthly cloud landlord?
 [00:08 - 00:24] (00:04.5–00:11.0): Watch SnapLabel in action: Engineered with locked cell heights and margins for Avery 5160, 8160, 5163, 5167, and #10/DL envelopes so row 10 aligns as cleanly as row 1.
 [00:24 - 00:39] (00:11.0–00:22.0): Include crisp, scannable inventory barcodes or QR codes inside every merged label cell at zero extra tier cost. Plus, generates both a customizable Google Doc and a locked, print-calibrated PDF directly inside your Google Drive folder.
 [00:39 - 00:47] (00:22.0–00:31.0): Your customer mailing addresses, wedding guest lists, and warehouse SKUs never leave your Google account to render on an external server.
